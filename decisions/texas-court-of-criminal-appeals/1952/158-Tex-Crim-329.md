@@ -1,0 +1,51 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,098"
+decided: "1952-12-03"
+citations: ["158 Tex. Crim. 329"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Woodrow Seals."]
+source_url: "https://static.case.law/tex-crim/158/cases/0329-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2482649
+cites_cases: ["225 S.W. 2d 850", "3 Tex. App. 686", "4 Tex. App. 234"]
+---
+
+# Ex parte Seals
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The relator was convicted in the corporation court of the city of Houston under a complaint charging a primary offense of speeding; and, in order to enhance the punishment, a prior conviction of speeding was plead.
+Relator appealed this conviction to the county court at law, where he was again convicted and a capias pro fine issued. It is from confinement by virtue of such capias that relator applied to the criminal district court of Harris County for a writ of habeas corpus. The writ was granted; a hearing was had; the court remanded relator to custody; and he appealed.
+The ordinance under which relator was charged provides a maximum penalty Tor a first conviction of $200.00.
+Article 61, P. C., reads as follows:
+“If it be shown on the trial of a misdemeanor that the defendant has been once before convicted of the same offense, he shall on a second conviction receive double the punishment prescribed for such offense in ordinary cases, and upon a third or any subsequent conviction for the same offense, the.-punishment shall be increased so as not to exceed four times the penalty in ordinary cases.” -
+It will thus be seen that the maximum.penalty for the offense charged in the complaint under which relator was prosecuted, by operation of Article 61, P. C., was $400.00.
+The jurisdiction of a corporation court is limited to cases where the maximum fine that may be assessed does not exceed $200.00. Article 62, C. C. P.
+Since the corporation court did not have jurisdiction to try the offense charged, a judgment of conviction thereunder is void, and the relief prayed for should be granted.
+The judgment remanding relator is reversed, and the relátor is ordered discharged.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON state’s motion for rehearing.
+WOODLEY, Judge.
+Our attention is directed to the case of Ex parte Watson, 154 Tex. Cr. Rep. 167, 225 S.W. 2d 850 (1949) wherein we said:
+“The present state statute, Art. 827a, Sec. 8 of Vernon’s Ann. Tex. P.C., regulating the speed of vehicles in towns or villages, whether incorporated or not, allows no greater speed than 30 miles per hour. Article 827a, Sec. 9b provides a penalty for a violation of such article by a fine of not exceeding $50.00 for the first offense, and not exceeding $200.00 for the second offense and not exceeding $500.00 or imprisonment in the county jail not exceeding 60 days, or both such for each subsequent offense thereafter.”
+It is urged that the opinion in the Watson case is controlling, and we were therefore in error when we held on original submission that the corporation court did not have jurisdiction of the offense of speeding, a prior conviction being alleged for the purpose of enhancing the punishment.
+We now desire to acknowledge our error in Ex parte Watson, wherein we referred to Section 9b of Article 827a V.A.C.P. as providing the penalty for violation of Sec. 8 of said Article 827a relating to the speed of vehicles upon the public highways.
+Sec. 9b of said Article 827a provides the punishment for violation of Sec. 9a of Article 827a V.A.P.C. relating to warning signals by commercial vehicles and wreckers, and has no application to the speed laws.
+Sec. 15 of Art. 827a provides the punishment for violation of Sec. 8 of said Article relating to speed, as follows:
+“(a) It shall be unlawful and constitute a misdemeanor for any person to violate any of the provisions of this Act.
+“(b) Any person, corporation or receiver, who violates any provision of this Act shall, upon conviction, be punished by a fine of not more than Two Hundred Dollars ($200.00); for a second conviction within one (1) year thereafter such person, corporation or receiver, shall be punished by a fine of not more than Five Hundred Dollars ($500.00), or by imprisonment in the County Jail for not more than sixty (60) days, or by both such fine and imprisonment; upon a third or subsequent conviction within one (1) year after the second conviction such person, corporation or receiver shall be punished by a fine of not more than One Thousand Dollars ($1,000.00), or by imprisonment in the County Jail for not more than six (6) months, or by both such fine and imprisonment. Provisions hereof with respect to imprisonment shall not be applicable to corporations, but double the fines herein provided for may be imposed against them in lieu of imprisonment. As amended Acts 1931, 42nd Leg., p. 507, ch. 282, See. 11.”
+Under this statute, a second conviction for violation of the speed laws (if within one year) carries a fine of not to exceed $500.00, or imprisonment in jail, or both, and the corporation court is without jurisdiction thereof.
+As held by this court in Ex parte Watson, supra, an ordinance which defines substantially the same offense as a state statute but prescribes a greater or less, or different, penalty than that prescribed by statute is void.
+We reaffirm this holding but insofar as the opinion refers to Sec. 9b rather than Sec. 15 as the punishment applicable to the offense defined in Sec. 8 of Article 827a V.A.P.C., the case of Ex parte Watson, supra, is expressly overruled.
+The amendments of Sec. 8 of Art. 827a V.A.P.C. by Acts of the 47th Legislature, p. 817, ch. 506, Sec. 1, and by Acts of the 52nd Legislature, p. 589, ch. 346, Sec. 1, made no change in the penal provision contained in Section 15 of said Art. 827a V.A.P.C.
+We remain convinced that the corporation court was without jurisdiction of the offense charged in the complaint.
+This is true whether the punishment be held to be fixed by the ordinance and enhanced under Art. 61 P.C. as a second offense, for violation of the ordinance, or by Sec. 15 of Art. 827a V.A.P.C. for violation of the state speed law as defined in Sec. 8 of said Art. 827a V.A.P.C.
+The corporation court being without jurisdiction of the offense charged in the complaint, the county court acquired none by the appeal. Billingsley v. State, 3 Tex. App. 686; Uecker v. State, 4 Tex. App. 234.
+Appellant's right to discharge does not rest upon the validity or invalidity of the ordinance, nor of the state statute, and these questions need not be here further considered.
+The state’s motion for rehearing is overruled.
