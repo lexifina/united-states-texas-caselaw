@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,541"
+decided: "1961-06-21"
+citations: ["171 Tex. Crim. 269"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Melvin C. Metcalf v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2630977
+cites_cases: ["320 S.W. 2d 835"]
+---
+
+# Metcalf v. State
+
+## Majority (McDONALD, Judge.)
+
+McDONALD, Judge.
+Appellant was convicted in the county court of Shelby County for negligent homicide in the second degree, with punishment assessed at a fine of $150.
+The trial was to the court without a jury.
+The following facts are undisputed:
+Appellant was driving his automobile, at nighttime, on a public highway, from Center toward Logansport, Louisiana, in a northerly direction, and the other car, driven by a Mr. Smith, was coming toward Center in a southerly direction, at the time of the accident. The point of contact between the two cars occurred below the crest of a hill on the highway. The Smith car had crossed over the yellow stripe in Smith’s lane and on over to his left-hand shoulder of the road. The markings and tracks on the road showed that appellant’s car had left the hard-surface portion of the road at about the crest of the hill and off to the east shoulder of the road, before the contact, and there were tracks leading back toward the highway from appellant’s car.
+A small portion of the front of appellant’s car struck a small portion of the right-hand side of the Smith car. The deceased was in the front seat of the latter car, opposite the driver, and was killed as a result of the collision between the two cars.
+Highway patrolman Vinyard testified, without objection, that in making an investigation he was able to judge the speed of the two vehicles at the time of the accident, his opinion being that appellant’s car was traveling at about sixty miles per hour but that he doubted that the car in which the deceased was riding was moving at any appreciable speed.
+On cross-examination, Patrolman Vinyard testified, also without objection, that he was not able to say that the five miles an hour in excess of the fifty-five miles per hour legal speed limit at nightime was the cause of the accident. It was the witness’s testimony that he thought if appellant had been driving fifty-five miles per hour the accident resulting in death would have resulted just the same.
+The state’s other witness, Patrolman Clark, testified to substantially the same facts and expressed the same opinion as the first witness, Vinyard.
+The sole point of contention raised by appellant is the sufficiency of the evidence to sustain the conviction.
+The state’s attorney before this court points out in his brief that this case is controlled, as contended by appellant, by the case of Hubbard v. State, 167 Tex. Cr. Rep. 379, 320 S.W. 2d 835. The state does not here seek an affirmance.
+We agree with appellant’s able counsel and with our able state’s attorney that the Hubbard case, supra, controls, here.
+As shown by Judge Woodley’s opinion, it was alleged in the Hubbard case that appellant was driving thirty-five miles an hour in a thirty-mile zone at the time of the collision which resulted in the death of a passenger in the other car. The court stated in that case:
+“There is nothing in the record to suggest that the collision would not have occurred with the same results had the truck been traveling at thirty miles per hour instead of thirty-five. No other negligent act or omission on the part of appellant is shown save excessive speed.”
+Art. 1236, V.A.P.C., relating to negligent homicide, provides as follows:
+“The homicide must be the consequence of the act done or attempted to be done.”
+The evidence in the instant case being insufficient to sustain the conviction, the judgment is reversed and the cause is remanded.
