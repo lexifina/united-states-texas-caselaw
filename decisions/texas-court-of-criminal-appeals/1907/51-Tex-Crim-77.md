@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3475"
+decided: "1907-02-27"
+citations: ["51 Tex. Crim. 77"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sam Foster v. The State."]
+source_url: "https://static.case.law/tex-crim/51/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4550573
+cites_cases: ["36 Texas Crim. Rep., 318", "77 S. W. Rep., 444", "81 S. W. Rep., 737", "83 S. W. Rep., 703"]
+---
+
+# Foster v. State
+
+## Majority (BROOKS, Judge.)
+
+BROOKS, Judge.
+Appellant was convicted of murder in the second degree, the punishment being fixed at twenty-five years’ confinement in the penitentiary.
+Complaint is made of the following portion of the court’s charge upon manslaughter: “If you believe from the evidence beyond a reasonable doubt that the defendant with a deadly weapon or "an instrument reasonably calculated and likely to produce death by the mode and manner of its use, in a sudden transport of passion, aroused by adequate cause, as the same is herein explained, did shoot a pistol, and thereby kill Ed Persons (deceased) as charged in the indictment, you will find defendant guilty of manslaughter.” Appellant’s objections are that the charge omits the word “unlawfully” and omits to tell the jury that the accused must not have acted in his own self-defense. The statute defining manslaughter does not use the word “unlawful,” but says that ‘manslaughter is voluntary homicide committed under the immediate influence of sudden passion, arising from an adequate cause, but neither justified nor excused by law.’ We do not think that the omission of the word unlawful in the court’s charge could possibly have injured appellant, even conceding that the same was required. Hor do we think that the omission in the charge, to the effect' that the accused must not have acted in his own self-defense was error. The court properly presented the law of self-defense in all of its phases in a subsequent portion of the charge. Smith v. State, 13 Texas Ct. Rep., 948.
+In motion for new trial appellant complains that the court erred, to the prejudice of appellant in delivering a lecture to a hung jury in another case, in the presence of the jury trying this appellant. The bill of exceptions presenting this matter shows that, during the progress of this trial, the jury in another case had been hung for sometime, and the judge had said jury brought into court and discharged them. Before doing so, however, the court gave the jury a long lecture about the necessity of juries agreeing upon verdicts, and laying great stress upon such necessity, citing the great expense of trials, and the utter inability of the courts to dispose of the business before the courts, unless the juries would agre.e upon verdicts. There was no suggestion in the lecture by the court as to how they should decide the case, but a proper insistence that verdicts should be rendered and that juries should agree. Appellant and his counsel were present during the delivery of this lecture to the jury; and no complaint was made thereto until after the jury had been discharged, and the trial of this case had been renewed. When the jury in this case retired, they voted eleven for conviction on the first ballot. The fact is that the lecture was alluded to, but it was subsequent to the ballot for conviction, and all of the jurors swore that it did not influence them in making up their verdict. We do not believe that this injured appellant. While such lectures should not be delivered in the presence of the jury 'trying the case, yet we cannot-say, in the light of this record, it was calculated to or did injure appellant.
+Appellant complains further of the misconduct of the jury, in that they discussed about appellant being a bad negro and having spit in a man’s face. The occasion of this discussion grew out of the cross-examination by the county attorney of appellant. He asked appellant, if that was not true. The objection was sustained by the court. The court, at the instance of appellant expressly charged the jury not to regard the cross-examination on the line suggested by State’s counsel; and the jurors stated that it did not influence them in making up their verdict. In the light of the special charge of the court and the affidavits of the jurors, we can not say that this conduct of the jury in any way injured appellant.
+There are various criticisms of the court’s charge, but taken as a whole we think it properly presents the law of this case to the jury. The evidence amply warrants the verdict of the jury, since the facts show, from the State’s standpoint, that deceased shot the companion of appellant down, and while fleeing from the presence of appellant and endeavoring to get into a buggy, he was shot and killed by appellant. The evidence on the part of the State further suggests, that appellant, in part at least, brought about the difficulty, or was the guilty participant in bringing it about. It is true that appellant claimed that he shot in defense of himself and companion, but the jury have passed upon this phase of the question, and decided it against appellant under proper charges. No error appearing in the record, the judgment is affirmed.
+Affirmed.
