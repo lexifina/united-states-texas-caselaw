@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,394"
+decided: "1962-04-18"
+citations: ["172 Tex. Crim. 247"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Procell v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2642444
+cites_cases: ["117 S.W. 2d 107", "135 Texas Cr. Rep. 3", "159 Texas Cr. Rep. 351", "264 S.W. 2d 108", "330 S.W. 2d 538"]
+---
+
+# Procell v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is the unlawful sale of beer in a dry area; the punishment, 30 days in jail and a fine of $250.
+The information alleges that the sale was made in Nacogdoches County, a dry area.
+The state concedes that there is. no proof that said County was a dry area, without which the conviction cannot stand. Hargiss v. State, 330 S.W. 2d 538; Smith v. State, 159 Texas Cr. Rep. 351, 264 S.W. 2d 108; Brown v. State, 135 Texas Cr. Rep. 3, 117 S.W. 2d 107.
+The state’s brief also points out that there is no proof of the sale except by a statement of the appellant before a grand jury.
+The evidence being insufficient to sustain the conviction, the judgment is reversed and the cause remanded.
