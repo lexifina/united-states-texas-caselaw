@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2102"
+decided: "1913-01-22"
+citations: ["69 Tex. Crim. 184"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. H. Perry v. State."]
+source_url: "https://static.case.law/tex-crim/69/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4653227
+cites_cases: ["106 S. W. Rep., 685", "108 S. W. Rep., 389", "113 S. W. Rep., 921", "132 S. W. Rep., 806", "52 Texas Crim. Rep., 273", "52 Texas Crim. Rep., 563", "54 Texas Crim. Rep., 579", "60 Texas Crim. Rep., 530", "77 S. W. Rep., 444"]
+---
+
+# Perry v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+Appellant appeals from a conviction for murder in the second degree with a penalty of ten years in the penitentiary.
+The only questions presented for review are as to the examination of appellant’s wife on cross-examination by the State, she having been introduced as a witness by appellant; and the proof of what she testified before the justice of the peace when he held an inquest over the body of the deceased. The questions are all raised by appellant’s four bills of exceptions. The first of these is as follows:
+“Be it remembered that on the trial of the above numbered entitled cause the State was permitted to prove by the witness, S. E. Rhodes, a witness for the State, that Mrs. Perry, the wife of the de~ fendant, who had testified in behalf of the defendant on said trial, had made a written statement at the inquest over Boney, with whose murder her husband was charged, which written statement contradicted her testimony on the" trial of her said husband.” The balance of this bill is the mere objections and is not approved by the court as. a statement of the facts.
+The second bill complains that “the State was permitted to prove by the witness, John Grissett, a witness for the State, that Mrs. Perry, the wife of the defendant, who had testified in behalf of the defendant on the trial of said cause, had made a Written statement at the inquest over Boney, with whose murder her husband was charged, which written statement contradicted her testimony on the trial of her said husband.” The balance of this bill is the mere objections, not approved as a statement of- the facts by the court. \ .
+The next bill complains that “the court permitted the witness, S. E. Rhodes, over the objection of the defendant, to testify that the wife of the defendant, Mrs. Perry, who had testified for the defendant in said trial, had made a written statement at the inquest held over Boney, with whose murder the defendant stands charged, and for whose murder he was then on trial, and that in said statement she had testified that Boney was unarmed at the time he was shot and killed by her said husband. ’ ’ The balance of the bill is the mere objections of appellant to this testimony.
+The other bill is substantially the same as the last just above, except that it is to the testimony of the witness Grissett. In approving these last two bills the court explained that this tesimony was introduced solely for impeachment purposes.
+Each and all of these bills, under all of the authorities, are too general to require this court to consider either of them. If we could go to the record we would find that appellant introduced his wife as a witness in his behalf, who gave material testimony for him and directly against the State in contradiction of the testimony introduced by the State by other witnesses and that, among other things, she testified on this trial that the deceased, Boney, was armed and had his gun with him at the time her husband killed the deceased, and that she was asked specifically on cross-examination by the State on this point; that while she testified before the justice of the peace at the inquest the day her husband killed Boney and denied then swearing that Boney did not have any weapons of any kind, that she saw, when her husband killed him, and that she did not swear on that occasion that Boney did not have a thing that she saw when her husband shot him, and that John Grissett was not present, and that she did. not so swear before the justice of the peace in John Grissett’s presence; that the State was then permitted to introduce Rhodes, the said justice of the peace, and he testified on the inquest she swore that she saw the killing and that Boney, the deceased, did not have any weapon of any kind that she saw at the time of the killing. And permitted John Grissett to swear that he was present when she testified before the justice of the peace on the day Boney was killed and that in his presence and hearing she stated to the justice of the peace that if Boney had any weapon of any kind at the time he was killed she did not see it. That this testimony by Rhodes and Grissett in impeachment of appellant’s wife was admissible, there can be no question.
+While it was shown that at this inquest Mrs. Perry testified before the justice of the peace and he wrote down and she signed her testimony at the time and it was further sufficiently shown that this written testimony of hers had been lost and could not be found, yet, the State did not attempt to .prove the contents of such written statement. What the State did prove in contradiction of her testimony was not what the written statement contained but that she so testified before him on said inquest proceedings. The record does not disclose at whose instance she testified on this inquest proceeding, whether introduced by the appellant or by the State. No objection was made by appellant when the State, on this trial, in its cross-examination, asked her if she had not so testified as shown by the justice of the peace and Gris-sett on the inquest proceeding. None of these bills and no assignment of appellant, based thereon, show any reversible error whatever.
+These are the only things presented by appellant in his assignments and the judgment will be affirmed.
+Affirmed.
