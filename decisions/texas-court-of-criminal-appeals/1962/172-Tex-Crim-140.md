@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,258"
+decided: "1962-03-07"
+citations: ["172 Tex. Crim. 140"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Caballero v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2637752
+cites_cases: ["114 Texas Cr. Rep. 602", "145 Texas Cr. Rep. 15", "145 Texas Cr. Rep. 34", "153 Texas Cr. Rep. 422", "158 Texas Cr. Rep. 623", "165 S. W. 2d 460", "165 S.W. 2d 744", "220 S.W. 2d 647", "259 S.W. 2d 225", "26 S.W. 2d 206", "37 Texas Cr. Rep. 113", "38 S.W. 802", "48 Texas Cr. Rep. 648", "90 S.W. 34"]
+---
+
+# Caballero v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+Upon his plea of guilty before the court, a jury being waived, appellant was found guilty of assault with intent to murder with malice, and assessed a punishment of 15 years.
+By agreement the case was tried jointly with two other felony charges against appellant, one for burglary and the other for felony theft, and the record shows that appellant was under a 10 year sentence when these cases were tried.
+The trial judge did not see fit to follow the recommendation of the assistant district attorney prosecuting the case, that the punishment be assessed at 10 years in each of the three cases, but assessed the 15 year term appealed from and assessed a 5 year term in each of the other cases. The appeal is from the conviction for assault with intent to murder only.
+None of the sentences were cumulated.
+The trials being joined, we overrule the state’s contention that the statement of facts should not be considered because it is combined with the statement of facts in the other cases jointly tried.
+By agreement of appellant and his counsel, the state introduced in evidence the testimony of Laymon Matthews, the injured party named in the indictment, given at the examining trial, which includes the following.
+Matthews lost his way and drove onto a dead end street shortly before midnight. Before he got back to the intersection his car stopped and, because the battery was dead, he was unable to start it, so he walked to the intersection where he encountered appellant and his two companions who asked him what was wrong.
+Matthews told them his car would not start, and appellant’s companion George Hermosillo, Jr., said they would give him a push if he would take them home. The four then went to the car and began to push, Matthews on the left at the open car door, appellant on the opposite side and his companions in the rear-Appellant and his companions were talking in Spanish, which Matthews did not understand.
+Appellant then came around behind Matthews and put a knife in his back. Matthews did not see the knife but testified that he knew “it was a small blade”.
+Matthews further testified that appellant struck him three times with the knife; stabbed him; pulled it out and hit again, and he (Matthews) ran to the intersection and appellant ran after him; “I ran so fast he stumbled. He lost hit hat. I ran to a policeman. I didn’t see them after that.”
+Matthews further testified that appellant stabbed him in the back and in his side, around his spleen, as a result of which he was taken to a hospital where an anesthetic was administered and where he remained for 8 days.
+Where there is no evidence to show that the weapon used was a deadly weapon per se, the intent of the party making the assault may be arrived at from the surrounding facts. “If it were possible that death might have been inflicted by the weapon, and the defendant intended to take life, though the weapon was not a deadly weapon, still he might be guilty of an assault with intent to murder.” Franklin v. State, 37 Texas Cr. Rep. 113, 38 S.W. 802, 1016. See also Jackson v. State, 48 Texas Cr. Rep. 648, 90 S.W. 34, cited with approval in Basquez v. State, 114 Texas Cr. Rep. 602, 26 S.W. 2d 206; Amman v. State, 145 Texas Cr. Rep. 34, 165 S.W. 2d 744; King v. State, 153 Texas Cr. Rep. 422, 220 S.W. 2d 647; and Moseley v. State, 158 Texas Cr. Rep. 623, 259 S.W. 2d 225.
+From all the facts and circumstances, the trial judge was authorized to conclude that appellant intended to kill Matthews, as he confessed by his plea of guilty, and was making fair progress toward the accomplishment of that end by use of the knife when he was interrupted by Matthews’ flight and his inability to overtake him before he reached an officer.
+There was no evidence showing or tending to show that appellant was not guilty of the offense charged, as was the case in Burks v. State, 145 Texas Cr. Rep. 15, 165 S. W. 2d 460.
+The evidence is deemed sufficient to sustain the conviction upon appellant’s plea of guilty, and we find no error.
+The judgment is affirmed.
