@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,268"
+decided: "1955-01-12"
+citations: ["160 Tex. Crim. 640"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alpheus Dewey Jones, Jr. v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0640-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2470901
+cites_cases: ["203 S.W. 2d 539", "218 S.W. 2d 190"]
+---
+
+# Jones v. State
+
+## Majority (DAVIDSON, Judge)
+
+DAVIDSON, Judge
+This is a conviction for negligent homicide of the second degree. The unlawful act relied upon as constituting that offense is the driving, while intoxicated, of a motor vehicle upon a public highway.
+The information contains the other and requisite allegations necessary to constitute the offense of negligent homicide, including the allegation of negligence and carelessness and of the death of the deceased caused thereby.
+The punishment was assessed at a fine of $75 and six months in jail.
+At the outset, we are confronted with the contention that the misdemeanor offense of drunken driving may not be utilized and relied upon as the unlawful act constituting negligent homicide of the second degree.
+By Art. 802c, Vernon’s P. C., it is a felony for an intoxicated driver of an automobile to kill another person by accident or mistake. Being a felony, such crime could not be prosecuted as the misdemeanor offense of negligent homicide of the second degree. McCarthy v. State, 153 Texas Cr. R. 149, 218 S.W. 2d 190; Flowers v. State, 150 Texas Cr. R. 467, 203 S.W. 2d 539.
+The judgment is reversed and the prosecution ordered dismissed.
