@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "7734"
+decided: "1892-05-04"
+citations: ["31 Tex. Crim. 22"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tom Garner v. The State."]
+source_url: "https://static.case.law/tex-crim/31/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 156103
+---
+
+# Garner v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Omitting formal parts, the indictment charges that “ Tom Garner, on the 24th day of August, A. D. 1889, in the county and State aforesaid, did in the nighttime commit the offense of burglary, by then and there discharging firearms, to-wit, a pistol, into the house of John Burton, with the intent then and there of committing a felony, to-wit, he, the said Garner, did then and there, with malice aforethought, discharge said pistol into said house with the intent then and there to kill and murder John Burton, Oliver Williams, Eddie Woods, Wilson White, and Vina Tutson, the said White, Williams, Burton, Woods, and Tutson then and there being in said house; and he, the said Garner, did then and there shoot and wound the said White, Williams, Woods, and Tut-son, the said house then and there being situated in said county, and then and there controlled and occupied by the said John Burton as a dwelling house; and he, the said Garner, did then and there shoot and discharge said pistol into said house, as aforesaid, without the consent of the said Burton or any one else then and there authorized to give consent,” etc.
+Appellant moved to quash the indictment, “ because it is attempted to charge burglary by shooting into a house with the intent to commit the offense of assault with intent to murder certain persons then in the house, and said indictment attributes the malice aforethought to the shooting into the house, and not to the intent to kill the persons then in said house.” This motion was overruled by the court, and defendant excepted.
+It will be observed that the indictment in this case charges a burglary with intent to commit the offense of assault with intent to murder, and in alleging the felony intended to be committed the pleader used the term “ malice aforethought.” In charging the offense of assault with intent to murder, it is well settled in this State, that it is not necessary to allege that such assault was made with malice aforethought. Mills v. The State, 13 Texas Ct. App., 487; Gordon v. The State, 23 Texas Ct. App., 219. The term 1 ‘ malice aforethought,” therefore, in this indictment, maybe treated as surplusage. But, if it be admitted that this position is incorrect, then it is evident from the reading of the indictment that the term “malice aforethought” applies to that portion of the indictment which charges the intent of the defendant in shooting into the house to kill and murder the occupants therein, and not to the house itself. The indictment is not obnoxious to this ground of the motion to quash.
+The indictment fails to allege in specific terms that appellant did break and enter the house alleged to have been burglarized. The allegation, in substance, is that the defendant did, in the nighttime, commit the offense of burglary, by discharging firearms into the house. In an ordinary indictment for burglary committed in the nighttime it is unnecessary to allege that the entry was made by means of a breaking. It is only essential to charge an actual breaking where the offense was committed in the daytime. Summers v. The State, 9 Texas Ct. App., 396. The allegation that the entry was by force would be sufficient for a nighttime breaking. Penal Code, art. 704; Willson’s Crim. Stats., sec. 1220; Carr’s Case, 19 Texas Ct. App., 635.
+Our statute (Penal Code, article 706) expressly declares that it is not necessary that there should be any actual breaking, except when the entry is made in the daytime. Such being the case, the burglary in this case being at nighttime, it was not essential to its validity that a breaking should have been alleged. The offense intended to be charged was a burglary committed at night, and constituted by the discharge of firearms into the house, with intent to kill and murder the persons therein. Article 707 of our Penal Code, defining what constitutes an entry in burglary, declares that “ it may be constituted by the discharge of firearms or other-deadly missile into the house, with intent to injure any person therein.” Under this provision of the statute, to discharge firearms into a house with intent to injure any person therein is per se burglary, and constitutes all the force and entry that is necessary and essential to that crime.
+Our conclusion is, that the indictment in this case is not defective, for the reasons stated by appellant’s counsel in his motion to quash; and we are further of opinion, that it sufficiently charges a burglary by the discharge of firearms into a house with intent to injure the persons therein. The indictment is in substantially the same language as that used for a similar offense in the case of Searcy v. The State, 1 Texas Court of Appeals, 440, and which indictment was pronounced to be good by the opinion of the court in that case—its validity and sufficiency having been questioned on appeal. Judgment affirmed.
+Affirmed.
+Judges all present and concurring.
