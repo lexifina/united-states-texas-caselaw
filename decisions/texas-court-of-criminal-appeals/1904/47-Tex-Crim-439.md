@@ -1,0 +1,21 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2958"
+decided: "1904-12-14"
+citations: ["47 Tex. Crim. 439"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Denson v. The State."]
+source_url: "https://static.case.law/tex-crim/47/cases/0439-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4534148
+---
+
+# Denson v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted under an indictment charging him as an accomplice to Tom Jenkins, alleged to be the principal, in the burglary of a house owned by Edwards. There are several questions of more or less interest suggested for revision; but under the view we take of the record it is not necessary to review them. It is sufficient for a disposition of this case to notice the assignment suggesting the insufficiency of the evidence to support the conviction. The State relied upon the testimony of Tom Jenkins, Homer Smith and Lottie Jenkins to connect defendant with the transaction as an accomplice. Tom Jenkins and Homer Smith made themselves particeps criminis, and Lottie Jenkins was introduced to corroborate. Tom Jenkins’ testimony is to the effect that appellant on four occasions came to his residence, called him out and had an extended conversation each time, in which appellant urged witness Jenkins to steal oats from Edwards’ house, and sell them to him (appellant) at a reduced price. No one heard what occurred between appellant and Tom Jenkins. Tom said that at the end of each conversation when they were about to separate, appellant would say, “Now Tom, be sure and don’t forget to get that what I told you.” This remark was a little louder than any other portion of the conversation. Lottie Jenkins was introduced to corroborate Tom, and she testified that on two occasions she heard appellant make this remark to Tom as they were separating. She further testified that her husband brought oats to their residence at night, and on two occasions subsequently sold them to appellant. If there is any corroboration in this record as to the fact that appellant advised Tom to commit the burglary, it is found in the above statement. So far as the witness Lottie Jenkins’ testimony is concerned, the remark she heard may have referred to any matter as well as to the commission of the burglary. She testified positively she heard no part of the conversation between them) except this remark. This is not a corroboration of any advice that appellant may have given, if in fact he gave any, to Tom Jenkins to commit burglary. .She heard nothing in regard to the burglary of Edwards’ house or theft of oats, and had no knowledge of what matter this remark of appellant could have referred. Conceding that she is not an accomplice, and that the testimony did not call for a charge on that phase of the law in regard to her testimony, there is an utter lack of corroboration to sustain her husband in regard to appellant advising Jenkins to burglarize the Edwards’ house. It is not necessary perhaps to go into a detailed statement of the testimony to show that if Tom committed the burglary and the thefts of the oats as the fruit of that burglary, that his wife was an accomplice—at least the testimony places her in such position to the oats after they were taken and the disposition of them that it required the court to submit that phase of the law to the jury in regard to her testimony. Eliminating Tom Jenkins’ and Homer Smith’s testimony, there is not a fact we have been able to discover showing appellant had any connection with Tom criminally, before the burglary and consequent theft of the oats. It is conceded that appellant bought oats from Tom Jenkins, but the testimony is very slight, if any at all, to show that he knew these oats had been stolen at the time he bought them. But he is not charged with receiving and concealing stolen property.. The accusation is, that he was an accomplice to the alleged principal, Tom Jenkins. The record, in our judgment, fails to show any corroboration of Jenkins as to the charge contained in the indictment. Because the evidence is not sufficient to justify this conviction, the judgment is reversed and the cause remanded.
+Reversed and remanded.
