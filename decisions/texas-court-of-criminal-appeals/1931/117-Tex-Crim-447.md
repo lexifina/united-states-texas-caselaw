@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "13712"
+decided: "1931-03-18"
+citations: ["117 Tex. Crim. 447", "36 S.W.2d 751"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lee Whatley v. The State."]
+source_url: "https://static.case.law/tex-crim/117/cases/0447-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5190828
+cites_cases: ["133 S. W. 1045", "133 S. W., 1045", "45 Tex. Cr. R. 348", "45 Texas Crim. Rep., 348", "48 Tex. Cr. R. 439", "48 Texas Crim. Rep., 439", "61 Tex. Cr. R. 51", "61 Texas Crim. Rep., 51", "76 S. W. 565", "76 S. W., 565", "88 S. W. 341", "88 S. W., 341"]
+---
+
+# Whatley v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+• — • Conviction for murder; punishment, twenty-eight years in the penitentiary.
+Appellant and deceased were good friends; their places of business were about a block and a half apart, and each regularly patronized the other. The wife of appellant was employed to drive a car for the wife of deceased. The latter came into appellant’s place one day some little time before this homicide, and told appellant that his wife and her husband were too friendly with each other. Later both deceased and appellant’s wife seem to have made explanations to appellant which were accepted by him. Appellant’s wife sued him for a divorce some weeks before the killing. On the afternoon of the homecide about 5 o’clock appellant and one Roberts walked into the restaurant kept by deceased, and appellant drew a pistol, said to deceased “I am going to kill you,” and shot deceased some five times. Appellant emptied the automatic pistol had by him, killing another man and wounding still another. A police officer who had seen appellant and Roberts walk down the street and heard the shooting, came at once and appellant surrendered to him, telling him that deceased had broken up his home. Appellant testified that Roberts came into his barbershop about 5 o’clock, and in the course of a conversation he, appellant, said to Roberts that it did not look like things were going right, — that he thought deceased had come between him and his wife. He further testified that Roberts then said to him that he and his wife had seen deceased and appellant’s wife riding together in east Waco, and that Roberts said he would stand by him. Appellant got the automatic pistol, which had been left in the shop by a customer, and he and Roberts walked at once over to the restaurant of deceased where the killing immediately occurred. We find nothing in the record showing any motive for the killing, save the one claimed and testified to by appellant, viz: that he believed deceased had come between him and his wife and caused their separation.
+Appellant wanted to proved by McAthan that he was frequently at appellant’s barbershop prior to the homicide and after the divorce suit was instituted by appellant’s wife, and that he heard appellant on each occasion talking of the divorce, and of his belief that a man' who was a friend of his had broken up his home, and that at such times appellant appeared greatly disturbed and concerned over the matter. The state of mind of one accused of felonious homicide is specifically made a point of consideration for the jury by Article 1257a of our Penal Code, which is a part of the new law of murder as enacted by Chapter 274 (section 2), Acts Regular Session, 40th Legislature (1927). It seems held that such testimony as that sought to be introduced if relating to a matter reasonably near to that of the homicide, would be relevant as showing the state of mind of the appellant at the time. Cole v. State, 48 Texas Crim. Rep., 439, 88 S. W., 341; Burnam v. State, 61 Texas Crim. Rep., 51, 133 S. W., 1045; Poole v. State, 45 Texas Crim. Rep., 348, 76 S. W., 565. We think the learned trial judge fell into error in refusing to hear this testimony.
+We have examined each of the other bills of exception in the record and think them not to reflect error, except that we are of opinion the court should have granted a new trial because of the showing in regard to newly discovered evidence. The trial court seems to have declined to grant this upon the hypothesis that the newly discovered testimony was cumulative of that of a witness who testified on the trial. It is true that a Mrs. Swift testfied that she had seen deceased and appellant’s wife go together into a room at a rooming house, which room was rented by deceased, and after locking the door, remain in said room thirty or forty minutes. It is also true that this is substantially the testimony of the newly discovered witness. We observe, however, that Mrs. Swift, the witness who testified to these facts upon this trial, was impeached by the State, which introduced witnesses to testify that her reputation for truth and veracity was bad. In such case we would not be inclined to apply the rule with reference to cumulative testimony when the newly discovered witness is free from the taint which attached to the witness who was present and gave testimony.
+•The judgment will be reversed and the cause remanded.
+Reversed and remanded.
