@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,018"
+decided: "1958-10-29"
+citations: ["166 Tex. Crim. 595"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lawrence Paul Davis v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0595-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2619676
+---
+
+# Davis v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The appellant plead guilty to the offense of assault with intent to rob, and his punishment was assessed at five years; the execution of sentence was suspended; appellant was placed on probation, and he brings this appeal.
+The injured party testified that the appellant entered his cafe, pressed what appeared to be a pistol against his ribs, and demanded his money, but that the appellant finally left without taking anything.
+Appellant’s confession was introduced in evidence in which he relates that while drinking he removed the replica of a pistol from a Lone Star beer sign, began to think about making some money, went to the injured party’s cafe, where he “showed him the gun and told him that I wanted his money.” It recites further that, after the injured party told him of sickness in his family, he told the injured party it looked like he needed the money more than he (the appellant) did and left.
+The appellant testified that he had never before been convicted of a felony.
+We shall discuss the contentions advanced in the brief which are supported by the record.
+We find in the transcript a motion to dismiss the prosecution, but it is not shown to have been submitted to the court; no ruling thereon appears in the record, and the same need not be discussed.
+Appellant’s confession fully establishes the offense of assault with intent to rob; the appellant testified and did not deny any of the recitations in the confession. This, taken with the testimony of the injured party that he thought the appellant to be armed and “there was no telling what he might do with it,” we deem sufficient evidence to support the plea of guilty.
+Appellant’s next complaint relates to the alleged illegality of his arrest, which he contends rendered the confession inadmissible. Officer McCuiston testified that while standing across the street from the cafe of the injured party he saw a number of policemen about the cafe and the injured party, who was present, pointed to the appellant and said, “That is the man that held me up walking across the street.” This constituted sufficient justification for the appellant's arrest. Article 215, V.A. C.C.P.
+Finding no reversible error, the judgment of the trial court is affirmed.
