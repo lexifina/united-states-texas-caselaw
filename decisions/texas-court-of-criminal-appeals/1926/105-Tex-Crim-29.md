@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "10127"
+decided: "1926-04-21"
+citations: ["105 Tex. Crim. 29", "285 S.W. 312"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joe Driver v. The State."]
+source_url: "https://static.case.law/tex-crim/105/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5125503
+cites_cases: ["17 S. W. 428", "21 Tex. App. 308", "24 S. W. 100", "24 S. W. 102", "24 S. W. 899", "24 S. W. Rep. 899", "241 S. W. 484", "242 S. W. 218", "250 S. W. 703", "252 S. W. 508", "255 S. W. 415", "26 S. W. 194", "270 S. W. 1021", "281 S. W. 1049", "32 Tex. Cr. R. 431", "32 Tex. Cr. R. 505", "32 Tex. Crim. Rep. 431", "32 Tex. Crim. Rep. 505", "33 Tex Crim. Rep. 281", "33 Tex. Cr. R. 281", "40 Am. St. Rep. 786", "47 Am. St. Rep. 30", "91 Tex. Cr. R. 582", "92 Tex. Cr. R. 147", "94 Tex. Cr. R. 317", "94 Tex. Cr. R. 533", "94 Tex. Crim. Rep. 317", "95 Tex. Cr. R. 571", "99 Tex. Cr. R. 551", "99 Tex. Crim. Rep. 551"]
+---
+
+# Driver v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Conviction in the District Court of Angelina County of transporting intoxicating liquor, punishment fixed at one year in the penitentiary.
+The facts show, from the State’s standpoint, that there were three fruit jars of whiskey in the front seat of appellant’s car, which was being watched by officers. They testified that he came to the car, looked all around, then walked around, came back, moved the whiskey so as to make room for himself on the seat, then got in the car and started to drive away, and that when he had gone about sixty feet he was stopped and arrested. These facts make out a case of transportation of intoxicating liquor. Tullos v. State, 99 Tex. Crim. Rep. 551; Wade v. State, opinion April 14, 1926.
+There is but one bill of exceptions in which appellant complains because the State was allowed to introduce against him a complaint and information charging him with misdemeanor theft. Appellant took the witness stand in his own behalf. On cross-examination he was asked with reference to his being indicted for stealing, and having pending against him at the time of this trial, in the County Court of the county, a theft case. His answers were evasive. In its rebuttal, as appears both from the court’s qualification of said bill and from the statement of facts, the state introduced the complaint and information charging him with misdemeanor theft in the County Court of Angelina County. The action of the court in permitting this was proper. Chambless v. State, 24 S. W. Rep. 899; Carroll v. State, 32 Tex. Crim. Rep. 431; Goode v. State, 32 Tex. Crim. Rep. 505; Lights v. State, 21 Tex. Crim. App. 308; Jackson v. State, 33 Tex Crim. Rep. 281. See Branch’s Annotated P. C., Sec. 167, where many authorities are cited supporting the proposition. Appellant insists in his able brief that the evidence was not admissible as affecting his right to a suspended sentence. We do not infer from the record that it was offered for such purpose. Nothing appears in the court’s charge which could be construed as directing the jury to consider said testimony for the purpose of affecting the right of the accused to such suspended sentence. Appellant cites many authorities which would seem to support his contention if such had been the purpose of the testimony. Johnson v. State, 241 S. W. Rep. 484; Brown v. State, 242 S. W. Rep. 218; Burns v. State, 252 S. W. Rep. 508; Lovelady v. State, 255 S. W. Rep. 415. In Johnson v. State, supra, after holding inadmissible proof of specific acts of misconduct as affecting the right of the accused to suspended sentence, speaking through Judge Hawkins, this court said:
+“We are not discussing evidence elicited on cross-examination of an accused who may have filed an application for suspended sentence with reference to offenses of which he may have been convicted or legally charged involving moral turpitude as affecting his credibility as a witness.
+“We apprehend that evidence of the pendency of the theft case was admitted for the purpose of affecting appellant’s credibility as a witness. It was admissible for that purpose.”
+The record contains what were and are called “objections to the court’s charge.” At the bottom of the paper presenting said objections there appears the following notation: “Noted before the main charge was read to the jury and overruled.' C. A. Hodges.” If the refusal of the court to correct his charge was not acceptable to the accused, nothing in the record evidences that fact. Neither by separate bill of exceptions nor by notation on the paper containing said objections, does any exception appear. This is true of the special charge referred to. The record shows that same was presented before the main charge was read, and that same was refused. No exception was taken to such act, nor is there anything on the special charge manifesting exception; nor is there complaint of the refusal of the charge by a separate bill. We are not authorized to consider complaints in this condition. Art. 744, Vernon’s C. C. P., in so many words makes necessary that to “any decision, opinion, order or charge of the court, or other proceeding in the case,” to which there is objection, a bill of exceptions be taken “in order that such decision, opinion, order or charge may be revised on appeal.” Since the practice act of 1913 we have uniformly held that the notation by the trial court on a refused special charge, or on the paper setting forth the objections to the main charge, of the fact that the court’s refusal to correct his charge or give the special charge, was excepted to, — would be tantamount to a bill of exceptions; but we have as uniformly refused to consider such objections or special charges when there nowhere appears evidence of the fact that the refusal to give such charges or to correct the main charge, was excepted to. Linder v. State, 94 Tex. Crim. Rep. 317.
+Finding no error in the record, the judgment will be affirmed.
+Affirmed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+Appellant while a witness was asked on cross-examination by the State if he had not been convicted for petty theft. He replied that he did not know. Asked if he had not been indicted for stealing, he said he did not know. Asked if it was not a fact he had a case pending against him in the County Court for theft, he said it might be a fact. That theft is an offense involving moral turpitude, and that proof of the pendency of a case wherein a witness is charged with theft, may be made as affecting his credibility, is so well settled as not to need citation of authorities. . In Branch’s Annotated P. C., p. 107, many authorities are cited holding that one who is asked relative to an impeaching fact who does not remember or makes no answer which amounts to a positive denial, can be impeached by proof of the existence of the facts thus asked him. The principle involved in said citation applies here. Appellant having stated that it might be a fact that he had a case against him for theft, the State had a right to prove that in fact he was then charged with theft in the County Court.
+Appellant’s motion for rehearing will be overruled.
+Overruled.
