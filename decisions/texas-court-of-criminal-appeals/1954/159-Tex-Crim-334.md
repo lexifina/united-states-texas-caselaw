@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,781"
+decided: "1954-01-27"
+citations: ["159 Tex. Crim. 334"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis Donahoo v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0334-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477731
+cites_cases: ["126 S.W. 1156", "169 S.W. 2d 720", "205 S. W. 2d 599", "250 S.W. 2d 214"]
+---
+
+# Donahoo v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for transporting whisky in a dry area; the punishment, a fine of $1,000.
+The state offered evidence to the effect that two cases of whisky were found in the trunk of an automobile which appellant drove to the “Hi-Hat Club” in Lubbock County, admitted to be a dry area. This occurred in the early morning hours of May 1, 1953.
+The information contained a second count wherein it was alleged that appellant possessed whisky for the purpose of sale on or about May 2, 1953.
+The state sought to prove this separate offense by the testimony of two officers.
+Over the objection of appellant they each testified that they were called to the Cotton Club, near Lubbock, about 10:45 P.M. on May 2, 1953; that they found a number of people including the co-owners of the Club, Ralph Lowe and Clarence Jackson, and appellant in the office. On the table before them were five pints of whisky and Lowe and Jackson each stated that the whisky had been taken from the pockets of appellant by Lowe on the dance floor of the Club; that Lowe told them that appellant was trying to sell some whisky on the dance floor, and said “Here’s the man and here’s the whisky.” The whisky was offered and admitted in evidence.
+Over the objection that the evidence was hearsay, the trial court admitted it and submitted both counts of the information to the jury.
+Being unsuccessful in having this evidence excluded, appellant sought to have it withdrawn. Failing in this, he complained of the failure of the court in his charge to instruct the jury that such evidence could not be considered in passing upon his guilt or innocence on the count charging him with transporting whisky in a dry area.
+We think it clear that the testimony of the officers as to the statements of Lowe and Jackson, undertaking to connect appellant with the possession or attempted sale of the whisky, was hearsay and inadmissible. See McAdams v. State, 59 Tex. Cr. Rep. 86, 126 S.W. 1156; Martin v. State, 151 Tex. Cr. Rep. 140, 205 S. W. 2d 599; Grumbles v. State, 145 Tex. Cr. Rep. 500, 169 S.W. 2d 720.
+Neither Lowe nor Jackson was present at the trial and there is no evidence to connect appellant with the whisky on the table in the Cotton Club office other than said hearsay testimony.
+The jury acquitted appellant of possession of whisky as charged in Count 2, and we are to determine only whether or not the admission of the testimony of the officers and of the whisky found by them at the Cotton Club, and the failure of the trial judge to limit such evidence to the possession count, calls for reversal of the conviction for transporting whisky wherein the jury assessed the punishment at a fine of $1,000.
+But for the fact that the state is permitted to prosecute for two or more separate misdemeanor offenses in a single information there could be no doubt that the admission of such testimony, upon the charge of transporting whisky, would require reversal. This is so not only because it was hearsay and was subsequent to, but also because it was in no way connected with the act of transporting the whisky found in the car which appellant had been seen to drive. See Abston v. State, 157 Tex. Cr. Rep. 500, 250 S.W. 2d 214.
+In the absence of a charge limiting this testimony to the possession count, we are in no position to say that the jury did not consider it against appellant and to his injury in passing upon the transporting count, especially in assessing the punishment.
+The judgment is reversed and the cause is remanded.
