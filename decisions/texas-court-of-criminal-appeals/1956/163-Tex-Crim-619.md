@@ -1,0 +1,109 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,739"
+decided: "1956-10-03"
+citations: ["163 Tex. Crim. 619"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wallace Edwin McEathron v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0619-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460461
+cites_cases: ["103 S. W. 2d 754", "107 Tex. Cr. R. 24", "109 S. W. 934", "124 S. W. 2d 359", "126 S. W. 2d 569", "132 Tex. Cr. R. 200", "136 Tex. Cr. R. 192", "137 S. W. 2d 1048", "138 Tex. Cr. R. 557", "140 Tex. Cr. R. 260", "144 S. W. 2d 551", "148 Tex. Cr. R. 401", "152 Tex. Cr. R. 586", "155 Tex. Cr. R. 580", "159 Tex. Cr. R. 231", "160 Tex. Cr. R. 326", "160 Tex. Cr. R. 59", "187 S. W. 2d 910", "201 S. W. 2d 647", "216 S. W. 2d 201", "238 S. W. 2d 200", "244 S.W. 2d 688", "262 S. W. 2d 713", "267 S.W. 2d 410", "268 S. W. 2d 674", "289 S.W. 2d 776", "294 S. W. 550", "53 Tex. Cr. R. 319", "7 Tex. App. 403"]
+---
+
+# McEathron v. State
+
+## Rehearing (MORRISON, Presiding Judge.)
+
+ON MOTION FOR REHEARING
+MORRISON, Presiding Judge.
+All prior opinions are withdrawn.
+The offense is driving while intoxicated; the punishment, 10 days in jail and a fine of $150.00.
+The issue of whether appellant was intoxicated at the time in question was closely contested, but there is sufficient evidence to sustain the verdict of the jury.
+Appellant contends that the testimony of the state’s witnesses on the issue was obtained as a result of an unlawful arrest and therefore inadmissible. This presents the only serious question on the appeal.
+Air Force Captain Barber observed appellant driving an automobile at a high rate of speed, saw him lose control of the car, and on three occasions strike the esplanade, saw him drive through red traffic lights, narrowly missing cars awaiting the signal to proceed. He observed that appellant was drinking from a bottle as he was driving along the Freeway.
+He testified that when the appellant passed him the second time at a high rate of speed, cut back in front of him sharply, and again collided with the esplanade, he pursued him in an effort to get his license number and report it to the police.
+After appellant’s car swerved from the road and came to a stop Barber observed him, concluded that he was intoxicated, and detained him until an officer arrived.
+Barber and other witnesses who testified for the state based their opinion as to appellant’s intoxicated condition on their observation of him while he was being so detained.
+We were so unpleasantly distracted by the witness Barber, who, among other things, bragged that his conduct in arresting the appellant would look good to his commanding officer, that we overlooked the simple mandate of the statutes and the holdings of this court in Cook v. State, 155 Tex. Cr. Rep. 580, 238 S. W. 2d 200, Morgan v. State, 159 Tex. Cr. Rep. 231, 262 S. W. 2d 713, and Rent v. State, 160 Tex. Cr. Rep. 326, 268 S. W. 2d 674; and the case of Clark v. West, 126 S. W. 2d 569.
+Article 212, V.A.C.C.P., authorizes an arrest by a private citizen for an “offense against the public peace.”
+Title 9 of the Penal Code is entitled “Offenses against the public peace.”
+Chapter 3 of Title 9 enumerates “Affrays and disturbances of the peace.”
+Article 477, V.A.P.C., is within that chapter and reads as follows:
+“Whoever shall get drunk or be found in a state of intoxication in any public place, or at any private house except his own, shall be fined not exceeding one hundred dollars.”
+If a man is found in a condition described in the foregoing statute while on foot, he is subject to arrest by a private citizen by virtue of the statute. Surely, then, if he is in such condition in an automobile, the right to arrest is the same.
+The arrest being lawful, the testimony of those who observed the appellant following his arrest was admissible.
+Finding no reversible error, the appellant’s motion for rehearing is overruled, and the judgment of the trial court is now affirmed.
+
+## Rehearing
+
+ON appellant’s motion for rehearing
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+While driving his automobile upon a public highway, appellant was stopped and placed under arrest by a private citizen, as distinguished from a peace officer in this state.
+The private citizen stopped appellant and arrested him because he thought he “had the right to detain him from driving like that.”
+All the testimony for the state, showing that appellant was drunk and under the influence of intoxicating liquor at the time, was obtained as a result of the arrest — but for which there was no such evidence.
+Appellant denied that he was intoxicated at the time. He was supported in that denial by a policeman of the city of Houston.
+Whether, in fact, appellant was drunk or under the influence of intoxicating liquor at the time of his arrest was a closely contested issue under the evidence.
+If appellant’s arrest was lawful, the testimony obtained as a result of that arrest was admissible. If the arrest was unlawful, no evidence obtained as a result of the arrest was admissible.
+My brethren hold that the arrest was authorized and, therefore, lawful. To that holding I do not agree. In my opinion, the arrest of appellant was without lawful authority and a flagrant violation of his constitutional guarantee against an unlawful arrest.
+What my brethren here hold is that a private citizen has the power and authority to arrest without warrant one whom he believes to be drunk or under the influence of intoxicating liquor in a public place. In my opinion such holding is judicial legislation, by this court, of the rankest sort. The legislature of this state, in whom the Constitution places the exclusive power to enact laws and thereby determine when arrests are lawful, has not so declared but, to the contrary, has consistently refused to do so.
+In all of our statutory law, the legislature of this state has conferred upon a private citizen the right to arrest and take his neighbor into custody, without warrant, only in the two instances which are set forth in Art. 212, C. C. P., which reads as follows:
+“Offense within view. — A peace officer or any other person, may, without warrant, arrest an offender when the offense is committed in his presence or within his view, if the offense is one classed as a felony, or as an ‘offense against the public peace.’ ”
+The right of a private citizen to arrest his neighbor is therefore expressly limited by the legislature of this state to two classes of offenses: those classed as felonies and those classed as breaches of the peace. Nowhere does that statute, in so many words, authorize a private citizen to arrest his neighbor when he finds him in a public place and concludes that he is drunk and under the influence of intoxicating liquor — and this, without the neighbor being, in fact, in such condition. All that is necessary to authorize the arrest, according to the majority opinion, is that the individual think or believe that he is in that condition.
+There can be no question as to the holding of my brethren, for, after setting out the statute which makes drunkenness in a public place a misdemeanor, they say:
+“If a man is found in a condition [drunk] described in the foregoing statute while on foot, he is subject to arrest by a private citizen by virtue of the statute. Surely, then, if he is in such condition in an automobile, then the right to arrest is the same.”
+Prior to 1951, it was the consistent holding of this court that a private citizen could not arrest without warrant one whom he found drunk in a public place. The cases so holding are: King v. State, 132 Tex. Cr. R. 200, 103 S. W. 2d 754; Crow v. State, 152 Tex. Cr. R. 586, 216 S. W. 2d 201; and Bennett v. State, 136 Tex. Cr. R. 192, 124 S. W. 2d 359.
+In the King case, supra, this court said:
+“Drunkenness is not classed as a felony. Neither is it an offense against the public peace. Hence the act of the constable in arresting Jessie was illegal and the prisoner had a right to effect his release and thereafter resist the Officer in rearresting him.”
+In the Bennett case, supra, this court, speaking through Judge Graves, made it clear that drunkenness in a public place was not an offense “against the public peace,” and, therefore, that arrests for drunkenness were not authorized under Art. 212, C. C. P. It was there pointed out that the offense of . drunkenness in a public place was one of disorderly conduct and that the right to arrest without warrant for that offense was, by Arts. 998 and 999, R. C. S., 1925, expressly limited to city marshals and policemen. Private citizens were therefore expressly precluded by the legislature from making arrests without warrant for the offense of drunkenness in a public place.
+The construction which this court gave to Art. 212, C. C. P., as heretofore pointed out, remained such until 1951, when this court, in Cook v. State, 155 Tex. Cr. R. 580, 238 S. W. 2d 200, without in any manner attempting to point out wherein the prior holdings were incorrect, overruled those cases with the mere statement that it was the then holding of the court that drunkenness in a public place was an offense against the public peace and that arrests could be made thereafter without a warrant, under the authority of Art. 212, C. C. P.
+The holding in the Cook case has subsequently been followed in Morgan v. State, 159 Tex. Cr. R. 231, 262 S.W. 2d 713, and in Rent v. State, 160 Tex. Cr. R. 326, 268 S. W. 2d 674, and my brethren here follow it.
+It must be remembered that the prior cases were overruled and the present rule established without any amendment by the legislature of this state of Art. 212, C. C. P., or any indication whatsoever from the legislature that the construction which this court had given to Art. 212, C. C. P., prior to 1951, was not in keeping with the legislative intent.
+So the holding in the Cook case, as also the holding here, is twofold, being (a) that drunkenness is an offense against the public peace and (b) that it is no longer a disorderly-conduct offense, as pointed out and demonstrated in the Bennett case, supra, and authorities there cited and discussed.
+The holding of this court prior to the Cook case in 1951 is, in my opinion, correct and should not have been overruled.
+The Cook case made no attempt to show wherein the prior holding was wrong; nor did it attempt to show wherein the holding in that case was correct. No reason is given for the holding therein.
+While the decisions announcing the holding prior to 1951 need no defense, I cannot forego this opportunity to demonstrate the correctness thereof.
+The offense of drunkenness in a public place is defined by Art. 477, P. C., as follows:
+“Drunk in public place. — Whoever shall get drunk or be found in a state of intoxication in any public place, or at any private house except his own, shall be fined not exceeding one hundred dollars.”
+The offense against the public peace is defined by Art. 474, Vernon’s P. C., as follows:
+“Whoever shall go into or near any public place, or into or near any private house, and shall use loud and vociferous, or obscene, vulgar or indecent language or swear or curse, or yell or shriek or expose his or her person to another person of the age of sixteen (16) years or over, or rudely display any pistol or deadly weapon, in a manner calculated to disturb the person or persons present at such place or house, shall be punished by a fine not exceeding Two Hundred Dollars ($200).”
+Under the holding in the Cook case, and here, drunkenness in a public place constitutes disturbing the peace.
+Such being true, then, a prosecution may be successfully maintained for that offense under Art. 474, the disturbing-the-peace statute. Equally so could a prosecution be successfully maintained under the drunkenness statute, Art. 477, P. C., for disturbing the peace.
+But we find that the punishment affixed to drunkenness is quite different from that affixed to a breach of the peace. The maximum punishment authorized to be assessed for drunkenness in a public place is a fine not exceeding one hundred dollars, while that for a breach of the peace is a fine not exceeding two hundred dollars.
+If the construction which my brethren here place upon the two offenses is correct, then both statutes — drunkenness and disturbing the peace — are destroyed, because a different punishment is provided for the same unlawful act by two separate statutes. Ex parte Sanford, (page 160, this volume), 289 S.W. 2d 776.
+If there is no offense known to the statute law of this state as a breach of the peace or as an offense “against the public peace,” then no arrest under Art. 212, C. C. P., can be made therefor, and a provision of said article which authorizes such an arrest would be wholly and completely without effect and void.
+Surely it cannot be said that the legislature in writing the two statutes: Art. 474, Vernon’s P. C., (disturbing the peace) and Art. 477, P. C., (drunkenness), never intended that they be considered as covering the same acts. Yet that is exactly what my brethren, in following the Cook case, are here saying.
+It is a cardinal rule of statutory construction that where a statute or statutes is or are susceptible of two constructions, one of which would sustain the statute while the other would destroy it, the construction will be given which sustains rather than destroys.
+The holding of my brethren here that drunkenness in a public place is an offense against the public peace is directly contrary to the rule stated, for, by that construction, both statutes (drunkenness and breach of the peace) are destroyed.
+The construction given by this court prior to the Cook case was in keeping with the rule stated and gave validity to both statutes, for, by those holdings, drunkenness in a public place was an offense distinct and separate from that of a breach of the peace. Both statutes were thereby preserved.
+As further sustaining the correctness of the prior discussions and the incorrectness of the holding of my brethren here, attention is called to the fact that drunkenness and breach of the peace are separate and distinct offenses under the wording of the two statutes, Arts. 477 and 474.
+The unlawful act of being drunk in a public place has reference solely and alone to the condition or state in which the offender is found. To be guilty it is not necessary that he utter a word, or do or perform any act with any intent or purpose. Intent, or manner, is in no particular an ingredient of that offense.
+However, such is not true of the breach-of-the-peace statute, for, there, in order for one to be guilty he must utter some word, or shriek, or expose his person, or display a pistol, in a manner calculated to disturb the inhabitants of a public place.
+That the two statutes are separate and distinct and cover separate and distinct states of fact is, to me, apparent. To my mind, this simple illustration so demonstrates:
+“A” is sitting on a bench in a public park, sound asleep as a result of being drunk and under the influence of intoxicating liquor. “B”, a private citizen, sees “A” concludes that he is drunk in a public place, and decides to and does arrest “A,” and takes him to jail.
+The charge placed against “A” is not that of drunkenness in a public place, because “B” had no authority to arrest “A” for that offense. The charge filed against “A” is for a breach of the peace, because under the holding in this case and prior cases drunkenness in a public place and a breach of the peace are one and the same offense.
+So the case comes on for trial. “B” testifies that he arrested “A” because he found him, drunk and in a state of intoxication, sitting on a park bench, not uttering a word, not shrieking or yelling, or exposing his person, or rudely displaying a pistol, or doing any of the acts required to be done in order to constitute a violation of the breach-of-the-peace statute. Under such facts, “A” insists that he has not been proven guilty of a breach of the peace, as charged, and asks to be discharged. Counsel for the state insists that the facts showing “A” to be guilty of drunkenness in a public place constitutes a breach of the peace. The judge examines the breach-of-the-peace statute. Nowhere therein does he find that drunkenness in a public place is covered by that statute or anything said therein. Thereupon, the trial court calls upon state’s counsel for the authority to sustain his position.
+State’s counsel promptly advises the court that the Texas Court of Criminal Appeals has said that drunkenness in a public place constitutes a breach of the peace, and cites the Cook case, supra, and this case, as authority for that position. The trial court reads those cases and finds that the Texas Court of Criminal Appeals has in plain language held that drunkenness in a public place is an offense against the public peace.
+Under those authorities “A” is convicted for disturbing the peace — not because he did any of the acts which the legislature, by statute, said constituted disturbing the peace but because he did an act which the Texas Court of Criminal Appeals said constituted a breach of the peace or an offense against the public peace.
+If that is not judicial legislation, I do not know what is in-included within that term.
+If the legislature wanted to give to a private citizen the right to arrest his neighbor for drunkenness it could easily have done so. Not having so done, however, the presumption must attain that the legislature did'not so desire.
+It is the sole province and responsibility of the legislature to determine and lay down the rules by and under which citizens of this state may be arrested and deprived of their liberty.
+As early as 1879, this court, in Lacy v. State, 7 Tex. App. 403, announced the rule to be that the authority to arrest without warrant is conferred and controlled in this state by statutory provisions which must be construed in subordination to the constitutional guarantee against unreasonable searches and seizures. The rule has been consistently followed. Harless v. State, 53 Tex. Cr. R. 319, 109 S. W. 934; Mitchell v. State, 140 Tex. Cr. R. 260, 144 S. W. 2d 551.
+Moreover, it is equally well settled that the right to arrest, especially without a warrant, is determined by the facts existing and known by the arresting party at the time of the arrest. The arrest cannot be justified or authorized as a result of facts found by reason of the arrest. Timberlake v. State, 150 Tex. Cr. 375, 201 S. W. 2d 647; Stewart, et al, v. State, 244 S.W. 2d 688; Tarwater v. State, 160 Tex. Cr. R. 59, 267 S.W. 2d 410.
+There is no escape from the conclusion, here, that appellant’s arrest by a private citizen was illegal and without authority of law.
+All of the testimony of the state’s witnesses as to appellant’s intoxication was ascertained by and as a result of the arrest. Such facts were not known to or possessed by the witnesses anterior to the arrest.
+In Vinson v. State, 138 Tex. Cr. R. 557, 137 S. W. 2d 1048, as a result of the illegal arrest of the accused, evidence was obtained — such as his muddy shoes and clothing — which not only tended to but was utilized by the state to identify the accused with the offense charged. It was there held that such testimony, obtained as a result of an illegal arrest, was not admissible.
+In Gonzales v. State, 148 Tex. Cr. R. 401, 187 S. W. 2d 910, as a result and by virtue of the unlawful arrest of the accused, marijuana was found upon his person. Testimony relative to such finding was held to be inadmissible because of the illegal arrest.
+In Tarwater v. State, supra, evidence was held inadmissible which was found as a result of the search of the hotel room of the accused contemporaneous with the illegal arrest of the accused.
+In addition to the authorities cited, attention is called to the provisions of Art. 727a, Vernon’s C. C. P., as amended in 1953, that evidence obtained by any person in violation of the Constitution and laws of this state is not admissible against an accused in a criminal case.
+The protection afforded by both Federal and State Constitutions against unreasonable searches and seizures prohibits the unlawful arrest of a citizen. Moore v. State, 107 Tex. Cr. R. 24, 294 S. W. 550.
+It is apparent, to me, that appellant’s arrest was unlawful and that the evidence obtained as a result thereof was not admissible against him upon the trial of this case.
+The evils which could so easily arise from the indiscriminate arresting of other citizens by private individuals for reasons deemed by them to be sufficient makes it necessary that the courts require that such arrests be restricted to the terms of Art. 212, C. C. P., and not extended or broadened by judicial construction.
+This conviction should be reversed and the cause remanded.
+I respectfully dissent to the affirmance of this case.
