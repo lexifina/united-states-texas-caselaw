@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,580"
+decided: "1956-12-05"
+citations: ["164 Tex. Crim. 167"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tom Bridge Marshall v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2609512
+cites_cases: ["158 S.W. 283", "161 Texas Cr. Rep. 300", "162 Texas Cr. Rep. 268", "276 S.W. 2d 813", "283 S.W. 2d 933", "70 Texas Cr. Rep. 563"]
+---
+
+# Marshall v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Upon a trial before the court without a jury, appellant was convicted of the offense of unlawfully driving a motor vehicle upon a public highway while intoxicated and was assessed punishment at a fine of $150.00 and 3 days in jail.
+The only issue upon the trial was whether the appellant was the driver of the automobile in question, as it was stipulated by and between the appellant and the state that the appellant was intoxicated on the date and at the time which was made the basis of the offense.
+The state’s witness Mrs. H. J. Becnel testified that, while she was in a dancing studio at the corner of West Alabama and Yoakum Streets, her car was parked nearby on West Alabama Street; that upon hearing a noise she ran outside and saw that her car had been hit by another car from the rear; that she saw the appellant seated “at the wheel” of the car that hit the rear of her automobile, and she saw no one else in the car; that the car was not stopped when she saw it and she saw “him back the car up;” and that, after she hollered at the appellant, he got out of the car and she talked to him about how the collision occurred, and he said “he didn’t see the car.”
+Appellant did not testify but called as a witness Josephine Prybowski, who testified that, on the occasion in question, she was in the dancing studio, and, after hearing the noise, went outside and observed the appellant in a car which she said was his and which he got out of after the officer arrived.
+We find the evidence sufficient to support the conviction and overrule appellant’s contention that it fails to show that he was operating the automobile prior to the collision or at any time on the occasion in question. See Hughes v. State, 161 Texas Cr. Rep. 300, 276 S.W. 2d 813, and Thomas v. State, 162 Texas Cr. Rep. 268, 283 S.W. 2d 933, where, under similar facts, the evidence was held to be sufficient to show that the accused was the driver of the motor vehicle.
+Appellant complains of the action of the court in questioning the state’s witness Mrs. Becnel after her direct and cross-examination by counsel. The court had the right to question the witness in order to obtain a clearer idea of the merits of the case; and the trial being before the court without a jury, his action could not have in any manner injured the appellant. Davis v. State, 70 Texas Cr. Rep. 563, 158 S.W. 283.
+We find no error in the court’s refusal to permit the appellant to re-open the case and offer additional testimony after he had rendered his judgment.
+Finding no reversible error, the judgment is affirmed.
+Opinion approved by the Court.
