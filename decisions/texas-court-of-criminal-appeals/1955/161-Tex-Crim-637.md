@@ -1,0 +1,48 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,586"
+decided: "1955-05-04"
+citations: ["161 Tex. Crim. 637"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mrs. Elmer Hardy v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0637-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2463878
+cites_cases: ["218 S.W. 2d 462", "254 S.W. 2d 388"]
+---
+
+# Hardy v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for the sale of gin in a dry area; the punishment, a fine of $200.00.
+John Hynd, an inspector for the Texas Liquor Control Board, testified that he purchased a pint of Gordon Gin from appellant, Mrs. Elmer Hardy, at her home in Coleman County, admitted to be a dry area.
+Hynd testified that he had been to the Hardy residence on other occasions, both before and after the day of the purchase, and was positive in his identification of appellant as the person who sold him the gin.
+Appellant moved to quash the information claiming a material variance between the complaint and information.
+The complaint alleged that Mrs. Hardy, in Coleman County, Texas, did unlawfully “sell and deliver an intoxicating alcoholic beverage . . . to-wit, gin, to John Hynd, in a dry area, to-wit, on the premises at the dwelling house of said accused, in the City of Santa Anna, in said county and State, same being near the eastern edge of said city limits, just north of Highway No. 67, there situate” after an election prohibiting the sale of such intoxicating liquor in said county.
+The information based upon such complaint alleged that in Coleman County, Texas, appellant “did then and there sell an intoxicating alcoholic beverage, to-wit, gin, to John Hynd, after an election had been held” prohibiting the sale of such intoxicating liquor in said county.
+In Toliver v. State, 158 Texas Cr. R. 223, 254 S.W. 2d 388, we said:
+“While it is true that the constituent elements of the offense must appear in both the complaint and the information, yet the same need not appear in the same phraseology or degree of particularity so long as there is no conflict between the two.
+“Branch’s Annotated Penal Code, Sec. 482, expresses this rule as follows: ‘When there is a substantial agreement between the information and the complaint on which it is based, a mere variance in the wording is not material.’ ”
+In Fields v. State, 153 Texas Cr. R. 212, 218 S.W. 2d 462, we found no conflict where the complaint alleged the unlawful transportation of whiskey and wine in Borden County, a dry area, and the information alleged in two counts the transportation of 48 four-fifths quarts of wine and 24 pints of whiskey, on State Highway No. 180, in said county.
+A variance may be immaterial when the information uses or omits words not used or omitted in the complaint, both charging the same offense. 23 Texas Jur., 604, Par. 13.
+Appellant seeks reversal upon four other claims of error which will be considered in the order in which they appear in appellant’s brief.
+The jury panel was challenged, one reason given being: “That all jurors in the panel were present when one of the jurors who was being examined by the State stated that he had sat on a jury when the defendant, Elmer Hardy, was being tried for theft and when defendant’s attorney stated that defendant had not been tried for theft the said juror called to defendant and said Elmer how about the cotton seed stolen from the Co-op Gin, all of which was highly prejudicial to the cause of this defendant’s case as well as her husband’s.”
+The motion was overruled “with the qualification that the six jurors who served in Cause 12,365 will be excluded from the panel and the said eight jurors who listened to said Cause may be challenged for cause if defense attorney so requests.”
+In the absence of a showing that an objectionable juror was taken on the jury, over objection, and after appellant’s peremptory challenges were exhausted, reversible error is not shown in the court’s ruling on appellant’s challenge to the array.
+The remaining grounds relate to the procedure incident to the identification of appellant at the trial and are raised by informal bills in the statement of facts.
+It appears that appellant’s counsel, before the introduction of evidence began, requested that the officers and witnesses be instructed to remain in the county attorney’s office with the doors closed until appellant was seated in the courtroom.
+Though the county attorney insisted on several occasions that appellant be required to come within the bar and sit at counsel table with her attorneys, she was permitted by the court to remain seated among the spectators until Inspector Hynd had testified and been excused. She thereupon took her place between her attorneys inside the bar.
+The state then offered as a witness Sheriff H. F. Fenton, Jr., who identified appellant as Mrs. Elmer Hardy, and as the only person by that name residing in Coleman County. Sheriff Fenton was not present on the occasion Inspector Hynd testified about. He testified that he had been to the Hardy home on different occasions and, as far as he knew and from what he had observed, it did not appear that anyone was living there except appellant and her husband and children.
+Inspector Hynd was then recalled and pointed out appellant as the woman from whom he had purchased the pint of gin. His cross-examination upon being recalled was as follows:
+“Q. Are you positive about that, Mr. Hynd? A. Yes, sir.
+“Q. There is no doubt about it? A. No, sir.
+“Q. You could point her out anywhere ? A. Yes, sir.”
+Appellant complains that Inspector Hynd failed to identify appellant until after she had been identified by the sheriff; because of the acts and conduct of the county attorney in loudly insisting that appellant, who was in the courtroom, be compelled to take a seat within the bar so that the witness could identify her, and because the court permitted the county attorney to recall Inspector Hynd for further examination.
+The procedure mentioned is not such as to show an abuse of discretion on the part of the trial court prejudicial to appellant.
+It would have been proper for the trial court to have required the accused on trial to take her place within the bar and to sit with her counsel, in order that she might be observed by the court, the witnesses and the jury.
+Any error in the exercise of discretion in this regard was at the instance and request of appellant’s counsel and was not prejudicial to appellant.
+The judgment is affirmed.
