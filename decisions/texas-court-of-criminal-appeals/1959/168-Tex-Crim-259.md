@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,788"
+decided: "1959-06-24"
+citations: ["168 Tex. Crim. 259"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fernando Del Bosque v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0259-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2625365
+---
+
+# Del Bosque v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for burglary, with punishment assessed at twelve years’ confinement in the penitentiary, so enhanced under an allegation of a prior conviction for an offense of like character.
+The subject of the burglary was a place known as “Jewel’s Drive-Inn” operated by Jewel Gutschke. At 11:28 o’clock, p.m., the night of the alleged burglary, the private burglar alarm system in the drive-in sounded and set off the buzzer in the police station. Officers immediately went to the place, and found two boys there. Both of them fled. One of the boys (Eloy Soliz) was captured; the other boy escaped.
+According to the testimony of state’s witnesses, the offense was committed and completed some ten or fifteen minutes before twelve o’clock midnight.
+Testifying on behalf of the state, Soliz admitted his participation in the burglary and stated that appellant was present and assisted him therein.
+The witness Olivia Martinez testified that she was with appellant at a drive-in theatre from 7:30 o’clock until 12:00 o’clock, p.m., the night of the alleged offense.
+The witness Esperanza Martines testified to the same facts.
+Appellant’s stepfather testified that appellant came home “at a little after 12:00 o’clock midnight” and that prior thereto officers had been there looking for appellant.
+After a proper exception, the trial court refused to charge upon the defense of alibi under such testimony.
+We are constrained to agree with the appellant that the facts were sufficient to raise the defense of alibi and that the trial court erred in failing to charge the jury upon that defense.
+The judgment is reversed and the cause is remanded.
