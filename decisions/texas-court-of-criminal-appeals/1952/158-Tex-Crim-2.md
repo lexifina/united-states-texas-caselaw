@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,084"
+decided: "1952-11-12"
+citations: ["158 Tex. Crim. 2"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Leonard Odell Daniels."]
+source_url: "https://static.case.law/tex-crim/158/cases/0002-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2479365
+cites_cases: ["139 Tex. Cr. R. 438", "141 S. W. 2d 333", "142 Tex. Cr. R. 493", "154 S. W. 2d 852"]
+---
+
+# Ex parte Daniels
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+Relator, an inmate of the penitentiary, filed his original application for writ of habeas corpus in this court.
+It is shown from the record herein that he was convicted on November 6, 1939, in Cause No. 13,643, in the criminal district court of Jefferson County of felony theft and repetition of offenses under Article 63, P. C., and sentenced to life imprisonment.
+An examination of the indictment reveals that the primary offense was charged to have been committed on September 16, 1939. The two prior convictions alleged were as follows:
+1. Felony theft alleged to have been committed on August 30, 1935, which resulted in a conviction in the district court of Jones County on September 16, 1935.
+2. Felony theft alleged to have been committed on August 26, 1935, which resulted in a conviction in the district court of Tarrant County on October 28, 1935.
+It is apparent therefrom that the Jones County offense was not committed subsequent to the Tarrant County conviction, and therefore, such conviction cannot constitute the basis for prosecution as a third offender under Article 63, P. C. See Square v. State, 142 Tex. Cr. R. 493, 154 S. W. 2d 852, and cases there cited.
+It is further apparent therefrom that the indictment is sufficient to charge the relator as a second offender under Article 63, P. C.
+The punishment in the instant case, provided for by Article 62, P. C., is ten years.
+Relator has served in excess of ten years and is therefore entitled to discharge. Ex parte Pruitt, 139 Tex. Cr. R. 438, 141 S. W. 2d 333.
+The writ is granted, and the relator is ordered discharged.
