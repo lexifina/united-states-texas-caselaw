@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3005"
+decided: "1914-02-18"
+citations: ["73 Tex. Crim. 99"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Walker v. The State."]
+source_url: "https://static.case.law/tex-crim/73/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4680850
+---
+
+# Walker v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant was convicted for pursuing the business of selling whisky in local option territory, his punishment being assessed at four years in the penitentiary.
+The evidence for the State is sufficiently strong to sustain the conviction. We deem- it unnecessary to go into a statement of the evidence.
+Appellant alleges he has newly discovered testimony to the effect that Bill Bailey, who resides in Lamar County, would testify that defendant had worked for him and he knows defendant to be a sober, peaceable, law-abiding citizen; that Flóyd Green lives at Holland, Texas, and would testify he knows the defendant who has worked for him, to be a peaceable, law-abiding citizen ; he alleges that Green’s testimony would be material in that the district attorney argued that it was material and that defendant should have introduced it; that now the defendant asks ' that he be permitted to introduce said witness in his behalf; that affidavits of said witnesses can not now be procured owing to the distance they live in the short time defendant has in which to file this motion for new trial. There was no attempt, either before or after the motion for new trial, to obtain these witnesses, so far as the record is concerned, and the defendant, and no one for him, swears that this was newly discovered evidence, nor does it show that he could not have had the testimony, or similar testimony, before the jury,—that is, that his reputation was that of a quiet, peaceable man, and law-abiding citizen. Usually this character of testimony would not be material, but, inasmuch as appellant filed a request to have the suspended sentence law given in charge of the jury, it would have become material had it been present, and may have been ground for a motion for new trial had he made proper showing to the court that the witness would have so testified, and that it was in fact newly discovered testimony. There was no evidence to support this phase of his request to have the court to submit the suspended sentence law to the jury. This is in no way verified and, therefore, can not be considered.
+The second ground is that the court erred in not charging the suspended sentence law. A bill of exceptions is taken to this action of the court, or rather to the action of the court in overruling this ground of the motion. This would hardly be sufficient to verify it, but the court qualifies the bill by stating that there was no evidence introduced in support of this request, and, as we understand the evidence, his reputation as being a law-abiding citizen is not sustained by any evidence before the jury. In fact, as we*, understand the record, there was no evidence before the jury either as to his good character and reputation or the fact that he had never been previously convicted of a felony. As this matter is presented, we do not think there was any error.
+The bills of exception found in the record were taken to the action of the court in overruling the three grounds of the motion for new trial, a separate bill being reserved to each one of the grounds specified. A bill of exceptions to the overruling of the motion does not present the question for revision. These exceptions should have been taken to the action of the court in regard to the matters as they occurred. ' Conceding that the bills were properly presented, yet, under the circumstances stated, there is no such error shown as requires a reversal. The judgment is, therefore, ordered to be affirmed.
+Affirmed.
