@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,664"
+decided: "1955-06-08"
+citations: ["161 Tex. Crim. 653"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Frank White"]
+source_url: "https://static.case.law/tex-crim/161/cases/0653-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2464496
+cites_cases: ["114 Texas Cr. Rep. 688", "27 S.W. 2d 204"]
+---
+
+# Ex parte White
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+This is an appeal from an order of Criminal District Court No. 2 of Harris County, refusing to discharge appellant on his application for writ of habeas corpus and remanding him to the custody of the sheriff with instructions to confine appellant in the Harris County Jail for the remainder of the term of punishment assessed appellant in Cause No. 104,551 by the Harris County Court at Law No. 2.
+On the 24th day of November, 1953, in the County Court at Law No. 2, of Harris County, appellant was convicted of misdemeanor theft in Cause No. 104,551, and his punishment was assessed at confinement in the county jail for one year. On the 20th day of January, 1954, in the Criminal District Court of Harris County, appellant was convicted of felony theft in Cause No. 70209, and his punishment was assessed at confinement in the state penitentiary for a term of two years. The sentence in Cause No. 70209 was so worded as to become effective on the 14th day of November, 1953.
+Appellant remained in the Harris County Jail serving the term assesed in Cause No. 104,551 and the term assessed in Cause No. 70209 until the 16th day of March, 1954, when he was transferred to the state penitentiary at Huntsville, Texas. The state admits that appellant has earned credit for the time he served in the Harris County Jail subsequent to his conviction for misdemeanor theft in Cause No. 104,551, but would deny him credit for the time he was in the penitentiary.
+Upon appellant’s release from the penitentiary on the 26th day of February, 1955, after serving his penitentiary sentence assessed in Cause No. 70209, appellant was returned to the Harris County Jail.
+The sole question presented on this appeal is whether or not the appellant is entitled to credit on the misdemeanor conviction after his removal to the penitentiary.
+No effort was made by the district judge to cumulate the sentence with the jail term.
+The sentence, on the other hand, provided that it should begin on November 14, 1953, which was prior to the date the jail term assessed in the misdemeanor conviction began.
+It is clear that had appellant remained in the county jail for one year from the time of his incarceration, he would not only have satisfied the jail term, but would have been entitled to credit on the penitentiary sentence. Art. 768 V.A.C.C.P. The authorities cited by the state are not deemed to be in conflict with this holding. If our holding in Story v. State, 114 Texas Cr. Rep. 688, 27 S.W. 2d 204, be in conflict it is to that extent overruled.
+His removal from the county jail to the penitentiary was not at his election. He had no choice.
+No law was violated and there was no breach of official duties in the matter of appellant’s removal from the jail to the penitentiary, and he has in no way assented to being confined in a place where he could not receive credit on both the jail and penitentiary terms.
+We overrule the state’s contention that the acts of the authorities in removing appellant from the jail to the penitentiary suspended his credit for time served on the misdemeanor conviction.
+The judgment of the trial court remanding appellant to custody is reversed and appellant is ordered released from further confinement under the misdemeanor judgment.
+No motion for rehearing will be entertained, and the clerk will issue mandate forthwith.
