@@ -1,0 +1,58 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "23298"
+decided: "1946-03-06"
+citations: ["149 Tex. Crim. 301", "194 S.W.2d 91"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. O. Myers v. The State."]
+source_url: "https://static.case.law/tex-crim/149/cases/0301-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2604708
+cites_cases: ["10 S. W. (2d) 546", "10 S.W.2d 546", "110 Tex. Cr. R. 636", "110 Tex.Cr.R. 636", "116 S. W. (2d) 711", "116 S.W.2d 711", "117 Tex. Cr. R. 217", "117 Tex.Cr.R. 217", "118 Tex. Cr. R. 293", "118 Tex.Cr.R. 293", "119 Tex. Cr. R. 510", "119 Tex. Cr. R. 525", "119 Tex. Cr. R. 565", "119 Tex.Cr.R. 510", "119 Tex.Cr.R. 525", "119 Tex.Cr.R. 565", "120 Tex. Cr. R. 249", "120 Tex. Cr. R. 34", "120 Tex.Cr.R. 249", "120 Tex.Cr.R. 34", "125 S. W. (2d) 577", "125 S.W.2d 577", "128 S. W. (2d) 1190", "128 S.W.2d 1190", "131 Tex.Cr.R. 13", "134 Tex. Cr. R. 512", "134 Tex.Cr.R. 512", "136 Tex. Cr. R. 372", "136 Tex.Cr.R. 372", "137 Tex. Cr. R. 211", "137 Tex.Cr.R. 211", "234 S. W. 898", "234 S.W. 898", "36 S. W. (2d) 488", "36 S.W.2d 488", "42 S. W. (2d) 421", "42 S. W. (2d) 787", "42 S.W.2d 421", "45 S. W. (2d) 989", "45 S.W.2d 989", "46 S. W. (2d) 307", "46 S. W. (2d) 308", "46 S. W. (2d) 317", "46 S.W.2d 307", "46 S.W.2d 308", "46 S.W.2d 317", "48 S. W. (2d) 646", "48 S.W.2d 646", "90 Tex. Cr. R. 355", "90 Tex.Cr.R. 355", "95 S. W. (2d) 695", "95 S.W.2d 695"]
+---
+
+# Myers v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Robbery is the offense; the punishment, confinement in the penitentiary for eleven years.
+The caption to the transcript affirmatively reflects that the conviction here appealed from was had at the January, 1945, term of the district court, which adjourned on the 5th day of May, 1945.
+No recognizance appears to have been entered into at that term of court. The appellant, on June 7, 1945, after the adjournment of and at a subsequent term of court, entered into a recognizance.
+A recognizance entered into after expiration of the term at which the conviction was had is void. Koger v. State, 110 Tex. Cr. R. 636, 10 S. W. (2d) 546; Smith v. State, 120 Tex. Cr. R. 34, 42 S. W. (2d) 787 and 48 S. W. (2d) 646; Barron v. State, 119 Tex. Cr. R. 565, 46 S. W. (2d) 317; Gillespie v. State, 131 Texas Grim. Rep., 13, 95 S. W. (2d) 695; Edwards v. State, 134 Tex. Cr. R. 512, 116 S. W. (2d) 711.
+The appellant being at large upon a fatally defective recognizance, this- court is without jurisdiction to entertain the appeal. Wood v. State, 136 Tex. Cr. R. 372, 125 S. W. (2d) 577; Hudgins v. State, 117 Tex. Cr. R. 217, 36 S. W. (2d) 488; Aiken v. State, 137 Tex. Cr. R. 211, 128 S. W. (2d) 1190; Jones v. State, 119 Tex. Cr. R. 525, 46 S. W. (2d) 308.
+The appeal is dismissed.
+Appellant will be allowed fifteen days from and after this date within which to present and have approved a proper appeal bond, in which event the appeal will be reinstated.
+The foregoing opinion of the Commission of Appeals has been examined by Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (DAVIDSON, Judge.)
+
+ON MOTION TO REINSTATE APPEAL.
+DAVIDSON, Judge.
+A proper appeal bond now appearing, as shown by supplemental transcript, this appeal is reinstated and the case is now considered on its merits.
+Brewer, the injured party, was a truck operator. About seven o’clock on the evening of January 2, 1945, he went to a pool hall in the City of Amarillo to play pool, parking his truck nearby. In the pool hall he met and made the acquantance of appellant, and another man whom he designates in this record as “Shorty.” With these he played a few games of pool and drank some beer. Appellant said that he had some whisky in his hotel room and invited Brewer to have a drink; Brewer accepted. The three left the pool hall, got into Brewer’s truck and drove to the hotel, parking the truck at a nearby sandwich stand. After they got into the hotel room, appellant passed the bottle. Brewer took a drink of whisky and visited with them for about an hour, after which appellant and “Shorty” went with him to his truck. This was about midnight. Upon arriving at the-truck, appellant struck Brewer on the head with some instrument, knocking him to the ground and rendering him unconscious. When Brewer regained consciousness some time thereafter and while it was yet dark, •he was in the seat of the truck. There had been taken from his person the sum of approximately $2,700.00 in currency.
+Brewer made no report of the robbery, except to his wife, until 8:30 o’clock the next morning, January-3, 1945, when' he reported the matter to the city police. •
+Brewer positively identified the appellant as the person who assaulted him.
+The foregoing are the facts, as shown by Brewer's testimony.
+In addition thereto, the State showed that about noon of January 3, 1945, appellant purchased an automobile from a dealer in used cars in Amarillo, for which he paid $1,170.00 in currency. A city policeman arrested appellant about four o’clock the afternoon of January 4, 1945, and at that time appellant had on his person $607.98.
+The foregoing is the State’s testimony.
+Appellant did not testify as a witness in his own behalf.
+Appellant’s witness, Stevenson, testified that he was present with appellant and Brewer in the pool hall at the time testified to by Brewer; that they all played pool and bet thereon. After a few games, Brewer said he wanted to shoot some dice, as the pool game was too slow for him. As a consequence, they went to appellant’s hotel room, where appellant, at Brewer’s request, gave him a drink of whisky. Appellant and Brewer shot dice until the whisky gave out. Brewer then left the room to go get some more whisky. Stevenson and appellant remained in the room for fifteen or twenty minutes after Brewer left, after which they went out to get something to eat. Stevenson and appellant separated after being together until about midnight. Stevenson did not see Brewer after he left the hotel. As to who was the winner in the dice game, Stevenson said:
+“As well as I could tell, it looked like Myers (appellant) won up there in that dice game. He had and exhibited what looked like to me a pretty good sum of money, but he did. not count it before me.”
+Appellant called as a witness his former wife, Nell Myers. Her testimony was to the effect that on the 16th day of November, 1943, she and the appellant were divorced; that in the property settlement, she agreed to pay appellant $3,000.00; that on December 25, 1944, which was seven days before the robbery, she paid appellant $500.00 on that settlement and on the morning of January 3, 1945 (the morning after the robbery the previous night), she gave appellant $1,200.00 — each of the pay-merits being made in currency. She testified that at the time she paid the $1,200.00, appellant told her he wanted to buy a car.
+Appellant rested his case upon the testimony of Stevenson and his former wife.
+In rebuttal, the State recalled the witness Stevenson and proved by him that for some time prior to September 8, 1942, when witness was inducted into the army, Nell Myers was running a house of prostitution in the City of Amarillo. Witness based this testimony upon his actual experience and patronage. He did not say that she was running such a house at the time of trial, or since his discharge from the army six months after induction. Appellant and Nell Myers were not married until April, 1943.
+Brewer, the injured party, denied that Stevenson was the party he designated as “Shorty” and said that he had never seen him prior to the time of trial. He denied having shot dice in appellant’s hotel room.
+Appellant complains of the testimony showing that when he was arrested he had $607.98 on his person — the objection to this testimony being that his arrest, without warrant, was illegal and unjustified and that therefore the search of his person was unlawful. The question thus sought to be presented is deemed not before us.
+The State made no effort to identify the money found on appellant’s person as that belonging to Brewer or as that taken in the robbery. The testimony went no further than that appellant had on his person, at the time of arrest, that amount of money. Appellant proved that he came into possession of $500.00 seven days before the robbery, and an unidentified amount as a result of the dice game, and $1,200.00 the morning after the robbery. It is thus made to appear that appellant, himself, proved the very fact to which he objected — this is, that appellant had money and a considerable amount, before his arrest. An accused cannot complain of testimony where he introduces testimony to the same fact. Johnson v. State, 118 Tex. Cr. R. 293, 42 S. W. (2d) 421.
+We come now to a discussion of what we consider the most troublesome question presented by this record. This relates to the receipt in evidence of the proof that in September, 1942, and for some time prior, the' witness Nell Myers — who afterwards married appellant — was running a house of prostitution. This testimony was objected to for several reasons, among which was that an unauthorized attack was made upon the reputation and character of the witness Nell Myers, prejudicial to the appellant. There was no objection that the testimony was remote.'
+The qualification to the bill of exception presenting this matter shows that the trial court admitted this testimony as going to show the occupation and avocation of the witness Nell Myers. Ordinarily, it is permissible to inquire of a witness as to his occupation. Such, however, is not the situation here presented, for the witness was not asked that question. The rule of law relied upon by the trial court appears not here applicable.
+In its final analysis, the State, by this testimony, proved — as an independent fact — that the witness Nell Myers operated a house of prostitution during and prior to September, 1942. This testimony was not admissible.
+A witness may not be impeached by proof of specific acts of misconduct which have not eventuated into an indictment or conviction. Branch’s P. C., Sec. 168; 39 Texas Digest, p. 286; Johnson v. State, 119 Tex. Cr. R. 510, 45 S. W. (2d) 989. Moreover, specific acts of an immoral character with other parties cannot be shown as affecting the credibility of a female witness. Hays v. State, 90 Tex. Cr. R. 355, 234 S. W. 898; Jones v. State, 119 Tex. Cr. R. 525, 46 S. W. (2d) 308. A witness may be asked, upon cross-examination, if she is a common prostitute but cannot be impeached upon the answer she gives to such a question. Sanford v. State, 120 Tex. Cr. R. 249, 46 S. W. (2d) 307.
+The witness Nell Myers gave material testimony in behalf of appellant in that she accounted for possession by appellant of the $1,170,000 which the State contended was obtained by him in the robbery. In addition, it was shown that appellant married Nell Myers about eight months after the time she was alleged to have operated the house of prostitution, and lived with her for six months before they were divorced.
+Under these circumstances and the penalty assessed, we cannot bring ourselves to the conclusion that the error mentioned was harmless.
+Other matters appearing in the record ha,ye been examined and are overruled without discussion.
+For the error pointed out, the judgment is reversed and the cause remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
