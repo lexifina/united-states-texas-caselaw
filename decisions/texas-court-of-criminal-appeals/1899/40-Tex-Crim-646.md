@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1730"
+decided: "1899-03-22"
+citations: ["40 Tex. Crim. 646"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. L. George v. The State."]
+source_url: "https://static.case.law/tex-crim/40/cases/0646-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 163879
+cites_cases: ["34 Texas Crim. Rep., 588", "65 Mo., 494"]
+---
+
+# George v. State
+
+## Majority (HENDERSON, Judge.)
+
+HENDERSON, Judge.
+Appellant was convicted of perjury, and his punishment assessed at confinement in the penitentiary for a term of two years, and he appeals.
+Appellant made a motion to quash the indictment on the ground “that the same charged no offense against the laws of the State, in that said indictment shows upon its face that the statement assigned as perjury was an immaterial statement, or a statement concerning an immaterial matter, not affecting any issue involved in the trial of the case on the trial of which said perjury is alleged to have been committed; (2) that the statement in said indictment alleged as perjury is, as shown by the indictment, the denial of a statement made when the defendant is not alleged to have been under oath, and no denial thereof under oath will, under the law, support an assignment of perjury.” We have examined the indictment critically, and, in our opinion, it is sufficient. The gist of the charge, as we understand from the indictment, is that the appellant in this case was a witness in a certain case in which the State of Texas was plaintiff and Dan Jones was defendant, on a charge of an as.sault with intent to commit robbery. On the trial of said case, appellant appears to have been a witness for said Jones, and, among other things, testified that the man Who assaulted one Walker was a small man; the evidence being that the said Jones'was a large man, and the effect of his testimony being to show that it could not have been Dan Jones. On the cross-examination, as a predicate for his impeachment, he was asked if he did not state, in the presence of certain parties named in the indictment, and at a certain time and place, to wit, on the morning after the alleged commission of said assault, that the party who made said assault upon said H. 0. Walker was a large man. This he denied, stating that he did not so state. On this predicate the perjury was assigned. ' The testimony of appellant on the trial of the Jones case was upon a material matter; that is, he testified to a fact tending to show that it could not have been J ones who committed the assault with intent to rob, because J ones was a large man, and the party, according to his evidence, who made the assault, was a small man. How, it was competent for the State to show that he had made a statement contradictor to this, and such contradictory statement was material, and he could be impeached on the same; and we understand the indictment to lay the predicate upon said false statement in a logical method. It was not basing the perjury upon the unsworn statement, but upon the sworn testimony of appellant; that is, he swore on the trial of the Jones case that he had never stated to the parties named, and on the occasion referred to, that the party making the assault was a large man. It was competent to contradict him upon this issue, which was done in the trial of the Jones case, and, it being upon a material issue, it was competent to base a prosecution for perjury upon said false statement.
+We have carefully examined the record, and, in our opinion, the evidence amply supports the finding of the jury. The judgment is affirmed.
+Affirmed.
+Davidson, Presiding Judge, absent.
+
+## Rehearing (HENDERSON, Judge.)
+
+ON MOTION EOR REHEARING.
+HENDERSON, Judge.
+This case was decided at the Dallas term and comes before us on motion for rehearing. Appellant contends that the court committed an error in holding that the predicate assigned for the perjury was sufficient, the predicate for the perjury alleged in the indictment being in this wise: That one Dan Jones was on trial for assault to rob, and defendant R. L. George, whom it was claimed was present at the time of the robbery, was then and there introduced as a witness in behalf of the defendant, and the defendant proved' by him that the man who committed the assault was a small man; it being in that connection shown that Dan Jones, who was then on trial, was a large man. On cross-examination the State asked the witness if he did not state, at a time and place named, on the morning after the assaidt, to A. J. Ward and others, that the party who made the assault was a large man, and about the size of Henry Green; to which the witness .■answered “Ho.” How, it is claimed by appellant that this answer of the witness, on which the perjury in this case is assigned, was not a material matter in the trial of said Dan Jones; it being insisted that it was not in anywise calculated to influence the tribunal. We can not agree to this contention. Appellant swore to a very material fact in the Dan • Jones case when he testified that the party who made the assault to rob was a small man, and it was competent for the State to impeach him on this testimony. What he may have said to others in contravention of his testimony given on the trial as to the size of the party committing the assault was material. While his testimony remained before the jury unimpeached, it was very material on behalf of the defendant, as it served to influence the tribunal in his favor in that case. If, on the other hand, the State should be enabled to impeach him, the impeaching testimony was material, as it served the purpose of destroying his defense, and so was calculated to influence the tribunal in favor ■ of the State. When the witness answered that he had not made the statement to the parties inquired about that the party committing the assault was a large man, he stated a fact that was material to be inquired •about. If it remained uncontradicted, of course his testimony would be unimpaired; but, if the State should contradict him on this matter, it would serve to impair his testimony before the jury; and his testimony before the jury, as stated before, was upon a very material issue in the case. State v. Mooney, 65 Mo., 494; Williams v. State, 68 Ala., ■ 551. The motion for rehearing is overruled.
+Motion overruled.
