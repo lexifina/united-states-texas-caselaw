@@ -1,0 +1,110 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,431"
+decided: "1958-01-08"
+citations: ["165 Tex. Crim. 652"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Thomas Dossey v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0652-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2615944
+cites_cases: ["109 S.W. 2d 1061", "116 S.W. 2d 1079", "123 Texas Cr. Rep. 209", "133 Texas Cr. Rep. 292", "134 Texas Cr. Rep. 490", "140 Texas Cr. Rep. 593", "145 Texas Cr. Rep. 526", "146 S.W. 2d 381", "153 Texas Cr. Rep. 52", "154 Texas Cr. Rep. 101", "157 Texas Cr. Rep. 603", "159 Texas Cr. Rep. 396", "160 Texas Cr. Rep. 407", "161 Texas Cr. Rep. 436", "163 Texas Cr. Rep. 160", "164 Texas Cr. Rep. 521", "169 S.W. 2d 178", "193 S.W. 675", "217 S.W. 2d 673", "218 S.W. 494", "225 S.W. 2d 417", "243 S.W. 478", "252 S.W. 2d 186", "264 S.W. 2d 432", "271 S.W. 2d 814", "277 S.W. 2d 723", "297 S.W. 2d 174", "301 S.W. 2d 141", "311 S.W. 2d 831", "58 S.W. 2d 535", "81 Texas Cr. Rep. 66", "86 Texas Cr. Rep. 498", "92 Texas Cr. Rep. 212"]
+---
+
+# Dossey v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is driving while under the influence of drugs; the punishment, 30 days in jail and a fine of $100.00.
+Police Chief Cage testified that on the day in question, while he was leading a funeral procession, he motioned to the appellant, who was driving a pickup truck, to await the passage of the procession but that the appellant, instead of complying with such instruction, pulled in front of the hearse; that he called the Highway Patrol on his radio; and that after the completion of the procession he returned and found the appellant in the custody of the patrolman. He stated that when he arrived upon the scene the appellant was asleep leaning on the steering wheel; that he aroused him, observed that “his eyes were all glassy and his tongue was thick, he couldn’t hardly talk.” He testified that he instructed the appellant to get out, observed that he could not stand without bracing himself against the truck, carried him to a doctor’s office for examination, and then placed him in jail. He further stated that he had known the appellant for some time and based his observation of him on the day in question on such acquaintance, and he expressed the opinion that the appellant was under the influence of drugs to a degree which rendered him incapable of safely driving a vehicle.
+Dr. Jordan testified that he examined the appellant at the request of the' officers and concluded that he was under the influence of “a drug, probably barbituric” to a degree which would render him incapable of safely driving a vehicle.
+The appellant did not testify in his own behalf but called witnesses' who testified that the muifler on his pickup truck was defective and that the appellant had been ill and vomiting for several days before his arrest.
+We find the evidence sufficient to support the conviction and shall discuss the contentions advanced by appellant’s able counsel in his brief.
+He first contends that Section 50 (a) of Article 6701d, V.A. C.S., under Which this prosecution is brought is unconstitutional. It is as follows:
+“It is unlawful for any person who is under the influence of any narcotic drug or who is under the influence of any other drug to- a degree which renders him incapable of safely driving a vehicle to drive a vehicle within this state. The fact that any person charged with a violation of this Section is or has been entitléd to use such drug under the laws of this state shall not constitute a defense against any charge of violating this Section.” .
+Appellant relies upon Ex parte Chernosky, 153 Texas Cr. Rep. 52, 217 S.W. 2d 673; Cogdell v. State, 81 Texas Cr. Rep. 66, 193 S.W. 675; and Griffin v. State, 86 Texas Cr. Rep. 498, 218 S.W. 494.
+In Chernosky, this court held that the term “reckless driving” as defined in the act relating to traffic on highways was too vague and indefinite to be enforceable.
+In Cogdell, this court held that an act which provided that “any agent selling any concentrated commercial feeding stuff with a label stating that said feeding stuff contains substantially a larger percentage of protein, or a smaller quantity of crude fiber than is contained therein, shall be fined” was too indefinite and too uncertain to prescribe an offense.
+In Griffin, this court held inoperative and unenforceable because of vagueness the following statute:
+“It shall be unlawful for any person to operate an automobile, motorcycle or bicycle, upon the public highways of this state, at nighttime, whose front lamps shall project forward a light of such glare and brilliancy as to seriously interfere with the sight of, or temporarily blind the vision of, the driver of a vehicle approaching from an opposite direction.”
+The appellant pitches his criticism at the phrase “to a degree which renders him incapable of safely driving a vehicle.”
+The state, on the other hand, relies upon a number of cases, among them being Ex parte Trafton, 160 Texas Cr. Rep. 407, 271 S.W. 2d 814, wherein we held that our muffler statute was not vague and uncertain because of the use of the terms “excessive and unusual noise.”
+Attention is further directed to the holding in Morgan v. State, 134 Texas Cr. Rep. 490, 116 S.W. 2d 1079, wherein this court said that, if the phrase “while in a degree under the influence of intoxicating liquor” be rejected as surplusage, the driving while intoxicated statute still charged an offense. We have concluded that the rule expressed in Morgan is here controlling and, if the phrase about which the appellant complains be rejected as surplusage, the act still denounces the offense of driving a motor vehicle while under the influence of a drug.
+Appellant objected to that portion of the charge wherein he set forth the terms of the act under which this prosecution was had because of the use of the word “narcotic.” He contends that, since the evidence did not show the appellant was under the influence of a narcotic drug, it was error for the court to mention the same in his charge.
+Recently in Martinez v. State, 157 Texas Cr. Rep. 603, 252 S.W. 2d 186, we said:
+“Appellant’s next contention is that the court erred in his charge by including some of the elements of the statute which did not apply to the instant prosecution. The court first stated the law and then, when he came to apply the law to the facts of the case, made a direct application to the evidence in the case.
+“It has long been the law in this state that the court properly states the general principles of law defining the offense charged and then makes a direct and pertinent application of the law to the case as made by the facts. Davis v. State, 10 Texas Cr. App. 31.”
+The rule there stated applies and is controlling here.
+Appellant next complains that the court erred in failing to submit his defense of “sickness.”
+In Humphrey v. State, 159 Texas Cr. Rep. 396, 264 S.W. 2d 432, we had a similar contention. We held that sickness was not an affirmative defense in a driving while intoxicated case.
+He further objected to the charge because it did not define the terms “incapable” and “safely driving a vehicle.” It has been the consistent holding of this court that non-technical terms which have an ordinary meaning and are commonly understood need not be defined. See Randolph v. State, 145 Texas Cr. Rep. 526, 169 S.W. 2d 178.
+He contends that the rule announced in Apodaca v. State, 140 Texas Cr. Rep. 593, 146 S.W. 2d 381, was violated when the court permitted the witness Cage to give his opinion that the appellant was under the influence of drugs when it appeared that Cage had required the appellant to get out of his pickup truck and “walk around.”
+During his direct examination by state’s counsel, no mention was made of Cage’s requiring the appellant to walk. On cross-examination, appellant’s counsel elicted such information and then moved for a mistrial. Recently, in Galan v. State, 164 Texas Cr. Rep. 521, 301 S.W. 2d 141, in discussing a similar contention, we held that a motion requesting the court to instruct the jury not to consider certain testimony of a witness would not take the place of an objection which should have been timely made. Here, the testimony about which the appellant complains was developed by the appellant himself, and he cannot now be heard to complain of its admission into evidence. See also Housewright v. State, 154 Texas Cr. Rep. 101, 225 S.W. 2d 417.
+Appellant’s last contention is that two of the state’s witnesses were permitted to testify as to the ultimate issue which was to be determined by the jury.- Recently, in Cordero v. State, 163 Texas Cr. Rep. 160, 297 S.W. 2d 174, this court had occasion to discuss such a contention and there overruled the position which the appellant takes in the case at bar. See also Piester v. State, 161 Texas Cr. Rep. 436, 277 S.W. 2d 723.
+Finding no reversible error, the judgment of the trial court is affirmed.
+
+## Rehearing
+
+ON APPELLANT’S MOTION FOR REHEARING
+REHEARING DENIED.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+The majority of the court overrule appellant’s motion for rehearing without written opinion.
+To that conclusion, as also the affirmance of the conviction, I here respectfully enter my dissent.
+There is no statute which makes unlawful the acts which the appellant was charged in the information with having committed.
+The information against the appellant charged'him with the commission of no offense denounced by any law of this state. He has been convicted and condemned to serve thirty days in jail and pay a fine of $100 for doing an act not made unlawful by any statute of this state.
+When the majority of this court affirm this conviction, they create the offense by the exercise of judicial power and make unlawful the act for which appellant stands convicted, which is the violation of a law created by the judicial legislation of a majority of this court enacted and ordained after the. acts of appellant had been committed. That conviction is affirmed by the same authority that created the law. •
+Appellant’s conviction is without authority of law and is a flagrant violation of due- process of law as guaranteed by both State and Federal Constitutions.
+In support of what I have said and charged, I call attention to the.fallowing:
+In 1947, the legislature of this state, in an apparent endeavor to cover the subject of traffic regulation on the highways, enacted Chap. 421, Acts of the Regular Session of the 50th Legislature, and denominated it as the “Uniform Act Regulating Traffic on Highways” (Emphasis, supplied). The act is annotated under Vernon’s Revised Civil Statutes as Art. 6701d, and is composed of eighteen articles containing one hundred fifty-six sections.
+At the outset of the act the legislature, by Secs. 1 and 2 (a) of Art. 1 of the act, specially and specifically provided that all words and phrases, including the term “vehicle,” when used “in this Act shall, for the purpose of this Act, have the meaning respectively ascribed to them in this Article.”
+The legislature proceeded, in Sec. 2, to define the term “vehicle,” and there said:
+• “Every device in, upon, or by which any person or property is or may be transported or drawn upon a highway, except devices moved by human power or used exclusively upon stationary rails or tracks.”
+In order that there might be no question as to the meaning of the term “motor vehicle” as used in the act, the legislature defined such term as:
+“Every vehicle which is self-propelled and every vehicle which is propelled by electric power obtained from' overhead trolly wires but not operated upon rails.”
+The distinction between the two terms is readily apparent, and rests, primarily, in the motivation or propelling power: A “vehicle” is a device by or upon which property or persons may be transported or drawn upon a public highway, regardless of the propelling power applied thereto.' A “motor vehicle”- is a vehicle which is self-propelled, or propelled by electric power. Unless the vehicle be. thus propelled it can not come within the definition of “motor vehicle.” When the vehicle is self-propelled or propelled by electricity it becomes a “motor vehicle.”
+A “vehicle” may become and be transferred into a “motor vehicle,” but a “motor vehicle” can never become a “vehicle.” The motivating power precludes it.
+By the same process of reasoning, then, an automobile is a motor vehicle, but when it ceases to be self-propelled it is no longer an automobile.
+After defining “vehicle” and “motor vehicle” the legislature, by Sec. 50, proceeded to make it “unlawful for any person who is under the influence” of any drug other than a narcotic drug “to a degree which renders him incapable of safely driving a vehicle to drive a vehicle within this state.”
+In order to give to that unlawful act a sweeping and all-encompassing effect, the legislature expressly provided that the fact that the drug was lawfully purchased, used, and obtained for medicinal purposes, or taken or used under the direction of a physician, could constitute no defense to the unlawful act.
+Nowhere in Sec. 50 do we find the word “motor vehicle.” Every reference is to a “vehicle.” Moreover, under Sec. 50 the unlawful driving of the vehicle is not restricted to the public highways of this state but covers and includes the driving thereof entirely and exclusively upon one’s private property.
+Such are the statutes controlling and the definitions set out when the state came on to charge this appellant with a violation thereof.
+It is here charged that appellant “willfully, while under the influence of drugs to a degree which rendered him incapable of safely driving a vehicle, did drive and operate a motor vehicle, to-wit a pickup, upon a public highway . . . ,” and it is under such charge that appellant has been convicted.
+As pointed out, the statute nowhere makes it unlawful to drive a motor vehicle while under the influence of a drug. The only act made unlawful is the driving of a vehicle, which is a device or instrumentality entirely separate and distinct from a motor vehicle and which is not and can not be a motor vehicle.
+The information charged no act made unlawful by any statute of this state. No statute exists which makes unlawful the act charged in the information.
+The only authority for a contrary conclusion and for the affirmance of this conviction is that, by judicial legislation, a majority of this court have created the unlawful act for which appellant has been convicted, in express violation of the Constitution of this state which says that the authority for making laws rests exclusively with the legislature.
+But if Sec. 50 be construed as including motor vehicles, such section is invalid and contrary to the Constitution and laws of this state for this further and additional reason:
+Sec. 50 makes it unlawful for one to drive a vehicle anywhere in the State of Texas when he is under the influence of a drug which renders him incapable of safely driving that vehicle.
+Not being restricted to public roads or highways but expressly covering any place “within the state,” the driving locale includes one’s own private property, farm, or ranch.
+So on the very face of the statute the legislature has legislated upon, and denied to the individual, the free use and enjoyment of his property in express violation of the Constitution of this state, which says that one can not be deprived of his property except by due process of law (Art. 1, Sec. 19, Const.).
+If we give to the term “vehicle” the meaning which the definition does, then it includes a horse, mule, or burro, saddled or unsaddled, or when hitched to any cart, wagon, or implement, because a person or property may be transported thereon or therein or drawn thereby.
+If the term “vehicle” includes motor vehicles, then there are included within the term all motor vehicles, automobiles, trucks, trailers, and all horse-or-motor drawn farm implements and almost everything used upon a farm except a wheelbarrow— and that would be included if a horse were hitched to it.
+The owner’s right to the free and untrammeled use of any and all of such property upon his own premises and upon his own lands is, by this statute, destroyed.
+In determining the validity of a statute as violative of constitutional guarantees, a determining factor is the ascertaining of what the statute authorizes to be done thereunder and not what may have been done in some particular instance.
+But the invalidity of the statute does not stop with what has been pointed out. There is another patent defect therein:
+What is meant by “incapable of safely driving a vehicle?” Guilt under the statute depends upon the meaning of that phrase. To understand its meaning we must know when a vehicle is being safely driven, for without that knowledge, we have no way of knowing that an individual is incapable of safely driving it. Under the statute that determination is left to the will of the individual making it.
+Then, to ascertain what constitutes “safely driving a vehicle” we must explore the mind of the accused and examine his physical condition and determine therefrom whether he is incapable of safely driving the vehicle — all of which demonstrates that the statute is so vague and indefinite in that respect that it cannot stand as a criminal statute.
+The citation of authorities sustaining that proposition ought not to be necessary, but I note a few, here:
+Ex parte Chernosky, 217 S.W. 2d, 673, Griffin v. State, 86 Texas Cr. Rep. 498, 218 S.W. 494; Ex parte Meadows, 133 Texas Cr. Rep. 292, 109 S.W. 2d 1061; Ex parte Slaughter, 92 Texas Cr. Rep. 212, 243 S.W. 478; Rowland v. State, No. 28,357, not yet reported (dissenting opinion). 311 S.W. 2d 831.
+Not knowing and not having a way of ascertaining when one is incapable of safely driving a vehicle, it is my opinion that we have no way of knowing whether the facts warrant his conviction.
+There is still another reason why this conviction should not be affirmed:
+The átatute, Sec. 50, refers to “any other drug” as being the influencing medium. This general reference follows the specific mention and naming of “any narcotic drug.” The phrase, “any other drug,” has either one of two meanings: If we apply the long-accepted rule of ejusdem generis — that is, that general words following an enumeration of particular or specific things will be confined to things of the same kind — then the term, “any other drug,” following the specific reference to' “any narcotic drug,” must be construed as'meaning any other drug of the same kind as a narcotic drug. If-that 'construction be not adopted, then the term, “any other drug,” means any and all drugs other than narcotic drugs.
+It is immaterial which construction is here adopted, because the accused is entitled to know what drug he used and if the state does not know then he is entitled to have the state say that the drug is unknown. He is entitled to one or the other allegation.
+Here, the information charged only that appellant was “under the influence of drugs to a degree which rendered him incapable of safely driving a vehicle.”
+By motion to quash, appellant insisted that he was entitled to have the information allege what the drug was of which he was under the influence.
+The motion to quash should have been sustained.
+The case of Baker v. State, 123 Texas Cr. Rep. 209, 58 S.W. 2d 535, directly supports the conclusion just expressed. This court held that an indictment, therein, for selling a narcotic drug should “name the particular drug so possessed, or sold in the particular case.”
+The narcotic statute (Art. 725b, Vernon’s P.C.) makes it unlawful, among other things, to sell or possess a narcotic drug which, according to the act, includes many different substances.
+The legislature made no attempt to define “any other drug. It is therefore used in the sense generally understood.
+Webster defines a drug as “A chemical substance given with the intention of preventing or curing diseases or otherwise enhancing the physical or mental welfare of men or animals.”
+When my brethren say that the appellant is not entitled to be given notice of the drug of which he was under the influence when he operated the vehicle they hold that all drugs are capable of rendering one incapable of operating a vehicle in this state.
+If the accused is not entitled, as my brethren hold, to be given notice of the drug of which he was under the influence, the only reason therefor is that all drugs are capable of producing that effect. If there be drugs that would not influence the driving of the vehicle they would, of necessity, be excluded from the definition, and the definition would apply to only those drugs that would influence one in driving a vehicle.
+This demonstrates that the accused is entitled to know the drug upon which the state relies as influencing the operator of the vehicle.
+If by what I have said in this dissenting opinion I have left the impression that this statute is absurd and ridiculous and appellant’s conviction thereunder a travesty on justice, that is exactly one of the things I had in mind to do, for that is the way I feel about this statute and this conviction.
+I respectfully dissent.
