@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1144"
+decided: "1911-10-18"
+citations: ["63 Tex. Crim. 370"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dick Carney v. State."]
+source_url: "https://static.case.law/tex-crim/63/cases/0370-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2374228
+---
+
+# Carney v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+Complaint and information thereon were filed in the County Court of Haskell County, charging the appellant with unlawfully carrying on and about his person a pistol, on December -27, 1910. He was tried January 16, 1911, before a jury which convicted him and fixed his punishment at a fine of $100.
+The court gave, as the record shows, a charge substantially correct and properly submitting the questions to the jury, and in addition gave two separate special charges at appellant’s instance.
+There are but two grounds of the motion for a new trial, and but two errors assigned.. The first is a complaint at the action of the county attorney in consulting some of the witnesses, but this ground is not. supported by any bill of exceptions, and on that account, if for no other, can not be considered by this court.
+The other ground is the refusal of the court to give a special charge at appellant’s instance, “that if he was a traveler at the time he is charged with carrying a pistol, the jury should acquit him.” We can not consider this question either, because there .is no statement of facts in the record. It has been the uniform holding of this court that the stenographers’ Act applies only to felony cases tried in the District Court, and that it does not apply to misdemeanor cases ' tried in the County Court, but that the old statute is still in force which requires that the statement of facts shall be copied into the record and made a part of it, and properly certified by the clerk, otherwise this court can not consider it. We find on a separate piece of paper, not certified to by the clerk and not contained in the record, what purports to be a statement of facts, but we do not consider it, and can not under the law. We have had occasion recently to pass upon this question in several cases not yet reported, among them Tucker v. State, which see. In the absence of a statement of facts, we must presume that there was no evidence raising any such issue, or the court would have submitted it.
+The complaint and information, charge of the court, verdict and judgment being regular and proper, we can not consider the assigned error of the court’s refusal to give appellant’s special requested charge, and, therefore, the judgment will be affirmed.
+Affirmed.
+Davidson, Presiding Judge, absent.
