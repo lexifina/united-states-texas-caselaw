@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "8907"
+decided: "1925-04-22"
+citations: ["100 Tex. Crim. 52"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jackson Ware v. The State."]
+source_url: "https://static.case.law/tex-crim/100/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5098666
+---
+
+# Ware v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Appellant was convicted in the district court of Bexar County of rape, and his punishment fixed at five years in the penitentiary.
+The record is before us without any bills of exception. No brief appears for appellant. The facts support the conclusion of the jury. A girl under the age of consent testified positively to the fact of appellant’s repeated intercourse with her. A physician who examined her, testified to corroborative facts. Three special charges were requested, but nothing in the record indicates either of them was presented to the court at the proper time, or that any exception was reserved to the refusal of the court to give them. Exceptions to the main charge also appear, but the matter contained therein does not appear to be erroneous.
+The judgment will be affirmed.
+Affirmed.
