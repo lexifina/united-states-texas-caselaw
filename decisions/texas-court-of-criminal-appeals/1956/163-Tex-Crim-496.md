@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,285"
+decided: "1956-10-10"
+citations: ["163 Tex. Crim. 496"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Carrol Reynolds v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462588
+cites_cases: ["11 S.W. 646", "117 Tex. Cr. R. 141", "12 Tex. App. 163", "148 Tex. Cr. R. 360", "169 S.W. 299", "187 S.W. 2d 86", "22 Tex. App. 551", "260 S.W. 603", "27 Tex. App. 700", "3 S.W. 745", "35 S.W. 2d 735", "74 Tex. Cr. R. 505", "97 Tex. Cr. R. 222"]
+---
+
+# Reynolds v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+The original opinion in this case is withdrawn, and the following is substituted in lieu thereof:
+This is a conviction under an indictment charging that appellant, in an intoxicated condition, killed deceased by accident and mistake while operating an automobile upon a public highway.
+At the outset, we are confronted with a question which has not been heretofore before this court.
+Mrs. John P. Young, the wife of the district attorney who actively conducted the trial of this case for the prosecution, was a member of the jury panel from which the jury in this case was selected.
+Upon her voir dire examination, Mrs. Young qualified as a prospective juror. She testified that she could not say that she had a fixed opinion in the case, and asserted that she could accord the appellant a fair trial under the law and the evidence. Upon examination by counsel for the appellant, she admitted that she did not want to be disqualified as a juror in the case but would like to sit on the jury.
+Appellant’s challenge to the juror was overruled, and appellant excepted. The bill of exception presenting the question certifies (a) that the appellant exercised one of his peremptory challenges and excused Mrs. Young from the jury; (b) that appellant was forced to and did exhaust all his peremptory challenges; and (c) that appellant was forced to accept an objectionable juror.
+The bill of exception is sufficient to present for the review of this court the trial court’s action in overruling appellant’s challenge to the-juror.
+Art. 616, C.C.P., touching the reasons or ground for a challenge for cause nowhere states as a ground therefor any relationship of the juror to the prosecuting attorney. Sec. 10 of that article disqualifies a juror who is related to the private prosecutor in the case.
+In Mathis v. State, 97 Tex. Cr. R. 222, 260 S.W. 603, we held that a juror who was related to the county attorney was not disqualified, and that the disqualification mentioned in Sec. 10 of Art. 616, C.C.P., did not apply to the public officer charged by law with the prosecution. The Mathis case appears to support the trial court’s ruling in the instant case. It should be pointed out, however, that it was not shown in that case that the county attorney was actively conducting the prosecution of the case, as is here reflected.
+Appellant recognizes that there exists no statutory provision sustaining his contention that the wife of the district attorney was subject to challenge. He does insist, however, that the wife of the district attorney was not and could not be an impartial juror.
+In Burge v. State, 117 Tex. Cr. R. 141, 35 S.W. 2d 735, it was held error to force the accused to try his case before a juryman who was a brother of one of the principal witnesses in the case and that such action deprived the accused of a trial by an impartial jury. In that case, Burge had exhausted his peremptory challenges and had no way to protect himself against the juror being forced upon him.
+Here, the appellant did exercise one of his peremptory challenges on the juror but, in so doing, exhausted his challenges and was thereafter forced to accept an objectionable juror on the jury that tried him.
+If a brother be disqualified to sit as a juror in a case where another brother was interested in the prosecution and was a principal witness, how much more so would the wife of the prosecuting attorney be disqualified! A wife is interested in the successes of her husband and rejoices with him in his victories; equally so does she feel disappointment in her husband’s defeats and reverses.
+While the wife of a district attorney may say and feel in her heart that she can give a fair and impartial trial to one charged with crime and prosecuted by her husband, yet human nature tends strongly to the contrary. In any event, a fair and impartial trial, as guaranteed by our Constitution, dictates that the wife of the prosecuting attorney ought not to sit as a juror in a case in which her husband is the prosecuting attorney and representative of the state. See: Stockton v. State, 148 Tex. Cr. R. 360, 187 S.W. 2d 86; Page v. State, 22 Tex. App. 551, 3 S.W. 745; Powers v. State, 27 Tex. App. 700, 11 S.W. 646; Wright v. State, 12 Tex. App. 163.
+But our disposition of this case does not depend, alone upon the fact that the prospective juror was the wife of the district attorney.
+The bill of exception presenting this matter shows that the district attorney was listed as a witness in the case and, at the motion of the appellant, the state had so certified at the time the jury was being selected. ■
+The wife was an incompetent juror, then, because of her relationship to the prosecuting attorney who was also listed as a witness in the case. Burge v. State, supra.
+One improper juror destroys the integrity of a verdict. Sorrell v. State, 74 Tex. Cr. R. 505, 169 S.W. 299.
+In view of another trial, the state should be careful to prove the specific designation in the indictment as to the street where the tragedy occurred, as well as the name of the deceased, as alleged, or that he was known by the name alleged.
+For the error pointed out, the judgment is reversed and the cause is remanded, and the state’s motion for rehearing is overruled.
