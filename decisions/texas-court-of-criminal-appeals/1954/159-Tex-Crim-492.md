@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,768"
+decided: "1954-01-20"
+citations: ["159 Tex. Crim. 492"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["David Leslie Berry v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477914
+cites_cases: ["130 Tex. Cr. R. 656", "154 Tex. Cr. R. 217", "226 S.W. 2d 449", "95 S.W. 2d 412"]
+---
+
+# Berry v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted for the offense of driving while intoxicated, and his punishment was assessed at sixty days in jail and a fine of $150.
+There is no statement of facts on the main trial in the record.
+Appellant alleged in his unverified motion for a new trial that he was induced to enter a plea of guilty in this case based upon the promise of an official in the sheriff’s office that he would be assessed a fine of One Hundred Dollars.
+The following evidence was offered on said motion:
+Appellant’s father, J. D. Berry, testified that he, while appellant was in jail, talked to a man in the sheriff’s office who assured him that if appellant would plead guilty his fine would be One Hundred Dollars; that he told appellant what this man said and. advised him to plead guilty; that he did not know the man with whom he talked in the sheriff’s office.
+Appellant testified that his father told him what the man in the sheriff’s office said and, relying thereon, he entered his plea of guilty in this case.
+The sheriff and his deputies testified and each denied promising appellant’s father that appellant’s fine would be One Hundred Dollars in the event he pleaded guilty.
+The decision on the motion for a new trial rested within the sound discretion of the trial court and, in the absence of an abuse of discretion, this court would not be justified in reversing the judgment. We are of the opinion that the court, upon the testimony offered, did not abuse his discretion in overruling said motion. Boggus v. State, 130 Tex. Cr. R. 656, 95 S.W. 2d 412; Jordan v. State, 154 Tex. Cr. R. 217, 226 S.W. 2d 449; and Art 757, Vernon’s Ann. C. C. P.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the Court.
