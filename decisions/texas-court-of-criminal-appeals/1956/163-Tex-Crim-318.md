@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,371"
+decided: "1956-06-06"
+citations: ["163 Tex. Crim. 318"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tim McWhorter v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460098
+---
+
+# McWhorter v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant was charged by indictment with the offense of possession of a narcotic drug, to-wit, marijuana.
+The trial court appointed an attorney to represent defendant and appellant expressed the desire to enter a plea of guilty and requested the consent and approval of the district attorney in waiving the right of a trial by jury. The consent and approval was signed by the assistant district attorney, and the indictment being read and appellant being duly admonished as to the consequences of his plea, pleaded guilty before the court.
+At the close of the evidence the trial judge pronounced judgment assessing appellant’s punishment at three years in the penitentiary, and time for filing motion for new trial being waived, appellant was sentenced to a term of not less than 2 nor more than 3 years.
+A week later appellant’s attorney on this appeal filed motion for new trial which was overruled the same day and notice of appeal was entered.
+The sufficiency of the evidence to support appellant’s plea of guilty and to sustain the conviction is the sole ground upon which reversal is sought.
+Police Officer Brewer was called as a state’s witness and testified that on November 26, 1955, he saw appellant coming out of one of the two rooms of the Samarie Hotel in Lubbock which were being raided; that appellant was “staying there in the room” and was being brought out under arrest by another officer who had in his possession a small grocery bag of what the officers believed to be marijuana, a small match box and 18 cigarettes; that he had seen marijuana before and in his opinion this that had been taken from appellant was marijuana.
+The assistant district attorney then stated that the cigarettes and contents of the penny match box and the paper sack had been sent to Austin and the report was not available, for which reason it was stipulated between defense and counsel for the state that the contents of the paper bag, match box and cigarettes was marijuana. Appellant’s court-appointed counsel stated: “It is so stipulated. Your Honor.”
+While it is true that proof of criminative facts may not be waived by counsel for an accused, the state was not under the necessity of relying upon the waiver or stipulation. In the absence of any objection or proof to the contrary, the testimony of the officer was sufficient to support the plea of guilty and the finding by the trial court that the contents of the paper sack, match box and cigarettes taken from appellant’s room was marijuana.
+The judgment is affirmed.
