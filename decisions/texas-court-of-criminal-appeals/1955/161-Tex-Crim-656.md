@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,539"
+decided: "1955-04-27"
+citations: ["161 Tex. Crim. 656"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walt Williams v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0656-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2464986
+---
+
+# Williams v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is aggravated assault; the punishment, a fine of $75.00. The grounds of aggravation alleged were that the appellant was an adult male and the injured party was a female.
+The testimony of the prosecutrix and the seven state’s witnesses may be summarized as follows: The prosecutrix went to a grocery store operated by the appellant, selected a few items, and presented herself at the counter. The prosecutrix says that no customer was at the counter when she got there. The other witnesses are uncertain on this point.
+The appellant told the prosecutrix that he could not check her out because he was in the process of checking out someone else; he took the bill which she tendered but declined to make change. After some waiting, the prosecutrix asked for the return of her money, stating that she was in a hurry and would not wait to make the purchases. The appellant tore the prosecutrix’ currency in two, handed her one-half thereof, and when she demanded the remaining portion of the bill the appellant came from behind the counter and pushed her out the front door. The prosecutrix stated that the appellant picked her up and threw her down on the sidewalk outside the store. Other witnesses said that he gave her a shove and she fell. Prosecutrix got up and started back in the store, and the appellant told her not to come in; she stated that she had left her purse on the counter, and the appellant told her he would get it and threw it through the door toward her. Prosecutrix sustained an injury to the nerve in her arm as the result of the fall on the sidewalk.
+Appellant and his witnesses testified that the prosecutrix attempted to pay for her purchases without waiting her turn in line, that the appellant told her to take her place in line, and that the prosecutrix said, “If that’s the way it is you can take your damn groceries and keep them.” The appellant testified that he got confused and tore a dollar bill which he had in his hand in two and handed the prosecutrix one-half of it and said, “That’s yours for being so damn smart.” The appellant testified that he and the prosecutrix were both talking in an ordinary tone of voice. The appellant admits that he went around the counter, took hold of the prosecutrix, pushed her to the door, and that she fell down on the sidewalk.
+The jury resolved what little conflict there was between the testimony of the witnesses for the state and the defense, and we find the evidence sufficient to support the conviction.
+The only question presented for review is that portion of the court’s charge in which he told the jury to acquit the appellant if they found that he acted in defense of his property. The appellant contends that the charge as given was not correct. It will not be necessary for us to pass upon the sufficiency of the charge because the facts do not warrant the giving of any such charge. The appellant stated that he ejected the prosecutrix from his store because “she was inieferring with my other customers, and from the manner and tone of her voice and from the language she was using, I thought it would be bad for my business for her to stay.”
+Such does not justify an assault or constitute a defense of property as provided by Section 4 of Article 1142, V.A.P.C.
+The judgment of the trial court is affirmed.
