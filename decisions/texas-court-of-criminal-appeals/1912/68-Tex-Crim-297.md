@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2085"
+decided: "1912-11-27"
+citations: ["68 Tex. Crim. 297"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. C. Fisher v. State."]
+source_url: "https://static.case.law/tex-crim/68/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4649349
+---
+
+# Fisher v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+— Appellant was convicted of aggravated assault and battery, his punishment being assessed at a fine of $50.
+The record is rather extensive in detailing the facts, but it discloses, in substance, that appellant had made a purchase of some hogs and carried them to the depot for the purpose of shipping them. The alleged assaulted party was J. D. Killough, the depot agent. Appellant approached him with reference to obtaining transportation for his hogs. Killough was somewhat discourteous, and appellant went away. Later the same evening appellant returned and Killough did not give him any satisfaction about the matter, and some hot words ensued. Appellant claims that Killough went to the drawer in the agent’s office to get a pistol and did in fact get the pistol, and he, appellant, left. The State’s evidence denies that Killough got the pistol, but states that he went to the drawer and pulled it out but did not secure a pistol. The matter went on in this way from Monday until Wednesday when appellant went to the stock pens at the depot and began preparations to ship his hogs. At the time Killough came upon him or went to where he was, appellant was sawing some planks about the pens with a view of making a chute by which he could get his hogs into a car. Killough came upon him and began to upbraid him about sawing the lumber. Appellant and Killough both testified in the case. Their statements are at variance. Killough says he did not know that appellant was at the pen at the time he went there to look after his cow and calf, which were also about the pen, but he came upon appellant sawing the planks with which the pen was made and upbraided him for it, and appellant, after some wordy altercation, struck him on the head with a handsaw which he was using. He denied taking hold of appellant. Appellant’s contention is, and he sustains it with evidence of his own and that of another witness, that he was preparing a chute by which to convey his hogs into a car when Killough left the depot and came down and raised trouble with him, and as he approached him he caught him, appellant, by the throat or collar with his left hand, running his right hand in his pocket, whereupon he struck back and hit Killough, and the blow fell upon Killough’s head. He claims he only struck twice. The evidence is in conflict, however, at this point as to whether there were two or three licks struck. When the combat ended Killough had a cut on his head something like five inches long, a scalp wound, the bones not being in any way injured or hurt; also had a wound on his left hand, and a slight one on his right arm. The doctor says the wound on the right arm amounted to nothing. The other wounds were not serious. The physician, Dr. Mathers, who attended Killough, stated that he was up in a couple of days and about his business. The saw appellant was using sawing plank was what is termed by the witness an ordinary No. 8 saw. There is some evidence going to show that one lick from the saw produced the wound on the head and the one on the left hand. There is also evidence showing that the teeth or that part of the saw used in sawing was the part of the instrument that came in contact with Killough’s head and hand.
+There were two counts in the indictment. The court submitted that which charged the assault was committed with a deadly weapon. Under the authorities, with the proof in this record, this saw did not constitute a deadly weapon. Where a weapon is not a deadly one per se, then it would depend upon its use, etc., as to whether it was a, deadly weapon or not. The wounds are not serious, and there is no evidence from any witness that the saw was a deadly weapon, and it is not a deadly weapon per se. For collation of authorities sustaining this contention see Branch’s Crim. Law, Sec. 82. Many cases are collated by Mr. Branch, and we deem it unnecessary to recite them in the opinion.
+The judgment is reversed and the cause is remanded.
+Reversed and remanded.
