@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "5315"
+decided: "1919-06-04"
+citations: ["85 Tex. Crim. 391"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willie Wales v. The State."]
+source_url: "https://static.case.law/tex-crim/85/cases/0391-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4781724
+cites_cases: ["210 S. W. Rep., 215", "47 Texas Crim. Rep., 588", "48 Texas Crim. Rep., 201", "63 Texas Crim. Rep., 370"]
+---
+
+# Wales v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was charged with selling intoxicating liquors as a retail malt dealer in quanities of one gallon or less without having first procured a license for such purpose, and did sell one bottle of beer to E. Herrin.
+There are some very interesting questions raised, but as we view the statement of facts the State has failed to make a case. It was agreed that local option was not in force in Galveston County where this transaction is alleged to have occurred. Ilerrin testified that on-day of-, 1917, he was in defendant’s place of business in the evening or night, it being after nine o’clock and about eleven o’clock. He found defendant in an upstairs room at No.——street in the City of Galveston, Galveston County. He requested appellant to sell him a bottle of beer which he did, and the witness paid him-for it and drank it. He said: “I asked him for beer and he gave it to me, and I paid him for it, and drank it.” He did not know whether appellant had license or not. He believed he had none. Wern testified that he was in defendant’s place of business on -day of-, 1917, with a friend, and requested two bottles of beer. Defendant handed them two bottles and his friend paid for them, and he, witness, bought a bottle of beer, paying -cents for it. He did not know whether appellant had license, or not, but believed he did not have. Chief of Detectives Dave Henry testified that he was an officer of the City of Galveston, and was on the-day of-, 1917; that he went with a squad of officers to defendant’s place on that night, and found several men there drinking, that, they arrested several of them; that defendant at first refused to open his place, and after the officer threatened to break it open he did open it and the officers says he found several cases of beer, some of it on ice, and some whisky. Herrin was recalled and testified: “I supposed it was beer that I bought. I could not say that it was intoxicating. I could not say it was or was not. I was once fooled by believing I was drinking beer, and found out afterwards that it was near beer that I drank.” This is the statement of facts.
+The indictment was returned in November, 1917, charging the transaction to have occurred on the 19th of August, 1917. The witnesses say they were in appellant’s place of busines on-day of -, 1917. This does not show whether before or after the indictment was returned, or whether before or after this transaction. The evidence must show that the transaction for which appellant was prosecuted occurred prior to the filing of the indictment. It may have occurred afterwards so far as this record is concerned. Nor is it shown, except by belief, that appellant did not have a license. Nor is it shown that what these parties say they bought and drank was intoxicating. Appellant was charged with selling intoxicating malt liquors, to-wit: beer, to Herrin. Herrin did not know whether the liquor he drank was intoxicating or not. We cannot afford to sustain a conviction with a statement of facts presenting the case as this does. The statute provides for license to sell intoxicating liquors and also for malt drinks that are intoxicating, and also provides for the issuance of license to sell malt drinks that are nonintoxicating. Issuance of license is a matter of record by the comp-trailer and property county officers and could have been easily shown vel non. The State having charged malt "drinks to be intoxicating;' should prove it; and the State was required also to prove other matters which were not proved, as above mentioned.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
+
+## Rehearing (DAVIDSON, Presiding Judge.)
+
+on rehearing.
+June 4, 1919.
+DAVIDSON, Presiding Judge.
+On a previous day of the term the judgment herein was reversed. The Assistant Attorney General has filed a motion for rehearing, and suggests that the statement of facts should not be considered. The reason for this proposition is found in the fact that the statement of facts was attached to and not incorporated in the transcript. The Assistant Attorney General bases his motion on the case of Carney v. State, 63 Texas Crim. Rep., 370. As a matter of fact, the statement of facts was attached to and made a part of the transcript, but not included in' the record correctly speaking. We observed the condition of the record before handing down the opinion and at the time of writing it. The writer did not consider this as a reason why the statement of facts could not be considered since the rendition of the ease of Gribble v. State, 210 S. W. Rep., 215. In the Gribble case Judge 'Lattimore reviewed the matter, not particularly with reference to whether the statement of facts should be embodied in the record or sent up separately, but overruled that line of decisions which held that the recent stenographic Act of the Legislature did not apply to misdemeanors. The Carney case, supra, and a lot of other cases, grew out of the same statute, which the opinion in the Gribble case holds was repealed, and for that reason the writer did not take into consideration the fact that the trasneript did not contain the statement of facts. To meet the objection of the Attorney General, however, appellant has filed a corrected transcript which does embody the statement of facts. An inspection of the statement of facts containd in the transcript shows that it is identical with that which was attached to it and upon which the opinion was based. It is, therefore, deemed unnecessary to review the questions or re-state the matters forming the basis of reversal. . On the former opinion the motion for rehearing will be overruled.
+Overruled.
