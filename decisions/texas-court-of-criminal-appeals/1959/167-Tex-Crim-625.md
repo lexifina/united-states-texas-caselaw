@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,432"
+decided: "1959-02-25"
+citations: ["167 Tex. Crim. 625"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dorothy Lee Creswell v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0625-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8552641
+cites_cases: ["154 Texas Cr. Rep. 406", "227 S.W. 2d 545"]
+---
+
+# Creswell v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is misdemeanor theft, with two prior convictions for the same offense alleged for enhancement; the punishment, 18 months in jail.
+A. Sussman, who was in charge of the second floor men’s clothing department at Battlestein’s store in Houston, testified that, on the day charged in the information, he saw the appellant come into his department, that he approached her and she said that she was waiting for someone, that he continued to watch her, saw her lean “into” a clothing case, and that when he approached her again she entered the self service elevator and fled. He stated that he gave the order for her to be detained, and when he reached the ground floor found her in the company of a policeman. He identified two pair of men’s trousers by stock number and' material as having come from suits in the clothing case “into” which he had seen the appellant lean.
+Officer Linenberger of the Houston police department testified that on the day in question he saw the appellant running out of Battlestein’s store, gave chase, and apprehended her on the sidewalk; that he asked her if she had anything belonging to the store, and she handed him her purse in which he found two pair of trousers tightly rolled, which were immediately identified by Mr. Sussman.
+The two prior convictions were established and the appellant identified as the person convicted in such cases.
+The appellant did not testify or offer any evidence in her behalf.
+Appellant challenges the sufficiency of the verdict which read, “We, the jury, find the defendant guilty as charged and assess her punishment at 18 months in jail.” In Ellison v. State, 154 Texas Cr. Rep. 406, 227 S.W. 2d 545, we held that a general verdict in which the punishment was fixed so as to fall within either a first or second offender, as in the case at bar, would be a valid verdict. In the instant case, the court instructed the jury that in the event they did not find the appellant guilty as an habitual violator to so state in its verdict. Their failure to mention the prior convictions, under such a charge, constituted a finding of guilt as to the primary offense and that she was the person who had been convicted in the prior cases.
+Finding no reversible error, the judgment of the trial court is affirmed.
