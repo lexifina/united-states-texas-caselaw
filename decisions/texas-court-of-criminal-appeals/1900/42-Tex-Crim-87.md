@@ -2,7 +2,7 @@
 court: "Texas Court of Criminal Appeals"
 docket: "1972"
 decided: "1900-06-06"
-citations: ["42 Tex. Crim. 87", "42 Tex. Crim. 103"]
+citations: ["42 Tex. Crim. 87"]
 reporter: "tex-crim"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["George Johnson et al. v. The State."]
 source_url: "https://static.case.law/tex-crim/42/cases/0087-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 171534
-cites_cases: ["113 N. Y., 647", "13 Cal., 24", "21 N. E. Rep., 122", "21 N. W. Rep., 56", "3 N. E. Rep., 493", "32 Texas Crim. Rep., 149", "33 Texas Crim. Rep., 197", "34 Texas Crim. Rep., 350", "35 Texas Crim. Rep., 224", "35 Texas Crim. Rep., 457", "35 Texas Crim. Rep., 495", "36 Texas Crim. Rep., 135", "36 Texas Crim. Rep., 146", "37 Texas Crim. Rep., 44", "37 Texas Crim. Rep., 51", "38 Texas Crim. Rep., 317", "38 Texas Crim. Rep., 333", "38 Texas Crim. Rep., 570", "38 Texas Crim. Rep., 71", "39 Texas Crim. Rep., 41", "39 Texas Crim. Rep., 45", "4 S. W. Rep., 751", "41 Texas Crim. Rep., 1", "45 S. W. Rep., 708", "50 S. W. Rep., 365", "50 S. W. Rep., 459", "55 Neb., 314", "61 Wis., 290", "63 Mo., 300", "7 Wall., 506", "73 Mo., 428", "73 Mo., 586", "74 Mo., 303", "75 N. W. Rep., 864"]
+cites_cases: ["113 N. Y., 647", "13 Cal., 24", "21 N. E. Rep., 122", "21 N. W. Rep., 56", "3 N. E. Rep., 493", "33 Texas Crim. Rep., 197", "34 Texas Crim. Rep., 350", "35 Texas Crim. Rep., 224", "36 Texas Crim. Rep., 135", "36 Texas Crim. Rep., 146", "37 Texas Crim. Rep., 44", "37 Texas Crim. Rep., 51", "38 Texas Crim. Rep., 317", "38 Texas Crim. Rep., 333", "38 Texas Crim. Rep., 570", "38 Texas Crim. Rep., 71", "39 Texas Crim. Rep., 45", "4 S. W. Rep., 751", "41 Texas Crim. Rep., 1", "45 S. W. Rep., 708", "55 Neb., 314", "61 Wis., 290", "63 Mo., 300", "73 Mo., 428", "73 Mo., 586", "74 Mo., 303", "75 N. W. Rep., 864"]
 ---
 
 # Johnson v. State
