@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,326"
+decided: "1962-04-04"
+citations: ["172 Tex. Crim. 317"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frances Ramon Lopez v. State."]
+source_url: "https://static.case.law/tex-crim/172/cases/0317-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2637606
+cites_cases: ["100 Texas Cr. Rep. 88", "103 Texas Cr. Rep. 474", "271 S.W. 621", "281 S.W. 555", "286 S.W. 228", "42 S.W. 2d 783"]
+---
+
+# Lopez v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for murder without malice; the punishment, two years.
+No bills of exception appear in the record. There are no objections to the court’s charge or any specially requested charges.
+Appellant strenuously challenges the sufficiency of the evidence to support the conviction.
+Officer Wagner testified that when he arrived at the home of the appellant she was in the kitchen and the body of the deceased was on the kitchen floor. After he found a small hole in the left side of the chest of the deceased, the appellant told Officer Wagner that she had shot him, and gave the officer a gun which had been recently fired containing one empty cartridge. He further testified that appellant told him that when she returned from taking the children to school her 16-year-old, afflicted daughter told her that the appellant had gotten in bed with her and had taken her panties off. She telephoned the deceased at his place of employment and, when he came home, they got in an argument and she shot him as he tried to take the gun away from her. When asked if she told him that the pistol went off accidentally, the officer replied: “No, sir; she said she shot him on purpose and intended to kill him.”
+The appellant testified that she had seven children, five born of a former marriage and two since her marriage six years before to the deceased. On the morning in question, after returning from taking the children to school, her 16-year-old, afflicted daughter told her about the deceased coming to her bed and taking her panties off. She telephoned the deceased and he returned home immediately. She testified that she asked him about these actions and when he continued to deny any misconduct with her daughter, she used the pistol to scare him and get him to tell the truth. When the girl related her experience in his presence, he then admitted his guilt, but became angry and threatened them. In the scuffle that followed, the gun went off accidentally and shot him in the chest. She further testified that she did not intend to kill him.
+She called several witnesses who testified that her general reputation for truth and veracity and as being a peaceable and law abiding citizen was good.
+At the close of the evidence, the plea of guilty which had been entered by the appellant in the beginning of the trial was withdrawn by the court and a plea of not guilty was entered for her.
+The disposition of this case on appeal is made solely on the basis of a plea of not guilty.
+Appellant first contends that the trial court erred in refusing her motion for an instructed verdict of not guilty when the state rested its case at the close of Officer Wagner’s testimony because of the insufficiency of the evidence.
+After the refusal of her motion for an instructed verdict, the appellant, while testifying in her own behalf, gave her version of the killing.
+The court or jury trying the case is not confined to the testimony of the state in determining the sufficiency of the evidence to support a conviction. They may look to all the evidence in the case, that offered by the appellant as well as that offered by the state, in determining whether the accused is guilty of the offense charged. The application of this rule to the facts in this case shows no error. 16 Texas Jur. 2d 394, Sec. 725; Cross v. State, 100 Texas Cr. Rep. 88, 271 S.W. 621; Spears v. State, 103 Texas Cr. Rep. 474, 281 S.W. 555.
+It is contended that the court erred in overruling appellant’s motion for a new trial on the ground that the evidence is wholly insufficient to support the conviction.
+According to the testimony of Officer Wagner, when the appellant gave him the gun at the scene shortly after the killing, she told him that she shot the deceased “on purpose and intended to kill him”. Testifying as a witness in her own behalf, she admitted that she was mad at the deceased and was holding the gun on the deceased at the time he was shot in the chest, but that she did not intend to kill him. The court charged the jury on the law applicable to murder without malice, aggravated assault, and the suspension of sentence.
+The jury are the exclusive judges of the credibility of the witnesses and the weight to be given to their testimony. They were authorized to accept or reject any or all of the testimony of the appellant. 24 Texas Jur. 2d 367, Sec. 710; Carpenter v. State, 286 S.W. 228; Robinson v. State, 42 S.W. 2d 783.
+The facts and circumstances are sufficient to warrant the finding of the jury that the appellant shot the deceased with a gun, causing his death, and support the conviction.
+The judgment is affirmed.
+Opinion approved by the Court.
