@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,043"
+decided: "1954-06-23"
+citations: ["160 Tex. Crim. 416"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alfred Rao v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0416-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2472521
+cites_cases: ["218 S.W. 2d 195", "266 S.W. 2d 388"]
+---
+
+# Rao v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+This is a conviction for possessing marijuana, a narcotic drug; the punishment, ten years in the penitentiary.
+The testimony in behalf of the state shows that Henry Austin, City Detective of the Beaumont Police Department, with four other officers, went to the home of appellant on June 16, 1953, and there informed appellant that they had a search warrant for his residence. Detective Austin testified that during the search he found two marijuana cigarettes in a dresser drawer in appellant’s room, which cigarettes he marked for identification purposes and later identified at the trial.
+It was further shown that these two cigarettes were properly forwarded to the Texas Department of Public Safety at Austin for laboratory examination.
+J. D. Chastain, chemist and toxicologist, Texas Department of Public Safety, testified that on June 18, 1953, he received two cigarettes in an envelope through the mail which he identified at the trial; that he made a test of the same to determine if they contained marijuana, and further said that the test showed that both of the cigarettes contained marijuana.
+Appellant, testifying in his own behalf, gave, in substance, the same testimony as the officers as to the discovery by them of the two cigarettes in the dresser drawer in his room on June 16, 1953. He further stated that on the night previous to the search of his room he had sold some whisky to two seamen who gave him the two cigarettes in question; that he thought they were foreign cigarettes; and that he did not know that the cigarettes contained marijuana until he was so informed by the officers.
+The jury resolved the issues of fact against appellant and we find the evidence sufficient to sustain the conviction.
+Appellant contends that the search of his room was illegal because of an invalid search warrant, therefore the court erred in admiting said cigarettes in evidence.
+The possession of the two cigarettes in question was admitted by the appellant, however, he claimed that he did not know that they contained marijuana until so informed by the officers.
+Having admitted the possession of the cigarettes in question, appellant is not in position to complain of proof of that same fact by the officers. Soble v. State, 153 Texas Cr. R. 629, 218 S.W. 2d 195; Salinas v. State, 159 Texas Cr. R. 619, 266 S.W. 2d 388; 13A Texas Dig. 537, Crim. Law, Sec. 1169 (3) c.
+It is observed that the court, in sentencing the defendant, failed to make application of the indeterminate sentence law. We therefore reform the sentence so as to read that appellant be confined in the state penitentiary for not less than two nor more than ten years.
+No reversible error appearing, the judgment of the trial court is affirmed.
+Opinion approved by the court.
