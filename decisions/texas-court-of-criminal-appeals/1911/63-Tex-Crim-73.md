@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1219"
+decided: "1911-05-31"
+citations: ["63 Tex. Crim. 73"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Gaines v. The State."]
+source_url: "https://static.case.law/tex-crim/63/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2374053
+cites_cases: ["53 Texas Crim. Rep., 306", "56 Texas Crim. Rep., 512"]
+---
+
+# Gaines v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of violating the local option law, and his punishment assessed at a term of two years confinement in the penitentiary.
+The State’s witness’ testimony shows that he went into appellant’s room. The room was situated upstairs and was claimed by appellant to be his place of residence. This witness testified that when he went in the room he found appellant and two women, a Mrs. Preston and Mrs. Franks, and bought a pint of whisky from appellant, for which he paid seventy-five cents. He took the whisky and went downstairs, and immediately upon reaching the street was arrested by the sheriff and taken before a court. The sheriff testified that he took charge of the witness as soon as he came down on the street, and found a pint of whisky upon his person. Appellant himself testified, as.did Mrs. Preston, that they were both in the room at the time the witness came, but they both deny the sale transaction. Mrs. Franks was not used as a witness on account of being absent and sick. The testimony is in sharp conflict as to whether the sale occurred or not, thus leaving it as a matter peculiarly within the province of the jury to decide as to the credibility of the witness and the weight to be given their testimony.
+1. Appellant filed an application for a continuance. It is deficient on its face by failing to allege that the witness was not absent by his procurement or consent. This is mentioned because if the refusal of the continuance could be reviewed, this would show that it is fatally defective, but there having been no bill of exceptions reserved to the refusal to continue the case, the supposed error in refusing this continuance will not be revised.
+2. There was some contention in the motion for a new trial over the qualification of one of the jurors. It is unnecessary to go into a discussion of that matter, in the light of the disposition of another question in the ease.
+3. As mentioned in the statement in the beginning of the opinion, the issue was sharply and incisively made before the jury as to whether there was or was not a sale. The State’s case makes a sale clearly and unequivocally. Appellant’s testimony denies it equally as strongly. The State introduced three witnesses, Paige, Jones and Gray, who testified that in August previous to this alleged sale, which occurred in Hovember, they had carried whisky from the depot, in the town of Texarkana, either to appellant’s room or some point designated by him, and at least one of them testified that he had gone from Texarkana to Fulton, Arkansas, and purchased whisky for appellant, bringing it home in a suit ease. It is unnecessary to go into a detailed statement of the testimony of these witnesses. Several objections were urged to the introduction of this evidence which, we think, are well taken. The question of intent or system, or the connection of appellant with the particular transaction, was not an issue in the case. It was a positive unequivocal sale or the transaction did not occur. These matters occurred long prior to the time of the sale, and were in no way connected with it, and served no purpose in the case except to prejudice the minds of the jury against appellant by' reason of the fact that he was shipping whisky into the town of Texarkana and carrying it to his room. Where there is an alleged sale denied on one side and proved by positive evidence upon the other, and the issue is sharp as to whether the sale occurred, these extraneous matters are not permitted to get into the trial.
+[Rehearing denied June 23, 1911.—Reporter.]
+For this reason we think the judgment should be reversed and the cause remanded for another trial, and it is accordingly so ordered.
+Reversed and remanded.
