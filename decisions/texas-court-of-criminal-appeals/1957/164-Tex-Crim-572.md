@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,028"
+decided: "1957-05-01"
+citations: ["164 Tex. Crim. 572"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte A. W. Frazier"]
+source_url: "https://static.case.law/tex-crim/164/cases/0572-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2609585
+cites_cases: ["147 Texas Cr. Rep. 661", "153 Texas Cr. Rep. 301", "154 Texas Cr. Rep. 123", "184 S.W. 2d 286", "219 S.W. 2d 1022", "225 S.W. 2d 833"]
+---
+
+# Ex parte Frazier
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+This is an original application for a writ of habeas corpus brought by relator seeking his release from the Texas Prison System.
+On January 19, 1949, in Cause No. 4152-B in the district court of Gregg County, the relator waived a jury and plead guilty before the court to the offense of robbery by assault. The judge found him guilty and assessed his punishment at a “term of five (5) to twenty (20) years.” Since the filing of this application, the trial court has been given an opportunity to correct any clerical error in the entry of the judgment, and, in the absence of a showing to the contrary, we must assume that the judgment before us correctly reflects the punishment assessed by the court.
+The judgment is neither definite nor certain as to the punishment assessed, and for such reason is void. Ex parte East, 154 Texas Cr. Rep. 123, 225 S.W. 2d 833, Ex parte Traxler, 147 Texas Cr. Rep. 661, 184 S.W. 2d 286, and Edwards v. State, 153 Texas Cr. Rep. 301, 219 S.W. 2d 1022.
+It is ordered that relator be relieved from further confinement in the penitentiary and that he be delivered by the penitentiary authorities to the sheriff of Gregg County to answer in the 124th District Court of such county to the indictment in said cause under which his conviction was had.
+It is so ordered.
