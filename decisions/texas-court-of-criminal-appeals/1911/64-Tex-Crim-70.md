@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1341"
+decided: "1911-11-29"
+citations: ["64 Tex. Crim. 70"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. C. Walker v. The State."]
+source_url: "https://static.case.law/tex-crim/64/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2377968
+cites_cases: ["110 Mo., 350", "135 S. W., 373", "139 S. W. Rep., 981", "17 S. E. Rep., 990", "23 S. W. Rep., 219", "24 Ga., 489", "32 Fed., 368", "38 Texas Crim. Rep., 124", "42 Texas Crim. Rep., 413", "50 Texas Crim. Rep., 431", "54 Texas Crim. Rep., 18", "61 Texas Crim. Rep., 176", "63 Texas Crim. Rep., 200", "81 Ind., 260"]
+---
+
+# Walker v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was indicted by the grand jury of Dallas County, charged with the offense of bigamy, and when tried, was adjudged guilty and his punishment assessed at two years and six months in the penitentiary, from which judgment he has prosecuted an appeal to this court.
+The court did not err in overruling the motion to quash the indictment, as it charged an offense under our law, defining bigamy. Bryan v. State, 63 Texas Crim. Rep., 200, 139 S. W. Rep., 981.
+The State introduced certified copies of the laws of Alabama, relating to the celebration of the rites of matrimony, which was properly certified to by the Secretary of State of the State of Alabama, to which defendant objected on the ground that said articles of the Code of Alabama of 1907, were not shown to be in effect and operative in April, „ 1908, the date of the alleged former marriage. The certificate of the Secretary of State is dated March 15, 1911, and it having been shown that the law was adopted prior to the date of marriage, it will be presumed to still be the law, unless there was some question raised as to whether or not it had been repealed.
+In his fifth bill of exceptions, defendant objected to the introduction of a certified copy of a marriage license, certified to by the judge of the Probate Court, who certifies that he is custodian of the records, and that the copy offered in evidence is a true and correct copy of the record containing the marriage of Cleveland Walker and Hattie Tinsley, as the same appears of record on page 248 of Marriage Record K, of the records of Henry County, Alabama. The certified copy shows the license to have been issued April 4, 1908, and the minister’s return thereon showing that the parties were married on the 5th day of April, 1908. Appellant’s objection to this testimony is that the records of a foreign State not having been made admissible in evidence by any statute of this State, such records are only admissible by virtue of the Act of Congress, usually known as the “Full Faith and Credit Act,” and they are not verified in the manner required by that Act. The record, being certified to only by the judge of the Probate Court, who is a custodian of these records; and not being proven as an examined copy, the contention must be sustained, and the court erred in admitting the certified copy in evidence. It must be proven up as is required by this law, we having no statute authorizing it to be admitted in evidence, unless thus authenticated or proven. Rev. Stat. of U. S., secs. 905 and 906; Encyclopedia of Evidence, vol. 4, page 828, and cases there cited.
+Where the original marriage license was introduced in evidence, it was not necessary to file it with the papers, and give notice thereof, and the court did not err in admitting the marriage license in evidence.
+It appears by bill of exceptions No. 7, that defendant wrote a letter of date Dec. 30, 1909, to his alleged former wife, and that this alleged former wife had delivered this letter to her father to be brought to Texas, as the father says, for the purpose of being used as evidence against the defendant, he testifying: “I got it from her for the purpose of bringing it here to use as evidence against this defendant in this, cause.” The State offered this letter in evidence, to which the defendant objected because same was written to his alleged former wife and was therefore a privileged communication. The court appends a lengthy explanation to this bill, which we do not deem it necessary' to copy, but it is apparent that the letter was introduced in evidence over the objection of defendant’s counsel. Article 734, of the Code of Criminal Procedure, provides: “Neither the husband nor wife shall in any case testify as to communications made by one to the other while married; nor shall they, after the marriage relation ceases, be made witnesses as to any such communication made while the marriage relation subsisted.” This question is fully discussed in the. case of Gross v. The State, 61 Texas Crim. Rep., 176, 135 S. W., 373, in an opinion by Presiding Judge Davidson, and letters written to the wife of the person on trial are held to be inadmissible in evidence against him, and especially is this true, where the wife furnishes the letter to be thus used. It may be that in the opinion of some, such letters ought to be admitted in cases of this character, but until the Legislature so provides, we have no alternative but to enforce the law as it is written.
+The remarks of the county attorney complained of in bill of exceptions No. 8, are but deductions from the testimony, and the court did not err in refusing to give "the special instructions requested. The question of whether, when the ■ defendant’s counsel declines to address the jury, the court shall permit more than one argument to be made by State’s counsel, is one of discretion in the trial court, and in this case he did not err in permitting two speeches to be made.
+These are all the bills of exception in the record and we can not consider the ground alleging that the court erred in overruling his application for a continuance, as no bill was reserved.
+For the errors above pointed out, however, the judgment in this case is reversed and the cause remanded.
+Reversed and remanded.
