@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,998"
+decided: "1954-05-26"
+citations: ["160 Tex. Crim. 188"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morris Spriggs v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469836
+cites_cases: ["150 Texas Cr. Rep. 161", "199 S.W. 2d 168", "267 S.W. 2d 557"]
+---
+
+# Spriggs v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The appeal is from a life sentence for murder.
+In view of the disposition hereof a statement of the evidence is not deemed necessary.
+Bill of Exception No. 1 relates to argument of the prosecutor. It is apparent that during the course of his investigation of the case the prosecutor had secured a statement from one of his witnesses. Such statement had not been introduced in evidence. In his argument, he “was holding the paper about which he was talking in his hand and waiving it before the jury and was pointing to and referring to said paper” when he said:
+“There has been testimony from Isaah Woodard that he had come to the Courthouse immediately after this killing and made a written statement at that time, a sworn statement at that time. That testimony was brought out from him and brought out again by Mr. Prescott that he had made that statement — substantially stating what he stated on this stand.”
+The court seemed to recognize that counsel was testifying because he said, “You are outside the record, Mr. State’s Attorney . . but he overruled the objection and refused to instruct the jury not to consider the same.
+This was, of course, going outside the record in order to bolster his own witness. The harmful effect of the error is apparent.
+Also the contention is raised that a new trial should have been granted under Section 7 of Article 753, C.C.P.
+It was shown on the hearing of appellant’s motion for new trial that after the jury had agreed on a verdict of guilty, and while they were divided as to the punishment to be assessed, an unidentified juror represented to a fellow juror who was voting for a term of years, that if the punishment was assessed at life, appellant could not be paroled, whereas if a term of years was assessed he would be able to obtain a parole.
+Following this statement, the juror changed his vote from five years to life.
+We cannot agree that the testimony of seven of the jurors to the effect that they did not hear or make the statement was sufficient to authorize the trial judge to conclude that the remark was not made.
+The statement of the unidentified juror constituted the giving of testimony to the jury — testimony which was clearly wrong; and under our holding in Price v. State, 150 Texas Cr. Rep. 161, 199 S.W. 2d 168, a reversal is called for.
+Our holding here is distinguishable from that in the recent case of Montello v. State, No. 26,920, (page 98, this volume) 267 S.W. 2d 557, for the reason that a juror asserted as a fact that the law does not permit the granting of paroles to life termers, which was not correct.
+Other claims of error need not be considered as the matters complained of will not likely occur on another trial.
+The judgment is reversed and the cause is remanded.
