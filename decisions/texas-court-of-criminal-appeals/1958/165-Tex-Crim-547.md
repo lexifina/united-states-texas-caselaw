@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,214"
+decided: "1958-02-05"
+citations: ["165 Tex. Crim. 547"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Christy Parasco v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0547-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2613404
+---
+
+# Parasco v. State
+
+## Rehearing (BELCHER, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING
+BELCHER, Judge.
+All prior opinions herein are withdrawn and the following is substituted therefor.
+This is an appeal from a conviction for the unlawful possession of isonipecaine, a narcotic drug; the jury, under a charge submitting the punishment provided for a second violation of the Uniform Narcotic Drug Act, having assessed the punishment at fifteen years in the penitentiary and appellant having been sentenced to serve a term of not less than ten nor more than fifteen years in the penitentiary as a second offender.
+Prosecution was under the Uniform Narcotic Drug Act, Art. 725b, Vernon’s A.P.C. as amended by Acts of the 53rd Legislature, p. 812, Ch. 328, and Acts of the same legislature at its first called session, p. 103, Ch. 50, and as to punishment, by Acts of the 54th Legislature, p. 903, Ch. 354.
+The indictment alleged in the first count that appellant on or about October 16, 1956, possessed a narcotic drug, to-wit: isonipecaine. There were no allegations in this count that appellant had been previously convicted for violating the Uniform Narcotic Drug Act.
+The punishment for the unlawful possession of a narcotic drug is found in Sec. 23(1) of Art. 725b, which reads:
+“Any person violating any provision of this Act shall, upon conviction be punished by confinement in the State penitentiary for not less than two (2) years nor more than life, and upon the second or any subsequent conviction therefor shall be punished by confinement in the penitentiary for life or for any term of years not less than ten (10), and the benefits of the suspended sentence law shall not be available to a defendant convicted for a violation of the provisions of this Act; provided that any person convicted of a first offense violation of this Act shall be entitled to the benefits of probation under the Adult Probation and Parole Law, as provided therein.”
+It is apparent that the possession of a narcotic drug by one who has been previously convicted of violating the Uniform Narcotic Drug Act is a different offense from that of a first offender ; provides a different minimum punishment, and permits the benefits of the Adult Probation and Parole Law to first convictions only.
+Being separate offenses with minimum punishment of two years for a first offense and ten years for a second or subsequent violation, the prior conviction is an element of the later offense itself and not an allegation such as would merely enhance the punishment under Arts. 62 and 63, Vernon’s A.P.C.
+The second count of the indictment charged another and different violation of the Uniform Narcotic Drug Act, and alleged further “that prior to the commission of the aforesaid offense” appellant had been finally convicted of possessing heroin.
+It is evident that the latter allegation was considered by the trial judge as available and applicable to both counts, for it was so applied, though the second count was not submitted to the jury.
+An accused is entitled to proper notice in the indictment of any prior conviction which the state seeks to use in connection with a primary offense, whether it be an element of the offense or for enhancement of punishment. The allegation in the second count gives no such notice as to possession of isonipecaine.
+In the absence of an allegation in the indictment that the prior conviction for heroin would be relied upon for enhancement of the punishment in connection with the primary offense of possession of isonipecaine, as charged in the first count, the conviction thereunder cannot be sustained.
+The court erred in submitting the case to the jury as a second violation of Art. 725b, Vernon’s A.P.C. and in sentencing appellant for a minimum term of ten years upon his conviction under count one of the indictment.
+The validity of Art. 725b, Vernon’s A.P.C. (as amended in 1954 by Acts of the 53rd Legislature at its first called session, p. 103, Ch. 50, H.B. 78) insofar as it defines isonipecaine as being a narcotic drug and makes its possession a felony, is attacked upon the theory that the amendment did not repeal the provisions of Art. 726b, Vernon’s A.P.C. which prohibit the sale of isonipecaine and other drugs “commonly called barbiturates.”
+We overrule such contention and point not only to the fact that the amendment of Art. 725b is a later statute than Art. 726b, but also to Section 2 of the amendment which provides “all laws and parts of laws in conflict herewith shall be and the same are hereby repealed.”
+Appellant’s motion for rehearing is granted, the affirmance is set aside and the judgment is reversed and the cause remanded.
+Opinion approved by the Court
