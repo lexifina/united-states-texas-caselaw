@@ -1,0 +1,54 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,125"
+decided: "1956-05-30"
+citations: ["163 Tex. Crim. 294"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Teiji Suzuki v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0294-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460941
+cites_cases: ["119 Tex. Cr. R. 131", "161 S.W. 2d 134", "44 S.W. 2d 994", "48 S.W. 2d 665", "52 S.W. 2d 378"]
+---
+
+# Suzuki v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for operating a pool hall; the punishment, a fine of $25.
+The undisputed evidence shows that several officers visited an upstairs location in El Paso, where, behind locked doors, were located a number of pool tables upon which men were engaged in playing pool.
+Appellant being asked stated that he was in charge. He was asked “if he had a charter to operate a pool hall and he said he did and went and got it.”
+He produced a charter showing the incorporation of “The Favorite Club” at the address in question, organized by three El Paso men in 1954 under Subdivision 9 of Art. 1302 R.C.S., the purpose being to support and maintain a club for innocent sports.
+Appellant was asked how the club operated and he said it was “a membership deal only and that the members paid $3.00 a year to allow them to use the tables to play pool and so on.”
+Appellant exhibited to the officers a membership roster of some 100 names beside which he had marked $3.00 paid.
+The officers checked every one in the place and each produced a card indicating a paid-up membership.
+The officer-witness was asked whether appellant said “he was the agent, manager or owner, or anything like that” and answered: “Just said he was operating it and showed me the charter.”
+One of the officers testified that there was no merchandising business there and no display except that he believed they did have a machine — believed that they sold soft drinks, “but can’t say for sure.”
+The gravamen of the offense of operating a pool hall is the operation of the establishment for hire, revenue, fees or gain of some kind, or for advertising purposes. Gollehon v. Porter, (Civ. Ap. error refused) 161 S.W. 2d 134.
+We do not understand that the statutes defining pool halls and making it an offense to operate a pool hall condemn the maintenance of pool tables by bona fide clubs, in their quarters, for the use of their members, where the privilege to use the tables is available to the members without any charge or condition other than that the user be a member in good standing, with his dues paid.
+A person may not, however, exhibit and operate pool tables under the guise of a bona fide club by the simple expedient of obtaining a charter for a club and thereby receive for himself hire, fees, revenue or gain from their operation or derive a benefit from the operation through the sale of goods or merchandise or the promotion of any enterprise for his own gain, profit or benefit. Countee v. State, 119 Tex. Cr. R. 131, 44 S.W. 2d 994.
+We are unable to agree that the evidence is sufficient to support a finding that appellant exhibited the pool tables for hire, revenue, fees or gain under the guise of a club.
+Whether he received the $3.00 dues paid by each member of the club other than as the person designated to receive dues' for the organization is not shown.
+Witnesses expressed the belief that there was a box or machine in the place for dispensing soft drinks, but saw none dispensed and could not state as a fact what if anything the box contained.
+There is no evidence to show that appellant owned or leased the premises or was interested in or personally benefited from exhibiting the pool tables or from the sale of soft drinks at the place in question.
+The judgment is reversed and the cause remanded.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+If there be any provision in law whereby a club or corporation may engage in operating a pool hall, or a representative thereof may operate a pool hall for and in behalf of such club or corporation or its members, I know nothing of it. I confidently assert that there is no such law. In my opinion, the majority opinion in this case holds to the contrary.
+A pool hall is a place where pool tables are used or exhibited for revenue, fees, or gain of any kind. If upon the pool table any money or thing of value is paid or exchanged, the place is a pool hall. Art. 4668, R.C.S.
+It is unlawful for any person to operate a pool hall. Art. 653, P.C.
+The appellant was in charge of the place, located on the second floor of a building in the city of El Paso, where there were exhibited four pool tables upon which the game of pool was being played at the time. No other person was in charge of or operating the place.
+The sole reason assigned by appellant as negativing any supposition that the place was a pool hall was that it was a club, for members only, who paid $3.00 per year for the privilege of playing pool on the pool tables. The testimony showed that the club had one hundred members and that all those present at the time were members of the club.
+To my mind, the charge of $3.00 annual dues for the privilege of playing pool in a building in the city of El Paso was a subterfuge, and the trial court had the right to so conclude. To my mind, it is preposterous to say that for $300 — which is $3.00 per member for one hundred members, and the total revenue derived by the club — the club could be operated and maintained for a year.
+Such fact shows or at least authorized the trial court to find that other fees and revenue were received from the exhibition of the pool tables, and that, such being true, the place was a pool hall.
+But whether the charge of $3.00 annual dues was or was not a subterfuge, the trial court was authorized, nevertheless, to say that such was the fee paid for playing pool, especially in view of there being no other facilities or club privileges provided. The fee could not have been for any other purpose.
+In nay opinion, the cases of Vaiden v. State, (Civ. App.), 52 S.W. 2d 378, and McCombs v. State, (Civ. App.) 48 S.W. 2d 665, 667, directly support the trial court’s conclusion that the facts warranted the conviction.
+If these cases are no longer to be followed, my brethren, who have here announced a contrary doctrine, should so state.
+If pool halls are to be permitted to operate in this state, the legislature should repeal the existing law. Such is not the province of this court, but I am convinced that the majority opinion has that effect.
+Being of the opinion that the facts are sufficient to support the conviction, I respectfully dissent to its reversal.
