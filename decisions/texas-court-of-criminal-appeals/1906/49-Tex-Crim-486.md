@@ -1,0 +1,22 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3612"
+decided: "1906-03-14"
+citations: ["49 Tex. Crim. 486"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Forbish v. The State."]
+source_url: "https://static.case.law/tex-crim/49/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4539390
+---
+
+# Forbish v. State
+
+## Majority (BROOKS, Judge.)
+
+BROOKS, Judge.
+Appellant was indicted and convicted of embezzlement of money of the value of $44.15, and his punishment fixed at a fine of $25. Charles Gebhart, prosecuting witness, testified that in September, 1904, he owned a bakery and defendant owned a can<ly plant in Hillsboro; defendant wanted to borrow $50 for sixty days. “I let him have the money, and he executed and delivered to me the following two written instruments: First, a promissory note for the sum of $50, payable to my order, due sixty days after date, with interest at the rate of ten per cent, per annum from maturity until paid, and ten per cent, additional for attorney’s fees, if collected by law or placed in the hands of an attorney for collection, and signed Chas. W. Forbish. And second, an instrument to secure the payment of said note, in words as follows: “Hillsboro, Texas, Sept. 1st, 1904. This is to certify: I have this day transferred to Chas. Gebhart all my interest in my confectionery business at Ho. 125 East Franklin street, to secure payment of one note of $50 of above date, and it is further understood when payment of above note has been made to said Chas. Gebhart, that the above mentioned business returns into my possession. (Sig.) Chas. W. Forbish.” Defendant was a candy maker and conducted his candy plant as he had theretofore, till December 10, when I told him I must have my money. ' He said he did not have it, as a claim from Hew Orleans was due, and he could not meet both. He then turned over the candy plant to me, or told me to take charge of it, and he would manage and run it, and I was to have all the profits till the debt was paid. I was to allow his board at my house, and $— per week for his incidental expenses. I also employed Bell to assist defendant in the candy shop. There was some material on hand at the time, but I furnished sugar with which to make candy. The collections for candy were to be paid to me, and I was to pay for expenses in running the plant. Defendant had the key to the house, as my employee. On the night of December 19th, I went to the plant and found Bell there, but defendant was not. I asked Bell where defendant was, and he said he had stepped out in town somewhere; that he had two batches of candy to work, and by that time defendant would be back. I then told Bell I would close the house, and did so. I did not see defendant that night, the next day or for several days thereafter. He did not come back to see me. My debt not having been paid I sold the candy plant to Bell on the 26th or 27th day of December, 1904. I forget what the stock and plant inventoried. Defendant did not pay me any money collected in said business after December 21, 1904. I have never had any settlement with defendant with regard to said candy business. He has never paid me any money since December 19, 1904. He never made any report to me after said time, and if he collected any money on said business, and retained it he did so without my consent.”
+It was shown by other witnesses that appellant sold candy to various parties while running the candy establishment to the aggregate value of the amount alleged in the indictment, such sales being made between the 10th and 19th of December; and on the 22d of December appellant collected this money from the parties. This evidence does not make out a case of embezzlement. It was simply a mortgage of a business, then being conducted in the town of Hillsboro, for the sum of $50, loaned to appellant. If the State could insist upon anything it would be for disposing of mortgaged property. It is not embezzlement, since the facts show that appellant owned_ thej^andyJmsiness and mortgaged it to prosecutor for a certain sum and proceeded to run the business as theretofore and collect all bills due said candy shop. Besides, the evidence does not show but that Gebhart collected his debt in the sale of the candy business. The evidence being insufficient to support the conviction, the judgment is reversed and the cause remanded.
+Reversed and remanded.
