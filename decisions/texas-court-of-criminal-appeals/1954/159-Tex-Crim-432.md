@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,767"
+decided: "1954-02-17"
+citations: ["159 Tex. Crim. 432"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Grover McCool v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2473891
+cites_cases: ["110 Tex. Cr. R. 29", "110 Tex. Cr. R. 616", "114 Tex. Cr. R. 72", "140 Tex. Cr. R. 424", "141 Tex. Cr. R. 497", "145 S.W. 2d 890", "149 S.W. 2d 966", "149 Tex. Cr. R. 211", "193 S.W. 2d 216", "24 S.W. 2d 417", "7 S.W. 2d 87", "9 S.W. 2d 1035"]
+---
+
+# McCool v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted for the sale of whiskey in a dry area with a prior conviction for a like offense alleged for enhancement of penalty; punishment was assessed at 365 days in jail and a fine of $200.
+It was stipulated that Lamar County was a dry area.
+The alleged prior conviction was properly shown.
+Jesse Jurek, Inspector for the Texas Liquor Control Board, testified that he purchased a pint of whiskey from appellant, then immediately signalled to waiting officers who rushed to the scene and took charge of the pint of whiskey and appellant. The officers failed to find any other liquor upon a search of appellant’s premises.
+Appellant, testifying in his own behalf, denied that he sold the witness Jurek any whiskey and stated that Jurek came to him, asked him for whiskey; that upon being told he had none, Jurek asked for a Coca Cola which he placed in a sack and delivered to him; that immediately the officers appeared and arrested him.
+Appellant, by Bill of Exception No. 3, contends that the court erred in making a comment in the presence of the jury upon' the credibility of the witness Jurek and the weight of his testimony.
+This bill shows that while - appellant’s attorney was making his argument to the jury he referred to the witness Jurek and said “he is a plain snitch,” to which the state’s attorney objected and asked the court to instruct appellant’s attorney “not refer to this high type, high class witness as a snitch.” At this time the court stated: “I will sustain the objection. I will say he has been shown a qualified officer, vouched for, if you refer to him any more as a snitch you will be in contempt of Court.”
+The appellant objected to these remarks of the court upon the ground that they were prejudicial and inflammatory, which objection was overruled, and appellant excepted.
+The question of the sale of whiskey by appellant to Jurek was vigorously contested. They were the only ones present at the time of the alleged sale. State’s witness Jurek testified that he worked as an “under cover agent” for the Texas Liquor Control Board, and a very extended and critical examination of him was made by appellant concerning his past and his mode of Operating as such agent. The credibility of the testimony of these' two witnesses, which was in direct conflict, was for determination by the jury. The language of the court as above set forth could have conveyed to the jury the impression that Jurek’s testimony was worthy and thereby prejudiced the rights of appellant; such language is not free from the imputation that the court thought that said witness was credible; and the remarks of the court addressed to appellant’s counsel in the presence of the jury were calculated to convey the view of the court regarding the credibility of Jurek’s testimony.
+Art. 707, Vernon’s Ann. C.C.P., provides, in part, as follows: “* * * nor shall he (the judge), at any stage of the proceedings previous to the return of a verdict, make any remark calculated to convey to the jury his opinion of the case.”
+That portion of the statute above quoted is plain, and the following authorities sustain appellant’s contention: McDonald v. State, 149 Tex. Cr. R. 211, 193 S.W. 2d 216; McIntyre v. State, 141 Tex. Cr. R. 497, 149 S.W. 2d 966; Wilson v. State, 140 Tex. Cr. R. 424, 145 S.W. 2d 890; Davis v. State, 114 Tex. Cr. R. 72, 24 S.W. 2d 417; Dunn v. State, 110 Tex. Cr. R. 616, 9 S.W. 2d 1035; and Speers v. State, 110 Tex. Cr. R. 29, 7 S.W. 2d 87.
+We conclude that the remarks in question were prejudicial to appellant’s rights.
+For the error herein pointed out, the judgment of the trial court is reversed and the cause is remanded.
+Opinion approved by the Court.
