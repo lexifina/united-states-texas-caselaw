@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,971"
+decided: "1954-04-28"
+citations: ["160 Tex. Crim. 57"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert E. Russell v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469914
+---
+
+# Russell v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for burglary; the punishment, 2 years in the penitentiary.
+The building occupied by the Anderson Mattress Company, in Amarillo, was burglarized on the night of March 24, 1953.
+R. A. Freeman, the owner of said company, testified that entry was made through the back door and that a safe in the building had the knob and handle knocked off and was “torn up from the bottom.”
+There were missing from the safe three government bonds, insurance policies and title papers, and from elsewhere in the building some change or silver. Police Officer Alexander responded to the call reporting the burglary. Accompanied by Officer Arteburn, he went to the home of appellant’s mother and talked with him. Appellant produced from his belt three bonds which had been issued to R. A. Freeman and were afterwards identified by him as the bonds missing from the safe. Appellant told the officers that the rest of the contents of the safe were in a truck that was parked on a nearby parking lot, where the car titles, insurance and various other papers were found in a packet showing “Anderson Mattress Company” and were identified by Mr. Freeman as missing from the safe.
+Appellant said that he had gotten these papers and bonds out of the Anderson Mattress Factory and told the officers who was with him when he got them.
+Appellant did not take the stand, but offered his wife who testified that appellant was with her at home on the night of the burglary. She testified that Billy Eugene Grayson came to their home about 3 o’clock that morning and talked to appellant and that she heard Billy say “Here, take these and keep them for me, and I will come back and get them.”
+In a charge to which there are no objections, the jury was instructed on the defense of alibi and this issue was resolved against appellant.
+The evidence is sufficient to sustain the conviction.
+No brief has been filed in behalf of appellant. None of the bills of exception raise questions that would require reversal where the minimum punishment was assessed, and therefore need not be considered.
+The judgment is affirmed.
