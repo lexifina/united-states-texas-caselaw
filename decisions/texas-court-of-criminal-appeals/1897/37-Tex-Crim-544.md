@@ -1,0 +1,22 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "993"
+decided: "1897-04-21"
+citations: ["37 Tex. Crim. 544"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. B. McKie v. The State."]
+source_url: "https://static.case.law/tex-crim/37/cases/0544-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 161404
+---
+
+# McKie v. State
+
+## Majority (HENDERSON, Judge.)
+
+HENDERSON, Judge.
+Appellant was convicted of libel, and his punishment assessed at a fine of §100; hence this appeal. Appellant assigns as error the refusal of the court to quash the information. Said information, as to the charging part, is as follows, to-wit: That said “A B. McKie did then and there, with intent to injure J. A. Smith, did unlawfully and maliciously make, write, print, publish, sell, and circulate a malicious statement of and concerning one J. A. Sm'th, and affecting the reputation of the said J. A. Smith, to the tenor following, to-wit: ‘A Card. A few days ago, J. A. Smith, of the Herald, asked me, through the Herald columns, if it was not true that a report had been made to the Pulman Company that I had offered indignities to a lady, to which I replied that no such report had ever been made, and that Smith had never heard any such report, and, if he did not produce his informant, I would publish him as a liar. I have purposely given him three days’ time to produce his informant, or to acknowledge that he lied. As he has maintained silence on the matter, I now make good my word, and denounce him as a blackmailer, a liar, and a scoundrel— a person who is ashamed to have exposed the four years of his life previous to him coming to El Paso. It was an unlucky moment for him when he brought the name of woman into the question. The least he says on that subject, the better for him. A. B. McKie’—which said statement conveyed the idea that said J. A. Smith has been guilty of some act disgraceful to him as a member of society, and the natural consequence of which is to bring him (J. A. Smith) into contempt among honorable persons, against the peace and dignity of the State.” It is insisted that the information should have pointed out by averment, in the nature of an innuendo, what act or omission said Smith had been guilty of, which was “disgraceful to him as a member of society, and the natural consequence of which was to bring him into contempt among honorable persons.” If we look to the language of the publication itself, it does not suggest or indicate any particular character of act. The language, “I denounce him as a blackmailer, a liar, and a scoundrel,” is the language of denunciation, and does not, by its terms, impute that said Smith was guilty of any particular act or omission disgraceful to him, etc. Nor does the sentence that Smith was “a person who is ashamed to have exposed the four years of his life previous to him coming to El Paso” charge him with any such a<*t or omission as constitutes the offense of libel. The same may be said of the following sentence: “It was an unlucky moment when he brought the name of woman into the question.” Now, these terms used may have referred to some delinquency of Smith, some act or omission on his part disgraceful to him, and calculated to bring him into contempt; and, by the use of the proper innuendo, the pleader may have given significance to said expressions, but this is not done. By the use of the expression, “blackmailer,” it may be that appellant had reference to some particular plan or scheme of said Smith by which he may have obtained money or property unduly; and so he may have had reference to some particular event when he charged that Smith “was a liar and a scoundrel.” But, as stated, there is no pleading giving point or direction to the language used. As we understand the statute, unless the publication itself refers to and identifies some particular act or omission disgraceful to the person spoken of as a member of society, and the natural consequence of which is to bring him into contempt, it is obligatory on the pleader, by innuendo, to indicate or declare what act was meant. In our opinion, the court should have sustained the motion to quash. For the refusal of the court to quash the information, the judgment of the lower court is reversed, and the case ordered dismissed.
+Reversed and Dismissed.
+Hurt, Presiding Judge, absent.
