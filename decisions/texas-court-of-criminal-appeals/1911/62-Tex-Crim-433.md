@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1159"
+decided: "1911-05-24"
+citations: ["62 Tex. Crim. 433"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. J. Franklin v. The State."]
+source_url: "https://static.case.law/tex-crim/62/cases/0433-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4614801
+cites_cases: ["53 Texas Crim. Rep., 388"]
+---
+
+# Franklin v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+This is the second appeal of this case. A report of the former appeal will be found in 53 Texas Crim. Rep., 388.
+Appellant seems to have defended himself. We judge from the record that the attorneys representing him on this appeal became connected with the case after the conviction.
+There are several quite interesting questions in the case which ought to require a reversal of the judgment if exceptions had been properly reserved.
+Among others is the introduction of the testimony of an absent witness, an Italian. The district attorney was permitted to testify that on a former trial of the case this witness had testified; he then read before the jury what he said was the stenographic report of that testimony. Upon another trial this should not be permitted on this predicate. The question of the right of the State to reproduce this evidence is not discussed. In order to introduce evidence wherever a stenographic report has been taken, and that report is resorted to, the correctness of the evidence as taken by the stenographer must be shown. This was not attempted. The stenographer was not introduced.
+There was an exception reserved-to the court’s charge with reference to accomplice testimony and necessary corroboration. This charge is incorrect, and upon another trial should be corrected. Among other things, the court instructed the jury that they could not convict upon the testimony of an accomplice unless they should believe it to be true and that it shows and tends to show that appellant is guilty as charged, and unless they should further find that there is no other evidence in the case outside of the testimony of the accomplice connecting appellant with the' commission of the offense. It may be that the transcript is incorrect in that portion of it where it says "if you find there is no other evidence.” Of course, this is a palpable error. In fact, it would be a direct charge to the jury to convict on the testimony of an accomplice if it tended to show him guilty and there was no other evidence corroborating. That portion of the charge also is incorrect which instructed the jury that if the testimony of the accomplice tends to show that the defendant is guilty. Such charge has been condemned frequently by this court. These matters are mentioned so that they may not occur upon another trial.
+The most serious contention of appellant is the insufficiency of the evidence in that the accomplice testimony is not corroborated by any fact which tends to connect the defendant with the crime. This court so held on the former appeal. We have not the original statement of facts before us on the former trial, but as we recall the evidence it is the same as that contained in this record, unless it be the testimony of the witness Brooks, who testified in this case. Not having the record of the evidence before us of the former appeal, we can not say positively whether his evidence was in the former record or not, but concede that it was not, we are of opinion that his testimony does not tend to connect the defendant with the offense. He stated that appellant while in jail gave "him a note to be carried to an Italian named Massoni, and that Massoni would give him, Brooks, some money which he, appellant, desired Brooks to bring to him. Brooks carried the note to Massoni, got ten dollars, and conveyed it to appellant. What the contents of this note were is not shown, and there is nothing in regard to the contents of the note further than as stated. This did not tend to connect appellant with the burglary of the house, and the theft of property from the burglarized house. So far as Brooks’ testimony is concerned, or any other fact in the case is concerned, there was no connection shown between the note and the theft and burglary, there was no allusion to it, nothing said about it. It may have been as to a matter absolutely independent of and not in any manner connected with the case in hand. '
+Believing that the accomplice is not corroborated, and that the case is practically the same as on the former appeal, and under the authority of the decision on the former appeal, the judgment is reversed and the cause remanded.
+Reversed and remanded.
