@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1423"
+decided: "1911-12-06"
+citations: ["64 Tex. Crim. 110"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. T. Lewis v. The State."]
+source_url: "https://static.case.law/tex-crim/64/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2377706
+cites_cases: ["16 S. W. Rep., 653", "40 S. W. Rep., 35", "90 S. W. Rep., 1098"]
+---
+
+# Lewis v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was prosecuted for obstructing a public road. It appears from the evidence that the Commissioners’ Court of Nolan County ordered a road to be opened, known as the Blackwell and Sanco road, and it further appears that there is a dispute as to the true boundary line of sections 248 and 271, appellant owning section 248. The county surveyor surveyed these sections, and testifies that the owner of section 248 has a part of section 271 fenced, and the Commissioners’ Court settled with the owner of section 271 for the land it desired for a road, although the land was in the inclosure belonging to appellant, all the witnesses stating that he and those under whom he claims, had had the land fenced for fourteen years, consequently even though the land originally was a part of section 271, yet by lapse of time, appellant having had possession thereof, claiming same for more than ten years, he could not be dispossessed without his consent.
+The issues are so fully stated in the brief filed by Messrs. McGregor & Gaines, attorneys for appellant, we adopt it as the opinion of the court:
+“In the court below appellant was found guilty of obstructing a public road. Among other errors he assigned that the verdict is contrary to the law and the evidence. Appellant owned section 348, which was immediately north of section 371, and the alleged public road was laid off to run on a line between these two sections. The record affirmatively shows that the part of the road in question was opened over land enclosed and held by appellant as a part of section 348 for more than fourteen years. The record further affirmatively shows that if a jury of freeholders was ever appointed to view out and establish a road as prescribed by law, no written or other notice of this fact was ever served on appellant. When the commissioner and road overseer undertook to open up that portion of the road relating to section 348, they cut appellant’s fence on the south side of said section, and passing along through the south side of same, cut the fence in four places in order to go in and out in going around ravines. Appellant, finding the fence cut, rebuilt it, hence this prosecution.
+“The Constitution of this State, article 1, section 17, provides that 'no person’s property shall be taken, damaged or destroyed for or applied to public use without adequate compensation being made, unless by the consent of such person; and, when taken, except for the use of the State, such compensation shall be first made or secured by a deposit of money.’ Again in section 19 of the same article, it’ is provided that 'no citizen of this State shall be deprived of........property........except by the due course of the law of the land.’ This is the organic law of this State and it must prevail.
+“It has been the uniform holding of this court that the property of the citizen can not be taken for a public road until the statutes prescribing the 'due course of law’ have been strictly followed. Thése statutes prescribe notice to the owner, and that compensation must first be made, neither of which was done in this case. Revised Statutes, arts. 4688-4694, inclusive; Bradley v. State, 33 Texas Crim. App., 330; Davidson v. State, 16 Texas Crim. App., 336. To the same effect see Thompson v. State, 33 Texas Crim. App., 338; Floyd v. Turner, 33 Texas, 393; Evans v. Land Co., 81 Texas, 633; Railway v. Austin, 40 S. W. Rep., 35.”
+Appellant having been in peaceable and adverse possession of the land for more than ten years, and he having had no notice that it was sought to be condemned for public purposes, the action of the court or the jury of view could not deprive him of his rights in the premises.
+The judgment is reversed and the cause is remanded.
+Reversed and remanded.
