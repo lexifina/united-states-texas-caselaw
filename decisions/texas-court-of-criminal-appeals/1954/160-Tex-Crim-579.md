@@ -1,0 +1,42 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,110"
+decided: "1954-11-03"
+citations: ["160 Tex. Crim. 579"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mose Hodges v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0579-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2472761
+cites_cases: ["113 S.W. 2d 556", "115 S.W. 2d 913", "134 Texas Cr. Rep. 12", "134 Texas Cr. Rep. 379", "254 S.W. 2d 396", "30 S.W. 805", "35 Texas Cr. Rep. 38"]
+---
+
+# Hodges v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for murder; the punishment, 15 years in the penitentiary.
+The sole question presented in appellant’s brief relates to the failure of the trial court to give an affirmative charge on accidental shooting.
+The evidence shows that the deceased, Emory Walker, died as the result of a shotgun wound, the gun having been fired by appellant.
+There was an argument between appellant and one Otto Ockleberry, known also as “Beattee.” The argument arose over a bet in a game of Monte which was played at Granger, where appellant and Beattee, their wives, Allen Mitchell and Walter Ellison had gone from Temple for the purpose of gambling.
+As we understand the record, a bet was placed by appellant, the effect of which was that a four would be dealt before another card bet on by “Beattee.”
+It was Beattee’s contention that appellant paid off the bet when the other card was dealt and that he was therefore entitled to keep the money, notwithstanding that an examination of the remaining cards to be dealt revealed that there were no fours and appellant therefore had no chance to win the bet.
+Appellant, on the other hand, claimed that he did not pay the bet but that Beattee grabbed his $20 while he was ascertaining that there were no undealt fours, which fact entitled him to draw his bet.
+The dispute regarding the $20 evidently ended the gambling session and the participants returned to Temple. Appellant and his wife, traveling in a separate car, passed the car in which the others were riding on the return trip.
+Soon thereafter the parties all found their way to the Idle Hour Cafe in Temple, outside of which the shooting occurred.
+Appellant secured a shotgun after returning from Granger and he testified that he did so in order to protect himself.
+At the cafe the argument was resumed, appellant insisting on the return of his $20 and Beattee once offering $10 but finally again refusing to return any part of the money.
+Beattee, having learned that appellant had a gun, left the cafe and went to his car. His brother, Lynwood Ockleberry, was at the cafe as was the deceased, Emory Walker.
+Lynwood approached appellant as he stood at his car with the shotgun and Beattee got out of his car. As they approached, appellant raised the shotgun and fired. Beattee ducked and ran and Walker fell wounded at the side of Beattee’s car. Appellant immediately left the scene and carried the shotgun to the home of a friend, where it was recovered by the oificers.
+Appellant, as a witness in his own behalf, admitted that, though he did not take the gun into the cafe, he had it in his hands when he saw Beattee come out and “was standing there just to see what was he going to do”; that he had the gun in his hands before Beattee got out of his car “and then he kept coming and then I come up like that and pulled the trigger.”
+Appellant diij not testify that the firing of the gun was accidental, but testified that he had no intent to kill anyone and was trying “to scare them to keep them off of me” and that he did not know he had hit anyone. In his confession he said that he shot at Beattee.
+The evidence shows no animosity between appellant and the deceased but clearly indicates that the shot which killed the deceased Walker was intended for Beattee Ockleberry. To this extent the killing may be said to have been accidental.
+Under such facts, appellant was not entitled to a charge authorizing an acquittal upon the theory of an accidental killing but was entitled to the submission of all defenses which should have been submitted had he killed Beattee Ockleberry. See Art. 42 P.C.; Richards v. State, 35 Texas Cr. Rep. 38, 30 S.W. 805; Covert v. State, 134 Texas Cr. Rep. 12, 113 S.W. 2d 556; Martin v. State, 134 Texas Cr. Rep. 379, 115 S.W. 2d 913.
+It is not controlling that the indictment did not allege that the shooting was with intent to kill another and the deceased was killed by accident. Becks v. State, 158 Tex. Cr. Rep. 204, 254 S.W. 2d 396.
+Only in the event appellant was justified in firing at Ockleberry would the accidental killing of Walker by said shot have been excusable or justified.
+We find no complaint in regard to failure to submit self-defense against an attack by Ockleberry, but only the complaint that the trial court refused to authorize an acquittal if appellant did not intend to kill Walker, but was accidental as to him. The trial court correctly declined to so charge.
+The evidence is sufficient to sustain the conviction and no reversible error appears.
+The judgment is affirmed.
