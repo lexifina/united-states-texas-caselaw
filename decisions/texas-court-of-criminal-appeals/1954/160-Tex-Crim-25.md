@@ -1,0 +1,42 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,784"
+decided: "1954-02-24"
+citations: ["160 Tex. Crim. 25"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Wilson v. State."]
+source_url: "https://static.case.law/tex-crim/160/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469136
+---
+
+# Wilson v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+Appellant was charged by indictment with an act of fondling in that with a lascivious intent he attempted to place his hands against the vulva, the sexual part of a female child under the age of fourteen years.
+It was also charged in the second count of the indictment that he had been duly and finally convicted in Jefferson County, Texas, for a felony of like character, to-wit, the felony of sodomy, the same being of like character or of the same nature as that for which he is charged in the first count herein.
+There were other counts in the indictment, but those mentioned are the ones upon which he was eventually convicted.
+The statement of facts is practically in accord regarding the testimony of the witnesses to the transaction. It was shown that two ladies were traveling down the street in the city of Big Spring on the date of this offense and noticed a commotion of some kind involving a little girl. The appellant had hold of this little girl’s arm, and she was crying and endeavoring to pull away from him. Appellant seemed to pull her away towards the car which he entered and in which he drove away. However, the little girl eventually got loose from him and ran into a nearby house where her aunt lived.
+This child’s testimony was practically the same as that given by the two women. She was placed on the witness stand, and the statement she made was that she was going to her aunt’s house where her little sister was waiting for her; that she saw this car standing on the street close to the house; that appellant came walking across the street and started talking to her and asked her where she was going. She answered that she was going to her aunt’s house and started to leave. Appellant then bumped into her and she tried to get out of his way. He kept on bumping into her and finally grabbed hold of her arm and tried to pull her toward the car. He asked her where she was going and she told him that she was going to get her little sister. He asked her where her sister was to which she replied, “Down the street.” He said he would take her riding and then get her little sister. He said, “We would get something, maybe, and take a ride.” She told him to let her go. He looked around and then let her go. When he let her go, he said for her to go on around the block and he would pick her up and take her riding. However, when he did let her go, “he ran back to his car, pushed something, some old coat off the door, into the car.” She noticed a little sign on the car. She then ran to her aunt’s house. She was frightened and was crying. She had never seen him before, but had seen him since and identified him at the trial.
+This is the only violence shown by the testimony to have been perpetrated upon the child. One of the ladies who witnessed the transaction testified, among other things, as follows:
+“Q. What part of her body did he have ahold of? A. He had ahold of her arm.
+“Q. Did you see him place his hand on any other portion of her body? A. No.
+“Q. Just the arm? A. Yes, sir.
+“Q. And he turned loose of her? A. Yes, sir.
+“Q. Then she ran on up her to someone’s house? A. Yes.
+“Q. Did he make any effort to follow her, chase her, or catch her again? A. We were too far away by then.”
+It is noted that the indictment alleges that the appellant attempted to place his hands against the sexual part of the child, to-wit, the vulva, she being a female under the age of fourteen years.
+This is all the testimony relative to the assault that we can find, that is, that of the two ladies and the little girl. Nowhere therein is it shown that appellant did anything except to grab her by the arm and scuffle with her, as one lady said. We quote from her testimony as follows:
+“Q. Now, Mrs. Mealer, as you were driving along there, did you notice something — well, you just tell the jury what it was you did see? A. Well, I saw this man pulling on this little child and of course it took my attention to it and I began to slow the car down and I turned up Nolan where I could see his face and. the child’s face, to see if I knew the child.”
+^ ^
+“Q. Now, Mrs. Mealer, as you observed this occurrence, what did you do and what else did you see? A. Well, of course, I didn’t know but what it was the child’s daddy, because I didn’t know the child or the man, but he was forcing her, you know, so much, that it directed our attention to it, and the little girl was trying her best to get away.
+“Q. What was her emotional state? Crying? A. Crying and trying to pull away.
+“Q. Did she appear to be making a conscious effort to get away? A. Yes, sir.”
+# ¡¡s
+“Q. Having observed this, then, what did you do next? A. Well, we just slowed down and then kept watching him; then he let the little girl loose and she ran.”
+Upon the proven facts in this case, we are unable to see where this man made any attempt of any kind to place his hands against the sexual part of this little girl.
+Under the circumstances here present, we are of the opinion that this judgment should be reversed and the cause remanded, and it is so ordered.
