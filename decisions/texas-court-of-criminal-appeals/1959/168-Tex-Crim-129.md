@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,709"
+decided: "1959-05-13"
+citations: ["168 Tex. Crim. 129"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. T. Pitcock v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2625402
+---
+
+# Pitcock v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is passing as true a forged instrument; the punishment, five years.
+The indictment alleged the passing of a check in the sum of $585.00 to W. E. Higgins. The check was payable to Montgomery Ward Company and was signed Tommy L. Locke, 310 No. Bryan.
+W. E. Higgins testified that he drove a delivery truck for Montgomery Ward Company and that he accepted the check introduced in evidence and described in the indictment for a C.O.D. delivery of a boat motor to 301 North Bryan Street, in Houston; and that “I would not have accepted this check from this defendant if I had known it was no good.” He also testified that the check was returned by the bank upon which it was drawn as a forgery, and Montgomery Ward Company had not been able to locate anyone by the name of Tommy L. Locke.
+Appellant’s statement was introduced in evidence, in which he confessed that he entered into a-scheme with Leroy Jennings and John Rudolps Kelley by which they ordered merchandise by telephone, to be sent C.O.D., and paid for it with bogus checks; that among other houses and apartments rented was a house at 301 N. Bryan where an outboard motor ordered from Montgomery Ward was received.
+We find the evidence sufficient to sustain the conviction and no reversible error appears.
+The judgment is affirmed.-
