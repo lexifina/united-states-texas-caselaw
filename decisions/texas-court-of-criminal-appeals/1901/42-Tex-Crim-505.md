@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2251"
+decided: "1901-02-13"
+citations: ["42 Tex. Crim. 505"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. F. Beer v. The State."]
+source_url: "https://static.case.law/tex-crim/42/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 171516
+cites_cases: ["101 Mass., 346", "12 Allen, 396", "16 Minn., 182", "16 Minn., 473", "17 Minn., 320", "18 Minn., 470", "19 Vt., 412", "3 Johns. Cas., 399", "30 Wis., 416", "34 Cal., 167", "35 Cal., 503", "36 N. Y., 195", "42 Cal., 416", "44 Miss., 441", "47 Ill., 152", "61 Md., 310"]
+---
+
+# Beer v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of forgery, and his punishment assessed at three years in the penitentiary. He was charged with forging a check in his own favor for $35, directed to the National Exchange Bank, Dallas, Texas, signing the naipe of F. Hesselson. On the trial the State offered the check in evidence, and objection was urged because it had lithographed upon it a Hnited States internal revenue two-cent stamp. The contention is that this constituted a variance, inasmuch as the indictment set our or described the instrument, omitting the stamp. To sustain this contention, it is necessary that the stamp form a part of the instrument. It has been held, almost without dissent, that indorsements upon a promissory note form no part of the instrument, and need not be set out in the indictment charging that the note was forged. It has also been held that it is not necessary to set out in the indictment any other matter written upon "the same constituting no part of the instrument itself, and not entering into it as an essential description of the instrument. It has also been held in this State that on an indictment for forgery of a note, where the indorsements on the note were ignored, it was no objection to its admissibility in evidence on the ground of variance. It was said that the indorsement wa's but an extrinsic and irrelevant writing, creating no variance. Labbaite v. State, 6 Texas Crim. App., 257. The authorities are quite numerous and entirely harmonious to the effect that the revenue stamp forms no part of the check, draft, or note. Hal lock v. Jaudin, 34 Cal., 167; People v. Tomlinson, 35 Cal., 503; Thomas-son v. Wood, 42 Cal., 416; Trull v. Moulton, 12 Allen, 396; Porter v. Bank, 19 Vt., 412; Cross v. People, 47 Ill., 152; Wilder v. Dellou, 18 Minn., 470 (Gil., 421); Cole v. Curtis, 16 Minn., 182 (Gil., 161); Cabbott v. Radford, 17 Minn., 320 (Gil., 296); State v. Hill, 30 Wis., 416; Morris v. McMorris, 44 Miss., 441; Green v. Holway, 101 Mass., 346. There are many other authorities to the same effect. We therefore conclude that the revenue stamp forms no part of the check, draft, or other instrument. However, in the Illinois case, supra, it seems that the stamp was upon the face of the instrument, though not alleged so to be. If the stamp forms no part of an instrument, it is entirely unnecessary to set out or describe it in the indictment charging forgery. See also 8 Am. and Eng. Enc. of Law, pp. 518, 531, for collation of authorities in notes. In Miller v. People, 53 New York, 304, the accused was indicted for forging and altering a check. Upon the check adduced in evidence was the indorsement of the payee’s name and the revenue stamp, neither of which was set forth in the description of the check contained in the indictment. Counsel for the accused urged the court to direct an acquittal on the ground of a variance between the indictment and the evidence. This was refused, and exception reserved. It was held that the omission did not constitute a variance, on the ground that neither the indorsement nor the revenue stamp forms a part of the check, which is a complete instrument of itself. See also People v. Franklin, 3 Johns. Cas., 399. The notes to this case cite State v. Mott, 16 Minn., 473 (Gil., 434); Laird v. State, 61 Md., 310; People v. Clements, 36 N. Y., 195. It was therefore not necessary to set out in the indictment or describe the revenue stamp, as it formed no part of the instrument, and there was therefore no variance between the allegation and proof.
+It also suggested there is a variance betiveen the name “Hesselson” set out in the indictment and that upon the alleged forged check produced in evidence, and for our inspection the original check was properly certified and sent up in the record. An inspection of that instrument does not verify this contention. The evidence supports the conviction, and the judgment is affirmed.
+Affirmed.
