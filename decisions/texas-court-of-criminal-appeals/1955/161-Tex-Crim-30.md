@@ -1,0 +1,80 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,306"
+decided: "1955-01-26"
+citations: ["161 Tex. Crim. 30"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["B. F. (Lefty) Fowler v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2466003
+cites_cases: ["157 Texas Cr. Rep. 51", "157 Texas Cr. Rep. 91", "159 Texas Cr. Rep. 571", "159 Texas Cr. Rep. 658", "180 S.W. 2d 927", "246 S.W. 2d 474", "246 S.W. 2d 633", "265 S.W. 2d 820", "269 S.W. 2d 398"]
+---
+
+# Fowler v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+The information alleged a sale of beer to Lynn S. Burk, in Lubbock County, a dry area. There was also a count charging a prior conviction for a like offense. The punishment assessed was a fine of $2,000 and one year in jail.
+Lynn S. Burk and Eugene W. House were undercover agents of the Texas Liquor Control Board to apprehend violations of the Texas Liquor Control Act.
+According to Burk’s testimony, he and House went to appellant’s residence on the date alleged in the information, and took seats around a table in the room. Appellant approached and asked if they wanted “a beer,” to which question Burk replied, “ ‘yes.’ ” Thereupon, appellant went to the icebox and got two cans of beer, which he served to them. Burk paid appellant one dollar for the two cans of beer. After drinking this, they purchased two more cans of beer, which they did not open.
+These two cans of beer were offered in evidence by the state.
+House corroborated Burk in his testimony, especially as to the sale of the beer by the appellant.
+Appellant did not testify as a witness in his own behalf. His defense was that of alibi, as shown by other testimony.
+Bill of Exception No. 8 certifies that, in closing argument, state’s counsel made argument that was objected to as a reference to the appellant’s failure to testify as a witness in his own behalf.
+In the course of his testimony, the alibi witness stated that appellant did not live at the place where the alleged sale of beer had been made but lived at the Capitol Hotel.
+State’s counsel, in commenting upon that testimony, stated to the jury:
+“Frankly, I don’t know whether Lefty (Appellant was named in the information as B. F. (Lefty) Fowler and referred to in the statement of facts as Lefty Fowler) keeps a room over here at the Capitol Hotel or not, but it doesn’t make a bit of difference in the world in this case, because what Lefty — and all the squirming we are trying to see to get out of it — what Lefty is charged with today is selling those two cans of beer and there is not a bit of evidence to contradict it, not a single bit.”
+Appellant’s objection that the argument was a reference to his failure to testify, and violative of Art. 710, C. C. P., was overruled.
+In his argument, state’s counsel further said:
+“You heard the evidence and you heard these men get up there and tell just exactly what happened. You heard them get up there and tell that they made the buy; you also heard that not a single controverting piece of evidence was offered that this sale wasn’t made, not a single solitary bit.”
+Appellant’s objection to that statement was overruled.
+State’s counsel, further in his argument, said:
+“Gentlemen, what is this other part that we are to consider ? The primary purpose of citizens and the Court and the police and everybody else, primary principle that the laws of Texas were written on was to stop crime. And how are we going to stop it? Are we going to give him a year? A year doesn’t stop him. A thousand dollars doesn’t stop him, we’ll appeal it as far as we can go. We’ve served it out and we come back and we sell and again I say, there is not a single controverting bit of evidence that the sale wasn’t made by Lefty to Mr. Burk, not a single, solitary thing.”
+Appellant’s objection that the argument violated Art. 710, C. C. P., was overruled.
+Thereupon, and in connection with the appellant’s objection to the previous argument, state’s counsel said:
+“Gentlemen, I wouldn’t violate Article 710 of the Code of Criminal Procedure, if I knew what it was, at this time, to save my neck, but I will get up here and try to show you that there wasn’t a single controverting bit of evidence made, introduced that Lefty did not sell these two cans of beer. Doesn’t make any difference — the evidence is that Lefty lived there, that he was living there with Mary Donahoo, the prostitute.”
+Appellant’s objection to that argument was sustained.
+These repeated arguments of state’s counsel reflect a studied and determined purpose on his part to argue to the jury that appellant had not denied the testimony of the state’s witnesses, for the parties to the transaction would be the only ones in position to know whether there was a sale of the beer which involved a contract between two parties.
+Art. 710, C.C.P., is a mandate, from the legislature to the counsel for the state, prohibiting allusion to or commenting upon the failure of an accused to testify as a witness in his own behalf. This has been the law of this state since 1889, and, where applicable, has been enforced by this court without question. Chambless v. State, 147 Texas Cr. R. 383, 180 S.W. 2d 927, appears to be directly in point here.
+In its brief, the state calls attention to the fact that the bill of exception complaining of the argument of state’s counsel does not certify that appellant did not testify as a witness in his own behalf and, by reason thereof, the bill of exception is insufficient. Musgrove v. State, 159 Texas Cr. R. 571, 265 S.W. 2d 820, is cited as authority for that contention.
+The Musgrove case supports the state’s contention, and requires that the bill of exception certify that the accused did not testify, in order to preserve for review of this court a complaint that argument of state’s counsel was a reference to the failure to testify.
+We have decided that the holding in the Musgrove case should be re-examined.
+Prior to its amendment in 1953, Art. 667, C.C.P., read as follows:
+“Bill of exceptions.
+“The defendant, by himself or counsel, may tender his bill of exceptions to any decision, opinion, order or charge of the court or other proceedings in the case; and the judge shall sign such bill of exceptions, under the rules prescribed in civil suits, in order that such decision, opinion, order or charge may be revised upon appeal.”
+It will be noted that the statute contained no requirement as to the contents of bills of exception. It did nothing more than provide for bills of exception and prescribed or regulated the requisites to be followed in approving them.
+Said Art. 667, C.C.P., was the only provision in our Code of Criminal Procedure touching bills of exception in criminal cases.
+In the absence of statutory direction from the legislature as to the contents or sufficiency of bills of exception, this court, from time to time by judicial determination, prescribed certain prerequisites to a valid bill of exception. Among those prerequisites was that which provided that when it was claimed that argument of state’s counsel was a reference to the failure of the accused to testify and thereby was violative of Art. 710, C.C.P., the bill of exception presenting the matter must contain a certificate that the appellant did not, in fact, testify as a witness in his own behalf upon the trial of the case — and this, notwithstanding the fact that the charge of the court, the statement of facts, or other parts of the record may have shown that the defendant did not testify in the case. If the bill of exception did not contain the required certificate that the defendant did not testify, it was held insufficient to present the question for review.
+Such was the statute and rule when the 53rd Legislature, in 1953, by Chap. 254 of the Acts of the Regular Session thereof, came on to amend Art. 667, C.C.P.
+That act, in so far as here pertinent, expressly provides:
+“Where the argument of State’s counsel about which complaint is made in a bill of exception is manifestly improper, or violates some mandatory statute, or some new fact is thereby injected into the case, it shall not be necessary that the bill of exception negative that the argument was not invited, or in reply to argument of defendant or his counsel, or any other facts by which the argument complained of may have been authorized. If such matters exist, the trial court by qualification or otherwise, may require the bill of exception to reflect any reason whereby the argument complained of would not be error.”
+No other construction may be given to the statute and the intent of the legislature incorporated therein but that the rule theretofore existing and above referred to was no longer in effect but was thereby expressly abrogated.
+In the instant case, the argument of state’s counsel was a reference to the failure of the appellant to testify. The mandatory provision of Art. 710, C.C.P., which expressly prohibited such argument, was thereby violated.
+In complaining of such an argument, the act provides that “it shall not be necessary that the bill of exception negative .... any other facts by which the argument complained of may have been authorized.”
+The argument complained of would not have violated Art. 710, C.C.P., had the appellant testified as a witness in the case.
+But the legislature was not content to let the matter rest upon the provisions of the statute above quoted. It went further and expressly provided that if facts exist which rendered the argument not objectionable, or subject to the complaint leveled thereat, the trial court was expressly authorized to require that the bill of exception reflect such facts.
+If the legislature had not intended that the rule was to be abrogated and no longer controlling which required that the bill of exception certify that the defendant did not testify, where it is claimed that argument of state’s counsel was a reference to his failure to testify, the provision just above mentioned was absolutely meaningless. No occasion would exist to authorize the trial court in such cases to require that the bill of exception state that the defendant did testify when the bill of exception, to be sufficient, must certify that he did not testify.
+There is no escape from the conclusion that the rule is no longer controlling in this state, but has been abrogated by the statute mentioned, which requires that, to be sufficient and subject to the consideration of this court, a bill of exception complaining that argument of state’s counsel was a reference to the failure of the accused to testify must certify that the accused did not testify.
+The Musgrove case, supra, which holds to the contrary is hereby expressly overruled.
+Because of the improper argument of state’s counsel, the judgment is reversed and the cause is remanded.
+
+## Dissent (WOODLEY, Judge,)
+
+WOODLEY, Judge,
+dissenting.
+The order of reversal is predicated upon Bill of Exception No. 8 which “relates to the alleged improper argument of Mr. Hart, Assistant County Attorney.”
+Under the procedural law of this state, adhered to by this court up to the present time, a bill of exception, in order to present for review to the Texas Court of Criminal Appeals a claimed error in the trial court, must be complete and in itself manifest the facts which show error. Resort to the record to complete the bill is not required.
+It has also long been the rule that the statement of the ground of objection would not suffice and it was essential that the bill certify that the facts upon which the objection was predicated actually existed. Cox v. State, 157 Texas Cr. Rep. 51, 246 S.W. 2d 474; Martinez v. State, 157 Texas Cr. Rep. 91, 246 S.W. 2d 633; 4 Texas Jur., Sec. 206, p. 293.
+These rules have been adhered to since the amendment of Art. 667 C.C.P. by the 53rd Legislature.
+The decision in Musgrove v. State, 159 Texas Cr. Rep. 571, 265 S.W. 2d 820, was the result of a careful consideration, by all members of this court, of the theory now adopted by the majority opinion.
+In the Musgrove case we construed the amendment of Art. 667 C.C.P. and held that the burden placed upon the trial judge, to show by qualification or otherwise that the argument was invited by or made in reply to argument of appellant or his counsel, or any other fact by which the argument complained of may have been authorized, did not alter the rule above stated, requiring the bill to be complete in itself. The effect of our holding was that the amendment placed no duty on the trial judge to complete a bill for the appellant by the addition of facts without which it was insufficient to show error. The writer believes that such holding is correct.
+It was the settled law of this state at the time this case was tried, and at the time the bill of exception was approved, that a bill was deficient though it showed that counsel for the state commented upon the defendant’s failure to testify, unless the bill disclosed as a fact that the defendant did not testify.
+The holding in the Musgrove case has been consistently followed since the case was decided more than a year ago. It has been vigorously assailed (notably in McGill v. State, 159 Texas Cr. Rep. 658, 269 S.W. 2d 398).
+But able counsel who represent appellant on this appeal, in their brief, do not question our holding in Musgrove v. State, supra, nor seek to have it overruled. In fact the question of whether the assistant county attorney commented on the defendant’s failure to testify is not mentioned in the brief and is not therein relied upon for reversal.
+If we were in error in our interpretation of the act of the 53rd Legislature amending Art. 667 C.C.P., the 54th Legislature is now in session, and has the undoubted authority to change the requirements for bills of exception so as to make a bill such as that before us sufficient to present the matter to this court.
+The importance of fixed and written rules or laws regulating procedure in both civil and criminal cases is well recognized. Any changes in such procedure should be limited to future trials and preparation of appeals.
+Believing that the Musgrove case should not be overruled but should control, and that the judgment should be affirmed and not reversed, I respectfully enter my dissent.
