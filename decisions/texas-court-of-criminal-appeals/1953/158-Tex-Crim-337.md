@@ -1,0 +1,82 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,088"
+decided: "1953-01-14"
+citations: ["158 Tex. Crim. 337"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Everett Ralph Carr v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0337-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2478281
+cites_cases: ["101 Tex. Cr. R. 243", "103 S.W. 2d 156", "105 S. W. 178", "107 S. W. 1116", "119 Tex. Cr. R. 345", "121 Tex. Cr. R. 493", "123 N. E. 324", "125 S.W. 2d 603", "132 Tex. Cr. R. 158", "133 N. E. 767", "136 S. W. 265", "136 Tex. Cr. R. 445", "144 S.W. 966", "146 S.W. 941", "149 Tex. Cr. R. 27", "154 Tex. Cr. R. 438", "160 S.W. 689", "180 S. W. 706", "190 S. W. 2d 820", "2 N. E. 2d 833", "217 S.W. 698", "227 S. W. 2d 559", "241 S. W. 169", "251 S. W. 2d 731", "275 S. W. 1060", "288 Ill. 268", "301 Ill. 370", "31 S. W. 673", "34 Tex. Cr. R. 546", "38 Tex. Cr. R. 681", "42 S. W. 2d 1017", "44 S. W. 989", "51 S.W. 2d 316", "52 Tex. Cr. R. 17", "52 Tex. Cr. R. 387", "53 Am. St. Rep. 722", "61 Tex. Cr. R. 334", "65 Tex. Cr. R. 418", "66 Tex. Cr. R. 201", "71 Tex. Cr. R. 614", "78 Tex. Cr. R. 344", "86 Tex. Cr. R. 339", "92 Tex. Cr. R. 7"]
+---
+
+# Carr v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is assault with intent to rape; the punishment, three years.
+The only serious question here presented is the sufficiency of the evidence corroborating the confession.
+Appellant’s confession relates his movements of the evening in question. Therein, he told that he “picked up” deceased in a tavern; that they drank beer together; that she agreed to let him take her home; that they stopped at her home, and she ascertained that her husband wq,s not there, and then returned to his automobile; that they drove his friend with whom he had been drinking to his home and then returned to the vicinity of deceased’s residence; that he proposed a ride toward Fannett; that she did not voice any objection, but as they drove along she unexpectedly jumped out of the automobile. The confession states further that he stopped his automobile, found that deceased was bleeding around the nose, forehead and ears; that she made no reply to his inquiries; that he placed her in the back of his automobile, drove a mile or two out on the road to Fan-nett, turned off on a dirt road, again examining deceased, found her limp and moaning, had intercourse with her, then determined that she was injured worse than he had thought, and started back to Beaumont for the purpose of taking her to the hospital, when he was overtaken by the police.
+The deceased was shown to' have died shortly thereafter as the result of a brain concussion.
+Appellant, testifying in his own behalf, admitted all the salient points contained in the confession, but denied the act of intercourse and claimed that he drove down the dirt road a short distance, stopped the automobile, examined the deceased, turned around immediately, and started back to the hospital. The jury resolved the issue of the voluntary nature of the confession against the appellant.
+We now examine the remainder of the state’s evidence to determine if the confession is sufficiently corroborated.
+Recently, in Watson v. State, 154 Tex. Cr. R. 438, 227 S. W. 2d 559, we said:
+“There must be proof of the corpus delicti, outside of the confession. The confession of the accused alone is not sufficient. See Davis v. State, 101 Tex. Cr. R. 243, 275 S. W. 1060.
+“In establishing the corpus delicti, the confession may be used in connection with the other facts and circumstances, that is, the confession may be used to aid the proof of the corpus delicti. See Anderson v. State, 34 Tex. Cr. R. 546, 31 S. W. 673, 53 Am. St. Rep. 722; Kugadt v. State, 38 Tex. Cr. R. 681, 694, 44 S. W. 989; and Sowles v. State, 52 Tex. Cr. R. 17, 105 S. W. 178.
+“The corpus delicti may be proved by circumstances as well as by direct evidence. See Kugadt v. State, supra; Brown v. State, 61 Tex. Cr. R. 334, 136 S. W. 265; and Tabor v. State, 52 Tex. Cr. R. 387, 107 S. W. 1116.
+“And the confession may render sufficient circumstantial evidence that would be insufficient without it. See Davis v. State, supra.”
+The witness Carlton Comeaux testified that on the night in question, as he lay asleep in his home adjacent to the highway leading toward Fannett, he was awakened by a noise that sounded like someone was hit; that he went to the window and observed a man trying to put a seemingly helpless, groaning woman in the back of an automobile. The witness stated that his suspicions were aroused when the man appeared to shield the body of the woman from the lights of two automobiles which passed while he was in the process of placing the woman in the automobile. The witness testifed that he hurriedly dressed and followed the automobile for something over a mile on the road to Fannett, where it turned off on a side road leading into the woods; that he returned to his home and called the police; and when they came some ten or fifteen minutes later he rode with them to the entrance to the side road, where they observed the same automobile coming back out to the main road. Comeaux testified that the officers gave chase and finally brought the automobile to a halt; that he remained there until an ambulance came and got the body of the woman found in the back thereof; and when he arrived at the police station he learned that she was dead.
+Comeaux’s testimony was corroborated by that of his wife and his mother. The latter witness stated that at one juncture during their observation of what was occurring in the street her son had left the window to get his clothes, and at that time'she heard the woman “holler” as the man tried to load her limp form in the automobile; that she saw him strike in the direction of the woman’s body; and that thereafter the woman “hollered” no more.
+Dr. Newton, the County Health Officer who performed the autopsy on the body of deceased on the night in question, stated that, in his opinion, the injuries which he observed had caused the deceased to become unconscious and remain in this condition until her death, and that while in such condition an act of intercourse would, in all probability, cause her bladder to empty and thus cause the person having intercourse with her to become wet.
+The witness Selman testified that he saw the appellant shortly after his arrest and noticed that his pants were wet from a point just below the belt line for some distance down both legs.
+The appellant, in his testimony, sought to explain this condition by stating that the arresting officer had struck him and caused him to urinate on himself.
+Officer Savoy testified that following the arrest of the appellant he discovered the body of the deceased in the back of the automobile and that it was exposed from the waist down.
+The corroborating testimony, together with the confession, establishes the following:
+1. That the deceased asked to be let out at her home; that appellant countered with a suggestion that they go for a ride; that the deceased did not acquiesce but jumped or fell from the moving automobile, thereby sustaining a mortal injury.
+2. That the appellant placed her body on the floor in the back of his automobile and struck her, and she thereafter made no further outcry.
+3. That appellant endeavored to shield her body from view.
+4. That the appellant, knowing that she had been injured, continued to drive away from town and into the woods, where he remained with her approximately twenty minutes.
+5. That expert testimony showed that in an unconscious woman the bladder would normally relax with an act of sexual intercourse, and a witness who saw the appellant immediately after he drove out of the woods with the deceased testified that appellant’s pants were wet at a point higher than would normally result from his having urinated on himself.
+6. That, when discovered, the body of the deceased was nude from the waist down.
+In conformity with the above rule, we find the evidence sufficient to corroborate the confession and support the conviction.
+We now discuss the contentions raised in appellant’s brief and argument.
+Appellant contends that proof of a consummated rape will not support a conviction for assault with intent to rape.
+It will be remembered that the injured party died on the night of the alleged rape and was not present to testify as to penetration and want of consent.
+Article 695, C. C. P., provides, in part, as follows:
+“The following offenses include different degrees: tt
+“7. Every offense against the person includes within it assaults with intent to commit said offense, when such attempt is a violation of the penal law.”
+Judge Graves, in Keeton v. State, 149 Tex. Cr. R. 27, 190 S. W. 2d 820, in discussing said article, said:
+“It is true that an indictment for rape includes also a charge for an assault with intent to rape. . . .”
+In Schroeder v. State, 92 Tex. Cr. R. 7, 241 S. W. 169, we said:
+“The offense of rape includes within it the assault with intent to rape.”
+The Supreme Court of Illinois, in People v. Ristau, 2 N. E. 2d 833, said:
+“The defendant contends that there was a variance between the indictment and the proof, in that the crime charged was assault with intent to commit rape, while the evidence showed that a rape had been committed. The test is whether or not the evidence shows the defendant guilty of the crime charged. The fact that the evidence may also prove a greater offense creates no variance. Proof of rape includes proof of an assault with intent to commit rape, and there was therefore no variance. People v. Mason, 301 Ill. 370, 379, 133 N. E. 767; People v. Karpovich, 288 Ill. 268, 123 N. E. 324.”
+Appellant next complains of the overruling of his motion for continuance based upon the absence of the ambulance driver. The application recites that which the appellant expected to prove by the witness. All of such testimony recited therein that might have been helpful to the accused was inadmissible, because it was opinion evidence. The court qualified the bill by certifying that Dr. Newton was called as a witness by the state, and the appellant did not examine him about the very same matters he expected to prove by the driver. We find no motion for new trial, no affidavit from the missing witness, and no showing, under oath, from some other source that the witness would have actually testified to such fact. Such a bill fails to reflect error. Morris v. State, 251 S. W. 2d 731, and cases there cited.
+Appellant next complains of the overruling Of his motion to require the state to elect at the close of the state’s evidence.
+The indictment charged rape, attempt to rape, and assault with intent to rape. Here, only one act or transaction was charged, and the different counts were placed in the indictment to meet possible variations of proof. In such a case, election is not required. Williams v. State, 119 Tex. Cr. R. 345, 42 S. W. 2d 1017, and Branch’s Ann. P. C., Sec. 444, p. 233.
+Appellant’s last complaint relates to the testimony of the witness Maxwell concerning certain business records. We perceive no possible injury therein. The appellant was arrested in an automobile containing the body of deceased. Ownership of the automobile was immaterial.
+Finding ño reversible error, the judgment of the trial court is affirmed'.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON appellant’s motion for rehearing.
+WOODLEY, Judge.
+Appellant urges that we erred in holding that the facts were sufficient to sustain the conviction. He points out that the confession shows a completed act of intercourse, not an assault to commit the same.
+His proposition of law is stated as follows: “though a jury on an original trial may convict of a lesser offense, it may not so do when the undisputed facts show the greater offense to have been committed.”
+The statutes of this state and the holdings of this court are to the contrary.
+Sec. 9 of Art. 753 C.C.P. provides for the granting of a new trial when the verdict is contrary to the law and evidence. It reads in part as follows:
+“A verdict is not contrary to the law and evidence, within the meaning of this provision, where the defendant is found guilty of an offense of inferior grade to, but of the same nature as, the offense proved.”
+Construing this article this court held in Wysong v. State, 66 Tex. Cr. R. 201, 146 S.W. 941, that a conviction for manslaughter should be sustained though the evidence shows the offense of imurder and not manslaughter.
+In Crowder v. State, 78 Tex. Cr. R. 344, 180 S. W. 706, we held that one accused of murder but convicted of negligent homicide was not entitled to a new trial though the evidence showed murder and not negligent homicide.
+In Wilson v. State, 132 Tex. Cr. R. 158, 103 S.W. 2d 156, we held that the trial judge was correct in refusing to charge the jury that the accused could not be convicted of assault with intent to rape if he pénetrated the person of the prosecutrix, in view of said Sec. 9 of Art. 753 C.C.P.
+In Tackett v. State, 136 Tex. Cr. R. 445, 125 S.W. 2d 603, the conviction was for assault with intent to rape under an indictment charging rape. We overruled the contention that the conviction was erroneous because under the state’s version the jury should have convicted for rape, while the defense showed no offense was committed.
+In Carter v. State, 121 Tex. Cr. R. 493, 51 S.W. 2d 316, we upheld a conviction for aggravated assault, though the offense charged and proved was rape.
+In Grimes v. State, 71 Tex. Cr. R. 614, 160 S.W. 689, 691, is found the following:
+“If the testimony of Bessie Smith should be held to show rape, instead of assault to rape, which is exceedingly doubtful, yet, as the state elected to prosecute him for assault to rape, appellant would not be heard to complain.”
+Other cases may be found where we have held that conviction of a lesser grade of offense will be sustained though the evidence shows that a greater offense had been committed. See Gatlin v. State, 86 Tex. Cr. R. 339, 217 S.W. 698; Campbell v. State, 65 Tex. Cr. R. 418, 144 S.W. 966.
+We remain convinced that the confession is sufficiently corroborated and that the evidence as a whole is sufficient to sustain the conviction.
+Appellant’s motion for rehearing is overruled.
