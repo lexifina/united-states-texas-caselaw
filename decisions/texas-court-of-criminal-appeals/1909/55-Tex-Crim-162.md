@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "4473"
+decided: "1909-01-20"
+citations: ["55 Tex. Crim. 162"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jack Flannagan v. The State."]
+source_url: "https://static.case.law/tex-crim/55/cases/0162-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4574369
+cites_cases: ["110 S. W. Rep., 745", "2 Mass., 163", "32 La. Ann., 812", "33 Kan., 538", "37 Texas Crim. Rep., 289", "46 Texas Crim. Rep., 296", "52 Texas Crim. Rep., 11", "52 Texas Crim. Rep., 262", "53 Texas Crim. Rep., 246", "81 S. W. Rep., 947", "87 Me., 72", "90 S. W. Rep., 650"]
+---
+
+# Flannagan v. State
+
+## Majority (RAMSEY, Judge.)
+
+RAMSEY, Judge.
+For a reversal of the judgment of conviction on a charge of robbery, appellant chiefly relies on his motion to quash the indictment on the ground that same was duplicitous and contained in one and the same count, both a charge of robbery, which was a felony, and theft of property of the value of $6, which was a misdemeanor. The charging part of the indictment is, as follows: “That one Jack Flannagan, in the County of Tarrant and State aforesaid, on the 11th day of March, in the year of our Lord, one thousand nine hundred and eight, did unlawfully and willfully, make an assault upon the person of Sam P. Holmes, and then and there by said assault and by violence to the said Sam P. Holmes, and by putting the said Sam P. Holmes in fear of life and bodily injury did then and there fraudulently take from the person and possession of the said Sam P. Holmes, without the consent and against the will of the said Sam P. Holmes, six dollars in money of the value of six dollars, the said property then and there being the corporeal personal property of the said Sam P. Holmes, with the fraudulent intent then and there on the part of him, the said Jack Flannagan, to deprive the said Sam P. Holmes of the value of the same and to appropriate it to the use and benefit of him the said Jack Flannagan.” The objections to this indictment are perhaps more fully stated in the motion in arrest of judgment, wherein complaint is, made that the indictment is invalid, “because the indictment upon which said defendant was tried is fatally defective and void, in that the same does not intelligently charge any offense against the laws of the State of Texas, in this, that it is misleading, confusing, contradictory and duplicitous, and charges more than one offense in one count.” We do not believe that the indictment is subject to the objections1 urged.
+By article 856, Penal Code, robbery is thus defined: “If any person by assault or violence or by putting in fear of life or bodily injury, shall fraudulently take from the person or possession of another any property with intent to appropriate the same to his own use, he shall be punished by confinement in the penitentiary for life, or for a term of not less than five years; and when a fire-arm or other deadly weapon is used or exhibited in the commission of the offense, the punishment shall be death or by confinement in the penitentiary for any term not less than five years.” It will be observed that there are some unnecessary averments in the indictment. The statute does not include the terms “without the consent and against the will” of the person robbed. For does the statute provide that the property taken shall have any special value. It is not believed, however, that the inclusion of these matters vitiates the indictment. It is not an indictment for theft because the dominant and controlling fact stated in the indictment is the putting of the said Holmes in fear of life and bodily injury. This indictment follows, almost literally, the form laid down in White’s Code of Criminal Procedure, see. 1464. Again, practically this identical form of indictment was ruled on and sustained by this court in Clark v. State, 28 Texas Crim. App., 189. In the statement of the ease by the Reporter, the indictment in that case is set out in haec verba, and includes the language: “from the possession and against the will” .of the parties named, and also gives the value of the property taken. In that case, as in this, there was a motion in arrest of judgment based on the supposed insufficiency of the indictment, which the court, speaking through Judge White, Presiding Judge, says, was properly overruled, and that the indictment sufficiently charged the crime of robbery under our statute and decisions. The same rule in effect was followed in Colter v. State, 37 Texas Crim. Rep., 289, and Weaver v. State, 52 Texas Crim. Rep., 11. So we think it too clear for argument that the indictment was sufficient.
+[Rehearing denied. February 10, 1909.—Reporter.]
+2. There is no statement of facts in the record, and the other assignments all relate to supposed errors in the charge of the court. That- these matters can not in the absence of a statement of facts be reviewed, we have often held. Holloway v. State, 53 Texas Crim. Rep., 246, 110 S. W. Rep., 745.
+Finding no error in the judgment of the court below, it is ordered that the same be and it is hereby in all things affirmed.
+Affirmed.
