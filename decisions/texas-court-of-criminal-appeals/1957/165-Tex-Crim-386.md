@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,362"
+decided: "1957-12-11"
+citations: ["165 Tex. Crim. 386"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Nicholas E. Tangney"]
+source_url: "https://static.case.law/tex-crim/165/cases/0386-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2616578
+cites_cases: ["158 Texas Cr. Rep. 52", "159 Texas Cr. Rep. 161", "162 Texas Cr. Rep. 293", "252 S.W. 2d 935", "261 S.W. 2d 844", "284 S.W. 2d 721"]
+---
+
+# Ex parte Tangney
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+This is an extradition case. The Governor of this state issued his executive warrant based upon the requisition and supporting papers of the Governor of the State of Louisiana, authorizing the arrest, delivery, and return of appellant to the State of Louisiana.
+Appellant sought his discharge by a writ of habeas corpus filed in Criminal District Court No. 2, of Tarrant County, Texas. After a hearing, appellant was remanded to the sheriff of Tar-rant County for delivery to the agents of the state of Louisiana, and from said order he gave notice of appeal.
+The executive warrant of the Governor of this state was introduced in evidence. It made out a prima facie case authorizing appellant’s return. Ex parte Guinn, 162 Texas Cr. Rep. 293, 284 S.W. 2d 721.
+Appellant did not testify or offer any evidence in his behalf.
+Under the executive warrant of the Governor of this state, the trial court was authorized to conclude as he did and remand the appellant for extradition. Delgado v. State, 158 Texas Cr. Rep. 52, 252 S.W. 2d 935; Ex parte Thompson, 159 Texas Cr. Rep. 161, 261 S.W. 2d 844.
+The judgment is affirmed.
+Opinion approved by the Court.
