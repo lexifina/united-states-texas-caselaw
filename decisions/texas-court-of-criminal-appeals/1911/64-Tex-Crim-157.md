@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1456"
+decided: "1911-12-13"
+citations: ["64 Tex. Crim. 157"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. T. Taylor v. The State."]
+source_url: "https://static.case.law/tex-crim/64/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2375320
+cites_cases: ["22 S. W. Rep., 148", "49 Texas Crim. Rep., 131", "49 Texas Crim. Rep., 285", "91 S. W. Rep., 571"]
+---
+
+# Taylor v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+In this case, appellant was prosecuted under an information alleging “that H. T. Taylor, on or about the 27th day of April, A. D., 1911, and before the making and filing of this information and complaint, in the county of Ellis, State of Texas, did unlawfully and fraudulently take five dollars in money, current as money of the United States of America of the value of five and no/00 dollars, the same being the corporeal personal property of O. P. Longino from the possession of said 0. P. Longino without the consent of the said 0. P. Longino with intent to deprive the said 0. P. Longino of the value thereof, and with the intent to appropriate it to the use and benefit of him, the said H. T. Longino, against the peace and dignity of the State.”
+The evidence offered on behalf of the State is as follows: “My name is 0. P. Longino. I live in Ellis County, Texas, about five miles east of the city of Waxahachie, Texas; and I am a farmer. On the 27th day of April, 1911, the defendant, H. T. Tajdor, came to my house in company with Mr. A. Dodson. Defendant said that he wanted to get a place where he could work and chop cotton. Mr. A. Dodson recommended the defendant and said that he thought he was all right. Defendant said that he had a family consisting of a wife and some children who could chop cotton, that he had a force of five with himself; that his wife and children were at that time at the town of Cameron, Texas; that he wanted to get a place with a good home, which I had, and that he would have to go after his family and that he lacked $5 of having enough money to go down there and get them. He said he wanted to come out and work for me because I had a good home, etc., and that if I would let him have the $5 to help pay for going after his family, he would go and get them and bring them up to my place; and then he and they would work and chop cotton for me until the $5 was paid back and would stay and work, all the year. He was to have come back within two or three days. But he never did come back and work for me and has not -to this day. This conversation all happened in Ellis County, Texas. I never heard of or saw him again until the 5th day of June, I saw him in Waxahachie. The money I gave him was of the value of five dollars.”
+On cross-examination he said: “When I gave the $5 to the defendant, I never expected to get this five dollars back from him, but did expect to get it in another form. The contract was that he was to return to my farm and pay me back the $5 by working for me. And I never expected to get this five dollars back when I gave it to him. I kissed this $5 goodbye forever when I gave it to him. Neither did I expect to get back from defendant any other $5 in money, but he was to work it out for me. In other words. I paid him in advance for $5 worth of work and he was to come and chop this $5 worth of work out for me. If I had not thought he had a wife and children at Cameron, and had to have this money to bring them, I would not have let him have it. Defendant appeared to be honest and sincere at the time he made these statements. If I had not so thought, I would not let him have the money. I just considered that I had advanced him $5 for work to be done in the future.”
+Such facts do not constitute theft, and because the evidence does not sustain the charge contained in the information, this case must be reversed and remanded. It may be that appellant told a falsehood, yet the money was loaned to him, depending on his promise to come back and work it out. If in fact appellant did not “have a family consisting of a wife and children who could chop cotton, making a force of five with himself” at the time he made the representation, and the prosecuting witness let him. have the money, relying on this statement, an indictment for swindling might lie, but the facts do not make a ease of theft.
+The judgment is reversed and the cause is remanded.
+Reversed and remanded.
