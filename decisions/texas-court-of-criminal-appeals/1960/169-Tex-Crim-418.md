@@ -1,0 +1,50 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,555"
+decided: "1960-03-16"
+citations: ["169 Tex. Crim. 418"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carlos Gonzales Hernandez v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0418-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12144291
+cites_cases: ["124 Tex. Cr. R. 252", "149 Tex. Cr. R. 226", "193 S.W. 2d 219", "220 S.W. 1106", "234 S.W. 399", "61 S.W. 2d 490", "61 S.W. 715", "87 Tex. Cr. R. 248", "90 Tex. Cr. R. 209"]
+---
+
+# Hernandez v. State
+
+## Majority (DAVIDSON, Judge)
+
+DAVIDSON, Judge
+This is a conviction for possessing marihuana; the punishment, five years in the penitentiary.
+This case presents some unusual aspects.
+Scholl, undercover agent for the Texas Department of Public Safety, testified that about the 16th day of March, 1957, he was in company with an informer, whom he did not further identify, when appellant, “ * * * stopped the informer and (him), and he (appellant) talked to the informer briefly in Spanish which ( Scholl) couldn’t understand, and then (Scholl) was introduced to the defendant by the informer.” Scholl falsely represented that he and the informer had worked on a shrimp boat on several occasions.
+Appellant asked Scholl if he was interested in some “jive,” which he explained was marihuana. Scholl replied that he was and would like to have some. Appellant left and later returned with three cigarettes which he represented as being marihuana, for which Scholl paid him $2.00. The transaction occurred about eleven o’clock the night of March 16, 1957.
+Scholl, together with the informer, went to the “bridge,” some six or eight blocks away, where the cigarettes were delivered to Dompier, U.S. Customs agent. Before delivering the cigarettes, Scholl placed the date and his initials on each for identification purposes.
+The trial court was of the opinion that Scholl was not shown to be sufficiently qualified to express an opinion as to the contents of the cigarettes being marihuana.
+After placing his identifying marks thereon, Dompier, the Customs agent, delivered the cigarettes to Mrs. Hughs, Customs seizure chief. Mrs. Hughs sent one of the cigarettes to Hodapp, the U-S. Customs chemist at New Orleans, and retained the other two cigarettes in her possession.
+Hodapp testified that he made a microscopic as well as a chemical analysis of the contents of the cigarettes and found such to be marihuana. He returned the cigarette which he had examined to the U.S. Customs service.
+Upon the trial, Hodapp identified the cigarette as the one he had examined, and Scholl identified the same cigarette as one of the three he received from appellant.
+We are unable to agree with the appellant that no sufficient predicate was laid to authorize the testimony of the chemist that the cigarette contained marihuana.
+Testifying as a witness, appellant denied the transaction and insisted that Scholl’s identification of him as the seller of the marihuana cigarettes was one of mistaken identity.
+One of the unusual aspects which appellant points out is that, notwithstanding the fact that Scholl knew and positively identified him, he made no effort to file any accusation against him or to arrest him at the time of the sale.
+Scholl admitted that he saw appellant on two or three occasions thereafter and talked with him. No mention was made of the alleged sale of the cigarettes, and appellant at that time made no effort to again sell him any marihuana cigarettes.
+It was not until December, 1958, or approximately a year and nine months after the alleged transaction in March of 1957 that appellant was placed under arrest by Scholl and Officer Garcia and charged with this offense. The indictment in this case was returned January 7, 1959.
+The state elected to prosecute appellant for the unlawful possession of marihuana and not for the sale thereof to which Scholl testified.
+Appellant insists that Scholl’s admitted conduct at the time of and subsequent to the sale was such as to brand him an accomplice witness as a matter of law, in that he was an accessory after the fact.
+Inasmuch as the state’s case depended solely upon Scholl’s testimony, appellant insists that the evidence is insufficint to support the conviction.
+Appellant calls attention to the fact that Sec. 22 of Art. 725b, P.C., the Uniform Narcotic Drug Act, enjoins all peace officers— especially the agents of the Texas Department of Public Safety— to “enforce all provisions of this Act,” and that Art. 414, P.C., makes it unlawful for any officer of the law to “wilfully * * * fail to perform any duty imposed upon him by the Penal Code * * * .”
+An accessory is one who, knowing that an offense has been committed, conceals the offender or gives him any other aid in order that he may evade arrest or trial. Art. 77, P.C. An accessory is an accomplice witness. Orr v. State, 124 Tex. Cr. R. 252, 61 S.W. 2d 490; Martin v. State, 149 Tex. Cr. R. 226, 193 S.W. 2d 219.
+The question, here, as to whether Scholl was an accessory turns not so much upon his failure to arrest the appellant at the time he says appellant committed a felony in his presence as it does whether the intent of Scholl in failing to make the arrest or to promptly institute prosecution was to aid him in evading arrest or to escape punishment.
+We would not be authorized to hold the witness Scholl to be an accessory and therefore an accomplice witness, as a matter of law. In this connection attention is called to the fact that we are not here dealing with the failure of the trial court to subjmit to the jury as a fact issue the question as to whether Scholl was an accomplice witness by reason of his conduct. No request for any such charge was made.
+Appellant complains that the state was permitted to impeach him by the witness Scholl by proof of contradicting statements for which no proper predicate had been first laid.
+The state contends that the testimony was not necessarily impeaching but was material to the case.
+Whether the evidence complained of was or was not impeaching as distinguished from material is not necessary to be determined.
+The statement of facts shows that after the witnes Scholl had testified to the alleged impeaching testimony appellant was recalled as a witness and denied Scholl’s alleged impeaching testimony.
+The rule is that an error in permitting the impeachment of a witness without having laid a predicate is cured if the impeached witness is afterwards called back by either side and denies all that the impeaching witness said on the subject. If the jury has the full benefit of the denial it is immaterial whether the denial was before or after the testimony of the impeaching witness. Branch’s P.C., 2d Ed., Sec. 201 at page 222, and authorities there cited.
+Appellant complains of an admonitory instruction to the jury to the effect that they should not discuss how long he would be required to serve in order to satisfy the sentence, if any, imposed.
+The giving of admonitory charges by the trial court, in order to guard against jury misconduct, has been left largely to his discretion. Chief among such charges that have been held to be warranted are: that the indictment is no evidence of the guilt of the accused and that the failure of the accused to testify is not to be taken as a circumstance against him. Additional charges left to the trial court’s discretion include those containing matters not in evidence (Villereal v. State, 61 S.W. 715; Gunn v. State, 90 Tex. Cr. R. 209, 234 S.W. 399) and those where the result of a former trial was no concern of the jury (Hewey v. State, 87 Tex. Cr. R. 248, 220 S.W. 1106) and those charges cautioning the jury against arriving at punishment by lot (24 Tex. Jur., Sec. 128, p. 619).
+We are unable to agree with the appellant that the giving of the instant charge was error.
+The judgment is affirmed.
