@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "10132"
+decided: "1926-06-16"
+citations: ["104 Tex. Crim. 596", "285 S.W. 820"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jesse L. Campbell v. The State."]
+source_url: "https://static.case.law/tex-crim/104/cases/0596-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5120869
+cites_cases: ["280 S. W. 778"]
+---
+
+# Campbell v. State
+
+## Majority (BAKER, Judge.)
+
+BAKER, Judge.
+The appellant was convicted in the District Court of Potter County for the offense of perjury, and his punishment assessed at two years in the penitentiary.
+The record discloses that the appellant was charged by indictment with perjury, in which it is alleged that “it then and there became and was a material issue before said judge and jury in the trial of said criminal judicial proceeding whether or not the said Jesse L. Campbell, defendant therein, was on or about Friday, February 13th, A. D. 1925, at any time between about 8:00 o’clock p. m. and about 11:00 o’clock p. m. of said day, personally present at the River Road School House, about six miles north of Amarillo, in Potter County, Texas.” This assignment of perjury in said indictment appears to have been based upon the testimony given by the appellant, in his behalf, on a former trial in said court, wherein he was charged by indictment in one count with the unlawful possession of intoxicating liquor for the purpose of sale, and in the second count with unlawful transporting intoxicating liquor, said indictment being based upon the same transaction that the perjury indictment was founded. The record discloses that it was contended by the state that the appellant traded his interest in a “taxi” business to the state’s witness, Spencer, for fifty-four quarts of whiskey, of the value of §500.00, which whiskey was delivered by said Spencer to the appellant in a pasture about two miles from the River Road School House.
+The appellant raised the question as to the materiality of the assignment of perjury by presenting to the court a special charge asking for a verdict of not guilty, which was refused. The appellant contends that it was immaterial whether he was at the school house or not, as that would not bear on the issue of whether he possessed or transported the whiskey, which was alleged to have been delivered to him two miles away and concerning which there was no allegation to the effect that it had been transported to or from the school house. The testimony of the prosecuting witness Spencer, as relied upon by the state to substantiate the allegations in the indictment upon which the perjury charge was based, was to the effect that Spencer and his wife had gone to the school house to attend a school entertainment; that he was called out by the appellant, and that he and the appellant, in the night time, went in appellant’s car about two miles into the pasture and there secured the whiskey in question, which he, Spencer, had previously buried; that he delivered the whiskey to the appellant, whereupon he and the appellant returned in said car to a point near the school house, where the witness got out, and the appellant proceeded to the city of Amarillo. The appellant took the witness stand and denied being at said school house and introduced several other witnesses who testified to the same effect, that appellant at said time was not there but in the city of Amarillo. There was some evidence tending to show that the appellant was at the school house, in addition to the testimony of the witness, Spencer, but no witness except Spencer testified to the sale or delivery of the whiskey in question to the appellant, or to any fact or circumstance tending to show the alleged sale or transportation of the whiskey in question; nor was there any evidence introduced on the first count, to support the verdict of the jury herein, except as above stated. The state’s attorneys with this court have confessed error in this case on the count above mentioned, and we are of the opinion, after a careful examination of the entire record, that said attorneys are correct in ¿their conclusion, and that said count upon which this appellant was convicted was based on an immaterial issue and the evidence is insufficient to support the conviction thereon. Art. 307 (309) of the 1925 Penal Code, under the perjury statute, states: “The statement of any circumstance wholly immaterial to the matter in respect to which the declaration is made is not perjury.” This court held on the appeal of the original case, charging the appellant with possessing and transporting intoxicating liquor and involving the same facts as those presented in this appeal, that the testimony failed to corroborate Spencer, the accomplice, in any material criminal fact. See Campbell v. State, 280 S. W. 778.
+For the error above mentioned, we are of the opinion that the judgment of the trial court should be reversed and remanded, and it is accordingly so ordered.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
