@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "18334"
+decided: "1936-05-20"
+citations: ["130 Tex. Crim. 370", "94 S.W.2d 745"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Neil Townsend (alias Graves Townsend, alias L. Graves) v. The State."]
+source_url: "https://static.case.law/tex-crim/130/cases/0370-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5244455
+---
+
+# Townsend v. State
+
+## Majority (KRUEGER, Judge.)
+
+KRUEGER, Judge.
+The appellant was convicted of the offense of robbery, and his punishment was assessed at confinement in the state penitentiary for a term of seven years.
+The record shows that on the 30th day of January, A. D. 1935, the grand jury of Floyd County returned into the district court of said county an indictment charging the appellant with the offense of robbery alleged to have been committed by him in said county, on the 19th day of said month. On the 28th day of February an affidavit was filed with the clerk of said court stating that the defendant in said cause was insane and unable to prepare and make a proper defense and prayed for a trial on said issue. The court immediately proceeded with the trial of appellant’s mental status and submitted to the jury two special issues. The first was whether the defendant at that time was laboring under such defect of reason from disease of the mind that he is unable to distinguish between right and wrong. The second was: “Is it necessary that the defendant should be placed under restraint?” The jury answered both of said issues in the affirmative, thereupon the court entered a judgment reciting that the defendant is insane at this time and does not know right from wrong; that he should be restrained and treated in a hospital for the insane; and the court further found from the evidence that the defendant had been so afflicted for a period of five years, etc. On the 20th day of November, 1935, the sheriff of Floyd County made an affidavit, which was filed with the clerk of said court, in which he averred that the defendant, who had been previously adjudged insane, was now sane. The issue was again submitted to a jury who found him sane and judgment was entered accordingly. On the following day appellant was put on trial for the offense of robbery. At said trial the defendant interposed a plea of res ad judicata and contended that since the court found as a fact at his trial on February 28th that he had been insane for the past five years, that it was a final determination of appellant’s mental status at the time of the commission of the offense with which he was charged, and, therefore, his mental status at the time had been adjudicated. We do not believe his contention is well founded because under Art. 34, P. C., 1925, legal authority to determine a person’s mental condition is only conferred upon the district court when it is incidental to or ancillary to the primary issue of an offense under the law, and then only for the purpose of determining the issue, not as it existed at the time of the' commission of the offense, but at the time the inquiry was instituted for the purpose of ascertaining whether he has sufficient mental capacity to prepare for and make an intelligent defense to the charge brought against him. When upon a trial for a crime his mental status is injected into the case as a defense for having committed the offense for which he is being prosecuted the court may determine that issue. Under Sec. 16, Art. V., of the Constitution the county courts have general jurisdiction over idiots, lunatics, and persons non compos mentis. Hence the court’s finding that appellant had been insane for the past five years was not authorized by law and is, therefore, null and void. We therefore overrule the appellant’s contention.
+By bill of exception number one appellant complains of the following remarks of the district attorney in his closing argument to the jury: “That this judgment rendered on February 28, 1935, in this cause does not amount to anything, it is just a form, that has to be gone through with, that the law requires, so as to get a man in the state hospital.” Appellant’s objection to the same was that it was improper and prejudicial. The court instructed the jury with reference thereto as follows: “You are not to consider the statement of the district attorney in his closing argument to the effect, ‘that this judgment rendered on February 28, 1935, in this cause does not amount to anything, it is just a form, that has to be gone through with, that the law requires, so as to get a man in the state hospital’.” We do not believe that under the circumstances the bill reflects any error.
+Finding no reversible error in the record, the judgment of the trial court is affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
