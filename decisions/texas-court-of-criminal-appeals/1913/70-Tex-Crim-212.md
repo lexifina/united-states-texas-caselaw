@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2366"
+decided: "1913-04-23"
+citations: ["70 Tex. Crim. 212"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Tom Yoshida."]
+source_url: "https://static.case.law/tex-crim/70/cases/0212-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2379991
+cites_cases: ["144 S. W. Rep., 962", "30 S. W. Rep., 158", "34 S. W. Rep., 635", "65 Texas Crim. Rep., 440"]
+---
+
+# Ex parte Yoshida
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Relator had been enjoined from doing certain acts under the provisions of the law which authorizes injunctions to issue in cases where one is running a disorderly or bawdy house. He was cited to appear and show cause why he should not be adjudged in contempt of court and punished for violating the injunction. On the hearing of the case the court found: “That the applicant, Tom Yoshida, had violated the order and decree heretofore issued, in this he, the said Tom Yoshida, has permitted prostitutes and lewd women to habitually resort to his said restaurant and has permitted prostitutes and lewd women to meet men in said restaurant, for immoral purposes in pursuance of their vocation (not to the extent of actual cohabitation or sexual intercourse on the premises), and has permitted prostitutes and lewd women known to him to be such to resort to said restaurant to drink intoxicating liquors with men therein, and has permitted prostitutes and lewd women to indulge in loud, vociferous and indecent language in 'aid restaurant, and has allowed said women to swear and curse therein.”
+Ho statement of facts accompanies the record, and the relator frankly admits that the evidence heard sustains these findings of fact, but insists that they are not such acts as the court was authorized under the statute to enjoin. We think the finding of facts in this case, “that applicant has permitted prostitutes and lewd women to meet men in said house for immoral purposes in pursuance of their vocation,” would bring said house within the meaning of an “assignation house,” as defined by article 497. While it may be said that under the finding in this case the act or acts of intercourse did not take place in this house, the findings would show that it was used as a resort where they would meet for drinking, talking and perfecting arrangements to such end, and comes within the plain intent and meaning of the Code defining disorderly houses. Articles 498 and 499 add to the definition of disorderly houses ■other places than those named in "article 496, and construing all these articles together, the facts as found by the court would certainly make the house a disorderly house, and article 503 of the Code authorizes the issuing of writs of injunction to prevent the keeping - of such houses, and the judgment originally entered by the court enjoining applicant from keeping that character of house is not void as contended, but a proper construction of the Code fully sustains his action in so doing.
+[Rehearing denied May 31, 1913.—Reporter.]
+The next contention of applicant is that the complaint calling the court's attention to the fact that applicant had violated the injunction was not sworn to by the county attorney. The complaint is full and specific enough to inform applicant of the manner and way in which he was charged with violating the injunction, and is signed by the county attorney officially. This was all that was necessary, and it was not necessary for the county attorney to swear to the complaint. Ex parte Emmett Landry, 65 Texas Crim. Rep., 440, 144 S. W. Rep., 962, and cases there cited.
+The original judgment enjoining applicant from permitting acts on his premises, which in law would constitute it a “disorderly house,” was rendered by Hon. E. B. Muse, the complaint charging that he had violated this decree, and information was filed in the court presided over by him, and relator was cited to appear before him and show cause why he should not be adjudged to be in contempt of court. The matter was heard by Hon. E. B. Muse, and he adjudged relator guilty of contempt, and proper judgment was entered so finding, and ordering commitment to issue. The clerk of the District Court of Dallas County in issuing the commitment recited that applicant had been adjudged guilty of contempt of court for violating the orders of the Forty-fourth District Court of Dallas County (the court presided over by Judge Muse), but in dating the writ recited, “Given under my hand and the seal of the Criminal District Court of Dallas County.” This was but a clerical error, and as the writ shows on its face that all proceedings were had in the court presided over by Judge Muse, and the writ issued in accordance with his order by the clerk of the District Court of Dallas County, this clerical error would not vitiate the writ, and relator is remanded to the custody of the sheriff.
+Relator remanded.
