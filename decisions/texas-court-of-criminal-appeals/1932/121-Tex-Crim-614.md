@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "15209"
+decided: "1932-05-11"
+citations: ["121 Tex. Crim. 614", "50 S.W.2d 835"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. C. Moss v. The State."]
+source_url: "https://static.case.law/tex-crim/121/cases/0614-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5206771
+cites_cases: ["108 Tex. Cr. R. 544", "108 Texas Crim. Rep., 603", "109 Tex. Cr. R. 168", "109 Tex. Cr. R. 307", "109 Tex. Cr. R. 398", "109 Tex. Cr. R. 435", "109 Texas Crim. Rep., 168", "109 Texas Crim. Rep., 307", "109 Texas Crim. Rep., 398", "109 Texas Crim. Rep., 435", "110 Tex. Cr. R. 539", "110 Tex. Cr. R. 612", "110 Texas Crim. Rep., 223", "110 Texas Crim. Rep., 378", "110 Texas Crim. Rep., 539", "110 Texas Crim. Rep., 612", "111 Tex. Cr. R. 156", "111 Texas Crim. Rep., 156", "112 Tex. Cr. R. 261", "112 Tex. Cr. R. 284", "112 Tex. Cr. R. 352", "112 Tex. Cr. R. 654", "112 Texas Crim. Rep., 261", "112 Texas Crim. Rep., 284", "112 Texas Crim. Rep., 352", "112 Texas Crim. Rep., 654", "114 Tex. Cr. R. 306", "114 Tex. Cr. R. 391", "114 Texas Crim Rep., 391", "114 Texas Crim. Rep., 306", "116 Tex. Cr. R. 332", "116 Texas Crim. Rep., 332", "117 Texas Crim. Rep., 135", "117 Texas Crim. Rep., 138", "118 Texas Crim. Rep., 293", "119 Tex. Cr. R. 378", "119 Texas Crim. Rep., 112", "119 Texas Crim. Rep., 87", "12 S. W. (2d) 210", "12 S.W.(2d) 210", "16 S. W. (2d) 1082", "16 S. W. (2d) 119", "16 S. W. (2d) 240", "16 S.W.(2d) 1082", "16 S.W.(2d) 119", "18 S. W. (2d) 170", "18 S.W.(2d) 170", "2 S. W. (2d) 238", "2 S. W. (2d) 248", "2 S. W.(2d) 238", "2 S.W.(2d) 248", "23 S.W.(2d) 134", "24 S. W. (2d) 1096", "24 S. W. (2d) 838", "24 S.W.(2d) 1096", "24 S.W.(2d) 838", "28 S. W. (2d) 134", "3 S. W. (2d) 459", "3 S.W.(2d) 459", "33 S. W. (2d) 444", "33 S.W.(2d) 444", "36 S. W. (2d) 168", "36 S.W.(2d) 168", "4 S. W. (2d) 54", "4 S.W.(2d) 54", "42 S. W. (2d) 421", "42 S.W.(2d) 421", "45 S. W. (2d) 209", "45 S.W.(2d) 209", "46 S. W. (2d) 707", "46 S. W. (2d) 975", "46 S.W.(2d) 707", "46 S.W.(2d) 975", "5 S. W. (2d) 144", "5 S. W. (2d) 146", "5 S.W.(2d) 144", "5 S.W.(2d) 146", "9 S. W. (2d) 1040", "9 S. W. (2d) 348", "9 S. W. (2d) 353", "9 S.W.(2d) 1040", "9 S.W.(2d) 348", "9 S.W.(2d) 353"]
+---
+
+# Moss v. State
+
+## Majority (CHRISTIAN, Judge.)
+
+CHRISTIAN, Judge.
+The offense is robbery; the punishment, confinement in the penitentiary for ten years.
+The injured party, George Dunn, was proprietor of a restaurant in the city of Amarillo. On September 16, 1931, between 7 and 8 o’clock p. m., a man entered the restaurant and took from the cash register approximately $130 in money, consisting of silver and currency. Although the injured party and his employees were present and attempted to prevent the robbery, the offender exhibited a pistol and forced them to- keep away from him. The robber had attempted to disguise himself by placing cotton or tape on his face. However, his eyes, nose and other parts of his fact were plainly visible. The injured party and those working for him in the restaurant positively identified appellant as being the man who committed the offense. Appellant was arrested in his room a few hours after the robbery. A search of his person and room disclosed approximately $61 in money, consisting of currency and silver. Part of this money was tied up in a handkerchief.
+Testifying in his own behalf, appellant denied that he was at the restaurant of the injured party at the time the robbery was committed, and declared that he was in his rooming house at that time. Touching his possession of the money found in his room and on his person at the time of his arrest, he testified as follows: “At the time of my arrest I had $61.65. As to where I got that monej'’, — well I had saved part of it and part of- it I got from home. I was given about $21.00 or $22.00 in silver when I was paid off at the barber shop. I was paid off mostly in silver. When this room was searched this money was found in my clothes and in my handkerchief. My handkerchief was hanging back of my dresser. The reason it was back there was because I always leave part of it in my room when I go out in town, and carry part of it. As to why I do that, — well just a habit. I am afraid of getting held up, and this far from home I don’t want to be flat broke and lose it all.”
+Other witnesses gave testimony to the effect that appellant was in his rooming house between 7 and 8 o’clock p. m., on the occasion of the robbery.
+The opinion is expressed that the evidence is sufficient to support the conviction. See Briggs v. State, 108 Texas Grim. Rep., 544, 2 S. W. (2d) 238.
+Bill of exception No. 1 brings forward appellant’s objection to the testimony of the officer touching the finding of the $61 in appellant’s possession at the time the officer arrested him. It is recited in the bill that the officer had no search warrant or warrant of arrest. It is unnecessary to determine whether the court was in error in receiving the testimony. Appellant testified fully as to his possession of the money at the time of his arrest. If the testimony of the officer touching the result of the search was improperly received, appellant having testified to substantially the same criminative facts detailed by the officer, a reversal would not be warranted. Gaskin v. State, 110 Texas Crim. Rep., 223, 46 S. W. (2d) 975; Grimm v. State, 116 Texas Crim. Rep., 332, 28 S. W. (2d) 134; Pence v. State, 110 Texas Crim. Rep., 378, 9 S. W. (2d) 348, and authorities cited.
+Failing to find reversible error, the judgment is affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (MORROW, Presiding Judge.)
+
+ON MOTION FOR REHEARING.
+MORROW, Presiding Judge.
+The complaint in the motion of the reception by the court of evidence showing that the appellant, at the time of his arrest, had $61.65 upon his person is not available as a ground for reversal for the reason that the same fact was proved by the appellant’s own testimony without objection. See Wood v. State, 109 Texas Crim. Rep., 435, 5 S. W. (2d) 146; Sherow v. State, 110 Texas Crim. Rep., 539, 9 S. W. (2d) 353; Bevers v. State, 110 Texas Crim. Rep., 612, 9 S. W. (2d) 1040; Tate v. State, 111 Texas Crim. Rep., 156, 12 S. W. (2d) 210; Bonilla v. State, 108 Texas Crim. Rep., 603, 2 S. W. (2d) 248; Frey v. State, 109 Texas Crim. Rep., 168, 3 S. W. (2d) 459; McLaughlin v. State, 109 Texas Crim. Rep., 307, 4 S. W. (2d) 54; Sifuentes et al. v. State, 109 Texas Crim. Rep., 398, 5 S. W. (2d) 144; Houston v. State, 112 Texas Crim. Rep., 261, 16 S. W. (2d) 119; Diaz v. State, 112 Texas Crim. Rep., 284, 16 S. W. (2d) 240; Brookshire v. State, 112 Texas Crim. Rep., 352, 16 S. W. (2d) 1082; Herman v. State, 112 Texas Crim. Rep., 654, 18 S. W. (2d) 170; Aggers v. State, 114 Texas Crim Rep., 391, 24 S. W. (2d) 838; Grogan v. State, 114 Texas Crim. Rep., 306, 24 S. W. (2d) 1096; Bonin v. State, 117 Texas Crim. Rep., 138, 33 S. W. (2d) 444; Benoit v. State, 117 Texas Crim. Rep., 135, 36 S. W. (2d) 168; Johnson v. State, 118 Texas Crim. Rep., 293, 42 S. W. (2d) 421; Reusch v. State, 119 Texas Crim. Rep., 112, 45 S. W. (2d) 209; Spicer v. State, 119 Texas Crim. Rep., 87, 46 S. W. (2d) 707.
+The motion for rehearing is overruled.
+Overruled.
