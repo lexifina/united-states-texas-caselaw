@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "24831"
+decided: "1950-04-06"
+citations: ["154 Tex. Crim. 544"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Charles H. Simmons."]
+source_url: "https://static.case.law/tex-crim/154/cases/0544-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2583096
+cites_cases: ["147 Tex. Cr. R. 661", "154 Tex. Cr. R. 123", "184 S. W. (2d) 286", "225 S. W. (2d) 833"]
+---
+
+# Ex Parte Simmons
+
+## Majority (GRAVES, Judge.)
+
+GRAVES, Judge.
+Relator files his application for a writ of habeas corpus requesting his discharge upon a judgment in Cause No. 1823 in the district court of Comal County, Texas, wherein he was convicted and assessed a term of confinement in the state penitentiary for life.
+It appears from the judgment therein that the court decreed that relator should be confined in such penitentiary for life “and not less than two (2) years.” However, it is shown that the verdict of the jury was certain and provided for a punishment of life in such prison. This judgment is not void nor voidable ; it merely carries the indeterminate portion of the sentence. If necessary, it can be corrected by proper order. However, the sentence that relator serves is found to correctly set forth the verdict of the jury, it being for confinement for life, and same then applies the provision of Article 775, Vernon’s Ann. C. C. P., in making the sentence indeterminate.
+Relator does not serve the judgment; he serves the sentence; and in this case the sentence and judgment are both based upon a proper verdict of the jury.
+The cases of Ex parte Traxler, 147 Tex. Cr. R. 661, 184 S. W. (2d) 286, and Ex parte East, 154 Tex. Cr. R. 123, 225 S. W. (2d) 833, are not in point herein. The matters in those cases were determined by the trial court, no jury being present, and the verdict of the court, as found only in the judgment, which contained an indeterminate sentence, was indefinite and uncertain as to what the verdict of the court actually was. Not so in this present instance. While this judgment may be subject to correction, if so desired by relator, the same is not void and would still leave relator under a proper sentence to serve a term of not less than two years nor more than life.
+The relief prayed for by relator is therefore denied.
