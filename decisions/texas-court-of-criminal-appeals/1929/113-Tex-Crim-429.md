@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "12664"
+decided: "1929-11-06"
+citations: ["113 Tex. Crim. 429", "21 S.W.2d 1068"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hubert Davis v. The State."]
+source_url: "https://static.case.law/tex-crim/113/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5786524
+---
+
+# Davis v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Conviction for being a delinquent child, with punishment at confinement in the State Juvenile Training School for a period of two years.
+When any boy under seventeen years of age .violates the penal statutes of this State he thereby becomes a delinquent child. It was sufficiently alleged in the complaint and information herein that appellant had violated the law of this State. . He was charged with an aggravated assault, and this, under other parts of the statute, included the offense of simple assault, of which latter offense appellant was shown by the testimony to be guilty. The proof as to his age being that he was sixteen, did not measure up to the charge that he was an adult male person, but under the facts showing that he did make an assault, this justified the finding that he was guilty of a simple assault, and therefore became and was a delinquent child.
+Our statute makes no distinction in regard to delinquency, based on the kind or character of law violation, but specifically makes a delinquent child of him who is under the prescribed age and violates any penal law.
+In our opinion a charge which results in a finding of delinquency - may originate upon a complaint and information specifically charging certain acts committed and that same constituted the accused a delinquent; or the same may simply charge him in appropriate terms with the violation of some law. In the latter case if his age be not stated in the complaint and information, the age issue may be brought into the case in some one of the ways indicated in Art. 1084, C. C. P. The last paragraph of said article seems to answer certain contentions here made on behalf of appellant, for it is there said, regarding what shall be done when simply a violation of the law is charged and the age issue is raised, — “The judge shall transfer the case to the juvenile docket, and proceed to try the child under the same indictment, as a delinquent child.” In the instant case the information stated appellant’s age as under seventeen years and charged him with a violation of the law, but did not state that the act committed constituted appellant a delinquent child. As above indicated, we do not think this any valid objection to the information, nor to a valid trial and conviction of delinquency.
+We have carefully examined each bill of exceptions in the record and same are fully disposed of in so far as same called for an expression of this court, in what we have said above.
+The facts show without contradiction that appellant, a sixteen year old boy, met a nine year old girl on her way-to school as she was passing through woods; that he grabbed her from behind, threw her down, pinned her legs and arms down, unbuttoned her coat, and seemed to be getting something out of his pocket when she kicked him in the stomach and caused him to release her and let her get away. These facts support the conclusion of his guilt of a violation of the law and as a delinquent child.
+No error appearing in the record, the judgment will be affirmed.
+Affirmed.
+
+## Rehearing
+
+ON MOTION FOR REHEARING.
+Appellant was charged with an assault on a girl. His age is stated in the information as being under seventeen years. It was further alleged that he was a juvenile, but not specifically stated that he was a delinquent. Art. 1084, C. C. P., provides that when one is indicted (and this would be true when the proceeding is by information), but the indictment does not state the age of the accused as within juvenile limits, an affidavit may be filed setting up that he is of such age, and upon filing same the court in which the case is pending shall hear evidence of the age of the accused, and if satisfied that the accused is a juvenile, the court shall transfer the case to the juvenile docket “and proceed to try the child under the same indictment as a delinquent child.” As we understand this, one may be tried and adjudged a delinquent upon an indictment or information which merely charges such person with crime, but in which indictment there is no allegation either as to the age of such person or his delinquency, provided an affidavit of juvenility be properly filed in such case and this issue be sustained by proof heard by the court. • It is equally true, under the statutes, that the pleading of the State may from the beginning allege, as is provided in Art. 1085 C. C. P., that the accused is a child under seventeen years of age, and that he is a delinquent. The conclusion seems well founded that the same end may be obtained in either of the ways mentioned. The whole purpose of this law is reformatory, and it is intended to prevent any child of juvenile age from a punishment which would commit him to the association of hardened criminals while he is of that tender age which affords hope of reform; and to effect the purposes intended every favorable construction should be indulged. .
+In his motion appellant urges that his special charge No. 3 should have been given. Said charge was in effect that he should be found not guilty of aggravated assault. The charge of the trial court submitted to the jury only appellant’s guilt of simple assault, and this in effect freed him from the charge of aggravated assault. Every indictment for aggravated assault includes simple assault' under the provisions of Arts. 694-5, C. C. P., and a conviction of the lower grade of offense in such case acquits of the higher.
+Referring to the last paragraph in Art. 1084, supra, the language is plain, and under same when the court has ascertained the age of the accused there is no need to file a new indictment or complaint, specifically stating that said accused is “a juvenile delinquent”, but the law provides that the court may proceed to final adjudication of the guilt of such child as a delinquent under the indictment or information then on file charging only the commission of an offense.
+While the information in this case used the -words “aggravated assault” in laying the offense charged, it also rendered these words of no effect by further charging in the information that accused was under seventeen years of age. An assault by a male person under the age of twenty-one years in this State, upon a female, can not be made an aggravated assault merely by the use of the words in the indictment or information that he is charged with an “aggravated assault”. Such allegation, however, would be good as charging a simple assault, and if the facts proven upon the trial showed that an assault was committed, and there be no allegation as to the serious character of the injury or the deadly character of the weapon used, the court would be entirely correct in ignoring the question of aggravated assault and submitted appellant’s delinquency, — in a juvenile prosecution, — as dependent upon the finding of the jury that he was guilty of simple assault.
+Being unable to agree with any of the contentions in the motion, same will be overruled.
+Overruled.
