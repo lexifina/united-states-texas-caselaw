@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "20395"
+decided: "1939-04-26"
+citations: ["136 Tex. Crim. 607", "127 S.W.2d 453"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Johnnie Reed v. The State."]
+source_url: "https://static.case.law/tex-crim/136/cases/0607-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5801321
+cites_cases: ["244 S. W. 1027", "244 S.W. 1027", "253 S. W. 521", "253 S.W. 521", "269 S. W. Rep. 1048", "269 S.W. 1048", "92 Tex. Cr. R., 594", "92 Tex.Cr.R. 594", "95 Tex. Cr. R. 155", "95 Tex.Cr.R. 155", "99 Tex.Cr.R. 470", "99 Texas Crim. Rep. 470"]
+---
+
+# Reed v. State
+
+## Majority (Graves, Judge.)
+
+Graves, Judge.
+Appellant was convicted of a violation of the liquor laws of this State in that he unlawfully transported whisky into a dry area, and he was by the jury sentenced to one year in the county jail.
+Bill of exceptions No. 1 need not be written upon because of the final disposition of this case, this bill referring to a certain argument of the State’s Attorney.
+Bill of exceptions No. 2 is concerned with a plea of former jeopardy on account of the fact that while engaged in the act of transporting whisky in a dry area, the appellant was charged •with driving at an unlawful rate of speed in an automobile, and was fined therefor in a justice court of said county, and that therefore the State having elected to prosecute him for speeding, that it could not further carve in this matter and ¡file against him for the unlawful transportation of this liquor. These offenses are separate and distinct transactions, entered into at different times, and with a separate intent and motive, and the doctrine of carving does not apply. The court did not submit this special plea to the jury, but overruled the same, which action of the court we think was correct. The case of Thompson v. State, 269 S. W. Rep. 1048, 99 Texas Crim. Rep. 470, is in point. In that case appellant was prosecuted for illegally transporting intoxicating liquor; at the same time he was driving his automobile at nighttime without the legally required lights burning thereon. He was first convicted in the county court of thus driving his automobile without lights, and pleaded such conviction in bar of the further offense of transporting such liquor. There is a distinct difference between the same offense and the same transaction, and this court held in such case that:
+“Applying the above principles to the present case, it was not necessary to the conviction for operating the car without lights to prove the presence of whisky in the car, nor to make out a case of transporting whisky to prove that no lights were burning. It was res gestae of the transaction, and in a prosecution for either offense the other could be shown. Appellant may have been committing one offense (running without lights) to aid in the consummation of another (transporting whisky), but they were not the same offense nor the same criminal act, although parts of the same transaction. This court had occasion to call attention to the difference between the ‘same offense’ and the ‘same transaction’ in Cotton v. State, 92 Tex. Cr. R., 594, 244 S. W. 1027, and in Aven v. State, 95 Tex. Cr. R. 155, 253 S. W. 521. We conclude that the court was not in error in overruling the plea of former conviction in the instant case.”
+In bill of éxceptions No. 3 appellant complains of the fact that while he was charged with the unlawful transportation of ten pints of whisky, the testimony showed only nine pints of whisky, and one pint of grain alcohol, and that the alcohol not being alleged, its introduction was error. It is clear that such alcohol was not mentioned. We think there was a sufficient amount of whisky found to warrant a conviction, and the finding of the alcohol was probably res gestae, and its admission in evidence could not have affected the verdict in any way. We overrule this bill.
+Bill No. 4 complains because of the State having been allowed to prove by the witness Wright that appellant wore boots at about the time of the matter herein inquired about. It was shown that at the time appellant was pursued by peace officers on the highway, at the time alleged in the information and complaint, he outdistanced them for a short period of time, and when they again came in sight of appellant he was coming out of a certain pasture; that he hurriedly got in his car, and again outdistanced the officers, and that they then returned to where they had seen him coming out of the pasture, and they found some boot tracks; that they followed these boot tracks into the pasture, and found nine bottles of whisky and one bottle of alcohol. We think that the fact that appellant had on boots at such time was a rather cogent circumstance in the case.
+Appellant’s bill of exception No. 5 has already been noticed in what was said relative to bill No. 3.
+There is a further matter, however, which appears from the record will necessitate a reversal of this cause. It is alleged in the complaint and information that Erath County is a dry area by allegations setting forth the proper orders, election and declaration of result. We have searched the record to find where such was proved, and must confess our inability to find any proof of any kind showing such orders. This is a special law, and its passage by the people of the affected area must be not only alleged but also proven, otherwise this court could '.never know what county areas, or what lesser areas of the -county had become dry areas, and thereby had invoked punitive measures for the traffic in intoxicating liquors. See Branch’s Ann. P. C., p. 695, Sec. 1231, and many cases there cited.
+On account of the failure to prove the fact that Erath County was a dry area, this judgment is reversed and the cause remanded.
