@@ -1,0 +1,69 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,155"
+decided: "1953-01-28"
+citations: ["158 Tex. Crim. 387"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elvin Ray Vallee v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0387-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2480188
+cites_cases: ["117 Tex. Cr. R. 578", "118 Tex. Cr. R. 293", "120 S.W. (2d) 1070", "135 Tex. Cr. R. 422", "143 Tex. Cr. R. 529", "153 Tex. Cr. R. 629", "154 S.W. (2d) 248", "218 S. W. 2d 195", "245 S.W. (2d) 266", "27 S. W. 2d 180", "36 S. W. 2d 1026", "42 S.W. (2d) 421"]
+---
+
+# Vallee v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+Appellant was charged with the illegal possession of a narcotic, to-wit, marijuana, and upon his conviction he was assessed a punishment of two years in the state penitentiary.
+Upon a search of the appellant’s house approximately 600 grains of marijuana were found concealed therein.
+The testimony shows that W. B. Bass, a deputy sheriff, knocked on the door of appellant’s house and told him that he was a deputy sheriff. He also told appellant what he was there for and appellant replied, “Well, come in.” The witness, in company with two other officers, then entered the house at such time and told appellant what they were looking for. Appellant denied the possession of any marijuana. Soon thereafter, one of the officers opened a receptacle called a “flour bin” and found therein 26 marijuana cigarettes. After having been shown these cigarettes appellant was asked by the officer, “Where the other was.” Appellant replied, “Well, you have already found this much of it. I might just as well tell you.” According to the officer, “he (appellant) went back to the kitchen and pulled the bottom drawer of the cook stove, down in the broiler part, reached his hand up there underneath it and pulled out a quantity of bulk marijuana,” which was afterwards found to be about 500 grains of marijuana.
+Soon thereafter appellant was taken to jail, and his wife, at her request, was also taken, as well as a girl named Peggy Scott, who was found in the house at that time.
+The search was made by virtue of the appellant’s invitation alone, although it seems from the record that the officers may have had in their possession some kind of a search warrant.
+After appellant was taken to the county jail he there made a statement relative to the purchase of this marijuana which was rather damaging to his plea of not guilty.
+It was also shown that during the process of the search of the appellant’s house a Federal Narcotics Agent, who was not with the deputy sheriff at the time, climbed up the side of the house and entered through a window. He was present at a portion of the search, but the materiality of such entry upon the part of such agent does not appear to be of any value herein.
+There are many bills of exception but none of them have given us any concern except the objection to the search itself. However, we have concluded that the entrance of the officers into the appellant’s house, whether invited or uninvited, was not controlling herein because of the fact that it was shown by appellant’s own testimony that the narcotics were found within the house and that he himself delivered a large portion of the marijuana to the officers by opening the door to the oven of the stove, reaching up therein and bringing forth a bag which contained more than 500 grains of the article searched for.
+The following is quoted from the appellant’s own testimony upon the trial:
+“Q. I see. Now, then, Ray, when you opened the kitchen stove, did you see anything in the open oven? A. Yes, sir, I seen what was, looked like it was a bag. It was partly hanging and it was about ready to fall out of the oven.
+“Q. It was about to fall out of the front of the oven? A. Yes.
+“Q. Had you ever in your life seen that sack before? A. No, sir, I had not.
+“Q. What did you do with it after you pulled it out of the oven? A. Well, I grabbed in and got it and this Officer Bass grabbed it away from me at the time; he looked inside of it, and he let me look inside of it and then asked me what was I going to do, and I told him that I didn’t know what it was. It was just a bunch of weeds, looked like grass to me, mixed in there together, with a bunch of little old round seeds.”
+*****
+“Q. And you saw the marijuana cigarettes, what he said was marijuana, when he took them out? A. Yes, sir.”
+In the appellant’s written statement, the following is shown:
+“Cleve (a negro) knew me and I bought a $40 sack of Marijuana from him. That would be about 200 joints of cigarettes. Cleve was gone about 15 minutes to get the weed. After I got the weed, I sold the most of it in a bulk form that night to a party. I had left enough to make 50 joints. I went in with a boy called ‘Pancho’ to buy the sack. * * * The marijuana that was found by the officers in my house, 117*4 S. Storey, was the part of the marijuana that I had bought from Cleve. I had not sold much of marijuana to anybody but some of my friends. I buy it for my own use. I had the marijuana that the officers found in the flour can in the kitchen. I had some seeds in the stove.”
+Furthermore, the officer’s testimony shows that after they had found the 26 marijuana cigarettes in the flour, bin, appellant said in substance, “Well, you have already found this much of it. I might just as well tell you.” He then went and opened the door of the kitchen stove, reached up his hand and brought a sack of marijuana containing some 500 grains thereof.
+From the syllabus in the case of Rhodes v. State, 135 Tex. Cr. R. 422, 120 S.W. (2d) 1070, we take the following:
+“Where officers went to a home to search for whisky without a search ^arrant, but owner invited them into the house, and after two officers had left to get a search warrant, owner told other officers where liquor was located and said that if they cared to search, they might just as well go ahead, as they would find it anyhow, owner waived search warrant by consenting to the search, and evidence discovered by the search was admissible.”
+In Huskey v. State 156 Tex. Cr. Rep. 604, 245 S.W. (2d) 266, this court held as follows:
+“It is not necessary to determine this question, because appellant’s admission of the ownership and possession of the liquor rendered untenable any objection to the search which did nothing more than establish possession of the liquor in appellant.”
+Again, in Johnson v. State, 118 Tex. Cr. R. 293, 42 S.W. (2d) 421, it was held:
+“Complaint as to the admission of evidence can avail nothing when it appears from the record that the accused himself gave substantially the same testimony.”
+In Welch v. State, 143 Tex. Cr. R. 529, 154 S.W. (2d) 248, which case went to the Supreme Court of the United States on 4 writ of certiorari which was denied, it was held as follows:
+“On appeal from conviction for kidnapping, where defendant, in his testimony, admitted his possession, and presence on his. premises, of incriminating articles found by the officers on their search of such premises, defendant ‘waived’ any objection to the validity of the search warrant, and is in no position to complain of defects therein.”
+There is a further question raised in this matter relative to the fact that appellant was indicted for the failure to pay a tax on said marijuana at the time of its transfer as shown by the bill filed in the United States District Court for the Northern District of Texas, Dallas Division, September Term, 1951. It is also shown that he was never tried thereon and never pleaded thereto, but same was dismissed on the motion of the United States District Attorney for lack of evidence, and no trial was ever had thereof. We see no question of jeopardy contained therein.
+There are many questions of interest presented herein that could be written upon but they are not necessary to the disposition of this case and would add but little, if any, to the jurisprudence of the state. We therefore overrule all bills presented relative thereto.
+The judgment of the trial court is affirmed.
+
+## Rehearing (MORRISON, Judge.)
+
+ON appellant’s motion for rehearing.
+MORRISON, Judge.
+Appellant’s able attorney in a scholarly brief has again presented for our consideration the many alleged errors reflected by his bills of exception. We shall limit our discussion here to one question.
+In our original opinion, we did not discuss the legal effect of appellant’s testimony concerning the finding of the marijuana in the flour can.
+The general rule has often been expressed by this court as follows:
+“. . . a judgment will not be reversed because of the admission of testimony of officers respecting facts ascertained upon an illegal search where the same facts were testified to by . . . the appellant himself.” 4 Tex. Juris., Sec. 414, p. 589.
+The officers testified that they entered the home of the accused, went to the kitchen, reached in a flour can, and withdrew certain marijuana cigarettes.
+Appellant testified that the officers entered his home, went to the kitchen, came back with a flour can; and he saw what the officer said were marijuana cigarettes when the officer took them out of the can.
+Appellant contends that such testimony does not comply with the rule above stated, because, in his testimony, he did not admit that he knowingly possessed the marijuana, nor that he had any guilty knowledge of its presence in the kitchen, nor that he owned it.
+We do not feel that the rule stated requires such testimony on his part to make the evidence admissible. The officers themselves could not have testified as to any of the matters mentioned.
+His testimony and that of the officers were substantially the same, and this is sufficient to bring the rule into operation.
+In Soble v. State, 153 Tex. Cr. R. 629, 218 S. W. 2d 195, the officers testified that they found certain articles in the garage of the accused. The accused testified that the articles were found therein, but stated that they had not come from the burglarized premises, as had been the theory of the State. There, we said, “One may not complain of the receipt in evidence of facts he also puts in evidence.”
+In Limbrick v. State, 117 Tex. Cr. R. 578, 36 S. W. 2d 1026, we said:
+“It may be added that appellant took the witness stand and testified to the fact that the slaughtered hogs found by the officer were in the smokehouse. Having testified to substantially the same facts embraced in the testimony of the officer touching the result of the search, appellant is in no position to assert that the reception of said testimony, if error, was harmful. Jones v. State (Tex. Cr. App.) 27 S. W. 2d 180.”
+An examination of the record in this case reveals that Limbrick testified that he had two hogs in his smokehouse and that they were his own hogs which he had raised.
+Even though the accused may not have given his consent for the officers to enter and search, we think his testimony about the marijuana in the flour can was sufficient to corroborate the confession as to the corpus delicti.
+Remaining convinced that we properly disposed of this cause originally, the appellant’s motion for rehearing is overruled.
