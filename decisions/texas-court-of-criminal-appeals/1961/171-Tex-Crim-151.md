@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,236"
+decided: "1961-04-12"
+citations: ["171 Tex. Crim. 151"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Weldon H. Clay v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0151-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2635018
+cites_cases: ["127 Tex. Cr. R. 552", "169 Tex. Cr. R. 451", "335 S.W. 2d 219", "78 S.W. 2d 605"]
+---
+
+# Clay v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for felony theft; the punishment, two years.
+The testimony of B. J. Gross, owner of the Gross Feed Store, and Henry Joe Fletcher, Gross’ bookkeeper, shows that the appellent, owner of the Wholesale Distributing Company, which manufactures Wipe Away Cleaner, represented to them that he had been selling his cleaner in Fannin County for some time and had a large and regular volume of business with the schools m Fannin County but they could remember only the names of the Dodd City and Telephone Schools of those named. On June 30, 1959, Gross agreed, with the appellant, to store 30 cases of the cleaner in his feed store; and Gross directed Fletcher to deliver to the appellant his check for $273.60 for the cleaner, which was paid by the drawee bank. Appellant, according to the agreement, was to send salesmen into said county in July, 1959, and they would pay Gross when they got the cleaner to fill their orders. It was also agreed that Gross was not to sell the cleaner, and that his feed store was to be the exclusive storehouse for the cleaner in Fannin County; and if it was not sold or if Gross became dissatisfied, the appellant would pick it up and refund the money. When the check was delivered appellant delivered 22 cases of the cleaner and said he would ship the remaining eight cases the next day.
+The eight cases were never delivered and no salesmen appeared at the store representing the appellant or calling for the cleaner. After two complaints by Gross to the appellant he never came to the store as he agreed. The evidence shows that before appellant’s agreement with Gross he had made other agreements similar to that made with Gross with two different persons in Fannin County and was then in default with them also. It was shown that in June, 1959, the appellant made two similar agreements in Lamar and Cooke Counties as he had with Gross in Fannin County. Testimony was offered that the appellant did not have a large and regular volume of sales of the cleaner with any of the schools in Fannin County.
+The appellant did not testify but called his wife and the effect of her testimony was that due to sickness the appellant had been unable to carry out his agreement with Gross. The testimony of three witnesses shows that they had bought some of appellant’s cleaner and two of them said it was satisfactory.
+It is strenuously insisted that it was the state’s theory that the check was secured by false pretext and that the evidence is insufficient to support the conviction; and appellant further insists that the court failed to properly apply the law to the facts in the case and submitted an unauthorized charge under the indictment.
+The indictment is in the form ordinarily used for charging felony theft.
+The court in applying the law to the facts charged the jury in substance as follows: that if they found beyond a reasonable doubt that the appellant fraudulently took said check from the possession of B. J. Gross, with his consent, and with the intent then and there to deprive B. J. Gross of its value, and with the intent then and there to appropriate it to his use and benefit and that it was so appropriated he would be guilty of theft. The charge also applied the law of reasonable doubt.
+The indictment and second mode of committing the offense of theft as defined by Art. 1413, V.A.P.C., and the evidence, authorized the submission of the foregoing charge to the jury. Davenport v. State, 127 Tex. Cr. R. 552, 78 S.W. 2d 605.
+The evidence is sufficient to warrant the conclusion of the jury that the appellant is guilty of the offense of theft as submitted in the charge of the court and sustains the conviction. Davenport v. State, Supra Newcombers v. State, 131 Tex. Cr. Rep., Windham v. State, 169 Tex. Cr. R. 451, 335 S.W. 2d 219.
+The court in applying the law to the facts in the charge to the jury, did not make appellant’s guilt depend upon any finding of false pretext as used in the first mode of committing the offense of theft as defined by Art. 1413, V.A.P.C. Therefore it is not necessary to consider the numerous exceptions levelled at the court’s charge pertaining to theft by false pretext.
+Appellant contends that the trial court erred in the charge wherein he limited the jury’s consideration of the testimony which showed other transactions to intent and system by not responding to his objections to the failure of the court to point out by name the witnesses whose testimony was offered to show intent and system and instruct the jury that they could consider their testimony only for that purpose.
+To charge as appellant contends, by stating the names of said witnesses, would be singling out certain evidence and would constitute a comment upon the weight of the evidence, hence improper. Art. 658, V.A.C.C.P.; 12A Tex. Dig., Crim. Law, No. 763(6).
+The judgment is affirmed.
+Opinion approved by the Court.
