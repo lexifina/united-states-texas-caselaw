@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "12356"
+decided: "1929-02-27"
+citations: ["111 Tex. Crim. 567", "15 S.W.2d 21"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arthur Agleton v. The State."]
+source_url: "https://static.case.law/tex-crim/111/cases/0567-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5163804
+cites_cases: ["41 S. W. 638", "5 Tex. App. 218", "5 Tex. Cr. R. 218", "51 S. W. 905"]
+---
+
+# Agleton v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Conviction for forgery; punishment, two years in the penitentiary.
+The facts show that appellant drove up to Hardy’s filling station, got gas, and tendered the alleged forged check. Hardy demurred, saying he did not take strangers’ checks, but appellant insisted, saying the check was good, that it came from his boss, that he worked on a pipe line. One Copeland, who was with appellant, also told Hardy the check was good; that it came from one of the bosses. Copeland testified that Hardy came to see him about the check the same day it was passed and told him he did not believe it was good; that he told Hardy it was bound to be, that he was working there, and that Agleton left him to go and see his boss man, and said he was going to get money from his boss. Further testifying Copeland said he had not seen the check until Mr. Hardy showed it to him after it was passed, but because appellant told him he got it from the pipe line he felt sure it was a good check; all the checks he had got from the pipe line had been paid. The check in question was drawn on the Guaranty Bank & Trust Company of Nacogdoches, of date July 3, 1928. It was passed to Hardy by appellant on that same date. It was shown that no such bank was in existence; that the bank of that name in Nacogdoches has closed its doors several years before this occurrence. The check was signed “J. FI. Gerry,” was for five dollars, and was payable to Jack Agleton. A number of witnesses testified that they did not know and had never heard of any man named Gerry, who was alleged in the indictment to be a fictitious person. Appellant swore that he was at home on July 3, 1928, but in another part of his testimony swore that he was at work on that day on the, pipe line. He also said that he was in a poker game about noon of that day, and a man whom he had known a short time gave him the check and said his name was Gerry. He admitted on cross-examination that he did not know where Gerry could be found; that he did not know any one who knew him ; that he could not name any other party who was engaged in the poker game referred to. He also stated that he left Nacogdoches on the night of July 4th and went to Skidmore, Texas, where he was arrested on this charge in October shortly before this trial. He said further that in the poker game referred to he won fifteen or twenty dollars. It was not claimed that any process had been issued for Gerry, nor was any effort made to produce any witness who ever saw or heard of Gerry. No books of any pipe line company showing such a name on the pay-roll, were offered. The evidence seems sufficient. The charge of the court was fair and presented appellant’s defense fully. The jury were told that if they had a reasonable doubt as to whether Gerry was a fictitious person, they should acquit; also if they were in doubt as to whether a man named Gerry gave the check to appellant, they should return a verdict of not guilty.
+There are two bills of exception, each of which complains of argument of State’s attorney. In one it is made to appear that the prosecuting attorney appealed to the jury to stop this forgery and protect merchants. Appellant had admitted that he was under a suspended sentence for forgery, and the man to whom he was charged with passing the alleged forged check in this case was a merchant. We see no error in this argument., The other erroneous argument complained of was a statement by the prosecuting attorney that Albert Thomas had a hat full of hot checks and forged checks. There is nothing in the bill to show the surroundings or setting of the argument, or who Thomas was, or what was meant by the argument, or how it had any reference to or was connected with this appellant. The argument does not appear to be any appeal to passion or prejudices of the jury, and in view of the fact that the evidence is abundant showing the guilt of the accused, and that the jury gave him the lowest penalty, even if we thought this argument improper, it would not suffice to reverse the case.
+Finding no reversible error in the record, the judgment will be affirmed.
+Affirmed.
+
+## Rehearing (HAWKINS, Judge.)
+
+ON MOTION FOR REHEARING.
+HAWKINS, Judge.
+Appellant insists that we were in error in holding the evidence sufficient to support the conviction. We have again carefully examined the facts. They are rather fully set out in our original opinion because of the same contention then urged. Our conclusion that the evidence is amply sufficient has not been changed. Appellant told the party to whom he passed the check that he (appellant) was working on a pipe line and that the check was good because his “boss” had given it to him. The name of “J. H. Gerry” was signed to the check. The indictment alleged that Gerry was a fictitious person, thereby in advance putting appellant on notice of the necessity of combating the truth of such averment. On the trial appellant claimed to have received the check in a gambling transaction from a man who said his name was Gerry. This was in direct contradiction to what he told at the time he passed the check. No witness placed upon the stand by the state knew or had ever heard of Gerry and appellant produced no witness save himself who purported ever to have come in contact with him. The jury was not unwarranted in believing Gerry to have been that same ubiquitous, mysterious mystical stranger who under various names is constantly imposing on the credulity of the trustful. Blankenship v. State, 5 Tex. Cr. R. 218; Thomason v. State, 41 S. W. 638; Burns v. State, 51 S. W. 905.
+Another point stressed by appellant is that his defense was the want of any intent to injure or defraud, and that such defense was not affirmatively submitted. His lack of intent to injure or defraud was based on his claim that Gerry was no phantom but a man of flesh and blood from whom appellant in good faith received the check. The court pertinently told the jury to acquit appellant if they had a reasonable doubt as to whether a party by the name of Gerry gave the check to appellant and to likewise acquit if they had a reasonable doubt as to whether Gerry was "a fictitious person. We think there was no failure to submit appellant’s defense affirmatively.
+The other questions presented in the motion appear to have been sufficiently considered and properly disposed of originally.
+The motion for rehearing is overruled.
+Overruled.
