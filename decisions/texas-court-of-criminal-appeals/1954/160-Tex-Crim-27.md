@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,911"
+decided: "1954-04-21"
+citations: ["160 Tex. Crim. 27"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gene Castillo v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469157
+cites_cases: ["111 Texas Cr. Rep. 500", "115 S.W. 2d 634", "134 Texas Cr. Rep. 231", "14 S.W. 2d 853", "176 S.W. 725", "189 S.W. 156", "76 Texas Cr. Rep. 609", "80 Texas Cr. Rep. 133"]
+---
+
+# Castillo v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for burglary; the punishment, six years in the penitentiary.
+The building housing the Leader Grocery and Hardware Company in Pecos, Texas, was burglarized on the night of January 11, 1953. Eight pistols were missing when the burglary was discovered on the following morning.
+Fifteen-year-old Henry Dominguez, hereinafter referred to as Henry, had been adjudged a delinquent and sent to the Gates-ville State School for Boys for his part in the burglary. He testified for the state and the court, in his charge, correctly instructed the jury that he was an accomplice witness whose testimony must be corroborated.
+Henry testified that he and appellant, Gene Castillo, entered the store building through a sky-light, after climbing to the roof of the adjoining building and removing a glass from the sky-light; that they each took four pistols from the building, leaving by the rear door after breaking the lock.
+Following the burglary appellant and Henry went to “Mocha’s Place,” described as being a pool hall, where they found Joe Dominguez and Tommy Garcia. Henry requested his cousin Joe Dominguez to give him a ride. The four got in the car and Joe Dominguez drove toward the dump ground as directed by appellant and Henry Dominguez.
+Before reaching there the pistols were seen by Joe Dominguez and Tommy Garcia, appellant and the accomplice witness each exhibiting four. Neither appellant nor Henry disclosed where or how they had obtained the pistols. When asked where he got them Henry replied “Nowhere.”
+Arriving at the dump ground, appellant and Henry got out of the car and went to a place out of sight of the car where they wrapped the pistols with papers gathered nearby and buried them.
+During this time Joe Dominguez remained in the car. He testified that appellant and Henry returned to the car without the pistols and he drove them back to “Mocha’s”; that he did not know until afterward that the pistols had been stolen.
+We were unable to agree that Joe Dominguez was an accomplice witness. He had no knowledge that appellant and Henry Dominguez had stolen pistols when he agreed to “give them a ride.” And after seeing the pistols under the circumstances mentioned, he did nothing other than to continue his trip and return his guest passengers to the place he found them.
+Tommy Garcia, the remaining passenger in the car, testified that he left the car at the dump ground some 15 minutes after appellant and Henry went out of sight and he saw them wrapping the pistols and burying them. He also testified that he first 'knew appellant and Henry had some guns “on the road to the dump ground when they started taking- them out”; that when appellant and Henry asked for a ride he did not know that they had pistols.
+Appellant urges that both Joe Dominguez and Henry were accessories and thus accomplice witnesses; that we should assume that the 17-year-old Tommy Garcia, seeing eight new pistols in the hands of appellant and Henry Dominguez and being buried by them, must have reached the conclusion that the pistols had been stolen.
+However, after observing the pistols and seeing them buried, Garcia merely returned with the others to the pool hall and thereafter remained silent as to what he saw.
+Neither Joe Dominguez or Garcia gave personal aid to appellant or to Henry in any of the ways which, under Article 77, P.C., would make them accessories. The fact that they failed to report the facts as to the pistols would not render them accesseries though they knew them to have been stolen. See Villareal v. State, 80 Texas Cr. Rep. 133, 189 S.W. 156.
+The record does not show that either of them agreed with the appellant and Henry to say nothing about the pistols so that the matter might not come to the attention of the authorities. Even if they had, such agreement would not constitute them accessories requiring their testimony to be corroborated. Blalock v. State, 76 Texas Cr. Rep. 609, 176 S.W. 725.
+Nor is it shown that either of these witnesses made any false statement for the purpose of aiding appellant or Henry to evade arrest or trial, so as to make him an accessory under the holdings in Littles v. State, 111 Texas Cr. Rep. 500, 14 S.W. 2d 853, and McGoodwin v. State, 134 Texas Cr. Rep. 231, 115 S.W. 2d 634.
+We conclude that the trial court did not err in declining to instruct the jury that Joe Dominguez and Tommy Garcia were accomplices; nor was it necessary that he submit to the jury the issue as to whether they were accomplices.
+In addition to the testimony mentioned, Marvin McBride and George Booker testified that appellant attempted to sell each of them a pistol in Monahans, Texas, shortly after the burglary. McBride did not positively identify appellant, but the witness Booker testified that he was positive that the person brought to his place by the officers was the same person who had the day before offered to sell him a pistol for $25.00.
+The officers testified that appelant was taken to Monahans and to Booker’s place and identified by Booker, which completed the proof that appellant, shortly after the burglary in Pecos, was offering pistols for sale in Monahans.
+The evidence sustains the conviction and no reversible error appears.
+The judgment is affirmed.
