@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,580"
+decided: "1955-04-20"
+citations: ["161 Tex. Crim. 404"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Harry Cleveland Sparks"]
+source_url: "https://static.case.law/tex-crim/161/cases/0404-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2463800
+cites_cases: ["103 Texas Cr. Rep. 318", "261 S.W. 2d 571", "275 S.W. 2d 494", "280 S.W. 202", "83 Cal. 111"]
+---
+
+# Ex parte Sparks
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Relator was convicted in the district court of Harrison County of the felony offense of possessing marijuana. His appeal from that conviction reached and was filed in this court on June 9, 1953, and was numbered 26,522 upon the docket of this court.
+The case was in due time submitted in this court and the judgment of conviction was reversed and the cause was remanded, on October 28, 1953, for a new trial. The opinion so reflecting will be found in 159 Texas Cr. Rep. Ill, 261 S.W. 2d 571. Wesley Dice, as State Prosecuting Attorney before this court, appeared for and filed a brief in behalf and as the representative of the state at that time.
+Upon a retrial of the case relator was again convicted, with punishment assessed at four years’ confinement in the state penitentiary. From that conviction relator gave notice of appeal to this court. The record in that appeal reached and was filed in this court on December 4, 1954, and was numbered 27,404 on the docket thereof. Wesley Dice was the state prosecuting attorney before this court at that time.
+On January 1, 1955, the said Wesley Dice, having been theretofore appointed by this court, qualified and became a commissioner in aid of this court, under the provisions of Art. 1811a, Y.A.C.S.
+Relator’s case was duly submitted in this court and after submission was assigned by the judges thereof to Commissioner Dice for study and his recommendation as to the disposition that should be made of the case.
+In pursuance of that assignment, Commissioner Dice prepared and recommended to the court for adoption an opinion in the case affirming the judgment of the trial court.
+The opinion so prepared and. recommended was examined by this court in the light of the record in the case and was approved by the court. The opinion so approved was handed down by and as the opinion of the court on the 9th day of February, 1955, and will be found reported on page 100, (this volume) 275 S.W. 2d 494.
+Upon that affirmance, the mandate of this court duly issued, and appellant is now in custody of the sheriff of Harrison County for delivery to the penitentiary authorities to serve the sentence imposed.
+Under and by virtue of the authority granted by Art. 119, C.C.P., as amended, relator presented his application for the writ of habeas corpus to the judge of the district court of Harrison County, Texas, seeking his outright discharge from custody, claiming that the mandate of this court was null and void in that it was based upon an opinion and conclusion of a judge who was, by law, disqualified from sitting, as such, upon the appeal of this case.
+The judge of the district court of Harrison County, Texas, under and by virtue of the abovementioned statute, has developed and certified the facts and application to this court for final determination.
+By Art. 1811a, Y.A.C.S., the Texas Court of Criminal Appeals is authorized to appoint a commission comprised of two commissioners to aid and assist it in disposing of the business before it who “shall discharge such duties as may be assigned it (the commission) by said Court.”
+Art. 1811c, Y.A.C.S., reads as follows:
+“Approval of opinions
+“All opinions of said Commissioners shall be submitted to the Court of Criminal Appeals and shall receive the approval of said Court or .a majority of them, before handed down as opinions of .said Court, and when so approved and handed down, shall have the same weight and legal effect as if originally prepared and handed down by said Court of Criminal Appeals of Texas.”
+If- Commissioner Dice was a member of the • court, or his act in drafting the opinion in appellant’s case as a commissioner in aid of this court was a judicial act in connection with the case, there is no question but that his act was void, as he was disqualified as having been counsel for the state in the case.
+So the question before us turns upon whether the commissioners in aid of this court are members of this court or their official acts constitute judicial determinations of this court.
+The practical and working effect of the duties and functions of a commissioner in aid of this court, which were employed in the instant casé, is that the two members of the commission sit with the court during the submission in order that they may have the benefit of the arguments made at that time. After submission, the court — that is, the three judges composing the court, refer a case to a member of the commission for his study of the record and his recommendation in the form of an opinion as to its proper disposition. In the preparation of the opinion, the commissioner consults and advises not only with the other commissioner but also with the members of the court. Upon what is known as consultation day, once a week, the commissioner submits his opinion and the record to the entire court for consideration.
+If, after that consultation and examination, a majority of the court reach the conclusion that the disposition and opinion recommended are correct the opinion is adopted and becomes the opinion of the court, to all intents and purposes the same as if drawn by a judge of the court.
+.In no event does the. commissioner have a voice in the approval or rejection of his opinion; he acts only in an advisory capacity, as an aid to the court. He performs no judicial function in so far as a decision of the case is concerned.
+The idea of a commission to aid an appellate court in its work is not new or novel. The benefits to be derived therefrom, as well as the legality of its acts, have long been recognized. In Jackson v. State, 103 Texas Cr. Rep. 318, 280 S.W. 202, this court, quoting from the syllabus in People v. Hayne, 83 Cal. 111, said:
+“ ‘The power vested in a Supreme Court Commission, appointed by the court to examine causes submitted to the court, and to report facts or conclusions in the form of opinions to it for its judgment, is not judicial, within the meaning of the Constitution; and, when the court retains the inherent power, not only to decide, but to make all binding orders or judgments in such cases, this constitutes the only exercise of judicial, power.’ ”
+The conclusion is reached that Commissioner Dice, in the preparation of the opinion in this case, did not perform a judicial function.
+Moreover, the mandate of this court decreeing the affirmance of the judgment of the trial court was the judicial act of the members of this court and no one else. It is that mandate which orders the judgment of conviction to be carried out and from which relator seeks his discharge.
+The judgment entered in this case is valid and relator’s relief, as prayed for herein, is denied.
