@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,795"
+decided: "1962-10-17"
+citations: ["172 Tex. Crim. 584"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Amos Lee Havel v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0584-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2641154
+cites_cases: ["165 Texas Cr. Rep. 650", "168 Texas Cr. Rep. 315", "170 Texas Cr. Rep. 264", "172 Texas Cr. Rep. 550", "310 S.W. 2d 567", "327 S.W. 2d 454", "343 S.W. 2d 706", "347 S.W. 2d 719"]
+---
+
+# Havel v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is driving while intoxicated; the punishment, 45 days in jail and a fine of $200.00.
+Motorcycle patrolmen Debenport and Little of the Dallas police testified that they observed an automobile commit a traffic violation at approximately 9:00 P.M. on the night in question and that they gave chase but were unable to bring the automobile to a halt until after it had reached Lamar Street. They testified that appellant, who was in the automobile alone, smelled like he had beer on his breath, that he was “wobbly” after he got out of the automobile and spoke in a thick tongued manner, slurring his words, and expressed the opinion that he was intoxicated.
+Officer Debenport testified that when he first reached him appellant said he was lost but denied that he was intoxicated and stated that he had been painting with turpentine all day and that the officer was mistaken when he thought he smelled beer on his breath because in fact it was turpentine on his hands which caused the unusual odor about his person.
+Appellant, testifying in his own behalf, stated that he had worked inside painting an apartment house all day using shellac mixed with pure grain alcohol, that he had absorbed the fumes therefrom which caused him to walk unsteadily and smell as if he had been drinking, but that he consumed no alcoholic spirits and was not intoxicated. He was supported in a measure by the testimony of a fellow painter and his employer. Neither of them, however, saw appellant after 6:30 P.M., and his arrest took place sometime after 9:00 P.M.
+The jury resolved the conflict in the evidence against appellant, and we find it sufficient to sustain the conviction.
+Appellant raises three questions on appeal. Two relate to jury argument. These questions are not properly before this Court ifor decision because they appear in the record only in a separate document titled “Memorandum of Exceptions” which does not bear the approval of the trial court or that of counsel for the State and appellant. We had this identical question before us in Kirk v. State, 172 Texas Cr. Rep. 550. Therein, we relied upon Article 759a, Section 1(E), V.A.C.C.P.; Works v. State, 343 S.W. 2d 706; Mendez v. State, 168 Texas Cr. Rep. 315, 327 S.W. 2d 454; and Donley v. State, 165 Texas Cr. Rep. 650, 310 S.W. 2d 567.
+Appellant’s other complaint relates to the cross-examination of one of his witnesses who had testified concerning the smell of shellac and who had stated he was familiar with the smell of beer, as follows: “And you know what beer smells like, kind of stale odor. It doesn’t smell like that, does it?” At this juncture, appellant sought to cross-examine counsel for the State on the grounds that the asking of the above question constituted an assertion of fact. With appellant’s contention, we do not agree. Cole v. State, 170 Texas Cr. Rep. 264, 347 S.W. 2d 719, relied upon by appellant, does not support his contention.
+Finding no reversible error, the judgment of the trial court is affirmed.
