@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,502"
+decided: "1955-02-23"
+citations: ["161 Tex. Crim. 123"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Troy Cook"]
+source_url: "https://static.case.law/tex-crim/161/cases/0123-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2465867
+cites_cases: ["264 S.W. 2d 438"]
+---
+
+# Ex parte Cook
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Relator, an inmate of the penitentiary, seeks by writ of habeas corpus his release by alleging faulty cumulation of sentences against him.
+It is shown that he is confined by virtue of sentences in four cases from Harris County and two cases from Waller County.
+The record shows that the sentences in Cause No. 65,214 in Criminal District Court No. 2 of Harris County, and Causes Nos. 66,090, 66,091 and 66,092 in Criminal District Court No. 3 of Harris County total five years, and that after the Harris County sentences, relator was sentenced in the district court of Waller County in Causes Nos. 3697 and 3698 to serve two years in each case, concurrent with each other; the sentence in Cause No. 3697 providing:
+“This sentence to run accumulative with sentence now serving from Harris County, Texas.”
+By statement attached to the petition, it is certified by the proper penitentiary authorities that on February 6, 1955, relator had served five years, and that if the Harris and Waller County sentences were concurrent, then his sentences would be served on such date.
+In Ex parte Cordez, 159 Texas Cr. R. 389, 264 S.W. 2d 438, a similar provision in a sentence which provided, “Defendant sentenced cumulative with sentence now serving, having been assessed in the District Court of Houston County, Texas,” was held insufficient to effect cumulation.
+The provision in the Waller County sentence, being ineffectual to cumulate such sentence with the Harris County sentences, the same was therefore concurrent with the Harris County sentences and, under the record, relator is entitled to his release.
+The writ is granted and relator is ordered discharged from the penitentiary.
+Opinion approved by the Court.
