@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,222, 29,223 & 29224"
+decided: "1957-11-06"
+citations: ["165 Tex. Crim. 415"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Grace Brumbaugh v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611167
+cites_cases: ["148 Texas Cr. Rep. 265", "152 Texas Cr. Rep. 221", "158 Texas Cr. Rep. 406", "186 S.W. 2d 683", "255 S.W. 2d 875", "283 S.W. 2d 944"]
+---
+
+# Brumbaugh v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+In the above styled and numbered causes, the same legal questions are raised by the appellant. The cases will be disposed of in one opinion.
+The appellant plead guilty before the court to the offenses of possession of whiskey and wine in a dry area for the purpose of sale and two cases of illegal sale of intoxicants, and her punishment was assessed at a fine of $100.00 in each case.
+Thereafter, appellant filed a motion for new trial alleging, among other things, (1) that she did not waive the two days within which to prepare for trial, (2) that she did not waive a jury, and (3) that she had a “good defense that would probably result in an acquittal in a trial before a jury.”
+A lengthy statement of facts on the motion for new trial appears in the record, and we will attempt to give a brief summary thereof. The appellant testified that she was arrested with a load of whiskey on March 20 and carried to the courthouse, where she talked to the county attorney (who was the appellant’s attorney in certain civil matters), that the county attorney told her that the judge was out of town but that he would recommend to the judge that he assess the minimum punishment in each of three cases which had been filed against her upon her entering pleas of guilty when the court returned, that she gave the county attorney a check to cover all the fines, and she was instructed to return the following day to go before the court. According to the testimony of the appellant and her employee, who appears as the appellant in two companion cases (our numbers 29,225 and 29,226), they went to the courthouse the following day and went before the judge; they deny that the judge told them that they were allowed two days in which to prepare for trial or that they waived a trial by jury, but admitted having entered pleas of guilty.
+The county attorney testified that the judge asked the two women if they wanted to waive a jury and be tried before the court and that each of them stated that they wanted to be tried before the court and then entered their guilty pleas. He did not remember hearing the judge notify the two women that they were entitled under the law to two days within which to prepare for trial but stated that the women did not request any delay before being called upon to plead.
+It appears from the record that appellant’s husband, who was away in the oil fields much of the time, was not aware of her illicit traffic in intoxicants and when he heard about her pleas of guilty he employed attorneys, who filed the motions for new trial.
+Since there is a conflict in the evidence, the trial court was authorized to find that the appellant and her employee expressly waived a trial by jury and, by not mentioning the subject, impliedly waived the two days in which to prepare for trial. Townsel v. State, 152 Texas Cr. Rep. 221, 283 S.W. 2d 944. This disposes of the first two “positions of error” advanced by the appellant. Freeman v. State, 148 Texas Cr. Rep. 265, 186 S.W. 2d 683, cited by the appellant, has no application here because in that case the undisputed evidence revealed that there was no waiver of a trial by jury.
+Appellant’s third ground for new trial is based upon her contention that she was entrapped by Texas Liquor Control Inspector Russell into making the two sales to him and into making the trip to Wichita Falls to get the load of whiskey and wine with which she was caught.
+The difficulty which confronts the appellant here is that when she plead guilty “all the material averments in the information were admitted.” Hawkins v. State, 158 Texas Cr. Rep. 406, 255 S.W. 2d 875, and cases there cited.
+Finding no reversible error, the judgments are affirmed.
