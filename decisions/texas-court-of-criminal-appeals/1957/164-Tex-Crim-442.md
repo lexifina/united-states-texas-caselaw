@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,919"
+decided: "1957-03-27"
+citations: ["164 Tex. Crim. 442"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Brady Lee Morgan v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0442-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610434
+cites_cases: ["157 Texas Cr. Rep. 414", "162 Texas Cr. Rep. 384", "249 S.W. 2d 612", "285 S.W. 2d 764"]
+---
+
+# Morgan v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is driving while intoxicated; the punishment, 30 days in jail and a fine of $100.00.
+The sole defense was that the appellant was not the driver of the automobile in question, and so the evidence as to his state of intoxication will not be detailed other than to observe that he admitted having drunk four or five beers prior to the accident and the state’s witnesses testified that he was intoxicated.
+The witness Coone testified that he saw an automobile run into a ditch, heard a collision, went to the scene immediately, found the appellant seated under the steering wheel, and helped him out of the automobile. He stated appellant’s woman companion was “on the floorboard on the right hand side.”
+Mrs. Cunningham testified that after the automobile, in which the appellant was riding, ran into the front of her automobile, which she had brought to a halt, she first checked her fellow passengers for injuries and then went to the other automobile and there saw the appellant “slumped over the steering wheel.” She stated that after she called the police she returned to the scene of the wreck and found the appellant “trying to get a lady out that had fallen underneath the dashboard * * * on the other side of the car, sitting half in the seat and halfway on the floor.”
+Both the appellant and his wife testified that he had come to get her at midnight on the night in question at the lounge where she and Mary Glass worked, that the appellant’s wife had driven Mary home and was driving at the time of the collision. They were unable to give a satisfactory explanation as to how their bodies had changed positions as a result of the collision.
+The facts and circumstances are sufficient to warrant the finding of the jury that the appellant was driving the automobile as charged, and we find the evidence sufficient to support its verdict.
+The sole question presented for review is the failure of the trial court to grant a new trial so that the appellant might call Mary Glass as a witness.
+No subpoena was issued for the witness, and no motion for continuance was filed.
+Recently, in Acosta v. State, 162 Texas Cr. Rep. 384, 285 S.W. 2d 764, we said:
+“* * * no subpoena was issued for the missing witness * * * prior to the trial * * * no motion for continuance was filed * * * setting forth the absence of the witness * * *. There was a complete lack of diligence shown. Gephart v. State, 157 Texas Cr. Rep. 414, 249 S.W. 2d 612, is authority for the rule that an accused cannot hold back a witness to insure a new trial if the verdict goes against him.”
+Finding no reversible error, the judgment of the trial court is affirmed.
