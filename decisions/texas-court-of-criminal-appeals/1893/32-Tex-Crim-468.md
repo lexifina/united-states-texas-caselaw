@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "626"
+decided: "1893-12-02"
+citations: ["32 Tex. Crim. 468"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Bob Ambrose."]
+source_url: "https://static.case.law/tex-crim/32/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4472276
+cites_cases: ["31 Texas Cr. Rep., 449"]
+---
+
+# Ex parte Ambrose
+
+## Majority (SIMKINS, Judge.)
+
+SIMKINS, Judge.
+On July 26, 1893, appellant applied for a writ of habeas corpus to the county judge of Harrison County, alleging, that without a trial he had been convicted and fined by W. J. Owens, justice of the peace of precinct number 1 of said county, for an alleged assault upon him, the said W. J. Owens; that the said justice could not legally enter a judgment in a case where he, himself, was the injured party, and the judgment so entered was null and void, and appellant was illegally restrained of his liberty, he being then in custody of one McGee, under and by virtue of a capias pro fine; that owing to the prejudice existing against him in said precinct number 1 he did not believe he would be permitted to obtain a copy of the records in the case, and he therefore prayed that the said W. J. Owens be cited to appear before the county judge, with such books and papers as in any way related to his cause, and that the proceedings might be reviewed and appellant discharged.
+It appears that the application was duly heard by the county judge" on the 3rd day of August, 1893, at which trial appellant offered a transcript of proceedings of the justice of the peace in the cause in which appellant was convicted, showing an affidavit filed March 11, 1893, by J. B. Rodgers, against Bob Ambrose, charging him with an assault on W. J. Owens, and that a warrant was issued same day and placed in the hands of J. B. Rodgers, and that on the 8th of April defendant pleaded guilty, and was fined 85. The transcript was duly certified to as being a correct copy of the proceedings and judgment recorded on his docket by the said W. J. Owens, justice of the peace of precinct number 1, Harrison .County. This evidence was excluded by the county judge, upon the ground that the docket was the best evidence of its contents. Appellant also offered to prove by said W. J. Owens that he was the W. J. Owens mentioned in the proceedings as the injured party, and that he presided in the trial and rendered the judgment; which was excluded by the court, because the docket was the best evidence. Appellant offered to prove the same facts by other witnesses, but the offered testimony was excluded upon the same ground. Appellant then asked leave to withdraw his announcement of ready, and that the hearing be continued until such time as the docket could be produced in court; which was refused, because due diligence 2iad not been shown in obtaining the evidence. Having incorrectly ruled out all the evidence offered by appellant, he was again remanded to custody.
+In the case before us, a justice of the peace is assaulted. His constable makes the affidavit, and the justice issues the warrant, and places it in the hands of affiant to serve. A plea of guilty is entered on the docket, and a fine of $5 assessed by the justice on the 8th day of April. A capias pro fine issues on the 19th of July thereafter, under which relator is arrested. He applies to the county judge for a writ of habeas corpus, alleging the illegality of the proceedings, and asking that under the peculiar facts of the case the court require the justice of the peace, with all papers and books appertaining to the cause, to be present at the hearing.
+We are unable to appreciate the ruling of the court, that a transcript under the certificate of the justice is inadmissible to prove the contents of the docket, which by law is placed in the custody of the justice. Rev. Stats., art. 2252; Code Crim. Proc., arts. 857, 900. Nor can we see how the docket would be the best evidence of the fact that W. J. Owens, who was the injured party, and the W. J. Owens who presided at the trial of appellant, was the same person. Nor can we see how the docket could have more clearly identified the cause under which relator was imprisoned than the transcript from the docket could do. And again, if the court, as prayed for in the petition, issued a subpoena duces tecum to W. J. Owens, we do not understand why the original complaint and warrant, with the return thereon, were not brought into court, if in fact any such papers ever existed. Again, it would seem that diligence ought not strictly to be required when the petitioner for habeas corpus shows he is in arrest, and is dealing with prejudiced sources to obtain his testimony. If in fact It appeared to the court that W. J. Owens fined relator for an assult made upon him, Owens, it was the duty of the County Court to have at once discharged relator, whether the fine so entered was upon a plea of guilty, or whether, after due trial, his guilt was proven. The justice had mo right to sit in the case, and his acts were nullities. Code Crim. Proc., art. 569; Abrams’ case, 31 Texas Cr. Rep., 449.
+An examination of the cause shows that a hearing of this cause has been practically denied by the County Court; so we again send the cause to the County Court, that he may hear the same, and do that which pertains to law and justice.
+The order of the county judge remanding relator to custody is reversed, and the case sent back for hearing.
+Reversed and remanded.
+Judges all present and concurring.
