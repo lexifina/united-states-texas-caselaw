@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2886"
+decided: "1914-01-07"
+citations: ["73 Tex. Crim. 192"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jim Taylor v. The State."]
+source_url: "https://static.case.law/tex-crim/73/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4680867
+cites_cases: ["138 S. W. Rep., 130", "31 Texas Crim. Rep., 401", "62 Texas Crim. Rep., 448"]
+---
+
+# Taylor v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant was convicted of manslaughter, his punishment being assessed at five years confinement in the penitentiary.
+There is a purported statement of facts in the record signed by the attorneys but not approved by the judge. The clerk certifies that it is a correct copy of the original statement of facts on file in his office. As the statement of facts is presented, it can not be considered for want of the approval of the judge. The other question raised in the motion for new trial is based on the failure of the court to grant an application for continuance. There was a bill of exceptions reserved to the ruling of the court refusing the continuance, hut in the absence of statement of facts we are unable to revise the ruling of the court refusing to continue the case.- As the matter is presented the judgment will be affirmed.
+Affirmed.
+
+## Rehearing (DAVIDSON, Judge.)
+
+ON REHEARING.
+March 4, 1914.
+DAVIDSON, Judge.
+Appellant was convicted of manslaughter, with the maximum punishment of five years assessed; On a former day of this term conviction was affirmed without considering the evidence, on motion for rehearing this matter was cured and as now presented the facts are before the court for consideration.
+There is but one question presented, towit: the refusal of the court to grant a continuance. Without going into a detailed statement of the facts, it is shown, in substance, that this difficulty occurred at Holly Spring in Rusk County. The people assembled were negroes, and was a gathering of what is termed the F. I. S. Society. This seems to have been a society among the negroes. The deceased came to the place drunk. He was a member of the society. He raised a disturbance and went away. He came back riding a mule, holloaing and disturbing the people. As he rode up one of the negroes present took a knife from him which he had in his hand. He then remarked with an oath that he had another one, and obtained that from his pocket. This was also taken from him. He got down from his mule, and after talking with the party a while, his two knives were returned to him. While talking he remarked that some damn-son-of-a-bitch had stolen his whisky. Appellant asked if he meant him. He says, “Did you get it?’1 Appellant said, “No.” Deceased said, “You are a damned liar.” Appellant went down to a branch for some purpose. In the mean time John Johnson got hold of the deceased and was carrying him away, urging him to behave himself and not disturb the people, that he might get in trouble with legal proceedings. About this time and while Johnson was talking with him and walking along, appellant came from the branch and approached Johnson and deceased. He asked deceased why he had accused him of stealing his whisky and talked to him in the manner he did. Deceased again accused him of stealing his whisky, and hot words ensued, which afterwards ended in the difficulty in which deceased received wounds from which he later died. The testimony seems to be practically without contradiction up to the immediate facts of the difficulty. It seems from the testimony that John Johnson, deceased and appellant were the parties who were immediately present. The other witnesses, at least some of them, were not immediately present, but there about the school house and saw a part of the difficulty, and possibly all of it.
+Appellant’s contention was self-defense. The State’s theory was that when deceased in the second altercation told appellant he had stolen his whisky and used profane epithets towards him, appellant, using his knife, stabbed or cut him several times, and that deceased did not use his knife.
+Appellant’s testimony was that when deceased accused him of stealing and called him a liar he, deceased, started at him with a knife in his hand and cut his coat, and he, appellant, then began to use his knife. The coat was exhibited before the jury showing it had been cut, and a knife was found the next day at the place of the difficulty which was claimed by deceased to be his property. There was an issue as to whether deceased claimed it was his property or not, but there was evidence by Hamp Johnson that he did. Appellant himself testified to his self-defense theory.
+When the case was called for trial appellant wanted to continue for the testimony of John Johnson by whom he expected to prove the same facts as testified by himself. It is useless to detail these facts further. Johnson had moved from Busk to Navarro County. Immediately upon appellant’s arrest on the 3rd of July" process was issued by appellant to Navarro County to secure the attendance of Johnson as a witness. The case went to trial about the 14th of July. Just after the trial process was returned not executed. The continuance was refused, and motion for a new trial overruled. This testimony was material. Defendant testified practically alone to his self-defense theory. He was an interested witness, and must have been so regarded by the jury. John Johnson was not an interested witness, and if he had sworn as indicated by appellant it might have produced a much more favorable verdict for appellant even to an acquittal. That the testimony was material can not be a question, and defendant asked for the only witness in his own behalf to testify to these facts. The jury may have regarded his, appellant’s, testimony dubiously, but if Johnson had sworn to the same facts, being an uninterested witness and in no way related to defendant, they might have believed him, and if they had they doubtless would have acquitted appellant on the ground of self-defense. As' it was, he got manslaughter with the highest punishment for that offense. We are of the opinion defendant was entitled to his continuance, and it should have been granted, and failing to grant it, in view of the record the motion for new trial ought to have been awarded.
+Therefore the judgment is reversed and the cause remanded.
+Reversed and remanded.
