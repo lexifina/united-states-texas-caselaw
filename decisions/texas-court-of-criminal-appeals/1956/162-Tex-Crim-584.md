@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,001"
+decided: "1956-02-01"
+citations: ["162 Tex. Crim. 584"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bacilio Aguillar v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0584-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462018
+cites_cases: ["155 Tex. Cr. R. 287", "158 Tex. Cr. R. 320", "234 S. W. 2d 872", "254 S. W. 2d 1006"]
+---
+
+# Aguillar v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for the offense of rape upon a female under the age of eighteen years; the punishment, ten years in the penitentiary.
+The prosecutrix, twelve years of age at the time the offense was alleged to have been committed, identified appellant as having had sexual intercourse with her, as a result of which she became pregnant.
+Appellant denied the act and insisted that he was not and could not have been the cause of prosecutrix’ pregnancy.
+Appellant insists that the trial court erred in overruling his second motion for a continuance because of the absence and for the want of the testimony of the witness Fernandes Mendes, the supoena for whom was returned unserved, as, after a thorough and diligent search, he could not be located.
+The facts which the appellant expected to prove by the witness were in the nature of an alibi — that is, that
+“ . . . said witness worked with the defendant the entire day of the alleged offense and was in the company of this defendant through the entire working day and spent the night with this defendant, and that this defendant could not have had access or opportunity to have committed the crime as alleged on the date set out in the indictment, nor for several days preceding and after the date alleged in the indictment.”
+There is nothing in the record suggesting that the witness has ever been located.
+No motion for new trial was made and presented to the trial court complaining of the overruling of the motion for continuance.
+Notice of appeal to this court was given and entered in connection with the passage of sentence.
+Several reasons exist why reversible error is not reflected by the refusal to grant the continuance, but we call attention only to the fact that there is an entire absence of any suggestion that the attendance of the witness could ever be secured or made available. Under such facts, no error is shown in the overruling of the motion. Fredericksen v. State, 155 Tex. Cr. R. 287, 234 S. W. 2d 872; Prince v. State, 158 Tex. Cr. R. 320, '254 S. W. 2d 1006.
+No reversible error appearing, the judgment is affirmed.
