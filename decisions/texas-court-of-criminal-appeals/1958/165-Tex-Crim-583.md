@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,565"
+decided: "1958-02-19"
+citations: ["165 Tex. Crim. 583"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bobby Kenneth Hemmeline v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0583-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2615649
+cites_cases: ["118 Texas Cr. Rep. 636", "146 Texas Crim. Rep. 96", "152 Texas Cr. Rep. 188", "152 Texas Cr. Rep. 490", "159 Texas Cr. Rep. 384", "171 S.W. 2d 869", "212 S.W. 2d 185", "215 S.W. 2d 627", "264 S.W. 2d 110", "39 S.W. 2d 893"]
+---
+
+# Hemmeline v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is felony theft; the punishment, 2 years.
+The appellant plead guilty and filed an application for a suspended sentence.
+The prosecuting witness testified that his- automobile was stolen sometime between 10:00 P.M. and 5:00 A.M. on the night in question and that when it was returned to him by the-police the following day it was riddled with bullet holes and had been wrecked.
+Police Officers Chenault and O’Neal testified that at 2:30 A.M. on the night in question, while cruising an area which was under observation because a burglary had been committed, they observed an automobile being driven without lights and gave chase; that the chase proceeded at a speed of approximately 100 miles per hour until one of the sixteen bullet's which they had fired punctured a tire and the automobile landed in a ditch. They testified that the appellant was alone in the wrecked automobile, and a search thereof revealed a quantity of narcotics.
+The appellant testified that he had stolen the automobile, but denied any knowledge of the burglary or the narcotics.
+Appellant contends that, since he had plead guilty, it was error for the court to permit the state to prove that a burglary had been committed in- the area where the appellant was first seen and. that narcotics were found in the automobile and on the person of the appellant, and relies upon Goodman v. State, 118 Texas Cr. Rep. 636, 39 S.W. 2d 893, and Williams v. State, 152 Texas Cr. Rep. 490, 215 S.W. 2d 627. .
+In an exhaustive opinion in Beard v. State, 146 Texas Crim. Rep. 96, 171 S.W. 2d 869, this court, citing many authorities, held that a plea of guilty admits the existence-of all the statutory elements of the crime charged but legal evidence is always admissible to enable the jury to know what punishment should be assessed within the sliding scale of penalty fixed by the statute to the offense charged under the facts of the particular case, and the facts can only be ascertained from the evidence.
+The converse of this rule was given application in Gordon v. State, 152 Texas Cr. Rep. 188, 212 S.W. 2d 185.
+In the relatively recent case of Alvarez v. State, 159 Texas Cr. Rep. 384, 264 S.W. 2d 110, the rule in the Beard case was reaffirmed. See also cases cited in, Texas Dig., Crim. Law 980 (1).
+Williams, relied upon by the appellant, does not have application here because the offenses there proved were disconnected in point of time from the offense to which the appellant had plead guilty, while the offenses in the case at bar were contemporaneous with and a part of the case on trial!
+■ Goodman, which cites no authority and which has not been cited as authority, was correctly. decided on the question of improper argument, but the last ground of reversal is in direct conflict with the holding in Beard and should have been overruled in the Beard case. It is -now specifically overruled insofar as it conflicts with the Beard case and the present holding.
+Finding no reversible error, the judgment of the trial court is affirmed.
