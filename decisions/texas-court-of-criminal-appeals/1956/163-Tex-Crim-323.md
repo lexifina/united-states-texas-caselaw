@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,288"
+decided: "1956-05-02"
+citations: ["163 Tex. Crim. 323"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joe F. Wright v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0323-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462245
+cites_cases: ["115 Tex. Cr. R. 234", "144 Tex. Cr. R. 321", "162 S.W. 2d 728", "29 S.W. 2d 750"]
+---
+
+# Wright v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for aggravated assault under Art. 1147 (b), Vernon’s Ann. P.C.; the punishment, two years in jail and a fine of $1,000.
+Appellant challenges the sufficiency of the evidence to support the conviction of aggravated assault by the infliction of serious bodily injury as charged.
+The state’s testimony shows that while appellant and the assaulted party, age 72, were sitting at a table in a beer tavern that appellant stood up and hit him over the eye with his fist and knocked him from his chair to the floor. The bartender testified that while he was at the bar he “heard a bump” and then saw Martin (the alleged assaulted party) on the floor. It was further shown that the assaulted party was unconscious on the floor, had a cut over both eyes, one of which took five stitches and the other six, had a “bad bruised spot” on the right cheek, and was bleeding from the head; and that he could talk plainly before he was struck but never spoke coherently after-wards. Upon going to a hospital immediately after the difficulty two lacerations on his (Martin’s) head were sutured and bandaged and it was determined that he had a fractured hip for which two operations were performed. Within a short time he contracted meningitis and died, 16 days after the difficulty.
+Dr. Evans testified in part as follows:
+“Q. Now, in view of the fact that you treated Mr. Martin for some time and did observe his injuries, I will ask you whether or not you have an opinion as to whether or not the injuries that Mr. Martin had were a contributing factor in his death? A. I can answer that by saying that probably he would not have died had he not been injured.”
+One of the state’s witnesses testified that the appellant told him that he hit the assaulted party because he cursed him, and another witness testified that appellant told him that he didn’t know why he hit him.
+Appellant, age 37, testified that he met Martin in a beer tavern; that they had not previously known each other; and that as he returned to a table from the bar Martin swung at his side with a knife, then struck him twice on the chin with his knife, and that he hit Martin in the face with his fists because he cut him with his knife and to protect himself, but that he did not intend to inflict serious bodily injury upon him.
+Shortly after the difficulty appellant went by the home of Ida Mae Higdon who testified that the appellant then told her, “I just hit somebody and I hurt them bad.”
+The jury resolved the issue of self-defense against appellant and we find the evidence sufficient to warrant the jury in finding the appellant guilty of aggravated assault by the infliction of serious bodily injury. Leonard v. State, 115 Tex. Cr. R. 234, 29 S.W. 2d 750; Thompson v. State, 144 Tex. Cr. R. 321, 162 S.W. 2d 728.
+We overrule the contention that the undisputed evidence shows that the only serious bodily injuries inflicted upon the assaulted party were the result of accident or conditions which could not be foreseen and were not caused by the assault.
+If the evidence raised such an issue we find no complaint because it was not submitted to the jury in the court’s charge.
+Appellant insists that the trial court erred in permitting the state to prove that the assaulted party was seventy-two years of age at the time of the difficulty on the ground that he was not charged with assaulting an aged or decrepit person but with aggravated assault by inflicting upon another serious bodily injury.
+The age of the assaulted party under the facts here presented is relevant as bearing on whether the means used and the injury inflicted gave rise to the apprehension of danger to life, health or limb and is therefore admissible.
+Appellant in his brief contends that the trial court erred in permitting the state to prove that the appellant was driving his car in a weaving manner a short time after the alleged assault on the ground that such testimony showed extraneous acts and conduct which were inflammatory and prejudicial.
+The record shows that the appellant testified, on cross-examination without objection, as to his driving the car, the places he went, and as to certain occurrences following the alleged assault including his arrest for driving while intoxicated to which charge he pleaded guilty. Under these facts no reversible error is shown.
+By formal Bills of Exception C and F appellant complains of certain remarks made by the trial court during the introduction of testimony on the ground that such remarks constitute a comment by the court upon the weight of the evidence.
+The court certifies in each of said bills that appellant made no objection to such remarks nor requested that the jury be instructed not to consider same and that no motion for a mistrial was made. Hence, no error is shown.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the Court.
