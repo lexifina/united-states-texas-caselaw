@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "14870"
+decided: "1932-02-17"
+citations: ["120 Tex. Crim. 198"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. La Barba v. The State."]
+source_url: "https://static.case.law/tex-crim/120/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5202443
+cites_cases: ["10 S. W. (2d) 108", "102 Texas Crim. Rep., 37", "110 Texas Crim. Rep., 430", "265 S. W., 588", "276 S. W., 1100", "98 Texas Crim. Rep., 268"]
+---
+
+# La Barba v. State
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+— Unlawfully transporting material for the manufacture of intoxicating liquor is the offense; penalty assessed at confinement in the penitentiary for two years.
+The description of the offense in the count in the indictment upon which the conviction rests is as follows: “* *'* did then and there unlawfully and knowingly transport yeast, the same then and there being material for the manufacture of spirituous, vinous and malt liquors capable of producing intoxication.”
+The evidence shows that the appellant conveyed about fifty pounds of yeast to a place in which there was a large still in operation. The circumstances appear sufficient to sustain the theory that the yeast was for the purpose of use in manufacturing intoxicating liquor. The testimony of the appellant controverts the possession of knowledge as to such purpose.
+The indictment was attacked in the motion to quash upon the ground that it was too indefinite to charge an offense under the provisions of article 6 of the Penal Code. In refusing to sustain the motion to. quash, we think no error was committed. See Johnson v. State, 98 Texas Crim. Rep., 268, 265 S. W., 588.
+The language of the statute is as follows: “It shall be unlawful for any person * * * to knowingly * * * transport * * * any equipment, still, mash, material, supplies, device or other thing for manufacturing intoxicating liquors.” Article 666, P. C., 1925.
+The point is made that the words “for the manufacture of” are inadequate; that the indictment, in place of the words “for the manufacture”, etc., should say, “for the purpose of manufacturing”, etc. The point is identical with that made against an indictment containing the words “equipment for making such liquor”, which was before the court in the same case of Johnson v. State, supra, in which the contention mentioned was held unsound. A like ruling was made in the case of Rhodes v. State, 102 Texas Crim. Rep., 37, 276 S. W., 1100; also in Distler v. State, 110 Texas Crim. Rep., 430, 10 S. W. (2d) 108.
+At a place in the country there was discovered by the officers a still in operation. It was what they described as a 500-gallon still, the arrangement of which was elaborate. It was situated in a barn consisting of a basement and two stories above, each of which was used in the operation of the still and the storing of material. After locating the still and arresting a negro who was working at it, the officers waited for the arrival of other parties. Shortly after sundown on Saturday, the appellant and two other persons arrived in an automobile, which contained some groceries for Herman Smith (the negro who worked at the still), and fifty pounds of yeast in one-pound packages, all in one carton. The groceries were obtained from the appellant’s store. After loading the groceries in the car, the parties went to a place where yeast was manufactured and obtaind a carton containing fifty pounds of yeast.
+Appellant, in his testimony, presented the theory of want of knowledge of the contents of the carton and the purpose for which it was used.
+There are quite a number of bills of exception complaining of evidence descriptive of the still, its location and surroundings, etc. This testimony all became relevant when it was shown that the appellant brought yeast to the place where the still was in operation.
+One of the bills contain an objection to the written statement of the appellant in the form of a confession in which he states that he, in company with John Russell and Nick Vatale, went in his automobile from Dallas to a point in Parker county near Weatherford, and that in the car there was a package containing yeast. The statement was properly-received in evidence.
+By specific objection to the charge and by requested instructions, the appellant sought an instruction to the jury in substance that unless they believed, beyond a reasonable doubt, that the appellant knew that the carton loaded into his car contained yeast, he should be acquitted; also an instruction that unless the appellant knew that the substance conveyed by him was for the purpose of unlawfully manufacturing intoxicating liquor, he should be acquitted.
+Both of these issues were presented by the evidence. An instruction in substance such as that requested should have been given to' the jury. Appellant’s testimony upon the trial was to the effect that he did not know the carton contained yeast, and that he did not know the purpose for which the contents of the carton would be used. In his confession, he stated that he transported the yeast in his car. The confession was made after his arrest, and at a time when he had been charged with the offense. It cannot be assumed that as a matter of law, the appellant, at at the time he transported the substance, knew that it was yeast or knew that it was intended for an unlawful purpose. The paragraph of the statute upon which the prosecution is founded and the terms of the indictment are to the effect that the material was unlawfully and “knowingly” transported for manufacturing spirituous, vinous and malt liquors capable of producing intoxication.
+The omission in the charge to which reference is made constitutes error rendering a reversal of the judgment imperative. It is so ordered.
+Reversed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+— The state moves for a rehearing, asserting that we failed to note a special charge asked by appellant and given by the trial court, which, in the opinion of the state, cured the error for which reversal was ordered. We were not unmindful of the special charge given, as referred to. In same the jury were instrucetd to acquit in case they found that if appellant transported yeast at the time charged, he should be acquitted if he did not know of the unlawful purpose for which the yeast was being transported, or did not know that same was being transported for the purpose of manufacturing spirituous, vinous and malt liquors capable of producing intoxication.
+As a matter of fact this record discloses that appellant testified that he did not know there was any yeast in his car, at the time charged. He claimed that he went from Dallas to Weatherford with two other men, for their accommodation, and that after they had started, at the request of one of the men he stopped his car at some place and a man there put a box in the back of the car, of whose contents appellant claimed he was unapprised and ignorant. While it is true the officers who arrested appellant and his companions testified that the fifty-pound carton of yeast in the back seat of the car had on it in large letters that it was fifty pounds of yeast, — a fact which might justify the jury in concluding appellant testified falsely in regard to his knowledge of the fact that yeast was in the car, — still the trial court would not be relieved of need for giving the law as ' contained in another special charge . which was asked and refused, — in which it was sought by appellant to have the jury told that unless they believed from the evidence beyond a reasonable doubt that appellant, at said time and place, knew that it was yeast in said box * * * they should acquit and say by their verdict not guilty. The charge was excepted to for its failure to submit to the jury the question of appellant’s knowledge of the fact that yeast was in the car, in addition to the special charge which was refused, above mentioned. This being a defensive theory, and the attention of the court being called pointedly to the same, we cannot say that the matter was of no injury to the accused.
+The state’s motion for rehearing will be overruled.
+Overruled.
