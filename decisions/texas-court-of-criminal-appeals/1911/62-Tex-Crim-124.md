@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1000"
+decided: "1911-04-12"
+citations: ["62 Tex. Crim. 124"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Smith v. The State."]
+source_url: "https://static.case.law/tex-crim/62/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4609019
+cites_cases: ["20 S. W. Rep., 926", "31 Texas Crim. Rep., 589", "34 Texas Crim. Rep., 470", "34 Texas Crim. Rep., 492", "35 S. W. Rep., 654", "37 Texas Crim. Rep., 392", "43 Texas Crim. Rep., 442", "45 Texas Crim. Rep., 132", "47 Texas Crim. Rep., 468", "48 Texas Crim. Rep., 304", "56 S. W. Rep., 922", "74 S. W. Rep., 544", "83 S. W. Rep., 808", "87 S. W. Rep., 824"]
+---
+
+# Smith v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+The appellant was convicted of the theft of three hogs and his penalty fixed at two years in the penitentiary.
+By his appeal he presents in effect but three grounds of complaint. First, he complains that the evidence is insufficient to sustain the verdict of the jury. We have carefully gone over this record more than once and conclude that the evidence is amply sufficient to sustain the verdict. The appellant introduced evidence from which the jury could have concluded that his taking of the hogs was under a claim of right. This question was one of the material ones in the case. On the contrary, the testimony of the State and also by some of the defendant’s witnesses, which was evidently believed by the jury and the lower court, was to the effect that the appellant’s claim of ownership of the property taken, was not real but merely colorable. There is no question from the testimony that it was clearly sufficient to establish that the property taken was the property of Henry Lewis and that it was taken by the appellant without the owner’s knowledge or consent and with the intent to deprive the owner of the value thereof and to appropriate it to the benefit of appellant. On this issue the court, in the main charge, gave as favorable a charge to the appellant as the law and the facts would warrant. This, in addition to charging on reasonable doubt as to the whole case. In addition to these main charges of the court, at the request of the appellant, the court gave one of his charges to the effect “that unless the jury should find from the evidence, beyond a reasonable doubt, that the hogs taken from Evy Barrow were the property of Henry Lewis they would acquit him.” The hogs were at Evy Barrow’s, though the property of Henry Lewis. Appellant came to where the hogs were, not for the purpose of getting them, or claiming them, but when his attention was called to them by said Barrow, and when asked by said Barrow whose hogs they were, he replied, “Yes, I guess they are yours.” They had then been running at Barrow’s place for about ten days, and when told by Barrow that they were not his, appellant said, “I guess they must be yours,” and laughed. And when again asked by Barrow whose they were, he replied that they were his. The stolen hogs were a sow about two years old, with two shoats five or six months old—one a male, the other a sow shoat. Hone of them were marked other than the old sow had a split in one of her ears. Appellant, when testifying, denied that he had any mark. The testimony of several of his own witnesses shows that he did have a mark, which was a crop off of both ears, two holes in the right and one in the left, and that his other hogs, or most of them, were in that mark. The County Court’s record of marks and brands showed said mark was recorded as appellant’s. There was ample evidence to sustain the conviction and the court did not err in not granting a new trial on that ground.
+Another ground of complaint is that the court did not charge on circumstantial evidence. This was not raised in the lower court by any requested charge or complaint of the court’s charge or ground of motion for a new trial, but is now raised by an assignment of error and is claimed to be fundamental error.
+The evidence by witnesses clearly shows that the appellant took and appropriated these hogs. He, himself, testified that he got them. His theory was that because he claimed them, and introduced evidence tending to support his claim thereto, that he was not guilty of theft, and that while there may have been some independent facts by other witnesses against him that a charge on circumstantial evidence was required. To this we can not agree. We think that a charge on circumstantial evidence was not called for and would have been inappropriate. Adams v. State, 34 Texas Crim. Rep., 470; Baldwin v. State, 31 Texas Crim. Rep., 589; Montgomery v. State, 20 S. W. Rep., 926. The question of his claim to the property and thereby his lack of fraudulently appropriating the property, and the fact of whether or not the hogs were the property of Henry Lewis, the party whose property he was charged with stealing, were as appropriately and as favorably submitted to the jury in his behalf as could be, as shown above.
+[Rehearing denied April 26, 1911.—Reporter.]
+The other complaint is of some claimed misconduct of one of the jurors. This is not presented by bill of exceptions in such way that we can properly consider it. However, the statement of facts which seem to have been shown on the motion for new trial, contradicts appellant on this ground and shows that there was no such misconduct of the jury as would justify the court to reverse the case, if there was any whatever.
+There being no reversible error pointed out, the judgment is affirmed.
+Affirmed.
