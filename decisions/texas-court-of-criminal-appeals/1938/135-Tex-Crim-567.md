@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "19977"
+decided: "1938-11-30"
+citations: ["135 Tex. Crim. 567", "121 S.W.2d 996"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hubert Hill v. The State."]
+source_url: "https://static.case.law/tex-crim/135/cases/0567-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5221836
+cites_cases: ["103 S. W. 1128", "103 S.W. 1128", "126 Tex.Cr.R. 609", "127 S. W. 1020", "127 S.W. 1020", "22 S. W. 144", "22 S.W. 144", "260 S. W. 591", "260 S. W. 595", "32 Tex.Cr.R. 95", "32 Texas Crim. Rep. 95", "44 Tex.Cr.R. 1", "44 Texas Crim. Rep. 1", "51 Tex.Cr.R. 478", "51 Texas Crim. Rep. 478", "59 Tex.Cr.R. 186", "59 Texas Crim. Rep. 186", "69 S. W. 583", "69 S.W. 583", "73 S. W. (2d) 528", "73 S.W.2d 528", "97 Tex.Cr.R. 130"]
+---
+
+# Hill v. State
+
+## Majority (Christian, Judge.)
+
+Christian, Judge.
+The offense is burglary; the punishment, confinement in the penitentiary for two years.
+During the night of January 24, 1938, the place of business of the Jack Montgomery Chevrolet Company of Miami, Texas, was burglariously entered and some money and checks taken therefrom. Robert Fletcher, an accomplice witness, testified that he went to Miami with Robert Warren and appellant in appellant’s car on the night of the burglary; that they had agreed to go to Miami for the purpose of getting some money; that when they came to the vicinity of the Chevrolet company he (witness) got out of the car in order to find a place to burglarize; that he shortly returned to the car and advised appellant and Warren that he had found a place; that Warren and appellant then drove away but shortly returned and picked him up after he had burglarized the place of business of the Chevrolet company; that he divided the money he had secured with appellant and Warren. The State introduced appellant’s voluntary confession in which it was shown that he agreed with Warren and Fletcher to go to Miami and commit a burglary; that he, Warren and Fletcher drove to the scene of the burglary in appellant’s car; that he (appellant) parked on the highway and waited for Fletcher while he burglarized the place of business of the Chevrolet company; that after Fletcher had committed the burglary he came running back and entered the car; that he (appellant) started to drive away to Pampa with Fletcher and Warren. Appellant did not testify and introduced no witnesses.
+It is appellant’s contention that the testimony fails to place him in the category of a principal offender. We are unable to agree with this contention. Appellant was near the burglarized premises on the highway in an automobile for the purpose of carrying Fletcher away to Pampa. He had entered into a conspiracy with Fletcher to go to Miami and commit the offense of burglary. He was aware that, pursuant to. his agreement with Fletcher, he (Fletcher) was burglarizing the place of business of the Chevrolet company. He waited near by to carry him to safety. Under the chapter on principals, Articles 65 to 69, P. C., the acts of appellant, as described by the evidence, would make him a principal. We quote the language of Judge Lattimore in Rowan v. State, 260 S. W. 595, as follows:
+“There is another view of this matter. One is a principal who, having advised or agreed to the commission of an offense, is present when it is committed, whether he then aids or not. Article 78, P. C. It is not necessary, in order to make one ‘present’ within the meaning of this statute, that he be in immediate contact with the other actors. Bass v. State, 59 Texas Crim. Rep. 186, 127 S. W. 1020 (appellant about 100 yards away) ; Coffman v. State, 51 Texas Crim. Rep. 478, 103 S. W. 1128 (in the immediate vicinity) ; Grimsinger v. State, 44 Texas Crim. Rep. 1, 69 S. W. 583 (in woodshed, killing occurring in residence) ; Mason v. State, 32 Texas Crim. Rep. 95, 22 S. W. 144, 408 (in neighborhood). American & English Ency. of Law defines ‘present’ as ‘being in view or immediately at hand.’ McClain’s Crim. Law, Section 200, lays down the proposition that if one takes some part in a criminal enterprise, it is not necessary that he take an active part if in the carrying out of the final criminal act he is participating in the common plan by doing something or being ready to do something in furtherance thereof, at a place other than that where the act is consummated. In the discussion in the Bass case, above, will be found support on the two propositions that there was no need for a charge on circumstantial evidence because of the juxtaposition of the accused to the crime and the fact that he was near enough to it to make him a principal. By positive evidence in the case before us it was shown that appellant was present, in the sense we have just been discussing.”
+See, also, Seals v. State, 73 S. W. (2d) 528.
+The proof on the part of the State was to the effect that after burglarizing the place of business of the Chevrolet company,- appellant and Fletcher committed two other burglaries on the same night. Two bills of exception relate to the introduction of such testimony. We deem it unnecessary to determine whether the bills reflect error. Appellant filed no application for a suspended sentence. The uncontroverted testimony of the State makes plain appellant’s guilt. The jury assessed the minimum penalty. Under the circumstances, if the testimony in question was inadmissible, we are constrained to hold that its reception was harmless.
+The judgment is affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
