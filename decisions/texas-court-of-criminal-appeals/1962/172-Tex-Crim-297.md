@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,379"
+decided: "1962-03-14"
+citations: ["172 Tex. Crim. 297"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. L. Landrum v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2637392
+---
+
+# Landrum v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is felony theft; the punishment, enhanced under Article 63, V.A.P.C., life.
+The indictment alleged the theft of one hundred cedar posts of the value of over $50.00 and, for enhancement of punishment, alleged two prior convictions for burglary.
+The prior convictions alleged were proved and admitted.
+Hill Hutson, who lived about 100 yards from a cedar post yard in Comal County, owned by Lem Calhoun and operated by Harden Wallace, saw two pickup trucks in the cedar yard about midnight. After the trucks were driven away, headed toward New Braunfels, he went to a neighbor’s home and reported to the sheriff’s office what he had seen.
+Deputy Roman Kneupper, in response to the call, went immediately to a road intersection and, together with other officers, stopped two pickup trucks loaded with cedar posts. He testified that appellant was driving one of the pickups, a black CMC truck, and George Anthony Angold was driving the other, a red Ford •pickup; that he asked Angold in appellant’s presence where he got the cedar posts, and “he said he just cut those cedar posts up near Boerne.”
+Harden Wallace identified the cedar posts loaded on the pickup trucks as those missing from the cedar yard. He testified that he counted the posts on the pickup, and there was no difference in the number and size or the marks between them and the missing posts.
+Appellant testified that he cut the cedar posts found on the pickup truck he was driving and was taking them to his mother in Austin. It is apparent that the jury did not accept his testimony as true.
+Appellant questions the sufficiency of the evidence to sustain the jury’s finding that the posts were of the value of over $50.00.
+Harden Wallace testified, without objection, that the 101 posts, which he described by size and gave the reasonable market value of each such size, had a reasonable market value of $64.19 at the time and place they were removed from the cedar yard, that being the price at which such posts were sold at the yard.
+Lem Calhoun testified that he owned three cedar yards, that the prices stated by Harden Wallace in his testimony were the selling prices for such posts in the three yards, and he considered such prices to be the reasonable market value on the day in .question.
+By cross-examination and by the testimony of a defense witness, it was shown that the price which was paid by the operators of cedar yards to the cutters for such posts was less than $50.00, and Lem Calhoun testified that in determining his price he took into consideration what he had to pay for the posts, plus overhead expenses, salaries, rent and insurance, and that he was selling posts in his various yards at the prices shown by the testimony of Harden Wallace.
+The jury resolved the issues of fact, and we find the evidence sufficient to sustain the jury’s finding.
+It is contended that the court erred in refusing to declare a mistrial after he had stated to the jury that they must observe the court’s admonitions “as the higher court will reverse on the slightest infraction of the rules”.
+The question is not before this Court for review.
+The court reporter’s certification that the statement complained of is not reported verbatim and was “among other things” stated by the court and the counsel’s objection that the court’s comments were “to the effect that the higher court will reverse on the slightest infraction” do not constitute a showing of the court’s actual instruction.
+The court’s complete and exact instruction is of prime importance in a case of this nature, and there is no way of ascertaining what it was from the record before us.
+The judgment is affirmed.
