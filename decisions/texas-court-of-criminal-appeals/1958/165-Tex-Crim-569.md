@@ -1,0 +1,59 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,524"
+decided: "1958-02-12"
+citations: ["165 Tex. Crim. 569"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gaddie Pittman v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0569-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611713
+---
+
+# Pittman v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The indictment herein alleges that appellant, in and upon the person of Newell McGruder, “did use force, threats and violence by striking and beating with his hands, and kicking and stamping with his feet the said Newell McGruder, and in doing so prevented and attempted to prevent the said Newell McGruder from engaging in a lawful vocation at the Swift and Company, 2300 Cockrell Street, Dallas, Texas.”
+Upon order of the judge of Criminal District Court No. 3, wherein the indictment was returned, reciting that from an inspection of the indictment the case was a misdemeanor, it was transferred to County Criminal Court No. 3 of Dallas County.
+Trial was had and, the case being submitted to the jury upon a charge defining the offense as in Art. 1146, Vernon’s A.P.C. and submitting the punishment provided in that article, appellant was found guilty as charged in the indictment and his punishment was assessed at six months in jail.
+The judgment entered sets out the jury’s verdict and orders his confinement for six months and until the costs are paid, but does not adjudge appellant guilty or name the offense. However, the word “intimidation” appears in the heading of the judgment.
+Art. 1146, Vernon’s A.P.C., enacted in 1887, provides:
+“Any person who shall by threatening words or acts of violence or intimidation prevent or attempt to prevent another from engaging or remaining in or from performing the duties of any lawful employment shall be fined not less than twenty-five nor more than five hundred dollars, or be confined not less than one nor more than six months in jail.”
+Article 1621b, Vernon’s A.P.C., enacted in 1941, (Acts 47th Legislature, p. 128) provides in Section 1:
+“It shall be unlawful for any person by the use of force or violence, or threat of the use of force or violence, to prevent or attempt to prevent any person from engaging in any lawful vocation within this State.”
+This punishment for violation is fixed in the same section of Art. 1621b, at confinement in the penitentiary for not less than one year nor more than two years.
+Section 4 of said statute provides that its provisions shall be cumulative of all other existing articles of the Penal Code upon the same subject, and in the event of a conflict between existing articles and the provisions of this Act, then and in that event the provisions, offenses and punishments herein set forth shall prevail over such existing statutes.
+We are first met with the question of whether or not the facts alleged in the indictment, assuming that they charge the offense defined in Art. 1146, also charge a violation of Art. 1621b; in other words, as applied to the facts alleged, do Art. 1146 and Art. 1621b, Sec. 1, define the same offense? If so they are in conflict in that a different punishment is provided for the same criminal act, and both cannot stand.
+If they are in conflict and both cannot stand, then the provisions of Sec. 4 of Art. 1621b, as well as the fact that Art. 1621b is the latest expression of the legislature, require that the older statute yield. “In the event of a conflict between existing articles of the Penal Code and the provisions of this act, then and in that) event * * * * * punishments herein set forth shall prevail over such existing statutes.” Art. 1621b, Sec. 4, Vernon’s A.P.C.
+The conclusion is inescapable that the acts charged in the indictment allege a violation of Section 1 of Art. 1621b, Vernon’s A.P.C. as well as Art. 1146, Vernon’s A.P.C., and that the punishment now applicable to such offense is that provided in Section 1 of Article 1621b, Vernon’s A.P.C.
+The indictment alleging a felony offense, the County Criminal Court No. 3 of Dallas County was without jurisdiction.
+The judgment is reversed and the cause remanded to the trial court with instructions to transfer it back to Criminal District Court No. 3, of Dallas County.
+Opinion approved by the Court.
+
+## Concurring in part and dissenting in part (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting in part and concurring in part.
+There is no conflict between the provisions of Art. 1146, Vernon’s P.C., and Art. 1621b, Vernon’s P.C. Each statute deals with a subject and makes unlawful the acts not covered by the other. There is no basis for the conclusion of my brethren that there is an irreconcilable conflict between the statutes.
+Art. 1146, Vernon’s P.C., relates to and makes unlawful the use of force, violence, threats, or intimation to prevent one from engaging or remaining in or performing the duties of any lawful employment.
+Art. 1621b, Vernon’s P.C., makes unlawful any acts or threats to prevent or restrain one from engaging in any lawful vogcltion.
+One article relates to those engaged in some character of employment, while the other relates to those engaged in a vocation.
+In the enactment of Art. 1621b, Vernon’s P.C. (Chap. 100, p. 128, Acts Regular Session of the 47th Legislature, in 1941), the legislature was very careful not to expressly repeal any existing statutes and ordered a repeal thereof only when there was a necessary conflict.
+It is apparent that the legislature intended that the term “lawful employment” in Art. 1146, Vernon’s P.C., have an entirely different meaning than the term “lawful vocation” as contained in Art. 1621b, Vernon’s P.C., and that the terms were used in a different sense.
+Neither of those terms is defined in either statute. Hence they are to be construed in the sense in which they are commonly used and understood.
+Webster says that employment is a state of being employed— which means working at anything.
+“Vocation,” however, has a very different meaning having reference to a particular business, trade, or calling (Webster’s), as distinguished from any general undertaking. The courts have so construed the term. Words and Phrases, Vol. 44, p. 317. We are not left to rely on that definition, alone, to ascertain the meaning of the term “vocation,” for the act (Chap. 100, supra) furnishes evidence of what the legislature meant. The act shows that the legislature had in mind the protection of industries against strikes and the protection of all citizens against labor disputes.
+We know, as a matter of common knowledge, that labor unions are composed of various trades, with the workmen therein specialized in certain fields of labor. Such trade is the vocation of the individual in his particular field. Such is the meaning the legislature intended to give to the term “vocation,” which is a special trade or calling.
+Used as hereinbefore stated, the two statutes are valid.
+Having alleged that the injured party was assaulted to prevent his following a lawful vocation, the indictment invokes the provisions of Art. 1621b, Vernon’s P.C.
+I agree with the majority opinion in the particular just above stated and also that the county court does not have jurisdiction to try offenses under that statute.
+I do not agree, however, that the indictment, here, alleges a violation of that statute, especially in view of appellant’s insistence in the trial of the case that the indictment should have alleged the vocation the injured party was following or intended to follow.
+The sufficiency of the indictment is not before us, because of the want of jurisdiction in the county court.
+Until appellant has been tried and convicted under the instant indictment in a court of competent jurisdiction and appeals to this court, it does not become my duty as a member of this court to determine the validity of the indictment.
+When my brethren determine, here, that the indictment charges a felony and so direct the court below, they take from the appellant the right of appeal — for they have predetermined his contention as to the validity of the indictment.
+Moreover, when the facts of this case are consulted, a very good reason appears for the district court’s referring the indictment to the county court — such reason being that the facts failed to show that the injured party was engaged in a vocation but, to the contrary, they showed that he was engaged in general employment, and, therefore, the offense committed was a misdemeanor.
+So then when an assault or violence or threats are made for the purpose of preventing one from pursuing employment, the offense is a misdemeanor under Art. 1146, Vernon’s P.C., and when an assault or violence or threats are made to prevent one from pursuing his vocation, the offense is a felony under Art. 1621b, Vernon’s P.C.
