@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,129"
+decided: "1966-03-14"
+citations: ["162 Tex. Crim. 540"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fred Vincent Pope v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0540-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462648
+cites_cases: ["104 S. W. (2d) 493", "124 Tex. Cr. R. 495", "127 S. W. (2d) 906", "132 Tex. Cr. R. 261", "137 Tex. Cr. R. 63", "150 Tex. Cr. R. 526", "202 S. W. (2d) 940", "63 S. W. (2d) 706"]
+---
+
+# Pope v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for murder with malice; the punishment, twenty years in the penitentiary.
+The state’s evidence shows that the appellant killed the deceased by stabbing him with a knife. The homicide occurred around 12:15 A.M. on the early morning of June 25, 1955, near the intersection of Motley and Navigation Streets in the city of Houston.
+The state’s witness Jo Ann York testified that, just prior to the killing, she was talking to the deceased and Wayne Crump, who were seated in an automobile parked near her apartment; that they were discussing going to Pearland to take Crump home and the deceased said he was too tired to drive. While they were discussing the trip to Pearland, the appellant and Bobby Charles Smith came out of a cafe, with a bottle of beer in their hands. At the deceased’s suggestion, she asked Smith if he would drive them to Pearland, which he agreed to do, and the deceased then changed his mind and said he would drive. The appellant then began cursing and using foul language and addressed some of his remarks to Jo Ann. The deceased then got out of the car and asked appellant to repeat what he had said and take it back, which appellant refused to do, and then threw a beer bottle, which missed the deceased. At this time, the appellant and the deceased began fighting and Crump jumped out of the car and got into a fight with Smith. During the fight, appellant ran to where Crump and Smith were fighting and said, “Look, Bobby, I got a knife,” and started swinging his arm at the two, who were on the ground. Appellant then returned to the deceased and started backing him up against the car, and after the deceased said, “Put the knife away,” appellant stabbed the deceased twice in the side. After the deceased slumped to the ground, appellant started kicking him in the stomach, whereupon Jo Ann York said, “Leave him alone, can’t you see you have done enough to him?;” to which appellant replied, “Shut up, I will kill you too.” Appellant then came towards her and she ran toward her apartment, with the appellant in pursuit. As the appellant was trying to get to her, Smith came between them and told appellant to put the knife away and go home; to which appellant replied, “Leave me alone, I will kill you as soon as I would anybody else.” The witness further testified that she did not, at any time, see a knife in the deceased’s hand.
+Hershell David Hubbard testified that, after appellant had stabbed the deceased, and while" Smith was trying to get him to go home, the appellant stuck Smith in the stomach with a knife after saying, “I’d just as soon stick you as anybody else.”
+After the difficulty, appellant left the scene and caught a taxicab and went to the home of his sister. J. D. May, the cab driver, testified that, during the trip, in a conversation with the appellant, the appellant told him “that he had a little trouble with some strangers * * * and had an argument and his brother-in-law got in it and he stuck them both with a knife,” and that he had the knife in his pocket.
+It is further shown that the deceased was dead upon arrival at the hospital and had two stab wounds in the lower part of the abdomen, and that, during the difficulty, Wayne Crump was cut on the arm and Bobby Smith was cut in the stomach.
+Appellant testified that he had been drinking before the difficulty and did not remember “exactly everything” that happened; that “I was pretty drunk — pretty tired;” that he had only a fingernail knife and did not intend to hurt anybody and did not remember hurting anybody. Appellant testified that he remembered going to the car with Bobby Smith and the girl asking him about driving the car, and that “Bobby walked hack around the car and about the time he got around the car this fellow was sitting in the front seat, which I thought was a girl, got out and come stomping toward me and looked like something flickering in his hand — we got to fighting. I taken something out of his hand and found out it was a knife and threw it down and fought there for about three or four minutes, best I can remember, and he threw me down on something — it might have been a rock, and I reached around and felt something damp on my chest — I got up and Chandler got up and I forced him up against the car and took off toward the corner up there — the corner of her house and called Bobby — said ‘Let’s go’ and he said something and I took a swing at him and hit him and he hit me and knocked me down, and the next thing I know Bobby and Jo Ann walked toward the house. I got up and walked down to Avenue K, where we lived — went up to the house and my wife was not there — * * *”
+The court, in his charge, fully instructed the jury on the law of murder with malice aforethought and murder without malice.
+Appellant’s sole contention is that the evidence is insufficient to support a conviction for murder with malice; it being contended that the evidence shows that the homicide was committed under the immediate influence of a sudden passion arising from an adequate cause within the meaning of the statute, Art. 1257c, V. A. P. C., defining murder without malice.
+Whether adequate cause for sudden passion within the meaning of the definition of murder without malice exists is for the determination of the jury. Elsmore v. State, 132 Tex. Cr. R. 261, 104 S. W. (2d) 493; Crabtree v. State, 137 Tex. Cr. R. 63, 127 S. W. (2d) 906; and Rodriguez v. State, 150 Tex. Cr. R. 526, 202 S. W. (2d) 940.
+The court will not disturb a jury’s verdict involving the accused’s state of mind at the time of the homicide, where the verdict is supported by the evidence. Beckham v. State, 124 Tex. Cr. R. 495, 63 S. W. (2d) 706.
+Without again reviewing the testimony, we express the opinion that the evidence is sufficient to support the verdict of the jury finding that the appellant did, with malice aforethought, kill the deceased, and not while acting under the immediate influence of sudden passion arising from an adequate cause.
+The evidence being sufficient to support the conviction, the judgment of the trial court is affirmed.
+Opinion approved by the court.
