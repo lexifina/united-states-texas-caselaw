@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "73"
+decided: "1909-11-03"
+citations: ["57 Tex. Crim. 196"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ed White v. The State."]
+source_url: "https://static.case.law/tex-crim/57/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2374836
+---
+
+# White v. State
+
+## Majority (BROOKS, Judge.)
+
+BROOKS, Judge.
+Appellant was convicted of theft, and his punishment assessed at a fine of $25.
+1. Appellant was charged with stealing a mower. Bill of exceptions No. 1 shows the State introduced Sim Allen, prosecuting witness, who testified that a short while prior to August 1, 1908, his lawn mower was stolen from where he kept it under the floor of his house. That he notified the officers, and about August 10, 1908, the deputy sheriff came to him and had him go to defendant’s house to see if he could identify a mower there, which he did, and which was exhibited to the court, and said witness said he could identify the mower by the manufacturer’s brand upon it, the number, the fact that it had been filed on the wrong side of the blade, and by a little cord which had caught in the axle and worked, down into an opening and twisted around the axle. Thereafter the State introduced the deputy sheriff who testified to the fact of Sim Allen reporting the theft of his lawn mower, and further that he found the lawn mower exhibited in court at appellant’s house, and went' to Sim Allen’s house to get him to see if he could identify it, and took him to where the mower was. The State asked him what Sim Allen said he could identify it by. The witness was asked if defendant was present when Sim Allen told him how he identified the mower, and he said no. Appellant objected to him detailing the statements so made, the defendant not being present, same being hearsay and immaterial. Be it further remembered that appellant had theretofore introduced witnesses who testified that Sim Allen’s general reputation for truth and veracity in the neighborhood where he lived was bad, hut no evidence was or had been offered to impeach him in that he had made contradictory statements. The State insisted that inasmuch as the defendant had introduced evidence impeaching Sim Allen’s general reputation for truth and veracity, it had the right to strengthen and corroborate his testimony by showing that he had made the same statements out of court that he did in court. The objection being overruled, the witness testified as follows: “When Sim and I got to the mower Sim looked at it and said he thought it was his. He then got down over it and positively identified it as his and said he knew it by the brand, and by the fact that there were some scratches where his boy had filed the blades on the wrong side, and by the fact that a little string had become wrapped somewhere on the mower. I cannot say exactly where he said the string was. I did not examine, nor see the string. Defendant was not present when these statements were made.” This testimony was not admissible.
+The evidence for the defense shows that appellant agreed to pay $2.50 for the mower, but at the time he bought same from two strange white men he only had $2.25. That subsequently he paid them the 25 cents. The defense, as shown by bill of exceptions No. 2, placed a witness on the stand, and asked the witness the following question: “Did defendant then and there state what he paid the men the 25 cents for?” This testimony was admissible. It was proper to prove that he paid the money.
+2. Bill of exceptions No. 3 shows that while appellant was on the stand in his own behalf, on cross-examination the State’s counsel asked him the following question: “Have you ever been in the penitentiary ?” Appellant objected on the ground that the question was too general and did not limit.the time to a time sufficiently recent to make proof of a felony charge for impeachment purposes and that the answer would be irrelevant, immaterial and prejudicial. The court overruled appellant’s objection, and compelled appellant to answer that he had once been in the penitentiary. When witness was tendered back to appellant’s counsel for further examination, appellant said it was twenty-four or twenty-five years ago that he was sent to the penitentiary for robbery. Appellant then asked that the jury be instructed to disregard the testimony that appellant had been to the penitentiary for any purpose, which request was overruled. The court approves the bill with the explanation that “defendant admitted in addition to the matters alleged in the foregoing bill he had four or five years ago plead guilty to the crime of theft in the County Court of Ellis County.” The latter statement is not remote and, therefore, admissible, but the former statement was clearly inadmissible on the ground that same was too remote.
+For the errors suggested, the judgment is reversed and the cause is remanded.
+Reversed and remanded.
