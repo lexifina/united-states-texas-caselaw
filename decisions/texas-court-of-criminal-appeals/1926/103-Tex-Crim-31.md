@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9308"
+decided: "1926-01-20"
+citations: ["103 Tex. Crim. 31"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Reeves Lloyd v. The State."]
+source_url: "https://static.case.law/tex-crim/103/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5112311
+cites_cases: ["260 S. W. 1043", "275 S. W. 1006"]
+---
+
+# Lloyd v. State
+
+## Majority (BERRY, Judge.)
+
+BERRY, Judge.
+— The appellant was convicted in the District Court of Travis County for the offense of possessing intoxicating liquor for the purpose of sale and his punishment assessed at confinement in the penitentiary for a term of one year.
+The state’s testimony shows that fifty-nine bottle of liquor were found in the home of Mrs. Maggie Ross at the end of the car line on South Congress Avenue, in the City of Austin, on or about the third day of April, 1924. It also shows that this liquor so found was in a secret place in said house and that said liquor was intoxicating. It further shows that the appellant went before the grand jury of Travis County after the same was found and admitted to said grand jury that said liquor belonged to him. This testimony on the part of the state is uncontradicted and undisputed by any testimony whatsoever offered by the appellant.
+By various bills of exceptions, appellant complains at the court’s action in permitting the state to prove the statement made by the appellant before the grand jury of Travis County. The objections to such testimony were to the effect that it was a repetition of matter shown to have occurred at a proceeding before the grand jury and that it had not been shown that the formalities and requirements of the Statute with reference to the giving of testimony before a grand jury or the repetition of same in court had been complied with. These objections are not tenable. If the testimony so offered was not in the nature of a voluntary statement before the grand jury and if the .appellant was under arrest or there was any other reason why same was not admissible, then the burden was on the appellant to show this. There is no suggestion in the record that appellant was under arrest or duress of any character or kind at the time he went before the grand jury, and in this state of the record, no error is manifested by the court’s action in permitting this testimony.
+Various bills of exceptions also complain at the court’s action in permitting the state to prove that the appellant was married to Mrs. Ross at the time of the trial, the record showing that at the time the liquor was found at her residence she and appellant were not married. The objection to this testimony was to the effect that the same was irrelevant and immaterial and that the statement of the son of the said Mrs. Ross was not the legal way of proving the marriage of the parties. Neither of these objections are tenable. The fact of the subsequent marriage of Mrs. Ross and this appellant after the liquor was found was clearly admissible as a circumstance corroborating appellant’s statement before the grand jury that the liquor belonged to him. This testimony probably enabled the jury to more readily believe that the liquor belonged to the appellant when found in the home of his fiance, whom he afterwards married, than if it had been found in the home of a stranger. It was, of course, proper to prove the subsequent marriage by a member of Mrs. Ross’ family.
+Complaint is also made by bill of exceptions to the court’s action in permitting the district attorney to ask the witness John K. Ross, the son of Mrs. Ross, if he had ever heard the appellant discussing the fact that since he had married the witness’ mother she could not be used as a witness against him. The witness ■ answered this question in the negative and we fail to see how any injury could have resulted to appellant on account of the mere asking of the question. We think the question was permissible as a matter of cross-examination but if there should be any doubt of the propriety of asking the question we "would still say that it was not of such importance as to require a reversal of the case, in view of the record as made. The state’s case against the appellant seems to us to be perfect in every detail and is not impeached or weakened in any manner by any testimony offered by the appellant. It is also true that the jury saw fit to give the appellant the lowest penalty provided by law and under this state of the record, we overrule appellant’s complaint with reference to the asking of the question above discussed.
+What has been said disposes of all of appellant’s complaints and it follows that in our opinion no reversible error is shown. It is therefore our opinion that the judgment should be in all things affirmed.
+Affirmed.
+The foregoing opinion' of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (BERRY, Judge.)
+
+ON MOTION FOR REHEARING.
+BERRY, Judge.
+— Appellant contends in his motion for rehearing that we were in error in holding that the proof met the allegation contained in the indictment, to-wit: that the appellant unlawfully possessed for the purpose of sale spirituous, vinous and malt liquor capable of producing intoxication. The state saw fit to make this allegation in the indictment and for the purpose of meeting the allegation it introduced testimony showing that the appellant was in possession of fifty-nine quarts of tequila. We have searched the record for any testimony that shows or tends to . show that tequila is either a spirituous, vinous or malt liquor, and it is silent in this regard. The proof shows that tequila is intoxicating but this is not sufficient to meet the requirement that the allegation in the indictment and the proof must correspond. “Either spirituous, vinous or malt liquor may be intoxicating, yet neither of these classes, nor all of them combined, include all that is meant by intoxicating liquors.” Black, on Intoxicating Liquors, page 3.
+The identical question here presented was decided in favor of the appellant’s contention by this court speaking through Judge Lattimore in the case of Chaves v. State, 275 S. W. 1006. Also see Toler v. State, 260 S. W. 1043.
+■Because there is no proof that the liquor found in the appellant’s possession was either spirituous, vinous or malt liquor, his motion for rehearing will be granted, the judgment of affirmance set aside and the case will be reversed and the cause remanded.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
