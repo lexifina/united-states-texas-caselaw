@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,964"
+decided: "1957-04-24"
+citations: ["164 Tex. Crim. 548"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Charles Ackton alias James E. Cavanaugh"]
+source_url: "https://static.case.law/tex-crim/164/cases/0548-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2612031
+cites_cases: ["154 Texas Cr. Rep. 68", "225 S.W. 2d 193", "298 S.W. 2d 579"]
+---
+
+# Ex parte Ackton
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+This is an appeal from an order of the Criminal District Court No. 2 of Bexar County remanding relator to the custody of the sheriff of said county for delivery to an agent for the state of South Dakota.
+The state introduced in evidence the executive warrant of the Governor of Texas, the demand of the Governor of South Dakota, and supporting papers.
+The relator, testifying in his own behalf, denied that he was in the demanding state on the day charged in the supporting papers. When asked if he was in South Dakota in 1956 appellant answered, “No, along about that date I was around Cleveland, to my recollection.”
+On cross-examination, he identified his signature on several checks which were drawn on San Antonio banks. Also on cross-examination, he was again asked, “Isn’t it true and isn’t it a fact that you were in South Dakota in 1956 ? — bearing in mind the penalties of perjury” and appellant replied, “I don’t remember it if I was,” and also testified that he did not remember if he was in Rapid City, South Dakota on or about August 25, 1956; and answered “not to my recollection” and “not to my knowledge” when asked if he had applied to the authorities of South Dakota for a driver’s permit, or ever had such a permit from the State of South Dakota.
+The state, in rebuttal, called an expert witness who expressed the opinion that the checks which the relator admitted were his were signed by the same person who signed the check which forms the basis for this extradition. The check which was identified as that which forms the basis of the prosecution in the state of South Dakota shows the date line “Rapid City South Dakota 8/25 1956” and is drawn on a bank in that city.
+We have not been favored with a brief from the relator but do here observe that the testimony of the accused standing alone is not sufficient to require a finding that he was not in the demanding state on the date alleged. Ex parte Norris, 154 Texas Cr. Rep. 68, 225 S.W. 2d 193, and cases there cited. See also Ex parte Hoover, (page 251, this volume), 298 S.W. 2d 579, and cases there cited.
+The judgment of the trial court is affirmed.
