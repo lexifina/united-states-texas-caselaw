@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,115"
+decided: "1958-11-12"
+citations: ["167 Tex. Crim. 1"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Abe Shelton Jacks v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8546428
+cites_cases: ["114 S.W. 2d 248", "134 Texas Cr. Rep. 1", "140 Texas Cr. Rep. 345", "145 S.W. 2d 182", "157 Texas Cr. Rep. 619", "157 Texas Cr. Rep. 65", "160 Texas Cr. Rep. 32", "160 Texas Cr. Rep. 387", "160 Texas Cr. Rep. 582", "162 Texas Cr. Rep. 227", "163 Texas Cr. Rep. 410", "164 Texas Cr. Rep. 619", "246 S.W. 2d 197", "252 S.W. 2d 170", "267 S.W. 2d 147", "271 S.W. 2d 643", "272 S.W. 2d 886", "283 S.W. 2d 952", "292 S.W. 2d 117", "301 S.W. 2d 659", "39 S.W. 116"]
+---
+
+# Jacks v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is assault with intent to murder, the punishment, 15 years.
+Rosenbaum, a 60-year-old police officer of the City of Terrell, was severely beaten by the appellant and his companion Hardy. It was five days before Rosenbaum regained consciousness, two weeks until he was released from the hospital, and the wounds which he sustained were considered serious by the doctors who treated him. The assault occurred when Rosenbaum attempted to place the appellant and Hardy under arrest, and immediately following the assault the appellant and Hardy fled. The appellant was arrested the following day in Jacksonville in possession of Rosenbaum’s pistol, and shortly thereafter, upon being returned to Terrell, the appellant confessed in writing. This confession, which was introduced in evidence without objection, recited that the appellant (aged 21) and Hardy had taken two girls to Dallas, where they drank beer at taverns and purchased a case to bring back with them, and that while passing through Terrell they ran a red light and were apprehended near the edge of the city by Rosenbaum, who was in uniform. We quote from the confession as follows:
+“* * * When I started towards the Patrol Car Hardy whispered to me ‘Let’s jump him,’ and that’s when I hit Mr. Rosenbaum.
+‡ *
+“I had inside my fist a piece of pipe that was filled with lead. After Mr. Rosenbaum fell down I fell down on him and while I was down on him, Hardy started stomping Mr. Rosenbaum in the face with his foot. I would say that he stomped him nine or ten times in the face. While Mr. Rosenbaum was down he started his hand towards his holster as if to get his gun, and when he did that I went for Mr. Rosenbaum’s gun and beat him to it, and I took the gun out of the holster and took it with me * * * .”
+According to a witness, the appellant hit Rosenbaum in the head with this pistol which he had taken from him as Rosen-baum lay on the ground.
+We shall discuss the facts more fully in connection with our discussion of the contentions advanced in appellant’s brief.
+He first contends that the evidence is insufficient to establish that the assault was made with malice aforethought and with the specific intent to kill. Appellant seems to be laboring under the impression that, absent any showing of prior difficulties between the parties, malice is not shown regardless of the ferocity of the attack. With this we cannot agree. It was amply shown by the testimony of the doctors that any or all of the means used by the appellant or his companion were sufficient to and calculated to produce death or serious bodily injury.
+Appellant next complains of the testimony of three witnesses who attested to the bad reputation of the appellant.
+Cecil Kirk, deputy sheriff, testified that his duties carried him to Quinlan where the appellant resided and, on cross-examination, said he had heard “all the community down there” discuss the appellant’s reputation. When being pressed further concerning the name of some person with whom he had discussed the matter, the following transpired:
+“A. I could tell you a woman.
+“Q. Who? A. His wife.
+“Q. His ex-wife? A. Yes, sir.”
+Having invited the answer by his cross-examination, the court did not err in refusing to withdraw the answers from the jury’s consideration.
+H. R. McMillan, city marshal of Quinlan, on cross-examination named Mr. Waldon, who ran the picture show there, as being a person with whom he had discussed the appellant’s reputation and reported that Waldon had said that he had more trouble with the appellant than anyone else in the community.
+R. L. Baggett, Texas Ranger, testified that he was in Quin-lan on the afternoon following the assault on Rosenbaum and prior to appellant’s apprehension, and in the course of his duties talked to a number of people whose names he did not get about the appellant’s reputation.
+Appellant relies upon Gilson v. State, 140 Texas Cr. Rep. 345, 145 S.W. 2d 182; Henderson v. State, 39 S.W. 116; and Broussard v. State, 134 Texas Cr. Rep. 1, 114 S.W. 2d 248. As we understand the rule there expressed, it is that one may not testify that an accused bore a bad reputation if he has never heard anyone make adverse comments about it. Such rule finds no application here because each of the three witnesses in question said that they had heard the matter discussed. We do not construe the rule to be that he must be able to name the person in order for his testimony to be admissible. Baggett’s testimony was admissible because an application for suspended sentence had been filed, and reputation, in such cases, may be inquired of up to the time of trial. Clark v. State, 160 Texas Cr. Rep. 32, 267 S.W. 2d 147.
+Appellant’s next complaint relates to the confession. As stated, it was admitted without objection. Later, the appellant testified and admitted striking Rosenbaum with his fist “with a Modle-T rist pin in it” and taking1 Rosenbaum’s pistol away from him, hurriedly leaving the scene and driving to Houston, Newton and then Jacksonville, where he was arrested, as he says, on his way home to surrender. He further stated, however, that he had confessed because the county attorney had told him it would go lighter on him if he did, and one of the officers threatened him while they were traveling from Jacksonville to Terrell. We observe, in this connection, that each of the officers who had the appellant in custody prior to the making of the confession were called in rebuttal and denied the appellant’s accusations. Be that as it may, at the close of the appellant’s testimony the motion was made to withdraw the confession from the jury’s consideration, and it was overruled. Clearly, the court was correct in his ruling, since there was no undisputed testimony in the record which would render the confession inadmissible as a matter of law. Knight v. State, 157 Texas Cr. Rep. 619, 252 S.W. 2d 170; Parsons v. State, 160 Texas Cr. Rep. 387, 271 S.W. 2d 643; and Carr v. State, 164 Texas Cr. Rep. 619, 301 S.W. 2d 659.
+No objections to the charge and no requested charges appear in the record, and the appellant cannot now complain that the issue as to the voluntary nature of the confession was not submitted to the jury. May v. State, 160 Texas Cr. Rep. 582, 272 S.W. 2d 886, and Youngblood v. State, 162 Texas Cr. Rep. 227, 283 S.W. 2d 952.
+We find nothing fundamentally erroneous in the court’s charge, and, in the absence of any objections thereto in the trial court, we will not discuss the appellant’s complaints set forth in the brief.
+He next contends that the court should have granted a mistrial when the witness Kirk testified as he did concerning the appellant’s former wife. We need not discuss the matter further than to observe that the appellant’s confession introduced without objection recited, “I have been married, but I am divorced. My former wife is living in Greenville.”
+Appellant’s last complaint is that the verdict is excessive. This court has said that so long as the punishment is within that prescribed by the legislature this court will not entertain the contention that it is excessive, cruel or unusual. Reid v. State, 157 Texas Cr. Rep. 65, 246 S.W. 2d 197, and Fuentes v. State, 163 Texas Cr. Rep. 410, 292 S.W. 2d 117.
+The sentence is reformed to read not less than two (2) nor more than fifteen (15) years and, as reformed, is affirmed.
