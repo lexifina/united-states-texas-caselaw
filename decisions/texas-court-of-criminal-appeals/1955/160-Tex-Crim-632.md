@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,302"
+decided: "1955-01-12"
+citations: ["160 Tex. Crim. 632"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Doris Estes v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0632-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2471098
+cites_cases: ["151 Texas Cr. Rep. 377", "208 S.W. 2d 370", "34 S.W. 112", "35 Texas Cr. Rep. 403"]
+---
+
+# Estes v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is burglary; the punishment, two years.
+George Speer testified that his drug store in the city of Dublin was broken into on the night in question and $33.00 taken from the cash register.
+Tom Patton, an employee of Speer, testified that he checked the door to the drug store at ten o’clock on the night in question and found it to be locked.
+Sheriff George testified that he investigated the burglary at the drug store the following morning and found that the front doors had been prized open and that he saw the appellant in the custody of the sheriff at Meridian, Texas, the next day.
+Appellant’s confession was introduced in evidence without objection, wherein she stated that she came from Fort Worth on the night in question in company with one Howard and one Avery; that they noticed the drug store and decided to go in; that they stopped the automobile in which they were riding in front of the drug store; that Avery went to the door while she and Howard stayed in the automobile and watched. The confession further recites that Avery returned to the automobile and reported that the door was unlocked; that they drove around a bit and returned to the drug store; that Avery went in while she and Howard watched in order to warn Avery if anyone came up; and that Avery came out of the drug store, and they drove away.
+Appellant did not testify or offer any evidence in her behalf.
+Appellant in her brief urges that the evidence is insufficient to support the conviction.
+Appellant cites three cases not involving the offense of burglary and Bolin v. State, 151 Texas Cr. Rep. 377, 208 S.W. 2d 370. She alleges that in the Bolin case there was evidence of flight which is not present in the case at bar. We need not decide whether the fact that the appellant was found the day following the burglary in the custody of the sheriff at Meridian constituted evidence of flight because it has been the rule in this state since Attaway v. State, 35 Texas Cr. Rep. 403, 34 S.W. 112, that, where the state shows that a burglary has been committed by someone, the confession may be used to establish who the guilty party was.
+Finding no reversible error, the judgment of the trial court is affirmed.
