@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,834"
+decided: "1957-03-06"
+citations: ["164 Tex. Crim. 511"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["G. W. Carroll v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0511-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610386
+---
+
+# Carroll v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted of felony theft under an indictment charging the primary offense with two prior convictions of felonies less than capital alleged for enhancement; the punishment, life imprisonment in the penitentiary.
+A. W. Parker, owner and operator of a filling station, testified that he closed the station at 10:30 P.M., and when he returned the next morning, December 30, at 5:30 A.M., he found the front door “broken open,” and that someone had taken therefrom, without his consent, merchandise belonging to him of the market value of more than four hundred dollars, and that he next saw said property in a cabin No. 1 in a tourist court on Jensen Drive. He identified the property as that taken from his station.
+Mrs. Marvin Avery testified that as she was passing the Parker filling station between 4:15 and 4:30 A.M., December 30, she saw a Cadillac automobile which was five or six years old and with the trunk lid up about eighteen inches and tied, come out of said station in front of her at a fast rate of speed with two persons in it, one of whom appeared to have light hair and the other dark hair, and the person on the right hand side of the driver appeared to be “short or else he was slumped down in the seat,” and that she noted the license number of the Cadillac, called the police and gave them its number.
+The proof shows that the Houston Police Department received a telephone call at 4:49 A.M., and the person calling gave them the license number “NF-5579” of an automobile on which they issued a pick-up.
+H. C. Chandler, police officer of the city of Houston, testified that on the morning of December 30 he saw a 1948 Cadillac automobile bearing license number “NF-5579” parked six or eight feet in front of the door of cabin No. 1 at the Mecca Courts on Jensen Drive, notified the police dispatcher, then parked across the street in front of the Mecca Courts; that he had watched the automobile and the cabin for about fifteen or twenty minutes and when he saw the appellant come out of cabin No. 1 and go to a telephone booth on the outside he arrested him. He further testified that he and Officer Romond went to cabin No. 1, knocked on the door, and Kenneth Martin came to the door and invited them inside, and when asked who owned the automobile in front of the cabin, Martin answered that it belonged to him; and that he saw various articles of merchandise in the cabin and remained there until other officers and A. W. Parker, the owner of the filling station, arrived.
+W. C. Romond, police officer of the city of Houston, testified that as he was approaching Mecca Courts on Jensen Drive he saw the appellant coming out of cabin No. 1, and he went with Officer Chandler to a telephone booth where they arrested appellant; and that he saw a 1948 Cadillac, with the trunk lid tied to the rear bumper with a coat hanger, parked in front of cabin No. 1 and bearing license number “NF-5579.” He testified also that Kenneth Martin lived at 544 Irvington Courts.
+W. A. Thompson, police officer of the city of Houston, testified that on December 30, he searched cabin No. 1 of the Mecca Courts located on Jensen Drive and found therein various items of merchandise, and also found in a closet in the cabin a pair of pants with the name “G. W. Carroll” written in them. On cross-examination it was shown that the name “G. W. Carroll” had an ink line drawn through it and below there appeared the word “Boro” which was not marked out.
+It was stipulated by and between the state and the appellant and his attorneys that the appellant had been prior thereto convicted of two offenses of burglary as alleged in the indictment.
+Mrs. Dick White, called by the appellant, testified that she was the manager of the Berry Courts where the appellant lived from October 15 until he was arrested for the offense charged in this case on December 30 and that during such time he worked as a plumber.
+Officers Chandler and Romond were recalled as witnesses by the defendant and they testified that appellant told them at the time of his arrest that he was there to see about some plumbing and a grease trap at the cafe. Officer Chandler testified on cross-examination that about 7 P.M. the day before appellant was arrested he saw the appellant leave the cabins on Jensen Drive with a valise in his hand and get into a Cadillac with Kenneth Martin which he stated was the same Cadillac that was parked in front of cabin No. 1 at Mecca Courts when appellant was arrested. Officer Chandler further testified that Kenneth Martin was taller than the appellant and that his hair was lighter in color than that of the appellant.
+Appellant testified that he did not live in cabin No. 1 in the Mecca Courts but lived at the Berry Courts; that at about the time in question he had repaired some screens and a water pump at the Mecca Courts; that the health inspector had ordered the grease trap repaired at the cafe which was about 200 feet from cabin No. 1, and that he was there to make an estimate on the repair of the grease trap and plumbing at the cafe which he explained to the officers when they arrested him; and that he had not been in cabin No. 1 on the day of his arrest. Appellant further testified that the trousers found in cabin No. 1 did not belong to him but may have been his several years before.
+The court charged the jury on the law as applicable to circumstantial evidence.
+The evidence is sufficient to warrant the jury’s conclusion that the appellant was guilty as charged.
+Error is claimed on the ground that the prosecuting attorney made the following statement to the court in the presence of the jury: “May I state to the Court what we want to prove. The State of Texas wants to prove that Kenneth Martin was found guilty by the jury of this offense.”
+Appellant objected to the statement and asked for a mistrial. The objection was sustained, the motion for mistrial was refused, and the jury was instructed not to consider it.
+Appellant first brought this matter into the case when he asked the deputy district clerk on direct examination if the records showed that Kenneth Martin had pleaded guilty to the same offense of theft here charged against the appellant. And upon inquiry by the court as to the nature of the proof he was offering, the appellant’s attorney stated: “We are offering to prove that Kenneth Martin, the man found in that cabin out there, on the date of the trial before this court about three weeks ago, entered a plea of guilty before this court to burglary and theft growing out of this identical transaction, that is charged in this cause.” This quoted statement by appellant’s attorney was followed by the prosecuting attorney’s statement herein complained of.
+The question directed to the deputy district clerk about the records showing that Kenneth Martin had entered a plea of guilty to the theft of the same property for which appellant was on trial, and the above quoted statement of appellant’s attorney concerning it were placed and left in the record before the jury by the appellant. No reversible error is shown.
+The judgment is affirmed.
+Opinion approved by the Court.
