@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "18581"
+decided: "1937-03-31"
+citations: ["132 Tex. Crim. 628", "106 S.W.2d 709"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. H. Burck v. The State."]
+source_url: "https://static.case.law/tex-crim/132/cases/0628-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5236268
+cites_cases: ["229 S.W. 525", "88 Tex.Cr.R. 639", "88 Texas Crim. Rep., 639"]
+---
+
+# Burck v. State
+
+## Majority (KRUEGER, Judge.)
+
+KRUEGER, Judge.
+— Appellant was convicted of the offense of swindling, and his punishment was assessed at confinement in the state penitentiary for a term of two years.
+Appellant’s first complaint is that the court erred in overruling his motion to quash the indictment on the ground of repugnancy, in that, in one part of the indictment it charges that he obtained from Sheppard by means of false and fraudulent representations the sum of one hundred dollars and a note in the sum of seventy-five dollars of the value of seventy-five dollars and in another part of the same count it charges that he obtained from Sheppard twenty-five dollars in money and a note in the sum of seventy-five dollars. His main contention is that the two inconsistent statements could not be true, that is, that he received one hundred dollars and a note of seventy-five dollars from Sheppard and twenty-five dollars and a note in the sum of seventy-five dollars. We do not think that there is such repugnancy "as would vitiate the indictment. The description of the property obtained in each instance is alike. The only difference is in the amount of money which he is charged with having received from Sheppard. The variance is not such as would defeat the jurisdiction of the district court. If he obtained one hundred dollars in money and the note for seventy-five dollars, or only the note by the means charged, it would still constitute a felony. The value of the property which he received by the means charged is not a constituent element of the offense. It merely controls the punishment prescribed by law which may be inflicted. If he .had obtained but one dollar or some other kind of property having value by the means charged, it would nevertheless constitute the offense of swindling. The gravamen of the offense is the false and fraudulent representations by which he obtained property, whether it be much or little, as this would not affect or change the character of the offense. It is well settled in this State that if the constituent elements of the offense are so averred as to apprise the defendant of the charge against him, and to enable him to plead the judgment in bar of another prosecution for the same offense, it is sufficient. The State might have omitted entirely proof as to the money and have relied wholly on the note. See Jennings v. State, 88 Texas Crim. Rep., 639, and authorities there cited. However, we do not wish to be understood as approving such loose pleading.
+Appellant’s next contention is that the testimony is insufficient to sustain his conviction. We cannot agree with him because the record shows that on or about the second day of January, 1936, appellant represented to J. L. Sheppard that one R. L. Brown of Dallas owned 475 acres of land out of the Martin Dunman Survey in Bosque County, Texas, which Brown had authorized him to lease. Sheppard, who believed said statements and representations made by appellant to him, relied thereon and made and entered into a contract with appellant by the terms of which Sheppard was to have the use of said land for the term of one year in consideration of one hundred dollars. Sheppard paid appellant twenty-five dollars in cash and made and delivered to him his promissory note in the sum of seventy-five dollars of the value of seventy-five dollars. R. L. Brown did not own said land and had not authorized appellant to lease it to anyone. The record title to said land was in Morris Jameson who declined to permit Sheppard to use said land under his contract with appellant. We deem the testimony sufficient to sustain the conviction.
+Appellant’s next complaint is that the court erred in overruling his motion for a new trial. The order overruling the motion shows that the court heard evidence on the matters therein urged as grounds for a new trial. This evidence is not before this court. Hence the presumption prevails that the court’s action in overruling the motion was justified by the testimony adduced.
+Finding no reversible error in the record, the judgment of the trial court is in all things affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+— In his motion for rehearing appellant insists that we erred in holding the testimony sufficient to sustain the conviction; also that we erred in holding it not reversible error for the trial court to have overruled appellant’s motion for new trial, and, third, that this court erred in holding the indictment sufficient.
+We find nothing in the record to support the proposition that the indictment is not sufficient. It plainly charges that this appellant did, in a certain county, by means of false pretenses and devices and fraudulent representations, knowingly and fraudulently made by him to Sheppard, induce the said Sheppard to deliver to him, appellant, and appellant did then and there by the means aforesaid acquire from the said Sheppard one hundred dollars in money, and one note of the value of seventy-five dollars. The matters above set out are further elaborated in the indictment, which we think amply sufficient to make plain to appellant the thing charged against him,— which appears to be a violation of the law against swindling.
+Nor are we able to say that the facts do not support the averments of the indictment. It was established that appellant represented to Sheppard that R. L. Brown was the owner of a certain tract of land; that said Brown had authorized appellant to lease the land, and that acting upon said representations Sheppard paid to this appellant one hundred dollars, consisting of a note and twenty-five dollars in money for a lease upon said land. Appellant cashed the note. Sheppard testified, — and was supported, — that the note was worth seventy-five' dollars. Sheppard had never gotten the money or the note back. We think the facts sufficient to show that the record title to the land was not in Brown at the time of the transaction in question, and that appellant had no legal right to make the representations to Sheppard, testified to by the latter. We are not quite sure that we understand, or are able to make application to a case like this, — of what is claimed by appellant to be the beneficial title to said land. The land had in fact belonged to C. R. Jamison, but he had deeded it to Morris Jamison, in whom was the record title at the time of this transaction. It seems clear that appellant had no right from any standpoint to make the representations to Sheppard which were made and upon the strength of which Sheppard parted with his property.
+We are not able to agree with appellant’s contentions, and his motion for rehearing is overruled.
+Overruled.
