@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,379"
+decided: "1956-06-27"
+citations: ["163 Tex. Crim. 381"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sidney Miller v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462044
+cites_cases: ["154 Tex. Cr. R. 587", "158 Tex. Cr. R. 141", "229 S.W. 2d 366", "253 S.W. 2d 668", "288 S.W. 2d 517"]
+---
+
+# Miller v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Appellant was convicted under Article 1177a, V.A.P.C., of kidnapping for extortion and his punishment assessed at 45 years’ confinement in the penitentiary.
+This is a companion case to that of Tyler v. State, (page 46 this volume), 288 S.W. 2d 517, in which we upheld the conviction of one of appellant’s co-defendants for the same offense growing out of the same transactions.
+The testimony of the prosecuting witness, Pete Rydolph, is substantially the same as given upon the trial of the Tyler case, a summary of which may be found by reference to our opinion delivered in the case.
+Rydolph’s testimony shows that, after the appellant, Bill Tyler, Freda Bills, and an unidentified man had come to his home about dark and the appellant had threatened his life, he was forced to accompany them to a motel, in the city of Victoria. Upon arrival at the motel, after his life had again been threatened by the appellant, he was forced to take off his clothes and get on a bed with Freda Bills. While on the bed, the lights were turned off and three clicks of a camera were heard. At the direction of appellant, Rydolph was then taken by Tyler and the unidentified man in an automobile and held in their custody throughout the night, during which time he was in constant fear of being killed. On the following morning, upon the appellant’s demand and instructions, Rydolph went to a bank in Victoria, and, while under appellant’s surveillance, withdrew from his account $30,000.00 in cash, which he thereafter delivered to the appellant before being finally released from custody.
+Appellant did not testify but called as a witness his co-defendant, Freda Bills, after the indictment pending against her had been dismissed.
+Mrs. Bills in substance testified that she participated in the deal after a conference with the appellant and Bill Tyler in San Antonio. She testified that she went to Victoria upon the instructions of appellant, thinking it was a gambling deal, but after arriving in Victoria, found out it was a “picture score;” that, after arriving in Victoria, she and Tyler went to Rydolph’s place to fish, at which time Rydolph arranged to have a date with her at the motel; that, on the night in question, Rydolph was brought to the motel by Tyler for the purpose of fulfilling the date; and that, after they had undressed and the lights were switched off, Rydolph offered the appellant money for the films. She further testified that Rydolph then left the motel with Tyler and the unidentified man and the next morning she saw Rydolph at the motel with Tyler and the man; that she later saw appellant take a kodak out of the car and stamp a fire out; and that later she received $5,000.00 from the appellant.
+The court’s charge is substantially the same as given in Tyler v. State, supra, which we held to be a correct charge under the facts in that case.
+Appellant insists that, under the testimony of Freda Bills, he was entitled to the submission, as an affirmative defense, his requested charges Nos. 4 and 6, which would, in substance, have instructed the jury to acquit him if they believed that Rydolph paid money to the appellant to induce him to destroy or eliminate pictures or negatives taken of Rydolph in a compromising position or that said money was paid for any reason other than his release or freedom.
+We find no error in the court’s refusing to give the two requested charges.
+In Tyler v. State, supra, we held that the payment of money was not an essential element of the offense of kidnapping for extortion.
+Appellant complains of certain statements made by the district attorney in his closing argument to the jury.
+Such complaints are presented by the court’s Bills of Exception Nos. 8, 9 and 11, which were prepared and filed by the court in lieu of the appellant’s bills, after the court had qualified the same and appellant had excepted to the qualifications.
+From the bills as filed by the court, we quote the following portions of the argument to which appellant objected:
+“This is no ordinary run-of-the-mill criminal.”
+“* * * * * I am going to tell you gentlemen that it is a dangerous matter when you have an organized gang such as this has been proven to be, organized gang of professional criminals— * * * —coming down here from all parts of the State, congregating in your County, kidnapping and extorting your citizens. Your know, a man may commit murder, kill somebody by accident, or he might kill in self-defense, he might steal because he is hungry or because his children are hundgry, but this defendant is a professional. He plays for big stakes.
+“* * * * * They have told you that it is impossible for you to believe that Pete Rydolph didn’t go to this tourist court voluntarily because of Freda Bills’ testimony that they had gone out there fishing as they had, and because Freda Bills testified that it was the plan — the master plan of this master criminal to lure Pete Rydolph into the tourist court with Freda Bills.”
+The bills reflect that the court overruled appellant’s objection to counsel’s statement, “This is no ordinary run-of-the-mill criminal,” and reference to appellant’s being a “professional” criminal, but withdrew from the jury’s consideration the term “master criminal” in counsel’s statement, and instructed the jury not to consider the same.
+In his brief, appellant argues that the district attorney’s reference to him as a “professional,” “master” criminal and “no ordinary run-of-the-mill criminal” was not supported by the evidence because there was no evidence that he had been convicted of any other crimes; that such argument was unsworn testimony of the prosecutor to the effect that he was an habitual criminal and was so highly prejudicial as to call for a ■reversal of the case.
+Argument of a prosecutor is not ground for reversal where it appears that the evidence in the case warranted or supported the statement. 42 Tex. Jur., #203, p. 263; or where the argument is a fair and reasonable deduction from the evidence in the case. Long v. State, 154 Tex. Cr. R. 587, 229 S.W. 2d 366; and Coker v. State, 158 Tex. Cr. R. 141, 253 S.W. 2d 668.
+A review of the evidence shows that the prosecuting witness, Rydolph, was the victim of a plan to secure money from him, which originated in San Antonio between the appellant and Bill Tyler. Freda Bills testified that she participated in the transaction after coming to San Antonio from her home in Lubbock upon being called by Tyler “Because he said he had a deal,” and that, on prior occasions, she had answered Tyler’s call on other deals. Her testimony shows that the appellant gave her instructions as to her part in the plan; and, on her cross-examination, she admitted that the appellant was the “boss.”
+We are of the opinion that the reference by state’s counsel to the appellant as “no ordinary run-of-the-mill criminal” and a “professional” and “master” criminal was, under the evidence, a reasonable deduction therefrom and did not constitute reversible error.
+Finding the evidence sufficient to support the conviction and no reversible error appearing in the record, the judgment of conviction is affirmed.
+Opinion approved by the Court.
