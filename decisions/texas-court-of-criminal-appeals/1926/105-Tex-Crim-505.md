@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "10265"
+decided: "1926-11-03"
+citations: ["105 Tex. Crim. 505", "289 S.W. 390"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. D. Booker v. The State."]
+source_url: "https://static.case.law/tex-crim/105/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5130054
+cites_cases: ["100 Tex. Cr. R. 285", "101 Tex. Cr. R. 487", "265 S. W. 900", "273 S. W. 262", "276 S. W. 240", "98 Tex. Cr. R. 364"]
+---
+
+# Booker v. State
+
+## Majority (BAKER, Judge.)
+
+BAKER, Judge.
+The appellant was convicted in the District Court of Wheeler County, for unlawfully transporting intoxicating liquors, and his punishment assessed at one year in the penitentiary.
+The facts, briefly stated, are that on the day of the alleged offense the officers discovered, near the public road at a point close to the town of Shamrock, about seven gallons of whiskey in jugs and fruit jars. They immediately concealed themselves and watched same until about dusk, when the appellant and one Glenn King drove up in appellant’s car, stopped, and appellant got out and went to the place where the whiskey was concealed, took up a half-gallon jar and returned to the automobile. He had handed same over to King when the officers appeared, arrested the appellant and seized the whiskey in question. Within about five minutes thereafter Dola Gregg and a party “by the name of Blackie or Shorty” arrived and said “Blackie or Shorty” got out of the automobile and went in the direction where the whiskey was concealed. It further appears that the distance from where the whiskey was concealed to the car in which appellant and King were riding was about twenty feet.
+The appellant defended upon the ground, and so testified, that on the morning of the day in question, in traveling this road, he observed a party leaving the place where the whiskey was located, and that he, appellant, investigated said’ place and found there a jar containing some kind of liquid; that he made no effort to determine the nature of said contents, but went into the town of Shamrock; that about dark in the evening he met Glenn King in Shamrock and they decided to go back to the place where he had seen said jar for the purpose of getting something to drink; and that upon arriving at the scene, he got out and went down to where he had seen this jar, picked it up and carried it back to the car where King was solely for the purpose of taking a drink, and with no intention of carrying same off with them from said place, and denied any connection therewith or further knowledge thereof.
+The court charged the law relative to the transportaron of intoxicating liquors and defined the word “transport” to mean “to convey from one place or locality to another.” The appellant excepted to the court’s charge and submitted two special charges, both of which were refused by the court. The first special charge requested a verdict of not guilty and the second requested the court to instruct the jury, in effect, that it was not unlawful for the appellant to go to the place where the whiskey was concealed for the purpose of taking a drink, and that unless they found and believed from the evidence beyond a reasonable doubt that at the time the appellant picked up the jar and moved off toward the car he was then commencing to transport the whiskey from the locality in which it was concealed to some other locality, to acquit him. The appellant strenuously insists that the refusal of this charge was reversible error. We hardly think so and are of the opinion that the special charge, as presented, was properly refused, because if given by the court it would have precluded the jury from considering whether or not the appellant, on that morning or prior to the time when he was caught in the possession of the whiskey, was guilty of transporting same to the place where it was concealed. It is true the appellant testified that he saw another party at this place, which aroused his suspicion, and that upon investigating he found a jar which he supposed contained something to drink. However, the jury was not bound by his testimony arid was at liberty to consider whether or not he, in fact, had transported same to that point.
+In bills of exception 1, 2, 3 and 5 complaint is made to the refusal of the court to permit the appellant to show by witnesses that there was a fellow known as “Blackie” or “Shorty” in Shamrock at the time of the alleged offense, and that he had contracted to sell to appellant’s witnesses some whiskey, which he stated was about a mile out of Shamrock; and that a short time after the appellant was arrested said “Shorty” or “Blackie” and the witness Gregg drove up in a car to where the officers had arrested the appellant, and that the witness, Gregg, had accompanied “Blackie” or “Shorty” to said place for the purpose of sampling some whiskey which “Shorty” or “Blackie” was supposed to have with a view of buying some from the said “Shorty” or “Blackie; " that when they arrived there, the said “Shorty” or “Blackie” got out of the car and started in the direction of the whiskey, when the officers stopped him. All of this testimony was offered by the appellant for the purpose of showing that the said “Shorty” or “Blackie” was exercising control and ownership over the whiskey, which, the appellant contended, would prove or tend to prove his innocence, in that it would show that the whiskey belonged to the said “Shorty” or “Blackie” and not to him. This testimony was excluded upon objection of the state on the ground that it was hear-say and immaterial. The proposed testimony would only tend to show, in effect, that the said “Blackie” or “Shorty” had some guilty connection with the whiskey in question. This court has held that it was improper to admit such evidence, under circumstances of this kind, unless the state’s case was one of circumstantial evidence, and it then must be shown that the party whom the appellant attempts to prove was the guilty agent was in a position to commit the alleged offense. This is as far as this rule has ever been extended by this court. Stone v. State, 265 S. W. 900; Bohannon v. State, 273 S. W. 262; Beckham v. State, 276 S. W. 240.
+After a careful consideration of the entire record, and failing to find any reversible error therein, we are of the opinion that the judgment of the trial court should be affirmed, and it is accordingly so ordered.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (MORROW, Presiding Judge.)
+
+ON MOTION FOR REHEARING.
+MORROW, Presiding Judge.
+Since the filing of his motion for rehearing, appellant has filed a written application, duly verified, requesting the withdrawal of said motion. The application is granted, and it is ordered that mandate issue upon the original hearing in which the judgment of the trial court was affirmed.
+■Motion withdrawn.
