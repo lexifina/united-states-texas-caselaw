@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,496"
+decided: "1961-05-31"
+citations: ["171 Tex. Crim. 222"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["David Willard Self v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2629853
+cites_cases: ["164 Tex. Cr. R. 464", "170 Tex. Cr. R. 108", "300 S.W. 2d 950", "338 S.W. 2d 735"]
+---
+
+# Self v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The offense is burglary with intent to commit theft with a prior conviction for burglary alleged for enhancement; the punishment, 12 years.
+After the closing of the Western Auto Store about 5:30 P.M., Leo Porter and Bill Watson noticed something unusual about the side door of the store while passing by about 6:30-7.00 P.M. Upon investigation they saw two men kneeling beside the safe in the store. Porter and Watson remained at the store while the police were notified. Before the officers arrived the men inside the store raised an overhead door at the rear and each with a tire tool in his hand ran from the store and escaped. Porter and Watson saw and observed the men during their escape from the building. The officers apprehended and returned the appellant to the store 45 minutes later.
+While testifying, Porter and Watson identifed the appellant as one of the two men they saw in the store and also as one of the two men who ran from the store and was returned by the officers within a short time. Some tracks were found at the rear of the store by the officers. Shortly after he was returned to the store, the appellant removed his shoe which Officer Wagner placed beside the track at the rear of the store with the “heel up.” After comparison Officer Wagner expressed the opinion that the heel of the shoe worn by the appellant matched the heel print of the shoe track he found at the rear of the store.
+The floor of the service department in the store had been freshly painted. A chemical test of a specimen of the paint from the floor and that of the paint stains about the knees of appellant’s trousers were made. The test showed that the two specimens were of the same composition.
+The evidence shows that the lock on the service entrance door of the store had been twisted off; and that a hammer and crescent wrench were found on the floor near the safe which had its knob and a hinge broken off and had been loaded on a dolly. It was further shown that Paul Watson had the care, control and management of said store which was forcibly entered after he had closed it, and that he did not give anyone his consent to break and enter it and remove anything therefrom.
+To establish the prior conviction alleged for enhancement, the state introduced certified photostatic copies of the records of the Texas Department of Corrections which had been certified by the custodian thereof. These records included the judgment and sentence in said cause as certified by the District Clerk of Gaines County, and photographs and fingerprints of the defendant in said cause. The state also introduced in evidence certified photostatic copies of the indictment, judgment and sentence in the cause alleged for enhancement attested by the clerk of the court in which the conviction was had. To the introduction of the foregoing instruments, the appellant stated that he had no objection.
+It was further shown by expert testimony that the fingerprints taken from the appellant following his arrest for the primary offense alleged were the same as those shown on the fingerprint cards from the prison system. This manner of proof has been approved. Spencer v. State, 164 Tex. Cr. R. 464, 300 S.W. 2d 950; Tomlin v. State, 170 Tex. Cr. R. 108, 338 S.W. 2d 735.
+Testifying in his own behalf, the appellant stated that he had been drinking heavily on the day in question; that about dark he called a cab in order to contact a girl friend who lived near the Western Auto Store and got out of the cab about two blocks from the store, entered a bar and was soon arrested and taken to the store. He denied any connection with the burglary of the Western Auto Store; and accounted for any paint that may have been on his trousers by some painting he had done at home; and also testified that one of the officers was wearing shoes identically like his while walking at the rear of the store. Appellant admitted six prior convictions for burglary and one for robbery.
+Appellant contends that the evidence is insufficient to support the conviction. In support of this contention he insists that there is no proof in the record of the prior conviction alleged for enhancement.
+The statement of facts contained in the record sufficiently shows the prior conviction alleged and a summary thereof is hereinabove shown.
+The evidence is sufficient to support the conviction, and no error appearing, the judgment is affirmed.
+Opinion approved by the Court.
