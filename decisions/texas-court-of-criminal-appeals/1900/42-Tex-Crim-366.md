@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2313"
+decided: "1900-12-19"
+citations: ["42 Tex. Crim. 366"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. W. Adams v. The State."]
+source_url: "https://static.case.law/tex-crim/42/cases/0366-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 171656
+---
+
+# Adams v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of murder in the second degree, and his punishment assessed at fifteen years confinement in the penitentiary.
+The eighteenth paragraph - of the charge of the court is criticised, and an instruction requested to correct the alleged error. The paragraph is as follows: “But, when the fact of an unlawful killing is established, in order to reduce it to manslaughter it must appear from the evidence that adequate cause, as above explained, in fact existed; and it must further appear that such adequate cause produced anger, rage, sudden resentment, or terror, so as to render the mind incapable of cool reflection, and that such emotion existed at the very time of the killing, and passion arising from insulting words or conduct on the part of the deceased towards defendant at any time other than at the very time of the killing would not of itself be such sudden passion as would be sufficient to reduce an unlawful homicide to manslaughter; and where a person whose mind is. cool and calm, although smarting under indignities personally inflicted upon himself, deliberately determines to take the life of another, and in pursuance of such determination does take life, no previous wrong or indignity inflicted on the slayer by the party killed would be sufficient to reduce the killing to manslaughter, but such killing would be murder.” It is true, the court informed the jury in paragraph 16 that any condition or circumstance which is capable of creating and which does create sudden passion, etc., would be adequate cause, and in considering this question as to whether adequate cause did or did not exist the jury might consider all the facts and circumstances in evidence. We believe the charge criticised is erroneous. It is too restrictive, and tends to eliminate from manslaughter previous acts and circumstances which, viewed in the light of the immediate environments of the homicide, might be considered by the jury to be sufficient to produce sudden passion, and thus reduce the killing to manslaughter. Several circumstances of a past nature bearing upon this question, as well as occurrences between the parties prior to the homicide, were in evidence. The jury, under a correct instruction, might have found these circumstances in connection with the immediate environments of the killing, sufficient to reduce the killing to manslaughter. But they were virtually informed, if these prior circumstances formed the basis of a deliberate intention to kill, appellant would be guilty of murder. As was said in Bracken’s case, 29 Texas Criminal Appeals, 362, “It is a rule now well settled that where the evidence shows a number of conditions and circumstances tending, either singly or collectively, to constitute what the jury might consider adequate cause, the court should leave the jury at liberty to consider them all, in determining, whether or not adequate cause existed.” While it is true the provocation must arise at the time of the killing, and the passion must not be the result of a former provocation, yet the jury may, in deciding the sufficiency of the provocation and consequent passion, look to past occurrences between the parties—especially those of the deceased towards defendant. One act standing by itself may not be sufficient provocation, but may be ample when viewed in the light of a series of acts, or when it has been preceded by an insulting and aggravating course of conduct, even when of a different character to that committed at the time of the homicide. Johnson v. State, 22 Texas Crim. App., 206; Bracken’s case, supra. Appellant requested an instruction properly presenting the law in this respect, which should have been given.
+The questions presented for revision with regard to the formation of the jury will not be considered, because they will not arise upon another trial. We have examined the bills of exception' with regard to the introduction of testimony, and believe they are not of sufficient merit to justify revision. The judgment is reversed and the cause remanded.
+Reversed and remanded.
