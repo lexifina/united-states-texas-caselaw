@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3375"
+decided: "1915-01-20"
+citations: ["76 Tex. Crim. 117", "172 S.W. 978"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harvey Davis v. The State."]
+source_url: "https://static.case.law/tex-crim/76/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4711491
+cites_cases: ["11 S. W. Rep., 113", "122 S. W. Rep., 34", "171 S. W. 1133", "50 Texas Crim. Rep., 344", "57 Texas Crim. Rep., 158", "74 S. W. Rep., 913", "97 S. W. Rep., 82"]
+---
+
+# Davis v. State
+
+## Majority (DAVIDSON, Judge. HARPER, Judge. PRENDERGAST, Presiding Judge.)
+
+DAVIDSON, Judge.
+Appellant was convicted-of murder and prosecutes this appeal.
+The theorjr of the State was that appellant and others, on the night of the homicide, were acting together in unlawful purposes. That among other things, they went to the house of a negro named Helium, and that Dock Hughes went in the house and shot the wife of Helium to death. Helium killed Dock Hughes. There is no evidence that any of the other parties were in the house, though the State’s testimony shows they were about the house or near by.
+The court’s charge with reference to acting together in the conspiracy and kindred subjects is attacked for various reasons. The writer does not care to review those questions. The charge is in accordance with the opinion in the recent case of Serrato v. State. The writer does not agree with that opinion, and believed the charge sustained in that case did not and does not correctly state the law. But the charge in this case seems to he in harmony with the opinion in that case.
+The charge is further attacked because it does not submit the law of circumstantial evidence. The writer believes the exception to the charge in this respect to he well taken. This matter is raised in various ways, hut suffice it to say that this phase of the law was not given in charge to the jury, either in the court’s charge or requested instructions offered. At times it is a little difficult to determine whether a charge on circumstantial evidence is requisite. It has been held in several cases that where the facts are in such close juxtaposition to the main fact as in cases of homicide, it is not necessary to give this phase of the law in charge. In this case, however, the State relied upon circumstances to connect the defendant with .the homicide. There is no evidence that he was engaged in the killing; in fact, the evidence excludes that idea. His criminality or connection with the killing must be, if at all, gathered from circumstances, in the absence of positive evidence. From this viewpoint the writer believes a charge on circumstantial evidence was necessary. There is another viewpoint, however, in the light of the facts of this case, which seems to call for a charge on this phase of the law. Circumstantial evidence, as a rule, does not apply to criminal intent but it applies usually to the act or criminal connection with the act charged to be a violation of the law. The mere presence of a party at the scene of the homicide does not make him a criminal. He may have known that a crime was committed, yet if he did not participate in it directly or indirectly or encourage the party doing the killing, his mere presence would not constitute him a principal in the transaction nor connect him criminally with the killing. So from either viewpoint the charge on circumstantial evidence was called for by the facts. Appellant having presented the matter fully and clearly so as to bring himself within the late statute, the charge should have been given.
+It is also claimed by bill of exceptions the court was in error in permitting evidence to go before the jury with reference to other parties having whisky and drinking it in the absence of appellant, when it was in no way connected with this homicide. The court after admitting this testimony withdrew it from the jury. It is always dangerous for a court to admit erroneous testimony of a damaging nature, as it evidently was in this case, and then seek to withdraw it from the jury and remove the effect from their minds. Tin's testimony was clearly not admissible, and it occurs to us, under the facts, was damaging and of such a nature that the withdrawal of it did not cure the error.
+The other phase of the whisky selling that was permitted to go to the jury arose at a meeting of some negroes where the witness testified she. bought whisky from the appellant. This was some time prior to the homicide and at a different place, and was not connected with the homicide in any way. It doubtless was a violation of the local option law in Newton County for him to sell this whisky, but that offense had nothing to do with this homicide, and was in no way connected with it, and was evidently of a damaging character. This was error.
+For the reasons above stated the judgment is reversed and the cause remanded.
+Reversed and remanded.
+HARPER, Judge.
+In agreeing to the reversal of the case I do not agree that a charge on circumstantial evidence was called for. The record shows that Dock Hughes and appellant agreed to go to the negro quarters and “get them a negro.” They were together when Dock Hughes fired the shots in the sehoolhouse; they were together when appellant whipped Elsie McCain; they were together when they went to two other negro houses, and defendant whipped another negro; they were together when they went to the house of the negro Kellum. Hughes and appellant carried on a conversation about how to get Kellum out of the house. As the positive testimony shows appellant present on all these occasions, we do not think a charge on circumstantial evidence was called for. It is not clear who fired the fatal shot that killed Grace Kellum, but it is manifest that appellant, Dock Hughes, or one of those acting with him-, did do so, and regardless of who fired the shot, as the evidence shows they went to Kellum’s house to do an illegal act, all understanding and agreeing to the unlawful act, each and every one present and participating would he equally guilty with the one who fired the shot.
+PRENDERGAST, Presiding Judge.
+I agree with Judge Harper. But I also believe the withdrawal by the court of the evidence as the reason for whipping Elsie McCain cured that errer, and that the admission of the other evidence for which the case is partly reversed, is not such error as should cause reversal.
