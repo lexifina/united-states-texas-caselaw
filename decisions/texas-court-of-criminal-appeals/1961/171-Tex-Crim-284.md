@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,639"
+decided: "1961-10-02"
+citations: ["171 Tex. Crim. 284"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willie B. Washington v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0284-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2635317
+cites_cases: ["156 Tex. Cr. R. 597", "158 Tex. Cr. R. 68", "160 Tex. Cr. R. 239", "161 Tex. Cr. R. 124", "163 Tex. Cr. R. 463", "167 Tex. Cr. R. 197", "245 S.W. 2d 245", "253 S.W. 2d 432", "268 S.W. 2d 154", "275 S.W. 2d 677", "293 S.W. 2d 646", "319 S.W. 2d 115"]
+---
+
+# Washington v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is under Art. 802c, V.A.P.C., for the offense of murder without malice; the punishment, confinement in the penitentiary for four years.
+The evidence was undisputed that the deceased was killed in a collision between the automobile in which she was riding and which was being driven by her husband, and an automobile driven by appellant. The collision occurred in the city of Houston in the 2900 block of the Eastex Freeway. Prior to the collision appellant was traveling north on the freeway and the automobile occupied by the deceased was traveling south. The collision occurred when the automobile which appellant was driving suddenly veered to its left across the esplanade and drove into the traffic lane of the automobile being driven by the deceased’s husband.
+It was shown that just prior to the time appellant’s automobile veered to the left and crossed the esplanade he had attempted to pass another automobile and apparently lost control of his car while driving at an estimated speed of between sixty and eighty miles per hour.
+An issue was raised by the evidence as to appellant’s intoxication at the time. Two officers, who investigated the collision and observed appellant at the time and later at the hospital, testified that he talked incoherently and expressed their opinions that he was at such time intoxicated. Appellant had the odor of alcohol on his breath. A blood specimen taken from appellant with his consent was shown, upon being examined by Chemist and Toxicologist Floyd E. McDonald, to contain 0.18 percent alcohol. Chemist McDonald testified that the most tolerant persons to alcohol were intoxicated when their blood reached 0.15 percent alcohol.
+Appellant denied being intoxicated and testified that his left front tire blew out just immediately preceding the time his car swerved to the left into the path of the oncoming car. He further testified that at such time his steering wheel locked and he was unable to avoid running into the path of the automobile being driven by the deceased’s husband.
+Appellant insists that for various reasons the evidence is insufficient to sustain the conviction.
+It is contended that there is a material variance between the allegation and proof in that the indictment charged that appellant killed the deceased by driving his vehicle “into and causing it to collide with” the automobile occupied by the deceased and the evidence shows that the automobile in which the deceased was riding was driven into the appellant’s automobile. While there is testimony in the record that the deceased’s automobile “hit” or “struck” the appellant’s automible, there is also testimony in the record that, at the time of the collision, the appellant’s automobile was “sailing through the air” and drove m front of the automobile in which the deceased was riding. In cases of this nature it is held that a variance is not shown between the indictment allegations that death was caused by driving a vehicle into and causing it to collide with another vehicle and proof that the defendant drove in front of the vehicle in which the deceased was riding and the collision resulted from such act. See 8 Tex. Jur. 2d par. 399, page 56; Prosch v. State, 158 Tex. Cr. R. 68, 253 S.W. 2d 432. The claim of material variance is overruled.
+We are unable to agree that the evidence is insufficient to show that appellant was intoxicated and that such intoxication caused or contributed to cause the death of the deceased.
+We overrule appellant’s remaining contention that the evidence fails to show that the killing of the deceased was through “accident or mistake,” as alleged in the indictment.
+Appellant complain of the court’s refusal to give his requested charge on unavoidable accident by reason of the tire on his automobile blowing out and locking of the steering wheel. The court instructed the jury that if they believed from the evidence or had a reasonable doubt thereof that immediately prior to the collision the appellant was not intoxicated but that he lost control of his automobile by reason of a blow-out of the front tire and the locking of the steering wheel, thereby causing the collision, then to find him not guilty. The court further instructed the jury that before they could find appellant guilty they must find and believe from the evidence beyond a reasonable doubt that appellant was intoxicated and further that the fact that he was intoxicated was the cause of or contributed to the cause of the collision. The jury was also instructed that even though they found and believed that appellant was intoxicated at the time of the collision, he would not be guilty of murder if he was operating his automobile in a manner such as a person not under the influence of intoxicating liquor would operate it. The court’s charge fully protected appellant with reference to the required causal connection between his intoxication and the collision and the refusal of his requested charge on unavoidable accident does not present reversible error. Pope v. State, 156 Tex. Cr. R. 597, 245 S.W. 2d 245; Yarborough v. State, 160 Tex. Cr. R. 239, 268 S.W. 2d 154; and Dominguez v. State, 161 Tex. Cr. R. 124, 275 S.W. 2d 677.
+Appellant insists that that portion of the court’s charge which instructed the jury to acquit him if they believed from the evidence that he lost control of his automobile by reason of a blowout and the locking of the steering wheel, which thereby caused the collision, was erroneous because it did not submit his affirmative defense in a positive manner without reservation and qualification. The only objection made by appellant to the court’s charge was as follows: “NOW COMES the Defendant and excepts to page 5 of the Court’s charge because the same is not in accordance with the law of the case and does not fully set forth the_of the case.”
+The objection was clearly too general and did not specifically point out the defect now claimed by appellant to the charge, and therefore presents nothing for review. Bryant v. State, 163 Tex. Cr. R. 463, 293 S.W. 2d 646; and Chavira v. State, 167 Tex. Cr. R. 197, 319 S.W. 2d 115.
+Other contentions urged by appellant have been considered and are overruled.
+The judgment is affirmed.
+Opinion approved by the Court.
