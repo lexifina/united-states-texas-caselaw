@@ -1,0 +1,96 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,373"
+decided: "1959-03-11"
+citations: ["168 Tex. Crim. 79"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Randolph Johnston v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2622697
+cites_cases: ["155 Texas Cr. Rep. 10", "155 Texas Cr. Rep. 495", "155 Texas Cr. Rep. 73", "156 Texas Cr. Rep. 92", "162 Texas Cr. Rep. 6", "166 Texas Cr. Rep. 65", "166 Texas Cr. Rep. 88", "17 S.W. 418", "228 S.W. 2d 864", "231 S.W. 2d 431", "235 S.W. 2d 162", "236 S.W. 2d 796", "279 S.W. 2d 877", "311 S.W. 2d 410", "328 S.W. 2d 788", "36 S.W. 92", "36 Texas Cr. Rep. 180"]
+---
+
+# Johnston v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Appellant brings this appeal from the entry of three orders entered nunc pro tunc correcting clerical errors in the judgments entered in Cause Nos. 2975, 2977 and 2978 in the district court of Hood County so as to make same reflect the judgments pronounced at the trial adjudging him guilty of the offense of burglary and assessing his punishment at confinement in the penitentiary for 12 years in each case.
+The orders were entered upon motion of the state to correct the judgments which had been previously entered in the three numbered causes at a former term upon appellant’s plea of guilty, before the court without a jury which judgments as entered found appellant guilty of burglary and repetition of certain offenses and recited that his punishment be assessed at confinement in the penitentiary for a term of “not less than 2 nor more than 12 years in each case.”
+Appellant sought discharge from the penitentiary by habeas corpus, and while his application was pending in this court, motions were filed by the district attorney in the trial court to correct the judgments, alleging that the judgments actually pronounced by the court found appellant guilty of burglary and assessed his punishment at confinement in the penitentiary for 12 years and that in recording the judgments in the minutes of the court the clerk through error recorded them as assessing appellant’s punishment at a term of “not less than two nor more than twelve years in the penitentiary.”
+After hearing, the state’s motions were granted and the judgments were corrected by nunc pro tunc orders. In Johnston v. State, 166 Texas Cr. Rep. 65, 311 S.W. 8d 823, we disposed of appellant’s appeal from the entry of these nunc pro tunc judgments or orders and set them aside “without prejudice to the right of the state to again present its motions, and of the trial court to hear, consider and determine same, appellant and his counsel having the opportunity to be present and offer testimony on the question of the punishment actually assessed at the trial.”
+In the same opinion we denied appellant’s prayer for relief by habeas corpus.
+In the former appeal the nunc tunc entries were set aside because appellant was not represented by counsel at the hearing.
+Subsequent to our opinion new motions were filed by the district attorney to correct the judgments for the same reasons as were alleged in the motions previously filed in the three causes.
+It was after a hearing on such motions, at which appellant and his counsel were present, that the court entered nunc pro tunc the three judgments from which appellant brings this appeal.
+The evidence adduced at the hearing clearly sustains the state’s contention that the judgments actually pronounced by the court adjudged appellant guilty of burglary and assessed his punishment at confinement in the penitentiary for a definite term of 12 years in each case and that through error the judgments were recorded in the minutes as assessing the punishment at confinement in the penitentiary for a term of “not less than two nor more than twelve years in the penitentiary.”
+Appellant insists that the court was without authority to enter the judgments nunc pro tunc because he had lost control of the judgments and the matter sought to be corrected was one not only as to form but as to substance.
+A trial court is not without authority to correct the minutes of his court so as to make them truly reflect the judgments actually pronounced. Henry v. State, 162 Texas Cr. Rep. 6, 279 S.W. 2d 877. Errors in the entry of a judgment or sentence are subject to correction by nunc pro tunc entry in order to make the court minutes correctly reflect the order actually made by the trial judge at the trial. Ex Parte Hatfield, 156 Texas Cr. Rep. 92, 328 S.W. 2d 788. It has been held that if, in fact, a definite punishment was assessed and the entry of a judgment showing otherwise was by a clerical error, the judgment may be corrected by the court which rendered it under its inherent powers by nunc pro tunc entry of the judgment as the same was actually rendered in the case when tried. Ex Parte Hannen, 155 Texas Cr. Rep. 10, 228 S.W. 2d 864, and Ex Parte Stansbury, 155 Texas Cr. Rep. 73, 231 S.W. 2d 431.
+Appellant insists that since the judgments entered nunc pro tune made no provision for cumulation of the punishment and the sentences in the cases which provided for cumulation were not reformed, the sentences did not conform to the judgments.
+It was not necessary that the judgments provide for cumu-lation of the punishment as this could be done in the sentences pronounced. Ex Parte Moseley, 30 Texas App. 338, 17 S.W. 418, and Ex Parte Crawford, 36 Texas Cr. Rep. 180, 36 S.W. 92. The sentences did provide for cumulation of the punishment which was sufficient.
+Under the record the trial court was authorized to enter the three judgments nunc pro tunc. No attempt was made to appeal from the conviction in either of the three cases and no ground for reversal thereof is shown.
+The trial court’s order correcting the three judgments is affirmed and the relief prayed for by habeas corpus is again denied.
+Opinion approved by the Court.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+(dissenting).
+This court is without power or authority to entertain an appeal from an order nunc pro tunc.
+By this decision, this court has now resolved itself into a “nunc pro tunc” court — that is, an appellate court authorized to review “nunc pro tunc” orders and decrees in a criminal case.
+I can not help but wonder where this court obtains any such authority or jurisdiction. I confidently assert that no such authority or jurisdictional power exists and that such authority and power are assumed and are wholly unjustified.
+The appellate jurisdiction of the Texas Court of Criminal Appeals is clearly stated at two places in our laws: The first is in Art. 5, Sec. 5, of the Constitution of this state, which provides as follows:
+“The Court of Criminal Appeals shall have appellate jurisdiction co-extensive with the limits of the State in all criminal cases of whatever grade, with such exceptions and under such regulations as may be prescribed by law.”
+The other is in Art. 53 of the Code of Criminal Procedure of this state, which reads as follows:
+“The Court of Criminal Appeals shall have appellate jurisdiction co-extensive with the limits of the State in all criminal cases. This article shall not be so construed as to embrace any case which has been appealed from any inferior court to the county court or county court at law, in which the fine imposed by the county court or county court at law shall not exceed one hundred dollars.”
+These are the only provisions of law setting forth the appellate jurisdiction of this court.
+Nowhere therein is any authority given authorizing an appeal from the entry of a nunc pro tunc judgment, order, or decree, or any collateral proceeding in a criminal case.
+The only place in our criminal laws that we find any reference to “nunc pro tunc” judgment is in Art. 772, C.C.P., which provides:
+“If there is a failure from any cause whatever to enter judgment and pronounce sentence during the term, the judgment may be entered and sentence pronounced at any succeeding term of the court, unless a new trial has been granted, or the judgment arrested, or an appeal has been taken.”
+When a judgment is corrected by nunc pro tunc order, it is the judgment as corrected that is the judgment in the case. No appeal is authorized from a judgment in a felony case.
+The cases here involved were felonies.
+The judgment in a felony case is not the final judgment in the case. It is the sentence pronounced upon the judgment that constitutes the final judgment necessary to an appeal and from which an appeal to this court may be taken. Art. 769, Vernon’s C.C.P., and authorities cited under Note 3 thereof, including Skaggs v. State, 166 Texas Cr. Rep. 88, 311 S.W. 2d 410.
+Indeed, we have so often dismissed, for want of jurisdiction, appeals in felony cases where there was no sentence that citation of authorities seems superfluous.
+When my brethren authorize and consider the appeal in this case from the nunc pro tunc order, the statute and authorities supporting the rules above stated are destroyed and overruled.
+It must be remembered that no sentence was passed after the entry of the corrected or nunc pro tunc judgment. The only sentence in each of the three cases here involved was passed upon appellant on January 7, 1954. No appeal was taken from those final judgments. Appellant accepted such sentences and is now — and was when this nunc pro tunc proceeding was instituted — serving those sentences in the penitentiary.
+Notwithstanding this, my brethren affirm the cases.
+The only order that should be entered by this court is that which would dismiss the appeal from the order nunc pro tunc.
+If, however, my brethren are going to pass upon the nunc pro tunc order and determine the validity of the judgments as thereby amended and attempted to be corrected, then the only order that the record in this case authorizes to be entered is that which would hold that such amended judgments are invalid and wholly insufficient as judgments in a felony case. The corrected or nunc pro tunc judgments were no more valid after the nunc pro tunc entry than they were before.
+The judgment originally entered in each case was invalid because of the indefinite punishment — that is, two to twelve years in the penitentiary. A valid sentence could not have been passed thereon. Lewis v. State, 235 S.W. 2d 162; Elliott v. State, 155 Texas Cr. Rep. 495, 236 S.W. 2d 796.
+The state recognized the defect in and the invalidity of the judgments when, over four years after the passage of sentence upon appellant under the defective judgments and after he had accepted such sentences and was in the penitentiary serving those sentences, the district attorney filed the motion of the state to have the judgments corrected nunc pro tunc in each case.
+In that motion the state alleged that the judgments originally entered were defective because of the indefinite term assessed at not less than two nor more than twelve years in the penitentiary and that such defect was the result of an error by the clerk of the court in recording the judgments, when in truth and in fact the punishment which the trial court entered was that of twelve years’ confinement in the penitentiary.
+Appellant was brought from the penitentiary to answer that motion.
+Upon the hearing, the judge of the trial court, the district attorney, and the clerk of the court all testified that the indefinite punishment of not less than two nor more than twelve years, as it appeared in the judgments, was the result of a typographical error and that the punishment assessed in each case was twelve years’ confinement in the penitentiary.
+The trial court sustained the motion of the state and proceeded to enter, as of January 7, 1954, a new judgment in each case.
+The adjudication in each new judgment is as follows:
+“It is therefore considered by the Court that the Defendant, Randolph Johnston, is adjudged to be guilty of the offense of burglary of which he pleaded guilty, as confessed by him in his said plea of guilty, and as has been established by the evidence introduced, and that he be punished by confinement in the Penitentiary of this State for twelve years and that said Defendant be remanded to jail to await the further order of this Court herein.”
+The new and corrected judgment is radically different from the judgment originally entered.
+The adjudicated part of the original judgment in Cause No. 2975, which I will call the first of the three cases, reads as follows:
+“It is therefore considered and adjudged by the Court, that the defendant, Randolph Johnson [sic], is guilty of the offense of Burglary and 2 previous convictions less than capital as confessed by him in his said plea of Guilty herein made, and that he be punished by confinement in the State Penitentiary for a term of not less than 2 years nor more than 12 years.”
+The judgment originally entered in the second case, or Cause No. 2977, reads the same as the above except that appellant was found guilty “of the offense of Burglary & repetition of offense * * *.”
+The judgment originally entered in the third case, or Cause No. 2978, reads the same as Cause No. 2977 in that appellant was found guilty of “Burglary & repetition of offense.”
+The difference in the original and the amended judgments is apparent:
+The offense of which the appellant was found guilty was burglary and repetition of offense.
+It is interesting to note that the state made no reference to this matter in its motion for nunc pro tunc judgment. Nowhere in that motion did the state seek to amend that feature of the original judgment by striking therefrom the finding as to repetition of offense.
+Nowhere in the testimony of the district attorney, the trial judge, or the clerk of the trial court, upon the hearing of the motion, does one find any intimation that the judgments in the particular mentioned were incorrect or erroneously entered.
+Notwithstanding such fact, the trial court made no reference to the repetition of offense when he entered the nunc pro tunc or corrected judgment and found appellant^ guilty of the crime of burglary — and this, without reference to the indictment or the charge as contained in the indictment.
+Finally, then, the original judgments are changed and amended in material aspects by the nunc pro tunc order without pleading or proof authorizing such change or order. In other words, the trial court attempted to and did change the original judgments, without pleading, notice, or evidence authorizing him to do so.
+The defect and invalidity of the judgments as entered originally and unchanged by the nunc pro tunc order were carried into the sentences passed thereon, thereby rendering the sentences — each of them — invalid.
+The sentence in the first case, No. 2975, recites “that the defendant Randolph Johnson [sic] who has been adjudged to be guilty of Burglary and 2 previous convictions less than capital and whose punishment has been adjudged at confinement in the penitentiary for a term of not less than 2 nor more than 12 years. * *
+That sentence has not been changed or amended in any particular.
+If the judgment was invalid, as the state said it was, then the sentence is invalid because it is based upon an invalid judgment. When the state says that the judgment as originally entered was invalid, it condemns the sentence, because the sentence is based thereon and the defect is carried into and set out in the sentence.
+Moreover, the law knows no “repetition of offense.” Increased punishment is allowed only upon prior convictions which are prior both in point of time of the commission of the offense as well as conviction, and one prior conviction may not be used twice for enhancing the punishment under the second-offender statute.
+Thus is demonstrated the highly irregular position and the confusion in which the state finds itself in its endeavor to demand of this appellant thirty-six years’ confinement (twelve years in each case) in the penitentiary for three burglary cases upon a plea of guilty.
+Throughout it all, the appellant appears to be saying nothing as he serves the sentence imposed, abiding the time when he shall have served sufficient time to demand his release from the penitentiary.
+A convict may serve a void sentence and by that service pay his debt to the state the same as if the sentence had been regular.
+This appellant is serving time in the penitentiary under invalid sentences.
+I have expressed my views at length, because my brethren affirm the judgment of the trial court in each case rather than dismiss the appeal.
+My brethren are not content with affirming the nunc pro tunc judgments but voluntarily take it upon themselves to reopen and adjudicate adversely to the appellant a habeas corpus proceeding which is not even before this court. Wherein, may I ask, do they find in this record any reference to or appeal from a writ of habeas corpus? There is none, yet my brethren announce that “the relief prayed for by habeas corpus is again denied.”
+There is a very good explanation for this entirely gratuitous ruling on the part of my brethren which I assert is an endeavor to prevent this appellant from attacking the sentences which he is now serving.
+It must be remembered that appellant has not been re-sentenced since the corrected judgments were entered of record. The sentences he is serving are under the old and confessedly invalid judgments. He has not been called upon in the trial court to answer why sentence should not be imposed upon the corrected judgments.
+As I have heretofore indicated, the judgments as corrected are void because, in the first instance, the punishment assessed was not authorized by the judgment entered and in the other two cases the judgments are void because the same prior conviction was used more than once to enhance the punishment as" a' second offender.
+This court ought not to set up a “straw” case by claiming that a writ of habeas corpus is before it challenging the sentences, just so they can adjudicate that the writ of habeas corpus has been determined. Yet that is the ultimate effect of what it is here doing.
+I can but dissent.
