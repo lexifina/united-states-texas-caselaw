@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "6147"
+decided: "1921-06-22"
+citations: ["89 Tex. Crim. 609"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Thomas v. The State."]
+source_url: "https://static.case.law/tex-crim/89/cases/0609-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4807199
+cites_cases: ["228 S. W. Rep., 199", "88 Texas Crim. Rep., 529"]
+---
+
+# Thomas v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+The Assistant Attorney General calls attention to the fact that the record in this case fails to show any final judgment, in that there is an absence, of a showing that sentence was ever pronounced upon the defendant, or notice of appeal given by him to the Court of Criminal Appeals. An examination of the record discloses such to be the case. Vernon’s C. C. P., Art. 856, and cases therein cited. This is a prerequisite to this court entertaining an appeal.
+The appeal is ordered dismissed.
+Dismissed.
+
+## Rehearing (HAWKINS, Judge.)
+
+ON REHEARING.
+June 22, 1921.
+HAWKINS, Judge.
+At a former day of this term the appeal was ordered dismissed, because the record failed to show a final judgment, in that it did not appear that sentence had ever been passed upon the appellant. The record having been amended in this respect, the motion for rehearing is granted and the appeal reinstated. The case will now be disposed of on its merits.
+Appellant was convicted of having in his possession intoxicating liquor, not for medicinal, mechanical, scientific or sacramental purposes. Punishment was assessed at confinement in the penitentiary for one year.
+A motion to quash the indictment on various grounds was filed, (a) Because it was duplicitous and indefinite, (b) Because our State law is antagonistic to the federal statute upon the question of the regulation of intoxicating liquor. We do not agree with the appellant’s contention that the indictment in the case was duplicitous, and the other grounds for complaint have been decided by this court in many cases adversely to appellant’s position. Ex parte Gilmore, 88 Texas Crim. Rep., 529, 228 S. W. Rep., 199, and many other cases following Ex parte Gilmore.
+After the evidence was all in, appellant, through is counsel, requested the court to instruct the jury to return a verdict of not guilty, because the evidence was not sufficient to support the allegations in the indictment. Appellant presented no evidence upon the trial, and the testimony for the State is very brief. The deputy sheriff testified that on the night of the 11th of September, 1920, he had occasion to go to appellant’s house, where he found appellant, and found setting on his-cook stove a couple of buckets of white corn whisky. Under the edge of the house he found a two-burner oil stove, and in the yard two or three tubs containing sour mash; also, a five-gallon keg, which had mash in it. A few days later, upon returning to appellant’s place, he found buried in the garden a thirty-gallon barrel, which also contained sour mash. The deputy sheriff carried two ten-pound lard buckets full of the whisky to Kaufman with him. This is all of the State’s testimony, with the exception of one witness, who testified that with the equipment found on appellant’s place, and with a coil in addition thereto, a man could make a very good quality of corn whisky.
+The court did not err in declining to instruct the jury to return a verdict of not guilty. The evidence in the case is .amply sufficient to warrant a jury in finding that appellant had the whisky in his possession for unlawful purposes, to-wit: the sale thereof. The presence of the equipment for the manufacture of intoxicating liquor would indicate that the appellant was engaged in the business of making the same as a commercial enterprise for his own financial interest.
+Objection to the court’s definition of “possess” was filed. In the fifth paragraph of the court’s charge we find the following: “You are instructed that the word “possess” as mentioned in the foregoing instructions is meant the exercise of actual control, care and management of the property.”
+We can see no error in the definition as given by the court, and no special charge was requested by appellant amplifying the definition in any way. The exception to the definition as given by the court is that the word “possess” means “to own;” “to be entitled to.” If it was intended by the exception to convey to the trial court the idea that a party cannot be guilty of possession of intoxicating liquor unless he owned the same, we believe the meaning placed upon the word is entirely too restrictive, and that the definition given by the court is nearer correct than that suggested by the exception.
+Finding no error in the record, the judgment of the trial court is affirmed.
+Affirmed.
