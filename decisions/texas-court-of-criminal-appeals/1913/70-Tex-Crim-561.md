@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2484"
+decided: "1913-05-28"
+citations: ["70 Tex. Crim. 561"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clark Giles v. The State."]
+source_url: "https://static.case.law/tex-crim/70/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2378925
+cites_cases: ["154 S. W. Rep., 1008", "61 Texas Crim. Rep., 498"]
+---
+
+# Giles v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+Appellant was convicted under the misdemeanor clause of our prohibition statute and his punishment fixed at the lowest.
+The indictment charges the illegal sale of intoxicating liquor by appellant to Sam Roberts on December 24, 1911. The election, putting prohibition in force in said county, is shown to have been long before our statute making the sale thereafter a felony. The evidence was clearly sufficient to justify the conviction.
+Said Roberts, to whom the illegal sale was alleged, testified positively that he went to appellant’s house in company with Lige Montgomery on or about December 24, 1911, and then and there bought a quart of whisky from appellant and paid him $1.25 therefor. Lige Montgomery testified that he went with Sam Roberts to appellant’s house at the time mentioned and heard Roberts tell appellant that he wanted some whisky and that Giles told him if he had the money he could get the whisky; that Roberts then went into appellant’s house with appellant and came out with a quart of whisky. Appellant testified that he let Roberts have the whisky; that Roberts asked him if he had any whisky and he told him no; that then Roberts asked him if he could get him a quart, and he told him he would try, and then went in the house and got the whisky from Henry Giles, who was in the house lying on the bed; that he, appellant, had no interest in' the whisky he let Roberts have, nor was he in any way interested, hut he got it as an accommodation for Roberts.
+Outside of the fact that it was agreed that prohibition was in force in Sabine County, the above is in substance the testimony in the case in full.
+The sole question in the case, is the complaint by appellant of this portion of the court’s charge: ££Uow, if you believe from the evidence beyond a reasonable doubt, that the defendant, in Sabine County, Texas, on or about the 24th day of December, 1913, and within two years next' before the filing of the indictment herein, did unlawfully sell intoxicating liquor to Sam Roberts, as charged . . . you will find him guilty,” etc.
+It will be seen by this that the court made a clerical error in his charge in the year “1913” when it should have been “1911.” As stated above, the indictment charged that the sale was made on or about December 24, 1911. All of the testimony was about the. sale on that day and on no other. The court in his charge in first stating the case, told the jury: “The offense is alleged to have been committed in Sabine County, Texas, on or about the 24th day of December, 1911.” The indictment shows to have been filed first in the District Court September 27, 1912, and in the County Court October 1, 1912. In the portion of the charge hereinabove quoted, wherein the clerical error of “1913” is made, when the date should have been “1911,” the court says: “And within two years next before the filing of the indictment herein.” The court further in his charge submitting the question properly of the agency of the appellant in making the sale told the jury that if said “sale of whisky was made at the time and place alleged,” and that defendant only acted as agent, etc., to acquit him. Again, in submitting this question the court told the jury that if on the other hand the jury believed from the evidence beyond a reasonable doubt “that a sale of whisky was made at the time and place alleged” and they should believe beyond a reasonable doubt that appellant sold the whisky as alleged, etc., to find him guilty.
+The- case was tried in the County Court on February 21, 1913. The term began on February 17th and adjourned March 7,1913. The record shows that the question of this clerical error was first raised by appellant’s motion for new trial after his conviction. There was no exception to the charge of the court when the charge was given, or during the trial. There is a bill of exception which was allowed and filed in the lower court on March 27th, twenty days after the court had adjourned. This bill is solely and simply to the court’s overruling his motion for new trial on the said ground above stated.
+Under the circumstances the question is not raised in any such way, this being a misdemeanor case, as that this court is authorized to review it. However, if we could, the facts above stated clearly show that the court in stating “1913” instead of “1911,” merely made a clerical error, which could not and did not in any way mislead the jury or affect the verdict. White v. State, 61 Texas Crim. Rep., 498; Skinner v. State, 154 S. W. Rep., 1008.
+The judgment is affirmed. Affirmed.
