@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "23898"
+decided: "1948-01-01"
+citations: ["151 Tex. Crim. 299"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Durward Belmonte Hill v. The State."]
+source_url: "https://static.case.law/tex-crim/151/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2598420
+cites_cases: ["1 Tex. App. 664", "132 S. W. 362", "142 Tex. Cr. R. 623", "143 Tex. Cr. R. 588", "156 S. W. (2d) 144", "160 S. W. (2d) 265", "17 S. W. 1080", "26 S. W. 409", "30 Tex. Cr. R. 426", "33 Tex. Cr. R. 320", "60 Tex. Cr. R. 408"]
+---
+
+# Hill v. State
+
+## Majority (HAWKINS, Presiding Judge.)
+
+HAWKINS, Presiding Judge.
+Conviction is for driving an automobile upon a public highway while appellant was intoxicated, and punishment assessed at $125.00 fine.
+The information reads as follows:
+“IN NAME AND BY AUTHORITY OF THE STATE OF TEXAS:
+“Ben Davis Geelsin, Attorney of the County of McCulloch, State of Texas, at this the November Term, A. D. 1946, of said Court, comes in behalf of the State of Texas and in connection with the complaint of Aubrey Crockett, herein filed, presents, in and to said county court that in said county and state, on or about the 22nd day of November, A. D. 1946, Durward Belmonte Hill did then and there unlawfully, while intoxicated and while under the influence of intoxicating liquor, dirve a motor vehicle, to-wit: an automobile, upon a public highway within said County, being Highway No. 183. Against the peace and dignity of the State.
+County Attorney, McCulloch Co, Texas.”
+Bill of exception number one — omitting formal parts— recites:
+“* * * After the State of Texas had announced ready, and before the defendant had made any announcement in this cause, the defendant then and there submitted to the Court in open court, his motion to quash, striefc out, set aside, and holds for naught, the information on file in this cause, for the reason same is insufficient and not presented as required by law and the Statutes. Same does not bear the signature of the County or District Attorney, or any of their deputies or Assistants, nor does it in the body of same purport to be the act of either of the above named officials, but only the act or presentment of Ben Davis Geeslin, Attorney for the County of McCulloch, and fails to show whether he is County or District Attorney, or an assistant or deputy,of either, or any other official capacity, other than an ordinary attorney or member of the bar of McCulloch County, Texas. * * *”
+The motion to quash the information was overruled, to which appellant excepted.
+Art. 414 C. C. P. sets out the requisites of an information, the third being: “That it appear to have been presented by the proper officer.” The ninth requisite is: “It must be signed by the district or county attorney, officially.”
+Art. 512 C. C. P. prescribes that exceptions to the form of an information may be for the want of any requisite prescribed by Art. 414 C. C. P., except the omission of the signature of the State’s attorney. In construing these provisions of the statute it has been held that complaint of the absence of the official signature of counsel for the State goes to the form of the information and may be cured by amendment. Holcomb v. State, 60 Tex. Cr. R. 408, 132 S. W. 362. Although the complaint here was timely presented in limine, no amendment was made, or request for permission to so amend presented. It has further been held that the omission of the official signature of the district or county attorney to the information will not invalidate it, if upon its face it purports to be presented by a proper officer. Rasberry v. State, 1 Tex. App. 664; Wilkins v. State, 33 Tex. Cr. R. 320, 26 S. W. 409; Jones v. State, 30 Tex. Cr. R. 426, 17 S. W. 1080. As bearing upon the subject, see also the recent cases of Martin v. State, 142 Tex. Cr. R. 623, 156 S. W. (2d) 144 and Sams v. State, 143 Tex. Cr. R. 588, 160 S. W. (2d) 265.
+If in the present case the information upon its face purported to have been presented by the district or county attorney its validity would not be affected by the omission of the official signature of such officer. Unfortunately, the information does not purport to be the act of either of the officers mentioned.
+We can not refrain from saying that there seems no excuse for a case coming before us in this condition. The information should have been amended when its condition was timely pointed out, or a new information filed in its stead.
+The judgment is reversed and the cause remanded.
