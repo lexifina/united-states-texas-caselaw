@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "12396"
+decided: "1929-04-03"
+citations: ["112 Tex. Crim. 222", "15 S.W.2d 1045"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis Lewis v. The State."]
+source_url: "https://static.case.law/tex-crim/112/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5170687
+---
+
+# Lewis v. State
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+— Theft from the person is the offense; punishment fixed at confinement in the penitentiary for a period of two years.
+The prosecutrix, Mary Baisey, a negro woman about fifty years old, lived in a house with her four boys ranging from fifteen to twenty-two years of age. The appellant, a negro man, sixty years •pld, in company with his two step-sons, was traveling in an automobile which broke down and was pushed in front of the home of the prosecutrix at her suggestion and with her aid. The appellant and his step-sons were given the privilege of spending the night at the home of the prosecutrix. A man by the name of White seems also to have been in and about the house. There was also evidence that there was drinking of intoxicants and that the prosecutrix became quite drunk. She claims that while she was unconscious her money was taken from her. She also claims that the appellant struck her in the side and that she went crazy. The sheriff was called and a search was made of the appellant’s automobile. The sheriff directed one of the prosecutrix’s sons to take a searchlight and look under the automobile, and the boy, after looking, reported that he found a sum of money covered with soot under the automobile in the shell of the muffler. In amount the money found did not correspond with that which the prosecutrix claimed to have lost, though it seems to have been of the same general character as the money taken from her. The opportunity for others besides the appellant to have taken the money was developed by the evidence. The prosecutrix claims to have had the money in a canvas purse tied with a string around her w'aist. The purse which was cut open was exhibited to the jury upon the trial.
+The court failed to instruct the jury on the law of circumstantial evidence. Exception was reserved and a special charge requested. The evidence appears to have been circumstantial and the facts were such as to require that the court give such a charge in response to the request and the exception. Objection to the charge was also made upon the ground that the court failed to submit an affirmative defense, namely, that not the appellant but some other person had taken the money from the prosecutrix. Such a charge, we think, should have been given.
+For the reasons stated, the judgment is reversed and the cause remanded.
+Reversed and remanded.
