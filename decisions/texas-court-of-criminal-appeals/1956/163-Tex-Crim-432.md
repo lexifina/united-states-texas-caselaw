@@ -1,0 +1,55 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,327"
+decided: "1956-06-30"
+citations: ["163 Tex. Crim. 432"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Armando Postel Gonzales v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462686
+cites_cases: ["102 Tex. Cr. R. 162", "108 Tex. Cr. R. 69", "149 Tex. Cr. R. 249", "193 S.W. 2d 196", "268 S.W. 2d 157", "277 S.W. 1099", "278 S.W. 2d 853", "282 S.W. 2d 230", "299 S. W. 245"]
+---
+
+# Gonzales v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The indictment under which appellant was prosecuted was in two counts, the first alleging that he unlawfully possessed marijuana and the second, upon which he was found guilty and assessed a term of ten years, alleges “that the said Armando Postel Gonzales, on or about the 18th day of August, A.D. 1955, in said County and State, did then and there unlawfully sell to Bobby French, marijuana.”
+The court, in his charge, instructed the jury that it is unlawful for any person in this state to sell marijuana, and upon the verdict of the jury rendered judgment finding appellant “guilty of the offense of unlawful sale of marijuana, a felony.”
+The amended motion for new trial filed by appellant and his counsel on appeal being overruled, sentence was pronounced upon the judgment of conviction “of unlawful sale of marijuana, a felony.”
+It is contended for the first time in this court that the indictment is fatally defective, there being no allegation that the substance sold was a narcotic drug.
+It is also contended that the evidence is insufficient to show “that the marijuana was that part of the marijuana plant which contained cannabis.”
+It is true that there is no statute in this state which in terms declares that the possession or sale of marijuana (marihuana) is unlawful. The same is true as to cannabis, opium, morphine, heroin and codein.
+Art. 725b, V.A.P.C., regulating narcotic drugs, makes it unlawful for any person to sell any narcotic drug. (Sec. 2a). It defines “Narcotic drugs” to mean, among other substances, cannabis and opium. (Sec. 1(14). It defines cannabis and specifically provides that the term cannabis shall include the variety of cannabis known as marihuana. (Sec. 1(13); and it defines opium as including morphine, codein and heroin. (Sec. 1(12).
+It follows that the sale of marihuana, morphine, codein or heroin is a sale of a narcotic drug, and an indictment which charges the sale of either, alleges a violation of Art. 725b V.A.P.C. wherein the sale of narcotic drugs is prohibited.
+But appellant argues that under the statutory definition of cannabis “all marijuana is not cannabis,” and that “much marijuana which grows does not contain any cannabis at all.” He reasons that under the general allegation that appellant sold marijuana, he could be convicted of an offense not defined by the statute.
+The answer to appellant’s contention lies in the construction to be given Sec. 1(13) of Art. 725b, V.A.P.C., which reads:
+“The term ‘Cannabis” as used in this Act shall include all parts of the plant Cannabis Sativa L, whether growing or not, the seeds thereof, the resin extracted from any part of such plant and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds, or resin; but shall not include the nonresinous oil obtained from such seed, nor the mature stalks of such plant, nor any product or manufacture of such stalks, except the resin extracted therefrom and any compound, manufacture, salt, derivative, mixture, or preparation of such resin. The term ‘Cannabis’ shall include those varieties of Cannabis known as Marihuana, Hashish and Hasheesh.”
+As we understand this subsection, marijuana is cannabis, but “cannabis” is not synonymous with “Cannabis Sativa L.” The latter is the plant, whereas cannabis as used in the statute includes the growing plant but does not include the mature stalk, non-resinous oil and products or manufacture (except for resin) from said stalks.
+It is not then correct to say that marijuana includes parts of the plant (Cannabis Sativa L) which is not cannabis and is not a narcotic drug. The statutory definition makes cannabis a narcotic drug. That part of the plant Cannabis Sativa L which is excepted and is not a narcotic drug under the statute, is not cannabis and is not marijuana.
+In the recent case of Torres v. State, 161 Tex. Cr. Rep. 480, 278 S.W. 2d 853, we referred to the offense as being possession of marijuana, and overruled the contention that the evidence of the chemist to the effect that the substance found in the possession of Torres was marijuana was insufficient to show that same was a narcotic drug.
+In Fletcher v. State, 162 Tex. Cr. Rep. 100, 282 S.W. 2d 230, the offense was referred to in the opinion as “unlawful possession of marihuana” and we held that a charge defining a narcotic drug as including marihuana was not fundamentally erroneous.
+In Medina v. State, 149 Tex. Cr. R. 249, 193 S.W. 2d 196, the prosecution was based upon said Art. 725b, V.A.P.C.; the offense was stated as the unlawful possession of marihuana and the indictment, as here, was in two counts and charged the unlawful possession and sale of marihuana.
+Reference to the defendant’s motion to quash the indictment in the Medina case shows that it was claimed to be deficient because it failed to charge possession and sale of a narcotic drug; failed to allege that the substance possessed and sold was not the non-resinous oil or mature stalk of the plant Cannabis Sativa L; and also failed to negative exceptions in other portions of Art. 725b V.A.P.C.
+The statute at the time the Medina case was handed down contained the identical definition of cannabis as found in the present statute, and the affirmance of the conviction upon an identical indictment, attacked by motion to quash in the trial court upon the grounds mentioned, is deemed authority for the overruling of appellant’s contention in the instant appeal.
+The evidence shows that Officer Tucker supplied money to Bobby French with which to purchase narcotics and that French acted as an undercover agent, contacted appellant, took him and a companion to where appellant said he had a stash, and purchased nine marijuana cigarettes from him for five dollars.
+Officer Tucker was hidden in the rear compartment of the car, heard the conversation and saw the transaction. He received the marijuana cigarettes from French and after both had initialed them the cigarettes were placed in the box from which they were taken for analysis by the chemist who testified that the cigarettes contained marijuana.
+We overrule the contention that the evidence shows a sale to Officer Tucker and not to French. Asher v. State, 102 Tex. Cr. R. 162, 277 S.W. 1099; Nelson v. State, 108 Tex. Cr. R. 69, 299 S. W. 245.
+There was no error in the admission of the cigarettes because they bore the initials of French and Tucker. McDonald v. State, 160 Tex. Cr. Rep. 181, 268 S.W. 2d 157.
+Officer Tucker testified that they bought narcotics from appellant’s companion. Objection was made to this testimony after it had been given and there was no motion to withdraw it or to instruct the jury to disregard it.
+We do not consider the testimony of such prejudicial character as to have required the trial judge to declare a mistrial.
+Other claims of error have been considered and are overruled.
+The evidence is deemed sufficient to sustain the conviction and we find no reversible error.
+The judgment and sentence will be reformed so as to read that the conviction is for the unlawful sale of a narcotic drug.
+As reformed, the judgment is sustained.
+
+## Rehearing (Per Curiam.)
+
+ON MOTION FOR REHEARING
+Per Curiam.
+The state has filed a motion, duly verified, asking that the appeal in this case be abated on account of the death of the appellant.
+The motion is granted and the appeal is abated.
