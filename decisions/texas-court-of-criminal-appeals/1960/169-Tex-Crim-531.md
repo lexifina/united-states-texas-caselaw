@@ -1,0 +1,42 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,622"
+decided: "1960-04-13"
+citations: ["169 Tex. Crim. 531"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Vernie W. Walker v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0531-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12147812
+cites_cases: ["126 Tex. Cr. R. 565", "159 Tex. Cr. R. 78", "261 S. W. 2d 597", "73 S. W. 2d 527"]
+---
+
+# Walker v. State
+
+## Majority (WOODLEY, Judge DICE, Judge.)
+
+WOODLEY, Judge
+The offense is driving a motor vehicle upon a public highway while intoxicated; the punishment, 45 days in jail and a fine of $300.
+Re-examination of the transcript reveals that the motion for new trial was not acted upon until more than 20 days after it was filed, and that under the holding of this court construing Art. 755 V.A.C.C.P. it was overruled by operation of law.
+The notice of appeal shown in the transcript was not given during the term at which the motion for new trial was overruled by operation of law, and the judgment of conviction became final.
+Notice of appeal given at the succeeding term was not in compliance with Art. 827 V.A.C.C.P., and is insufficient to vest jurisdiction in this Court.
+Our prior opinion affirming the conviction is withdrawn and the appeal is dismissed.
+ON APPELLANT’S motion to reinstate the appeal
+DICE, Judge.
+By supplemental transcript it is now shown that notice of appeal was given by appellant during the term at which his motion for new trial was overruled by operation of law.
+The appeal is reinstated.
+The record before us is without a statement of facts.
+Appellant predicates his appeal upon one formal bill of exception to jury argument.
+As a general rule, bills of exception to jury argument cannot be appraised in the absence of a statement of facts of the evidence adduced upon the trial. Barnes v. State, 159 Tex. Cr. R. 78, 261 S. W. 2d 597.
+Appellant recognizes such rule but insists that we should consider the bill because the argument complained of therein could not have been founded in the evidence.
+The bill of exception certifies that during his closing argument, state’s counsel made the following statement to the jury:
+“If the defendant is not guilty, he can present a motion to the court for an instructed verdict. He presented his motion for an instructed verdict of ‘not guilty’ and the court overruled his motion.”
+It is shown in the bill that in response to the appellant’s objections, the court admonished counsel that the argument was improper but overruled appellant’s motion for mistrial.
+The argument set out in the bill is not such as we would be authorized to appraise in the absence of a statement of facts.
+In Clayton v. State, 126 Tex. Cr. R. 565, 73 S. W. 2d 527 the necessity of a statement of facts in order to appraise the bill of exception is clearly recognized. In the Clayton case, in which there was a statement of facts, the court in reversing the conviction because of argument similar to that in the present case said:
+“The remarks in question might not call for a reversal in every case, but here a serious question is presented as to the sufficiency of the evidence. Under the circumstances we think the incident presents reversible error.”
+In the absence of a statement of facts of the evidence in the instant case we are unable to say that the argument complained of presents reversible error.
+The judgment is affirmed.
+Opinion approved by the Court.
