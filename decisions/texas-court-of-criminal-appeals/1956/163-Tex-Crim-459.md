@@ -1,0 +1,49 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,265"
+decided: "1956-04-25"
+citations: ["163 Tex. Crim. 459"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. A. Bailey v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460053
+cites_cases: ["266 S.W. 2d 167", "266 S.W. 2d 871", "268 S.W. 2d 139", "268 S.W. 2d 142", "274 S.W. 2d 710", "287 S.W. 2d 180", "288 S.W. 2d 71"]
+---
+
+# Bailey v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for the felony offense of driving while intoxicated ; the punishment, a fine of $500.
+The testimony of two police officers introduced by the state shows that the appellant was intoxicated while driving an automobile upon a public highway as alleged.
+Proof was offered of the prior conviction alleged and that the appellant was the same person named in said previous judgment of conviction.
+Appellant did not testify or offer any testimony in his behalf.
+We find the evidence sufficient to support the conviction.
+By Bill of Exception No. 1 appellant contends that the trial court erred in overruling his motion to quash the indictment on the ground that it did not allege that he had been previously convicted of the misdemeanor offense of driving a motor vehicle upon a public highway.
+The indictment alleges that said prior conviction was had in the county court of Wood County for the offense of driving a motor vehicle while intoxicated. This allegation was sufficient to show that the prior conviction was for a misdemeanor offense as the county court has only misdemeanor jurisdiction in criminal cases. Martinez v. State, (page 10 this volume), No. 28,055, 288 S.W. 2d 71.
+The offense for which the prior conviction was had was sufficiently alleged. It is not required to be alleged with the same certainty as the offense charged in the original complaint and information. No error is shown in overruling appellant’s motion to quash the indictment. Whiddon v. State, 160 Tex. Cr. Rep. 23, 266 S.W. 2d 167; Cotner v. State, 160 Tex. Cr. Rep. 211, 268 S.W. 2d 142; Kite v. State, 162 Tex. Cr. Rep. 488, 287 S.W. 2d 180.
+Appellant complains of the trial court permitting the state to read to the jury the complaint in the cause of the prior conviction alleged on the ground that it was an ex parte affidavit and was hearsay.
+The trial court later withdrew said complaint from the consideration of the jury and instructed them not to consider it for any purpose. The judgment of the prior conviction alleged recites that a plea of guilty was entered to the charge in said cause.
+Under the facts here presented we see no injury to appellant; therefore, no reversible error is shown.
+Appellant challenges the sufficiency of the evidence to identify him as the person convicted of the prior misdemeanor offense of driving while intoxicated as charged.
+The said prior conviction was alleged to have occurred in the county court of Wood County on December 14, 1946.
+Murray Harris testified that he served as county attorney of Wood County for six years beginning November 1, 1946, and that the appellant was the same person tried and convicted in the county court of Wood County in December, 1946, for the offense of driving while intoxicated.
+We find the evidence sufficient to warrant the jury in finding that the appellant was the same person named in said prior judgment of conviction. Martinez v. State, 160 Tex. Cr. Rep. 142, 268 S.W. 2d 139; Usener v. State, 161 Tex. Cr. Rep. 62, 274 S.W. 2d 710.
+Appellant complains of the trial court permitting Sheriff Robinson to testify that he saw appellant driving his car about 8:30 P.M. prior to his arrest about 11:30 P.M. for the offense here charged, stopped him, smelled the odor of whiskey on his breath but was then of the opinion that he was not too drunk to drive, over his objection that such testimony showed a separate and distinct offense.
+The sheriff’s testimony shows that appellant had the odor of whiskey on his breath about 8:30 P.M., that “he let him go,” and that he saw him again about 11:30 P.M., observed him, smelled a strong odor of alcohol on his breath and expressed the opinion that he was then intoxicated.
+Such complained of testimony was relevant as showing appellant’s use of intoxicating liquor and the driving of an automobile at the time in question and was therefore admissible.
+Finding no reversible error, the judgment is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (MORRISON, Presiding Judge.)
+
+ON MOTION POE REHEARING
+MORRISON, Presiding Judge.
+Appellant insists that our original opinion herein is at variance with what we said in Skaggs v. State, 160 Tex. Cr. Rep. 20, 266 S.W. 2d 871. We do not think so. In the Skaggs case, we held that an information which described the prior misdemeanor conviction as being one of “like character” to the instant offense was insufficient in that it did not allege further that such prior offense was for driving while intoxicated.
+In the instant indictment, we find the allegation that the prior offense was one of like character and that it was for “driving a motor vehicle while intoxicated.”
+In Whidden v. State, supra, cited in our original opinion but not discussed, we held that a description of a prior offense which omitted the phrase “upon a public highway” was sufficient. The Whidden case is here applicable and controlling.
+Remaining convinced that this cause was properly decided originally, appellant’s motion for rehearing is overruled.
