@@ -1,0 +1,22 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3650"
+decided: "1907-02-13"
+citations: ["51 Tex. Crim. 1"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. C. Williams v. The State."]
+source_url: "https://static.case.law/tex-crim/51/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4549768
+---
+
+# Williams v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted under information charging him with compounding crime. Several questions were urged in the motion to quash the information. .Some of these are well taken. The information was based upon the theory that one Bohannan had violated the local option law, in that, acting as a friend of Williams and others, he took from the express office some whisky that had been shipped to him C. O. D. without his (Bohannan’s) order, and that by reason of his taking it from the depot and dividing the whisky up among them, they paying for it he (Bohannan) had violated the local option law. Under our decisions, as we understand the local option law, Bohannan, would doubtless have been guilty of violating that law. It seems that Williams, Earley, and Wyatt Williams, son of appellant, and Welch, were the four men who induced Bohannan to take the whisky from the depot, and advanced Bohannan the money, but that Bohannan simply did it as an act of friendship to them, and agreed with them that they would not inform against him, appellant going so far as to say he would suffer his throat cut from ear to ear before he would inform against Bohannan. After the whisky was obtained and distributed among the parties, appellant became indignant and irritated, claiming Bohannan had demanded of them more money than the whisky cost, and demanded its return and threatened if he did not return the money that he would be prosecuted. Later on they magnified their demands and threats into sending him to the penitentiary or otherwise prosecuting him if he did not pay them a large sum of money. They began by demanding first $700, and Bohannan being unable to pay this amount, they continued their threats and demands until they finally agreed to take $200 and an agreement was reached on this basis. This is a sufficient statement of the case.
+In setting out the offense the information fails to allege that the local option laiv was in force by proper averments. Among other things, it fails to allege legal publications of the result of the election in the county. The information is further deficient in not alleging that there was an agreement entered into between Welch, the two Williams and Barley to extort or make an agreement with Bohannan to obtain the money. The only allegation in this respect is that Williams and others "acting through” Welch made these demands of Bohannan. Welch in fact did most of the talking with Bohannan. That these parties might or could act through Welch is correct, and if it was a misdemeanor in demanding the money of Bohannan, as is charged in the compounding crime, then all parties would be principals whether present or not. Under the decisions in this State, if it was a felony in obtaining the money by threatening Bohannan, either under article 754, Penal Code, or article 857, Penal Code, it would be a felony, and if this was the case, they would be accompliées. If the parties threatened to do an illegal act, or to obtain money by means set out. in article 754, supra, then their offense would be felony. Article 291, Penal Code, with reference to a compounding crime, seems to be predicated upon the idea that it is an agreement voluntary and entered into, while under the -other articles it arises from a threat carrying the idea of compulsion or extortion. The facts in this case seem to indicate that Bohannan paid the money to avoid prosecution by means of threats either to send him to the penitentiary or to prosecute him for violating the local option law if he failed to pay them. We make these latter suggestions in view of another trial, so that the allegations in the indictment may contain a sufficient number of counts to meet the various phases of the evidence. The other questions are not discussed because the indictment is deficient, and for the errors indicated, the judgment is reversed and the prosecution ordered dismissed.
+Reversed and dismissed.
