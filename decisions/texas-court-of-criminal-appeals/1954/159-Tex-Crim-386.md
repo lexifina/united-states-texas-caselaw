@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,827"
+decided: "1954-02-10"
+citations: ["159 Tex. Crim. 386"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ruby Carroll v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0386-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2474378
+cites_cases: ["100 Tex. Cr. R. 563", "142 Tex. Cr. R. 40", "145 Tex. Cr. R. 39", "151 S.W. (2d) 208", "165 S.W. (2d) 718", "272 S.W. 153"]
+---
+
+# Carroll v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+Appellant was charged with a violation of the liquor law in Cottle County and was by the jury assessed a fine of $500.00, and ' she appeals therefrom.
+It is evident from the bills of exception found herein that appellant had no attorney on the trial of this cause; that she questioned no witnesses but merely pleaded not guilty; that she took no further part in the proceedings except to give “outbursts in the court room during the trial.”
+There is no statement of facts in the record and we are therefore left in doubt as to what facts were adduced.
+After her conviction appellant employed an attorney who has filed a brief herein and submits therein what he calls fundamental error. He alleges in said brief that the charge of the court was prepared and immediately read to the jury by the court and was not submitted to the appellant prior to the time it was thus read to the jury. He relies on Article 658, C.C.P., and quotes the following excerpt therefrom:
+“Before said charge is read to the jury, the defendant or his counsel shall have a reasonable time to examine the same,” etc.
+Under the facts herein shown, as found in his Bill of Exception No. 1, he cites the case of Jimenez v. State, 100 Tex. Cr. R. 563, 272 S.W. 153. In that case it is evident therefrom that the accused asked to see the court’s charge through his attorney and was not permitted to do so by the action of the court. However, in the present case, no request was made, as shown in the record, relative to allowing appellant to examine the charge. In line with the court’s statement relative thereto, she failed to take any part in the trial except to engage in outbursts, and we think it would have been useless under the circumstances for her to have attempted to offer objections to the court’s charge, nor did she request such charge at any time. We think that under Article 11, Vernon’s C.C.P., she could waive that right and did so by her failure to make a request-to have same submitted to her before being read to the jury.
+The second point raised by her herein is the claim of alleged fundamental error on the ground that the jury was materially misinformed concerning the basic law of this state relative to the sale of intoxicating liquor. It is shown from the transcript herein that at one point in the charge the court did not fully set forth the law relative to the sale of intoxicating liquor in a dry area, that being the charge found in the complaint and information, but in the application of the law to the facts the court correctly instructed the jury as to the sale of intoxicating liquor in Cottle County, Texas. On account of the condition of this record, there being no statement of facts present, of course, we cannot tell what the proof was relative to the dry status of Cottle County.
+The third point raised by the appellant relates to claimed misconduct of the jury in that there was a reference to the appellant’s failure to testify during their deliberations in violation of Article 710, C.C.P. It was shown by the affidavit of the county attorney of Cottle County, and appended thereto we find the affidavits of two of the jurors who sat in the case, in which county attorney’s affidavit the statement is found by such jurors that after they had tried the case and when the jury had retired into the room adjoining the court room, they entered upon their deliberations; that they selected their foreman, who conducted a ballot on the innocence or guilt of the appellant; that they unanimously voted that she was guilty as charged in the information; that immediately thereafter the question of sentence was discussed and all the jurors agreed that the punishment should be set at a fine of $500.00; that immediately thereafter the foreman of the jury filled in the verdict that was attached to the charge and signed his name thereto; that nothing was considered in the deliberation of the jury except the evidence offered at the time of the trial and the charge as given by the court; that thereafter a statement was made by some juror that the defendant did not testify at the time of the trial, but that this failure by the defendant was not discussed and that such statement was not made until after the verdict had been reached, the punishment assessed and the verdict signed by the foreman of the jury, and that the verdict after once being reached was never changed.
+Under the record as presented before us, we have no statement of facts as to what was heard on the motion for a new trial relative to the misconduct of the jury. We do find in the record that a subpoena was issued for the jurors to appear, but there is nothing to show what they said except the statement offered by the county attorney in his motion relative to their misconduct. Under these circumstances, we can see no misconduct upon their part.
+It is further suggested that the judgment is defective because of the failure to find the appellant guilty as found by the jury and charged in the information. The judgment being a sentence as well as in a misdemeanor case, the same is amended by adding the following paragraph: The appellant, “Ruby Carroll, is therefore adjudged to be guilty as charged in the information and her punishment assessed at a fine of $500.00 as found by the jury,” such phrase to be entered immediately after the verdict of the jury as set forth in the judgment found in the record herein. See Kuhn v. State, 142 Tex. Cr. R. 40, 151 S.W. (2d) 208; Ex parte Brown, 145 Tex. Cr. R. 39, 165 S.W. (2d) 718.
+As thus reformed, the judgment herein is affirmed.
