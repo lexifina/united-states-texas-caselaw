@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2095"
+decided: "1912-12-04"
+citations: ["68 Tex. Crim. 575"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Oscar McCrary v. State."]
+source_url: "https://static.case.law/tex-crim/68/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4649132
+---
+
+# McCrary v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+— The appellant was convicted for carrying a pistol and fined $100, — the lowest penalty.
+The evidence by the State is clearly sufficient to sustain the conviction. That by the defendant, if believed, would have justified an acquittal. The jury must have believed the State’s evidence and disbelieved appellant’s. We cannot disturb the verdict.
+By one bill of exceptions it is stated that one of the State’s witnesses, Jim Rushing, testified that when appellant was in his store in the afternoon of July 11, 1911, at which time he saw in the inside coat pocket of appellant, what he took to be the handle of a pistol, he said to him, “You had better behave yourself or you will get into trouble.” Appellant testified and denied making any such statement. Appellant’s objection to this was that it was immaterial, irrelevant and calculated to prejudice the jury against him. The objection further is that he was not then being prosecuted for misbehaving himself, or disturbing the peace, but had plead guilty to that offense it seems on the same occasion and had paid his fine therefor. The court qualified this bill by stating that appellant had testified denying making such statement and that this statement by Rushing was made to him at the time he saw what he took to be a pistol in appellant’s pocket and was admitted as a part of the res gestae: that appellant had plead guilty to disturbing the peace there on that same day; that IMs testimony could not have in any way injured appellant’s" rights, especially as the jury gave him the minimum penalty. The bill is so meagre in stating the status of the ease as not to specifically show that there was any error in the admission of this testimony, his objections thereto were very general. It seems the evidence was admitted to impeach appellant’s testimony. This bill shows no reversible error.
+By another bill appellant objects to that part of the court’s charge wherein he uses this language: “Now, if you believe from the evidence, beyond a reasonable doubt, that the defendant did, in Smith County, Texas, on or about the 11th day of July, 1911, unlawfully have on or about his person a pistol, as charged, you will find him guilty, etc.” The objection to this charge is the use of the word have, underscored above. This objection is hypercritical. The complaint and information charged that on said date appellant did then and there unlawfully carry on or about his person a pistol, and the' proof by the State is that he did so carry pistol. The court, in his charge, properly stated the law that if any person shall unlawfully carry on or about his person a pistol, etc. Taking the charge as a whole, no possible injury could have occurred to the appellant by the use of the word “have” instead of “carry” under the circumstances.
+The judgment is affirmed.
+Affirmed.
