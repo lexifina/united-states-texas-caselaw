@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,983"
+decided: "1959-10-28"
+citations: ["168 Tex. Crim. 557"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Barry Everett Epperson v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0557-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2623619
+cites_cases: ["158 S.W. 543", "40 Texas Cr. Rep. 48", "48 S.W. 169", "49 Texas Cr. Rep. 361", "71 Texas Cr. Rep. 36", "91 S.W. 225"]
+---
+
+# Epperson v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is false swearing; the punishment, four years. Two prior felony convictions were alleged for enhancement, but the court submitted only the first count of the indictment charging the primary offense.
+Bess Burns testified that she was a notary public and that on the day charged in the indictment the appellant swore to a statement in writing to the effect that he had had only one compensation claim in his life and had collected money from an insurance company only on one occasion, in October, 1957, when he received $200.00 in cash and the sum of $34.00 a week for ten weeks in settlement of a claim.
+Murray Reid testified that, in his capacity of claims manager for the Hartford Accident & Indemnity Company, he came in contact with the appellant who claimed that he had been injured in an elevator at a department store in Corpus Christi and who had made demand upon said store for compensation for such injuries; that he prepared the statement which forms the basis for this prosecution in the appellant’s presence from answers given him by appellant; that the appellant looked at the statement for two or three minutes and then swore to the same before Bess Burns and signed it.
+W. C. McConnell testified that during the year of 1956 he had been employed as claims manager for the Texas Employers Insurance Association (hereinafter referred to as TEIA) at Odessa, that the appellant had a claim and secured a judgment against his association in the sum of $2,000.00 in the district court of Winkler County in October of that year, and that this judgment had been satisfied by the issuance of a draft in said sum payable to the appellant and his attorney. A duly authenticated copy of said judgment was introduced in evidence as well as a photostatic copy of the draft which bore the endorsement of Barry E. Epperson and his attorney John J. Watts.
+The evidence concerning the prior convictions will not be discussed because they were not submitted to the jury.
+The appellant did not testify or call any witnesses in his own behalf.
+We shall discuss the two questions raised by the appellant on appeal. He first contends that there is a variance between the indictment and the proof in that the statement “This is the only time (referring to the 1957 transaction) that I ever collected money from an insurance company” was not proven to be false by proof that he had received money from the TEIA because the TEIA is not a company but an association. McConnell testified, without objection, that the TEIA was an insurance company and there was no further testimony on the question. Article 8308, V.A.R.C.S., Sec. 1, describes the TEIA as a “body corporate,” and we overrule the appellant’s contention in this respect.
+If we understand appellant’s next contention, it is that the indictment against him was “amended” when only the primary offense was submitted to the jury. The submission of only one of several counts would not constitute an amendment or alteration of the indictment.
+Finding the evidence sufficient to sustain the conviction and no reversible error appearing, the judgment is affirmed.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+(dissenting).
+The alleged false statement consisted of several different facts: (a) that the accused had only one compensation claim in his lifetime on which he received compensation; (b) that he collected money on such claim at settlement; and (c) that such was the only time he ever collected money from an insurance company.
+Having so alleged, proof was required that the false statement was false in solido. Adams v. State, 49 Texas Cr. Rep. 361, 91 S.W. 225.
+The state being required to prove the falsity of the statement, in solido, it became necessary that the indictment allege that the statement was false in solido.
+The indictment alleged that the statement was false in that “in fact and in truth,” in 1956, appellant had collected money from an insurance company.
+Though it could have been true that appellant had so collected money from an insurance company, yet such by no means showed the falsity of the statement relied upon, because there is no allegation that the money collected from the insurance company was by reason of and for a compensation, claim and paid in settlement thereof.
+Without such allegation, the falsity of the statement is not charged.
+Everything the state charged in the indictment as being true could be so, and would not be false under the allegation of truth.
+The indictment does not charge, therefore, the offense of false swearing, because there is no allegation showing the falsity of the statement charged to have been falsely made. See: Knight v. State, 71 Texas Cr. Rep. 36, 158 S.W. 543; Brown v. State, 40 Texas Cr. Rep. 48, 48 S.W. 169.
+This conviction should be reversed and the prosecution ordered dismissed because of a fatally defective indictment.
