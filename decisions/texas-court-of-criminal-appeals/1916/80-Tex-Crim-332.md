@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "4295"
+decided: "1916-11-29"
+citations: ["80 Tex. Crim. 332"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["G. R. Page v. The State."]
+source_url: "https://static.case.law/tex-crim/80/cases/0332-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4726285
+---
+
+# Page v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This conviction was for burglary, the minimum punishment being assessed.
+The case is one of circumstantial evidence, but sufficiently strong to warrant a conviction.
+Newly discovered testimony was made a ground of the motion for new trial. The statement of facts found in the record in regard to the matter purports to have been evidence taken in a subsequent case growing out of a series of burglaries of which the instant case is one. Two witnesses, it seems, testified in the other case involving some of the features of this case. Their testimony is made a part of the motion for a new trial but is not approved by the judge as being correct, though certified by the official stenographer to be as taken in the other trial. Whether this was submitted to the court as a part of the motion for new trial is not shown. The bill of exceptions with reference to this matter was filed nearly a month subsequent to the termination of the court, and, therefore, can not be considered. But even if the testimony was considered, we are of opinion that it is not of sufficient importance to require a reversal of the judgment; and further, defendant must have known of the leading features of the supposed newly discovered testimony. This testimony was intended to show that on a certain day, in the town of Abilene, at a certain point where parties were selling things on the street, or engaged in that character of peddling, the defendant bought some meat from somebody who came where they were in a wagon. If appellant bought meat under the circumstances detailed, he must have known some of the witnesses around where the transaction occurred. It required diligence in seeking these witnesses and their testimony. I seems to have been a place where parties were engaged at stands peddling things, and where people came and bought things. The appellant testified and introduced other testimony to the effect that some of the meat"found in his possession was bought on different days prior to the time of the burglary. Among other things, appellant testified he bought some of the stolen goods, harness, at the residence of Thornton from a peddler. Thornton is the man who was assisting him in disposing of the stolen harness in Anson, Jones County. The burglary occurred in Taylor County. This was shortly after the alleged burglary. He says that he bought the harness and perhaps some of the other things, from a man at Thornton’s residence on Thursday. The burglary, it seems, was committed on Tuesday, February 29tli. Appellant claims to have bought these things at Thornton’s residence from a stranger. The State in rebuttal proved that the owner of some of the harness recovered it on Thursday at about 4 o’clock in the evening, and the sheriff shows he traced much or all of the stolen property to appellant and Thornton. Just a few of these facts are mentioned to show that this could not be newly discovered testimony, and its probable want of truth. If appellant knew these facts and circumstances any sort of diligence could have produced some of the witnesses who knew the facts; that is, those who were at the peddling stands. There was no effort made on his part to discover these things or secure the evidence.
+As the record presents the case to this court it should be affirmed, and it is accordingly so ordered.
+Affirmed
+HARPER, Judge, absent.
