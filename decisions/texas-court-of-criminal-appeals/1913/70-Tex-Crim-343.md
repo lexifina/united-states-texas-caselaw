@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2426"
+decided: "1913-05-07"
+citations: ["70 Tex. Crim. 343"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Steve Jones v. The State."]
+source_url: "https://static.case.law/tex-crim/70/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2379802
+cites_cases: ["129 S. W. Rep., 1111", "143 S. W. Rep., 156", "150 S. W. Rep., 1184", "46 Texas Crim. Rep., 5", "60 Texas Crim. Rep., 25", "64 Texas Crim. Rep., 660"]
+---
+
+# Jones v. State
+
+## Majority (HARPER, Judge. DAVIDSON, Presiding Judge.)
+
+HARPER, Judge.
+In this case appellant was prosecuted and convicted of violating the local option law, and his punishment assessed at a fine of $25 and sixty days imprisonment in the county jail.
+The court did not err in overruling the motion to quash the indictment, as the indictment did allege the date on which the local option election was held, towit: on June 6, 1903, and that thereafter on August 17, 1912, appellant made a sale of intoxicating liquors. The date of the election conclusively shows that the County Court had jurisdiction of the offense.
+There are many questions presented in the record, but as the case must be reversed we do not deem it necessary to discuss each of them. Appellant, as stated, was charged with selling intoxicating liquor in prohibition territory. Appellant did not deny that he sold to the prosecuting witness, Claud Wellborn, the liquor,—the only contention he made was that the liquor was not an intoxicating liquor. It is true that Mr. Wellborn said the liquor he bought was beer, and would produce intoxication, and it might be said that evidence offered in behalf of the State would amply support a finding by a jury that the liquor sold was intoxicating, if that issue had been properly submitted to them. In Moreno v. State, 64 Texas Crim. Rep., 660, 143 S. W. Rep., 156, we held that in a case where it was proven that “beer” was sold, and there was no issue in the evidence raising the question that the liquor sold was or was not an intoxicant, this court would take judicial knowledge that liquor sold in this State denominated beer was an intoxicating liquor, and we adhere to the rule announced in that decision. In this case, however, the defendant introduced Blair, Housman, Smith and others who testified that they had drunk beer as sold and kept in the saloons of this State, and had also drunk the liquor sold by appellant; that there was a difference between the two, and while the beer sold in saloons would produce intoxication, that the liquor sold by appellant labeled “Southern Select” would not produce intoxication. Thus it is seen that the issue was squarely raised in this case, and while the court in a way submitted that issue to the jury, yet in the charge he placed the burden on the defendant to prove that it would not intoxicate. The court instructed the jury to convict appellant “Unless you further find by the evidence in this case that the defendant has shown to your satisfaction that such beer so sold to Claud Wellborn, if it was sold, was a non-intoxicating beverage, when drunk in reasonable quantities.”
+In this State the law is that a person charged with crime is entitled to the benefit of a reasonable doubt on every issue of fact which goes to show that he is guilty of the crime charged against him, and the really only contested issue of fact in this case was whether or not the liquor was an intoxicating liquor, and the court should have instructed the jury that unless they found that the liquor was intoxicating, or if they had a reasonable doubt of that fact, they should acquit him. Appellant requested a special charge presenting this issue, and the court erred in his main charge in the above respect, and in failing to give special charge Ho. 4.
+It is further made to appear that Attorney Sproles, in presenting the State’s theory of the case, said: “You just as well expect Steve Jones (appellant) to go upon the witness" stand and testify that he sold intoxicating beer, as to expect Spencer to do so.” Appellant did not testify on the trial of the case. Mr. Spencer was a witness in his behalf, and had testified that the liquor sold would riot intoxicate, and it was improper for the attorney representing the State to make this indirect-reference to the failure of defendant to testify.
+It may further be said that the court’s definition of intoxicating liquor was improper under the facts in this case. Any and all fermented liquors are not an intoxicating liquor, and while in some cases it might not be error to so instruct the jury, yet in this case it was improper to instruct the jury as a matter of law that beer is a fermented liquor, and all fermented liquors are, within the meaning of the local option law, intoxicating. As stated before, the only contested issue in the case was whether or not the liquor sold by appellant would produce intoxication, and this issue should have been left to the jury for their determination.
+The other matters presented, we think, present no error under the record before us, but because of the matters above pointed out the judgment is reversed and the cause is remanded.
+Reversed and remanded.
+DAVIDSON, Presiding Judge.
+I concur in the reversal, but I do not believe the Moreno case correct. My dissent in that case sufficiently express my views.
