@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "8680"
+decided: "1924-04-30"
+citations: ["97 Tex. Crim. 387", "261 S.W. 1027"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte L. G. Hanks."]
+source_url: "https://static.case.law/tex-crim/97/cases/0387-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5075315
+cites_cases: ["11 Tex. App. 167", "12 Tex. App. 318", "18 Tex. App. 227", "197 S. W. 873", "2 Tex. App. 560", "20 S. W. 1103", "20 S. W. 983", "21 S. W. 925", "21 S. W., 925", "227 S. W. 187", "23 Tex. App. 100", "251 S. W. 233", "251 S. W. 235", "251 S. W. Rep., 233", "251 S. W. Rep., 235", "30 S. W. 233", "30 S. W., 233", "31 Tex. Cr. R. 422", "31 Tex. Cr. R. 609", "31 Texas Crim. Rep., 422", "31 Texas Crim. Rep., 609", "32 Tex. Cr. R. 319", "32 Texas Crim. Rep., 319", "34 Tex. Cr. R. 190", "34 Texas Crim. Rep., 190", "37 Am. St. Rep. 836", "5 S. W. 99", "5 Tex. App. 103", "81 Tex. Cr. R. 618", "81 Texas Crim. Rep., 618", "88 Tex. Cr. R. 435", "88 Texas Crim. Rep., 435", "94 Tex. Cr. R. 313", "94 Tex. Cr. R. 326", "94 Texas Crim. Rep., 313", "94 Texas Crim. Rep., 326"]
+---
+
+# Ex parte Hanks
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+Relator, charged by indictment with the offense of murder, appeals from an order of the district judge denying bail.
+Without rehearing the evidence, these are the undisputed facts: Bud Dixon, L. V. Nobles and the relator were traveling in an automobile. Dixon and Nobles, negroes, were riding in the front seat and' relator in the-rear seat. The curtains of the car were up. Between the front and hear seats was a jug of whisky. Vaught, the sheriff, and John Martin, his deputy, stationed their automobile upon a bridge on the road in such a manner as to prevent the car driven by Dixon from passing. The sheriff was acting upon information that an automobile containing whisky would pass. Upon the approach of the car in which the relator and the negroes were riding, it was stopped and its occupants ordered by the sheriff to throw up their hands, he at the time giving notice of the fact that he was the sheriff. The negroes threw up their hands. Martin walked around to the left-hand side of the car and opened the curtains whereupon the shooting began. A number of shots were fired by Martin, by the sheriff and by the relator. Martin and Dixon were killed, and the sheriff and the relator were each wounded.
+The main disputed issue relates to who began the shooting. The testimony of the sheriff is definite that before the officers fired, three shots were fired from the rear of the car, which was occupied by the relator. After these shots were fired, both the sheriff and Martin fired. Marks upon the car showed the effects of a number of shots, some of which were from the inside and others from the outside. Relator claims he was a passenger in the car which belonged to Dixon, and that he had no knowledge of the contents of the jug which contained the whisky. He also claims that the first shot was. fired by Martin; that he jerked the curtain open and fired three shots in rapid succession. The testimony of the relator to the effect that before he picked up his pistol three shots had been fired by Martin and the sheriff may have been regarded by the learned trial judge who passed on the facts as not compatible with the admitted conduct of relator and the physical facts developed upon the trial. The truth of this averment considering the proximity of Martin and the relator, and the fact that, according to the relator, he was within the glare of the sheriff’s flashlight, was doubtless regarded improbable, to say nothing of the fact that it was in conflict with the direct testimony of the sheriff.
+On appeal from an order denying bail, the decision of the trial court upon the facts, while not conclusive, is accorded great weight. Ex parte Moore, 5 Texas Crim. App., 103; Ex parte Beacom, 12 Texas Crim. App., 318; Ex parte Matlock, 18 Texas Crim. App., 227; Ex parte Sparks, 81 Texas Crim. Rep., 618; Ex parte Lebo, 88 Texas Crim. Rep., 435. The mere fact that there is in evidence mitigating facts coming from the testimony of the accused will not in every case suffice to overturn the decision of the trial judge denying bail. Ex parte Smith, 23 Texas Crim. App., 100; Ex parte Jones, 31 Texas Crim. Rep., 422; Ex parte Good, 94 Texas Crim. Rep., 326, 251 S. W. Rep., 233; Ex parte Ross, 94 Texas Crim. Rep., 313, 251 S. W. Rep., 235.
+There are circumstances leading to the conclusion that the relator was engaged in the commission of a felony, namely, the illegal transportation of intoxicating liquor. The size of the jug of whisky and its proximity to the relator and his admitted knowledge of its presence, are circumstances consistent with the finding1 of the court which implies that the relator was engaged in the commission of a felony, and armed himself preparatory to resisting an arrest; that with the admitted knowledge that before any shots were fired, the sheriff said, “This is Vaught, the sheriff of Nacogdoches County,” he carried into effect his design to resist the officers by shooting at them.
+The evidence has been fully examined, though its rehearsal in detail is not deemed desirable, and the conclusion has been reached that upon the evidence adduced this court would not be warranted in reversing the judgment of the trial court.
+There are complaints in.the record of the receipt of certain evidence. These have not been given consideration. The rule in habeas corpus cases is that the judgment of the trial court is to be reviewed in the light, of the facts and not upon incidental questions of practice arising upon the trial. Ex parte Rothschild, 2 Texas Crim. App., 560; Ex parte Boland, 11 Texas Crim. App., 167.
+The judgment is affirmed.
+Affirmed.
+
+## Rehearing (HAWKINS, Judge.)
+
+ON REHEARING.
+May 21, 1924.
+HAWKINS, Judge.
+Relator insists that the Act of the Thirty-eighth Legislature, "1st and 2d Called Sessions-, 53, authorizing the seizure of any vehicle used for the unlawful transportation of intoxicating liquor in the presence or view of any peace officer without a warrant is unconstitutional and violative of section nine of the Bill of Rights, and seems to assume that our original opinion is based upon a presumptive holding that the law in question is not subject to such criticism. In determining the question now before us, — whether relator should be granted bail, — we do not find it necessary to pass upon the validity of the statute in question. Article 259, C. C. P. authorizes a peace officer to arrest without warrant when a felony is committed in his presence or within his view. The evidence indicates (■hat a felony, to-wit, the unlawful transportations of whisky, was being committed at the very time the arrest was attempted. It further appears that relator was armed. If he was unlawfully transporting whisky he knew it. If he had armed himself and deliberately planned to kill any officer who might attempt to apprehend him, although the anticipated arrest might be illegal, what would be his status? In Miller v. State, 32 Texas Crim. Rep., 319, 20 S. W. 1103, Judge Hart answers the question—
+“A is expecting an attempt will be made to arrest him illegally. He deliberately prepares his arms for immediate use, calmly and deliberately determines to kill the person who attempts the arrest. B appears with intention of making the arrest. A immediately shoots and kills B. A would be guilty of murder upon express malice, though the intended arrest was illegal. To hold A guilty of murder upon express malice would not only be law, but common sense and justice.”
+The foregoing statement was approved by Judge Davidson in Miller v. State, 31 Texas Crim. Rep., 609, 21 S. W., 925. Also, see English v. State, 34 Texas Crim. Rep., 190, 30 S. W., 233.
+We deem it unnecessary to make any more extended statement of the facts than appears in the former opinion. The motion for rehearing has been carefully considered, but our opinion heretofore expressed upon the question of bail we think is correct.
+The motion is overruled.
+Overruled.
