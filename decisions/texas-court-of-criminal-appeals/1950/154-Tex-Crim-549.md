@@ -1,0 +1,48 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "24424"
+decided: "1950-01-18"
+citations: ["154 Tex. Crim. 549", "229 S.W.2d 361"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. R. Neill v. State."]
+source_url: "https://static.case.law/tex-crim/154/cases/0549-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2585201
+cites_cases: ["114 S. W. 2d 889", "114 S.W.2d 889", "134 Tex.Cr.R. 208", "142 Tex. Cr. R. 599", "142 Tex. Cr. R. 602", "142 Tex. Cr.R. 599", "142 Tex.Cr.R. 602", "155 S. W. 2d 801", "155 S. W. 2d 930", "155 S.W. 2d 801", "155 S.W.2d 930"]
+---
+
+# Neill v. State
+
+## Majority (BEAUCHAMP, Judge.)
+
+ON STATE’S MOTION FOR REHEARING.
+BEAUCHAMP, Judge.
+The original opinion in this cause is withdrawn and the following substituted in lieu thereof.
+Appellant was convicted in the county court on a charge that he sold to W. A. Welch meat from the carcass of a horse as food for human consumption. The fine was $150.
+Subsequent to the trial of the case, and prior to the date of the original opinion herein, the legislature enacted House Bill No. 17, Chapter 45, Acts of the Regular Session, 51st Legislature, which amended Chapter 339, Acts of the Regular Session of the 49th Legislature (1945), under which the prosecution was brought. It was the view of the court, on original submission, that the subsequent act so nullified the article under which the prosecution was had that the prosecution could not stand.
+The state filed a motion for rehearing, and, with it, a very exhaustive brief on the subject. The question is not without its difficulties, but we have concluded that we were in error in the original opinion.
+Under the general provisions of our Penal Code, Article 14 reads as follows: “The repeal of a law where the repealing statute substitutes no other penalty will exempt from punishment all persons who may have violated such repealed law, unless it be otherwise declared, im the repealing statute.”
+As we viewed the legislation originally the language in the repealing statute was insufficient to “otherwise declare.” We now call attention to Articles 15 and 16, reading as follows:
+Art. 15: “When by the provisions of a repealing statute &■ new penalty is substituted for an offense punishable under the law repealed, such repealing statute shall not exempt from punishment a person who has offended against the repealing (repealed) law while it was in force, but in such case the rule prescribed in Article 13 shall govern.”
+Art. 16: “If an offense be defined by one law and by a subsequent law the definition of the offense is changed, no such change shall take effect as to the offenses already committed; but one accused of violating the first law shall be tried under that law.”
+The provision found in the Acts of the 51st Legislature, Chapter 45, relied upon by appellant is as follows: “Section 18 of Acts of the Forty-ninth Legislature, 1945, Page 554, Chapter 339, where in conflict herewith, is hereby expressly repealed to the extent of such conflict only.” (Sec. 7, p. 79.)
+While this act does not in an affirmative way provide for the continued prosecution under the amended article, we think it does so in a negative sense just as effectively and when construed with the general provisions of our statute, above quoted, which are not in any way affected by the Acts of the 51st Legislature, we must reach the conclusion that the prosecution in the instant case was in no sense affected. See Ash v. State, 114 S. W. 2d 889, with authorities therein discussed.
+It appears to the writer that the exact questions herein raised were discussed in Davis v. State, 142 Tex. Cr. R. 602, 155 S. W. 2d 801. The appellant there was convicted on a charge of driving on a public highway while intoxicated. Subsequent to his trial and conviction, and prior to the decision on his appeal to this court, Article 802 Vernon’s Ann. P. C. was amended and, by this amendment, the offense was re-defined and a different penalty affixed. We held that the effect of the Act of the 47th Legislature, amending Article 802 P. C., did not relieve the appellant from prosecution under the amended article. A number of authorities are discussed, all of which seem to be consistent and sustain the state’s contention in the instant case.
+It is said in Bedwell v. State, 142 Tex. Cr. R. 599, 155 S. W. 2d 930; that the amendment discussed in the Davis’case was an “amendment” and did not have the effect of repealing the former act, even though it defined the offense anew and prescribed a different penalty, and that Article 13 of the Penal Code authorizing prosecution under the pre-existing law controls. We think the reasoning is just as effective in the case now before us.
+The brief filed by appellant in this case asks for reversal on three grounds: The insufficiency of the indictment; the invalidity of the statute, which is based on the ground that “no limits have been set up by the State Board of Health for the use of oxides of sulphur as delegated by Statute.”; and the insufficiency of the evidence to sustain the conviction. We will discuss the bills of exception independent of the propositions in the brief.
+Bills of Exception Nos. 1, 2, and 5 attack the indictment on" the ground that it was not alleged that the defendant “knowingly and willfully” sold to W. A. Welch meat from the carcass of a horse. The statute did not provide that it must be “knowingly” sold. The language, Art. 719-d, Sec. 18, Vernon’s Ann. P. C., is as follows: “It shall be unlawful to sell for food for human consumption meat from the carcass of horses, dogs, mules, donkeys, cats, or other animals not normally used for human food.”
+Bill of Exceptions No. 3 complains of the failure of the court to submit a charge on circumstantial evidence. Bill No. 4 is on the same subject and contains a special requested charge, which is required to raise the issue in misdemeanor cases. It may be pointed out that there are circumstances relied upon, but there is also direct evidence of the sale. As a consequence of which a charge on circumstantial evidence would not be required. Such is the consistent holding of this court.
+Bill of Exceptions No. 6 brings forward appellant’s motion for a new trial which, in the main, consists of the complaints set forth in the preceding bills of exception.
+We have given careful consideration to all of the questions raised and are of the opinion that no reversible error is shown. The judgment of the trial court is affirmed.
+
+## Rehearing (BEAUCHAMP, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING.
+BEAUCHAMP, Judge.
+We adhere to our holding on all the questions discussed in-the foregoing substituted opinion. It is not surprising, however, that among the various complications arising in this case the attorneys for appellant, for the state, and the members of this court themselves have overlooked a question which should have been considered. This question was not noticed by the attorneys for the state and was entirely overlooked by the members of the court.
+In his motion for rehearing now before us, appellant calls attention to the charge against him alleging that he sold horse meat “to W. A. Welch for food for human consumption”. There is no allegation in the indictment that he exposed horse meat for sale for human consumption. Consequently he was not charged with that offense. He was adjudged to be guilty of the offense of the “sale of horse meat for human consumption”. To support this the evidence must show a sale for the purpose expressed in the indictment. It is not sufficient to prove that he exposed horse meat for sale contrary to law.
+Adverting to the statement of facts upon that point, it is shown that Mr. Welch was a food and drug inspector for the State of Texas, and was so known to appellant. Welch had been in appellant’s place of business many times, and purchased the ground meat which is the subject of this prosecution directly from appellant. The meat was placed in a sample jar in the presence of appellant and sealed by Welch, in the presence of appellant. The sample was purchased for the purpose of determining whether or not it complied with the Texas food and drug law. During the course of the negotiations for the sample appellant asked Mr. Welch if they were still looking for horse meat, to which Mr. Welch replied, “You never can tell.” Welch, testifying for the state, said that he bought the sample to be analyzed and knew that he did not intend to eat it, and testified that he told appellant that he was buying the sample to be sent to the “State Laboratory to be analyzed; that he was buying it for laboratory purposes.” Mr. Gentry, a state witness, was with Mr. Welch at the time he purchased the sample. He also testified that Mr. Welch told appellant that he wanted to buy half a pound of ground meat for laboratory analysis.
+With the evidence in the shape' indicated, as shown from the testimony of Welch and Gentry, the allegation in the indictment that meat was sold to Welch for the purpose of human consumption is not sustained. Although the question was not discussed in appellant’s brief, it was properly raised as shown in the transcript. We have a case in which the state alleged one offense and by its own direct testimony disproved the allegation and relied on the evidence for a conviction of an offense not alleged.
+Because of the variance between the allegation and the proof, the appellant’s motion for rehearing is granted and the judgment of the trial court is reversed and the cause is remanded.
