@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,459"
+decided: "1955-03-30"
+citations: ["161 Tex. Crim. 494"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ramon Martinez v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468387
+cites_cases: ["121 Texas Cr. Rep. 493", "125 S.W. 2d 603", "126 Texas Cr. Rep. 10", "136 Texas Cr. Rep. 445", "158 Texas Cr. Rep. 337", "255 S.W. 2d 870", "51 S.W. 2d 316", "70 S.W. 2d 163"]
+---
+
+# Martinez v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Under an indictment charging that he made an assault upon, ravished and had carnal knowledge of the named female under 18 years of age, who was not his wife, appellant was convicted of attempt to rape and was assessed a 10-year term in the penitentiary.
+The state’s testimony showed that appellant had carnal knowledge of the eleven-year-old child, with her consent. Appellant, as a witness in his own behalf, testified that he fondled the girl and intended to have intercourse with her, but ejaculated and did not penetrate nor touch her with his male organ. It was his testimony that he inserted his finger in her vagina after he had ejaculated because he “thought she wanted it”; thus accounting for the vaginal tear which the doctor found.
+At the instance and request of appellant, the trial court included in his instructions to the jury a charge authorizing a conviction for attempt to rape, in the event the jury found that appellant attempted to have carnal knowledge of the child under 18 years of age not his wife, and further found that said attempt “fell short of an actual rape” as that term had been defined in the charge.
+In his motion for new trial, and on appeal, appellant takes the position that the evidence was sufficient to sustain a conviction for an assault with intent to rape, but will not support a conviction for attempt to rape. We add that the evidence was sufficient to support a conviction for rape.
+Groce v. State, 126 Texas Cr. Rep. 10, 70 S.W. 2d 163, supports the state’s position that the evidence is sufficient to sustain the conviction for attempt to rape. In that case the prosecurix was under 18 years of age. Her testimony showed and Groce, as a witness in his own behalf, testified that he fondled the prosecutrix and tried to have intercourse with her, with her consent, but did not accomplish his desires. The conviction for attempt to rape was upheld against the contention that the offense proved was an assault with intent to rape.
+Also, Art. 753 C.C.P. provides that new trials in felony-cases shall be granted for the causes therein set out and for no other. Sec. 9 provides that a new trial shall be granted where the verdict is contrary to the law and evidence and further provides :
+“A verdict is not contrary to the law and evidence, within the meaning of this provision, where the defendant is found guilty of an offense of inferior grade to, but of the same nature as, the offense proved.”
+We have held that one indicted for rape, and shown by the evidence to be guilty of that offense, may not complain that he was acquitted of rape and convicted of the lesser included offense of assault with intent to rape (Tackett v. State, 136 Texas Cr. Rep. 445, 125 S.W. 2d 603; Carr v. State, 158 Texas Cr. Rep. 337, 255 S.W. 2d 870) or of aggravated assault (Carter v. State, 121 Texas Cr. Rep. 493, 51 S.W. 2d 316). It cannot be denied that attempt to rape is an offense of inferior grade to, but of the same nature as the offense of rape. The same rule should therefore apply.
+Under the record we would not be justified in ignoring the court’s qualifications to appellant’s- bills of exception, which qualifications were accepted by appellant and read as follows:
+“The court included in the charge to the jury the charge on attempted rape at the specific instance and request of the defendant, and there was evidence in the case warranting such charge as well as the charge on rape.”
+The judgment is affirmed.
