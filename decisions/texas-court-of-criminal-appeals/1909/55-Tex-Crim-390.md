@@ -1,0 +1,22 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "4584"
+decided: "1909-02-24"
+citations: ["55 Tex. Crim. 390"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clarence Byrd v. The State."]
+source_url: "https://static.case.law/tex-crim/55/cases/0390-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4569856
+cites_cases: ["49 Texas Crim. Rep., 371"]
+---
+
+# Byrd v. State
+
+## Majority (RAMSEY, Judge.)
+
+RAMSEY, Judge.
+Appellant was indicted in the District Court of Martin County on a charge of assault with intent to murder, and his punishment assessed at confinement in the house of correction and reformatory for a period of two years, The evidence in the case very clearly raises the issue of appellant’s age, and the weight of the testimony seems to indicate that he was less than sixteen "years old. The verdict of the jury is in this language: “We, the jury, find the defendant guilty as charged in the indictment and assess his punishment at two years confinement in the house of correction and reformatory.” In the court’s charge we find the following: “If you find from the evidence that defendant is not more than sixteen years old, you will assess his punishment at confinement in the house of correction and reformatory for a term of not less than two nor more than fifteen years. But if you find from the evidence that defendant is more than sixteen years old, you will assess his punishment at confinement in the State penitentiary for a term of not less than two nor more than fifteen years.” Appellant makes the point that the judgment of conviction must he set aside on the ground that it is not stated and found in express terms in the verdict of the jury as a fact that appellant was not over sixteen years of age, and that, therefore, the verdict and judgment must be set aside. This contention is clearly supported hy the case of Watson v. State, 49 Texas Crim. Rep., 371. Article 1145 of the Code of Criminal Procedure provides : “When upon the trial and conviction of any person in this State of a felony it is found hy the verdict of the jury the defendant is not more than sixteen years of age, and the verdict of conviction is for confinement for five years or less, the judgment and sentence of the court shall he that the defendant be confined in the house of correction and reformatory, instead of the penitentiary for the term of his sentence, and that such defendant .he conveyed to the house of correction and reformatory hy the proper authority and there confined for the period of his sentence, and for such service such officer shall he paid the same fees that he would be allowed for conveying such convicts to the penitentiary, provided that the age of the defendant shall not he admitted hy the attorney representing the State, and it shall he proved by full and sufficient evidence that the defendant is not more than sixteen years of age before the judgment herein provided for shall he entered; provided, the jury convicting shall say in their verdict whether the convict shall he sent to the penitentiary or to the reformatory.” It will he seen by a careful reading of this article that, where it is found by the verdict of the jury that the defendant is not more than sixteen years of age and the conviction is for confinement for five years or less, that the defendant shall he confined in the house of correction and reformatory, but that it is expressly provided that “the jury convicting shall say in their verdict whether the convict shall be sent to the penitentiary or reformatory;” and that in this ease the court in express terms instructs the jury that in the event they find the defendant to be less than sixteen years of age, they would assess his punishment at confinement in the house of correction and reformatory, and thereafter in response to such instructions the jury did commit and sentence him to the reformatory. In this state of the record, I think it should be held that this is a finding by the jury in terms as certain as fate that he was sixteen years of age or less, and that it is not required that this fact shall be literally written in the verdict. .The decisions, however, seem to hold otherwise and out of respect to the settled holding of the court I am committed to follow them. There is no other-error in the judgment for which the case ought to be reversed. But for this error, the judgment- is reversed and the cause remanded.
+Reversed and remanded.
