@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "633"
+decided: "1895-05-27"
+citations: ["34 Tex. Crim. 516"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James R. Baxter v. The State."]
+source_url: "https://static.case.law/tex-crim/34/cases/0516-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4483329
+cites_cases: ["59 Am. Rep., 294", "95 N. C., 696"]
+---
+
+# Baxter v. State
+
+## Majority (HEHDEBSOH, Judge.)
+
+HEHDEBSOH, Judge.
+The appellant in this case was tried in the court below on an indictment charging him with slander, was convicted and his punishment assessed at a fine of $150 and six months’ imprisonment in the county jail; and from the judgment and sentence of the lower court he prosecutes this appeal.
+The slander, as alleged in the indictment, is as follows: “That the said J. B. Baxter did then and there falsely, willfully, maliciously, and wantonly say of and concerning one Mittie Baxter, in the presence and hearing of Boss Howell and divers other persons, in substance, that he, the said J. B. Baxter, had been deceived, and that the child of Mittie Baxter was not the child of said J. B. Baxter, but was the child of one Houston, meaning thereby that the said Mittie Baxter had given birth to the child and that the said Houston, a person other than the husband of said Mittie Baxter, had had carnal intercourse with her, the said Mittie Baxter, and was the father of said child, the said Mittie Baxter being then and there the lawful wife of said J. B. Baxter.” The record in this case shows, that the defendant married Mittie Baxter on the 8th of January, 1892, and that about a week thereafter he took her to Louisville, Ky., where, on February 3rd following, she was delivered of a child. He returned to Texas, leaving her in Louisville, and the words set-out in the indictment as constituting the slander were spoken by him of and concerning his wife after his return from from Kentucky. The evidence on the part of the State shows various acts of carnal intercourse on the part of the defendant with the said Mittie. Baxter, nee Tips, prior to their intermarriage; and the question here presented for our consideration is, whether a husband, who has previous to his intermarriage had carnal knowledge of his wife, can slander her by imputing to her a want of chastity under the circumstances of this case. The gravamen of this offense is the imputation of a want of chastity to a female alleged to be slandered. If the prosecutrix in this case, as is conceded by the State, had repeated acts of carnal intercourse with the defendant prior to their marriage, could she, under such circumstances, be regarded as a chaste woman! Suppose he had never married her, and had spoken the words alleged against Mm in this case concerning her, would proofs of the facts of this case be a good defense against the accusation of slander! Most assuredly they would. Then, does it follow that, because he subsequently married the prosecutrix, he by these means wiped out the stigma of unchastity which by her own voluntary act she had brought about? And, if this sexual intercourse rendered her unchaste, was she the subject of slander, which can only be predicated of a chaste woman ? If this be true, can it be urged that what the defendant said of and concerning her—that she had also had intercourse with another person besides himself—made Mm guilty of slander ? If, by her previous ill conduct in this regard, she had destroyed her virtue and rendered herself unchaste, we fail to see how an accusation of a want of chastity with any number of persons could affect the question. However the moral sentiment may be shocked at the man who could be brute enough, after marrying a woman whom he knew to be unchaste at the time of his marriage, to upbraid her for her past-conduct, and much more falsely accuse her of carnal intercourse with other men besides himself, yet our statute on the subject fails to reach such a case, as it is intended only for the protection of the chaste woman, whether married or unmarried.
+Another question presented by the assignments in this case is the right of the wife to testify against the husband. Our statute provides (article 735, Code of Criminal Procedure), that “the husband and wife may in all criminal actions be witnesses for each other, but they shall in no ease testify against each other except in a criminal prosecution fur an offense committed by one against the other.” This has been construed to mean some act of personal violence by the one against the other. Overton case, 43 Texas, 616; Whart. on Ev., sec. 392. In Compton v. The State, 13 Texas Criminal Appeals, 271, which was a case of incest, the wife was introduced against the husband, and for this error the case was reversed and remanded, and the reasoning of the court presented in said case is applicable to the present case. Following said decision, we hold that the testimony of the wife in this case was not admissible.
+For the errors discussed, the judgment is reversed and the case remanded.
+Reversed and remanded.
+Judges all present and concurring.
