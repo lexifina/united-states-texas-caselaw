@@ -1,0 +1,47 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,106"
+decided: "1953-02-04"
+citations: ["158 Tex. Crim. 440"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["F. E. Seale v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0440-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2479691
+cites_cases: ["101 S.W. 233", "137 S.W. 2d 1019", "138 Tex. Cr. R. 580", "150 Tex. Cr. R. 107", "155 Tex. Cr. R. 35", "199 S.W. 2d 782", "230 S.W. 2d 810", "294 S.W. 554", "49 Tex. Cr. R. 199", "51 Tex. Cr. R. 32"]
+---
+
+# Seale v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is driving a motor vehicle upon a public highway while intoxicated; the jury having assessed the punishment at a fine of $500.
+The appeal is predicated upon the sole contention that appellant was neither required nor permitted to plead to the information and that no plea was entered for him or on his behalf, either by the court or by his attorneys.
+Among other authorities, appellant cites and relies upon Fann v. State, 138 Tex. Cr. R. 580, 137 S.W. 2d 1019; Sims v. State, 49 Tex. Cr. R. 199, 91, S.W. 579; Mays v. State, 51 Tex. Cr. R. 32, 101 S.W. 233; Wengenroth v. State, 294 S.W. 554; Corley v. State, 150 Tex. Cr. R. 107, 199 S.W. 2d 782; and the late case of Fowler v. State, 155 Tex. Cr. R. 35, 230 S.W. 2d 810.
+It appears that the cases cited construe the applicable statutes, Arts. 505 and 642 C.C.P., and Arts. 11 and 847 C.C.P., to support the proposition that where the record affirmatively shows that no plea was entered by or for the defendant, the judgment will be reversed.
+For the purpose of showing affirmatively that no plea was entered in the instant case, appellant refers to what is designated as the “agreed statement of facts on motion for new trial.”
+As we understand this instrument, it purports to set out the agreement of the county attorney and defense counsel that the matters therein would for the purpose of the motion be considered as having been testified to by the respective witnesses therein named, as though the witnesses had in fact appeared and testified thereto. It is signed by appellant’s counsel and by the trial judge, but is not signed by the state’s attorney.
+It is true that the approval of the trial judge alone is sufficient to authorize the consideration of any statement of facts showing the testimony of the witnesses, but here, as we understand the record, no witnesses testified, and the statement merely sets forth stipulations of facts.
+Clearly the trial court could not stipulate for the state, and we are not authorized to consider the instrument referred to.
+On the other hand, we think that the record does not affirmatively show that no plea was entered, but refutes that claim, the court having instructed the jury, in his charge, “the defendant has entered his plea of not guilty, and by his plea of not guilty, he is presumed to be innocent . . .”
+If the question be pertinent, we have no doubt that jeopardy was complete when the court read his charge to the jury and advised them of appellant’s plea of not guilty, following the reading of the information before the jury sworn to try him, even though jeopardy had not sooner attached by a formal plea.
+The judgment is affirmed.
+
+## Rehearing (DAVIDSON, Judge.)
+
+ON appellant’s motion for rehearing.
+DAVIDSON, Judge.
+Appellant. renews his insistence that the facts which he claims were stipulated upon hearing of the motion for new trial should be considered by us. He presents, in that connection, the affidavit of the county attorney showing that he, through inadvertence, failed to sign the stipulation. The county attorney also certified that the facts set forth in the stipulation are true.
+The facts so stipulated, and upon which reliance is had by the appellant, show that during the trial of the case the appellant was not called upon by the trial court to orally enter a plea to the accusation, and that appellant’s counsel knew of such fact and purposely and intentionally refrained from calling the trial court’s attention to such failure to plead.
+Appellant’s counsel did not disclose such fact to the trial court until after the verdict had been reached, and thereafter urged as a ground for a new trial the fact that appellant had not entered a plea to the accusation.
+The right to enter a plea before the jury may be waived by the refusal to plead, in which event the trial court enters a plea of not guilty. Art. 500, C. C. P.
+This is exactly what the trial court did for the appellant when, in his charge to the jury, he told them that “the defendant has entered his plea of not guilty.”
+When the trial court delivered to appellant his charge to the jury for exception and objections — which charge contained the statement that appellant had pleaded “not guilty,” it became the duty of the appellant to then call such error to the trial court’s attention and make known his desire to openly plead before the jury. Not having availed himself of that privilege, the conclusion must inevitably follow that same was waived.
+Appellant insists that, under such construction, the issue before the jury by the plea of not guilty was not drawn until the charge was read to the jury; that no evidence was introduced thereafter; and, hence, that he, appellant, stands as having been convicted upon a plea of not guilty without the introduction of testimony.
+If appellant desired the evidence to be reintroduced after the plea had been entered, -he should have made known such fact to the trial court but not having done so, he must occupy the position of having also waived that right.
+We are constrained to conclude that a correct conclusion was reached originally.
+The motion for rehearing is overruled.
+Opinion approved by the court.
