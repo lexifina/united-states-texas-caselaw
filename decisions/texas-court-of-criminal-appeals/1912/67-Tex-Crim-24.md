@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1844"
+decided: "1912-06-05"
+citations: ["67 Tex. Crim. 24"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Will Lawson v. The State."]
+source_url: "https://static.case.law/tex-crim/67/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4640810
+---
+
+# Lawson v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+Appellant was indicted for the unlawful sale of intoxicating liquors in Grayson County after prohibition had been put in force in that county by proper election, orders, publication, etc., since such sale was made a felony, convicted and bis penalty fixed at one year in the penitentiary.
+The evidence of the State clearly shows the guilt of appellant; two sales having been clearly proven to have been made by appellant on December 27, 1911.
+Appellant has two long bills of exceptions to the court’s sustaining the State’s challenge for cause of two jurors. The examination of the jurors is shown by questions and answers in the bill. In each instance they show that the jurors, in effect, stated that they would not convict on the testimony of what were called “spotter” or “detective” witnesses. Whether the court correctly permitted the State to challenge the jurors for this cause, it is unnecessary for ns to decide, because the bills nowhere and in no way show that any objectionable juror was thereby forced upon the appellant in the trial of the ease. So that, even if the court erred in such matter, no injury whatever is shown to appellant and he has no cause to complain because thereof. See section 750, White’s Ann. Code Criminal Procedure.
+By another hill appellant complains that the court erred in overruling his application for a continuance. This application shows that it was made on two grounds: First, that appellant had been put on trial at that term of court for another violation of the same law and that the jury were then out and had not found a verdict in that cause and that by reason of the trial of the other case it would be impossible for Trim to secure a fair and impartial trial before the jury of that week of that term of the court.
+The other ground of the motion for continuance is to procure the attendance of a witness living in the State of Oklahoma. No diligence had been shown to procure such witness. Appellant sought to excuse himself for want of diligence because he did not know the importance of the witness until he heard the testimony of one of the State’s witnesses in the trial of the other case; but the testimony of the absent witness could have been used, if at all, only for the purpose of impeaching one of the State’s witnesses.
+The State contested the application on both grounds. On the first ground the State showed that outside of the jury that was then out considering their verdict in the other trial, there were fourteen regular legal jurors in attendance upon the court who had no knowledge of the facts relating to this charge and who had formed no opinion as to the guilt or innocence of the appellant and that both sides could have a fair, .unprejudiced and qualified panel of jurors, all drawn and selected in accordance with the law, from which t'o select a jury in this case. And on the second ground that the testimony of the witness for whom the application was made could be used for impeachment purposes alone, if even for that purpose.
+The bill does not show in any way, nor does - the record show that any improper juror was forced upon appellant in the trial of this cause, and the application itself shows that the testimony of the absent witness, as stated above, could be used for impeachment' purposes alone if it could be used for that. It has been too often decided to require citation of the cases to show that continuances will not be granted t'o procure witnesses for impeachment purposes. There was no error in the court overruling appellant’s application for continuance on that ground.
+By another bill appellant complains that the court erred in refusing to -permit him to prove how long it was, after Mr. GafEord, the assistant county attorney, who made arangements with the two State’s witnesses t'o go from Sherman to Denison on the day the illegal sales were charged against appellant to have been made, before he, Mr. Gafford, announced as a candidate for county attorney. This evidence was correctly excluded upon objection of the State, as being wholly immaterial.
+Another bill of exceptions is quite lengthy, giving the questions and answers of the State’s witness Scott. It shows that by defendant’s cross-examination of this witness he showed that' the assistant county attorney had induced him to go from Sherman to Denison, where the sale is alleged to have occurred, for the purpose of seeing if the witness could buy intoxicating liquors from the appellant and brought out, somewhat at length, the conversation and deal made by the assistant county attorney with the witness. When the cross-examination was complete and the witness turned back to the State, the county attorney was permitted to ask, and the witness to answer, what the whole conversation was that occurred between the assistant county attorney and the witness on the occasion brought out by the appellant in his cross-examination. Clearly there was no error in this. When one party brings out a part of the conversation or transaction, the other has the right under the statute to have the whole of it. Article 811, Code Criminal Procedure.
+These are all the questions raised by the appellant on this appeal. There being no error the judgment will be affirmed.
+Affirmed.
