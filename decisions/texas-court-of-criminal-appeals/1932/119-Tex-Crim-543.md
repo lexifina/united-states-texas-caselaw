@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "14600"
+decided: "1932-01-06"
+citations: ["119 Tex. Crim. 543", "45 S.W.2d 207"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Orr v. The State."]
+source_url: "https://static.case.law/tex-crim/119/cases/0543-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5197078
+cites_cases: ["15 S. W. 821", "15 S. W., 821", "18 Tex. App. 57", "20 Tex. App. 12", "20 Tex. App. 301", "236 S. W. 468", "236 S. W., 468", "24 Tex. App, 299", "244 S. W. 606", "244 S. W., 606", "29 Tex. App. 232", "38 Tex. Cr. R. 317", "38 Texas Crim. Rep., 317", "42 S. W. 563", "42 S. W., 563", "53 S. W. 619", "53 S. W., 622", "6 S. W. 40", "6 S. W., 40", "9 Tex. App. 429", "90 Tex. Cr. R. 479", "90 Texas Crim. Rep., 479", "92 Tex. Cr. R. 449", "92 Texas Crim. Rep., 449"]
+---
+
+# Orr v. State
+
+## Majority (CALHOUN, Judge.)
+
+CALHOUN, Judge.
+Conviction is for rape by consent upon a girl under eighteen years of age; punishment fixed at confinement in the penitentiary for a period of five years.
+The indictment charged the offense to have occurred on or about the first day of July, 1930. The prosecutrix testified that the first act of intercourse she had with appellant was on March 15, 1930, and it was upon this act that the case was submitted to the jury. The defense was that the prosecutrix was not a chaste female at the time of the alleged offense. Appellant admitted that he had engaged in acts of intercourse with her but denied that she was a chaste female at the time. He admitted that he had intercourse with her during the month of March, 1930. He testified that he had engaged in such acts with her seven or eight times prior to that occasion. Appellant also offered other testimony that showed that the prosecutrix had engaged in acts of intercourse with others prior to the time fixed by prosecutrix as the first act of intercourse with appellant. The testimony oUthe prosecutrix showed that at the time of the alleged offense she was over 15 years of age.
+The court gave this instruction in his main charge: “You are instructed that if you find and believe from the evidence beyond a reasonable doubt that the defendant did, as charged in the indictment, on the 15th day of March, 1930, in the County of Grayson and State of Texas, have carnal knowledge of said Emma Callie Luper as alleged, she not being then and there his wife, and jmu further find beyond a reasonable doubt that she, the said Emma Callie Luper, was then and there under the age of 18 years, you will find the defendant guilty as charged and assess his punishment at death or by confinement in the penitentiary for life or for any period of years not less than five.
+“You are instructed that if you believe from the testimony, or if you have a reasonable doubt that the complaining witness, Emma Callie Luper, was a woman of unchaste character previous to the 15 th day of March, 1930, you will acquit the defendant and so say *by your verdict.”
+At the request of the appellant, the court gave the jury the following special charge: “You are instructed that the term ‘woman of unchaste character’ as used in this charge means an unmarried female under the age of 18 years who has had intercourse with a man.”
+The appellant timely and seasonably presented and requested the following special charge which was refused by the trial court, to which action appellant excepted and the same is brought forward by a bill of exception: “You are charged that, even though you may find and believe from the evidence that the defendant, Charles Orr, did have carnal knowledge of Emma Callie Luper on or about the date alleged in the indictment, still, you cannot convict him if you further find and believe from the evidence that the defendant himself or any other person, prior to said time, had carnal knowledge of the said Emma Callie Luper, or if you have a reasonable doubt thereof, then it should be your duty to acquit the defendant and say by your verdict ‘not guilty’.”
+The whole defense of appellant was that prior to the time the offense was alleged to have been committed the appellant had had other acts of sexual intercourse with the prosecutrix and he also introduced evidence to the effect that other parties also had sexual intercourse with the prosecutrix prior to the time of the offense. That part of the court’s main charge quoted embraced the entire charge given upon the appellant’s defense and does not present, except in a negative way, the defensive issue raised by affirmative testimony introduced by appellant. The special charge asked by the appellant, the refusal of which is complained of, was a definite and affirmative presentation of the appellant’s defense and was applicable to the evidence introduced by him.
+In the case of Pinkerton v. State, 92 Texas Crim. Rep., 449, 244 S. W., 606, 607, a case similar to this one, Presiding Judge Morrow stated: “The rule is well settled that, where the accused on trial presents affirmative evidence going to show the existence of facts which would constitute a defense against the charge, it is his right to have the jury instructed that, if these defensive facts existed, an acquittal should result. The early cases affirmed this rule, and in a proper case its application has been uniformly demanded. Greta v. State, 9 Texas App., 429; White v. State, 18 Texas App., 57; Duncan v. State, 90 Texas Crim. Rep., 479, 236 S. W., 468; Rose’s Notes on Tex. Rep., vol. 5, p. 447. This demand is not satisfied merely by an implied or negative presentation of the defensive issues arising from affirmative testimony. Irvine v. State, 20 Texas App., 12; Herron v. State, 20 Texas App., 301; Smith v. State, 24 Texas App., 299, 6 S. W., 40; Hopkins v. State (Texas Crim. App.), 53 S. W., 622; Bonner v. State, 29 Texas App., 232, 15 S. W., 821; Garza v. State, 38 Texas Crim. Rep., 317, 42 S. W., 563.”
+The failure to give such special charge requested or some affirmative charge on the defensive issue raised by the affirmative evidence of the appellant, the matter being timely and properly called to the attention of the trial court, deprived the appellant of his right to an affirmative charge as applicable to the facts, to which he was entitled under the authorities, and calls for a reversal of the judgment of conviction.
+The bills of exception not discussed present matters not likely to again occur.
+The judgment of the trial court is reversed and the cause remanded.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
