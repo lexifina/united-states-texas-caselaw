@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,613"
+decided: "1953-11-18"
+citations: ["159 Tex. Crim. 313"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ricardo Hernandez v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0313-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477791
+cites_cases: ["106 S.W. (2d) 289", "125 S.W. (2d) 565", "132 Tex. Cr. R. 551", "136 Tex. Cr. R. 426"]
+---
+
+# Hernandez v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+Appellant was convicted in the district court of Frio County of the offense of the unlawful possession of marihuana, and was by the jury awarded a term of two years in the state penitentiary.
+On the night of December 6, 1952, two Texas Highway Patrolmen, on State Highway No. 280, some two miles north of Pearsall in said county, stopped an automobile which failed to have the tail light thereon. Appellant was sitting in the back seat of this car, and immediately upon being halted by the officers, appellant threw a package out of the car. This package was recovered and contained three cigarettes which were examined by the Texas State Chemist at Austin and declared to have been marihuana.
+There are two bills of exception in the record which certify that the appellant was indicted on May 26, 1953 for this offense; that an attorney from San Antonio made bond for the appellant and stated to the court that one of the bondsmen represented the appellant. The case was set for trial on June 1, 1953, and when the same was called for trial, appellant informed the court that his attorney had not arrived, whereupon the case was passed until June 4, 1953. Appellant was instructed by the court to contact his attorney and have him present. When the case was called for trial on June 4, 1953, appellant again informed the court that his attorney was not present and that he had not seen him, whereupon the case was passed until one o’clock of that day, and at such time appellant announced that he had not heard from his attorney and had not employed another one to represent him. Thereupon the court proceeded to try this case without an attorney for the appellant.
+The only question presented before us in this record is the action of the trial court in trying the appellant’s case without having appointed an attorney to represent him. The appellant was charged with a non-capital case, and the court was under no duty to appoint an attorney to represent him under the circumstances here present. See Thomas v. State, 132 Tex. Cr. R. 551, 106 S.W. (2d) 289; Loggins v. State, 136 Tex. Cr. R. 426, 125 S.W. (2d) 565; also Article 494, Vernon’s C.C.P.
+Appellant entered a plea of not guilty and was tried by a jury. Therefore, Art. 10a, Vernon’s C.C.P., requiring the appointment of an attorney in the event of a plea of guilty before the court, is not applicable in this instance where the trial was had under a plea of not guilty.
+We see no error in the record, nor has any been presented to us by virtue of the court’s failure to appoint an attorney to represent the appellant in a case of this character.
+The judgment is therefore affirmed.
