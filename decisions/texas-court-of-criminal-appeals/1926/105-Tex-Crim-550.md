@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "10514"
+decided: "1926-12-22"
+citations: ["105 Tex. Crim. 550", "289 S.W. 681"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willie Smith v. The State."]
+source_url: "https://static.case.law/tex-crim/105/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5128879
+cites_cases: ["156 S. W. 651", "31 Tex. Crim. Rep. 403", "32 Tex. Crim. Rep. 107"]
+---
+
+# Smith v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Conviction in the District Court of Galveston County of murder; punishment fixed at three years in the penitentiary.
+The indictment in this case charged appellant with murder. On the trial the court in his charge eliminated the offense of murder and submitted to the jury only the issue of manslaughter. The jury returned a verdict finding the appellant guilty as charged in the indictment. The judgment of the court adjudges appellant guilty of the offense of murder and the sentence follows the judgment. The judgment and sentence will be reformed to correspond with the charge of the court and appellant will be adjudged guilty of manslaughter, and the sentence will correspond with the judgment. There seems no excuse for carelessness such as is manifested by the reception of a verdict and the entry of a judgment and sentence for an offense not submitted in the charge of the court.
+There is but one bill of exceptions. It presents appellant’s complaint of the introduction of the examining trial evidence given by state witness, Rose Murray. Rose Murray was introduced as a witness on behalf of the state. She testified that appellant, who had a room at her house, came running home on the day in question and called to witness who followed appellant into the room of the latter. She said that in a moment deceased came in and advanced upon appellant, demanding that the latter pay her $5.95. Witness said that deceased was shaking her finger at appellant as she kept advancing, and that appellant told her to stand back and not come on her, but that she continued to advance, and appellant reached for a pistol and fired. Witness further said that after the shooting appellant said to deceased, “Hannah, I didn’t want to shoot you.” Thereafter, on cross-examination, said witness stated that after appellant fired at deceased, she said to the latter: “I am sorry I shot you but I had to keep you from coming up on me with a knife.” At the conclusion of the testimony of this witness the state offered in evidence the examining trial testimony of said witness. It was objected to on the ground that it was not properly proven up, was not shown to contain all the testimony of the witness as given at said trial, was not admissible as impeachment of the state’s own witness, and was without proof of the correctness of the offered testimony. The court overruled the objections and permitted the statement to be introduced. In our opinion the learned trial judge fell into error in this action. The justice of the peace before whom the statement was made was not introduced, nor was the party who transcribed the testimony of the witness. In fact, no one testified to the correctness of the document, or that it contained all the testimony of the witness given at the time. We think the certificate of the judge to the effect that the man who wrote down said examining trial testimony was ill and could not be had as a witness, affords no justification for the introduction of the document. An examination of said examining trial testimony, as it appears in the bill of exceptions, makes plain the proposition that the witness testified in the examining trial, as to the statement made by appellant after shooting deceased, substantially as she testified to same on this trial. Same contains the statement of the witness, Rose Murray, as follows: “I heard Willie say, ‘Hannah, I did not want to hurt you but I had to shoot you from cutting me.’ ” It could very easily be understood how the person who took the testimony down might have explained, if present, that he omitted to write down the words: “To keep you from cutting me.” The state did not content itself with introducing that part of the examining trial testimony relative to the statement made by-appellant after the shooting. The entire examining trial testimony was offered and apparently read to the jury. There are other statements in said testimony, distinctly damaging to appellant.
+We have serious doubt as to the sufficiency of this testimony to support a judgment for manslaughter. The witnesses for the state corroborated appellant in her claim that deceased was advancing upon her, holding one hand in her pocket where appellant said.she had seen deceased put an opened knife, and with the other hand she was shaking her finger at appellant and demanding the immediate payment of certain money. Both state witnesses testified positively that deceased was advancing upon appellant at the time she shot.
+For the error in the admission of the testimony above mentioned, the judgment is reversed and the cause remanded.
+Reversed and remanded.
