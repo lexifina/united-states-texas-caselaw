@@ -1,0 +1,48 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,885"
+decided: "1952-10-08"
+citations: ["158 Tex. Crim. 248"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Ed Heine."]
+source_url: "https://static.case.law/tex-crim/158/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2478151
+cites_cases: ["190 S. W. 724", "196 S. W. (2d) 493", "223 S. W. (2d) 247", "80 Tex. Cr. R. 356"]
+---
+
+# Ex parte Heine
+
+## Majority (MORRISON,' Judge.)
+
+MORRISON,' Judge.
+This is an appeal from an order of the criminal district court of Harris County remanding relator to jail following a hearing on. á writ of habeas corpus. 1
+Relator was shown to be restrained by virtue of a conviction for operating a taxicab for hire over the streets of the city of Houston without having first obtained a taxicab driver’s license from the city. At the time of his conviction, relator had a chauffeur’s license issued by the Texas Department of Public Safety.
+With the adoption of the Home Rule Amendment to the Constitution (Art. II, Sec. 5) in 1912, the cities affected thereby secured all power to govern themselves unless the exercise of such power was in conflict with the provisions of the Constitution or the Acts of the Legislature. (Le Gois v. State, 80 Tex. Cr. R. 356, 190 S. W. 724.)
+In an effort to enumerate “for greater certainty” this constitutional grant of power, the legislature enacted Article 1175, Section 20 of which specifically stated that home rule cities had the authority “to license, operate and control the operation of all character of vehicles using the public streets, including . . . the qualifications of the operator of the same. . . .”
+Following the adoption of this amendment, the city of Houston adopted a Code, a portion of which makes it unlawful for any person to drive or act as a chauffeur of a taxicab without having secured a taxicab driver’s license from the city authorities.
+The issuance of the license was dependent, among other things, upon a finding by the city authorities that the applicant was a trustworthy, sober, and reliable person of good moral character. No fee was charged for such license.
+Some years later, in 1941, the legislature enacted Article 6687b, which made exhaustive provision for the issuance, suspension, and revocation of driver’s, chauffeur’s, and commercial operator’s licenses, placing control and supervision thereof in the Department of Public Safety of the State. This act repealed all laws in conflict therewith and provided that no person should thereafter be required to obtain any of the above types of licenses from “any other state authority or department.” This act is silent on the question of the character of the applicant.
+Relator contends that, by the passage of Article 6687b, the legislature limited the power theretofore granted to the cities by the Home Rule Amendment, and specifically enumerated in Article 1175, and thereby preempted the field of licensing operators of motor vehicles so that a city is now powerless to require the license involved in this prosecution. Reliance is had upon Payne v. Massey, 196 S. W. (2d) 493, and Reed v. City of Waco, 223 S. W. (2d) 247. These cases make reference to Article 6698, adopted originally in 1917 and reinacted in 1947, which provides, in part, “This provision shall not affect the right of incorporated cities and towns to license and regulate the use of motor vehicles for hire in such corporation.” They in nowise suggest that this provision has been rendered wholly inoperative by the passage of Article 6687b, supra.
+As we view these holdings, they are authority for the proposition that a city is powerless to require the payment of a fee to operate taxicabs within its limits or to collect a fee for the issuance of a chauffeur’s license.
+We are not unmindful of the seriousness of the question here presented.
+It resolves itself simply to this: May a city protect its inhabitants, who employ the taxicab as a mode of conveyance, from ex-convicts and social misfits, who, once given control of a taxicab, thereby gain virtual control over the safety of the persons and property of their passengers, who often are children?
+We must select between two processes of reasoning.
+We must either say that, by the passage of Article 6687b, the legislature took from the city all power to legislate in conflict with the provisions of the article and left untouched the exercise of all other power not in conflict therewith.
+Or, on the other hand, we must say that, by the passage of said act, the legislature, by implication, limited the power of the city in this field, whether in conflict or not, notwithstanding Article 6698, supra.
+We have been cited no authority from any jurisdiction, nor have we been able to find any on this precise question.
+This being so, we are inclined to feel it our duty to hold that the city has the power to require that those who operate taxicabs within its limits be persons of good moral character so that its citizens may be protected. This, we think, is a vital element of the police power of a city. We find no conflict between the city ordinance in this respect and the state statute.
+Having reached this conclusion, the writ is denied.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING.
+WOODLEY, Judge.
+Appellant asserts “that the State Law forbids the requiring of this ‘taxicab driver’s license’ as a prerequisite to the right of Ed Heine to operate his taxicab; that the ordinance of the City of Houston conflicts with the state law and is invalid.”
+The particular state law to which appellant refers is that part of Art. 6687b, Sec. 1, providing for the issuance of chauffeur’s license, and especially to the provision found in Art. 6687b, Article II, Sec. 2(c), which reads as follows:
+“No person holding an operator’s, commercial operator’s, or chauffeur’s license duly issued under the provisions of this Act shall be required to obtain any license for the operation of a motor vehicle from any other State authority or department. Subsection (c) of Section 4 of Article 911A and Subsection (b) of Section 4 of Article 911B, Revised Civil Statutes, is hereby repealed.”
+The quoted section specifically repealed laws concerning the issuance of license to drivers of certain vehicles by the Railroad Commission of Texas. We think that it was the intention of the legislature only to provide that no license could thereafter be required of a driver by that or any other similar authority or department, and that the language used was not intended to apply .to home rule cities or cities specifically authorized under their charter to license and regulate the use of motor vehicles for hire in such cities.
+We remain convinced that the ordinance in question is not invalid as in conflict with the above statute, and that the state has not preempted the field so as to preclude the city of Houston from requiring persons who desire to drive a taxicab on the streets of that city to procure a license in the manner provided in the ordinance. At least in the particular pointed out in our original opinion the requirement for the issuance of a taxicab driver’s license is valid.
+Appellant’s motion for rehearing is overruled.
