@@ -1,0 +1,22 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1629"
+decided: "1899-05-31"
+citations: ["40 Tex. Crim. 632"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Buel Bradford v. The State."]
+source_url: "https://static.case.law/tex-crim/40/cases/0632-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 163917
+---
+
+# Bradford v. State
+
+## Majority (HENDERSON, Judge.)
+
+HENDERSON, Judge.
+Appellant was convicted, under article 309, Penal Code, of being engaged in an unlawful assembly, with other persons, with intent to interfere with the occupation and employment of another, and his punishment assessed at a fine of $35.
+Appellant assigns a number of errors, but it is only necessary to notice one. He made a motion to quash the affidavit and information on the ground that the same failed to charge any offense against the laws of this State; and, particularly, "because the affidavit fails to charge that the alleged injured party was engaged in the occupation of operating and running a farm, and that such was his daily avocation, business, and employment at the time of the alleged unlawful assembly; because the affidavit fails to allege that he had any Mexicans as laborers, or was engaged in the employment of Mexican laborers as a daily avocation or employment at the time of the alleged unlawful assembly,” etc.; and because the same is contradictory, in that it alleges an interference with the said Ernst as employer, and then alleges an interference with certain Mexicans being his laborers. In support of his contention, he refers us to Follis v. State, 37 Texas Criminal Reports, 535. That was a case for interfering with a social gathering and dance by an unlawful assembly, and we there held that the indictment was defective because it failed to allege that Sutton, the party interfered with, had a house, and that he was engaged in giving or about giving a social gathering and dance at his said house. The Assistant Attorney-General, however, contends the information in this case is under another article, with regard to unlawful assemblying, and, furthermore, that the information here does sufficiently allege the ownership by said Ernst of a farm. We quote from the charging .part of the Information as follows: That said appellant, with other persons named, "with the intent to aid each other, by violence and intimidation, to illegally deprive L. H. Ernst from running and operating a certain farm in the county and State aforesaid, said farm being then and there the property of the said L. H. Ernst, by illegally depriving him, the. said L. H. Ernst, of the right to employ and retain in his employ Mexicans as laborers upon his said farm, and to disturb him, the said L. H. Ernst, in the enjoyment of said right to employ and retain in his employ Mexicans as laborers upon his said farm, by violence and intimidation as aforesaid, it being then and there the legal right of the said L. H. Ernst to employ and retain in his employ Mexicans as laborers,” etc. If it be „ -conceded that the bare allegation that “said farm being then and there the property of the said L. H. Ernst,” in the connection in which the same was used, sufficiently charges that the said Ernst was then and there the ■owner of a certain farm, and was then and there engaged in running and operating the same,—which is doubtful,—still there is no allegation in the affidavit and information that the said Ernst then and there had in his employ, or was about to employ, certain Mexicans, as laborers upon his said farm. We only gather this by inference. We do not think the ■affidavit and information are sufficient. There should have been a direct ■averment that the said Ernst was engaged in running and operating a certain farm, and also that he then and there had in his employ certain Mexicans, or that he was about to employ certain Mexicans for the purpose of running and operating his said farm. These matters were essential parts of the offense. The allegation thereof should be by direct averment, and not left to inference or intendment. Follis v. State, the case cited, announces the true rule on this subject. Because, in our opinion, the affidavit and information are insufficient, the judgment is reversed, and the prosecution ordered dismissed.
+Reversed and dismissed.
