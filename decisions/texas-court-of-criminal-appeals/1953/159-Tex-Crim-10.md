@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,404"
+decided: "1953-06-03"
+citations: ["159 Tex. Crim. 10"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. O. McGowan v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2473265
+cites_cases: ["210 S. W. 2d 174"]
+---
+
+# McGowan v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is the possession of wine for the purpose of sale in a dry area; the punishment, a fine of $150.00.
+The arresting officers testified that they drove up to appellant’s home, armed with a search warrant, and as they got out of their automobile they saw the appellant coming over the back fence with three quarts of Italian Swiss Colony wine in his hands. There were trucks, automobiles, and three men in the appellant’s yard, and the appellant said that “he was fixing to have a party.” A search of the appellant’s home failed to yield any further illicit spirits.
+Appellant offered his wife and mother as witnesses, who testified that appellant suffered from low blood pressure and that he regularly drank mild stimulants upon the advice of his physician. Appellant’s wife stated that there had been some talk between her husband and the men in the back yard prior to the arrival of the officers about having a fish fry, but that when the officers took the wine away the fish fry was postponed. She denied that the wine had been possessed for the purpose of sale.
+We shall now discuss the contentions raised in appellant’s brief.
+At the close of the state’s case, the appellant moved for an instructed verdict and now urges that the proof introduced by the state rebutted the statutory presumption. That is, he says that when the state introduced the statement of the appellant that “he was fixing to have a party” it then became incumbent upon the state to prove the falsity of such statement. Had the statement been an unequivocal denial that he possessed the wine for the purpose of sale, there might have been some strength in appellant’s contention. His contention is reminiscent of the custom prevalent among the members of the bootlegging fraternity during statewide prohibition of “giving a party,” at which food was furnished free and illicit liquor sold. We find no error in the action of the court in refusing to instruct a verdict for the appellant.
+We find the evidence sufficient to support the conviction.
+Bills of Exception Nos. 2 and 3 relate to the refusal of the court to grant a requested charge instructing the jury to find the appellant not guilty if they believed that appellant possessed the wine for his own use.
+We find that the court in his charge niore fully presented appellant’s defense than was done in the requested charge. We quote from the charge as follows:
+“If you find and believe from the evidence beyond a reasonable doubt or if you have a reasonable doubt whether J. O. McGowan possessed the wine not for the purpose of sale but for the consumption of himself on account of his health or for the consumption of himself and his guests at a fish fry or party at his home, then you will find the defendant not guilty and so say by your verdict.”
+Bill of Exception No. 4 relates to argument of the county attorney wherein he gave his views as to the best way to stop the bootlegging in the county. From the bill, it will be noted that the court, in overruling appellant’s objection to the argument, stated that the county attorney’s argument was in reply to argument made by appellant’s attorney. This is tantamount to a qualification of the bill. It has long been the holding of this court that a bill of exception to argument fails to reflect error where the bill is qualified by the court certifying that such argument was in reply to argument of appellant’s counsel. Sharp v. State, 151 Tex. Cr. Rep. 637, 210 S. W. 2d 174, and cases cited there.
+The bill attempts to complain of other argument, but there is no certificate of the court that such argument was in fact made. We find only the appellant’s objection to the argument.
+Finding no reversible error, the judgment of the trial court is affirmed.
