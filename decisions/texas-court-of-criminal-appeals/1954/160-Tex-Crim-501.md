@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,178"
+decided: "1954-11-17"
+citations: ["160 Tex. Crim. 501"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alvin Eugene Mason v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0501-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2470676
+cites_cases: ["151 S.W. 1051", "217 S.W. 389", "237 S.W. 257"]
+---
+
+# Mason v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+Appellant was charged by indictment with the offense of burglary, and upon his trial he was convicted by a jury and assessed a penalty of seven years’ confinement in the state penitentiary.
+It is shown by the facts that on the night of July 8, 1953, someone broke a window in the Browning Barbecue Stand located at 1321 Wood Street in the city of Dallas, Texas, in what is called “downtown Dallas” and from this place there was taken in such breaking a radio, about sixty packages of cigarettes and a quantity of booklets containing advertising matches. On the same night, around two o’clock in the morning, two peace officers, while cruising in that portion of Dallas where the Negro population predominated, saw two persons each of whom had a cardboard box in his arm. As the headlights of the car were turned on them, they acted as though they were “unusual” and looked around over their shoulders, that is, towards the lights of the car. As the officers approached they saw two men, one of whom was the appellant, and they saw that these boxes had something in them. They then stopped the men, looked in the boxes and found therein approximately sixty packages of cigarettes, a radio and some booklets of matches which had printed on them — “Browning’s Barbecue, No. 1321 Wood Street.” The officers began to question these two men, and the appellant’s companion stated that he would do the talking; that the appellant had but little to say to them. Eventually the officers took these two men and went to 1321 Wood Street where they found that a window had been broken open and the cigarettes and the radio taken from such building.
+There are but two questions presented in this appeal, the first being the complaint relative to the indictment because it was not stated therein that the offense for which the defendant was charged was committed anterior to the time of the indictment.
+It was shown by the record that the date of the offense complained of was July 8, 1953, at the July Term, 1953, of such grand jury.
+It is worthy of note, however, that the transcript herein shows that this indictment was returned on the 27th day of July, A. D., 1953. It is therefore clear that the indictment was returned after the alleged date of the offense. We think that it is sufficient under Section 6 of Article 396, C.C.P., which reads:
+“The time mentioned (in the indictment) must be some date anterior to the presentment of the indictment, and not so remote that the prosecution of the offense is barred by limitation.”
+It is the presentment of the indictment that governs as to the necessity of showing the commission of the offense anterior thereto.
+In Archie v. State, 91 Texas Cr. R. 13, 237 S.W. 257, it was held:
+“We do not understand the law to require that the indictment, in terms, state that the offense was committed ‘anterior’ to the filing of the indictment, but that the requisite is met where the date averred is at time anterior to that upon which the indictment is brought into court and presented.”
+See Fields v. State, 68 Texas Cr. R. 606, 151 S.W. 1051; White v. State, 86 Texas Cr. R. 420, 217 S.W. 389.
+The rule to the same effect is found in 23 Texas Jur. pp. 680-682.
+The next question presented in the appellant’s brief relates to the arrest and search of the appellant and his companion between the hours of two and three o’clock in the morning of the date of the alleged offense. The state introduced an ordinance of the city of Dallas under which it operates that empowers such city to pass an ordinance granting the power to arrest without a warrant upon the part of policemen who find persons in suspicious places and under circumstances which reasonably show that they are guilty of some felony or breach of the peace or who threaten to commit some offense against the law and the ordinance of the city. The facts relative thereto were shown herein that these two white men were seen in the early morning hours, each carrying a cardboard box of some kind; that they were found in a neighborhood where colored people reside and were some distance from the burglarized premises; that their actions aroused the suspicion of the two officers who, upon accosting the men, found them to be in possession of some kind of merchandise; that upon a close scrutiny thereof it was evident that the same came from the Browning Barbecue Stand on Wood Street. The testimony then follows that the officers took these two persons back to the Browning Barbecue Stand where they found the same to have been entered burglariously. The property in the hands of the appellant and his companion was identified by Mr. Browning as being his property and as having been in his establishment at the time he closed it for the night. Under these circumstances, we think the officers had the right to arrest these men without a warrant and that the property thus found in their possession could be utilized upon the trial of this case.
+We find no further matter presented for review.
+No error being apparent on the trial of this case, the judgment of the trial court is affirmed.
