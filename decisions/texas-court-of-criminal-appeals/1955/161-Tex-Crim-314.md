@@ -1,0 +1,46 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,307"
+decided: "1955-01-19"
+citations: ["161 Tex. Crim. 314"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cary Eugene Yarbrough v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468675
+cites_cases: ["104 S.W. 2d 518", "104 S.W. 2d 871", "109 S.W. 2d 761", "132 Texas Cr. Rep. 397", "132 Texas Cr. Rep. 445", "133 Texas Cr. Rep. 211"]
+---
+
+# Yarbrough v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for a subsequent offense of driving while intoxicated (Art. 802 (b) V.A.P.C.) ; the punishment, six months in jail and a fine of $300.
+Appellant contends that the evidence is insufficient to show that he was intoxicated or under the influence of intoxicating liquor at the time in question. He also contends that the evidence in this regard was entirely circumstantial, and the trial court erred in refusing to charge the jury on the law of circumstantial evidence. These contentions call for a rather full statement of the evidence.
+The prosecution arose through an automobile accident in the town of Wells, in Cherokee County, Texas, which occurred on July 4, 1953.
+Appellant was the driver of the automobile which ran into the rear of a truck traveling in the same direction. The other occupant of appellant’s car, Jim Bothwell, was fatally injured in the collision.
+Troy McCarty, the driver of the truck involved in the accident, testified that he did not get close enough to appellant to detect any odor about him, and expressed no opinion as to his condition of sobriety.
+Alfred Wigginton testified that he heard the horn of appellant’s car blowing and saw appellant drive into the rear of the truck, then skid into another car. He saw Bothwell fall out of the car appellant was driving, and called an ambulance.
+Wigginton testified that he had a conversation with appellant and saw him after the accident, and expressed the opinion “that something was the matter with him.” He declined to say that he was intoxicated “because there was beer spilled on the ground, now I don’t know whether he was drinking or not. I didn’t get that close to him.” He also testified that he “picked up some beers on the ground out there and put them back in the automobile.”
+Pete Bailey, Constable of the Precinct, testified that he arrived at the scene some 10 or 15 minutes after the accident and talked to appellant, observed him, and heard him talk. He expressed the opinion that appellant was under the influence of intoxicating liquor. Bailey arrested appellant. He testified further “I’d call him a drunk”; that he found a pint of wine, a pint of whiskey unopened; another pint bottle with about an inch of wine in it, a portion of a pint of whiskey that had been opened, and about a half case of cold beer in the car. Some of the beer was on the ground.
+Appellant points out that this witness was unable to identify the odor he claimed to have smelled on appellant’s breath as like beer or whiskey or both, saying: “It just smelled alcoholy.” The witness had previously expressed the opinion that appellant had been drinking “just some kind of alcohol is all I know.”
+Bailey testified that he took appellant from Wells to Rusk and delivered him to Archie Cook, Deputy Sheriff, at the county jail. Asked if anything happened on the trip, Bailey testified “No sir, he was just an ordinary drunk.”
+Officer Cook testified that he heard appellant talking and saw him walk; that he had had much experience in dealing with people who were under the influence of intoxicating liquor or drunk, and from such experience and his observation of appellant, Cook expressed the opinion that he was intoxicated when he saw him on the occasion when he was delivered to the jail by Constable Bailey.
+Appellant points out that this was about 8:30 p.m., some time after the accident, and that Officer Cook admitted on cross-examination that he was not able to say what appellant’s condition may have been at 3:30 or 4 o’clock that afternoon.
+The evidence further shows, however, that appellant was in custody from the arrival of Constable Bailey, and he himself testified that he consumed no alcoholic beverage while in custody.
+Appellant points out that there is testimony in the record to show that appellant’s condition may have been due to the collision rather than to intoxication, he having been first seen thereafter on the ground by the side of his companion. And it is insisted that Constable Bailey did not arrive for some time thereafter and did not know that appellant had been knocked unconscious as a result of the collision.
+The time which elapsed from the collision until the arrival of Constable Bailey was fixed by appellant in his testimony as “7 or 8 minutes after I came out of the spell.” Bailey fixed the time as being about 10 or 15 minutes.
+The witness Wiggington testified that the ambulance came in 20 or 25 minutes and that Constable Bailey arrived before the ambulance.
+The testimony of appellant foreclosed the hypothesis that he may have consumed intoxicating liquor after the accident and, we think, removed any necessity for a charge on circumstantial evidence.
+The defensive testimony as to appellant’s condition was not accepted by the jury. We are not authorized to disturb its finding, there being evidence which, viewed from the standpoint of the state, sustains the verdict.
+Appellant claims a variance between the allegations of the indictment, which charges conjunctively that appellant drove an automobile “while intoxicated and while under the influence of intoxicating liquor,” and the charge which authorized a conviction if he drove either while intoxicated or while under the influence of intoxicating liquor.
+The terms are synonymous, and no variance is shown. Maedgen v. State, 132 Texas Cr. Rep. 397, 104 S.W. 2d 518; Jones v. State, 132 Texas Cr. Rep. 445, 104 S.W. 2d 871; Compton v. State, 133 Texas Cr. Rep. 211, 109 S.W. 2d 761.
+It is contended that the trial court erred in declining to admit testimony offered by appellant to the effect that his reputation for truth and veracity was good.
+If we understand this contention it is that the state attacked the reputation of appellant by offering in evidence proof of the former conviction for driving a motor vehicle upon a public highway while intoxicated, which was alleged in the indictment.
+This former conviction formed an integral part of the felony offense here charged. It was not admitted for impeachment purposes, nor was it admissible for such purpose.
+As we view the record, there is a mere contradiction between the testimony of the state witnesses and appellant and this principally on the question of his condition of sobriety. Testimony as to his reputation for truth and veracity was therefore properly excluded. Branch’s Ann. P.C., Sec. 184, p. 115.
+The evidence sustains the conviction and we find no reversible error.
+The judgment is affirmed.
