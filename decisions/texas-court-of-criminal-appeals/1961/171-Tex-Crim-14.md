@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,164"
+decided: "1961-03-22"
+citations: ["171 Tex. Crim. 14"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Alter v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2633963
+cites_cases: ["320 S. W. 2d 855"]
+---
+
+# Alter v. State
+
+## Majority (MORRISON, Judge)
+
+MORRISON, Judge
+The offense is burglary; the punishment, two years.
+The witness Levitin testified that he closed his furniture store on Saturday night and that when he returned the next Monday morning he found the front door ajar and approximately $1500.00 worth of furniture missing from the store. He stated that sometime later he recovered the stolen furniture by the aid of the officers from a house off Almeda Road and that he saw appellant at such address on that occasion and further observed a number of dogs.
+S. E. Armstead testified that he operated a plumbing establishment immediately adjacent to Levitin’s furniture store and that he had occasion to be at his place of business early on the Sunday morning in question, that a truck loaded with furniture pulled away from the store, and he identified appellant as being the white man who was present at the scene in company with two colored men.
+Mrs. Armstead, who was with her husband on the occasion in question, testified that she took a more active interest in what was going on at the Levitin store; that she attempted to approach the white man, whom she positively identified as appellant, but that he walked away from her and left through a side door; that she pursued him and asked him what he was doing and he replied that they were moving the furniture for the “boss”.
+Detective Gravelin of the Houston police testified that sometime after the date alleged in the indictment appellant was in jail and asked that he be carried home so that he might feed his dogs; that he took him, ¡entered the house at appellant’s invitation, and there found approximately 13 dogs and a house full of new furniture; that there were 4 sofas in one room and 5 tables in another; that he instituted an investigation; and that later Mr. Levitin came to the house and identified the furniture as having come from his store.
+Appellant called his two next door neighbors. Rios testified that on the Sunday morning in question he saw a truck loaded with furniture in front of appellant’s home, that two colored men were knocking on appellant’s front door, and they later unloaded the furniture in appellant’s garage.
+Vivian Kuebal testified that when the colored men knocked on appellant’s front door the dogs in the house began to bark, and she heard a voice inside attempting to quiet them, and the furniture was then unloaded in appellant’s garage. She stated further that a few nights later she saw the furniture being moved into appellant’s house.
+Appellant, testifying in his own behalf, stated that he was in the Levitin store shortly before the day charged and talked to a man who looked like Mr. Levitin and that the man paid him $15.00 to store some furniture for him in his home. He stated that he was asleep when the two colored men arrived at his home on Sunday morning, and he instructed them to put the furniture in the garage, and they came back later and moved it into the house. He denied that he had been near the Levitin store earlier that morning.
+Levitin was recalled and denied ever having made any arrangements with appellant to store furniture for him and denied having seen him prior to the burglary.
+The jury chose to accept the testimony of the state’s witnesses and reject that of appellant and his witnesses, and we find the evidence sufficient to sustain its verdict.
+We have been favored with no brief in behalf of appellant, and no formal bills of exception appear in the record.
+We have examined the exceptions to the charge and find them to be without merit.
+Appellant excepted to the overruling of his amended motion for new trial based upon alleged newly discovered testimony.
+The original motion for new trial was filed on August 26. On September 15, the court granted leave to file an amended motion, and the same was filed. On October 7, the court extended the time for hearing the amended motion until October 21, and the same was on that day overruled. The amended motion for new trial was overruled by operation of law on October 5 prior to the entry of the October 7 order and so the question of correctness of the court’s order of October 21 is not before us for review. The recent case of Brinkley v. State, 167 Tex. Cr. Rep. 472 320 S. W. 2d 855, gives a proper interpretation to Article 755, V.A.C.C.P.
+The judgment is affirmed.
