@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2541"
+decided: "1913-06-18"
+citations: ["71 Tex. Crim. 77"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kid Roberts v. The State."]
+source_url: "https://static.case.law/tex-crim/71/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2380808
+cites_cases: ["70 Texas Crim. Rep., 245", "70 Texas Crim. Rep., 618"]
+---
+
+# Roberts v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+Appellant was properly indicted on April 1, 1911, charging him with unlawfully engaging in and pursuing the occupation and business of selling intoxicating liquors in Collin County in violation of the prohibition law then in force in said county. He was convicted and his penalty fixed at two years in the penitentiary.
+There is no statement of facts with the record. It seems it was deemed unnecessary in view of the sole question raised and to be decided.
+The case was tried on March 4, 1913. Prior to the trial appellant properly filed his sworn plea under the Act of the Thirty-third Legislature- approved February 11, 1913, page 8, to have his sentence suspended in case he was convicted. Under this Act of the Legislature five things are required before the district judge can suspend the sentence : First. Appellant must file his sworn plea before the trial begins, seeking the suspension of his sentence in case of conviction. Second. That the conviction shall not be for murder, perjury, burglary of a private residence, robbery, arson, incest, bigamy or abortion. Third. That the term of conviction found by the jury shall not exceed five years confinement in the penitentiary. Fourth. The verdict of the jury shall find that “defendant has never before been convicted of a felony in this State, or any other State.” Fifth. The jury shall recommend in their verdict that sentence shall be suspended.
+If either of these requisites are lacking the court can not suspend the sentence, but must sentence the party the same as the law heretofore has been and as if said Act suspending the sentence had not been passed.
+On this question the court charged the jury in this case as follows: “7. The defendant in this case having filed his sworn application for a suspension of sentence in the event he is convicted, you are charged that the following is the law with reference thereto:
+“The laws of the State of Texas provide that if there is a conviction of a felony of the character of which the defendant stands charged that the court may suspend sentence when the punishment assessed by the jury shall not exceed five years confinement in the penitentiary and when the proof shows and the jury finds by their verdict that defendant lias never before been convicted of a felony in this State or in any other State. The law further provides that the jury may in their discretion from all of the facts and circumstances in evidence recommend that sentence be suspended, when that is done the law provides that it is obligatory upon the court to suspend sentence during good behavior.
+“8. In the event you find the defendant guilty under this charge, then you will proceed to determine from the evidence adduced whether or not the defendant has ever before been convicted, of a felony in this State or in any other State, and if you find from the evidence that the defendant has never before been convicted of a felony in this State or in any other State, then that fact should be stated in your verdict; in which event you may in your discretion from all of the facts and circumstances in evidence, recommend the suspension of sentence.
+“9. In the event you find the defendant guilty, and further find that he has never before been convicted of a felony in this State or in any other State, the form of your verdict may be: ‘We, the jury, find the defendant guilty as charged in the indictment and assess his punishment at -years in the penitentiary (filling in the blank); and we further find that the defendant has never before been convicted of a felony in this State or in any other State (and you may in your discretion recommend that his sentence be suspended)/”
+The jury found this verdict: “We, the jury, find the defendant guilty as charged in the indictment and assess his punishment at two years in the penitentiary, and we also find from the evidence the defendant has never before been convicted of a felony in this State or in any other State. A. M. Conner, Foreman.”
+From this it will be seen that the jury did not, in their verdict, recommend that the sentence should be suspended. This was a prerequisite, as stated above, and essential to be found before the court could suspend sentence. It was not necessary for the jury to find that they did not recommend the suspension of sentence, hut they must affirmatively recommend in their verdict that the sentence he suspended. Clearly, the discretion of whether or not the jury would recommend the suspension of sentence or not is, under said law, left to them. It was not for the court, and the court could not suspend without the verdict recommending it. This being so, the sentence of conviction is in accordance with the law and the court did not err in not suspending the sentence under said Act of the Legislature. See Monroe v. State, 70 Texas Crim. Rep., 245, and Baker v. State, 70 Texas Crim. Rep., 618.
+The judgment will be affirmed.
+Affirmed.
