@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "742"
+decided: "1895-05-22"
+citations: ["34 Tex. Crim. 494"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pet Harris v. The State."]
+source_url: "https://static.case.law/tex-crim/34/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4477626
+cites_cases: ["42 Iowa, 208"]
+---
+
+# Harris v. State
+
+## Majority (DAVIDSOH, Judge.)
+
+DAVIDSOH, Judge.
+The appellant was tried and convicted under an indictment charging him with theft of a horse, and his punishment assessed at five years in the penitentiary, and from the judgment and sentence of the lower court he prosecutes this appeal.
+The appellant assigns as error in the case the charge of the court on circumstantial evidence. The charge of the court on the subject is as follows: “In order to warrant a conviction upon circumstantial evidence, each fact necessary to establish the guilt of the defendant must be proved by competent evidence beyond a reasonable doubt. All such facts must be consistent with each other and with the guilt of the defendant, and all the circumstances, taken together, must be of a conclusive nature, leading on the whole to a satisfactory conclusion, and producing in effect a reasonable and moral certainty that the defendant, and no other person, committed the offense charged. ’ ’ The error complained of is the omission of the court to embrace in said charge, that “the evidence must exclude every reasonable hypothesis save that of the guilt of the defendant,” and the appellant also requested an instruction on the subject including this feature. The case relied upon by the State for the conviction of the defendant was of a purely circumstantial character, the main criminative fact being testimony to the effect, that the day after the alleged theft the appellant sold a saddle to one Hoovitz, from whom the prosecutor, Britton Turner, subsequently obtained it. The horse was not found in possession of the defendant at all. Hr. Starkie lays down this rule as to circumstantial evidence, to wit: “The force of circumstantial evidence being conclusive in its nature, and the mere coincidence of the hypothesis with the circumstances being, in the abstract, insufficient, unless they exclude every other supposition, it is essential to inquire with the most scrupulous attention what other hypotheses there may be which may agree wholly or partially with the facts in evidence.” Starlde on Ev., sec. 863. In Beavers v. The State, 58 Indiana, 531, this is the language of the court: “We can conceive of no hypothesis by which, in the order of natural causes and effects, the facts proved can be explained consistently with the innocence of the prisoner; and this is the true test of circumstantial evidence. It excludes all reasonable doubt of the prisoner’s guilt.” The same rule seems to be recognized in Iowa, but seems to be applied where the act is in question, and is to be established by circumstantial evidence. The court say: “This rule is proper when the act which is claimed to be criminal is sought to be established by circumstantial testimony, but when the act is proved by direct testimony, and all that remains to be found is the intent which accompanies the act, and which may be inferred from the circumstances which accompany the act, then this principle does not apply.” The State v. Maxwell, 42 Iowa, 208; 2 Thomp. on Trials, p. 1860. In this case, as stated before, the State proposed to prove the act of taking by circumstantial evidence, and the main, if not the only, criminative fact in the case was the testimony as to the possession on the next day by the defendant of the saddle, taken at the same time. In our opinion, the court should have embodied the provision in its charge that the proof or evidence ought to be not only consistent with the prisoner’s guilt, but inconsistent with every other. rational conclusion. This was not done, and the error of the court is such as requires a reversal of this case. Jones v. The State, ante, p. 490.
+The appellant also assigns as error in this case the. failure of the court to properly instruct the jury as to how they were to consider the evidence regarding the defendant’s possession of the saddle. He was not charged with theft of the saddle, and proof of his possession of the saddle could only be made as a criminative circumstance against him, in connection with the charge for which he was then on trial, namely, theft of a horse. No exception was taken to the failure of the court to instruct as to how they might consider the theft of the saddle at the same time and place, but, as there was no danger that the jury might, under the circumstances of the case, convict the defendant for theft of said saddle, the failure of the court to so charge was not error; but for the error of the court, heretofore discussed, in failing to give a proper charge on circumstantial evidence, the judgment is reversed and the cause remanded.
+jReversed and remanded.
+Judges all present and concurring.
