@@ -1,0 +1,80 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,011"
+decided: "1954-06-09"
+citations: ["161 Tex. Crim. 336"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. M. Olliff v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0336-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2466760
+cites_cases: ["106 Texas Cr. Rep. 550", "124 S.W. 2d 349", "131 S.W. 567", "136 Texas Cr. Rep. 210", "143 S.W. 610", "144 S.W. 268", "149 Texas Cr. Rep. 376", "150 Texas Cr. Rep. 344", "152 Texas Cr. Rep. 560", "154 S.W. 228", "155 S.W. 212", "158 Texas Cr. Rep. 344", "194 S.W. 2d 556", "200 S.W. 2d 1007", "216 S.W. 2d 209", "223 S.W. 473", "234 S.W. 671", "255 S.W. 2d 878", "262 U.S. 390", "29 A.L.R. 1446", "293 S.W. 575", "60 Texas Cr. Rep. 169", "65 Texas Cr. Rep. 362", "65 Texas Cr. Rep. 40", "69 Texas Cr. Rep. 155", "69 Texas Cr. Rep. 561", "87 Texas Cr. Rep. 588", "90 Texas Cr. Rep. 320"]
+---
+
+# Olliff v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for murder, the punishment fifteen years in the penitentiary.
+Appellant, a 52-year-old operator of a trailer camp in Midland, admittedly shot with a pistol and killed R. W. Alexander.
+The deceased Alexander had, prior to the day of the killing, Tented space for his trailer house at appellant’s camp and some unpleasantness had arisen because of a mud fight between their sons. This resulted in appellant suggesting that the deceased move, which he did the morning of the day he was killed.
+The deceased left owing appellant $12.00 rent, and appellant went to the trailer camp to which the deceased had moved for the purpose of collecting such rent. He did not find him there, but.later saw the deceased and his. wife as they were about to enter a small house that proved to be the residence of friends of the deceased and his wife.
+According to appellant’s version the deceased entered the residence, then came out “at a pretty fast clip.” This scared appellant and caused him to believe that the deceased was going to attack him, so he called out “Mr. Alexander you forgot to pay me when you left up there.”
+The deceased replied that he did not forget to pay, cursed and ran up and grabbed appellant’s arm as he stood near the front of his car.
+He jerked loose and attempted to get in his car but the deceased pulled him out. Appellant succeeded, however, in getting a pistol from the front seat of the car and pointed it at the deceased’s heart. He explained that he was attempting to bluff him, and said “Mr. Alexander, I just came down here to collect my rent” and when the deceased said nothing he added “Í got a gun here; I got a gun here.”
+The deceased then caught his hand and shoved the gun down. Appellant testified that he pulled the trigger when he was sure in his own mind the pistol was not pointed at the deceased; that he had no intent to hit him, but only to bluff or scare him.
+According to appellant, the deceased at the time of the shot gave his arm a twist, thus accounting for the bullet striking the deceased.
+Appellant further testified that he was not aware of the pistol being on the seat of the car when he was looking for and located the deceased, but first discovered it there as he was being pulled out of the car by the deceased.
+The state, after appellant had testified, produced an eye witness to the killing who gave an entirely different version thereof.
+Louise Jones testified that she was standing at a window of the house which she then occupied diagonally across the street from where the shooting occurred. She testified that she saw appellant’s car drive up; saw him getting out of the car with a six shooter behind his legs; saw the deceased walking from the house, and just as he walked around the open door of appellant’s car “Mr. Olliff raised his six shooter and pointed it just above his belt----and the boy threw his hands, both hands, straight up and just said ‘Oh!’ and broke and ran down the west wall of the house.”
+This witness further testified that she heard no loud noise, talking or hollering before the deceased said “Oh!”; that there was no struggle and the deceased did not have his hands on appellant at the time of the shooting.
+It is conceded that the issues were properly submitted to the jury and that the evidence sustains its findings against appellant’s claim of accident and self-defense.
+There are two principal claims of error presented by Formal Bills of Exception 1 and 2.
+Bill No. 1 complains that over appellant’s timely objection and after he had filed a written motion seeking to prevent the interrogation, the district attorney was permitted to ask members of the jury panel whether or not they or any member of their immediate family, or any close friends, were members of the religious society known as Jehovah’s Witnesses.
+The bill of exception as presented for approval was refused, and the trial court filed his own bill. He declined to take judicial notice that the refusal of Jehovah’s Witnesses to serve in the Army during the war brought the organization into such disrepute that any reference to the organization would create a prejudice against appellant.
+Also the trial court declined to certify that the district attorney knew that no member of the jury panel was a member of Jehovah’s Witnesses, or knew that appellant had “been a preacher” in such society.
+There is nothing in the bill of exception nor elsewhere in the record to show that appellant was a member of or in any way connected with the religious group known as “Jehovah’s Witnesses.” It is not shown that members of that organization refused to serve in the Armed Forces during World War II or that any prejudice against the organization existed which was known to members of the jury panel.
+We are unable to agree that the conduct of the members of the organization known as Jehovah’s Witnesses, in regard to serving in the Army, is so well known and of such a nature as to authorize the courts to take judicial notice of any prejudicial effect of the mention of the organization during the trial of a criminal case.
+But if there be such a prejudice against the organization for the reason suggested, or for other reasons, we cannot agree that error is shown by this bill in the absence of a showing that appellant was in some way connected with the organization.
+The state, for the purpose of exercising its peremptory challenges, was entitled to have the information sought from the prospective jurors, and we are not impressed with the suggestion that the inquiry should have been limited to the question “of what church are you a member?”
+Bill No. 2 relates to the overruling of appellant’s amended motion for new trial based upon the claim of newly discovered evidence.
+The newly discovered witness Roscoe Conklin testified on the hearing of the motion to the effect that he passed appellant’s car just before the shooting and saw two men at the side of the car who were apparently arguing; that the taller man, whom he identified as appellant, got in or attempted to get in the car and the other pulled him back, that he heard a shot as he was walking away and turned and then saw a man going toward the house.
+The witness Conklin was cross-examined at length and admitted that he had been sentenced to the penitentiary for robbery with firearms and for “whiskey” in 1935; that he had been in trouble since, and was unemployed.
+After the hearing had progressed for some time, the district attorney requested a postponement for the purpose of checking into the testimony of Conklin, stating that it came as a surprise ; that he did not believe what Conklin had testified and expected to be able to prove that the witness was not in Midland on the day in question.
+The hearing was postponed from December 29, 1953, until January 2, 1954, and when court reconvened and Conklin was called for further cross-examination it was ascertained that he was. not in attendance, and efforts to locate him were to no avail..
+The hearing was again postponed and on January 23, 1954, the witness Conklin not having been found, it was stipulated that, after the first hearing had been recessed, appellant’s counsel advised the witness he was no longer needed and that during the intervening weeks an intensive search had been made for the witness by attorneys for appellant, attorneys for the state, and by both state and county peace officers of West Texas, and no trace of or evidence as to the whereabouts of the witness Conklin had been uncovered or developed.
+The trial court, in overruling appellant’s motion for new trial, expressed the opinion that the testimony was not probably true.
+Appellant challenges the right of the judge to pass upon the truth of the testimony and contends that the question is one for the jury on another trial.
+'The rule appears to be that the probable truth of newly discovered testimony relied on as ground for new trial, and the question whether its introduction would have affected and probably changed the jury’s verdict, are for the court. Hughes v. State, 136 Texas Cr. Rep. 210, 124 S.W. 2d 349; Henson v. State, 150 Texas Cr. Rep. 344, 200 S.W. 2d 1007; Branch’s Ann. P.C., p. 128, Sec. 200.
+But we need not predicate our decision on the trial court’s finding that the testimony was not probably true and would not likely have changed the verdict, because of the insufficiency of the motion to raise the question of newly discovered evidence.
+The action of the trial court complained of was the overruling of appellant’s second motion for new trial filed on January 23, 1954. It was overruled the same day.
+This motion alleges newly discovered evidence and relates that the affidavit of Roscoe Conklin is attached.
+The second amended motion for new trial is not sworn to by appellant or his counsel and was therefore insufficient. Branch’s Ann. P.C., 125, Sec. 193; Hughes v. State, 106 Texas Cr. Rep. 550, 293 S.W. 575; Linney v. State, 152 Texas Cr. Rep. 560, 216 S.W. 2d 209; Fluellen v. State, 149 Texas Cr. Rep. 376, 194 S.W. 2d 556.
+Nor do we find an affidavit attached to such second amended motion made by the newly discovered witness.
+If it was so attached, it has been held that the motion must, nevertheless, be verified by the defendant or his counsel. Parroccini v. State, 90 Texas Cr. Rep. 320, 234 S.W. 671; Cartwright v. State, 158 Texas Cr. Rep. 344, 255 S.W. 2d 878.
+If we may assume that it was intended that the affidavit of Conklin attached to the first amended motion for new trial be considered as a part of the second amended motion, this will not avail appellant for the additional reason that it appears that this affidavit was sworn to before one of appellant’s attorneys.
+The defendant’s attorney cannot act as a notary public in taking affidavits in support of a motion for new trial for newly discovered evidence. Branch’s Ann. P.C. 125, Sec. 194; Cuellar v. State, 69 Texas Cr. Rep. 155, 154 S.W. 228; Scott v. State, 65 Texas Cr. Rep. 40, 143 S.W. 610; Peters v. State, 69 Texas Cr. Rep. 561, 155 S.W. 212; McGinsey v. State, 65 Texas Cr. Rep. 362, 144 S.W. 268; Maples v. State, 60 Texas Cr. Rep. 169, 131 S.W. 567; Steele v. State, 87 Texas Cr. Rep. 588, 223 S.W. 473.
+For the reasons stated, the trial court is not shown to have abused his discretion in overruling the motion for new trial.
+The judgment is affirmed.
+
+## Rehearing (DAVIDSON, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING
+DAVIDSON, Judge.
+In addition to what' we said in our originial opinion in disposing of appellant’s contention that the action of state’s counsel in interrogating the prospective jurors as to membership in the religious sect known as Jehovah’s Witnesses constituted a violation of his constitutional guarantee of religious freedom, the following is noted:
+While the First Amendment to the Federal Constitution guaranteeing religious freedom operates only as an inhibition to Congress and not to the state, the weight of authority now appears to be that religious freedom, as there guaranteed, is binding upon the states as coming within the due process clause of the Fourteenth Amendment. Meyer v. Nebraska, 262 U.S. 390, 67 L. Ed. 1042, 43 S. Ct. 625, 29 A.L.R. 1446.
+So then, the Federal question presented is not so much one of a denial of religious freedom as it is whether appellant has been denied due process of law because of his religious affiliation. The state question presented is whether appellant has been denied religious freedom as guaranteed by Art. 1, Sec. 6, of the Constitution of this state.
+The religious freedom guaranteed in the constitutional provisions rested in and was aimed at security to every citizen in the right to worship according to the dictates of his own conscience, without prohibition or interference by Congress or the legislatures of the respective states.
+It is the act of those legislative bodies that does or does not violate the guarantee of religious freedom.
+Here, we have no legislative act by or through which it may be said that appellant has been denied religious freedom. Consequently, a violation of the constitutional guarantees of religious freedom is not shown by this record.
+In its final analysis, then, appellant’s contention is that he was discriminated against upon and during the trial of this case because of his religious belief and that his resultant conviction violated due process.
+The claimed discrimination arose during the selection of the jury.
+There is an absence of any evidence showing or tending to show that the jury, or any member thereof, that tried this case was prejudiced against the appellant because of his religious affiliation. Appellant would have us hold, as a matter of law, that the voir dire examination of the jurors had the effect of informing the jury that he was a member of Jehovah’s Witnesses and the knowledge on the part of the jurors of his alleged membership in such religious group so prejudiced them as to preclude a fair and impartial trial. This we are unwilling to hold.
+Moreover, if appellant thought that he had been injured or prejudiced by the action of the state’s counsel in inquiring as to the religious matter, then he should have pursued the matter by examination of the individual veniremen in order to determine if prejudice existed as a fact. This he did not do.
+We are unable to agree with the appellant that this record reflects prejudice or discrimination against him by the jury on account of his religious affiliation.
+We remain convinced that the motion for new trial was not legally sufficient to present the question of newly discovered evidence.
+Believing that a correct conclusion was reached originally, the motion for rehearing is overruled.
+Opinion approved by the court.
