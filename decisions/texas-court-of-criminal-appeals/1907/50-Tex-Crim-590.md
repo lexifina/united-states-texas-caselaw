@@ -1,0 +1,22 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3742"
+decided: "1907-01-30"
+citations: ["50 Tex. Crim. 590"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Grace Lockett v. The State."]
+source_url: "https://static.case.law/tex-crim/50/cases/0590-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2371016
+---
+
+# Lockett v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+The indictment charges appellant with disturbing the peace by going into and near a public place, to wit: a public road, and did then and there unlawfully use loud and vociferous language in a manner calculated to disturb the inhabitants residing along and upon said public road against the peace and dignity of the State.”
+The State’s case is made out by the witness Payne, who testifies that on the evening of the 26th of December, 1905, appellant and Bob Anderson were driving a small gray pony to a buggy traveling along the public road near, his residence. "When they pased my house they were whipping the pony every jump it made and had it in a run. They were also whooping and yelling as loud as they could and con"tinued the samé as far as I could see them. They passed my house about sundown. I do not know whether defendant whooped and yelled or not, but I think he did. The defendant and Bob Anderson were the only parties in the buggy, and it was one of them doing the whooping and yelling.” Appellant introduced Bob Anderson, who stated that he was with appellant in the buggy on the day in question; that he himself did not whoop nor yell along the road in front of Lee Payne’s residence ; that he was not whipping the pony every jump, but occasionally would strike him to make him travel. He says if appellant whooped or yelled he did not remember it, and he thinks he would have heard him for he was in the buggy with him. That the defendant called the dog a few times which they had with them when he would stray away from the buggy; that he and appellant were drinking some that evening. Appellant testified about as did Bob Anderson, and denied emphatically that he whooped or yelled, but that he did call his dog a few times, and that in calling said dog they did not intend to disturb any one. They are corroborated, to some extent, by the witness Bufe Anderson. The court instructed the jury in accordance with the allegation in the indictment that if defendant did go into a public road and did then and there use loud and vociferous language in a manner calculated to disturb the inhabitants residing along and upon said public road, you will convict him. Appellant asked the court to charge the jury that though you should believe from the evidence that the defendant used loud and vociferous language, yet unless you believe that same was done in a manner calculated to disturb the inhabitants of said public place as alleged in the indictment, you will acquit him, or if they entertained a reasonable doubt they should acquit. The error is assigned on a refusal of the special requested instruction. We are of opinion that, under the facts, this charge should have, been given. Article 334, Penal Code, provides as follows: “If any person shall go into or near any public place, or into or near any private house, and shall use loud and vociferous or obscene, vulgar or indecent language, or swear or curse, or yell or shriek, or expose his person, or rudely display any pistol or other deadly weapon, in a manner calculated to disturb the inhabitants of such public place or private house, he shall be fined in any sum not exceeding $100.” It will be observed that this article provides various and sundry means by which its provisions may be violated, and for which punishment would accrue. The pleader did not select out of these different provisions that which relates to yelling or shrieking but that which relates” to the use of loud and vociferous language. The proof shows that if there was any disturbance it was by means of whooping and yelling and not by means of the use of language. The pleader, having elected to allege the portion of the statute which prohibits loud and vociferous language, will be required to prove such allegations. The allegation set out cannot be sustained by proof of yelling and whooping, because in our judgment the evidence does not support the allegation in the indictment. The judgment is reversed and the cause remanded.
+Reversed and remanded.
