@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,643"
+decided: "1962-05-23"
+citations: ["172 Tex. Crim. 362"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elton McNutt v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2636323
+---
+
+# McNutt v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is burglary; the punishment, enhanced by two prior convictions for felonies less than capital, life.
+The prior convictions were- stipulated by appellant and his counsel and the attorney representing the state.
+The evidence introduced without objection shows that appellant was observed, by the owner, emerging from a private residence from which Ten Dollars was found missing. He was pursued and later arrested and confessed that he entered the house through the back door and took Ten Dollars from a purse.
+The evidence shows, and appellant stated in his confession, that the back screen door was closed but not locked.
+The jury rejected appellant’s testimony at the trial, that he went to the house looking for work but did not enter it or steal anything.
+Experienced and able counsel appointed by the court have found no ground upon which to ask reversal.
+The evidence is sufficient to sustain the conviction and we find no reversible error.
+The judgment is affirmed.
