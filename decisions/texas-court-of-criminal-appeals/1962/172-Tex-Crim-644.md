@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,805"
+decided: "1962-10-24"
+citations: ["172 Tex. Crim. 644"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donald Harold Zigler v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0644-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2640431
+---
+
+# Zigler v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Appellant was convicted of hunting upon the enclosed lands of another and his punishment was assessed at a fine of $50.
+Trial was in the county court upon an indictment returned in the 30th Judicial District Court of McMullen County and by that court transferred to the county court.
+The indictment, drawn under Sec. 1(a) of Art. 1377b, V.A. P.C., alleged that on or about the 4th day of November, 1961, in McMullen County, the appellant “did then and there unlawfully enter upon the enclosed land there situated of "another, to-wit, land under the control, care and management of J. W. Donnell, who then and there had the said land in his actual care, control and management, without the consent of the said J. W. Donnell, and the said Donald Harold Zigler, did then and there hunt with a firearm * * * .”
+The state’s testimony shows that on the date alleged, the appellant was hunting deer from a stand on a 10-acre tract of land which was inside the enclosure of a 4,000-acre tract of land known as the Lower Muerta pasture. Both tracts of land were enclosed by a four barbed wire fence.
+Game Warden Russell Lancaster testified that on such date he was on the 4,000-acre tract; that while watching appellant in the stand on the 10-acre tract he saw him shoot a deer on the 4,000-acre tract; that he saw the deer fall and when he later found the deer he observed that it had been shot only one time, the bullet striking behind the shoulder through the backbone. He further testified that, later, after the shot was fired he saw appellant over in the 4,000-acre pasture; that appellant did not have a firearm with him at such time and that he observed a gun leaning on the stand on the 10-acre tract.
+The prosecuting witness, J. W. Donnell, testified that he had the 4,000-acre Muerta pasture under lease and that it was in his possession and under his care, control, and management. He further stated that he had never given the appellant permission or consent to hunt on or shoot across the land.
+Testifying as a witness in his own behalf, appellant admitted shooting the deer from his stand on the 10-acre tract and testified that the first shot was fired when the deer was inside the 10-acre tract. Appellant stated that the first shot struck the animal in the gut and after it jumped the fence he fired the second shot, which killed the deer. Appellant swore that he never carried his rifle outside the 10-acre tract but left it at the stand before crossing the fence into the large tract.
+The jury resolved the fact issues against appellant, and the evidence is sufficient to sustain the conviction.
+Appellant’s first three claims of error are the same as were urged and decided adversely to the accused in Cause No. 34,804, styled George E. Hancock, Appellant v. The State of Texas, Appellee, this day decided.
+In affirming the conviction in the Hancock case and overruling the similar contentions, we held evidence that the accused shot across a fence and killed a deer in another’s enclosed pasture constituted an entry upon the land of another and hunting with firearms, as prohibited by Sec. 1 (a) of Art. 1377b, supra. Similar proof was made in the instant case.
+In the Hancock case we held that parol evidence of prior possession by the person alleged to be in the actual care, control, and management of the land was sufficient to prove his ownership and right to possession in trespass-to-try-title, as provided in Sec. 1(d) of Art. 1377b, supra. It was also held that although the proof showed that the accused had the right of ingress and egress on the enclosed land, the state had the right to elect under which section of the statute, Sec. 1 (a) or Sec. 2 (a) it would prosecute, and had the right to prosecute him under Sec. 1 (a) of Art. 1377b, supra.
+Appellant’s last contention is that the court committed reversible error during the state’s examination of the prosecuting witness, J. W. Donnell, with reference to his ownership and possession of the 4,000-acre tract when, upon objection being made by appellant, the court stated: “Well, I believe it is general knowledge that he does have possession of it.”
+While the court’s comment was improper, under the record we do not deem it such a comment as was reasonbly calculated to prejudice the rights of appellant. There was no dispute in the evidence but that the witness Donnell was in possession of the tract of land and appellant, by his evidence, made no claim to the • contrary. The record further reflects that the jury was instructed by the court to disregard the statement.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment is affirmed.,
+Opinion approved by the Court.
