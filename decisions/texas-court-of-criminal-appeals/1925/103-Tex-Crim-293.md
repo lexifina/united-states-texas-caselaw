@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9545"
+decided: "1925-10-21"
+citations: ["103 Tex. Crim. 293", "280 S.W. 216"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ed Duncan v. The State."]
+source_url: "https://static.case.law/tex-crim/103/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5114714
+cites_cases: ["124 S. W. 668", "136 Am. St. Rep. 1005", "43 Tex. Cr. R. 466", "66 S. W. 845", "66 S. W., 845", "87 Tex. Cr. R. 625"]
+---
+
+# Duncan v. State
+
+## Majority (BERRY, Judge.)
+
+BERRY, Judge.
+The appellant was convicted in the District Court of Hopkins County for the offense of murder and his punishment assessed at confinement in the penitentiary for a term of seventeen years.
+Appellant contends that the judgment of conviction is void for the reason that the judge who presided upon the trial of the case was related within the third degree by consanguinity to the deceased, Joe Sims. It was appellant’s contention that Judge J. M. Melson was a second cousin of deceased. It is conceded by the state that if such was the fact, the judgment was void for the reason that under the authorities second cousins are within the third degree, and under the law relation to the court of the deceased within the third degree disqualifies the Judge. Art. 552, C. C. P. Gresham v. State, 66 S. W. 845.
+The state also concedes that the statement of facts adduced on motion for a new trial shows that one John Philip Orr, 88 years of age, testified unequivocally that Judge Melson and deceased were second cousins. The record on motion for a new trial also discloses that Orr was related to both the deceased and to Judge Melson. A part of this witness’ testimony was based on what his mother had told him while living, but it was undisputed that his mother was dead at the time of his testimony and under the authorities his testimony as to what his mother told him was admissible. Family history, under the many decisions in this state,. is admissible for the purpose of showing relationship. Roan v. State, 124 S. W. 668.
+There was no testimony in the record contradicting that of this witness. Judge Melson himself testified on the motion for a new trial, but his testimony went no further than to say that he did not know of the relationship. Quoting from his testimony he said: “I am not in a position to deny or concur in what Mr. Orr says.” In fact the state in his brief concedes that the Judge’s testimony goes no further than to say that he did not know and was not in a position to deny or concur in what was testified. This is all the testimony introduced on the issue, no other witnesses being heard thereon and we think it clear that no issue of fact was raised as such relationship, but on the contrary, we hold that the record establishes the fact beyond dispute that the trial judge and the deceased were second cousins. This being true, the district judge was without authority to try the case under the express terms of the statute and the judgment rendered by him condemning the appellant to the penitentiary is without authority of law, and void.
+From what has been said, it follows that the judgment should be reversed and the cause remanded.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+The only question discussed in the motion is the disqualification of the trial judge. The matters in the record pertaining thereto have- been carefully considered. Mr. Orr and Mrs. Christian, one 88 and the other 82 years.of age, made affidavits which were appended to appellant’s motion for new trial, each affirming that the trial judge and Joe Sims, for whose murder appellant was convicted, were great grandsons of a common ancestor, John Sims. Said affidavits state that John Sims had a son, Jesse — that Jesse had a son, Tom — and that Tom’s son was Joe Sims, the deceased herein; that John Sims had a daughter, Ophelia, and that her son was Ladd Melson, father of the trial judge. The same two affiants later gave to the state affidavits in substance that Ladd Melson’s mother was not Ophelia Sims. On the issue presented by the motion for new trial in this regard the court heard evidence. Mr. Orr orally testified affirming the correctness of his first affidavit, save that he was mistaken in the given name of Ladd Melson’s mother, and that her name was Parnelopy and not Ophelia. He affirmed that John Sims was twice married, and that Jesse, the grandfather of deceased, and Parnelopy, the grandmother of the trial judge, were children of the first marriage, and that witness’ mother was a child of the second marriage. He said that while he had not personally known Parnelopy Sims who married Appleton Melson, and was the grandmother of Judge Melson, he had heard facts of the relationship often discussed by his own father and mother who were of the same generation of the family as said Parnelopy. Judge Melson testified and from his evidence we conclude that the judge’s grandmother died while her son, Ladd Melson, was small. The judge testified that when he was about ten years old one Eccles came from Georgia and visited his father’s home, and that witness’ understanding from his father and mother both was that this man Eccles was a brother of Mrs. Appleton Melson, witness’ grandmother. Judge Melson did not explain how he arrived at such understanding. Appellant then recalled Mr. Orr, who testified further that said Eccles, who came from Georgia and visited him and Judge Melson’s father, married a sister of Appleton Mel-son. This would make him a brother-in-law of Appleton Mel-son and wife and might easily account for their having referred to him as their brother, and it might be that from this Judge Melson derived his understanding.
+We have carefully considered this matter in view of the fact that the motion for new trial was overruled after hearing this testimony. While hearsay testimony as to family history is admissible, and in a sense the hearsay testimony favorable to one view may be met by hearsay testimony favorable to the opposite viewpoint, still we are of opinion that the testimony of two members of the family, of practically the same generation as the deceased ancestors, who state that they have heard the matter frequently discussed by other members of the family who had personal knowledge of the point at issue, would seem to us entitled to more weight than testimony based on hearsay statements of a later generation and of apparently much less satisfactory character. Both under the Constitution and the statute a judge related within the third degree by affinity or consanguinity to the injured party, could not try the case. We are inclined to believe the matter was correctly decided in the original opinion, and the motion for rehearing by the state will be overruled.
+Overruled.
