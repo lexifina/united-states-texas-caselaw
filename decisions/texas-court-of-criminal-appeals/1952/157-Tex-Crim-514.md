@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,874"
+decided: "1952-06-11"
+citations: ["157 Tex. Crim. 514"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marvin Ruff v. State."]
+source_url: "https://static.case.law/tex-crim/157/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2574799
+cites_cases: ["148 S. W. (2d) 1102"]
+---
+
+# Ruff v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is robbery by assault; the punishment, 5 years.
+The indictment charged appellant with robbery by assault and the taking of $13.00 from the possession of Marvin Barker by means of such assault.
+The state relied upon appellant’s confession to establish the essential elements of the offense charged.
+Appellant and his friend McKenzie met two strangers, one Barker and one known only as “Dan,” at a beer drinking establishment. As the closing hour approached, the party fortified themselves with two cases of beer and repaired to a side road in the country to continue their revelry. As to what happened there, we are relegated to the confession. Therein, it is related that, on the way to the country, the appellant offered Barker a “turn,” and that, instead of accepting the same, Barker hit the appellant. “Dan” took offense at this and hit Barker, telling him that appellant was his buddy. After the car came to a stop, appellant, evidently encouraged by “Dan,” hit Barker. “Dan,” not being satisfied that appellant would give Barker a proper whipping, interceded and brutally beat Barker to insensibility. The confession continues, “I tried to get Dan to stop and he said to get away and leave him alone * * After this was over, the confession continues, “Then either Dan or Albert (McKenzie) one said ‘get his wallet’ ” but he does not confess that he ever saw them do so. Barker’s wallet was found in his hip pocket the next day.
+The closing statement of the confession is to the effect that when the three returned to town, leaving the injured party by the roadside, they went to the Hill Top Cafe, where “Dan” told them that Barker’s wallet had contained about $13 and gave appellant and McKenzie $4 each.
+The state’s case, which included the appellant’s confession, did not establish the corpus delicti of the offense; i.e., it was not established that any money had been taken from the injured party as an incident to the assault committed upon him. The fact that the injured party was later found on the roadside would not corroborate the confession as to the robbery. Nor was the confession corroborated in any way to show that appellant had received any of the fruits of the robbery.
+The appellant called the witness Tom Burge, who testified that, on the night in question, he had seen “Dan” shove some money over to the appellant while they were seated at the Hill Top Cafe. This did not corroporate the appellant’s confession that the $4.00 had come from the person of the injured party. There was no showing that Barker ever had $13.00, or any money at all, upon his person, other than the $2.00 later found in his pocket, and no showing that any money was taken from him; and, as stated before, the wallet was found on Barker’s person.
+In Lott v. State, 141 Tex. Cr. Rep. 366, 148 S. W. (2d) 1102, where, like the case at bar, the injured party was not available to testify that he, in fact, had lost the money alleged to have been stolen from him, we said: “Other than the confession there is nothing in the record to show that Stelle lost $20.00 by theft. * * * Obviously, the evidence is not sufficient to support the judgment of conviction.” The case at bar is weaker than the Lott case, because the confession in this case does not show that the money received by the appellant came from the injured party.
+Finding the evidence insufficient to support the conviction, the judgment is reversed and the cause remanded.
