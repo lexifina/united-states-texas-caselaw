@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3848"
+decided: "1907-11-06"
+citations: ["52 Tex. Crim. 42"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rosco Trinkle v. The State."]
+source_url: "https://static.case.law/tex-crim/52/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4560571
+---
+
+# Trinkle v. State
+
+## Majority (DAVIDSON, Presiding)
+
+DAVIDSON, Presiding
+This conviction was for an ordinary violation of the local option law. ■ The sale was charged to have been made to Hill Morris; he testified in behalf of the State that during the fall of 1906, he lived at Big Sandy; was acquainted with the defendant, and knew him at the time appellant was running a cold drink business or Ino Joint at Big Sandy; that about the 12th of December he went in appellant’s place of business; walked back through a door in a partition wall and back to a small room in the rear part of the house; appellant was in the room. “I walked into the small room where he was and picked up a half pint bottle of whisky and put 35 cents down where I picked up the whisky. There were other bottles sitting around in the small room. I went into this little room to get some whisky. I had heard negroes say you could get whisky in that way.” This witness did not know whether appellant picked the money up or not. This room is just a small room cut off in the corner of the main house. There were old barrels and boxes piled up in the back end of the main building and people sometimes came in there to open up express packages of whisky and sometimes left them there for a short time. The door to this small room is generally closed. He further states that appellant “never did by word or sign, wink or gesture or in any way whatever indicate or tell me how to get whisky. I do not know who got the money I put down. I drank this whisky and it did not intoxicate me in the least. The room where I got the whisky stands open most of the time. I have seen parties around Big Sandy several times get whisky by express and take it in this back room and open it up and drink it.” Among others, he mentioned Tom Johnson and S. B. Bradley whom he had seen open whisky they had gotten through the express company and drank whisky in there with them and other parties, and that he himself had opened whisky there and treated his friends, and would leave it there while he knocked around town and afterwards would return and get it. He says he did not know who owned or run the cold drink stand, whether defendant or John Johnson; they were both working there, and “I do not know whether the defendant saw me when I got the whisky or not, and don’t know whether any one ever got the money. I cannot give the jury any idea as to whose whisky it was.” While this witness was on the stand he was asked the following question: “How came you to think you could get whisky in the house when you got this whisky?” Appellant objected to this and to the answer as to what the witness thought, and if based upon a statement made by any person other than defendant it would be hearsay, and the witness answered: “I had heard some negroes
+say that whisky could be gotten there.” This is the recitation in the bill of exceptions. This was hearsay and inadmissible. The court charged the jury in regard to circumstantial evidence, and began this clause of the charge, as follows: “The State relies to a certain extent in this case upon circumstantial evidence for a conviction.” A charge on circumstantial evidence was asked by appellant and refused, omitting this expressiqn, and giving the usual charge in regard to this phase of the law. Exception was reserved to the court’s charge, first, because it is an improper limitation upon the charge of circumstantial evidence, and, second, the court did not explain to what extent or in what particular the State relies upon circumstantial evidence. We believe this charge is subject to the criticism made. Where a charge on circumstantial evidence is required in a case, it must be given in accordance with the requirements of law. This, we understand, was a case of circumstantial evidence. The witness Morris says he got the whisky in the back room, and that appellant was in there at the time; that he did not pay the money to appellant," but picked up the bottle of whisky and laid the money down and was not aware that appellant saw him get it, or that appellant even received the money. We are not intimating any view as to the weight of the testimony but are only discussing this character of charge. A party accused of an offense is entitled to the law of the case fully and not in such qualified or restricted way. The charge on the law must be applicable to the facts.
+There.are other questions in this case that are not discussed, but will be determined in another case from the same county.
+For the errors indicated, the judgment is reversed and the cause remanded.
+Reversed and remanded.
+Henderson, Judge, absent.
