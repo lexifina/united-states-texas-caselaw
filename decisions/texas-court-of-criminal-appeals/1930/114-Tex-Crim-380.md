@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "12982"
+decided: "1930-01-29"
+citations: ["114 Tex. Crim. 380", "25 S.W.2d 339"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. R. Tube, Sr. v. The State."]
+source_url: "https://static.case.law/tex-crim/114/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5182328
+cites_cases: ["10 S. W. (2d) 549", "100 Tex. Cr. R. 375", "194 S. W. 944", "298 S. W. 898", "33 Tex. Cr. R. 461", "83 Tex. Cr. R. 325", "93 Tex. Cr. R. 402", "95 Tex. Cr. R. 350", "96 Tex. Cr. R. 558"]
+---
+
+# Tube v. State
+
+## Majority (CHRISTIAN, Judge.)
+
+CHRISTIAN, Judge.
+The offense is selling intoxicating liquor; the punishment confinement in the penitentiary for two years.
+The state’s witness testified that he went to appellant’s place of business and bought some whiskey from him. He said that he was sick and told appellant of that fact before appellant delivered the whiskey to him. The witness had been drunk for several weeks, resulting in illness and extreme nervousness. A physician testified that whiskey, properly administered, would have been good for the witness. The brother of the witness gave him small quantities of the whiskey from time to time, the result being that the witness regained his appetite and was soon in his normal health. Appellant did not testify.
+The court advised the jury, in substance, that if they had a reasonable doubt as to whether appellant sold the whiskey to the witness for medicinal purposes they would acquit appellant. In his closing argument, the district attorney stated to the jury, in substance, that the law required in a case of the nature on trial that the purchaser go to a physician, be examined, get a prescription and have it filled by a druggist; that to permit a sick person to go to a bootlegger and buy whiskey would be absurd and would, in effect, render the law null and void. Appellant timely and properly objected to this argument and presented his written request to the court which, in effect, would have advised the jury that the remarks of the district attorney were unwarranted and that they should not be considered by the jury. The court refused to withdraw the remarks. In this, error was committed. The argument of the district attorney contradicted the charge of the court touching the defensive theory. The court advised the jury that appellant should be acquitted if they had a reasonable doubt as to whether he sold the whiskey for medicinal purposes. The district attorney advised the jury, in effect, that under the law appellant was guilty, notwithstanding he sold the whiskey for medicinal purposes. The argument was calculated to deprive appellant of the benefit of the charge submitting his defense. Valdez v. State, 10 S. W. (2d) 549.
+There was no evidence in the record that appellant had theretofore been tried and convicted of another offense involving a sale of intoxicating liquor. Before the jury had decided upon the number of years they would assess against appellant, one of the jurors imparted the information to the jury that appellant had been convicted of violating the prohibition law in another case. Misconduct of the jury was set up in the motion for new trial. That the statement referred to was made by the juror before the jury decided upon the penalty to be assessed was uncontroverted. Subdivision 7 of article 753, C. C. P., provides that a new trial shall be granted in cases of felony where the jury, after having retired to deliberate upon a case, have received other testimony. Information given by one of the jurors to the others is new and other testimony within the meaning of the statute. McDougal v. State, 194 S. W. 944. The statement of the juror was of such material character as to create the presumption that it resulted in injury to appellant. Where, after retirement, the jury receive other evidence damaging to appellant, the presumption of injury will obtain. Holland v. State, 298 S. W. 898. The evidence, in our opinion, does not show that appellant was not injured by the statement of the juror.
+For the errors discussed, the judgment is reversed and the cause remanded. ,
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (MORROW, Presiding Judge.)
+
+ON STATE'S MOTION FOR REHEARING.
+MORROW, Presiding Judge.
+The accuracy of the interpretation of bill of exceptions No. 5 is challenged by State’s counsel in his motion for rehearing. The language contained in the bill is here quoted literally:
+“That the District Attorney in his closing argument told the jury that the law of this State in this kind of a case that a man has to go to a physician and be examined, get a prescription, have it filled by a druggist. In this case, defendant was not a doctor, never felt the defendant’s pulse, and if that is the law, any man can go to a bootlegger and buy whisky. Such a law is absurd and would make the whisky law null and void.”
+In a prompt and appropriate manner the appellant excepted to the remarks above quoted, requested the court to withdraw them, and presented a special charge directed to that end. That the court refused to sustain the exception, withdraw the remarks or give the special charge is categorically stated in the bill of exception which, without any qualification, is signed by the trial judge. It is from the bill as it appears over the signature of the trial judge that this court must get its information touching the language used, the exceptions taken, and the action of the court thereon. Accompanying the motion for rehearing we find what purports to be the original bill of exception upon the back of .which there is typed an explanation or interpretation of the language used by the district attorney variant from that which is to be drawn- from the language quoted in the bill. The statement which is indorsed upon the back of the bill is also copied in the record. In each instance it is unsigned, and this court has no authority to consider it for any purpose whatsoever. By statute and by judicial interpretation, the practice touching the preparation, allowance and qualification of bills of exception is clearly defined. See Revised Civil Statutes, Art. 2337; C. C. P., Art. 667; Exon v. State, 33 Tex. Cr. R. 461; Thomas v. State, 83 Tex. Cr. R. 325; McKnight v. State, 93 Tex. Cr. R. 402; Anderson v. State, 95 Tex. Cr. R. 350; Holder v. State, 96 Tex. Cr. R. 558; Lilley v. State, 100 Tex. Cr. R. 375. These rules, without deviation, make plain the fact that a bill of exception approved and signed by the trial court cannot be modified or interpreted by any qualification unless the same is over the signature of the trial judge.
+The motion for rehearing is overruled.
+Overruled.
