@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "807"
+decided: "1910-11-16"
+citations: ["61 Tex. Crim. 16"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mitch Gilder v The State."]
+source_url: "https://static.case.law/tex-crim/61/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4599873
+cites_cases: ["31 Texas Crim. Rep., 401", "31 Texas Crim. Rep., 93", "32 Texas Crim. Rep., 175", "34 Texas Crim. Rep., 277", "38 Texas Crim. Rep., 30"]
+---
+
+# Gilder v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+—Appellant was convicted of burglary, his punishment being assessed at three years confinement in the penitentiary. There is what purports to be a statement of facts sent up with the record, but it is not approved by the trial judge. We, therefore, can not consider it.
+1. Without the statement of facts we can not revise the court’s action refusing to grant a continuance as shown by bill of exceptions No. 1.
+2. Motion in arrest of judgment was made on the ground that the indictment fails to allege that the property intended to be stolen had any value. The indictment charges burglary of a commissary owned by the Aldridge Lumber Company, with the intent to fraudulently take from said house personal property belonging to said Aldridge Lumber Company without the consent of Weaver, who was alleged to be in possession and with the intent to deprive the said Aldridge Lumber Company of the value thereof, etc. The point made by appellant is that the indictment should allege some value of the property intended to be stolen. This is not necessary. With reference to burglary, a forcible entry of a house for the purpose of committing theft, the value of the property is immaterial, and if a party breaks a house with intent to commit theft it is unnecessary to allege the value of such property.
+3. The only ground of the motion for new trial is that the court erred in failing to grant the application for continuance. As before stated, the evidence is not before us and we are unable to review this question. The refusal of a continuance will not be revised in the absence of the evidence adduced upon the trial.
+Finding no reversible error in the record, the judgment is affirmed.
+Affirmed.
+
+## Rehearing (DAVIDSON, Presiding Judge.)
+
+ON REHEARING.
+January 18, 1911.
+DAVIDSON, Presiding Judge.
+—On a former day of the term the judgment herein was affirmed without reference to the statement of facts, because the statement of facts was not approved by the trial judge. The record has been corrected showing that the failure to insert in the transcript the approval of the judge was an oversight and the fact that the statement of facts in fact was approved. The case will now be considered on its merits.
+Appellant filed his first application for a continuance on account of - the absence of several witnesses by whom he expected to prove, first, an alibi; and, second, the confession of another party who was placed in such position that he could and might have committed the crime with which appellant was charged and for which he was convicted. The indictment charged a burglary with intent to commit theft. The evidence shows that the house broken into was a store and some guns were taken from it. Appellant was seen in possession of one or two guns which the State sought to show came from the burglarized store, and was offering to trade or sell them. When asked about the guns he stated that he had taken them in pawn from some party down at what the witnesses term the Levee Camp. He was exhibiting them around rather publicly; quite a number of the witnesses saw him with the guns, and in every instance when questioned about it he made the statement above mentioned. By the absent witness Neugent he proposed to establish the fact that he was working under Neugent at a camp over near some ferry on the river. By another one of the absent witnesses he alleges he could have established the fact that the witness Smith admitted taking the guns. In other words, he proposed to prove the confession of Smith. His alibi and his statements as to how he came - in possession of the guns and the confession of Smith could be entirely in harmony with every other charge, which would afford, if the jury believed it, fully sufficient reasons why they should not return a verdict against him. When the alleged owner discovered his guns, at least one of them was in the possession of Smith. Smith testified, however, that the defendant brought them there and that he bought the gun from him; that when he bought the gun he was questioned about it and he stated he got it at the Levee Camp in pawn for money. The son of Smith testified also for the State in substance as did his father, but some of the witnesses further testified that this boy denied that the guns were at his father’s house when they first approached him; that is, when the officers were searching for the guns this boy denied any guns at all being at his father’s house. The officers, however, found two guns, one a double-barrel shotgun, at the residence of Smith, the boy owning one of them and the father the other. As before stated, appellant was convicted of burglary. In order to connect the defendant with the burglary the State offered evidence of the fact that he was in possession of the gun not a great while after the alleged burglary. Independent of this fact, the State would have no case as to the burglary. No one saw the house burglarized and the State relied upon possession of the property taken from the house to connect appellant with the breaking. If appellant was not present at the breaking he would not be guilty of burglary. If he came into possession of the gun or guns, subsequently from some other party who took them,- he would not be guilty of the burglary, unless he was present, of course, at the breaking. If Smith took the guns and not appellant, he would not be guilty of the burglary. At least these facts would account for his possession of the property and strongly tend, if not in fact, show that he did not commit the burglary. The confession was a fact appellant could introduce, viewed in the light of the opportunity of Smith to do the thing and Smith’s possession of the property. This has been the well settled rule in Texas since the opinion in Dubose v. State, 10 Texas Crim. App., 230. We have had several cases of this character of recent date.
+In view of another trial we suggest that the court submit the defensive matters to the jury by pertinent charges. For the reasons indicated, we are of opinion that the rehearing should be granted, the affirmance set aside and the judgment reversed and the cause remanded.
+Reversed and remanded.
