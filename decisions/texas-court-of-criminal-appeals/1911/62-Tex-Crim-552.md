@@ -1,0 +1,49 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1198"
+decided: "1911-05-17"
+citations: ["62 Tex. Crim. 552"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Banks v. The State."]
+source_url: "https://static.case.law/tex-crim/62/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4612664
+cites_cases: ["34 Texas Crim. Rep., 297", "37 Texas Crim. Rep., 167"]
+---
+
+# Banks v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was tried and convicted of violating the local option law, and his punishment assessed at a fine of $25 and twenty days imprisonment in the county jail.
+1. There is no statement of facts in the record, and only two bills of exception. The first simply alleges that defendant excepted to the charge of the court because no charge on circumstantial evidence was given. In the absence of a statement of facts, it is impossible for us to say whether or not one should have been given, and inasmuch as none was requested, this was not error.
+2. The second bill presents a matter of some importance, but does so imperfectly. The bill reads as follows:
+“Be it remembered that on the trial of the above cause, after the trial and conviction of the defendant, and when defendant’s motion for a new trial and in arrest of judgment had been called, and was being argued by the State and the defendant, the county attorney prepared and offered the following motion to the court:
+‘The State of Texas v. Henry Banks.
+“ ‘Comes now A. T. Russell for the State and moves the court to make an entry upon the minutes of the court, showing that at the November term of this court an order was made by the court allowing the State to substitute an information herein in lieu of the original, which is alleged to have been lost or mislaid. A. T. Russell, County Attorney, Nacogdoches County, Texas.’
+“To which moiion the defendant objected, which objection the court overruled, heard the motion and entered the following order;
+‘The State of Texas v. Henry Banks.
+“ ‘On this - day of November, 1908, this cause coming on to be heard the county attorney made a motion as the law requires to substitute the information, which he certified to the court had been lost, said motion is in all things granted, and the county attorney is instructed to prepare and file a substitute information, for that which has been lost/
+“The above matter as to substituting for the lost information in the case of the State of Texas v. Henry Banks, being presented to the court on this 5th day of February, 1909, and the court having heard testimony of the county attorney, A. T. Russell, under oath, and it further appearing to the court, that said order to substitute for the lost information herein, the court hereby enters the authority to substitute the information, and has the docket to read second application to substitute lost information, granted as of date November -, 1908. F. P. Marshall, Judge Presiding.
+“To all of which, proceedings the defendant then in open court excepted, and now here tenders this his bill of exceptions, and asks that same be signed and filed as a part of the record in this cause.”
+It will be noticed that the bill does not even recite the grounds of objection, and states no reason which render the action of the court improper. Article 470 of the Code of Criminal Procedure authorizes the substitution of a lost indictment or information, and while it has been held that the record must show an order of record authorizing the substitution, yet it has been held that such order may be entered nunc pro tunc at a subsequent term of the court. In Rhodes v. State, 29 Texas, 189, the court holds:
+“The proper course of amendment, it is believed, would be by an order at the time when the amendment is made, and not by erasing or altering an order entered upon the minutes at a previous term of the court. For the want of statement of facts it can not be known what amendment of the record, if any, was made.
+“As is presented in the record, the indictment appears to have been regularly filed in court. If orders were made and not entered at the time when made, it was competent to enter the order so made at a subsequent term.
+“In Burnett v. The State, 14 Texas, 456, it is said: ‘Every court has a right to judge of its own records and minutes, and if it appears satisfactorily to them that an order was actually, made at a former term and omitted to be entered by the clerk, they may at any time direct such order to be entered on the records as of the term when it was made. ... A record so amended stands as if it had never been defective, or as if the entries had been made at the proper time.’ ”
+It does not appear that the defendant suffered any injury by reason of the proceedings had; and it appearing, so far as the record shows (this being the only bill of exceptions relating to the matter, and the record not containing any statement of facts), that the proceedings were regular, the judgment stating that the motion was presented, the court heard evidence, and that the county attorney had made the motion as the law requires, in the absence of a showing to the contrary in the record, we must presume that the judgment recites the facts, and that the proceedings were regular. It is true that the motion in arrest of judgment recites that defendant was not served with any process, but the record discloses he was present, and contested the entry of the. order, and no exception other than the above being reserved, and if in fact he was not served with notice, the bill should have recited that fact. Nothing being in the record to show that the proceedings were irregular, the judgment is affirmed.
+Affirmed.
+
+## Rehearing (HARPER, Judge.)
+
+on rehearing.
+June 21, 1911.
+HARPER, Judge.
+At a former day of this term this case was affirmed, and in the opinion we stated there was no statement of facts in the record. It being made to appear that a statement of facts was filed in time, we now consider the case on the facts in the case.
+The record states that it was agreed that local option was in force in Nacogdoches County, and but one witness was introduced, who testified: “My name is Benard Rusche. I live in Nacogdoches, and lived here during the year 1908, and at the time it is alleged that the defendant sold intoxicating liquor in violation of the local option law. I know Henry Banks and knew him then. I wanted some whisky that night, and met Henry Banks on the street here in Nacogdoches, and asked him if there was anything doing. He said, T don’t know; maybe so.’ I asked him what it was worth. He replied that it would be worth $1.50 for a quart. He told me to go down to the livery stable and wait till he came. I gave him the money and went down to the livery stable that he indicated. It was in the night, and it was dark in the livery stable. I went back to the back part of the stable. When I had been there a short time a man came to the back of the stable and delivered me a quart of whisky. I could not see well enough to know what man it .was. Banks had promised to meet me at that place at that time and to deliver me a quart of whisky. This all took place in Nacogdoches County and State of Texas.”
+It will be thus seen that the evidence was ample to support the verdict. There is no charge in the record, and in a misdemeanor case, article 719, of the Code of Criminal Procedure, provides that: “In criminal actions for misdemeanor the court is not required to charge the jury, except at the request of counsel on either side; but when so requested shall give or refuse such charges, with or without modification, as are asked in writing.” Neither did appellant request any instructions in writing as shown by the record. Weachter v. State, 34 Texas Crim. Rep., 297.
+The only other question presented was passed on in the original opinion, and while appellant insists that although the bill is incomplete, that by reference to other parts of the record, the matter complained of would be shown, this under the rules of this court we are not permitted to do. A bill in itself must be so full and complete in its statement as will disclose all that is necessary to disclose the supposed error. Tweedle v. State, 29 Texas Crim. App., 586, and in Chapman v. State, 37 Texas Crim. Rep., 167, it is held that' bills of exception must state enough of the evidence, or that there was no evidence to render the bill complete.
+The motion for rehearing is overruled.
+Overruled.
