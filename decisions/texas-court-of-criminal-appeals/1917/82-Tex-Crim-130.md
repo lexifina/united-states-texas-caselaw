@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "4674"
+decided: "1917-11-07"
+citations: ["82 Tex. Crim. 130", "198 S.W. 315"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dick Fitzgerald v. The State."]
+source_url: "https://static.case.law/tex-crim/82/cases/0130-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4750183
+cites_cases: ["110 S. W. Rep., 920", "158 S. W. 560", "39 Texas Crim. Rep,, 389", "53 Texas Crim. Rep., 490", "63 S. W. Rep., 563", "71 Tex. Cr. R. 236", "71 Texas Crim. Rep., 236", "92 S. W. Rep., 256"]
+---
+
+# Fitzgerald v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+Under the Act of 1915, page 160, article 1259a, Vernon’s Criminal Statutes, appellant was prosecuted for purposely taking and driving, upon the public streets of Amarillo, a buggy belonging to W. B. Benton without Benton’s consent, etc.
+Said Act is as follows: “Whoever purposely takes, drives or operates, or purposely caused to be taken, driven or operated, upon the public road, highway or other public place, any motor vehicle, bicycle, buggy, carriage or other horse-driven vehicle, without the consent of the owner thereof shall, if the value of such motor vehicle, bicycle or other vehicle is thirty-five ($35) dollars or more, be imprisoned in the county jail for not less than six months nor more than one year, or if the value is less than that sum, be fined not inore than two hundred ($200) dollars, or imprisoned not more than thirty days, or both.” His punishment was assessed at a fine of $75 and thirty days confinement in the jail, of course, under that part of the statute fixing the punishment when the value of the buggy was less than $35.
+The testimony on behalf of the State was clearly sufficient to establish the offense of which he was convicted. He denied taking the buggy at all and introduced evidence, some of which, if believed, would have been sufficient to have shown an alibi in his behalf. The jury, without doubt, believed the State’s testimony and disbelieved him, and his evidence on the alibi question. The court, in a proper charge, submitted his claimed alibi.
+In one bill it is shown that at the previous term of the court, the court accidentally, and not deliberately, failed to have a jury commission empaneled to draw a jury for the term during which appellant was tried; that on Monday morning of the week during which this trial occurred there being no jury in attendance the court directed the sheriff to summon fourteen qualified jurors to serve as jurors for that week. This the sheriff did and said fourteen jurors were used for the jurors of that week. Appellant, when his case was called, made a motion to quash the entire panel because the jurors were not drawn by a jury commission, which the court overruled. The action of the court in having the sheriff to summon a jury for the week, under the circumstances, was clearly in compliance with the statute and decisions. Art. 715, C. C. P.; Cox v. State, 71 Texas Crim. Rep., 236, and cases there cited, and other cases. The bill, as explained by the court, shows no error.
+Appellant has another bill which shows that when the State asked Mr. Benton, the owner of the buggy, what the value of it was he objected to the question and answer “for the reason that the witness was not qualified and because it had been established that the buggy had a market value, and it was improper and prejudicial to permit the witness to state any value except the market value.” His further claim in the bill was, that the value of the buggy became material because if of the value of $35 or over it authorized the jury to inflict a severer punishment than was imposed. The court qualified the bill by stating that Mr. Benton testified that he knew the market value in the community in which he lived and that it was about $35; that he did not know the market value in Amarillo; that there were various values. This bill, as qualified by the court, shows no error.
+When the State offered Horace Griggs as a witness appellant objected to his testifying because he had violated “the rule” in that he had heard the testimony of some of the other witnesses in an adjoining room to the courtroom and when under the rule, with other witnesses. The court qualified the bill as follows: “At the time the said witness was in attendance upon the court for the sake of convenience and for a place to sit down, he, together with witnesses for the defendant, were using my office, which adjoins the courtroom. The 'door was closed but not locked and the wind blew the door open just before the witness Griggs was called. The witness stated that he was reading a magazine; that he heard some of the questions and some of the answers but paid no particular attention to them. ’ That he was simply in the room with other witnesses and was reading awaiting the time to be called; that he had no intention of disregarding the court’s instructions. It was not shown that witness heard any particular statement or remembered any particular answer. Defendant’s motion to prevent witness Griggs testifying was overruled.”
+It has always been held, and in a great many decisions, as thus laid down by Mr. Branch in his 1 Ann. P. 0., p. 197: “The admissibility of witnesses who have violated the rule or who have not been placed under the rule, is a matter addressed to the sound discretion of the court, and, until the contrary appears, it would be presumed on appeal that such discretion was properly exercised,” citing quite a number of decisions so holding. This bill shows no error.
+The judgment is affirmed. Affirmed.
