@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,764"
+decided: "1961-10-11"
+citations: ["171 Tex. Crim. 303"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Howard B. Stickney"]
+source_url: "https://static.case.law/tex-crim/171/cases/0303-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2637440
+cites_cases: ["153 Tex. Cr. R. 619", "224 S.W. 2d 240", "336 S.W. 2d 133"]
+---
+
+# Ex parte Stickney
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+This is a habeas corpus proceeding wherein Hon. Cullen F. Briggs, Judge of the 117th District Court of Nueces County, granted the writ; stayed the execution of the death sentence pronounced against the relator in a district court of Harris County, and ordered the relator brought from the death cell at Huntsville to Nueces County for a hearing. After hearing, writ was issued returnable before this Court.
+Judge Briggs was in error in granting the petition for habeas corpus and in declining to set aside his order when it was shown that such petition had been presented to this Court and leave to file denied. We refused to entertain the petition because the questions raised had been adjudicated against the relator in Stickney v. State, 169 Tex. Cr. Rep. 533, 336 S.W. 2d 133, certiorari denied, and in subsequent habeas corpus proceedings including that which resulted in an order made by Federal District Judge Allen B. Hannay which was affirmed in Stickney v. Ellis, 286 Fed. 2d 755, certiorari denied.
+It was also shown to Judge Briggs that the petition which he granted had, the same day, been presented to State and Federal Judges in Harris County, including Circuit Court of Appeals Judge J. R. Brown who made an order refusing to file it.
+Judge Briggs was also in error in appointing psychiatrists or doctors to inquire into the sanity of the relator. Only the judge of the convicting court, or district judge of the county where the person assessed the death penalty is confined, has authority to inquire into his sanity or insanity. Art. 932b (4) V.A.C.C.P. Judge Briggs acquired no jurisdiction to make such inquiry when the relator was brought to Nueces County under his order for a hearing. To so hold would remove the limitations of Sec. 4 of Art. 932b V.A.C.C.P. and permit any district judge to order a sanity trial in any county for any person convicted and assessed the death penalty.
+An amended petition for habeas corpus was filed on the day of the hearing which contained allegations contending that the District Attorney of Harris County had suppressed evidence, consisting of the affidavit of one Louise Chamness, by instructing the investigator T. L. Parker, who secured it, not to inform defense counsel of its existence.
+We have been furnished a statement of the evidence adduced before Judge Briggs which includes the testimony of Louise Chamness and of T. L. Parker, which is in conflict.
+We are not bound by the findings and conclusions of Judge Briggs and decline to accept them. Ex parte Johnson, 153 Tex. Cr. R. 619, 224 S.W. 2d 240.
+The statement of Louise Chamness did not exculpate the relator.
+Viewed in any light, the evidence regarding such statement, repudiated by a later statement and the testimony she gave before Judge Briggs, is not such as to warrant any court in setting aside the conviction of the relator.
+The order of Judge Briggs staying the execution of the death sentence against the relator is set aside and the relief prayed for in the petition for habeas corpus is denied.
+No motion for rehearing will be entertained.
