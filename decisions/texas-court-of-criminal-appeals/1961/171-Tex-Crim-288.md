@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,581"
+decided: "1961-06-21"
+citations: ["171 Tex. Crim. 288"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jose Angel Araiza v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0288-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2633583
+---
+
+# Araiza v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is bigamy; the punishment, 2 years.
+The indictment alleged that on October 11, 1960, appellant unlawfully married Amelia Diaz, he having theretofore on October 4, 1957, lawfully married Clara B. Araiza, who was living.
+Neither of the wives testified, but the record discloses that both were present at the trial.
+A marriage license issued September 24, 1957, authorizing rites of matrimony to be solemnized between “Mr. Jose Angel Araiza and Mrs. Clara Botello,” bearing certificate of Cameron County Justice of the Peace E. W. Anglin, that on October 4, 1957, the parties named were united in marriage, was identified by Judge Anglin and introduced in evidence. He testified that he performed the ceremony but could not identify appellant as the groom; that he was not acquainted with him, but knew Clara Botello.
+The marriage license bore the county clerk’s certification that it was returned, filed and recorded on October 5, 1957, and there was a notation on the back thereof requesting that it be mailed to Jose Angel Araiza, 1119 W. Jefferson Ave., Harlingen, Texas.
+David Rodriguez and his wife testified that appellant and Clara Botello Araiza, after October 4, 1957, lived together on Jefferson Street in Harlingen, about a block from their home, “Ever since they married” until “about a month ago,” and it was "the general reputation around the community there where you all live” they were living together as husband and wife, and that Clara Botello Araiza was alive.
+J. M. Chapa, Justice of the Peace in Hidalgo County, testified that on October 11, 1960, he performed a marriage ceremony between appellant and Miss Amelia Diaz, and the photostatic copy of the marriage license with his return thereon was introduced in evidence. Judge Chapa identified both appellant and Miss Diaz as the contracting parties in the marriage ceremony he performed.
+We overrule the contention that the marriage certificate identified by Judge Anglin was improperly admitted because he was unable to identify appellant at the trial. See 8 Tex. Jur. 2d, p. 686.
+No error is shown in the overruling of a motion for new trial during the voir dire examination of the jury panel. The matter is not shown in the record other than by objection read by appellant’s counsel.
+The trial court did not err in overruling appellant’s motion for instructed verdict, the evidence being sufficient to sustain the conviction.
+In the absence of any objection to the charge, or requested charge, we find it unnecessary to discuss it.
+The judgment is affirmed.
