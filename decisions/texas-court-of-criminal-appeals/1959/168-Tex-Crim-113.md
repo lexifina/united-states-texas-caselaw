@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,530"
+decided: "1959-04-01"
+citations: ["168 Tex. Crim. 113"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mark Brunson v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2624066
+cites_cases: ["147 Texas Cr. Rep. 299", "151 Texas Cr. Rep. 53", "155 Texas Cr. Rep. 580", "160 Texas Cr. Rep. 326", "163 Texas Cr. Rep. 619", "166 Texas Cr. Rep. 231", "180 S.W. 2d 343", "204 S.W. 2d 628", "238 S.W. 2d 200", "268 S.W. 2d 674", "294 S.W. 2d 822", "312 S.W. 2d 501"]
+---
+
+# Brunson v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for driving while intoxicated; the punishment, 3 days in jail and a fine of $500.
+The state’s evidence shows that appellant lived in the city of El Paso and on the day in question, around 3 P.M., he backed his automobile out of his garage onto the street, then .across the street and down the curb knocking down four mail boxes, and finally coming to a stop after striking a panel truck parked in a neighbor’s driveway. Appellant then put his automobile in gear and drove back into his garage and went into his house. In approximately. thirty minutes Officer-Edward J.-Fitzgerald arrived at the scene on a motorcycle to investigate the accident. After talking to the driver of the truck, the two proceeded to the appellant’s garage to inspect his automobile. While they were making the inspection, appellant came out of his house to the garage and in answer to the officer’s inquiry stated he was the owner and driver of the vehicle. Officer Fitzgerald stated that due to the poor lighting in the garage and because the various witnesses were outside he asked the appellant to step out into the street where the motorcycle was parked to continue the investigation and that when they arrived in the street he found that appellant would not remain in one place, concluded that he was intoxicated and thereupon placed him under arrest and handcuffed him to the steering wheel of the truck. Following his arrest, appellant was taken to the police station by Officer Sorrell, who had arrived on the scene, where a blood specimen was taken from him with his consent, and sent to the laboratory of the Department of Public Safety for analysis as to its alcoholic content.
+The state called various witnesses who observed appellant after the accident who described his. actions and appearance and expressed their opinion as to his sobriety .^Refugio Partida, the driver of the truck involved in the collision, expressed his opinion that the appellant was intoxicated on such occasion. Three neighbors who observed appellant at the scene testified that he was not normal. Officer Fitzgerald, in describing appellant’s action, testified that he staggered and had a strong odor of alcohol and expressed his opinion that appellant was intoxicated. Officers Sorrell and Cholciski testified that in their opinion the appellant was intoxicated when they observed him after the accident. The analysis of the' blood specimen taken from appellant showed that it contained .27 of one per cent alcohol by weight, which the chemist testified was such a concentration of alcohol as to make anyone intoxicated.
+Appellant did not testify.
+Appellant insists that the court erred in admitting in evidence the testimony of Officer Fitzgerald and that of the other officers relative to his intoxicated condition over the -objection that the testimony was based upon an illegal arrest. The same objection was made to the evidence showing the taking of the blood specimen from appellant and the result of the analysis thereof. Appellant insists-that his-arrest was illegal because the evidence shows he was arrested on his own premises without a warrant by Officer Fitzgerald when he had not committed any offense classified as a felony or against the public peace in the presence or view of the officer. It is appellant’s contention that such testimony was therefore illegally obtained and inadmissible under Art. 727a, V.A.C.C.P.
+The court instructed the jury that if it found that Officer Fitzgerald arrested the appellant at or near his garage and on his own premises that it would not consider any subsequent testimony as to his actions or condition for any purpose.
+Officer Fitzgerald testified that he did not arrest appellant at the garage but placed him under arrest in the street and that in his opinion appellant was drunk in the street.
+Under the officer’s testimony his arrest of appellant without a warrant was lawful. The right of an officer to arrest without warrant one found to be intoxicated in a public place is recognized in this state. See Cook v. State, 155 Texas Cr. Rep. 580, 238 S.W. 2d 200; Rent v. State, 160 Texas Cr. Rep. 326, 268 S.W. 2d 674, and King v. State, 166 Texas Cr. Rep. 231, 312 S.W. 2d 501. Recently in McEathron v. State, 163 Texas Cr. Rep. 619, 294 S.W. 2d 822, it was held that such right was vested in a private citizen. •
+Appellant further insists that his arrest was illegal because Officer Fitzgerald had committed an unreasonable trespass upon his property and entrapped appellant to follow him in the street for the purpose of arresting him. In Crowell v. State, 147 Texas Cr. Rep. 299, 180 S.W. 2d 343, in holding that certain witnesses were not guilty of a criminal trespass merely because they were on the premises of an accused, it was pointed out by this court that there is no statute making it an offense merely to go upon the premises of another. Clearly, the officer was not a trespasser in a criminal sense in going upon appellant’s premises to investigate the accident. Meador v. State, 151 Texas Cr. Rep. 53, 204 S.W. 2d 628. Appellant’s claim of entrapment is not supported by the evidence. Furthermore, the court instructed the jury that if they believed that Officer Fitzgerald lured or invited appellant to go into the street for the purpose of arresting him, then such arrest was illegal, and they would not consider any subsequent testimony resulting from such arrest. Such instruction amply protected the appellant.
+Under the record, appellant’s arrest without a warrant was authorized and the court did not err in admitting the testimony.
+Other contentions urged by appellant have been considered and are overruled.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment is affirmed.
+Opinion approved by the Court.
