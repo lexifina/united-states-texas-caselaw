@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,186"
+decided: "1954-11-24"
+citations: ["160 Tex. Crim. 638"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Otha Hilton v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0638-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2470593
+cites_cases: ["263 S.W. 2d 159"]
+---
+
+# Hilton v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted of fondling a child under Art. 535d, Vernon’s Ann. P.C., and his punishment was assessed at 3 years in the penitentiary.
+The state’s testimony shows that appellant was thirty-one years of age; that on August 25, 1953, he was living in a small rented house in the back yard of the home where the injured party lived; and that the injured party was a female twelve years of age.
+The injured party testified that she frequently saw appellant while he lived on their place; that on August 25, 1953, while she was in the back yard, appellant took hold of her, placed his hands on her breast underneath her clothing, and also placed his hands on her sexual parts.
+The state introduced in evidence appellant’s written confession with no objection being made, thereto, which stated in part that he rubbed the sexual parts of the injured party with his hands and also felt of her breast with his hands.
+Appellant testified to facts showing an alibi on August 25, 1953, which he supported by the testimony of several witnesses. He further stated that the alleged injured party often came to his room and that he saw her frequently in the back yard and that she would play with him by straddling his body, getting on his shoulders and taking hold of him. Appellant denied having placed his hands on her breast or her sexual parts at any time.
+Appellant further testified that he signed the confession without knowing its contents and because of threats made to him by the officers at the time. The voluntary character of the confession was properly submitted to the jury.
+The jury resolved the issues of fact against appellant and we find the evidence sufficient to support their verdict.
+Appellant contends that the injured party was an accomplice witness as a matter of law and there being no corroboration of her testimony, the court erred in not granting his motion for an instructed verdict of not guilty.
+It is not necessary that we determine whether the injured party’s acts and conduct at the time of the commission of the act alleged make her an accomplice witness, because her testimony as to the act here charged was corroborated by the evidence in appellant’s confession which was introduced before the jury without objection. No error is here shown.
+The transcript contains no objections to the court’s charge and no requested charges.
+Appellant, in his brief, complains of the refusal of the court to submit his special requested charge which is shown in the statement of facts.
+In Phillips v. State, 159 Texas Cr. R. 286, 263 S.W. 2d 159, 160, we said: “Section, 2(a) of Article 759a, as amended, V.A.C.C.P., relates to the preservation of bills of exception in the statement of facts in question and answer form. The statement of facts is a record of the evidence offered or adduced upon the trial, or so much thereof as appellant specifies. An appellant may limit the statement of facts by designation, but he cannot expand it to include other than the evidence offered or adduced upon the trial or the rulings of the court during the introduction of the evidence.”
+Therefore, a special requested charge shown only in a statement of facts is not properly before this court and cannot be considered.
+Appellant’s informal bills found in the statement of facts have been carefully considered and no error is there shown.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the court.
