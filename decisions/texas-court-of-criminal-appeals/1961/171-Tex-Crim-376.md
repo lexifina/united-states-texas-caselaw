@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,817"
+decided: "1961-11-01"
+citations: ["171 Tex. Crim. 376"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eloy Soliz v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2630646
+cites_cases: ["240 S.W. 2d 774", "261 S.W. 2d 317", "265 S.W. 2d 589"]
+---
+
+# Soliz v. State
+
+## Majority (McDonald, judge.)
+
+McDonald, judge.
+This is an appeal from an order revoking probation.
+On April 1, 1959, upon his plea of guilty, appellant was convicted of the offense of burglary, and his punishment assessed at confinement in the penitentiary for a term of three years. The imposition of sentence was suspended and appellant was placed upon probation.
+On February 15, 1961, the district attorney filed an application to revoke the probation, alleging that appellant had violated the terms of the probation order in committing the act of burglary and that he had also failed to contribute to the support of his minor child.
+On March 6, 1961, the court ordered the probation revoked, and sentenced appellant to serve according to the original judgment.
+The testimony reflects that the retail store of Fritz Vandiver was burglary on January 13, 1961.
+Guadalupe Limon, Jr., testified that he, the appellant, and Juan Soliz went to the liquor store; that Juan Soliz and appellant broke down the door and the three of them took two cases of wine and one case of whisky from the store and “headed” for the railroad tracks and San Diego Creek, where they left the cases of liquor; that they walked on and some distance away the highway patrol stopped them for identification; that he (Limón) then started home, accompanied by his companions, when Officer Garcia stopped them.
+The officer testified that the boys had been seen hanging around the liquor store that night; that when he saw them their trousers were wet from the knees down.
+Appellant’s wife testified that she was divorced from him; that there was one child born of the marriage; that appellant contributed nothing to its support.
+The judgment of divorce was introduced. A deputy district clerk testified that no support payments had been made into the registry of the court.
+Appellant contends that the evidence is insufficient to support what he termed the implied finding of the court that he committed the offense of burglary.
+The only evidence adduced before the court on the hearing for revocation of probation which connects appellant with the offense of burglary is the testimony of Guadalupe Limon, Jr., an accomplice or co-principal. There is no evidence corroborating his (Limon’s) testimony which tends to connect appellant with the act of breaking and entering the liquor store.
+Appellant further contends that the evidence is insufficient to support “the implied finding of the court that [he] failed and refused to contribute to the support of his minor child.”
+Appellant cites no authority to support his first contention as to the lack of corroborating testimony to support the evidence of the accomplice, Guadalupe Limon, Jr., but he relies, rather, upon Art. 718, C. C. P.
+While that article provides that “A conviction cannot be had upon the testimony of an accomplice unless corroborated * * *,” this statutory provision has no application to proof of the violation of a penal statute upon a review of probation hearing. The result of such hearing is not a “conviction” but a finding upon which the trial court may exercise his discretion by revoking or continuing the probation. Dunn v. State, 159 Tex. Cr. Rep. 520, 265 S.W. 2d 589.
+We held, in Wilson v. State, 156 Tex. Cr. Rep. 228, 240 S.W. 2d 774, that a proceeding to revoke probation is not a criminal trial.
+On appeal, the review of proceedings in a probation hearing will be limited to a determination of whether or not the trial judge abused his discretion in revoking the probation. Jones v. State, 159 Tex. Cr. Rep. 24, 261 S.W. 2d 317.
+We further find that the proof that appellant failed to make the child support payments is sufficient cause for revocation of probation.
+The judgment is affirmed.
