@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,540"
+decided: "1960-11-23"
+citations: ["170 Tex. Crim. 388"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clement Aaron Baker v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0388-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2629432
+cites_cases: ["199 S. W. 631"]
+---
+
+# Baker v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is assault with intent to rape, with a prior conviction for an offense of like character alleged for enhancement; the punishment, 25 years.
+It was shown by prosecutrix’s eight-year-old brother that appellant tore the latch off their front door and forced his way into their home. He further testified that appellant pulled prosecutrix into a bedroom and that when he looked in he saw appellant “standing kind of wide-legged, and he had his hand down in Bobbie Jean’s bosom” before prosecutrix was able to escape from him.
+The 18-year-old prosecutrix testified that in the afternoon of the day in question, while her mother was away from home and while she was dressed only in a slip and a brassiere, she saw appellant, whom she did not know, standing inside their home; that she quickly clothed herself and demanded the nature of his call; that appellant said he was a door-to-door salesman of photographs ; that he pulled her into the bedroom, closed the doors, tried to push her down on the bed, and said that they “could have a good time togetherthat she could feel his private parts touching hers, that “he would keep opening his legs wide;” that he pulled her blouse tight around her neck with one hand and felt in her bosom with the other. She testified that appellant was interrupted by her younger brother coming into the room and she was able to escape from his clutches, that some of the other young people who were in other parts of the house came to her rescue and attacked appellant with knives and that he fled through the back door, and that she was of the opinion that appellant intended to rape her.
+The prior conviction was established. Appellant did not testify in his own behalf, but called his cousin who stated that he acted abnormally more often than normally and would parade in front of the windows in his underclothes. Appellant also called Dr. David Wade, a psychiatrist, who testified that he had interviewed appellant in jail, where he was confined on a prior morals charge as well as on this one, and found him to be a sex deviate who normally secured sexual satisfaction from fondling young girls. He stated further that appellant recounted to him a long story of brushes with the law over sex matters, including the prior conviction, and expressed the opinion that appellant was “very dangerous, not only to children but to the opposite sex” and was very highly sexually motivated.
+Appellant’s sole contention is that the evidence shows that his intention was to fondle and not rape the prosecutrix. In answer to a hypothetical question propounded by the state, Dr. Wade testified that the fact that appellant closed the doors of the bedroom where he had pulled prosecutrix impressed him and prevented him from expressing an opinion that appellant had not intended to have sexual intercourse rather than fondle prosecutrix.
+We have examined the evidence carefully and have concluded that the jury were authorized to believe that appellant intended to commit the act of rape. Everett v. State, 82 Tex. Cr. Rep. 407, 199 S. W. 631, would appear to support our decision.
+Finding the evidence sufficient and no reversible error appearing, the judgment of the trial court is affirmed.
