@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1909"
+decided: "1912-06-05"
+citations: ["67 Tex. Crim. 360"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Z. Z. Savage et al. v. The State."]
+source_url: "https://static.case.law/tex-crim/67/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4639294
+cites_cases: ["33 S. W., 556", "46 S. W., 294", "63 S. W., 950", "65 S. W., 41", "77 S. W. 439", "90 S. W., 186"]
+---
+
+# Savage v. State
+
+## Majority (PRENDERGAST, Judge)
+
+PRENDERGAST, Judge
+—This is a certificate of affirmance sought by the State against the sureties on the bail bond of Wade Collier.
+The certificate of affirmance is in strict accordance and meets all of the requirement's of article 1016 Revised Civil Statutes of Texas. It includes the appeal bond which is a supersedeas bond given by appellants and their sureties on appeal from the final judgment in the lower court.
+It shows that on March 25, 1910, said Collier, as principal, and the appellants, as sureties, entered into a bail bond payable to the State in the sum of $750, conditioned as required by law for the appearance of tlieir principal, Collier, at the term of the court next ensuing after the execution of said bond. That the principal failed to appear and a proper judgment nisi was rendered against him and the appellants as sureties. That they were properly cited to appear by proper citation and service thereon on the appellants at the next term after the said forfeiture. That they failed to appear and judgment by default was rendered against them; that they afterwards sought, during the term of court at which the judgment was made final to have the said final judgment set aside. On what grounds, the record does not disclose, but the court, after hearing it, refused to set it aside and that they thereupon gave the proper notice of appeal and perfected their appeal by giving a supersedeas bond and filing the same in the lower court on October 31, 1911. The term of court at which the final judgment was rendered and entered and the notice of appeal given convened on September 25, 1911, and adjourned October 21, 1911.
+The certificate shows that all the articles of our Code of Criminal Procedure, 488 to 502, inclusive have been fully and strictly complied with.
+Article 497, Code Criminal Procedure, requires that when a bail bond has been forfeited the ease shall be docketed upon the civil docket in the name of the State as plaintiff, and the principal and sureties as defendant, “and the proceedings had therein shall be governed by the same rules governing other civil actions.” Both the Supreme Court and this court have repeatedly and uniformly held proceedings in such cases, as the statute requires, shall be governed by the same rules as other civil actions. See decisions cited under said article 497, Code Criminal Procedure, and White’s. Ann. Code Criminal Procedure, section 437.
+Article 1387, Revised Civil Statutes, provides that when proper notice of appeal has been given, as in this case, and an appeal or supersedeas bond given within twenty da}rs after the adjournment of court, that the appeal is perfected; and article 1015 requires that" the transcript shall be filed in the Appellate Court within ninety days from the perfecting of the appeal. The ninety days’ time within which the transcript on appeal should have been filed in this court expired on January 29, 1912. No transcript has yet been filed in this case. The certificate for affirmance was filed in May, 1912, more than ninety days after the time for the filing of the record herein had expired.
+This cause will, therefore, be affirmed against the appellants and the sureties on their supersedeas bond and the clerk will so enter the order.
+Affirmed.
+
+## Rehearing (PRENDERGAST, Judge.)
+
+OH EEHEABIHG.
+June 28, 1912.
+PRENDERGAST, Judge.
+—Appellants have made a motion for rehearing in this cause and for permission to now file a transcript herein. This motion was filed in this court June 19, 1912.
+Article 1016, Revised Civil Statutes, provides that where the appellant has failed to file the transcript of the record within the ninety days prescribed by law and the appellee has properly filed in this court a certificate of that fact, as was fully done in this cause, it .shall be the duty of the court to affirm the judgment, “unless good cause can be shown why such transcript was not filed by the appellant.” In this case no showing whatever was made or attempted to be made in this court before this judgment was properly affirmed on the said certificate.
+Article 1017, Eevised Civil Statutes, prescribes that, even after the Appellate Court has affirmed the judgment of the court below on such certificate, said court may at any time within fifteen days after such affirmance, permit the transcript to be filed and the case tried on its merits, “provided that appellant shall show to the court good cause why the transcript was not filed by him in accordance with the provisions of article 1015,” etc.
+Appellants’ only 'showing of why they now seek, at this late date, to file this transcript is wholly insufficient to justify or authorize the court to permit it to be done. They show simply this: That on October 30, 1911, from Amarillo, which is only fifty miles distant by rail from Tulia, the county seat of Swisher County, they sent to the clerk of Swisher County the appeal bond herein, and that they then asked him to make up the transcript as soon as convenient. The clerk received this bond and filed it on October 31, 1911, and on the same date wrote to appellants’ attorneys who were attending to the matter for them, that he had received, approved and filed said appeal bond and that they would have to return to him the papers in the cause before he could make up the transcript and stated that while he was very busy then in the County Court, he would get someone else to make it up for them and would expect them to pay therefor. They did not reply to this letter of the clerk until November 8, 1911, when they stated therein that they forwarded to him the papers in this cause. It is then shown that they did nothing else whatever and had no communication with the clerk thereabouts until on February 3, 1912—the time for filing the transcript in this court having expired on January 29, four days before asking about the transcript in this case—stating to the clerk that the time was about to expire and they must insist upon getting the transcript at once. The transcript which they now offer to file shows to be only about twenty-three pages of typewritten matter, which, of course, could easily and readily be prepared at any time within one day, and it also shows that it' was delivered to them on February 8, 1912. They claim that as they lived fifty miles from Tulia that they had to depend upon the clerk making out the transcript and getting t'o them the record.
+Even after getting the record, as is without question shown, on February 8, 1912, they made no effort whatever to then file it in this court and made no motion whatever t'o file it herein, although they had, by their own showing, from February 8, 1912, till the judgment was affirmed on certificate in this court on June 5, 1912. Instead of showing a good cause why the transcript was not filed originally within the ninety days, and without showing any good cause why the transcript should now be permitted to be filed, the very reverse of this is clearly and without question shown. Continental Fire Association v. Stillwell Bros., 63 S. W., 950 (95 Texas, 676); Glavaecke v. Delmas, 13 Texas, 495; Williams v. Walker, 33 S. W., 556; Faux v. La Maire, 77 S. W. 439; San Antonio v. Smith, 65 S. W., 41 (95 Texas, 675); Reynolds v. Dechaumes, 22 Texas, 116; Hoefling v. Esser, 46 S. W., 294 (93 Texas, 709); Wandelcher v. Grayson County Bank, 90 S. W., 186; Welch v. Weiss, 99 Texas, 356; Scottish Union etc. v. Clancey, 91 Texas, 467; Davidson v. Ikard, 86 Texas, 67. It is unnecessary to multiply authorities.
+The motion for rehearing and to now file a transcript will be denied.
+Overruled.
