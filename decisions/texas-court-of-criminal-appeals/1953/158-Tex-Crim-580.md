@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,440"
+decided: "1953-06-03"
+citations: ["158 Tex. Crim. 580"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Paul Smith v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0580-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2478438
+---
+
+# Smith v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for negligent homicide in the first degree, the punishment a fine of $500.
+Appellant, while engaged in driving a taxicab in Harris County, at about 9:45 P. M. ran into a lady pedestrian who was crossing the highway. The lady died as the result of the collision.
+The collision occurred in the lane of travel on appellant’s right side of the four lane highway.
+Appellant testified that he was driving at a speed of 30 to 35 miles per hour, “close to 35”; that he first saw the lady when she ran from the back of a car traveling in the opposite direction ; that “she ran right out in front of me”; that she was about 8 to 10 feet from him when he first saw her; that he applied his brakes, which were in good condition, and did everything he could to avoid the accident; that his car left black skid marks on the pavement which he measured by stepping; that the skid marks extended about 35 feet; that he stopped the car promptly in “about 30 to 35 feet”; that the automobile skidded some 25 feet after striking the deceased.
+Appellant’s version of the accident was submitted as a defense, the jury being instructed to acquit if the accident was unavoidable or if “the deceased suddenly ran into the path of the defendant’s vehicle and that the defendant’s said vehicle was so close to the said deceased that it was impossible for him, the said defendant, to yield or bring his said vehicle to a stop and avoid striking the said deceased.”
+The jury rejected this defense and by their verdict found that appellant failed to guide the vehicle away from the deceased or failed to keep a proper lookout for the deceased, whom he could have seen in time to avoid running into and striking her, had he been looking in the direction he was going as a person of ordinary prudence would have done under like circumstances. Such a finding was required under the court’s charge in order for the jury to convict.
+The testimony of the state’s witnesses was to the effect that after the accident the body of the deceased was some 28 or 30 feet from the front of appellant’s automobile; there were continuous skid marks extending 138 feet from the center of the front wheel of appellant’s taxicab to where they started east and to the rear of the automobile (which was headed west).
+A pair of ladies white sandals were found to the rear of the car, 108 feet from the beginning of the skid marks and 30 feet from the center of the front wheel of the automobile, and a sack was found 54 feet from where the skid marks began. The evidence shows that the deceased had in her hand a package and that she had just purchased some beer which she was carrying when she went into the street.
+In the light of this testimony of the state, we are unable to agree that the evidence is insufficient to sustain the jury finding that appellant was negligent in failing to guide his automobile away from the deceased, or failing to keep a proper lookout to avoid striking her.
+The informal bills of exception have been examined and no reversible error is found.
+The judgment is affirmed.
