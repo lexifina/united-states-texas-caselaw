@@ -1,0 +1,45 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "14783"
+decided: "1932-02-10"
+citations: ["120 Tex. Crim. 104", "47 S.W.2d 845"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clem Burleson v. The State."]
+source_url: "https://static.case.law/tex-crim/120/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5200595
+cites_cases: ["102 Tex. Cr. R. 451", "112 Tex. Cr. R. 147", "112 Texas Crim. Rep., 147", "15 S. W. (2d) 619", "15 S.W.(2d) 619", "15 Tex. App. 304", "278 S. W. 212", "278 S. W., 212", "49 Am. Rep. 200", "49 Am. Rep., 200"]
+---
+
+# Burleson v. State
+
+## Majority (CALHOUN, Judge.)
+
+CALHOUN, Judge.
+— Driving an automobile on a street of an incorporated city while intoxicated is the offense, and punishment assessed at a fine of $100 and sixty days in jail.
+The chief of police of Coleman testified that he arrested the appellant while he was driving an automobile on Cottonwood St. in the town of Coleman, Texas. The witness testified that he had seen the appellant drive by the city hall and his attention was called to the car and it was wobbling from one side of the street to the other and being driven in such a manner as it came near running into one of the corners and then turned diagonally across the street. He testified that he followed said car and when he reached said car appellant was sitting under the wheel of the automobile and he was intoxicated. Several other witnesses testified to the effect that the appellant was intoxicated on this occasion.
+Appellant’s contention was that he was not drunk and he offered several witnesses to that effect.
+Several of appellant’s bills of exception complain of the manner of proving that Coleman was an incorporated city and to the sufficiency of the evidence upon that issue and also as to the question of whether Cottonwood street was within said incorporated limits of the city of Coleman. The indictment having charged that the .street was located in an incorporated city, it became incumbent upon the state to prove the city’s incorporation. This the state did by offering in evidence the order of the county judge of Coleman county of August 22, 1892, as shown upon the records of the commissioner’s court, stating the result of an election determining the incorporation of the city of Coleman and designating in the entry the boundaries of said town. The entry bears the signature of the county judge of Coleman county.
+This evidence was admissible for the purpose offered and was sufficient prima facie to establish the incorporation of said town of Coleman. See Hext v. State, 112 Texas Crim. Rep., 147, 15 S. W. (2d) 619; Pool v. State, 102. Texas Crim. Rep., 451, 278 S. W., 212; Temple v. State, 15 Texas App., 304, 49 Am. Rep., 200.
+The state also offered in evidence, from the ordinance book of the city of Coleman, proven to be such by the city secretary, an amendment to ordinance 1, defining the boundaries of the city of Coleman and the field notes of said city. Said ordinance on its face showed that it was an ordinance defining the territory and reestablishing the boundaries of the city of Coleman, Texas, so as to conform same to the provisions of an Act of the Legislature of the State of Texas entitled: “An Act to define the territory and provide for establishing the boundaries of cities and towns in this state and to validate the incorporation of any city or town heretofore incorporated in this state in certain cases”, approved May 8, 1893. Said ordinance then set out by metes and bounds the limits, boundaries, and territories embraced within the incorporation of said city. Said ordinance was of date July 18, 1893, and was signed by the mayor of said city and the city secretary and was certified to by the city secretary to the effect that it was passed and approved July 18, 1893, and filed for record in the county clerk’s office, Coleman county, Texas, on the 5th day of August, 1893, and recorded the 8th day of August, 1893.
+This evidence was admissible for the purpose of showing the correct boundaries of the city of Coleman. The county clerk of Coleman county testified that he was acquainted with the field notes describing the boundaries of the city of Coleman and that Cottonwood St. was within these boundaries. The appellant himself on cross-examination testified that he was driving the automobile on Cottonwood street and that he also drove it on Park street in the town of Coleman and out on the Abilene road. He also admitted that he drove the car past the city hall. There was no evidence offered by the appellant that Cottonwood street is not within the town of Coleman.
+Bill of exception No. 10 complains that the witness Walker, county clerk of Coleman county, was permitted to testify, over the objection of the appellant, that Cottonwood street was part of the corporation as outlined in the minutes of the commissioners’ court, because it involved the opinion and conclusion of the witness. The witness, Walker, testified that he knew where Cottonwood street was in the city of Coleman and he knew said street was part of the corporation of the town of Coleman and stated this as a fact and not as a conclusion.
+Bills of exception 7 and 8 complain of the action of the trial court in not permitting appellant to show that a Ford automobile three or four years old, when being driven on rough ground, its wheels would shift a little. It is not shown that the automobile in which appellant was riding at the time was in such condition. The only evidence offered upon that issue was that it was three or four years old and it was not contended by the appellant, as we understand his testimony, that the reason why the automobile was zig-zagging along the highway was because of any defective part of it or because it was worn or old, and his witnesses testified that the zig-zagging on the streets did not occur. In the light of appellant’s testimony and in the light of his defense, there was no such error in the rejection of said testimony as would call for reversal of the case.
+No reversible error appearing in the record, the judgment is affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (MORROW, Presiding Judge.)
+
+ON MOTION FOR REHEARING.
+MORROW, Presiding Judge.
+— The treatment of Bills of Exception Nos. 7 and 8 in the original opinion is criticised.
+The officers who arrested the appellant testified that he observed a Ford coupe driven by the appellant in which there were two other men. The speed of the car was about 25 or 30 miles an hour. The officer testified: “That car was not driven straight. It hobbled right sharply in the road during the time I was pursuing the car. * * * That car was zigzagging and wobbling.”
+Ragsdale, who was in the car with the appellant, testified that the street was rough and “chug-holey”; that the speed of the car was about 20 miles an hour; that the appellant made no bobbles; that the car was an old second-hand Ford, which was three or four years old and which had seen better days.
+The appellant testified' as follows: “In going out there, I did not zigzag like an old-fashioned rail fence but drove down the street or road just like anybody else would. I stayed in the road. The wheels of that old Ford shimmied some but I stayed right in the road. They did not make me cross the road.”
+Several witnesses testified definitely that the appellant was drunk. He testified that he had drunk no intoxicants. One of the witnesses who was riding with him was definite upon the same subject. Another witness, who was with him, expressed himself as unwilling to say that the appellant was duly sober but would not say that he was drunk. The manner in which the car was traveling upon the street may have been one of the circumstances leading to the conclusion that the driver was intoxicated. However, as above stated, that he was intoxicated was vouched for by several witnesses who testified for the state.
+It appears from the bills of exception mentioned that after the witnesses Couch and Ragsdale had testified that they were familiar with the automobile in which the appellant was riding at the time of his arrest, he offered to prove by each of said witnesses that a Ford automobile three or four years old, when driven on a rough road, the wheels of the car would shift a little. The rejection of this testimony is made the subject of complaint. Witnesses for both the state and the appellant gave testimony to the effect that the automobile would wobble and shimmy to some degree over rough ground; that such testimony came from the witnesses mentioned in the bills, as well as from others, as shown above. Under the circumstances, the rejection of opinion testimony as would establish the general effect of an automobile of that type is not regarded as harmful error, if, in fact, it was error at all, which is questionable.
+The motion for rehearing is overruled.
+Overruled.
