@@ -1,0 +1,53 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,790"
+decided: "1960-03-09"
+citations: ["169 Tex. Crim. 157"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DAVIDSON, Judge, dissented."]
+parties: ["Ex Parte Joseph F. Selby, Sr."]
+source_url: "https://static.case.law/tex-crim/169/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12132411
+cites_cases: ["189 S.W. 149", "263 S.W. 278", "41 Tex. 516", "80 Tex. Cr. R. 161", "98 Tex. Cr. R. 64"]
+---
+
+# Ex parte Selby
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The appeal is from an order entered in a habeas corpus proceeding denying bail.
+Appellant is charged by indictment with the murder of his wife and with being an accomplice to the murder of his wife.
+At the hearing it was shown that Mrs. Selby died in her home as the result of two gunshot wounds in the chest.
+Written statements of Patra Mae Bounds, known to appellant as “Pat”, and of Clarence Collins were introduced showing that Collins did the actual shooting, and that Patra Mae Bounds and Maggie Morgan were present and participated.
+A lengthly written statement of appellant was introduced reciting a turbulent marriage relationship between him and his wife, and confessing his efforts through Pat to hire someone to kill his wife because he was afraid she would kill him. He also related his negotiations with Maggie Morgan to find someone to kill his wife, and the payment of money to Pat and Maggie to find a killer.
+In cases such as this we refrain from expressing any conclusion other than on the question of whether, under the facts shown by the record before us, the trial judge was justified in denying bail.
+Our conclusion is that such action was justified. The judgment denying bail is affirmed.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+(dissenting).
+To show appellant’s guilt of the crime of accomplice to the murder of his wife it was necessary for the state to show that the alleged principals were guilty of the murder of the wife (Sarli v. State, 80 Tex. Cr. R. 161, 189 S.W. 149).
+To meet that burden, the state relied upon the written confession of two of the alleged principals, Patra Mae Bounds and Clarence Collins.
+For instant purposes, it may be said that the confessions were sufficient to show guilt and that the wife came to her death as a result of two shots from a .22 calibre pistol fired by Clarence Collins.
+After the introduction in evidence of the confessions appellant sought to call as witnesses both Patra Mae Bounds and Clarence Collins.
+In connection with that request it was shown that both parties were at that time under indictment for the murder of appellant’s deceased wife and were confined in jail. Their availablity as witnesses was not questioned.
+The trial court refused to permit said parties to be called as witnesses, under the rule that coindictees can not be introduced as witnesses for one another. Art. 711, C. C. P., and Art. 82, P. C.
+The statute has no application to the state, which may call coindictees as witnesses in its behalf. 18 Tex. Jur., Sec. 142, p. 238.
+Appellant insists that when the state introduced in evidence the written confessions of the coindictees, the door was opened for the appellant to call the makers of the confessions in person, as witnesses, for the purpose of cross-examination or of attacking the confessions and their truthfulness or admissibility, or for any other purpose material to the case.
+When the state calls as witnesses coindictees and they agree to testify, they become witnesses for all intents and purposes the same as any other witness. Reeves v. State, 98 Tex. Cr. R. 64, 263 S.W. 278.
+Since 1874 (Morrison v. State, 41 Tex. 516) confessions are to be weighed and considered by the jury the same as any other evidence.
+A confession and the facts stated therein are nothing more nor less than the maker testifying in the case. Such being true, it follows that the maker of a confession is a witness in the case, because from him come the facts which become evidence in the case by'and thru the medium of the confession.
+It would be a strange doctrine, indeed, to deny to the maker of a confession the right to attack, explain, or contradict a confession which he made and which was offered in evidence against him.
+While it is true that the confessions, here, were introduced in evidence to show the guilt of the principals, yet in establishing such fact the confessions were used against the appellant. Without them the evidence would be insufficient to show appellant guilty of the offense with which he is charged.
+There is no escape from the conclusion that the confessions were used against the appellant. In all fairness he ought to be able to cross-examine the makers thereof the same as if they had testified as witnesses in the case to the same facts set forth in the confessions.
+In using the confessions of the principals as evidence, the state made the makers thereof its witnesses. Thru the confessions the testimony therefore came from state witnesses.
+I am convinced that as the state introduced and relied upon the confessions appellant was entitled to have the makers thereof produced as witnesses, in order that he might cross-examine them touching their testimony introduced by the state in evidence.
+I am not unmindful of the fact that Art. 858, C. C. P., provides that upon appeals to this court in habeas corpus proceedings “No incidental question which may have arisen on the hearing of the application before the court below shall be revised. The only design of the appeal is to do substantial justice to the party appealing.”
+That statute can have no application here, because the constitutional right to be confronted by the witnesses against the accused (Art. 1, Sec. 10, Const. of Texas), which carries with it the right of cross-examination, is not and can never be an incidental question. Moreover, substantial justice can best be done by according to everyone that which the Constitution of this state gives him. The denial of a right guaranteed by the Constitution precludes substantial justice.
+It is my opinion that this case should be reversed and remanded to the trial court, with directions to reopen the testimony and permit the appellant to call the makers of the confessions as witnesses.
+In the event the state should elect to withdraw the confessions from the evidence, then the question of bail is to be determined from the other testimony.
