@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,840"
+decided: "1961-10-25"
+citations: ["171 Tex. Crim. 495"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lucky Earl McKee and Clifton I. Jones v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2633830
+cites_cases: ["166 Tex. Cr. R. 301", "166 Tex. Cr. R. 452", "313 S.W. 2d 618", "314 S.W. 2d 842", "323 S.W. 2d 43", "338 S.W. 2d 735"]
+---
+
+# McKee v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is burglary; the punishment assessed against each of the appellants, two years.
+Clifton I. Jones has filed his affidavit stating that he does not desire to prosecute his appeal further, and moves that as to him the appeal be dismissed.
+The motion is granted and the appeal of Clifton I. Jones is dismissed.
+The state sought an enhanced punishment against the appellant McKee under Art. 63 P.C., and to that end alleged in the indictment that he had twice previously been convicted of a felony less than capital, one conviction being for forgery in 1957; and the other, driving while intoxicated, subsequent offense, in June 1960.
+Appellant sought to quash the portion of the indictment alleging prior convictions, contending that a felony conviction for driving while intoxicated cannot be used for the purpose of enhancement under said Art. 63 P.C.
+We do not agree.
+We have held that Art. 802b V.A.P.C. provides the punishment applicable to every subsequent felony offense of driving while intoxicated. Edwards v. State, 166 Tex. Cr. R. 301, 313 S.W. 2d 618; Ex parte Bateman, 166 Tex. Cr. R. 452, 314 S.W. 2d 842.
+It does not follow that such punishment may not be enhanced under Art. 63 because of prior convictions for felonies less than capital other than drunken driving. Tomlin v. State, 170 Tex. Cr. Rep. 108, 338 S.W. 2d 735.
+We are aware of no reason why a felony conviction for driving while intoxicated may not be used, as any other conviction for a felony less than capital, to enhance the punishment for burglary or any felony less than capital other than driving while intoxicated.
+In any event, the jury did not find that appellant McKee had been previously convicted but found him guilty of burglary and assessed the minimum punishment, and no injury to the appellant is shown. See Oakley v. State, 167 Tex. Cr. Rep. 630, 323 S.W. 2d 43.
+The record contains no statement of facts and no error appears.
+The judgment as to the appellant Lucky Earl McKee is affirmed.
