@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,786"
+decided: "1959-06-03"
+citations: ["168 Tex. Crim. 363"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Elves Turley v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2620825
+cites_cases: ["164 Texas Cr. Rep. 537", "166 Texas Cr. Rep. 180", "167 Texas Cr. Rep. 254", "301 S.W. 2d 154", "312 S.W. 2d 654", "319 S.W. 2d 310"]
+---
+
+# Turley v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is driving while intoxicated as a second offender; the punishment, 10 days in jail and a fine of $200.00.
+City Marshall Lee testified that at three o’clock in the morning he observed an automobile being driven on the wrong side of the street in Stratford, that it then pulled to the opposite side and up over the curb, and he brought it to a halt. The appellant was the driver, was alone, and fell in the street after the officer got him out of the automobile. Lee smelled intoxicants on the appellant’s breath, found a nearly empty bottle of vodka in the automobile, and placed him under arrest because in his opinion he was intoxicated.
+Sheriff Turner testified that he observed the appellant when Lee brought him to the jail, saw that he had difficulty in walking, that his eyes were red, that his lips were thick, smelled a strong odor of intoxicants about his person, and expressed the opinion that he was intoxicated.
+Officer Hudson of the Amarillo police testified that he was in court when the appellant had plead guilty to the prior misdemeanor of driving while intoxicated alléged in the indictment.
+Appellant did not testify in his own behalf but called his fellow musician Ashmead, who testified that he had driven from Guymon, Oklahoma, to Stratford with the appellant on the night in question and that he had not seen the appellant consume any intoxicants.
+The jury resolved this conflict in the evidence against the appellant.
+- The sole question presented in appellant’s brief is that the certified copy of the information and judgment in the prior misdemeanor were not admissible because not furnished to him in advance of the trial in compliance with Section 3 of Article 3731a, V.A.R.C.S.
+We have recently had occasion in Roberts v. State, 164 Texas Cr. Rep. 537, 301 S.W. 2d 154; Goolsby v. State, 166 Texas Cr. Rep. 180, 312 S.W. 2d 654; and Skaggs v. State, 167 Texas Cr. Rep. 254, 319 S.W. 2d 310, and the cases there cited, to hold that the certified copies are admissible to prove a prior conviction without having first been filed in the cause and notice given of such filing.
+Finding no reversible error, the judgment of the trial court is affirmed.
