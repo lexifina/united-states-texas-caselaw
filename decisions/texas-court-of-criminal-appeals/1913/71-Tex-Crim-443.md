@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2626"
+decided: "1913-10-22"
+citations: ["71 Tex. Crim. 443"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Will McGill v. The State."]
+source_url: "https://static.case.law/tex-crim/71/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2382119
+cites_cases: ["13 S. W. Rep., 219", "16 S. W. Rep., 782", "3 S. W. Rep., 478", "79 S. W. Rep., 577", "80 S. W. Rep., 376"]
+---
+
+# McGill v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was prosecuted and convicted of an aggravated assault and his punishment assessed at two years confinement in the county jail, and a fine of $500.
+If the testimony of the prosecuting witness presents the correct state of case the punishment assessed is none too severe. However, appellant and his witnesses present an entirely different state of facts and he has a right to have his theory of the case, based on adequate testimony, presented to the jury. He testified the girl phoned for him to come and that she went with him willingly. In this he is supported by several witnesses. He testified she exposed her legs and asked him “how he liked that.” He admits placing his hands on her, but he says she did not object, but by her acts and conduct invited the fondling of her person. He requested the court to instruct the jury:
+“At the request of counsel for the defendant you are further instructed that if you believe from the evidence that the prosecuting witness, Dora Mckell, invited the defendant to visit her, at the time of the alleged assault, and that the defendant went to see her in response to said invitation, and that said prosecuting witness by her conduct toward and with the defendant, was calculated to lead him to believe, and he did believe, that his visits and attentions to her were agreeable to the said prosecuting witness, and that he did not intend to do her any injury in person or to her feelings, without her consent, and if you have a reasonable doubt as to such facts, you will find the defendant not guilty.” This aptly presented his contention and should have been given.
+By another bill it appears that while appellant was testifying in his own behalf, on cross-examination,' the county attorney asked him, “Is it not a fact that you were convicted of an assault with intent to rape in Hamilton County?” to which question appellant, by his counsel, objected on the ground that such evidence was immaterial and irrelevant and was too remote, as shown by the bill. The objection was overruled and appellant answered, “Yes.” The evidence further shows that the conviction took place twenty-three years before this trial. It was too remote and it was error to admit the testimony. The court, in approving the bill, states that when the fact that it had occurred twenty-three years prior to this trial was brought out, that no motion was made to exclude the testimony. While, if the proper objection was not made, of course, no reversible error would be presented, but after such hurtful and harmful testimony had been admitted, the more careful the court should have been to have seen that the defensive theory was fully and aptly presented to the jury. That appellant was once convicted of assault to rape, no matter how remote, would necessarily, under the facts of this case, have considerable bearing. His conduct was morally reprehensible, even though he had the young lady’s consent, but he committed no legal crime, if she invited him to take the trip; voluntarily went with him into the woods and exhibited her limbs to him, for he went no further, according to the testimony of both, than to fondle her person. He says it was with her consent,'—she says it was not and she makes out a plain case of aggravated assault. But, whether with or without her consent, he shows that they were caught by neighbors and would insist that this is the reason for the prosecution. On another trial, the court will not permit the county attorney to ask appellant if he had been convicted of assault to rape in'Hamilton County, for it is now known that it is- too remote to be admissible, and even the asking of such question would he very hurtful in this character of case.
+The other matters assigned need not be discussed, but on account of the above errors the case is reversed and remanded.
+Reversed and remanded.
