@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2767"
+decided: "1904-06-01"
+citations: ["46 Tex. Crim. 551"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fayette Simpson v. The State."]
+source_url: "https://static.case.law/tex-crim/46/cases/0551-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 175320
+---
+
+# Simpson v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Conviction for rape on a girl under 15 years of age. The State’s testimony discloses a sexual intercourse between appellant and prosecutrix, and that she was under 15 years of age. The testimony for appellant shows her beyond the age of 15 years. The State was permitted to prove by Amanda Ledwell- that on the morning after prosecutrix stayed with her all night, she stated to the witness that appellant had sexual intercourse with her during the night. Various objections were urged to this testimony. The court approves the _ bill with the qualification that when the question was first asked the court sustained the objection, but subsequently defendant proved by Esquire Herring that prosecutrix on Tuesday after the alleged rape testified before him that defendant had- connection with her but one time, and proved by members of the grand jury of Erath County, who indicted appellant for rape in that county on prosecutrix, that she testified before that body that appellant had had connection with her but once; for the purpose of corroboration he permitted the witness Ledwell to testify as to the statement made by prosecutrix to her as to the second act as set out in this bill. Under the decisions of this court the act of intercourse that occurred in Erath County was not admissible, but it seems that objection was not urged to this phase of the testimony. Attacking the statement of prosecutrix that appellant had had intercourse with her twice, the defense proved prosecutrix’s statements before the grand jury and to the justice of the peace. We are of the opinion there was no error in permitting the evidence of the witness Ledwell, in corroboration of the statement of prosecutrix, under the circumstances. Defendant hád attacked, by showing contradictory statements of prosecutrix, and it was' therefore admissible for the State to corroborate her.
+The State proved by witness Bowers, over appellant’s objection, that j>rosecutrix went to school to him at Clairette; that he placed her name and age upbn' his school register; and testifying further concerning the age of prosecutrix, as to how he obtanied his information, stated he did not know; that his rule was to ask the pupil his or her age, and if. the information was not thus obtained he would seek it from the older brothers or sisters of the pupil, if any of them were attending the school. Fdiling in obtaining the information this way, he would sometimes ask the parents. He did not know in this particular instance how he obtained the information, but he got it from some of the family. Upon this predicate the State offered the following entry on the school register, made by the witness: “Roberts, Mattie—age 6.” Various
+objections were urged to the introduction of this testimony. The evidence should have been excluded. We are not aware of any rule of law or evidence which would justify the introduction of this character of testimony. The entry on the register was not a relevant fact to prove the age; in fact it was but the conclusion of the witness, which he entered upon the school register. The entry upon the register gave it no more binding force or effect, nor was it any more relevant than the mere statement of the witness as to his belief of her age. It- was a closely contested issue from the beginning of the case to its-close as to the age of the girl. This entry on the register placed her age at 6, in December, 1895, and her age was one of the crucial points at issue; and coming, clothed with seeming authority, from a school teacher who made such entry, would have more than an ordinary effect on the jury in deciding that question. However, be this as it may, the testimony was inadmissible as presented. This matter is left too uncertain. It was not evidence of the fact that this was the age of prosecutrix, because of the entry itself.
+The charge of the court upon another trial should present a little more clearly, distinctly and definitely the issue as to the age. The testimony is strongly conflicting on this question, and the jury should be instructed fully and carefully to the effect that before they can convict the evidence must show the girl was under 15 years of age, and if there is a reasonable doubt upon this proposition appellant should be acquitted. There is no question as to the consent of prosecutrix and a full willingness on her part to engage in the acts of intercourse.
+For the error discussed the judgment is reversed and the cause remanded.
+Reversed and remanded.
