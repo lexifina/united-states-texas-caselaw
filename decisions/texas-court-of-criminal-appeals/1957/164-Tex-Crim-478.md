@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,887"
+decided: "1957-04-10"
+citations: ["164 Tex. Crim. 478"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bennie Dixon v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0478-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2612522
+cites_cases: ["110 S.W. 2d 1153", "133 Texas Cr. Rep. 366", "157 Texas Cr. Rep. 192", "159 Texas Cr. Rep. 289", "160 Texas Cr. Rep. 115", "247 S.W. 2d 1022", "263 S.W. 2d 260", "269 S.W. 2d 385"]
+---
+
+# Dixon v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for the unlawful possession of intoxicating liquor for the purpose of sale in a dry area; the punishment, 90 days in jail and a fine of $100.
+Appellant challenges the sufficiency of the evidence to support the conviction.
+The evidence shows that certain officers went to the appellant’s home in the city of Frisco, Texas, and searched for intoxicating liquor.
+In the search officers found four twelve-ounce cans of “Pearl” beer in the refrigerator, two twelve-ounce cans of “Hamm’s” beer and a one-half pint bottle labelled “Bourbon De Luxe” whiskey, containing approximately two ounces of liquor, in a car in the driveway.
+From a gravel driveway at the rear of appellant’s home, the officers followed a well-beaten path from appellant’s premises leading across a bar ditch onto the right-of-way of the Frisco Railroad where they found on the railroad property within arm’s reach of the path four one-half pints of “Bourbon De Luxe” whiskey, three one-half pints of “Gilbey’s” gin and five pints of “White Rose” wine.
+The state proved that the city of Frisco was in Collin County and it was stipulated that Collin County was a dry area.
+To sustain the conviction it was incumbent upon the state to show that appellant possessed the liquor in question for the purpose of sale in a dry area.
+Reliance was had solely upon the prima facie evidence rule created by statute to show the purpose for which it was possessed. The beer found on appellant’s premises, which was shown to be in a dry area, not being in excess of twenty-four twelve ounce bottles was not of sufficient quantity to constitute prima facie evidence under Art. 667-25b, Vernon’s Ann. P.C., that it was possessed for the purpose of sale. Likewise, the whiskey found on appellant’s premises not being more than one quart was not of sufficient quantity to constitute prima facie evidence under Art. 666-23a, supra, that it was possessed for the purpose of sale.
+The whiskey, gin and wine found on the railroad right-of-way, although of sufficient quantity, could not be relied upon to invoke the prima facie evidence rule because it was not shown that the place on the railroad right-of-way where the liquor was found was in the dry area.
+The evidence only shows that the appellant’s home and premises were in the city of Frisco, in Collin County, a dry area, but does not show that the place where the liquor was found, which was some undisclosed distance away from the appellant’s premises, was in the city of Frisco, county of Collin and within the dry area.
+Under provisions of Art. 666-23a, it is only the possession of more than one quart of whiskey in a dry area that creates the presumption that it is possessed for the purpose of sale.
+Evidence of possession of the liquor found on the railroad right-of-way could not support appellant’s conviction in the absence of proof that such was possessed in a dry area. Sims v. State, 157 Texas Cr. Rep. 192, 247 S.W. 2d 1022; Teal v. State, 159 Texas Cr. Rep. 289, 263 S.W. 2d 260; and Hunt v. State, 160 Texas Cr. Rep. 115, 269 S.W. 2d 385.
+We find the allegations of the information sufficient to charge an offense. The allegation that the commissioners’ court “did pass an order declaring the result of said election, and prohibiting the sale of intoxicating liquors in said County of Collin, etc.” was a sufficient statement of the fact that the result of said election was to prohibit the sale of intoxicating liquors in the county. Mason v. State, 133 Texas Cr. Rep. 366, 110 S.W. 2d 1153.
+Because of the insufficiency of the evidence, the judgment is reversed and the cause remanded.
+Opinion approved by the Court.
