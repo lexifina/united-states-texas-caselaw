@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,742"
+decided: "1961-11-01"
+citations: ["171 Tex. Crim. 371"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michiel Nelson Goad v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0371-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2638056
+cites_cases: ["165 Tex. Cr. R. 303", "166 Tex. Cr. R. 89", "168 Tex. Cr. R. 458", "311 S.W. 2d 828", "329 S.W. 2d 286", "333 S.W. 2d 391"]
+---
+
+# Goad v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The offense is driving while intoxicated; the punishment, three days in jail and a fine of $50.
+The evidence was undisputed that on the night in question, the appellant, while operating his 1960 Ford pick-up upon a public highway, drove off the road and struck a tree. The accident occurred around 8:30 P.M., on what was referred to in the testimony as the Arnett-Canadian Highway. At the time of the collision, Jackson Wolfe, a sixteen-year-old boy, was riding with appellant and both parties were taken from the scene to the Hemphill County Hospital at Canadian. State Highway Patrolman Harvey De Harde testified that he observed and talked to appellant in the hospital after the accident; that at such time appellant talked incoherently, his eyes were dilated, his face flushed, and expressed his opinion that at such time appellant was under the influence of intoxicating beverages.
+A blood specimen taken from appellant, with his consent, some three hours and forty-five minutes after the collision, upon being examined by Chemist Wayne Anderson, of the Texas Department of Public Safety, was shown to contain .13% alcohol by weight. Chemist Anderson testified that the Department of Public Safety uses the standards set up and adopted by the National Safety Council and the American Medical Association, in determining when a person is intoxicated by reason of a certain percentage of alcohol in his blood, and that such standards are divided into three zones. In the first zone, where the percent of alcohol in the blood is from 0 to .05, the person is not considered intoxicated. In the second zone, where the percent of alcohol is .05 to .10, the person may be intoxicated, and in the third zone, where the percent of alcohol is .10 or above, the person is considered intoxicated. Chemist Anderson further testified that the amount of alcohol in the blood stream of a person is reduced at the rate of .02% per hour and that a person who had not had a drink in four hours and whose blood tested .13% alcohol, four hours earlier would have had an alcoholic concentration in the blood of .21%.
+Appellant, testifying as a witness in his own behalf, admitted driving his pick-up truck upon the public highway on the night in question, admited having drunk one beer, but denied that he was intoxicated.
+We are unable to agree with appellant that the evidence is insufficient to support the conviction.
+The evidence clearly shows that appellant drove his motor vehicle upon a public highway on the date alleged.
+Appellant’s contention that venue was not proved was raised for the first time after verdict, and this court will presume that venue was proved. Art. 847, V.A.C.C.P. Masters v. State, 165 Tex. Cr. R. 303, 306, S.W. 2d 355; Doyle v. State, 168 Tex. Cr. R. 458, 329 S.W. 2d 286; and Carpenter v. State, 169, Tex. Cr. R. 283, 333 S.W. 2d 391.
+The evidence is also sufficient to show that on the occasion in question appellant was under the influence of intoxicating liquor. The facts in the instant case are different from those in Vasquez v. State, 166 Tex. Cr. R. 89, 311 S.W. 2d 828, cited by appellant, where the only evidence of intoxication of the accused was the opinion of a highway patrolman who observed him in the hospital where he was being treated for injuries sustained in an accident.
+The judgment is affirmed.
+Opinion approved by the Court.
