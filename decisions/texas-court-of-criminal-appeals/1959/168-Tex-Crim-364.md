@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,662"
+decided: "1959-06-03"
+citations: ["168 Tex. Crim. 364"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elder Walker v. State"]
+source_url: "https://static.case.law/tex-crim/168/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2623158
+---
+
+# Walker v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is driving while intoxicated; the punishment, three days in jail and a fine of $50.00.
+Highway Patrolman Duran testified that at 8:10 P.M. on the night in question he saw the appellant standing beside his automobile which had gone through a barbed wire fence and was sitting out in a pasture, that the appellant told him he was alone and another automobile which he was meeting “sideswiped him” and “knocked him into the ditch” at about five minutes to eight, but that he was unable to find any injury to the left side of the appellant’s automobile. Duran stated that he smelled the odor of liquor on the appellant’s breath, noticed that the appellant staggered when he walked, talked incoherently, repeated what he said, and concluded that he was intoxicated.
+Jerry Warren testified that he saw the appellant’s automobile out in the pasture and heard the appellant tell the patrolman that someone had sideswiped him, but he did not see any injury to the driver’s side of the appellant’s automobile. He stated further that the appellant’s speech was thick, that he would talk and then stop and cry, and expressed the opinion that he was intoxicated.
+Appellant, testifying in his own behalf, stated that he had visited his friend Davis shortly before the hour of his arrest, that on his way home another automobile traveling in the opposite direction had sideswiped him, causing him to lose control, and that his automobile had gone through a fence until it came to a halt where the patrolman found it. He stated that as he waited, injured and bleeding, for someone to come to his aid, a colored man came along and gave him several swallows out of a bottle of whisky and that this was the first drink of intoxicants which he had had. Davis testified that the appellant had been at his home on that evening and that he had not observed anything to lead him to believe that the appellant was drinking.
+Duran testified in rebuttal that the appellant did not appear to be injured and did not complain that he had been hurt.
+We overrule appellant’s contention that the evidence is insufficient to support the conviction. His principal contention is that the court erred in failing to submit the affirmative defense which he says was raised by his testimony.
+The issue raised by appellant’s testimony was submitted in the charge wherein the jury was instructed to acquit if they believed that appellant was not under the influence of intoxicating liquor at the time he drove his automobile. This was in addition to the instruction to acquit if the jury believed or had reasonable doubt that appellant was not intoxicated “on the occasion in question.”
+Appellant’s last complaint is that the court improperly placed the burden of proof upon the appellant in his charge. The paragraph complained of reads as follows:
+“If you believe from the evidence or have a reasonable doubt thereof that the defendant, Elder Walker, on the occasion in question was not under the influence of intoxicating liquor you will acquit him.”
+We do not agree with the appellant’s contention.
+. Finding the evidence sufficient to sustain the conviction and no reversible error appearing, the judgment is affirmed.
