@@ -1,0 +1,50 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "7773"
+decided: "1923-06-06"
+citations: ["95 Tex. Crim. 625", "255 S.W. 738"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emanuel Pospishel v. The State."]
+source_url: "https://static.case.law/tex-crim/95/cases/0625-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5064492
+cites_cases: ["1 Tex. App. 211", "1 Tex. App. 225", "124 S. W. 938", "124 S. W. Rep., 938", "14 Tex. App. 447", "14 Tex. App. 57", "158 S. W. 300", "158 S. W. Rep., 300", "164 S. W. 851", "164 S. W. Rep., 851", "176 S. W. 49", "176 S. W. Rep., 49", "206 S. W. 197", "206 S. W. Rep., 197", "245 S. W. 928", "245 S. W. Rep., 928", "248 S. W. 367", "248 S. W. Rep., 367", "34 Am. Rep. 746", "39 Tex. Cr. R. 109", "39 Tex. Cr. R. 25", "39 Texas Crim. Rep., 25", "39 Texas Crim. Rep.. 109", "40 Tex. Cr. R. 165", "40 Tex. Cr. R. 344", "40 Tex. Cr. R. 668", "40 Texas Crim. Rep., 165", "40 Texas Crim. Rep., 344", "40 Texas Crim. Rep., 668", "44 S. W. 1097", "44 S. W. 827", "44 S. W. Rep., 1097", "44 S. W. Rep., 827", "49 S. W. 379", "49 S. W. Rep., 379", "50 S. W. 378", "50 S. W. Rep., 378", "50 Tex. Cr. R. 565", "50 Texas Crim. Rep., 565", "51 S. W. 909", "51 S. W. Rep., 909", "58 Tex. Cr. R. 141", "58 Texas Crim. Rep., 141", "71 Tex. Cr. R. 89", "73 Tex. Cr. R. 197", "73 Texas Crim. Rep., 197", "75 Texas Crim. Rep., 510", "76 Tex. Cr. R. 510", "8 Tex. App. 254", "84 Tex. Cr. R. 179", "84 Texas Crim. Rep., 179", "93 Tex. Cr. R. 522", "93 Tex. Cr. R. 54", "93 Texas Crim. Rep., 522", "93 Texas Crim. Rep., 54", "99 S. W. 563", "99 S. W. Rep., 563"]
+---
+
+# Pospishel v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+— Conviction is for forgery with an assessed penalty of two years in the penitentiary.
+No statement of facts or bills of exception appear in the record. Appellant entered a plea of guilty, and applied for a suspended sentence. In the state of the record we must assume the proceedings were regular.
+The judgment is affirmed.
+Affirmed.
+
+## Rehearing (HAWKINS, Judge.)
+
+ON REHEARING.
+November 7,1923.
+HAWKINS, Judge.
+— No motion was presented in the court below either to quash or in arrest of judgment questioning the sufficiency of the indictment, and for the first time its validity is challenged upon motion for rehearing. It seems to be well settled that if the indictment upon its face charges no offense it may be raised for the first time in this court, because the defect is one of substance. White v. State, 1 Texas Crim. App., 211; Holden v. State, 1 Texas Crim. App. 225; Cox et al. v. State, 8 Texas Crim. App., 254; Woolsey v. State, 14 Texas Crim. App., 57; Maddox v. State, 14 Texas Crim. App., 447; Gonzales v. State, 58 Texas Crim. Rep., 141; 124 S. W. Rep., 938; Dunn v. State, 158 S. W. Rep., 300; Jasper v. State, 73 Texas Crim. Rep., 197; 164 S. W. Rep., 851; Ryan v. State, 75 Texas Crim. Rep., 510, 176 S. W. Rep., 49.
+In Osborne v. State, 93 Texas Crim. Rep., 54, 245 S. W. Rep., 928, it was recognized that if the defect be one of substance advantage of it could be taken for the first time on appeal. We are not discussing or considering lack of form or duplicity. The distinction between those defects and one of substance is clearly drawn in Melley v. State, 93 Texas Crim. Rep., 522, 248 S. W. Rep., 367. Whether failure in an indictment to charge an offense is a defect of substance is not left to conjecture. Article 575, Code Criminal Procedure settles that question. We quote from such article as follows:
+“There is no exception to the substance of an indictment or information, except,. -1. That it does not appear from the face of the same that an offense against the law was committed by the defendant : ’ ’
+Then follows three other matters which are denominated defects of substance not material in this discussion. It only remains then to determine if from the face of the indictment in the present case it fails to appear that the offense of forgery was committed by appellant. If it does so fail to show upon its face- then the judgment must be reversed and the prosecution dismissed, otherwise, not.
+The instrument declared to have been forged is set out in the indictment as follows:
+“WESTERN UNION TELEGRAM
+Nov 29 P M 427
+Nov, 29 JD Houston, Texas 1922
+Mrs. M. Neustadt,
+4135 W Lake St. Chicago, Illinois
+Wire hundred fifty dollars at once. Letter following will explain. Waive identification. Must have it. Harry.
+J. Bainbridge
+Harry Neustadt, Burnett Hotel.”
+There are no explanatory averments whatever. Whether the words “J. Bainbridge, Harry Neustadt, Burnett Hotel” were a part of the original telegram as filed in the telegraph office for transmission or whether they were notations placed upon the telegram by some one other than the purported maker does not appear. The instrument is not an ordinary commercial instrument and there are no allegations whatever explaining who “Harry” is supposed to be, nor the relations existing between him and the party to whom the telegram is addressed. In Cagle v. State, 39 Texas Crim. Rep., 109, 44 S. W. Rep., 1097, the court was considering a purported release of a landlord’s lien on six bales of cotton. The release was copied in the indictment with no explanatory averments accompanying it. The indictment was held bad. The general rule for testing the sufficiency of indictments in forgery prosecutions was announced in that ease in the following language:
+“It may be considered a safe test, if the instrument is such on its face that it imports an obligation in regard to money or property, and will afford the basis of a civil action without resorting to extrinsic testimony, then a charge of forgery can be based thereon without any extrinsic averments. If the instrument is not of that character, but by the aid of extrinsic averments does create an obligation or liability with reference to money or property, then, by the aid of such extrinsic averments, it can be made the subject of forgery. Under this rule it is apparent that a promissory note, a check, draft, or order for money, plain and unambiguous in its terms, is the subject of forgery without any extrinsic averments. If the meaning of the paper itself is not clear, but of. doubtful import, then it may be given point by an innuendo, and in such case no extrinsic averment would be necessary, or, it may require both. If, however, the paper is not one of the ordinary instruments used in commercial transactions, but is contractual in form, and depends on extrinsic facts to create a liability, then it would appear that such extrinsic facts must be averred in the indictment.”
+The foregoing principle has been applied in many cases where there was an entire absence of extrinsic averments or where those resorted to were insufficient. (For indictments declaring orders for goods to have been forged held bad for lack of explanatory averments, in some of which cases the question was raised after trial by motion in arrest of judgment, see, Womble v. State, 39 Texas Crim. Rep., 25; 44 S. W. Rep., 827; Colter v. State, 40 Texas Crim. Rep., 165; 49 S. W. Rep., 379; Crawford v. State, 40 Texas Crim. Rep., 344; 50 S. W. Rep., 378; Polk v. State, 40 Texas Crim. Rep., 668; 51 S. W. Rep., 909). Many other authorities involving instruments of various kinds will be found collated under the fifth paragraph, Section 1398, Branch’s Ann. P. C. In Belden’s ease (50 Texas Crim. Rep., 565, 99 S. W. Rep., 563) the instrument purported to be an order for the payment of money, but was held not to be the subject of forgery without explanatory averments. In Young v. State, 84 Texas Crim. Rep., 179, 206 S. W. Rep., 197, the alleged forged instrument was a telegram which read: “John Friedman, 816 St. Charles Street, Brownsville, Tex. Send jewelry here. 304 Main Ave. (Signed) J. E. Landon.” We have been unable to distinguish that instrument from the telegram in the present case except that one relates to property and the other to money, and with the further difference that in Young’s case the purported author of the telegram is certain, which is not true with reference to the one now under consideration. Judge Prendergast, speaking for the court in that case said:
+“We cannot tell from said telegram without extrinsic averments how it comes within our forgery statute. On its face, if it had been true, it cannot be told how it would have created, increased, diminished, discharged, or defeated any pecuniary obligation; nor that it would afford the basis of any civil action; nor that it would have transferred or in any manner have affected any property, without resorting to extrinsic allegation and testimony. If there were any facts which would meet the requirements of the statute and the rules stated, then it was necessary for the pleader to allege them, and without them the indictment is fatally defective.”
+Everything said by the court with reference to that telegram may be said about this one and more. Here it does not appear who “Harry,” the purported signer may be. Whether it is a given name or a surname is left to inference; whether he (whoever he may have been) had money on deposit with Mrs. Neustadt for which he might call at will, is not averred. Nothing distinguishes it in its legal aspect from the Young telegram. For the same reasons stated by the court in the opinion in that case we conclude that the indictment in the present case is fatally defective. In the absence of any explanatory averments showing who the purported maker of the instrument was, the relation of the parties and other matters necessary to give validity to it, we must uphold the contention now made that the indictment is defective in substance and ehai’ges no offense against the law.
+Appellant’s motion for rehearing is granted, the affirmance here- . tofore ordered is set aside, and the judgment is now reversed and the prosecution ordered dismissed.
+Dismissed.
