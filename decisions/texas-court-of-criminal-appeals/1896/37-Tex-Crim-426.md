@@ -1,0 +1,22 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "986"
+decided: "1896-05-20"
+citations: ["37 Tex. Crim. 426"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Simon Granado v. The State."]
+source_url: "https://static.case.law/tex-crim/37/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 161321
+---
+
+# Granado v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant was charged with, and convicted of, bringing stolen property into Texas. The indictment alleges that appellant committed the theft of the horses charged to have been stolen in the State of Coahuila, in the Republic of Mexico, and thereafter brought them into Presidio County. Appellant reserved a bill of exceptions to the charge of the court in which the jury were charged that “if the property was stolen in the State of Coahuila, in the Republic of Mexico, and brought into Texas without the consent of the alleged owner, * * * to convict defendant.” The objections of appellant are based on the grounds that there was no evidence as to the want of the owner’s consent, and that the property was taken in the State of Chihuahua. An examination of the record does not sustain either of these contentions. "With reference to the consent of the owner, the exact language of the record is as follows, to-wit: “They were in my possession when stolen, and I did give my consent to either Simon Granado or Pedro Galindo, nor any one else, to take them, and they were taken without my consent.” It is evident from this language that in making up the statement of facts the word “not” was omitted in the expression, “I did give give my consent.” Taking the remaining portion of the testimony with reference to the question of consent, it is evident that the appellant did not have the consent of the alleged owner, and that the alleged owner did not give his consent, as was pointedly testified. And in addition the testimony, not only of the alleged owner, but the two witnesses who were present at the time appellant and Galindo committed the theft, show that they immediately pursued appellant from the point of the theft to the Rio Grande River, and that they were prevented from pursuing him further on account of the swollen condition of said river. It is further shown that the alleged owner continued his search for his property until it was recaptured in Presidio County, and that he had the parties arrested, and prosecuted for the theft before the examining court. With reference to the question of the locality of the theft being in the State of Coahuila, in the Republic of Mexico, the testimony of the alleged owner is as follows: “Tiburcio Garcia and Manuel Villa were with me when the horses were stolen, and they were near my ranch, in the State of Coahuila, Mexico, when Stolen.” Further, in this connection, the witness stated “that his residence was in the State of Chihuahua, at San Carlos, in the Republic of Mexico, and that his ranch was in the State of Coahuila, in said Republie; that these horses were being herded by myself and two friends at the time they were taken away from me, and near my ranch, on a mountain.” We think it too plain for discussion that this testimony makes it evident that the horses were taken in the State of Coahuila. In the second bill of excoption, appellant complains of the omission of the court to charge the law applicable to a case of circumstantial evidence. There is no merit in this contention. Prosecutor and two friends were herding the horses on a mountain, and were on foot, when appellant and his confederate made a dash at and ran off the said horses then being herded by the owner and his friends, and brought them into Texas. All three of the witnesses testify that' the defendant was one of the two men who committed the theft; that they had known him for eighteen or twenty years; and the alleged owner testified that he had resided some years in the same town with the appellant. This is direct and positive evidence as to the taking by appellant. The court did not err in omitting to charge on circumstantial evidence. It is unnecessary to discuss the third bill of exceptions. The question there presented is disposed of in the disposition of the first bill of exception. The judgment is affirmed.
+[Note.—Appellant’s motion for rehearing was overruled without a written opinion..—Reporter.]
+Affirmed.
