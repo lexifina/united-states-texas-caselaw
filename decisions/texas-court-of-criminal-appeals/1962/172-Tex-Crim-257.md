@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,222"
+decided: "1962-03-07"
+citations: ["172 Tex. Crim. 257"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Herbert Dunlavy Taylor v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2642577
+---
+
+# Taylor v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for driving while intoxicated; the punishment, seven days in jail and a fine of $75.
+The evidence shows that about 10 P.M., January 7, 1961, the appellant, while operating his automobile upon a public street, drove it into the rear of an automobile which was stopped at an intersection for a red light. After the collision, appellant was found slumped over the steering wheel of his car and had to have assistance in getting out. Appellant’s speech was slurred, he staggered while walking and had the odor of alcohol on his breath. An almost empty fifth of whisky, six cans of beer, and one empty beer can were found in his car. Two witnesses who observed the appellant at the scene expressed the opinion that he was intoxicated.
+The appellant did not testify but called one witness who testified that about 10 P.M. the appellant drove his car onto the lot of a drive-in where she was working as a waitress. She stated that appellant’s face was covered with blood and his lips and mouth were cut and bruised; that he came inside the building and she washed the blood off of his face. She further testified that he was not staggering and was not intoxicated. She also testified that about 10:15 P.M. she saw a wrecker towing appellant’s car past the drive-in.
+Appellant contends that the trial court erred in refusing to grant a mistrial when the state, in the presence of the jury, called one of appellant’s counsel as a witness for the state.
+When the appellant announced he rested his case, the state’s attorney said: “We have a rebuttal witness — Mr. Richie (one of appellant’s attorneys).” Next, the court retired the jury. No questions were asked of Mr. Richie or any statement made by him before the jury. In this, there is no error.
+Error is urged on the ground that the trial court erred in refusing to grant appellant’s motion for a mistrial when Robin Brown testified twice that she had never seen the appellant when he was sober.
+Robin Brown, age 13, testified twice, without objection, that the only time she had ever seen the appellant was when he was drunk. Next, she was asked: “Did you ever see him sober?” which was not answered. At this time appellant said: “We object to that as not being responsive * * * and is highly prejudicial.” The objection was sustained and the jury instructed not to consider it. Appellant then moved for a mistrial which was overruled. This sequence of events does not reflect reversible error.
+Appellant contends that the trial court erred in permitting Delbert Deford to testify to other and extraneous offenses committed by him.
+After Deford’s testimony was developed in the absence of the jury, the appellant objected to its admission in evidence because the date of the occurrences related by him was uncertain and too remote, and that the occurrences were immaterial to any issue and involved extraneous offenses.
+Deford testified before the jury that about 3:30 P.M. on a Saturday in January, Mary Sue Brown and appellant drove into his service station; that appellant had the odor of whisky on his breath, and he believed that appellant was drunk. Noticing" that she had a cut over her nose, he told appellant not to hit her any more as long as she was in the driveway, even though he admitted that he did not know how Mary Sue had been injured. She then drove to the edge of the driveway, backed up, threw a .22 rifle on the driveway, and drove away. Deford stated that the appellant had a fifth of whisky with him and drank some of it while inside the station.
+The testimony further shows, without objection, that between 7 and 8 P.M., on January 7, the appellant, while intoxicated, went to see Mary Sue at her parents’ home and tried to get her to come out of the house. When he was told that she did not want to see him, he pulled on the door and insisted on entering, which conduct resulted in a fight and he was struck twice in the mouth causing much loss of blood.
+The testimony that appellant, on a Saturday in January, was drinking from a fifth of whisky that he had with him at the service station; that he had an almost empty fifth of whisky at the time of the collision at the intersection on January 7; that Mary Sue had a cut over her nose at the service station and also when appellant came to see her at her parents’ home between 7 and 8 P.M. on January 7, was admissible as showing the date of the said occurrences and appellant’s intoxication.
+The evidence is sufficient to support the conviction and, no reversible error appearing, the judgment is affirmed.
+Opinion approved by the Court.
