@@ -1,0 +1,22 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "999"
+decided: "1896-03-04"
+citations: ["35 Tex. Crim. 508"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Payton v. The State."]
+source_url: "https://static.case.law/tex-crim/35/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 158571
+---
+
+# Payton v. State
+
+## Majority (HENDERSON, Judge.)
+
+HENDERSON, Judge.
+Appellant was convicted of the theft of personal property over the value of $50, and his punishment assessed at two years in the penitentiary, and from the judgment and sentence of the lower court he prosecutes this appeal. Appellant made a motion for a continuance, which was overruled, and he saved an exception thereto. He also brought the same matter forward in a motion for a new trial, which was overruled by the court, and he reserved his exception. Appellant shows that he had subpoenas issued for A. G. Holt, Will C. Faught, and one Howard, all residents of Dallas County, but it shows, however, that the process had not been returned, and that he •did not know what effort had been made to procure service. In such contingency, it was the duty of the appellant to present a motion in court requiring the officer to make return of said process, so that he could see what had been done. The application also fails to state any facts expected to be proved by said witnesses, but only a conclusion. He states that he expects to prove by said witnesses that he was not in the store of Thomas Goggan & Bro., Dallas, Texas, at the time of the theft. Whether it was expected to be shown by these witnesses that they were in the store at the time the theft occurred, and that appellant was not then in said store, or whether it was proposed to be shown by them that, at the time of the said theft, they were in another and different place, and that appellant was there also, is not stated. Appellant also claimed a continuance on account of the absence of one Dunn, who, he alleges, was duly served; but, in the same breath, he says that the return shows said witness to be temporarily absent from the County of Dallas, his permanent home. Under this statement we are at a loss to know whether the witness was in fact served with process, or whether there was a failure to serve him on account of his temporary absence. Appellant shows that he expects to prove by said witness that the money upon his person at the time of his arrest was money paid to him a short time before said arrest, and not the money alleged to have been taken from the pocketbook of Doda Lennox, the prosecuting witness. In regard to this, it is sufficient to say that no money was found upon the appellant at the time of his arrest, and this was not used as a criminative fact against him. On the trial, while the witness, Massie, was on the stand, he being a witness for the defendant, the State, on cross-examination, proved by him that the one-eyed negro was put in the cell with the defendant. The said witness was then asked, “When they took said negro out of the cell, what did he tell them that the defendant told him while he was in the cell with him?” This was excluded, but said witness was permitted to state that, “after the one-eyed negro was in the cell with the defendant for an hour or so, we took him out, and took him to the fair grounds, and he pointed out the lost property, which was some jewelry.” The bill of exception shows, simply, that the appellant objected to the admission of said testimony, and no grounds of objection are stated. Under the facts of this case, it was admissible for the State to • show that some of the lost property was found on the ground where they had arrested the defendant the night before. This part of the testimony was certainly admissible. If the bill in question had pointed out that portion of the testimony which was inadmissible, and had stated the grounds therefor, it might have been excluded by the court; but this was not done.
+Appellant contends that he was placed upon trial before.two full days had elapsed after he was served with a copy of the indictment. The court’s explanation shows that the indictment was served on him on SaV urday, and he was not brought to trial until Tuesday. The contention of the appellant that Sunday should not he counted is groundless. The evidence in this case supports the verdict, and the judgment of the lower court is affirmed.
+Affirmed.
