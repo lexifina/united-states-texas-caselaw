@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,482"
+decided: "1959-03-04"
+citations: ["167 Tex. Crim. 490"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Wallace Hodges v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8550958
+cites_cases: ["115 S.W. 2d 920", "119 S.W. 947", "134 Texas Cr. Rep. 384", "148 Texas Cr. Rep. 526", "150 Texas Cr. Rep. 540", "166 Texas Cr. Rep. 433", "203 S.W. 1091", "203 S.W. 2d 536", "314 S.W. 2d 581", "56 Texas Cr. Rep. 262", "83 Texas Cr. Rep. 490"]
+---
+
+# Hodges v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is murder; the punishment, 35 years.
+A prior habeas corpus proceedings relating to this matter is reported as Ex parte Hodges, 166 Texas Cr. Rep. 433, 314 S.W. 2d 581.
+This case must be reversed because the evidence is not sufficient to support the conviction, and for this reason the facts will be summarized and stated in the light most favorable to the state.
+Deceased met her death at her home some time between three and five o’clock in the afternoon. An autopsy indicated that strangulation was the cause of death. Appellant was the nephew of deceased, had lived in her house as a child, but was not residing with her at the time of the homicide. Some thirty-three days prior to the day charged in the indictment, the deceased’s husband had co-signed a $300.00 note at the bank as an accommodation for the appellant and the first installment was three days past due. It was not shown, however, that any animosity had developed between the parties over this obligation, nor that demand for payment had been made.
+About three o’clock the deceased telephoned her mother (appellant’s grandmother) and informed her that she was ready to go to the dentist but had no one to take her, and it was suggested that the appellant, who was present, would come and drive her himself. The appellant left his grandmother’s house and returned at approximately twenty minutes to five and reported that he had had automobile trouble, and that when he got to deceased’s house no one was home and he supposed the deceased had gone on to the doctor.
+A neighbor of the deceased saw a red and white 1956 or 1957 Ford parked in front of deceased’s house shortly after three o’clock and saw a man wearing khaki pants walk up to the front door.
+An employee of a nearby dairy saw a red and white 1955 or 1956 model Ford parked in front of the deceased’s house shortly after four o’clock.
+The appellant was arrested later that night for the offense of driving while intoxicated, and he was shown to be driving a 1955 red and white Ford. The record contains no showing as to what kind of pants the appellant was wearing on the day in question.
+A telephone line in the deceased’s home was by the investigating officers found to be cut. Appellant’s pocket knife, taken from him at the time of his arrest, was sent to the Department of Public Safety, and it showed no signs of having been in contact with copper and no other physical evidence gathered at the scene pointed toward the guilt of the appellant.
+Appellant’s misconduct at the place of business of his former employer later in the evening and the details of his arrest for driving while intoxicated, nor the testimony showing the whereabouts of the husband of the deceased on the afternoon in question will not be discussed because they have no bearing whatsoever upon the guilt of the appellant of the charge for which he was being tried.
+We have concluded that the facts set forth above, upon which this conviction rests, are not sufficiently strong to exclude every reasonable hypothesis except the guilt of the accused. Wilkie v. State, 83 Texas Cr. Rep. 490, 203 S.W. 1091, and Thomas v. State, 148 Texas Cr. Rep. 526, 189 S.Wi 2d 621, 150 Texas Cr. Rep. 540, 203 S.W. 2d 536.
+In this connection, it should be observed that the state inr troduced the appellant’s statement upon his return to his grandmother’s house that no one was at home at deceased’s house when he got there, and yet there is no proof in this record to show the falsity of such statement. Owens v. State, 134 Texas Cr. Rep. 384, 115 S.W. 2d 920, and Banks v. State, 56 Texas Cr. Rep. 262, 119 S.W. 947.
+Because the evidence is insufficient to support the conviction, the judgment is reversed and the cause is remanded.
