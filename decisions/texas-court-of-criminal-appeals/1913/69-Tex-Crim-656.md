@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2381"
+decided: "1913-03-26"
+citations: ["69 Tex. Crim. 656"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sam Bogue v. State."]
+source_url: "https://static.case.law/tex-crim/69/cases/0656-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4654030
+cites_cases: ["38 Texas Crim. Rep., 87"]
+---
+
+# Bogue v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant, when tried, was convicted of manslaughter, and his punishment assessed at four years confinement in the penitentiary.
+Without detailing the testimony it is sufficient to say that the testimony offered in behalf of the State would support a verdict for even a higher grade of the offense—while the testimony offered in behalf of appellant would show that he was justifiable in slaying his father-in-law, L. J. Kinard. Under such circumstances, we merely review the record to see if the court committed any error in the trial of the case.
+The first bill complains of the testimony of John Goode in certain respects. This witness testified that shortly before the trial he had a conversation with appellant which is detailed as follows: “I had a talk since that with defendant down at Dennis Easley’s cow pen, I think probably the latter part of April or it might have been in May, I would not be positive as to the date. That conversation started about this note that I was on and he paying of that note, which has not been paid up to this time. Old man Bogue was suing me on it at that time, he told me, on this same note. I was asking Sam was he going to let me pay that note, and he said, ‘No, I have done made settlement with old Dick on that. ’ Old Dick was his daddy. He said ‘He promised if I would kill Kinard to give me that note and pay all the costs in the case, and the old son-of-a-bitch now wants me to pay the lawyer fees, and I will kill him before I will do it.’ (That was ‘Old Dick.’) ” Appellant objected to that part of the statement about old man Bogue suing him on the note. When we read the entire statement, it is seen that all of it was clearly admissible to render intelligible that 'part relating to the reason that witness said appellant gave as a reason why he killed deceased, that is, his father had agreed not to collect the note, if he would kill Kinard. And the remark of the court, when the objection was made, could not have been hurtful" to defendant and was not upon the weight to be given the testimony.
+It was permissible for the State to prove by the wife of defendant that she had been convicted of the offense of running a disorderly house. She had been introduced to prove material facts in behalf of the defendant, and this testimony was admissible as affecting her credit as a witness. The offense was one involving moral turpitude.
+[Rehearing denied April 23, 1913.—Reporter.]
+It was immaterial whether or not the witness John Goode had a .pistol on the day prior to the homicide, and he could not be impeached on this immaterial matter, therefore, the court did not err in excluding the testimony of the witness Seals and Loper on this issue.
+As to the question of whether or not deceased was a trespasser on the premises of appellant, the court did not err in permitting the witness Martin to testify that he heard appellant two days prior to the homicide state that he had authorized deceased and others to pick this cotton, and apply it to the payment of debt of appellant for which they were bound as sureties.
+The complaints in the motion for new trial in regard to the argument of the prosecuting officer cannot be considered, as they are not verified by any bills of exception, nor were there any special charges requested in regard thereto.
+The charge of the court was a fair presentation of every issue in the case. The evidence offered in behalf of the State amply supports the verdict, and there is no matter in the motion for a new trial which could or should call for a reversal of the case.
+The judgment is affirmed..
+Affirmed.
