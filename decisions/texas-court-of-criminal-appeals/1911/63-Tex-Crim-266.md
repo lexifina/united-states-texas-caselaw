@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1035"
+decided: "1911-10-11"
+citations: ["63 Tex. Crim. 266"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Herman Springer v. State."]
+source_url: "https://static.case.law/tex-crim/63/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2375415
+---
+
+# Springer v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+The appellant was indicted and convicted of forgery and his penalty fixed at two years in the penitentiary.
+It seems his defense, or at least chief defense, was insanity. The court and jury heard all the testimony on that point as well as the whole case. The court, in appropriate charges which are not complained of, submitted that issue to the jury and the jury found against the appellant.
+There are no bills of exception or other complaints of the action of the lower court by motion for new trial, except: First, the verdict of the jury is contrary to the law and evidence; second, the • charge of the court was contrary to the law and the evidence in that same did not cover the law of the case and was misleading to the jury, and, third, that one of the jurors—naming him—was at the time of being sworn, empaneled and charged, insane and of unsound mind and as a consequence the appellant was denied his constitutional right of a trial by twelve men.
+The third ground is not presented by bill of exceptions and can not be considered, because the record does not show what the facts are with regard thereto. The other two grounds are too general and present no error.
+We have carefully considered the evidence—the whole of it—and it clearly justified the conviction.
+The indictment was returned and filed September 13, 1910, charging the forgery to have been committed on August 17, 1910. The trial was had September 30, 1910. Said motion for new trial was acted on and overruled November 1, 1910, and the appellant was sentenced the same day.
+However, on October 31, 1910, we find in the record, that Dan M. Jackson, one of appellant’s attorneys who represented appellant on the trial of the case, filed an affidavit wherein he says: “That he has good reason to believe and does believe, and here alleges the fact to be that Herman Springer, the defendant in the above styled and numbered cause, is of unsound mind and insane and respectfully moves the court to have the said defendant tried on the question of insanity as provided for in art. 983, Penal Code.” The State, by its district attorney, filed an opposition to this affidavit claiming that “it was insufficient under articles 983 and 983 of the Code of Criminal Procedure, for the reasons that the affidavit is on information and belief and does not make known to the court that defendant is insane; that the affidavit is by one of the attorneys of record of the defendant and sets out no good reason to believe that defendant has become insane, and is evidently based on the same facts as were known to the defendant and his said attorney at the time of the trial of said cause; that the cause was tried September 30, 1910, and on the trial the evidence of defendant’s insanity was introduced, plead before and passed upon by the jury and the matter of the sanity or insanity of the defendant was duly and properly passed on by the jury and properly adjudicated by the jury.”
+The record does not show what action, if any, the court took upon this affidavit. The action or failure to act thereon is in no way presented by the appellant to this court other than what we find in the record as above stated.' Evidently this affidavit of insanity by appellant’s attorney was made under title XII, chap. 1, articles 983, et seq., of the Code of Criminal Procedure. Article 983 provides: “If it be made known to the court at any time after conviction, or if the court has good reason to believe that a defendant is insane, a jury shall be impaneled to try the issue.” The next article, 983, provides: “Information to the court as to the insanity of a defendant may be given by the written affidavit of any respectable person, setting forth that there is good reason to believe that the defendant has become insane.”
+We think the proper construction of these two articles clearly is that the affidavit, and especially when that issue was tried on the trial of the main case, should set forth that the defendant has become insane since ihe Irial. This affidavit docs not do this. The point was clearly raised by the State’s objection thereto at the time, and, we take it, that the lower court so held, or if it did not directly do so, indirectly did so and necessarily must have done so. Otherwise, no sentence would have been pronounced against the appellant the next day and the issue would have been submitted to another jury. At any rate, we think as the proceeding is presented to us it does not show: reversible error of the lower court.
+If as a matter of fact the appellant has become insane since the trial of his case, it can yet be properly presented to the lower court and that question can be tried. Certainly the law does not contemplate that after a defendant has been tried and has plead insanity and Ihe court and jury on the main trial have heard and decided that issue against him, that he can again and again prevent the execution of that judgment by some one filing an affidavit on information and belief that the defendant is insane without stating that he has become insane since the trial.
+There being no reversible error, the judgment is in all things affirmed.
+Affirmed.
+Davidson, Presiding Judge, absent.
