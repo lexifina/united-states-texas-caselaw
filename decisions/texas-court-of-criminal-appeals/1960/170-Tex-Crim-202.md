@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,058"
+decided: "1960-06-08"
+citations: ["170 Tex. Crim. 202"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Leo Gregg v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2630282
+cites_cases: ["161 Tex. Cr. R. 334", "163 Tex. Cr. R. 141", "163 Tex. Cr. R. 367", "165 Tex. Cr. R. 578", "168 Tex. Cr. R. 354", "277 S.W. 2d 104", "289 S.W. 2d 291", "292 S. W. 2d 114", "310 S. W. 2d 81", "312 S.W. 2d 654", "327 S.W. 2d 575"]
+---
+
+# Gregg v. State
+
+## Majority (WOODLEY, Judge. DICE, Judge.)
+
+WOODLEY, Judge.
+The complaint and information alleged that appellant "was a person whose operator’s license had theretofore been suspended and did then and there unlawfully while his said operator’s license was so suspended, drive and operate a motor vehicle upon a public highway.”
+Tried before a jury, appellant was convicted and assessed a fine of $250, from which he appeals.
+Bill of Exception No. 1 complains of the overruling of motion to quash the information, the ground for said motion being that it charged no violation of the penal laws of Texas.
+The allegations are deemed sufficient. In Rushing v. State, 161 Tex. Cr. R. 334, 277 S.W. 2d 104, the allegations held sufficient to charge the offense defined by Art. 6687b, Sec. 34, V.A.C. S., were that the defendant “did then and there unlawfully drive and operate a motor vehicle upon a public highway, there situate, when the Texas Operator’s License of the said (defendant) was suspended.”
+It is contended that the evidence is insufficient to sustain the conviction.
+On or about December 19, 1959, appellant was driving a pickup on a road in Brazos County, and was stopped by officers of the Texas Department of Public Safety.
+When asked for his license he first “said he had his license at home” * * * “he said he had a Louisiana driver’s license and that is the one he left at home * * * .” “Then I asked him if he had a Texas driver’s license and he said no.---After he said he had never had a Texas license * * * then I asked him if his Texas driver’s license were ever suspended and asked him if they were still under suspension and he said yes.”
+Records of the Driver’s License Division of the Texas Department of Public Safety were introduced relative to William Leo Gregg, No. 3639274, including notice of conviction for driving while intoxicated in Cause No. 148 in County Court, Brazos County, July 28, 1959, and showing license suspended for 6 months.
+The entry ‘| Surrendered license, Op in 4/14/60” appearing-on the record was explained by the witness who had custody of it as meaning that the operator’s license of William Leo Gregg was issued 4-14-58 and would be valid until 4-14-60. It was also explained that the license was kept in another file to be mailed “when he has served his suspension.”
+Appellant questions whether the evidence shows that the road upon which appellant was driving the pickup was a public road.
+Patrolman Williams testified:
+“Q. Under what circumstances did you have contact with Mr. Gregg? A. We were on a County Road leading from State Highway 21, from Highway 21 to the Tabor community here in Brazos County * * * I pulled into a private driveway to turn and go back to State Highway 21 when a pickup coming along in the same direction as mine, the same line of travel, — and I tried to stop him and I was unable to pull along the side by the pickup and finally I got behind him and blew the horn and pulled him over, * * * and Mr. Gregg was driving the pickup.
+“Q. That was William Leo Gregg? A. Yes.”
+As we understand the record, this testimony shows that the pickup was driven on the county road and not on the private driveway.
+Appellant’s identity as the same person who was the defendant in the driving while intoxicated conviction and whose license was suspended by reason of such conviction is challenged.
+The deputy county clerk identified the report of such conviction which she signed and which the defendant who surrendered his license signed. The records of the Texas Department of Public Safety relating to such driver include his original application signed and sworn to, which contains a full description of the applicant. If there was any discrepancy between the description of the licensee and the defendant the jury was in position to discover it. Goolsby v. State, 166 Tex. Cr. Rep. 180, 312 S.W. 2d 654.
+Appellant’s statement that his “Texas Driver’s License was under suspension,” with the other evidence above mentioned, was sufficient to sustain the jury’s finding that appellant had been issued an operator’s license which would not expire until April 14, 1960; that such license was under suspension by reason of his conviction for driving while intoxicated when he was apprehended driving a pickup on a public road in Brazos County, Texas.
+The judgment is affirmed.
+On Appellant’s Motion for Rehearing.
+DICE, Judge.
+In his motion for rehearing, appellant insists that the court erred in permitting Patrolman Williams to relate the conversation which he had with appellant after he had stopped him relative to his driver’s license, over appellant’s objection that he was then under arrest. We need not pass upon the question as to whether appellant was at such time under arrest because the conversation between appellant and the officer was, under the record presented, shown to be a part of the res gestae of the transaction and admissible as such. Cline v. State, 163 Tex. Cr. R. 141, 289 S.W. 2d 291 and Suiter v. State, 165 Tex. Cr. R. 578, 310 S. W. 2d 81.
+Appellant further insists that the court erred in admitting in evidence the records of the Driver’s License Division of the Texas Department of Public Safety relative to William Leo Gregg, over appellant’s objection that the same were not certified to by the proper officer having legal custody thereof and were hearsay. The records introduced were original records of the Driver’s License Division and were identified as such by the witness Goodman, a driver’s license examiner for the department, who the record shows had been designated deputy custodian of such records by Chief A. F. Temple of the Driver and Vehicle Records Division of the department. The records, being identified and attested in open court by the officer having legal custody thereof, were admissible in evidence under the provisions of Art. 373la, V.A.C.S. Such records were not subject to appellant’s objection that they were hearsay. Rice v. State, 163 Tex. Cr. R. 367, 292 S. W. 2d 114 and Tennison v. State, 168 Tex. Cr. R. 354, 327 S.W. 2d 575.
+Remaining convinced that the evidence is sufficient to sustain the conviction and that no reversible error is shown, the motion for rehearing is overruled.
+Opinion approved by the Court.
