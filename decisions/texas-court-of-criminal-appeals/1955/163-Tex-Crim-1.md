@@ -1,0 +1,62 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,905"
+decided: "1955-12-14"
+citations: ["163 Tex. Crim. 1"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Herbert James Lieb v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461228
+cites_cases: ["135 S.W. 2d 716", "138 Tex. Cr. R. 292", "197 S.W. 589", "81 Tex. Cr. R. 534"]
+---
+
+# Lieb v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is passing as true a forged instrument, with three prior convictions alleged for enhancement; the punishment, life imprisonment.
+The court appointed three different lawyers to represent the appellant, but he refused their representation and presented his own defense. Appellant is a college graduate and is obviously much experienced in criminal procedure.
+Homer Carter, teller in the motor bank of the First National Bank of Beaumont, testified that on the day charged in the indictment a man drove up to his window and handed him the check which forms the basis of this prosecution and which was payable to and endorsed by R. P. Braun, drawn on the Security State Bank & Trust Company in the sum of $117.50 and signed “Herbert Plumbing Co. by L. F. Herbert.” He stated that he deposited the same to the account of Braun but could not definitely identify the appellant as the man.
+Thomas Turner, assistant cashier at the same bank, identified statements of the account of R. P. Braun and photographic and photostatic copies of checks drawn on such account. He could not definitely identify the appellant as the person who had opened the Braun account.
+Thomas Glass, teller at the same bank, identified the appellant as the man who had come to his window and cashed several checks payable to cash and drawn on the Braun account. Glass further testified that he identified the appellant after his arrest.
+L. F. Herbert testified that he did business under the name of Herbert Plumbing Company and that the appellant had worked for him as a bookkeeper from 1947 through 1953, that he did not sign the check involved in this prosecution and did not give the appellant his authority to do so> and had never heard of the appellant’s past felony convictions until after this prosecution arose.
+It was shown that several known specimens of the appellant’s handwriting, together with the check involved in this prosecution and the other checks drawn on the Braun account, were submitted to the questioned document division of the Texas Department of Public Safety for comparison.
+Handwriting expert E. N. Martin, chief of that section, testified that he had made a microscopic study of the specimens submitted to him and expressed the opinion that they were all written by the same person.
+The prior convictions alleged were proven, and the appellant was identified as the same person who under the name of H. J. Lieb had been so convicted.
+The appellant testified in his own behalf and denied that he had written or passed the check involved in this prosecution or knew anything about the Braun account. Several of his witnesses, who knew nothing of his prior convictions for forgery, robbery and embezzlement, testified as to his good reputation.
+The sole question presented for review by appellant’s counsel on appeal is the failure of the trial court to charge the jury in accordance with the terms of Article 731, V.A.C.C.P., which reads as follows:
+“It is competent to give evidence of handwriting by comparison, made by experts or by the jury. Proof by comparison only shall not be sufficient to establish the handwriting of a witness who- denies his signature under oath.”
+The appellant contends that the testimony of Glass, as set forth above, was not sufficient to take this case out of the operation of the statute. Glass positively identified the appellant as being the individual who had cashed two- certain checks signed R. L. Braun and stated that he was of the opinion that he had cashed others for him. All the checks introduced in evidence, including the one involved in this prosecution, were shown to have been written by the same person. Appellant denied any knowledge of the Braun account.
+We have concluded that Glass’s testimony takes this case out of the operation of the statute and that the facts are-sufficient to support the verdict.
+The trial court and state’s counsel are to be commended for the patience which they demonstrated in the presentation of this case. The statement of facts consists of 290 pages and almost no testimony offered by the appellant was rejected.
+The judgment is affirmed.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON MOTION FOR REHEARING
+WOODLEY, Judge.
+The indictment against appellant was in two counts. Count one charged the offense of forgery.
+Count two charged that appellant “did then and there unlawfully, wilfully, knowingly and fraudulently attempt to pass as true to one Homer Carter, a false and forged instrument in writing, with intent to defraud, and was then of the tenor folio-wing.” The draft was set out and it was further alleged that appellant knew it to be forged “and did then and there attempt to pass and pass the same as true, with intent to defraud.”
+The indictment further contained paragraphs in which prior felony convictions were alleged.
+In his charge to the jury, neither the offense of forgery as charged in the first count, nor the offense of attempting to pass as true a forged instrument, charged in the second count, was submitted.
+The jury, on the other hand, was instructed in the court’s charge that appellant was charged in the second coupt of the indictment with the offense of passing a forged instrument; that he did “unlawfully, wilfully, knowingly and fraudulently pass as true to one Homer Carter a false and forged instrument in writing, with intent to defraud, as set out in the indictment.”
+The charge, in applying the law, told the jury that if they believed from the evidence beyond a reasonable doubt that the ■instrument set out in the indictment was forged and that the defendant, knowing the same to be a forged instrument, “did knowingly pass to Homer Carter as true the said alleged forged instrument” the jury would find him guilty.
+The jury, being so charged, returned a verdict finding appellant “guilty of passing a forged instrument as charged in the indictment” and further found that he had twice before been convicted of a felony less than capital.
+The verdict being received, the court entered its judgment adjudging appellant guilty of the offense of passing a forged instrument, and adjudged that his punishment be confinement in the penitentiary for life.
+Sentence being pronounced ordering the judgment carried into execution, appellant prosecutes this appeal.
+In the latter portion of count two the indictment alleged that appellant did then and there “attempt to pass and pass” the forged instrument.
+If it be that the trial court construed the indictment as charging the passing of the forged instrument because of this allegation he was in error. The indictment nowhere alleged that the forged instrument was passed to Homer Carter. It did allege that appellant attempted to pass the forged draft to Homer Carter. An indictment containing an identical allegation was before this court in Smith v. State, 81 Tex. Cr. R. 534, 197 S.W. 589. The words “and pass” were held to be surplusage and it was held that the indictment charged the offense of attempting to pass a forged instrument.
+The jury’s verdict found that appellant passed the forged instrument, as charged in the indictment. Such verdict, though authorized by the court’s charge, is fatally defective and will not support a conviction for the offense of attempting to pass a forged instrument. It finds the defendant guilty of an offense not charged in the indictment and the variance is fatal. Tarkenton v. State, 138 Tex. Cr. R. 292, 135 S.W. 2d 716.
+Appellant’s motion for rehearing is granted, the order affirming the conviction is withdrawn, and the judgment is now reversed and the cause remanded.
+
+## Dissent (MORRISON, Presiding Judge,)
+
+MORRISON, Presiding Judge,
+(dissenting).
+I do not agree with the opinion of my brethren. To me, the indictment (however ineptly drawn) charges that the appellant attempted to pass as true to one Homer Carter a forged instrument and that he succeeded in such attempt. It was the ultimate successful act for which he was convicted by the jury.
+The Tarkenton case cited by my brethren is not controlling here. In that indictment, nowhere is it alleged that the instrument was ever passed, while in the indictment before us here we find the allegation “and did then and there attempt to pass and pass the same as true.”
+I respectfully enter my dissent to the reversal of this conviction.
