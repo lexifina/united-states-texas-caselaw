@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,064"
+decided: "1956-05-23"
+citations: ["163 Tex. Crim. 370"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donnie Gibbs v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0370-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460699
+cites_cases: ["252 S.W. 2d 465", "268 S.W. 2d 191"]
+---
+
+# Gibbs v. State
+
+## Rehearing (MORRISON, Presiding Judge.)
+
+on motion for rehearing
+MORRISON, Presiding Judge.
+Our original opinion is withdrawn. In view of our present disposition of this case, a recitation of the facts will not be necessary.
+There were several questions of jury misconduct raised. We shall discuss only two.
+The jury deliberated approximately three hours. They determined the appellant’s guilt in fifteen minutes, and the remainder of the time was consumed in setting the punishment. The juror Wimberley testified at the hearing on the motion for new trial that at first four of the jurors, whom she named were for a suspended sentence. The juror Allen testified that she first voted for a suspended sentence and that, following this, some of the other jurors, who were voting for a term in the penitentiary, stated that some of the jurors in Mason County (where this case had been tried to a hung jury) had wanted to give the appellant forty years. She testified that after this remark was made she and the other jurors changed their votes from a suspended sentence to a term in the penitentiary. The state sought to rebut this testimony by calling three jurors and by introducing the affidavits of others. The three who testified and the affidavits introduced did not deny that the statement about the Mason County jurors had been made; they merely stated that they did not remember having heard it mentioned. The affidavits of the two additional jurors named as having first voted for a suspended sentence did not deny that they had changed their vote. Recently, in Spriggs v. State, 160 Tex. Cr. Rep. 188, 268 S.W. 2d 191, we said:
+“We cannot agree that the testimony of seven of the jurors to the effect that they did not hear or make the statement was sufficient to authorize the trial judge to conclude that the remark was not made.”
+The jurors Rusche and Allen also testified that there was some discussion to the effect “that even if the defendant were given a five year sentence, that he might be able to get into the Army and might not have to serve it in the penitentiary.”
+The remaining jurors who testified were not questioned about whether or not there had been such a discussion nor did any of the affidavits mention it.
+In Rogers v. State, 158 Tex. Cr. Rep. 8, 252 S.W. 2d 465, we said, “Since this testimony as to what occurred in the jury room was not controverted, no issue of fact was raised for the trial court’s determination. Under this state of the record, it became the duty of the trial court to grant appellant’s motion for new trial.”
+Upon another trial, the rule which prohibits the proof of collateral acts of misconduct should be carefully observed.
+Because of the jury misconduct set forth above, the motion for rehearing is granted, the judgment of affirmance is set aside, and the judgment is now reversed and the cause remanded.
