@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "23687, 23688"
+decided: "1947-03-26"
+citations: ["150 Tex. Crim. 239", "200 S.W.2d 828"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte C. G. Lynch."]
+source_url: "https://static.case.law/tex-crim/150/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2600936
+cites_cases: ["109 Tex. Cr. R. 19", "109 Tex.Cr.R. 19", "117 S. W. (2d) 1102", "117 S.W.2d 1102", "12 Tex. App. 318", "12 Tex.App. 318", "135 Tex. Cr. R. 281", "135 Tex.Cr.R. 281", "18 Tex. App. 227", "18 Tex.App. 227", "197 S. W. 618", "197 S.W. 873", "2 S. W. (2d) 451", "2 S.W.2d 451", "227 S. W. 187", "227 S.W. 187", "261 S. W. 1027", "261 S.W. 1027", "268 S. W. 464", "268 S.W., 464", "5 Tex. App. 103", "5 Tex.App. 103", "81 Tex. Cr. R. 618", "81 Tex.Cr.R. 618", "88 Tex.Cr.R. 435", "97 Tex. Cr. R. 387", "97 Tex.Cr.R. 387", "99 Tex. Cr. R. 106", "99 Tex.Cr. R. 106"]
+---
+
+# Ex parte Lynch
+
+## Majority (GRAVES, Judge.)
+
+GRAVES, Judge.
+Relator was charged by indictment with the murder with malice of his wife, Etta Lorene Lynch, on January 16, 1947, and on February 16, 1947, he was granted a writ of habeas corpus by Judge Earl Roberts, and same was heard on February 20, 1947. The application for such writ was sworn to by S. N. Lynch, a brother of relator. Upon a hearing thereon relator was remanded to jail without bail, to which ruling of the trial court an exception was taken, and the matter is now present in this appellate court, it being No. 23,687. Thereafter, on March 6, 1947, the relator sued out a further writ before the same judge, alleging that he was entitled to such second writ by virtue of Art. 171, C. C. P., in that certain important testimony had been obtained relative to relator’s physical condition, which could not have been known or produced upon the hearing of the first writ of habeas corpus, and also that relator had now sufficiently recovered from certain bodily injuries so that he could testify in person in such second hearing. This writ was also granted by the District Judge, and testimony heard thereon, and again bail was denied. Therefore, the second case is also here on appeal from such order denying bail, this last case being our No. 23,688. Upon agreement of all parties in open court, these two cases were consolidated and are now before us.
+In the second case herein, the relator alleged that he had suffered injuries himself, so serious as to necessitate an operation upon his body and that he was convalescing therefrom, and that in order to preserve his life a removal from custody was necessary. He further alleged that he expected to take the witness stand on his second hearing and give his version of the transaction which resulted in the death of his wife and the wounding of relator. The trial court doubtless granted this second application for the writ on the ground of threatened danger to relator’s health, and in his order exercised one of the alternatives presented in Art. 137, C. C. P., wherein it is said:
+“* * * an order may be made for the removal of the prisoner to some other place where his health will not be likely to suffer,” etc.
+The court “ordered the Sheriff of Gregg County not to confine the relator in a cell but in an apartment room adjoining the jail office where there is a bed, including bath and commode; that food be prepared in accordance with his needs, and such medical attention as the said C. G. Lynch may require be provided by the county doctor of Gregg County.”
+These above requirements and provisions being deemed adequate by one of the testifying physicians, we think that such disposes of the question relative to relator’s health.
+It is contended, however, that under the testimony here present, the facts evidence a lack of malice and that there is not a probability that a jury would inflict the death penalty, upon a trial, and therefore, relator should be granted bail, which he stands ready to furnish in any reasonable amount. It is true that relator and his wife were having marital difficulties and that she had indicated her intention to sue for divorce, which seemed to have caused relator much mental anguish and about which, it is claimed by relator, they were talking when it is shown that the wife was stabbed to death and relator wounded by stab wounds. The State offered testimony showing evidence of malice upon the part of relator, as well as his acts at the scene of the killing that would doubtless be useful to a jury in determining malice, also the ferocity of the assault that evidenced itself in the finding of seventeen wounds upon the body of the deceased wife.
+We think the case of Ex parte Cantu, 135 Tex. Cr. R. 281, 117 S. W. (2d) 1102, of value in determining the issue herein presented and should be conclusive thereof. It is not the condition of one’s mind generally that should govern in such instances, but the evidence of a sedate mind and formed design to kill or do great bodily injury, and if such be present at the commission of such a murder the same would be upon malice. See Ex parte Cantu, supra.
+We are also cited to the case of Ex parte Kyle, 109 Tex. Cr. R. 19, 2 S. W. (2d) 451, in which it was held that although the accused offered an issue of self-defense, the source of such evidence could be taken into consideration and would not in every case require the overturning of a decision refusing bail, citing Ex parte Polk, 99 Tex. Cr. R. 106, 268 S. W. 464, and many other cases.
+“A decision of the trial court denying bail, while not conclusive on this court, is entitled to and is accorded great weight.” Ex parte Hanks, 97 Tex. Cr. R. 387, 261 S. W. 1027; Ex parte Lebo, 88 Tex. Cr. 435, 227 S. W. 187; Ex parte Sparks, 81 Tex. Cr. R. 618, 197 S. W. 618, Ex parte Matlock, 18 Tex. App. 227; Ex parte Beacom, 12 Tex. App. 318; Ex parte Moore, 5 Tex. App. 103.
+We have carefully read the authorities furnished us in relator’s brief and do not think they are contrary to our decision herein. Each case must be considered upon its own peculiar facts, and in applying the law thereto, we have endeavored to do so in this instance.
+It follows from what we have said that the careful trial j'udge did not abuse his discretion in refusing relator bail in our cause No. 23,687, and also in our cause No. 23,688, and the j'udgment in each instance will therefore be affirmed.
+HAWKINS, Presiding Judge, absent.
