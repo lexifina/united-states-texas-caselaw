@@ -1,0 +1,46 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,059"
+decided: "1954-06-26"
+citations: ["161 Tex. Crim. 510"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mack Barnes v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468617
+cites_cases: ["159 Texas Cr. Rep. 271", "262 S.W. 2d 723", "269 S.W. 2d 379"]
+---
+
+# Barnes v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is possession of a bomb; the punishment, 5 years.
+The witness Smith testified that as he left the picture show on the night in question he observed two men near an Oldsmobile which was parked adjacent to his .automobile close to the Prescription Pharmacy. He stated that as he approached they hastily got in the Oldsmobile and that one of them, whom he later learned to be Glen Roach, was carrying a bag with handles. He did not get a good view of the other man and could not identify the appellant as being such man. He inspected his automobile to determine if anything had been stolen therefrom, took the license number of the Oldsmobile, and reported the same to the police.
+Officer Wilson testified that he received the license number from Smith and proceeded in search of the Oldsmobile. He stated that as he passed the Prescription Pharmacy he saw two men standing on the sidewalk; that he proceeded on James Street and saw the Oldsmobile, which bore the license number he had been given, parked with only the driver seated therein; that he made a U-turn and as he returned the Oldsmobile drove off and turned on Caddo Street; that the two men who had been standing on the sidewalk got into the Oldsmobile, and he followed it. He stated that he overtook it on West Henderson Street and signaled it to stop, that when the two automobiles came to a halt the driver of the Oldsmobile, whom he later learned to be James Buchanan Hill, the owner thereof, got out and came back to the police ear, and that he went forward to the Oldsmobile, where he found Glen Roach seated in the middle and the appellant seated on the outside. When these two got out he stated that he saw a canvas bag on the floorboard behind where their feet had been. The bag was shown to contain a quantity of nitroglycerin, detonation caps, wires, a sledge hammer, punches, gloves, and a partially empty bottle of whiskey. The appellant had been drinking.
+Officer Wilson further testified that after placing these men under arrest he returned to the Prescription Pharmacy and there found under a window a large crowbar.
+On the issue of probable cause, Officer Wilson testified, in the absence of the jury, that Smith had reported to him that some men were hiding behind an Oldsmobile when he came out of the show and suggested that he should investigate to see whether they were stealing.
+Chemist Tullís, of the Texas Department of Public Safety, testified that the nitroglycerin, the wires and the caps were capable of producing an explosion of such a nature as to cause damage to persons and property by either of two methods of detonation.
+Appellant contends that the evidence is insufficient to show that he exercised any control over the contents of the bag.
+We think the following facts are significant:
+1. Two men and a certain automobile were seen under suspicious circumstances at the Prescription Pharmacy, which was closed at the time. One of the men was Glen Roach.
+2. Two men were later seen near the pharmacy, and when the police car passed the Oldsmobile parked nearby, it drove away and picked up these two men, one of whom was shown to be the appellant;
+8. A bag containing burglar tools and a partially full bottle of whiskey was found on the floorboard immediately to the rear of appellant’s feet. Appellant had been drinking.
+4. A tool often used in burglaries was found near where Hill picked up the appellant and Roach.
+We agree with the appellant that his mere presence in the Oldsmobile was not sufficient, but we also believe that the above facts are sufficient, to show that appellant, Hill, and Roach were acting together in a burglarious enterprise and, in so doing, had joint possession of the bag and its contents. The argument of the prosecutor to the effect that the appellant had been drinking from the bottle found among the burglar tools was, we think, a logical deduction from the evidence.
+Appellant cannot complain of the search of the automobile belonging to Hill. Smith v. State, 159 Texas Cr. Rep. 271, 262 S.W. 2d 723. We think the facts detailed above constituted sufficient probable cause to authorize the officers to stop the Oldsmobile and the contents of the bag therein authorized the arrest of the appellant.
+Finding no reversible error, the judgment of the trial court is affirmed.
+
+## Rehearing (GRAVES, Presiding Judge.)
+
+ON MOTION FOR REHEARING
+GRAVES, Presiding Judge.
+Appellant complains herein and again asserts the illegality of the search of the automobile in which he was found sitting with a blue bag against his feet. We think this matter of the search of the automobile does not depend upon the provision of the charter of the city of Cleburne which allowed the arrest without a warrant of persons within that city under certain circumstances. We think that the officers were within their right to search upon probable cause and that they found beneath the appellant’s feet a collection of articles that would constitute, if properly arranged, a bomb that could be used not only for the purpose of entering a building or opening a safe but could also destroy human life if used in a certain manner.
+So far as this record shows, Mr. Hill, the man who owned the automobile, did not complain of the search of his car after the appellant, as well as his companions, had been placed under arrest.
+We think that the presence of a half empty bottle of whiskey in such bag under the appellant’s feet had no effect upon whether or not he was in possession of a bomb or the collection of articles that would constitute such bomb at such time, and was of no great import herein.
+Appellant also complains of the fact that a large iron bar was found under a window of a building near which he and his companions were seen acting in a suspicious manner. We think that might have had some bearing before the jury in showing with what intent the appellant and his companions were in possession of a bomb which was dangerous to property as well as to human life.
+It is worthy of note, however, that the sufficiency of an indictment in words and figures the same as the one herein presented has already been passed upon by this court in the recent case of Roach v. State, 160 Texas Cr. R. 347, 269 S.W. 2d 379, and was therein held to be sufficient to charge the elements of the offense.
+Believing the proper disposition of the case to have been made in the original opinion, the motion for rehearing is therefore overruled.
