@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2957"
+decided: "1914-01-21"
+citations: ["72 Tex. Crim. 518"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. Loicano v. The State."]
+source_url: "https://static.case.law/tex-crim/72/cases/0518-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4674090
+cites_cases: ["157 S. W. Rep., 152", "158 S. W. Rep., 274", "70 Texas Crim. Rep., 285", "70 Texas Crim. Rep., 600"]
+---
+
+# Loicano v. State
+
+## Majority (PRENDERGAST, Presiding Judge.)
+
+PRENDERGAST, Presiding Judge.
+Appellant was prosecuted under article 612, Penal Code, for selling malt liquor, capable of producing intoxication, without a license, as such dealer. His punishment was fixed at a fine of $250 and one day in jail.
+' The complaint and information, after the formal parts, alleged that on July 27, 1913, appellant, without first having applied for and obtained a license, under the laws as a retail malt liquor dealer, did then and there in a certain locality in said county where local option was not in force, unlawfully sell, directly and indirectly, to Albert Mitchell, “intoxicating malt [spirituous, and vinous] liquors in quantities of one gallon and less, towit: one pint bottle of beer.”
+Appellant made a motion to quash the complaint and information because they were duplicitous in that they charge that he sold intoxicating spirituous and vinous liquors and also intoxicating malt, liquor, said charge being in one and the same count. Taking the allegation in the complaint and information as a whole, it charged only that the liquor sold was one pint bottle of beer which was intoxicating malt liquor. White v State; 70 Texas Crim. Rep., 285, 157 S. W. Rep., 152. Again, the words “spirituous and vinous” in brackets above, describing the character of liquor, could and should be regarded as surplusage. Goodwin v. State, 70 Texas Crim. Rep., 600, 158 S. W. Rep., 274, and cases there cited.
+The evidence as a whole was amply sufficient to sustain the conviction. While it is contradictory this is for the jury and they having, with sufficient evidence, found him guilty, we can not disturb the verdict.
+By one bill of exceptions it is shown that when the State’s witness Albert Mitchell to whom the sale of beer was alleged to have been made, was testifying for the State, without reciting it, he testified to a state of facts which would make it doubtful that he had bought the pint of beer from appellant. The county attorney thereupon asked him if it was not a fact that he had told Harve Musick that he had bought the beer from appellant. The appellant’s attorneys objected to this question. The county attorney thereupon stated to the court that the witness had previously stated that he had bought the beer from appellant and that the State was surprised at his testimony which was against the State, and the court thereupon, for that reason, permitted the county attorney to ask and required the witness to answer the question. He thereupon answered that he had told Musick he bought the beer from appellant, which conversation occurred at the defendant’s place of business at the time the officers came and before they arrested, defendant. This action of the court, under the circumstances stated, presents no error.
+Mr. Ammerman, assistant county attorney, testified: “Defendant talked to me several times about his case; he came to the county attorney’s office and asked me how much it would take to pay the fine and settle it, and I told him that the least fine was $250, and he said that it looked like that was too much for selling a few bottles of beer, and asked me if I could not make it Sunday selling, and I told him that I could not; he asked me if I could hot make it Sunday selling so he could get out lighter, and when I told him I could not, he asked me if I would pass it a few days till he got the money.” Appellant objected to "this testimony because it was an effort on his part to compromise his. case.
+The bill is very meager. His objection that it was an effort on his. part to compromise the case is a mere objection not approved as a statement of fact by the court. If we could look to the record we would find that the testimony of the assistant county attorney was much fuller than given by this bill, and that it does not show an effort by appellant to compromise his case so as to make the evidence inadmissible. The bill does not show that the testimony was inadmissible.
+The court did not err in refusing to charge the jury to find the appellant not guilty because of the insufficiency of the evidence. The evidence was sufficient and the court should not have charged that it was not.
+The State showed that appellant in January, 1913, took out a license as a malt liquor dealer, his business to be at 1405 Main street in Fort Worth. Appellant himself testified that he had such license for his business at 1405 Main street; that his confectionery stand, at which place the sale is shown to have been made, was on Main street in the 1200 block. He denied making this or any other sale in his said confectionery store. The State also proved that his confectionery store was three blocks and across the street from where he had and run his saloon. He was not charged, and there was no testimony offered, or which tended to show, that he made any sale at his said saloon business place. The statute prohibits the dealer from carrying on his business under his license at more than one place at the same time, and provides that if he desires to change the place designated in the license he must apply to the county judge and have the change made.’ The court did not err in refusing appellant’s charge that if he made the sale alleged and had a license to sell to acquit him, even if he had properly excepted to the refusal of the court which he did not do. The judgment is affirmed.
+Affirmed.
