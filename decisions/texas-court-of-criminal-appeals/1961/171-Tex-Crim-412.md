@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,874"
+decided: "1961-11-22"
+citations: ["171 Tex. Crim. 412"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lee Otha Cooper v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2638092
+cites_cases: ["117 S.W. 2d 1105", "146 S.W. 555", "180 S.W. 2d 928", "216 S.W. 2d 573", "286 S.W. 2d 424", "306 S.W. 2d 131"]
+---
+
+# Cooper v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The single count indictment upon which appellant was convicted for murder with malice charged that, while driving an automobile, he voluntarily and with malice killed the deceased by colliding with and striking him with an automobile. The punishment was assessed at 25 years.
+The evidence shows that the appellant, the deceased, and several other persons had spent the evening visiting, and some of them, including the appellant and the deceased, were drinking beer and whisky. About 1 A.M., the appellant, his sister, Arnell (also referred to herein as Nell), and the deceased left a drive-in in appellant’s automobile going to Houston. Arnell was driving but soon stopped to let the appellant drive. When they opened the car door to get out in order to change drivers, the light came on inside of the car, and Arnell discovered that her money was missing from her purse. She accused the deceased of taking it, and after he denied having taken it, she reached in his shirt pocket and recovered the money.
+According to the appellant’s written statement, introduced by the state, he got mad at the deceased for getting his sister’s money, they had a “cuss fight,” and the appellant refused to let the deceased ride with them any further. The appellant then drove away, and the deceased started walking back toward the drive-in which had closed at 1 A.M. The statement further recites: “* * * after I had started to driving * * * I turned around and started towards him as he was walking on the highway and I picked up some speed with my car before I got to where John (deceased) was and then I was going somewhere around 50 to 55 miles per hour and then when I was real close to him I saw that he was not going to jump out of the way as I thought that he would and by that time I was too close to him to keep from hitting him and the right side of the car hit John.
+“As soon as I hit John I put on my brakes and stopped the car as John had came up on the hood of the car and then fell off. When I got stopped John had rolled off the hood of the car and fell in the ditch. * * *."
+“While I was waiting for the Police to come I told Nell that we had got ourself in some trouble and that we should tell the Police that we were driving down the street and this man was walking along the road and stepped out and we was unable to avoid hitting him. When the Police came that is what we told them and we came to the Police Station and made statements that this was what happened.”
+An officer testified that the point of impact was on the 48 feet wide, 4 lane highway some 5 feet from the edge of the shoulder.
+The testimony of a physician who examined the body of the deceased showed that his death was caused by a skull fracture. He also testified that the alcoholic content of the blood of the deceased was 0.118% which was indicative of intoxication.
+Testifying in his own behalf, the appellant stated that he had drunk a lot of beer, and some scotch, and was intoxicated; that when they stopped to change drivers he refused to let the deceased ride any further because he had taken his sister’s money and then drove away. After traveling a short distance, he stated that he decided to return and get the deceased because he had known him all his life, and he had done nothing to him to make him angry. He further testified that he expected the deceased to be on the opposite side of the highway from where he was when hit, and that his act of driving his car into the deceased was an accident, and that he did not intend to injure or to kill him.
+The appellant called his sister, Arnell, as a witness and her testimony was substantially the same as given by him.
+The appellant introduced the following from his written statement: “I thought I would scare John (deceased) a little”, which was not offered by the state. While testifying, he denied making the above quoted statement and said that it was placed in there because “that’s what the officer wanted.”
+The appellant contends that the trial court erred in refusing to submit the following requested charge to the jury:
+“If from the evidence you believe, or have a reasonable doubt, that the acts of defendant, if any, causing death of John Allen Hall were done by accident while defendant was driving an automobile intoxicated, then, in such event, you would not be authorized to find defendant guilty of any offense under the indictment in this case and it would be your duty to acquit him and say by your verdict ‘Not Guilty’.”
+In support of his contention, he insists that the testimony raised the theory of murder under Art. 802c V.A.P.C., which is not charged by or included within the averments of an indictment charging murder with malice; and that a finding that he was guilty of murder under 802c, supra, would constitute a defense in his case and authorize his acquittal.
+The evidence of appellant’s statements, attitude, and conduct toward the deceased at the time his sister missed and recovered her money when they stopped to change drivers, his refusal to let him ride any further, then to turn around after traveling a short distance and begin picking up speed as he drove towards the deceased walking on the highway, until he was too “close to him to keep from hitting him and the right side of the car hit John (deceased) ”, and his false statements about it when first asked by the officers is sufficient to warrant the conviction for murder with malice.
+In Cockrell v. State, 135 Tex. Cr. Rep. 218, 117 S.W. 2d 1105, and Lopez v. State, 162 Tex. Cr. Rep. 454, 286 S.W. 2d 424, the doctrine of implied malice was recognized and applied to murder by the operation of an automobile in such a reckless manner as to evidence a disregard of the lives of others and that malice might be inferred therefrom.
+The fact that the evidence relied on by the state to show murder with malice also developed facts which constitute the offense of murder under 802c, supra, does not prevent the conviction for the offense of murder with malice as alleged in the indictment, or constitute a defense authorizing his acquittal. Under either charge, although only one was here alleged, the appellant cannot avail himself of the fact that he killed the deceased by accident or mistake while driving drunk as a defense, when on trial for killing the deceased with malice by colliding with and striking him with an automobile. Johnson v. State, 153 Tex. Cr. Rep. 59, 216 S.W. 2d 573 (7).
+The act here involved is the killing of the deceased. In charging the appellant with the commission of such act, the state had the right to carve the offense it chose. January v. State, 66 Tex. Cr. Rep. 302, 146 S.W. 555; Cagle v. State, 147 Tex. Cr. Rep. 354, 180 S.W. 2d 928; Martinez v. State, 165 Tex. Cr. Rep. 244, 306 S.W. 2d 131.
+In submitting the case to the jury, the court charged on murder with and without malice, negligent homicide, simple assault, unavoidable accident, and the issue of suspended sentence.
+The refusal of the requested charge was not error.
+The judgment is affirmed.
+Opinion approved by the Court.
