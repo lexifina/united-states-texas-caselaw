@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,307"
+decided: "1959-01-21"
+citations: ["167 Tex. Crim. 228"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Washington Hammonds v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8548198
+---
+
+# Hammonds v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is burglary; the punishment, enhanced by two previous convictions for burglary, life.
+On a Saturday night appellant was discovered in the office of Scott Brothers Grain Company by the night watchman, looking into a desk drawer.
+The door, which had been closed and locked, showed evidence of having been prized open and marks on some of the desk drawers showed that they had been forcible opened or attempted to be prized.
+Two bars, described as a nail bar and a straight bar some two feet in length, were found in the office.
+Appellant was an employee of the Grain Company. Being Saturday, the business closed at noon, after which time it was shown that appellant had no authority or right to be in the building.
+J. R. Scott, the special owner named in the indictment, testified that he had the care and custody of the building and possession thereof, and that he did not give appellant permission to break or enter it or to take any property therefrom.
+It was conclusively established that appellant had been twice previously convicted of burglary, as alleged in the indictment.
+Trial was before a jury on a plea of not guilty by reason of insanity. Appellant did not testify but offered witnesses who expressed the opinion that he was in need of medical treatment for his mental condition.
+The state offered the testimony of several witnesses to the effect that appellant was sane.
+The evidence is sufficient to sustain the jury’s finding that appellant was sane; was guilty of the offense charged and had been twice previously convicted of burglary.
+No briefs have been filed. We have examined the informal bills found in the record and find no error.
+The judgment is affirmed.
