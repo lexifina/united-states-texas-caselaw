@@ -1,0 +1,50 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,851"
+decided: "1954-03-03"
+citations: ["160 Tex. Crim. 32"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. C. Clark v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469234
+cites_cases: ["158 Texas Cr. Rep. 306", "158 Texas Crim. Rep. 180", "236 S.W. 93", "25 S.W. (2d) 840", "252 S.W. 562", "254 S.W. (2d) 106", "255 S.W. (2d) 513", "257 S.W. 242"]
+---
+
+# Clark v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+The conviction is for murder with malice; the punishment is assessed at confinement in the state penitentiary for 15 years.
+This is the second appeal of this cause, the former opinion being found in 158 Texas Crim. Rep. 180, 254 S.W. (2d) 106. The facts presented herein are practically the same as those set forth in the former opinion. Therefore they will not be repeated here.
+Appellant has presented certain bills of exception which will be found in Bills Nos. 1 and 2, which relate to the same matter and will be discussed together. The state called one, Joe Mitchell, as a witness, and after having developed certain facts, it was shown that the witness was acquainted with both the deceased and the appellant and had known them for about five years; that he was friendly with both of them; that he was standing by the deceased just prior to the time he was shot. The witness answered many questions on the part of the state and also upon the part of appellant’s counsel. Eventually, appellant’s counsel, while questioning the witness on cross-examination, injected into such interrogation the proposition of the general reputation of thq appellant as a peaceable and law-abiding citizen in the community in which he resided. The witness answered that he thought it was good. Upon redirect examination by the state, the district attorney asked the witness if he had heard any discussion of the appellant’s reputation, and this discussion related to the fact as to whether the witness had heard that appellant had killed the brother of the deceased. The witness answered that he had never heard it discussed. Appellant’s attorney objected to this question, which objection was overruled, and the witness again answered that he had never heard the reputation of J. C. Clark discussed by anybody.
+Appellant contends in his brief that the state had no right to ask this witness this question because it would find itself in the position of attempting to impeach its own witness, and cites us to Article 732, C.C.P.
+We think the case of Adams v. State, 158 Texas Cr. Rep. 306, 255 S.W. (2d) 513, is authority for the proposition that where a witness of the opposing party is utilized by such party for purposes foreign to the examination of the state and is not in answer to anything brought out by it, this witness became for that purpose a witness for the appellant, and the state would then have a right to impeach the witness on such matter.
+It is also observed herein that the appellant requested the submission of a suspension of sentence by the court and the same was submitted to the jury. We think that this matter of reputation at the time of the trial would be pertinent on that issue.
+It will be noted that the reputation of the accused as a peaceable and law-abiding citizen, where the suspension of sentence is applied for, can be inquired into up to the time of the instant trial. See Mason v. State, 90 Texas Cr. R. 560, 236 S.W. 93; Smith v. State, 94 Texas Cr. R. 633, 252 S.W. 562; Bayer v. State, 96 Texas Cr. R. 310, 257 S.W. 242; Page v. State, 114 Texas Cr. R. 431, 25 S.W. (2d) 840.
+However, in the court’s general charge given herein, in an excess of caution, he limited the testimony of Joe Mitchell relative to the discussion of the defendant having killed someone else other than the killing for which he was now on trial, in the following language:
+“In this case, the witness, Joe Mitchell, testified to the good reputation of the defendant as a peaceable and law-abiding citizen. The State was then permitted to ask the witness whether or not he had heard discussed the defendant’s having killed someone else, other than the killing for which he is now on trial. You are instructed that this question was permitted to be asked over the objection of the defendant for the sole purpose of aiding you, if it does do so, in passing on the credibility of the witness, Joe Mitchell, as to his knowledge of the defendant’s reputation as a peaceable and law-abiding citizen and the weight to be given his testimony as to the defendant’s reputation; and you are further instructed that you cannot consider this question for any purpose other than that for which it was permitted to be asked, to-wit, to aid you, if it does so, in passing up the credibility of the witness, Joe Mitchell, and the weight to be given his testimony as to his knowledge of the defendant’s reputation as a peaceable and law-abiding citizen.”
+A further question presented to us in the appellant’s brief is found in Bill of Exception No. 4 wherein it is claimed that the appellant’s former wife, Obera Clark, had testified to numerous instances when Augustus Moreland, the deceased, had “pulled a gun or had in his hand a gun” (meaning a pistol). She was then asked the following question:
+“Q. Do you know whether or not Augustus Moreland carried a gun continuously?”
+Thereupon state’s counsel merely said, “We object to that,” and she immediately answered, “Yes, he did.” Objection was again made by state’s counsel. Whereupon, counsel for the defendant then asked her the following questions:
+“Q. Were you with Augustus Moreland on several occasions after your separation from J. C. Clark? A. Yes, I was.
+“Q. Do you recall whether or not that most of the times you were with him that he had a gun?”
+State’s counsel then said, “We make the same objection,” and it was sustained by the court, to which counsel for appellant excepted.
+The witness had already stated that the deceased had carried a gun continuously, and when asked, “Do you recall whether or not that most of the times you were with him that he carried a gun?” the witness was not allowed to answer the question. We do not think it is of sufficient importance to show that an error has been committed.
+Bill of Exception No. 5 relates to the argument of state’s counsel as follows:
+“Now, gentlemen, Mr. Stevens says that the difficulty was caused when the defendant attempted to talk to his wife about their son — obviously, he wants you to sympathize with this defendant. Well, my sympathy is for this poor old mother, a woman that has raised her family here — lived here for 15 years and raised her family to be good law-abiding citizens. If you put this •defendant in the pen for a long time, you will tell her by your «verdict that colored people are entitled to protection like anyone else. You will tell her that negroes have to abide by the law and can’t murder her boys and that she is entitled to be protected in this community the same as anybody else.”
+This argument is claimed to be harmful and prejudicial to the rights of the defendant, is outside the record, and was argued in order to inflame the minds of the jury against the defendant. In answer to such objection, the trial court made the following statement:
+“The jury will not take the evidence from the lawyers. They are not witnesses in the case, but you will decide this case from the evidence given from the witness stand and the charge of the court & nothing else.”
+There is no question but what this was the trial of one colored man having killed another colored man, and the major portion of the witnesses seemed to have been colored people. We do not think that the statement made in the heat of the trial had sufficient force in influencing the jury in any way in finding a verdict. We think that the general doctrine laid down by the district attorney was a fair one and one that was not objectionable in the heat of a trial where all the eye-witnesses seemed to be colored people. We do not think this statement, governed as it was by the charge of the court,, could have unduly affected the verdict of the jury.
+We see no error reflected in this record, and the judgment will be affirmed.
+
+## Rehearing (MORRISON, Judge.)
+
+ON MOTION FOR REHEARING
+MORRISON, Judge.
+Appellant again urges that we were in error in holding that Bill of Exception No. 5 did not reflect reversible error and asserts that the district attorney was outside the record when he told the jury, in effect, that appellant had killed more than one of the “boys” of the deceased’s mother. Our original opinion shows the peculiar circumstances under which this cross-examination became proper, but does not detail fully the cross-examination of the witness Mitchell by appellant’s counsel. As stated originally, the witness first answered that he had never heard the incident concerning the deceased’s brother discussed. He was, however, questioned further as follows: “You just didn’t know it happened ?”; to which he answered, “Oh, yes, you know it has been in the paper.”
+This, we think, was sufficient evidence to support the argument of the prosecutor.
+Remaining convinced that we properly disposed of this cause originally, appellant’s motion for rehearing is overruled.
