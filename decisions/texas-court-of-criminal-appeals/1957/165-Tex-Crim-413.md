@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,175"
+decided: "1957-11-06"
+citations: ["165 Tex. Crim. 413"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carl Blum v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0413-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611212
+---
+
+# Blum v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Count 2 of the indictment, under which appellant was found guilty and assessed a three-year term in the penitentiary, alleged that he did unlawfully and with lascivious intent, knowingly and intentionally expose his private parts to a named person under 16 years of age.
+The 13-yea'r-old boy named in such count of the indictment testified that the night before appellant was arrested he passed by the place where he lived and saw appellant standing out in the yard naked; that he was “jumping up and down” and “just bending over and turning around and doing like this and jumping;” that appellant looked toward him and waived to him and jumped up and down and shook his private parts and turned around and showed his seat to the boy.
+The following night two officers secreted themselves near appellant’s home and the 13-year-old boy and others who had seen appellant standing naked in the yard of his home on previous occasions were across the street. The officers heard a voice from a window in the house say “You boys will have to be more quiet, if you want me to come out and undress.”
+Very shortly thereafter appellant emerged from the house and came toward the officers, his belt loose, unzipping his trousers, and unbuttoning his shorts, and said “I thought I told you to go stand over on the corner.” He was then taken into custody.
+Appellant did not testify. We find the evidence sufficient to sustain the jury’s finding that appellant, with lascivious intent, intentionally exposed his private parts to the 13-year-old boy.
+The state elected to stand on the second count at the close of the evidence, and the court did not err in refusing to require an earlier election.
+We find no error in the admission of the testimony of a boy named in another count of the indictment to the effect that he had seen appellant standing in his yard naked on a number of occasions. This testimony was offered in support of another count of the indictment and, the state having elected to stand on Count 2, the jury was instructed not to consider any evidence adduced in connection with the first or third counts.
+We observe further that there was other testimony admitted without objection that appellant was often seen naked in his yard at night.
+The judgment is affirmed.
