@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,722"
+decided: "1960-12-27"
+citations: ["170 Tex. Crim. 381"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Bruce Johnson v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2629335
+cites_cases: ["255 S.W. 2d 519"]
+---
+
+# Johnson v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for driving while intoxicated; the punishment, fifteen days in jail and a fine of $75.
+The testimony of the state shows that about 6:40 P.M., and while driving his automobile upon the left side of a public highway, the appellant’s automobile struck the left rear side of an automobile headed in the opposite direction; that the appellant did not stop or look back, but continued driving down the street.
+Texas Highway Patrolmen Johnson and Schaffer testified that they apprehended the appellant about 7:15-7:30 P.M., and based upon their observations of the appellant, expressed the opinion that he was intoxicated. The justice of the peace testified that, from his considerable experience in observing persons under the influence of intoxicating liquor and from his observation of the appellant when he was brought to his office around 7:30 P.M., the appellant was intoxicated.
+The appellant did not testify or offer any evidence in his behalf.
+The argument of the prosecuting attorney that if the appellant cared to make the defense that he was sober he could have called as witnesses the persons at the service station where he was a few minutes before his car struck the parked car or other persons he contacted afterwards does not constitute, as appellant contends, a reference to his failure to testify. Alford v. State, 158 Tex. Cr. Rep. 311, 255 S.W. 2d 519.
+The facts and circumstances in evidence are sufficient to constitute direct evidence that the appellant was driving an automobile upon a public highway while intoxicated.
+The judgment is affirmed.
+Opinion approved by the Court.
