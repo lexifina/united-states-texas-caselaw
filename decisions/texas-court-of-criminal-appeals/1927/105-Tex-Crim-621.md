@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "10243"
+decided: "1927-01-05"
+citations: ["105 Tex. Crim. 621", "289 S.W. 1007"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Theodore Carraway v. The State."]
+source_url: "https://static.case.law/tex-crim/105/cases/0621-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5130262
+---
+
+# Carraway v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Conviction in District Court of Victoria County of murder, punishment thitry-five years in the penitentiary.
+As is frequently the case, the facts from the state’s standpoint and that of the appellant are in direct conflict, but such issues have been settled by the jury against the contention made by appellant and his witnesses. The death of deceased was caused by lockjaw which set up from wounds upon the head of deceased inflicted by appellant with a glass bottle. The trial court told the jury that when death was caused from an injury inflicted by the use .of a weapon not deadly, the intent to kill was not presumed, and that if the jury found that death resulted from a blow or blows inflicted by a bottle, and that the bottle was riot per se a deadly weapon, they must believe, before they could convict, that appellant intended to kill deceased when he struck him. There were no exceptions taken to the charge of the court upon any ground.
+There are three bills of exception, one of which was taken generally to the court’s refusal to grant a new trial. Another was taken to the court’s refusal to give a peremptory instruction to the jury to find appellant not guilty, when the state rested its case. We do not deem either of these bills of moment enough to call for discussion or analysis at our hands. Whether appellant was guilty of murder, or of some included offense, a peremptory instruction to acquit was not called for. A motion for new trial.which merely sets up the errors of procedure occurring during the trial gains no advantage by being here presented by bills of exception.
+The state introduced Dr. McMullen, who testified that he was called to attend deceased following the injury and up until his death; that he did not consider the wounds necessarily fatal at first; that death resulted from lockjaw which set up sometime after the infliction of the wounds. On cross-examination appellant’s counsel asked this witness a question, which does not appear in the bill of exceptions; but to which the expected answer was as follows: “Lockjaw is caused by a specific germ getting into the wound and keeping the air excluded. I have determined whether or not neglect of treatment on the part of the injured party is sometimes the cause of lockjaw. There is preventive treatment of the disease at present that is supposed to prevent it, and does prevent it, in a great number of cases.” The complaint is of the refusal to permit the witness to make said statement upon objection by the state. We find ourselves unable to agree with appellant’s contention that the rejection of this testimony was such error as should call for a reversal of this case. Analyzing the statement, we have been unable to see either the relevance or materiality thereof. Just what help'ful effect the statement that lockjaw was caused by a specific germ getting into the wound and- keeping the air excluded, would have upon appellant’s case is not apparent. Nor do we perceive how the rejection could be hurtful of the statement that the physician had determined whether or not neglect of treatment on the part of the injured party sometimes causes lockjaw. Certainly the statement of the physician that a treatment is known now which in some cases prevents lockjaw, would not help the case of appellant. The physician nowhere states that there was any failure on his part or that there was any neglect on the part of deceased.
+We find no statement in the bill of exceptions, nor indeed in the record, on the part of any witness that there was any neglect on the part of deceased which caused or contributed to the setting up of lockjaw. The fact that deceased crossed the street, or went to his store, or roasted coffee in the store after he was hurt, would not seem to be ground for any charge of neglect. No witness so states, the doctor does not appear to have been asked the question regarding same, nor to have stated that such acts on the part of deceased were neglect, or that same might have contributed to or caused the setting up of lockjaw.' There are no bills of exception in the record showing that appellant offered any other witness to testify to any facts tending to show neglect, or to which the rejected testimony might be deemed pertinent. We regret our inability to agree with the contention made by appellant in this regard.
+We are unable to say that the jury were not justified in the infliction of the penalty given herein. Appellant admitted that he inflicted the wound upon deceased. The state’s theory was that at a late hour in the night appellant and some companions, who were drinking, aroused deceased from his bed to come and let them have gasoline, and that without any sufficient cause therefor appellant attacked deceased and inflicted upon him the injuries which caused his death.
+Finding no error in the record, the judgment will be affirmed.
+Affirmed.
