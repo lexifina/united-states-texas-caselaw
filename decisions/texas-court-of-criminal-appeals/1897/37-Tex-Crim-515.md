@@ -1,0 +1,22 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1111"
+decided: "1897-04-14"
+citations: ["37 Tex. Crim. 515"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Parse Beabout v. The State."]
+source_url: "https://static.case.law/tex-crim/37/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 161414
+cites_cases: ["34 Tex. Crim. Rep., 290"]
+---
+
+# Beabout v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant was convicted of the theft of oats,, alleged to be the property of John Priest, Sr.; hence this appeal. The' evidence is uncontradicted that the defendant took the oats, and without the consent of the alleged owner. He relied upon the testimony of his son, Wesley, who testified that Crockett Priest, a son of the alleged owner, through him (witness) had authorized the defendant to take the oats; the said Crockett Priest'being interested in the ownership of said oats. The defendant himself testified that he took the oats under the belief that he had the authority to do so from Crockett Priest. Crockett Priest testified most positively that he did not give any such permission, either to the defendant himself or through his son, Wesley. Upon this feature of the case the court charged the jury as follows: “If you believe from the evidence, that the defendant believed at the time he took said oats (if you find he took them) that they were the property of John. Priest, Jr., and Crockett Priest, and that he had their consent, or the-consent of either of them, to taka said oats, and took them without any intent to deprive the owner of them, then, and in that case, there would be an absence of that fraudulent intent necessary to convict the defendant, and you will say by your verdict, ‘Not guilty.’ ” This was excepted to by the appellant, “because said charge makes the defendant’? innocence depend upmn the intent with which said property was taken,, and not upon the consent or permission of said John Priest, Jr., or Crockett Priest; and impresses the jury that not only must the defendant have had the consent of said John Priest, Jr., or Crockett Priest, or-either of them, but that no fraudulent intent existed in his (defendant’s) mind at the time of the alleged taking, and that both of these elements-must exist before defendant could justify, and be entitled to an acquittal.” While this charge might have been more artistically drawn than was done, yet we do not believe It subject to the exceptions urged. It, might have been better, perhaps, to use the word “or” where the word “and” is used at the beginning of the expression, “and took them without any intent to deprive the owner of them,” etc., yet we believe the charge was not misleading, and was not subject to the exception reserved. See, Young v. State, 34 Tex. Crim. Rep., 290. It is also contended that the verdict of the jury “does not appear to be the verdict or finding of.the jury empaneled to try the cause, or of any jury whatever.” This criticism is hypercritical. The j udgment is in the usual form. It shows the empaneling and swearing of the jury. It shows they retired to consider their verdict, “and afterwards returned into open court, in due form of law, the following verdict, which was received by the court, and is here now entered upon the minutes, to-wit: ‘We find the defendant guilty, and assess his punishment at twelve hours in the county jail, and a fine of one dollar. W. C. Lauderdale, foreman.’” We do not understand from the exception what defect was intended to be pointed out in this verdict. If the omission of the expression “the jury” betweea the words “we” and “find” in the verdict of the jury is the supposed defect, then there is no merit in the contention. This judgment shows beyond any cavil or question that a jury was empaneled in the case, and that the jury thus empaneled returned the verdict embodied in the judgment. The testimony is amply sufficient to support the judgment. Under the State’s case there is no question whatever of the theft. Appellant defended upon the ground that he had the permission of Crockett Priest to take the oats. The credibility of the witnesses and the weight to be attached to their testimony was submitted to the jury, and they -decided the issue adversely to the appellant. The judgment is affirmed.
+Affirmed.
