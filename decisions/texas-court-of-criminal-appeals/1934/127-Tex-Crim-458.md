@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "17054"
+decided: "1934-12-19"
+citations: ["127 Tex. Crim. 458", "77 S.W.2d 233"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lewis Taplin v. The State."]
+source_url: "https://static.case.law/tex-crim/127/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5257415
+---
+
+# Taplin v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+Conviction is for theft of cotton, punishment being two years in the penitentiary.
+Mr. Fojt lived in Burleson County at Snooks, some seventeen or eighteen miles from Bryan. He was a ginner by occupation, and packed the cotton ginned by him in both round and square bales. Nine round bales.and four square bales of cotton were stolen from the storage room next to the round bale press. Fojt was shipping out cotton, and during the time between the second and eleventh of November he missed the thirteen bales mentioned . above. The record does not show how the cotton was taken away from the gin; it seems clear from Fojt’s testimony that it was not all taken at one time. C. L. Eden ran a gin at Bryan in Brazos County. On November 8th he bought some lint cotton from a negro named Carter, who told Eden that he had four bales which had caught fire, and that he (Carter) had saved about half of it. This cotton was brought to the gin in a Chevrolet car by Carter and another negro by the name of Richmond. Eden paid $40 for this first load at the rate of eight cents per pound. The next day (November 9th) Carter and Richmond came back with another load of cotton in the Chevrolet, which Eden also bought, paying $30 therefor at the rate of seven cents per pound. Appellant (Taplin) was not present with Carter and Richmond on either of the two occasions mentioned. According to Eden’s testimony, appellant, who was also a negro, came to Eden some time during the day of the 9th of November and told Eden that he had had some cotton ginned over in Burleson County but there was not enough to make a bale, and wanted to bring it over and have Eden put it in a round bale. The next morning early appellant came to Eden’s house and told him the cotton was at the gin. Eden was suspicious in regard to this cotton because of a conversation appellant had with him earlier in the ginning season as to whether Eden would buy cotton brought to him after night. Eden phoned the sheriff advising him that he (Eden) thought he had located some stolen cotton. Before the sheriff arrived Eden went to the gin where he found appellant and the same two negroes, Carter and Richmond who had sold him two loads of cotton on the two previous days. They had two loads of cotton, one in a Chevrolet and the other in a Buick car. Neither of these cars belonged to appellant, but one belonged to Carter, the other to Richmond. There were about one thousand pounds of cotton in the two loads. The negroes unloaded it where Eden directed. About the time the cars were unloaded the sheriff arrived. He asked “whose cotton is this?” Appellant said it belonged to Carter and Richmond, and they said it belonged to appellant. All three were arrested. Later, Eden, the sheriff and. others went with Richmond to a place near “Jones’ bridge” where at a point indicated by Richmond were found some metal tags having on them “S-N-O-X,” which was the round bale brand of Fojt’s gin. There was also found a metal tag having on it the number “2080,” which was the number of one of the round bales stolen from Fojt’s gin. It appeared that some bagging had been burned there, and some loose cotton was scattered about. If anything there present indicated that any square bales had been torn up at that point the record does not disclose it. The thousand pounds of cotton last mentioned was turned over by Eden to Fojt who testified, “I couldn’t say exactly it was my cotton. I had no way to identify the lint.”
+There is nothing in the record to show the location of “Jones’ bridge.” Whether it is between Snooks and Bryan, or in the opposite direction is not shown. At the time Richmond pointed out to the officers and others the place near “Jones’ bridge” appellant was not present, but was in jail, and under the circumstances not bound by Richmond’s act. It shows that Richmond had some previous knowledge of the place where some round bales from Fojt’s gin had been torn up, including bale No. 2080, but there is nothing in the record before us identifying the thousand pounds of cotton in question as having come partly from round bale No. 2080, or any other round bale which may have been dismantled near “Jones’ bridge.”
+It may be that on another trial the facts will come nearer satisfying the law as to the sufficiency of the evidence, but under the record now before us the rule as to circumstantial evidence has not been complied with.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
