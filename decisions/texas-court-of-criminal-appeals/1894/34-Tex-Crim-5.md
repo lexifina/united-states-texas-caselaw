@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "932"
+decided: "1894-12-01"
+citations: ["34 Tex. Crim. 5"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ike Shannon v. The State."]
+source_url: "https://static.case.law/tex-crim/34/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4480871
+---
+
+# Shannon v. State
+
+## Rehearing
+
+OH MOTIOH FOE BEHEABIHG.
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Motion for rehearing herein suggests several matters for consideration, one of which we deem should be noticed, to wit, that this court erred in sustaining the ruling of the trial court overruling appellant’s challenges for cause to a juror who tried this cause below. Having been asked the statutory question, the juror answered, that he “had an opinion, from the testimony, in and the trial of said cause, as to the guilt of this defendant, and that it would require evidence to remove that opinion. The “said cause” referred to was The State v. White, charged with the same offense, the testimony being in substance the same, and transaction identical. The juror heard the trial of White, and hence his conclusion. “For the purpose of ascertaining whether cause of challenge exists, the juror shall be first asked whether, in his opinion, the conclusion so established will influence his verdict. If he answer in the affirmative, he shall be discharged; if he answer in the negative, he shall be further examined by the court, or under its sanction, as to how his conclusion was formed and the extent to which it will affect his action, and if it appears to have been formed from reading newspaper accounts, communications, statement, or reports, or from mere rumor or hearsay, and the juror states on oath that he feels able, notwithstanding such opinion, to render an impartial verdict upon the law and the evidence, the court, if satisfied that he is impartial and will render such a verdict, may, in its discretion, admit him as competent to serve in such case; but if the court in its discretion is not satisfied that he is impartial, the juror shall be discharged.” Such are the provisions of the statute. Willson’s Crim. Stats., sec. 2281 (Acts 1885, p. 90). It will be seen by comparing the present statute with the provisions of the law prior to the amendment of 1885, that the changes were far reaching, and that this is the first time that a construction of the present statute has been called for at the hands of this court, in so far as we are informed.
+As to the ability of the juror to disregard his conclusion or opinion: Eecurring to the law in regard to the selection of jurors, we desire to say, that it is a fundamental proposition, under the Constitution and laws of this State, that fairness and impartiality are prerequisite qualifications in all jurors who are called upon to try a citizen accused of a violation of the statute, and no jury can in truth be said to be fair and impartial when this idea has been transgressed in selecting such jury. It will then be observed from a perusal of the statute quoted, that when the juror whose qualifications are being tested answers that he has a conclusion as to the guilt or innocence of the accused established in his mind, such as will influence his verdict, he shall be discharged. It will be also observed, that it is only when he answers such questions in the negative that further examination is authorized. It is evident, we think, from the terms employed by the law-making power, that an affirmative answer from the juror concludes the investigation, and constitutes his reply a finality of the question as to his qualifications in this respect. It will be further noted, that if the juror answers that he has formed an opinion, but such opinion will not influence his action in finding his verdict, he shall be further examined by the court, or under its sanction. The object of this examination is to ascertain how his conclusion was formed, and the extent to which it will influence his action. If it appears from his examination that his opinion was formed from reading newspaper accounts, communications, statements, or reports, or from mere rumor or hearsay, and the juror shall swear that he is able, notwithstanding such opinion, to render an impartial verdict upon the law and the evidence, the court, if satisfied he is impartial, and will render such verdict, may in its discretion admit him to serve in the case; but if the court in its discretion is not satisfied that he is impartial, though the juror has so sworn, the juror shall be discharged. It will be further observed, that if the juror has formed his conclusion or opinion from reading newspaper accounts, etc., mentioned in the statute, then the court will be governed to some extent by the answers of the juror. In this case, however, the juror formed his conclusion from none of the sources mentioned, but by hearing the evidence of witnesses given under oath in a companion case. Our construction of the statute is, that when the opinion is formed in this manner—that is, from hearing the facts of the case testified to—the examination of the juror must cease. He is incompetent. The former opinion in this case was predicated upon the rule laid down in Suit v. The State, 30 Texas Criminal Appeals, 319. After carefully reviewing this question, we are satisfied our former conclusion was erroneous. Motion for rehearing granted.
+Judgment reversed and cause remanded.
+Reversed and remanded.
+Judges all present and concurring.
