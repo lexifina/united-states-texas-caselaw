@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "23585"
+decided: "1947-03-05"
+citations: ["150 Tex. Crim. 372"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. T. Singleton v. The State."]
+source_url: "https://static.case.law/tex-crim/150/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2599553
+cites_cases: ["1 S. W. (2d) 894", "108 Tex. Cr. R. 597", "119 S. W. 861", "139 Tex. Cr. R. 627", "141 S. W. (2d) 620", "141 Tex. Cr. R. 561", "150 S. W. (2d) 85", "234 S. W. 671", "56 Tex. Cr. R. 329", "90 Tex. Cr. R. 320"]
+---
+
+# Singleton v. State
+
+## Majority (HAWKINS, Presiding Judge.)
+
+HAWKINS, Presiding Judge.
+Conviction is for driving while intoxicated an automobile upon a public highway in Tom Green County, Texas. Punishment assessed was a fine of $50.00 and 20 days in jail.
+Appellant contends that the evidence is insufficient to sustain the verdict.
+Two police officers of the City of San Angelo testified that they observed a car driven by appellant “weaving” or “wobbling”, and followed it for several blocks. When the car stopped appellant and a man with him, one Davis, got out of the car. The officers observed that they were talking rather loudly, both were staggering, their eyes were bleary, and both of them were drunk. The officers smelled liquor on the breath of both appellant and Davis. There were five or six bottles of beer in appellant’s car. Appellant and Davis were arrested and taken to jail. The desk sergeant testified that both appellant and Davis were drunk when they were brought to the jail; that appellant “was wobbly, his speech imperfect, his tongue thick, and witness could smell liquor.”
+Appellant and Davis testified that Davis was appellant’s son-in-law; that the beer in the car had been bought by Davis, who had also bought and drunk some whisky; that appellant had drunk only one bottle of beer, and no whisky, and that appellant was not drunk, but was trying to take care of Davis who admitted that he was drunk. Other witnesses testified that Davis was drunk, but appellant was not.
+There was conflict in the testimony as to the exact place and upon what street in the city the arrest took place. This conflict, as well as whether appellant was intoxicated, were matters for the jury to decide. This they did against appellant’s contention. There being evidence supporting the jury’s finding the verdict may not be disturbed by this court because of disputed issues of fact.
+In his charge the court defined intoxication as follows:
+“A person is intoxicated within the meaning of the law defining the offense charged against the defendant, when such person is under the influence of intoxicating liquor to such an extent that he does not have the normal use of his faculties.”
+Appellant objected to such definition as being “confusing, vague and uncertain and unintelligible and misleading, and wholly, fails to define the term intoxicated.” We find from appellant’s brief that his contention is that the court should have inserted between the words “normal” and “faculties” the words “use of his physical and mental”. See Lockhart v. State, 108 Tex. Cr. R. 597, 1 S. W. (2d) 894; Cox v. State, 141 Tex. Cr. R. 561, 150 S. W. (2d) 85. This being a misdemeanor case, in order to preserve the point raised by appellant it was necessary that he not only call the court’s attention to the supposed error by objections to the charge, but also to request a special charge correcting the claimed error. See Art. 662, Vernon’s Tex. C. C. P., and cases cited in Notes thereunder; Williams v. State, 139 Tex. Cr. R. 627, 141 S. W. (2d) 620, and authorities cited therein; Basque v. State 56 Tex. Cr. R. 329, 119 S. W. 861; Parroccini v. State, 90 Tex. Cr. R. 320, 234 S. W. 671. In the absence of special charges upon the point under consideration the question is not before us for review.
+Bill of exception number two reflects that after officer Crowley had testified for the State that appellant was drunk on the occasion in question he was asked upon cross-examination if in witness’ opinion appellant was in possession of his normal mental and physical faculties. Objection was interposed on the ground that it called for a conclusion of the witness. The objection was sustained, and appellant excepted to the court’s ruling. The bill is incomplete. It is not shown what answer appellant expected from the witness. So many cases have been written on the point that we refrain from citing them, but call attention to the rule found in Branch’s Ann. Tex. P. C., page 136, Sec. 212, as follows: “A bill of exceptions taken to the refusal of the court to permit a witness to answer a question, either on direct or cross-examination, must show what the answer of the witness would have been in order to entitle it to consideration on appeal.” Some thirty cases are cited supporting the text. Same general rule in Note 32 under Art. 667, Vernon’s Tex. C. C. P., Vol. 2, and cases cited.
+The judgment is affirmed.
+
+## Rehearing (KRUEGER, Judge.)
+
+ON MOTION FOR REHEARING.
+KRUEGER, Judge.
+In his motion for a rehearing, appellant asserts that in our original disposition of this case we erred in two respects: First, in holding the evidence sufficient to sustain the conviction, and second, in holding that the State proved venue.
+We have again reviewed the record and deem the evidence sufficient as a basis for the jury’s conclusion that appellant drove his automobile on the streets of San Angelo while intoxicated.
+His next contention that the State failed to prove venue is without merit. The statement of facts reflects that Tom Franks testified that appellant drove his car on the streets while intoxicated. We quote from his testimony as follows: “All of this happened in San Angelo, Tom Green County, Texas”. It occurs to us this testimony shows that venue was proved.
+Believing that the case was properly disposed of on original submission, the motion for rehearing is overruled.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
