@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "4071"
+decided: "1909-06-09"
+citations: ["56 Tex. Crim. 426"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Evans v. The State."]
+source_url: "https://static.case.law/tex-crim/56/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2369921
+---
+
+# Evans v. State
+
+## Majority (RAMSEY, Judge.)
+
+RAMSEY, Judge.
+Appelant was indicted in the District Court of Wichita County, charged with assault with intent to murder one Gertrude Andrews. He was on the 7th day of February, 1908, convicted of aggravated assault, and his punishment assessed at a fine of $500 and imprisonment in the county jail for one year.
+There is no bill of exceptions contained in the record. The evidence abundantly sustains the conviction. The only complaint of the charge of the court of any consequence is in respect to the ninth paragraph of same. This paragraph is as follows: “You are further charged that violence used to the person of another does not amount to assault in the following cases: (a) In preventing or interrupting an intrusion upon the lawful possession of property, (b) In self-defense against unlawful violence offered to his person or property; but where violence is permitted in defense of the person or property, only that degree of violence must be used which is necessary to effect such purpose.
+“You are therefore charged that, if you believe from the evidence that Gertrude Andrews, either alone or together with any other person, assaulted the defendant, or took, or attempted to take, from the defendant any money, then in his possession, and that defendant assaulted the said Gertrude Andrews either in defense of himself against such assault, or in preventing or interrupting the taking of defendant’s money from his possession, and that defendant used no more force than was necessary to defend himself or property, or if you have a reasonable doubt as to whether the defendant was so acting in defense of his person or property, then you are charged that the assault was justifiable, and you will acquit the defendant of any degree of the offense charged.
+“But if you believe from the evidence, beyond a reasonable doubt, that, at the time the defendant assaulted Gertrude Andrews (if he did assault her), he was not acting in the necessary defense of himself from an actual assault, or from any threatened assault, the danger then being imminent, and not in defense of his property, as above charged, against any intrusion, or that he used more force than was necessary, then the defendant would be guilty of an assault.” We do not believe, as applied to the facts of this case, that the charge of the court is erroneous, or, if this should be conceded, we do not think we could hold that it is such an error as could, in the nature of things, have injured appellant. Appellant lived in Vernon, and had, it seems, the reputation of being a quiet, inoffensive man. He came, during the month of October, 1907, to Wichita Falls, and went into the scarlet district, and in the course of a short time injured at least one man rather seriously, and cut more or less severely three women. He claims that he lost his money in that district, and is unable to give a very clear statement of it. Indeed, all the evidence shows that he was very drunk, and in a sense was in an irresponsible condition. He says he first went to the place where the Andrews woman was, who was at the time talking with a man; that he stayed there some ten or fifteen minutes, and then went to the place known as the Goodman place, and found there a woman named Harris, who put him to bed and he went to sleep. He describes the incident briefly in this manner: “The next I remember there was a man and woman on me. The man was the man who was at the first house I came to—that man and that woman. I could not tell what they were doing, except they were right on me. I suppose they got my money. I think this because I laid down with the money in my hand, and when I woke up I did not have it. I then went to fighting this man to get my money. I had a knife with the little blade open—the knife you have is the one—I was trying to get the man to give up the money. This woman had hold of the back of my shoulder trying to pull me off. I did like anyone else in a fight. I was swinging my knife around at the whole bunch. I remember this fellow Turner. He came while I was there. He tried to pull me off this man. The woman ran out just as he (Turner) came in the door. If I cut the woman at any time it must have been while in there; I did not cut her after that time. I did not try to cut her after that time.” We think, under the facts as they were applied, that the charge of the court is not erroneous, and in any event it was not of a character that could possibly have injured appellant.
+There is, in the light of the record, no other question that requires discussion. Finding no error in the proceedings of the court below, the judgment is affirmed.
+Affirmed.
