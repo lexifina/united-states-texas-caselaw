@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "13603"
+decided: "1930-05-14"
+citations: ["116 Tex. Crim. 141", "28 S.W.2d 164", "28 S.W.2d 165"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Thomas Davis."]
+source_url: "https://static.case.law/tex-crim/116/cases/0141-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5184393
+cites_cases: ["107 Tex. Cr. R. 386", "107 Texas Crim. Rep. 386", "26 S.W.(2d) 649", "270 S. W. 550", "298 S. W. 306", "99 Tex. Cr. R. 458", "99 Texas Crim. Rep. 458"]
+---
+
+# Ex parte Davis
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+This is an appeal from an order of the district court of Eastland county denying bail.
+It is true that upon a trial of this case in the court below a death penalty was assessed, but upon appeal to this court the judgment of conviction was reversed. Davis v. State, No. 12834, opinion handed down April 2, 1930, not yet published. The record before this court upon that appeal showed a number of jurors to be for a less punishment than death, and that the verdict arrived at was based upon much misconduct on the part of the jurors in discussing other cases and matters which had no proper place in their consideration; also improper argument on the part of the prosecution, and other things appearing in said opinion. The view is expressed in that opinion that for the reasons that this appellant was only seventeen years of age at the time of the alleged commission of the offense; that he was of sub-normal mentality, and of the further fact that he did not fire a shot, or apparently take any part in the alleged killing save to be present, and possibly acted with the one who unquestionably killed both parties, the propriety of a death penalty was questionable. In the instant record appears not only the testimony of this appellant given upon his trial, and his confession made soon after the alleged killing, but also the confession of appellant’s brother who was present at the time, and also the confession of the party who actually did the killing. The facts set forth in the confession of the actual slayer, and of the younger brother of appellant who was present, and of appellant himself, would seem to establish the fact that while appellant was undoubtedly present, he took no active part in the killing. The testimony seems clearly to indicate that he was not of average mentality, but was much below such average. We have tried to give careful consideration to the facts, but find ourselves in a condition of much doubt as to the fact that a death penalty would be given upon another trial, in the absence of those improper and injurious elements that may have entered into the minds of the former jury and induced them to give him such penalty. We do not think this conclusion, based on the facts herein, in conflict with what has been said in other cases. In Ex parte Howard, 99 Texas Crim. Rep. 458, we said: “In determining whether bail should be granted it is necessary that the question be passed upon under the facts of each case.” Judgment denying bail in that case was affirmed by us. Subsequently Howard was convicted, given a death penalty, and the judgment was reversed by us. He then made a second application for bail, based apparently on the proposition that this court by its opinion eliminated much testimony admitted on 'his trial, and without which he claimed there was not such proof as to make evident the fact that upon another trial he would be given a death penalty. See Ex parte Howard, 107 Texas Crim. Rep. 386. We said appellant was entitled to his writ, and that if the testimony adduced, aside from that held incompetent, was not enough to amount to proof evident, bail should be granted. We disposed of the matter, however, on the ground that it was shown that upon another trial had after bail was refused in the lower court upon said second application, — said case was tried below and that a second death penalty had been awarded, — which fact was regarded by us as a complete refutation of the claim that the remaining evidence was not such as that a jury would likely inflict such penalty, and we affirmed the judgment. The fact that a judgment formerly rendered had awarded the death penalty, may be to some extent persuasive, but is not to be held conclusive, and each case must be decided upon the merits of the record then before the court. Eliminating from this case those matters held in our opinion of reversal to have been factors in bringing about the death penalty, we are of opinion that such serious doubt arises as to the infliction of a death penalty upon another trial as to lead us to believe this a bailable case.
+The judgment denying bail is reversed and the cause remanded, and bail fixed in the sum of Ten Thousand Dollars.
+Reversed and remanded.
