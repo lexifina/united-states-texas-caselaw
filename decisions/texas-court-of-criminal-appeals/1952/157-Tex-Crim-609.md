@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,962"
+decided: "1952-10-22"
+citations: ["157 Tex. Crim. 609"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Herbert Garcia Pineda v. State."]
+source_url: "https://static.case.law/tex-crim/157/cases/0609-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2572349
+---
+
+# Pineda v. State
+
+## Majority (BEAUCHAMP, Judge.)
+
+BEAUCHAMP, Judge.
+The appeal is from a conviction for unlawfully exposing his private parts to a female under the age of sixteen years. On a jury verdict, appellant was sentenced to ten years in the penitentiary.
+There is no contention that the evidence is insufficient to warrant the jury verdict. In his brief appellant says: “Appellant bases this appeal solely on his formal Bill of Exception No. 8 (Tr. 21-31), and Bill of Exception No. 9 (S.F. 37, lines 8-12). Appellant further submits for the consideration of this court the question of the excessiveness of the punishment assessed in this case.”
+In discussing Bill of Exception No. 8, contention is made that the officer who took the statement did not give a warning to the accused, at the time of making the statement, that it could be used against him and that he did not have to make the statement, as provided by law.
+We have followed with interest the argument found in the brief which seems to be to the effect that, inasmuch as the officer testified he gave the warning before the statement was made, there was none given at the time. From page 32 of the statement of facts we copy the following: “Q. I ask you previous to taking the statement did you warn him? A. Yes.” “Q. Is that the warning you gave him? A. Yes.” He was then directed to read the statement, which he did as shown by statement of facts, page 32, and this statement appears to be in proper legal form.
+Appellant did not testify in the case but he called as a witness his employer who had signed the statement as a witness. The effect of his testimony is that he did not believe the warning paragraph was in the statement which was signed. He could not recall seeing it. He finally made a positive statement that it was not there. The officer taking the statement testified positively that it was (S.F. p. 34), and the court submitted that as an issue in proper form in the charge of the jury. We find no fault with this procedure and the authorities cited by the appellant are altogether inapplicable.
+The further contention made in Bill of Exception No. 8, that the confession was not admissible because the state did not read all of it, has received our attention and the same will not be sustained. If appellant was not satisfied because the state failed to read any exculpatory portion, appellant had the privilege of offering the same if he desired. This was not done and he will not be heard to complain on appeal.
+The evidence of the little girl is clear and positive. It presents quite a different situation from that detailed in the written confession. The penalty is severe but her testimony, in all probability, directed the view of the jury and we cannot say that the jury was unauthorized to fix such a penalty. It is not classed as cruel and unusual. It is not in the province of this court to pass on the question and we are not to be construed as doing so. What we would do if we were on a jury is immaterial to the case. The verdict is within the law, which precludes the necessity of further comment from this court.
+Finding no reversible error, the judgment of the trial court is affirmed.
