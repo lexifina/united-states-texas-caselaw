@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9204"
+decided: "1925-06-17"
+citations: ["102 Tex. Crim. 269"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Waldon McDaniel v. The State."]
+source_url: "https://static.case.law/tex-crim/102/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5113614
+---
+
+# McDaniel v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Appellant was convicted in the District Court of Throckmorton County of transporting intoxicating liquor, and his punishment fixed at one year in the penitentiary.
+The record is before us without any statement of facts. There are many exceptions to the charge of the court, and many special charges requested, but it is impossible for us to appraise the effect of any of them in the absence of a statement of facts. We find nothing in the bills of exception raising or presenting any error which can be held by us hurtful or injurious to the rights of appellant in the absence of a statement of facts.
+Finding no error in the record, the judgment will be affirmed.
+Affirmed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+Alleged error in a part of the argument of the State’s attorney, and the court’s refusal to give a special "charge instructing the jury not to consider same, form the- main point in this motion. From bill of exceptions No. 7 we learn that the district attorney said to the jury:
+“When he got it from Brown — arguing on his theory — when he got it from Brown, he knew that he would have to transport it to get it back to town. * * * If he picked it up off of the ground and moved it from the ground into the car, he has transported. it from one point to another and he is guilty of transportation.”
+No objection was made to this in the presence of the jury, but a special charge was asked and refused, which is as follows:
+“The statement of the district attorney made in argument that if the defendant picked the jug of whiskey up from the ground and placed it in the car, he would be guilty of transporting, is’a misstatement of the law and you will not consider samé for any purpose.”
+If the statement of said attorney as to the law of the particular act then being discussed, was erroneous — which fact would depend on what other testimony might show it would not be reversible error unless upon the whole case it should appear that such statement may have affected injuriously the rights of the accused. We say, which fact would depend upon others, for if it appear, as it does in this case, that the act of appellant in placing the liquor in the car was but one of a series of acts which taken together would show that appellant or appellant with others transported the liquor some distance in- said car, the statement of the district attorney would seem correct, or at least not materially incorrect.
+The question becomes somewhat academic however in view of the facts in this case. Jones and Powell swear that they drove to a certain place about a mile and a half from town and that there appellant with a jug of whiskey got into their car and rode back to town with them; that from the jug he sold each of them part of its contents, one averring that he paid $1.00, and the other $1.50 for what whiskey he got. This so clearly makes out a case of illegal transportation of whiskey as that the remark of the district attorney would seem incapable of harm.
+We might further observe that appellant seems guilty under his own testimony. He asserted that Jones and Powell wanted him to get them whiskey and that he agreed to do so; that he went to a bootlegger named Browning from whom he got the whiskey in the jug; that he paid $4.00 of his own money for it; that a man named Wilson went with him, and that Wilson got no whiskey; that after he, appellant, paid said bootlegger he and Wilson left the place where he got the whiskey, together. Appellant testified: “I had this whiskey; Wilson carried the jug.” He also admitted that they carried the whiskey to where the State witnesses met them in the car; that the whiskey was placed in the car by Wilson; that he and Wilson got in the car and rode back to town; that after they got to town one of the State witnesses paid him $1.50, at which time and place said party got some of the whiskey out of the jug in a soda pop bottle. He also said he had been paid nothing for the rest of the whiskey, had not asked any one to pay him for it; that they all drank out of the jug and after the jug was empty they threw it away. The transportation of the whiskey to the place where they met the others, the placing of same in the car and accompanying it back to town, all of the party drinking from said jug as they went, would seem to fully make out the case aside from the positive testimony of the State witnesses to the fact that appellant brought the jug to the car and put it in and accompanied it back to town- as his own property, and that the only way they got any of the contents of the jug was to pay for same. There was no error under the facts in the refusal of the other special charges. ---
+The motion for rehearing must be overruled.
+Overruled.
