@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,294"
+decided: "1962-02-28"
+citations: ["172 Tex. Crim. 626"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John G. Lehman v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0626-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2638326
+cites_cases: ["147 Texas Cr. Rep. 178", "179 S.W. 2d 297"]
+---
+
+# Lehman v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The offense of statutory rape was alleged to have been committed on or about May 17, 1961; the punishment, 40 years.
+The testimony shows that the appellant and his wife slept in the house and their four children slept in a house-trailer adjacent to the house. The prosecutrix and her two younger brothers slept in the same room, with her bed nearest to the house, and her older sister slept in a separate room in the trailer.
+The prosecutrix, age 15 when the trial began July 28, 1961, testified that about 18 months before the trial the appellant first came to her bed in the trailer, sat on the bed, pulled the cover back, removed the bottoms of her pajamas and placed his hands on her private parts. She asked him to quit and pushed him away, but he told her to be quiet which she did because she was afraid of him. After lowering his pants and removing his privates, he got on top of her and placed his private parts into her private parts. She told him that he was hurting her and after a short time he left. She further testified that after the first time he would come to her bed about once a week, although sometimes it would be less frequently, and everytime he came he did the same thing. The last time that he came was about the middle of May, 1961, when he did the same thing to her that he had done before. On further examination about what occurred on the night in the middle of May, she testified as follows:
+“Q. Did he have his private parts in you then? A. Yes.
+“Q. Did he keep his private parts in yours very long that time? A. No.
+“Q. How long would you say? A. Oh, it was two or three • minutes.
+She further testified that she would cry during these times, but that she did not try to wake up her brothers or sister because she was afraid of the appellant; that she never told her mother because she was afraid the appellant would hurt her.
+On cross-examination, the prosecutrix testified that on the night in May when the appellant put something inside her privates that it could have been his hand, but she did not know for sure.
+On redirect-examination, she testified as follows:
+“Q. Now when you say that * * * now you are talking about in May when he tried to put his private parts in your private parts again, is that right? A. Yes.
+“Q. And when you say he tried to, do you mean that he was not able to put his private parts in your private parts at all? A. No.
+“Q. Do you think that he only put his private parts into you just a little way? A. Yes.
+“Q. But he did do that the last time he came in there, in the middle of May? A. Yes.”
+On recross-examination, she testified that when the appellant last came into the trailer in May she could not be sure what he put between her legs.
+A physician testified that his examination of the prosecutrix about four weeks before the trial showed that the orifice of her sexual parts was large enough to receive the private parts of a male. On cross-examination, he testified that such enlarged condition could have been caused by the repeated use of the hand.
+The appellant’s written statement made May 22, 1961, and introduced in evidence by the state, recites in part:
+For the last year I have been going out to the trailer * * *. I would take her (prosecutrix’) pajama bottoms off and play with her sexual parts * * * . Within the last week I was out ■ in the trailer with (prosecutrix) and I played with her sexual parts * * * . I knew this is wrong and I knew it was wrong when I did it * * * .”
+The appellant did not testify, but he called a physician who testified that he had examined the appellant. From his examination, he stated that the appellant had an inadequate personality and a certain degree of emotional instability, but that he knew right from wrong as to the act with which he is charged.
+The evidence is sufficient to support the conviction.
+Appellant contends that the trial court erred in denying him the right to question every venireman as to whether he had conscientious scruples regarding the giving of the death penalty in a proper case.
+There is no showing in the record what the answer of any venireman would have been, and there is nothing to show that any objectionable juror served on the jury, or that appellant exhausted his peremptory challenges, or that appellant was prejudiced because any juror had or did not have conscientious scruples against the infliction of death as a punishment for the crime of rape.
+Williams v. State, 147 Texas Cr. Rep. 178, 179 S.W. 2d 297, sustains our conclusion that reversible error is not shown. It is observed that no motion for a new trial was filed, and the court in its charge to the jury did not mention the death penalty.
+The judgment is affirmed.
+Opinion approved by the Court.
