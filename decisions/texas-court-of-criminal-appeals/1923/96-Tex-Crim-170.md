@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "7334"
+decided: "1923-12-12"
+citations: ["96 Tex. Crim. 170", "256 S.W. 597"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Feleciana Garcia v. The State."]
+source_url: "https://static.case.law/tex-crim/96/cases/0170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5073156
+cites_cases: ["13 Tex. App. 92", "14 S. W. 364", "14 S. W. Rep., 364", "153 S. W. 147", "153 S. W. Rep., 147", "160 S. W. 685", "160 S. W. Rep., 685", "162 S. W. 865", "162 S. W. Rep., 865", "19 Am. St. Rep. 769", "68 Tex. Cr. R. 507", "72 Tex. Cr. R. 375", "72 Tex. Cr. R. 6", "72 Texas Crim. Rep., 375", "72 Texas Crim. Rep., 6", "77 Tex. 498"]
+---
+
+# Garcia v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+— Conviction Conviction is for incest. Punishment, two years in the penitentiary.
+The indictment charged appellant with incestuous relations with his niece who is named as “Marcella Martinez de Questas.” The proof shows that at the time of the alleged offense prosecutrix’s name was Marcella Martinez and that subsequent to that time she married Antonio Questas. The point is made that the name of the alleged injured party should have been averred as it was at the time of the alleged offense, and that to allege and prove the name subsequently acquired by marriage does not suffice. The contention seems to find support in Bishop’s New Crim. Procedure, Vol. 2, Section 687A; Rutherford v. State, 13 Texas Crim. App., 92; Cain v. State, 153 S. W. Rep., 147; Thompson v. State, 72 Texas Crim. Rep., 6, 160 S. W. Rep., 685; Freeman v. Hawkins, 77 Tex. 498; 14 S. W. Rep., 364. There is also some confusion, between the allegations and the proof as to the name of prosecutrix’s mother. Blalack v. State, 72 Texas Crim. Rep., 375, 162 S. W. Rep., 865. The case must be reversed upon other grounds, but we call attention to these matters if further prosecution should be thought desirable.
+The court submitted to the jury the issue whether prosecutrix was an accomplice, and instructed them if she was such then before appellant could be convicted it would be necessary to corroborate her testimony by other evidence. Whatever the finding of the jury may have been relative to this issue the facts to our mind clearly show that she was an accomplice. At the time of the alleged offense she was seventeen years of age. She and a younger sister named Paula had been living with appellant and their grandmother since they were small children. Prosecutrix testified that improper relations commenced between her and her uncle when she was eleven years old; that her menstrual periods came on when she was twelve; that notwithstanding acts of intercourse occurred two or three times a week for six or seven years that she never became pregnant as a result thereof until about nine months prior to the beginning of the present prosecution. While testifying that she never agreed to the acts of intercourse the evidence shows that she never made complaint to her mother, grandmother nor to any other person. She denied that she ever had intercourse with any person other than appellant whom she asserted was the father of her child. She married Antonio Questas about .five months prior to the institution of the present prosecution and was at the time of such marriage several months advanced in pregnancy. She never told her husband about her condition or claimed appellant to be responsible for it until after the child was born. Her husband testified that if her uncle was the father of the child he would remain with her, but that if some other party was its father he would have left her. This was his attitude in the matter all along, and while he swears he never told prosecutrix this, yet from the whole record it may be gathered that this may have furnished a motive for attributing her condition to appellant. The evidence shows that about the time of conception she had a sweetheart by the name of Alberto Marcias, who the year before had lived with and worked for appellant. At the time of conception he was living upon an adjoining place. He would frequently pass appellant’s home and would wave and make signs to prosecutrix. When appellant would go to town for the purpose of trading he would usually be accompanied by prosecutrix; unless this be a corroborating circumstance there is not to our minds the slightest evidence tending to corroborate her testimony that he was the father of her child or had been having improper relations with her, and this under the facts we think not sufficient. Prosecutrix testified to some circumstances which her sister Paula was in a position to support, but instead of doing so her testimony was contradictory to that of prosecutrix in regard to those matters which might be considered as at all criminative.
+The facts upon corroboration are as meager as in Weber v. State, 95 Texas Crim. Rep., (No. 7902, opinion November 28th, 1923). We find ourselves under the necessity of holding prosecutrix to be an accomplice and that there is not sufficient testimony in the record tending to support her.
+For the reasons given the judgment is reversed and the cause remanded.
+Reversed and remanded.
