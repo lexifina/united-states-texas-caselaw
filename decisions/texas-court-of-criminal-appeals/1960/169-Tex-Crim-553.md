@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,883"
+decided: "1960-04-20"
+citations: ["169 Tex. Crim. 553"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rex Lewis v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0553-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12148323
+cites_cases: ["199 S.W. 1113", "305 S.W. 2d 779", "316 S.W. 2d 757", "82 Tex. Cr. R. 305"]
+---
+
+# Lewis v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for driving while intoxicated; the punishment, 3 days in jail and a fine of $50.
+Deputy Sheriff Townsend testified that he observed the appellant’s car weaving back and forth as he drove it along a public highway, and that the appellant in stopping his car drove upon the curb which was about six inches high; and that two or three cans of beer were found in the car. He further testified that appellant talked with a thick tougue and was unsteady in his walk, and he expressed the opinion that the appellant was intoxicated.
+Ray Masters testified that he saw the appellant a few hours after his arrest, and that he thought he had been drinking but “he was not especially under the influence of intoxicating liquor.”
+Appellant testifying in his own behalf denied that he was intoxicated or that he had drunk any intoxicants. He testified that he was weak and nervous due to a recent throat operation, and he had taken some sedatives and that one dose taken shortly before his arrest may have caused him to be a little woozy; and that an employee of his had placed the beer in the turtle back of his car. The facts were strongly corroborated by appellant’s doctor, his wife, and an attendant at a service station who had serviced his car immediately before his arrest.
+The fact issues were resolved by the jury against the appellant and the evidence supports its verdict.
+In his motion for a new trial appellant alleges misconduct of the jury and the officer in charge of the jury during its deliberations.
+On the hearing of the motion the testimony shows that the jury were out more than one hour, having retired a few minutes before twelve o’clock and returned its verdict after 1:00 P.M.
+The jury on the first two ballots stood four for conviction and two for acquittal. After the first or second ballot the foreman asked the sheriff at the door about going for lunch or refreshments and he replied that they would have to stay there until they were through. No effort was made to contact the judge. One of the two jurors voting for acquittal testified that because she did not know how long they would have to stay there and it looked like she was holding the case up she decided maybe she was not right and changed her vote. The other juror voting for acquittal testified: “I was getting out of cigarettes and coffee at that time, and it might have caused me to change my mind.” He further testified that there were five voting guilty and he voted with them although he felt that the defendant was not guilty.
+It is a general rule that a juror will not be perimtted to impeach or explain his verdict by showing the reason for the conclusion reached. 1 Branch (2), 570, Sec. 595; Stokes v. State, 165 Tex. Cr. Rep. 269, 305 S.W. 2d 779; Bridges v. State, 166 Tex. Cr. Rep. 556, 316 S.W. 2d 757.
+The trial judge did not abuse his discretion in overruling the amended motion for a new trial.
+The judgment is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (DICE, Judge)
+
+ON APPELLANT’S MOTION FOR REHEARING
+DICE, Judge
+In his motion for rehearing appellant strenuously insists that the sheriff’s statement to the jury foreman, when asked about the jury going to lunch or for refreshments, that the jury would have to “stay there until they were through” constituted such misconduct on his part to require a new trial.
+We do not think that the sheriff’s statement and action was such as to require the granting of a new trial. The sheriff did not converse with the jury about the case or in any manner enter into its deliberation upon the case.
+As set out in our original opinion, the testimony of the two jurors who were voting for acquittal was, in substance, that one of the jurors “might” have changed his vote because he was getting out of cigarettes and coffee and that the other juror changed her vote because she did not know how long the jury would have to continue its deliberations.
+In Watson v. State, 82 Tex. Cr. R. 305, 199 S.W. 1113 this court held that the testimony of a juror that although he believe the defendant not guilty, he acquiesed in a verdict of guilty because he wanted to go home, was insufficient to authorize a new trial.
+We remain convinced that under the record the court did not err in refusing to grant a new trial.
+The motion is overruled.
+Opinion approved by the Court.
