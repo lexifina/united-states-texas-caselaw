@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,546"
+decided: "1960-12-14"
+citations: ["170 Tex. Crim. 357"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ella Mae Rhodes v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0357-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2625931
+---
+
+# Rhodes v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for murder; the punishment, twelve years.
+The testimony shows that the appellant cut the deceased with a sharp knife in the neck and in the chest and also inflicted numerous other serious bodily injuries on the deceased with the knife which caused his death in a short time.
+Appellant testifying in her own behalf stated that when she and the deceased met in the street that he cursed and struck her and she staggered backwards; that she saw a knife in his hand and as he kept coming toward her she was retreating; that she opened her knife and ran into him and “just went crazy” and did not know what happened; that he walked away and she went home. She further testified that about one week before he had told her he was going to kill her.
+Appellant contends that the trial court erred in refusing to give her requested charge on communicated threats.
+The court charged on both real and apparent danger and applied to each of them the law of reasonable doubt in submitting the law of self-defense.
+The court further charged the jury to consider the previous difficulties and threats from the standpoint as viewed by the appellant in determining whether she acted in the apprehension of fear or real or apparent danger. To the foregoing instruction there was no objection. Such charge did not require the jury to believe that the deceased was making or about to make an attack on her before they could consider the difficulties and previous threats in determining if the appellant acted in apprehension of fear or real or apparent danger. This phase of the charge was more favorable to appellant than that accorded her by law. Without approving the charge as given, it appears that the charge as a whole fairly and adequately protected the rights of the appellant. Art. 666, V.A.C.C.P.
+The evidence is sufficient to support the conviction and no reversible error appearing, the judgment is affirmed.
+Opinion approved by the Court.
