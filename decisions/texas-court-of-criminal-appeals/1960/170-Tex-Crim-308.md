@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,338"
+decided: "1960-11-09"
+citations: ["170 Tex. Crim. 308"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Oliver J. Bell v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2625292
+cites_cases: ["153 Tex. Cr. R. 582", "216 S.W. 2d 213", "223 S.W. 2d 625"]
+---
+
+# Bell v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is murder; the punishment, 15 years.
+The evidence shows that Robert Lyons, the deceased, and Leonard Richardson, and the appellant got together in Houston and started for Louisiana. The automobile belonged to appellant and the deceased and Richardson paid for the gas.
+After traveling a short distance out of the city, appellant stated that he did not want to go to Louisiana and directed Richardson, who was driving, to turn back.
+An argument ensued between appellant and the deceased which ended in appellant stabbing deceased through the breast bone, the wind pipe and the aorta.
+Appellant fled the scene on foot and Richardson drove away in appellant’s car leaving the deceased, who died from the effect of the stab wound, lying by the roadside.
+Richardson was the only eye-witness to the killing. He was called by the state and testified, contrary to his prior statement to officers and to a relative of the deceased, that when he was stabbed, the deceased was coming at the appellant with a beer bottle.
+Appellant testified that the deceased was walking toward him with a quart size beer bottle drawn in a striking position over his shoulder when he stabbed the deceased. He further testified that the deceased said: “I’ll kill you, you black son-of-a-bitch, if you don’t take me to Louisiana.”
+On cross-examination appellant admitted that he made and signed a voluntary statement, when he arrived at the police station, in which he said he was scared because the deceased was reaching for a knife. He then testified that in addition to having the bottle in his right hand, the deceased was reaching into his pocket for a knife with his left hand.
+The court’s charge, to which there were no objections, submitted murder with and without malice, aggravated assault, self-defense and the issue of suspended sentence.
+The jury rejected appellant’s plea of self-defense, found him guilty of murder with malice and assessed a 15-year term in the penitentiary as punishment. The evidence is sufficient to sustain the verdict.
+Appellant complains that the state was permitted to introduce over his objection seven photographs.
+The record contains only four photographs, hence we unable to appraise appellant’s complaint concerning others.
+Two of the photographs show the body of the deceased where it was found on the roadside. The body appears to be fully clothed and in such position that the area of the fatal wound or any blood is not revealed.
+No error is shown in the admission of these photographs. Phillips v. State, 152 Tex. Cr. Rep. 612, 216 S.W. 2d 213.
+Another photograph shown in the record is a view of the front of appellant’s automobile. Blood on the hood, fender and bumper shed light on the issue of whether the deceased was stabbed as he stood at the front of the automobile, as Richardson testified, or was advancing on appellant as appellant testified.
+The only other photograph which we find in the record is a part of a photograph of the upper part of the body of the deceased. This photograph shows the fatal wound and what appears to be blood around the wound.
+The state insists that this particular photograph was admissible because the pathologist, who examined the body and testified that the edges of the stab wound three and one-half inches deep and measuring three quarters of an inch in length and one-quarter of an inch at its widest point, “were sharply demarcated,” was cross-examined as to whether some of the damage to the area could have been caused by the tearing of muscular fibers, and whether a fall could have produced injury or penetration of the sternum.
+Gibson v. State, 153 Tex. Cr. R. 582, 223 S.W. 2d 625, supports the state’s contention that this photograph was admissible.
+The complaint relating to the exhibition of the portion of the photograph showing the head of the deceased is not before us in a way in which it can be appraised, the photograph not appearing in the record.
+The judgment is affirmed.
