@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,051"
+decided: "1960-10-05"
+citations: ["170 Tex. Crim. 17"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Astor Alston and Mrs. Astor Alston v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2623928
+cites_cases: ["142 Tex. Cr. R. 367", "149 Tex. Cr. R. 96", "154 S.W. 2d 460", "191 S.W. 2d 734", "333 S.W. 2d 389"]
+---
+
+# Alston v. State
+
+## Majority (WOODLEY, Judge)
+
+WOODLEY, Judge
+Charged by separate complaint and information with having made an aggravated assault upon Octavia Tarpley, appellants were by agreement jointly tried. The jury found each of them guilty and assessed Astor Alston’s punishment at one year in jail and a fine of $500, while Mrs. Alston was assessed a $500 fine.
+The information against Astor Alston alleged that he unlawfully and willfully “in and upon Octavia Tarpley did commit an aggravated assault; the said Astor Alston then and there being an adult male and the said Octavia Tarpley then and there being a female, and did then and there strike the said Octavia Tarpley with his hands.”
+The evidence from the standpoint of the state sustains the allegations (1) that Astor Alston was an adult male; (2) that Octavia Tarpley was a female, 67 years of age; (3) that Astor Alston made an assault upon Octavia Tarpley by “shoving” her and “jerking” her out of a pickup, and leaving her to crawl away because she could not walk.
+It is contended that the evidence is insufficient to sustain the conviction because there is no evidence that the appellant Astor Alston struck Octavia Tarpley, and that it cannot be reasonably inferred that he did anything against the complaining witness with his hands.
+The first of these contentions is answered by the holdings of this court in Cabness v. State, 142 Tex. Cr. R. 367, 154 S.W. 2d 460, and Davis v. State, 149 Tex. Cr. R. 96, 191 S.W. 2d 734.
+In the latter the information alleged that Davis an adult male, committed an aggravated assault and battery upon one Darlene Dreyer, a female “and did then and there strike beat, bruise and wound” said female.
+There was no evidence that Davis struck, bruised or wounded the girl in any way, as the information alleged, the assault consisting of his placing his hands on the girl’s leg in a picture show.
+The conviction was affirmed under authority of Cabness v. State, the evidence showing an assault by an adult male upon a female. The allegation that the adult male did strike, beat, bruise and wound the female was treated as surplusage and not as descriptive of the offense.
+“With his hands” should also be considered as surplusage. If, however, the use of the hands be considered as descriptive of the assault, we do not agree with appellant’s contention that it cannot be reasonably inferred that the assault upon Mrs. Tarpley was made with the hands, or that this allegation was not substantially proved.
+The testimony of appellant Astor Alston was that there was no trouble or disagreement or any character of assault upon Mrs. Tarpley.
+The jury accepted Mrs. Tarpley’s testimony and rejected that of the defense.
+If, as she testified, appellant “shoved” Mrs. Tarpley; took a stick away from her and “jerked” her out of the pickup, leaving her to crawl away, he necessarily used his hand or hands in committing such assault. There is no evidence suggesting that appellant used any instrument other than the hands in making the assault.
+Bill of Exception No. 1 complains of the court’s action in permitting Deputy Sheriff Sprayberry to testify as a witness over appellant’s objection that the rule had been invoked and the witness had remained in the court room. We find no error in the bill. The deputy sheriff testified only as a character witness. Character witnesses may be exempt from the rule. See 1 Branch’s Ann. P.C. 2d Ed., Sec. 366, page 390, and cases there cited.
+By Bills Nos. 2 and 3, appellant complains of certain jury argument of state’s counsel. Bill No. 2 was by the court refused, with the court’s reasons noted thereon, and filed with the clerk within 100 days after the date notice of appeal was given. The bill does not show that appellant agreed to the reasons assigned by the court for refusing the bill and in the absence of such showing the bill cannot be considered. Art. 760d V.A.C.C.P.; Lair v. State, 169 Tex. Cr. Rep. 220, 333 S.W. 2d 389.
+Bill No. 3, which was by the court approved, does not show that appellant made any objection to the argument complained of, hence no error is shown.
+The case against Mrs. Alston was based upon her “pulling” Mrs. Tarpley off the cattle chute where she was interfering with Astor Alston’s loading cattle which he had sold to Mrs. Tarpley’s son. Alston was re-possessing them upon his complaint that they had not been properly weighed. The ground of aggravation relied upon was that Mrs. Alston was a person of robust health and strength, and Mrs. Tarpley was aged and decrepit.
+We sustain the contention that the state failed to prove the allegation that Mrs. Alston “was a person of robust health and strength.”
+The only evidence on the question (if it be evidence) is the unresponsive answer of Mrs. Tarpley to the question: “Was Mr. Alston a grown man?” To which she answered: “Yes and very strong — both of them.”
+Whether “both” referred to Mrs. Alston does not clearly appear.
+The allegation that Mrs. Alston was a person of robust health and strength was an essential element of aggravation of the assault alleged against her. (Art. 1147 (4) V.A.P.C.) The unresponsive and indefinite answer is deemed insufficient to meet the state’s burden to prove such allegation beyond reasonable doubt.
+The judgment against appellant Astor Alston is affirmed. The judgment against Mrs. Alston is reversed and the cause remanded.
