@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,405"
+decided: "1961-06-24"
+citations: ["171 Tex. Crim. 345"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["U. C. Bowers v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2635378
+cites_cases: ["250 S.W. 1025", "261 S.W. 2d 838", "263 S.W. 2d 164", "278 S.W. 430"]
+---
+
+# Bowers v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+Our prior opinion withdrawn, and the following is substituted in lieu thereof.
+The offense is enticing a female under the age of 14 years for the purpose of fondling her sexual parts; the punishment, ten years.
+In view of our disposition of this case, a recitation of the facts will not be deemed necessary other than to observe that appellant had worked for the Santa Fe Railway for 40 years and, so far as this record discloses, had never before been charged or convicted of a violation of the law. In his closing argument, the prosecutor said:
+“I am asking you to put him in the penitentiary * * *. That’s what I’m asking you and I’ll stand with you on the verdict, and I want you to come to me and I’ll tell you after it’s all over that I’ll stand with you right down the line and you’ll have a little different light on this matter.”
+This, we have concluded, was tantamount to telling the jury that if they would vote to convict appellant and then come to see the prosecutor he would tell them something which had not been introduced in evidence and further justify their finding of guilt. Such argument has been held reversible error in Smith v. State, 94 Tex. Cr. Rep. 427, 250 S.W. 1025, and Harrison v. State, 102 Tex. Cr. Rep. 385, 278 S.W. 430, and the holdings in such cases call for a reversal of this conviction.
+Upon another trial, it is suggested that in charging that one of the state’s witnesses was an accomplice it would be wise for the trial court to follow one of the forms which have been approved by this court and which are set out in 2 Branch’s Ann. P.C., 2nd Ed., Sec. 738, p. 36.
+The state relied for corroboration of the prosecutrix upon the testimony of her female companion. He contends that the court erred in not holding such companion to be an accomplice as a matter of law and in not submitting such question to the jury for their determination. As stated, the indictment charged appellant with enticing prosecutrix into a house for the purpose of fondling her sexual parts. In order for prosecturix’s companion to be an accomplice witness, she must have been “answerable to the law as a principal, an accomplice or an accessory” to that crime. See Vol. 1, V.A.P.C., p. xxv. In both Griffin v. State, 159 Tex. Cr. Rep. 142, 261 S.W. 2d 838, and Young v. State, 159 Tex. Cr. Rep. 302, 263 S.W. 2d 164, we held one minor was not a party to a crime committed upon another in his presence where it was not shown that his relationship to the crime or the partner would render him accountable therefor. Prosecutrix’s companion did no act in furtherance of enticing prosecutrix into the house. The fact that the companion may have submitted to appellant would not make her a party to the act of appellant in enticing prosecutrix into the house.
+Appellant’s motion for rehearing is granted, the judgment of affirmance is set aside, and the judgment is now reversed and the cause remanded.
