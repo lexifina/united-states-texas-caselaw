@@ -1,0 +1,21 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "862"
+decided: "1896-03-28"
+citations: ["36 Tex. Crim. 5"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. M. Nassitts v. The State."]
+source_url: "https://static.case.law/tex-crim/36/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2360453
+---
+
+# Nassitts v. State
+
+## Majority (HENDERSON, Judge.)
+
+HENDERSON, Judge.
+Appellant in this case was indicted under Art. 788, Willson’s Crim. Stat. (see, Rev. Crim. Code, Art. 940). The charging part of the indictment is as follows: “That said Nasitts was then and there a private person, and as such had intrusted and delivered to him certain money, to-wit, one hundred and thirteen dollars, current money of the United States, of the value of one hundred and thirteen dollars, the same being the property of E. MeKeown and John Donahoe, to be by the said J. M. Kasitts carried, and the said Nasitts did then and there fraudulently, without the consent of the said MeKeown and Donahoe, or either of them, embezzle and convert said money to his own use.” Appellant made a motion to quash the indictment, which was overruled, and he reserved an exception. The article under which this indictment was framed reads as follows: “If any carrier to whom any money, goods, or other property shall have been delivered to be carried by him, or if any other person who shall be intrusted with such property, shall embezzle or fraudulently convert to his own use any such money, goods, or property, either in the mass, as the same was delivered, or otherwise, he shall be deemed guilty of theft, and shall be punished,” etc. Appellant is not indicted as a carrier, but as a private person intrusted with certain money to be carried by him. Who intrusted him with the money, or to whom it was to be delivered, is not alleged; and the contention of the appellant is that these matters should have been charged, in order to constitute this a good and sufficient indictment. We are not aware that the question as to how an indictment should be framed under this article has ever come before this court. In Keeller v. State, 4 Tex. Crim. App., 52V, the defendant is indicted under this article, but no question was raised on the indictment. The indictment in that case, however, was not framed as in the present instance, but the allegations, appear to be full, both as to the party from whom the property was received and as to the disposition to be made of it by the person to whom it was intrusted. In the ordinary indictment for embezzlement under the general statute it is held that the agency of the defendant must be alleged, and for whom he was agent, and that he received the money or property belonging to his said principal; that he received it in the course of his employment as such agent, and that he embezzled, misapplied, 9,nd converted the same to his own use. See, Taylor v. State, 29 Tex. Crim. App., 406. By analogy it would seem that the indictment under this statute should show, at least as to a private person undertaking to carry money or goods, from whom he received said money or goods. The language used in this statute is “intrusted with such pi’operty,” but it is necessary to prove by whom he was intrusted, so as to show the fiduciary relation. The language of the statute in question, if we construe it to mean that any person, intrusted with money or property to be carried, who shall embezzle the same, shall be guilty, etc., implies that the money or goods is to be carried to some person or destination. Before conviction can be had, it must be shown that the party accused failed to carry and deliver said money or goods according to his undertaking—-and so it would seem, in fairness to the accused, that this undertaking or agreement to carry should be alleged. See Whar. Free. Ind., form 468. The indictment in this case does not disclose by whom appellant was intrusted with said money, or what disposition he was to. make of the same. In our opinion, the indictment should have charged both of these features; and for its failure to do so, the judgment of the lower court is reversed, and the case dismissed.
+Reversed and Dismissed.
