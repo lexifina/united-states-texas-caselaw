@@ -1,0 +1,50 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,248"
+decided: "1953-02-11"
+citations: ["158 Tex. Crim. 618"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. B. Hunt v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0618-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2482561
+cites_cases: ["109 Tex. Cr. R. 403", "110 Tex. Cr. R. 230", "111 Tex. Cr. R. 671", "126 Tex. Cr. R. 449", "13 S.W. (2d) 704", "176 S.W. 560", "250 S.W. 1030", "5 S.W. (2d) 141", "72 S.W. (2d) 269", "76 Tex. Cr. R. 663", "8 S.W. (2d) 165", "94 Tex. Cr. R. 359"]
+---
+
+# Hunt v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+Appellant was charged with the unlawful possession of a narcotic drug, to-wit, marihuana, and his punishment was assessed at confinement in the state penitentiary for four years.
+There are no bills of exception in the record. However, the facts show that around 6:00 o’clock in the afternoon of June 12, 1952, a witness was in the North Waco Baptist Church in company with her son. They were in the basement of the church fixing a display for the Summer Bible School Commencement Exercises. There were three buildings which constituted this church, and the witness and her son were in the middle building. Appellant came from the back of this middle building and down to the side. He stepped down and began looking in a hole which seemed to be an air vent hole about a foot square. He squatted down there at the opening and began digging in there “to either get something or put something in there.” In a minute he got up and walked around the front of the building and went in a certain direction. The witness and her son went around and looked in this air vent hole and found nothing. They heard the appellant coming toward them from around the back of the building. They walked away toward the rear at a door. Appellant passed them and said, “Hello; it is sure hot.” They went back in the building and stopped at a window in the back thereof. They then saw appellant at a lumber pile between the two buildings. He was reaching down under that lumber pile at the south end of it. He stood there temporarily “either getting something or putting something away” and then came back between those two buildings and went around the front of the church. The witness then heard a car start. She and her son soon walked over to the lumber pile where appellant had stood and found two Prince Albert tobacco cans full of something which did not look like tobacco, nor did it smell like tobacco. They took the cans to the pástor’s study, but since he was not there, they returned them to the lumber pile. However, the cans were soon placed in the pastor’s study and later turned over to the officers and this prosecution resulted. The witness identified the two cans upon the trial and they were shown by proper testimony to contain marihuana, a narcotic drug.
+Appellant had no attorney but represented himself at the trial and rather shrewdly examined the witnesses.
+We think the testimony is sufficient to show that the appellant is placed within such close juxtaposition to the narcotic drug as to justify the jury in concluding that the same was in his possession.
+The court gave a proper charge to the jury relative to the law of circumstantial evidence, but under the decisions of this court, because of the close relationship between appellant and the facts to be proven, such a charge was really not required. However, the court, out of an abundance of caution, saw fit to incorporate such instruction in his main charge although appellant was not entitled to relief hereunder on account of the fact that he had received more than he was entitled to under the law. See Egbert v. State, 76 Tex. Cr. R. 663, 176 S.W. 560; Hernandez v. State, 111 Tex. Cr. R. 671, 13 S.W. (2d) 704; Webb v. State, 110 Tex. Cr. R. 230; 8 S.W. (2d) 165; Richardson v. State, 109 Tex. Cr. R. 403, 5 S.W. (2d) 141; Helton v. State, 94 Tex. Cr. R. 359, 250 S.W. 1030; Brown v. State, 126 Tex. Cr. R. 449, 72 S.W. (2d) 269.
+Finding the evidence sufficient to support the conviction, the judgment is affirmed.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON appellant’s motion for rehearing.
+WOODLEY, Judge.
+These further facts found in the record appear to be material.
+The witnesses who were in the basement of the middle of the three buildings which constitute the North Waco Baptist Church were Mrs. Harlin W. Mitchell and her 14 year old son Wayne. Their suspicions were aroused because, as Mrs. Mitchell testified, “I saw you reaching and getting or putting something under there that you had no business doing around a church.”
+After appellant left the first hole or air vent Mrs. Mitchell sent her son to see what appellant was doing on the other side of the building. Wayne testified that when he went to the back door of the building appellant “was in the alley there bent down looking in the vent hole on the other side. He started up the alley and I started back around, then I saw him stop and he went back there again to that vent hole, and then he came on around and crossed the alley and he went into his back yard there across the alley.”
+Wayne then rejoined his mother and they together inspected the ventilator hole where they had first seen appellant.
+Hearing footsteps approaching from the direction of the alley, Mrs. Mitchell and Wayne started walking toward the rear of the building and met appellant. As they passed some words of greeting were exchanged.
+The Mitchells then re-entered the building through the back door. Mrs. Mitchell testified at this point, “There is a window where I could see out and he came back real quick to the back of the building there where he came from. - - - and I saw him at that lumber pile---on the concrete part there, and he was reaching down under that lumber pile at the south end of it. - - - He didn’t take any time there, either getting something or putting something away, and he came back between those two buildings there and around the front.---he came around and I heard a car start.”
+The Mitchells went to the lumber pile and found the two cans of marihuana. As to where the cans were found, Wayne Mitchell testified: “He was standing on the concrete portion there and the lumber pile was right next to it. He was standing bent over, and we looked there.” Asked what they found there, he replied “Those two cans.”
+The cans found were later turned over to the police officers and were identified as containing marihuana.
+Appellant did not testify but offered testimony tending to show that the alley at the church property was “back of where we live”; that they had a double garage on it, but that the alley was not used exclusively by appellant’s family.
+We remain convinced that the evidence is sufficient to sustain the jury’s finding that appellant had possession of the marihuana found at the lumber pile.
+Appellant’s motion for rehearing is overruled.
+
+## Dissent (MORRISON, Judge)
+
+MORRISON, Judge
+(Dissenting).
+I have examined the record in this cause in the light of appellant’s motion for rehearing and am unable to agree with my brethren in their conclusion that the facts are sufficient to support the conviction.
+The appellant was never seen in the possession of the illegal product for which he stands here convicted of possessing. The most that can be said of the state’s case is that he was seen near where it was later found. While it is true that appellant might have placed the marihuana in the wood pile, yet it is just as true that someone else might have placed it there. The land where it was found was not under the appellant’s control. Two Prince Albert tobacco cans were found, and yet it is significant to me that neither witness saw them in his hand, even though they were watching him.
+I cannot bring myself to agree that such evidence meets the test in a circumstantial evidence case, and so respectfully enter my dissent.
