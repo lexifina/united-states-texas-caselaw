@@ -1,0 +1,74 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,199"
+decided: "1957-12-11"
+citations: ["166 Tex. Crim. 3"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ed Feagin v. State"]
+source_url: "https://static.case.law/tex-crim/166/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2620503
+cites_cases: ["116 S.W. 2d 1076", "162 Texas Cr. Rep. 52", "198 S.W. 583", "208 S.W. 2d 633", "282 S.W. 2d 59"]
+---
+
+# Feagin v. State
+
+## Majority (DAVIDSON, Judge)
+
+DAVIDSON, Judge
+This is an appeal from a misdemeanor conviction for driving, while intoxicated, a motor vehicle upon a public highway, with punishment assessed at a fine of $50 and three days’ confinement in jail.
+We are met at the outset with the motion of the state to dismiss the appeal because of the absence of sentence by the trial court. It is the state’s contention that a sentence is now necessary in a misdemeanor case and that it has been so required since the effective date of Chap. 149, Acts of the Regular Session of the 55th Legislature, in 1957, amending Art. 768, C. C. P. Said act will be referred to, hereinafter, as the amendment of 1957.
+That part of the act necessary to a determination of the question here presented is as follows:
+“If a new trial is not granted, nor judgment arrested in felony and misdemeanor cases, the sentence shall be pronounced in the presence of the defendant . . . .”
+The only material change in Art. 768, C. C. P., as it existed prior to the amendment is the insertion of the words: “and misdemeanor cases” following the word “felony.”
+Appellant insists that the caption to the amendment of 1957 is not sufficient to warrant the conclusion that a sentence was thereafter made necessary in all misdemeanor cases.
+The caption to the act reads as follows:
+“An Act amending Article 768, Code of Criminal Procedure, 1925, relating to credit for time spent in jail between arrest and sentence or pending appeal, so as to make its provisions applicable to misdemeanor cases; and declaring an emergency.”
+The Constitution of this state, by Art. 3, Sec. 30, requires that no law shall be passed except by bill, while Sec. 35 of Art. 3 provides that no bill (except general appropriation bills) shall contain more than one subject, which shall be expressed in its title.
+A subject not expressed in the caption renders the act void as to that subject.
+It will be noted that the above quoted caption is divided into two parts: The first is descriptive of the statute (Art. 768, C.C.P.) proposed to be amended, while the second gives notice of the amendment proposed, which was to make its provisions relating to credit for time spent in jail “applicable to misdemeanor cases.”
+Nowhere therein is notice given or suggested that the law as it then existed with reference to the passage or sentence was to be changed, or that a sentence in misdemeanor cases was to be thereafter required.
+The majority of this court feel that it is obvious that the caption to the amendment of 1957 did not authorize the enactment of legislation requiring that sentence be pronounced in misdemeanor cases.
+Art. 3, Sec. 35, of our Constitution also provides that “if any subject shall be embraced in an act, which shall not be expressed in the title, such act'shall be void only as to so much thereof, as shall not be so expressed.
+Inasmuch as the caption, or title, to the amendment of 1957 made no reference to or gave no notice of any intent, by the proposed legislation, to thereby make mandatory the passage of sentence in misdemeanors, such construction is expressly prohibited because no notice thereof was expressed or contained in the caption.
+The conclusion is reached, therefore, that the amendment of 1957 did not require the pronouncement of a sentence in misdemeanor cases. As supporting this conclusion, see: Stum v. State, 151 Texas Cr. R. 436, 208 S.W. 2d 633; Walker v. State, 134 Texas Cr. R. 500, 116 S.W. 2d 1076; and Ex parte White, 82 Texas Cr. R. 85, 198 S.W. 583.
+This brings us to a determination of the instant case upon its merits:
+The record reflects much ill-feeling and political enmity between appellant and his counsel, on the one hand, and the sheriff and deputies, on the other.
+At the outset of the trial, appellant sought to disqualify the sheriff and his deputies from in any way participating in the trial of the case. In his motion, appellant stated that “. . . because of personal and political reasons, the Sheriff of Waller County, Texas, and both of his deputies above named, are so prejudiced against this defendant as to be unable to properly perform their duties in connection with this case.”
+Appellant sought to have a constable substitute for and perform in the trial of this case the duties ordinarily incumbent upon the sheriff, and he was permitted to offer evidence in support of his motion.
+At the conclusion of that testimony, the motion was overruled, with the following statement:
+“If the court believed that the sheriff for any reason would choose biased or prejudiced men against the defendant in the summoning of talesmen, the court would certainly find him to be disqualified or prejudiced, biased; but the court does not believe that even if all of the testimony given that would tend to disqualify the sheriff is true, as a practicable matter and in reality, that the sheriff would be disqualified. The court believes that the sheriff, whatever his views might be, will go out and select tales-men in keeping with his oath.
+“It has been traditional that the sheriff and deputies wait on the court, and except that the court believes that the sheriff is disqualified to summon the talesmen because of prejudice or bias against the defendant, the court does not feel that an exception should be made to the tradition of the sheriff summoning the talesmen in county court and, accordingly, defendant’s motion is respectfully denied.”
+The record further shows that during the trial it became necessary that additional talesmen be summoned. The trial court directed the sheriff to summon additional talesmen.
+Appellant sought to have those talesmen discharged, for the reason set forth and shown in support of his motion to disqualify the sheriff.
+The names of those composing the jury in this case are shown in the record. Nowhere is it shown, however, that any of those jurors were biased or prejudiced against the appellant or that there existed any fact evidencing their disqualification to serve as jurors.
+Regardless of the feeling shown and the charges of prejudice on the part of the sheriff, the appellant was not and could not have been injured thereby if he had a trial before a fair and impartial jury.
+So far as this record reflects, the jurors trying the case were fair and impartial and subject to no disqualifications.
+There was a sharp issue under the testimony as to the appellant’s guilt. The testimony of the state’s witnesses which the jury accepted was sufficient to warrant the conviction.
+No formal bills of exception appear.
+The judgment is affirmed.
+
+## Dissent (WOODLEY, Judge, MORRISON, Presiding Judge.)
+
+WOODLEY, Judge,
+dissenting.
+The body of the amendatory act which the majority opinion nullifies as being in violation of Art. III, Sec. 35 of the Texas Constitution, re-enacts Art. 768 V.A.C.C.P. unchanged except for the addition of two words, “and misdemeanor.”
+The amendment is clearly germane to the purpose stated in the caption quoted in the majority opinion and in the emergency clause, which reads:
+“The fact that under existing law credit for time spent in jail between arrest and sentence or pending appeal is only applicable in felony cases, creates an emergency and an imperative public necessity that the Constitutional Rule requiring bills to be read on three several days in each House be suspended; and said Rule is hereby suspended, and this Act shall take effect and be in force from and after its passage, and it is so enacted.”
+The rule of statutory construction recognized both by this court and the courts having jurisdiction in civil cases is that if the provisions of the body of the act are germane in any degree to the purpose stated in the caption, the act does not offend against Art. III, Sec. 35, of the Constitution of Texas. Footnotes 12 and 14, 39 Texas Jur. p. 89, list many authorities so holding.
+When the title expresses the main subject dealt with in the act, it embraces any lawful means for the accomplishment of the legislative object. 39 Texas Jur. p. 91, Sec. 42.
+Any provision calculated to carry into effect the declared object of an act is unobjectionable, although not specifically indicated in the title. 39 Texas Jur. p. 91, Sec. 42, and cases cited under Footnote 7.
+The rules mentioned are recognized and applied in the cases cited in support of the majority holding.
+Though the amendatory act is clearly constitutional and requires that a sentence be pronounced in misdemeanor as well as felony cases, it does not follow that the sentence must be pronounced in order for this court to have jurisdiction of an appeal.
+We have recognized the authority of the legislature to provide for appeals to this court from judgments of conviction which are not final because no sentence has been pronounced. Gossett v. State, 162 Texas Cr. Rep. 52, 282 S.W. 2d 59.
+I could agree to a holding that this court has jurisdiction of a misdemeanor appeal because Art. 769 V.A.C.C.P., which regulates the time in reference to appeal for pronouncement of sentence, does not require that sentence be pronounced before the appeal is taken. But I am unwilling to agree for this court to strike down an act of the legislature which is in conformity with the Constitution.
+ON appellant’s motion for rehearing
+MORRISON, Presiding Judge.
+In the original opinion we did not discuss several of appellant’s contentions. Appellant urges that the court excluded testimony material to his defense and, in doing so, commented upon the weight of appellant’s testimony in the presence of the jury which prejudiced his rights.
+If, as appellant contends, he was denied the right to name all those who were present at Manning’s Cafe, where appellant had been until just prior to the time of his arrest by two officers who said he was intoxicated, the judgment should be reversed.
+Some of the persons who were at Manning’s Cafe testified that they saw appellant there and that he was not drunk. He should not have been denied the right to name others who were there and to use the state’s failure to call them as witnesses as a circumstance favorable to his claim that he was sober.
+It does not appear that such was the court’s ruling. Appellant testified he could name 17 or 18 that were at the cafe, and he named about that number. These were named before and after the court inquired as to the purpose and whether they would be called by appellant as witnesses.
+What the court interrupted and declined to permit was appellant’s unresponsive statement that he got the bottle of beer found in his pickup for Roy Duckworth “when he was on one of those walking drunks.” Duckworth was not one of those named as present at the cafe.
+Remaining convinced that we properly disposed of this cause originally, appellant’s motion for rehearing is overruled.
