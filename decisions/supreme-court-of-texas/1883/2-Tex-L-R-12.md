@@ -1,0 +1,38 @@
+---
+court: "Supreme Court of Texas"
+decided: "1883-05"
+citations: ["2 Tex. L. R. 12"]
+reporter: "tex-l-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["I. & G. N. Ry. vs. AMOS GRAVES."]
+source_url: "https://static.case.law/tex-l-r/2/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2056477
+---
+
+# I. & G. N. Ry. v. Graves
+
+## Majority (Stayton, J.)
+
+Opinion by
+Stayton, J.
+The facts in evidence in this cause called for a clear and explicit charge in reference to contributory negligence upon the part of the plaintiff, but no such charge was given.
+The charge given by the court, which had any bearing upon that question, was as follows:—
+“ If, however, you believe from the evidence, that the plaintiff’s carriage approached the Railroad Grossing with a full knowledge that the locomotive of the defendant was in the vicinity of the crossing, and that he was fully apprised by the ringing of the bell that said engine was at or near said street crossing, and that the plaintiff unheeded said warning, then the defendant is not liable and you will find for the defendant.”
+This charge makes the plaintiff responsible for contributory negligence only in the event that he had full Jmowledge of the fact that the engine was in the vicinity of the street crossing, and that of this he must have been apprised by the ringing of the bell. The injury occurred at a place, when all persons familiar with the locality, which the plaintiff seems to have been, must have known that engines were frequently passing, and it was his duty in attempting to cross at such a place to use the utmost care, and it was not necessary in order to impose such duty upon him, that he should have had full notice that an engine was then in that vicinity, and if such knowledge had been requisite, it would not have been necessary that it should have been derived from the ringing of a bell, for notice received in any other manner was equally effective.
+A person in attempting to cross a railway track, at a crossing or elsewhere, must use due care himself, to avoid danger, and if he does not do so, and his own negligence is the proximate cause of the injury, he cannot recover, although the railway company may not have given the signals which the law requires to indicate the approach of a train, for in such case he contributes to his own -injury, and it is not the result of the omission of the act required by law.
+A person, however, in approaching a railway crossing has the right to expect that the railway company will give such signals of an approaching train as prudence and the law requires, and, if relying upon this he attempts to cross the track without knowledge or means of knowledge of the approach of the train, he is injured by reason of the failure of the employees of the railway to perform a duty prescribed by law, then he is entitled to recover.
+The statute does not provide that a failure to ring a bell or blow a whistle, or both, when a train is approaching a crossing, will absolutely render a railway company liable for an injury received by a person in attempting to cross its track, but it does provide that if those things are not done the company shall “ be liable for all damages which shall be sustained by any person by reason of such neglect.”
+It is for a jury to determine from whose neglect an injury results.
+The second charge asked by the defendant upon the subject of contributory negligence may not have been in all its parts technically correct, nor sufficiently full, yet it was of such a character as called the attention of the court to the subject, and the court should have given a charge thereon not subject to such objections as was the charge given.
+The evidence as to care upon the part of the railway company, or its servants, was conflicting, and the whole question of negligence of plaintiff and defendant should have been fairly submitted to the jury.
+The fifth paragraph of the charge assumes that if the plaintiff suffered the injuries under the circumstances stated in the petition, without having “notice by bell or whistle” of the approach of the engine, then the defendant was responsible. This was error; for thereby the court undertook to instruct( the jury, that the facts alleged constituted due care upon the part' of the plaintiff and the want of due care upon the part of the defendant. It was the province of the jury to determine this, under all of the evidence in the case, and under a proper charge as to the reciprocal duties of the parties; and the charge restricted the notice to the plaintiff of the approach of the train to such notice as had been given “by bell or whistle,” while notice communicated in any other way would have made it the duty of the plaintiff not to attempt to cross until the engine had passed.
+It was claimed that the first charge given by the court was improper, in that it indicated to the jury that in the opinion of the court the defendant was responsible for the injury. That paragraph of the charge was:—
+“The plaintiff brings this suit to recover damages actually sustained by him in consequence of the culpable negligence of the employees of the defendant, and for which the defendant is responsible.”
+The judge who tried the cause, certainly intended to make no such impression, and only intended to indicate the character of the action, but it may be true that the language used may have been understood by the jury to indicate that the judge was of the opinion that the plaintiff had actually sustained damage through the culpable negligence of the employees of the company, and that it was responsible therefor.
+The fourth paragraph of the charge was: — “ A railroad company has no right to obstruct the travel of any street in the city of San-Antonio, and when crossing any of the streets of the city with a locomotive, it is the duty of the company to give notice by whistle or bell, and at the same time to reduce the speed of the engine.”
+The statute does not provide at what rate of speed a locomotive engine shall run through or over the streets of a city, nor does it provide that the speed at which it is running as it approaches a street-crossing shall be reduced while crossing. This would seem to be a very proper precaution, and a failure to observe it in a given case, when an engine was running at a high rate of speed, might in fact be negligence, but, in the absence of a statute declaring.that it shall be done, a court is not authorized to instruct a jury as matter of law that such a duty exists.
+City councils are given power to regulate the speed of locomotive engines passing through a city, whether at a crossing or elsewhere. (R. S. 414.) It does not appear that this has been done in San Antonio, nor that the engine was running at an unreasonable rate of speed.
+The charge referred to, imposed upon the defendant a duty which the statute does not impose, and the jury may well have conceived that a failure to perform that specific act was negligence which would render the company responsible.
+For the errors indicated, the judgment is reversed and the cause remanded»
