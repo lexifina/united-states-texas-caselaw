@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "7303"
+decided: "1923-01-24"
+citations: ["93 Tex. Crim. 292"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Bell v. The State."]
+source_url: "https://static.case.law/tex-crim/93/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5036501
+cites_cases: ["119 S. W. Rep., 847", "236 S. W. Rep., 467", "90 Texas Crim. Rep., 485"]
+---
+
+# Bell v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+Conviction is for the manufacture of intoxicating liquor, punishment assessed being two years confinement in the penitentiary.
+Many questions are presented in the record, but a discussion of them will be pretermitted as we have reached the conclusion that the case must be reversed on account of the insufficiency of the evidence to support the judgment. Our Assistant Attorney General confesses error in this regard and concedes the evidence to be insufficient under authority of Hardaway v. State, 90 Texas Crim. Rep., 485, 236 S. W. Rep., 467; Bland v. State (No. 7067, opinion delivered November 29, 1922) ; Cramer v. State (No. 7204, opinion delivered on rehearing January 10, 1923).
+The indictment contained only the one count charging manufacture of intoxicating liquor. Officers procured a search warrant and proceeded to appellant’s premises and to an inclosure or out building known as a “jack lot.” This was situated some three or four hundred yards from appellant’s residence. Upon reaching the premises the officers sent one of their party to notify* appellant that they were there and desired to make a search. Appellant told them he had no objection to them searching any part of the property over which he had control, but that he had rented a room in the shed to a Mr. Johnson, and that they should see him and have him open the part which he had rented. He also informed them that he knew Johnson had some mash or beer in there because he had seen it and had diT rected Johnson to move it off the premises. Appellant objected to the officers going into that portion of the shed which he claimed to have rented to Johnson, and a wordy altercation arose between them. After some argument, however, he opened the door and the officers found five barrels of sour mash and several gallons of whisky in this room. No still, or any other implements suitable for making whisky, were found on the premises. One witness says:
+“I didn’t find anything in there in the way of a still; no pipes, cooking utensils, or arrangements for cooling. I went there for the specific purpose of see.ing what there was to be found there but didn’t find out what I was going for until we were on the road there. I saw nothing there to indicate that liquor was being made there other than the sour mash. I didn’t see any machinery for making fit.', I know in a general way what kind of equipment it takes to make whisky.”
+We have substantially stated all the testimony introduced by the State. Appellant claimed that he had rented the room in which the mash and whisky were found .to a man bv the name of Johnson, and a few days afterward discovered the barrels of mash in the room and notified Johnson that he must move them; that Johnson claimed it had been on a creek and had been discovered was the reason he had moved it to the room. It was also in proof from other witnesses that they had heard appellant tell Johnson he must move the stuff away from there. Some witnesses for the State claim not to have known of such a man in the neighborhood, but there is testimony to the contrary by witnesses for the appellant. The court recognized that the case was one of circumstantial evidence and so instructed the jury. It is urged that the evidence is insufficient to support a conviction for the manufacture of intoxicating liquor, and as before stated, this is conceded by the State. We do not discuss the’ matter further. The evidence of the State, even if undisputed, would not support a conviction for the manufacture of intoxicating liquor. (See cases, supra.)
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
