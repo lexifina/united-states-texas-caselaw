@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,452"
+decided: "1962-03-28"
+citations: ["172 Tex. Crim. 189"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Brown v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0189-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2638353
+---
+
+# Brown v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for statutory rape; the punishment, life.
+The sole contention urged for reversal is that the state failed to prove penetration.
+Artie Vaughn testified that about 11 A.M., June 13, she went to Juanita Evans’ house trailer to see if Evans’ daughter, the prosecutrix, could come to her house and spend the night. She called out the prosecutrix’ name several times, but there was no answer so she went around to the front of appellant’s house and continued calling for the prosecutrix- In about 15 minutes, the appellant’s front door opened and the prosecutrix came out, picked up the mail, and went back inside. She saw the appellant standing behind the prosecutrix when the door opened, but he shut it as soon as she came out. Shortly after this, Vaughn went around to the side of appellant’s house, and from there she saw the prosecutrix “standing under a big tree with her hands between her legs”.
+The prosecutrix, age nine on the date of the trial, identified the appellant and testified that he was the person with whom she had the following experience:
+“A. I was in the trailer house and he called me, out there in the back yard.
+“Q. And where did you go if any place? A. Out there in the back yard.
+“Q. Where did he call you to come? A. In the house.
+“Q. Did you go in the house? A. Yes, sir.
+“Q. Tell us what happened in the house, * * *. A. We was in the kitchen, and he told me to go in the front room, and told me to pull off my pants and lay there on a bench.
+“Q. Did you do that? A. Yes, sir.
+“Q. Then what happened? A. He pulled off his pants and laid on me.
+“Q. Then what happened? A. He pulled off his pants in myself.
+“Q. Did it hurt you? A. Yes, sir.”
+A physician testified that he examined the prosecutrix on June 17, and that his examination “revealed a hemorrhagic vagina; that means a vagina that on the inside was very red, and suggestive to me of irritation from some external source.” His examination also revealed a purulent discharge from the vagina caused, most likely, by a gonococchi infection, that the hymen was not intact, and that the vagina would admit his small finger. He further testified that his diagnosis was probably traumatic vaginitis, which meant inflammation or injury to the vagina.
+When recalled by the appellant, the physician testified that his examination of the vagina did not reveal any tear, and that he would expect some type of tear if penetrated by a normal size male; that he found no seminal discharge in the vagina, but that he made no chemical or microscopic test to determine such finding.
+Testifying in his own behalf, the appellant stated that Juanita Evans and her four children had lived for more than a year in a trailer house at the back of his home on the same lot. He further testified that Juanita and her children had been in his home daily, and he had helped raise the prosecutrix and the other Evans children, and had aided them all he could. Appellant denied any act of misconduct by him to the prosecutrix. He admitted that he had been in the penitentiary on at least three separate convictions.
+Viewed in the light most favorable to the jury’s verdict, the evidence is deemed sufficient to show penetration.
+Finding the evidence sufficient to support the conviction and no error appearing, the judgment is affirmed-
+Opinion approved by the Court.
