@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2376"
+decided: "1913-05-28"
+citations: ["70 Tex. Crim. 563"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. L. Davis v. The State."]
+source_url: "https://static.case.law/tex-crim/70/cases/0563-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2380807
+cites_cases: ["101 S. W. Rep., 233", "46 Texas Crim. Rep., 412", "50 Texas Crim. Rep., 581", "51 Texas Crim. Rep., 32", "55 S. W. Rep., 493", "99 S. W. Rep., 996"]
+---
+
+# Davis v. State
+
+## Majority (HARPER, Judge. HARPER, Judge.)
+
+HARPER, Judge.
+In this case appellant was convicted of unlawfully carrying a pistol, and prosecutes this appeal.
+The recognizance entered into as shown by this record is wholly insufficient under article 918 of the Code of Criminal Procedure to confer jurisdiction on this court, and the appeal is dismissed.
+Dismissed.'
+HARPER, Judge.
+On a former day of this term this case was dismissed because of a defect in the recognizance. Appellant has filed a. motion asking for a rehearing and shows that he has entered a good and sufficient recognizance since the' order of dismissal was entered. This case was tried before the court without a jury, and appellant has filed a bill of exceptions stating that the defendant was not called upon to enter any plea to the information and alleging that in fact no plea was entered. The court, in approving the bill, states: The defendant was present in person and represented by his attorney, W. H. Bonner, and the said attorney for defendant entered a plea of “not guilty” and proceeded to trial without objection, and without calling the attention of the court to the alleged failure of defendant to plead to the information. “I am sure the information was read and that Mr. Bonner, attorney for the defendant, pleaded not guilty.” The defendant has filed the affidavits of himself, his attorney, and two others, stating that they were present, and no plea was entered. The record shows this question was not raised until after verdict and judgment, being first called to the attention of the court in the motion for new trial. The judgment reads: “This day this cause was called for trial and both parties appeared and announced ready for trial, and the defendant, C. L. Davis, pleaded not guilty to the information and waived a trial by jury,” etc. And under such circumstances we think appellant should be held to have waived his right to enter a plea if he did not in fact do so. It is perfectly evident by the record that he was present, a trial had, evidence introduced, at which time he was permitted to cross-examine the State’s witnesses, and introduce testimony to show that he was not guilty of the offense. Hot only could he not have suffered possible injury, but the record shows that by no.possibility could he have been injured, if in fact he did not plead to the information,—he was tried as though he had entered such plea. If, in fact, no plea was entered, we do not think he would be permitted to- sit' quietly by, knowing such to be a fact, proceed with the trial of the case, introduce his testimony tending to show that he was not guilty of the offense, speculate as to the result, and in case he should be found guilty, assert as a reason why the judgment should be set aside that he in fact entered no plea. The case was tried as though he had entered a plea of not guilty, and under such circumstances he would in law be held to have impliedly waived the matter, and as he was tried by the court, certainly in holding that he had waived this formality, he suffers no injury. There are some decisions that hold if the record did not affirmatively show that a plea was entered, the judgment would be reversed, but these decisions were rendered prior to the amendfnent of article 938, Code of Criminal Procedure, in 1897. This article now provides: “In all cases this court shall presume that the defendant pleaded to the indictment.” This court has held that those presumptions will not prevail where the question was made an issue in the trial of the case, and properly presented by bill of exception in this court, but this record discloses that this was not made an issue on the trial of the case, but sought first to be raised by motion for new trial after verdict, and this statute was enacted to prevent such questions arising as is sought here to be presented. As before stated, the judgment recites that a plea of “not guilty” was entered by appellant, and we hold it is too late for him to seek to raise this question after verdict, when no exception was reserved during the trial.
+As appellant was being tried by the court, without a jury, the fact that the court propounded some questions to the witnesses that he might get a clearer idea of the merits of the case, presents no error. In a number of eases it has been held not improper for a juryman to ask a witness questions to enable him to more intelligently determine the issues in the case, and as in this, the court was passing on the facts, without a jury, and it was in no sense improper for him to propound questions to the witnesses.
+The only other bill complains that appellant was not present when the court acted on his motion for a rehearing. Ho objection was made until after the court had heard and acted on the motion. Ho jail penalty having been assessed against the defendant; he had been charged with and convicted of a misdemeanor, and while he had a right to be present, yet if the motion is acted on when his attorney is present, and no protest made because of his absence until after the motion has been acted on, when it is a misdemeanor conviction and no jail penalty assessed against him, it will not be such error as will necessitate a reversal of the case.
+The cause is reinstated and the judgment affirmed.
+Affirmed.
