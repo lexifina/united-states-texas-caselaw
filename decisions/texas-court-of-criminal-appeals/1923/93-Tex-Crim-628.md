@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "7464"
+decided: "1923-01-31"
+citations: ["93 Tex. Crim. 628", "248 S.W. 366"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pablo Olivares v. The State."]
+source_url: "https://static.case.law/tex-crim/93/cases/0628-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5039998
+cites_cases: ["198 S. W. 575", "208 S. W. Rep., 660", "218 S. W. Rep., 505", "234 S. W. 914", "70 S. W. 953", "70 S. W. Rep., 953", "72 Texas Crim. Rep., 258", "82 Tex. Cr. R. 107", "82 Tex. Cr. R. 109", "82 Texas Crim. Rep., 107", "82 Texas Crim. Rep., 109", "90 Tex. Cr. R. 314", "90 Texas Crim. Rep., 314"]
+---
+
+# Olivares v. State
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+The conviction is for murder; punishment fixed at confinement in the penitentiary for a period of thirty-five years.
+That the appellant shot and killed the deceased is not controverted. Appellant testified that he shot the deceased in order to protect his own life. On the night of the day preceding the homicide, a quarrel took place at which, according to the appellant and several of his witnesses, the deceased threatened to kill the appellant. There was evidence, pro and con, touching the reputation of the deceased as a dangerous man. Appellant described the encounter in which the homicide took place in substance thus: That he was walking on the street in the afternoon, when the deceased, who was riding in an automobile, overtook him and called to him, stating that he wanted to see him; that he (the appellant) approached the car, whereupon the deceased struck him with a crank and also sought to draw a pistol from the pocket of the car. The appellant said that he believed that his life was in danger; that he shot and killed the'deceased because he was a dangerous man and because he was afraid of him.
+An eye-witness on behalf of the State testified that as the deceased approached the appellant in his automobile, the appellant waved at him to stop; that when the car stopped, a conversation in Spanish, which the witness did not understand, took place between the two; that the appellant walked up to the car and laid his hand on it and the door flew open; that finally the appellant stepped back, drew his pistol and fired, and immediately left the scene. The witness went to the deceased and found that he had been shot. After the deceased was removed from the car, a pistol was found in it. This was accounted for by the direct testimony that one of the relatives of the deceased, when he found that he was shot, went, at the request of the deceased, and got the pistol and put it in the car.
+The issues of fact were passed on by the jury under instructions by the court, including three requested charges prepared by the appellant. The charges on the merits of the case were such as to elicit from the appellant no complaint.
+Appellant requested a charge in these words: “You are charged to disregard the statement made by County Attorney that it was the ^uty of the defendant to appeal to the officers of the law if his life had been threatened.”
+This charge was refused by the court with this indorsement: “The County Attorney did not say that such was the law and he had a right to argue that he should have appealed to the law.”
+A bill of exceptions is also taken in which it is stated that the counsel for the State, in his argument to the jury, made the statement “that it was the duty of the defendant, if his life had been threatened by the deceased, to have appealed to the officers of the law for protection.” If the county attorney had stated that the law required him to make such an appeal and the court had sanctioned such a declaration, the matter would come in a different light. Stalling v. State, 90 Texas Crim. Rep., 314. The language used by the county attorney, as shown by the bill, does not bear the interpretation that he was stating that the law required that the- appellant should seek the protection of the law before resorting to force to protect his life against the threats and demonstrations of the deceased, but impresses us as an argument made by the prosecuting attorney on the controverted issues presented touching the evidence of threats. Appellant and his witnesses testified that the deceased ‘had made threats to take his life. The State’s witness denied this. From the appellant’s witnesses, the deceased was a violent and dangerous man, and from those of the State, the contrary is shown. In appealing to the jury to solve this issue in favor of the State, we think the argument imputed to the county attorney, if unwarranted at all, is not so to a degree that vitiates the verdict. Flores v. State, 82 Texas Crim. Rep., 107.
+Taking into account the State’s evidence to the effect that the appellant caused the deceased to stop and that he shot him while the deceased was unarmed, in connection with the statement in appellant’s cross-examination that “I wanted to kill him because he was a dangerous man; I was scared,” we think it was within the scope of legitimate argument for the county attorney, in addressing the jury, to urge the point that although on the previous day the threats had been made by the deceased and the appellant was frightened thereby, that he should have availed himself of other means of protection than those reflected by the State’s testimony. Appellant, through his counsel, refers to the well-known rule which inhibits' the prosecuting officer in argument from bringing into the case new facts injurious to the accused on trial. In our judgment, the present instance .does not come within this rule.
+Within legitimate bounds the right of argument is of the greatest value. The difficulties of this court are multiplied both by instances in which counsel ftir State transcends the limits of legitimate argument, and those in which remarks, though not improper, are assailed by counsel for the accused as an abuse of the privilege of argument. Flores v. State, 82 Texas Crim. Rep., 109. Under the facts of the instant case, we confess our inability to discern any sound grounds for supporting the complaint made.
+The State’s evidence, if believed, showing that the offense of murder was committed by the accused, the jury, in the exercise of its legitimate province, having solved the controverted questions against him, and there being no error committed in the conduct of the trial, the judgment must be affirmed. It is so ordered.
+Affirmed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON REHEARING.
+March 14, 1923.
+LATTIMORE, Judge.
+Appellant has filed an urgent motion for rehearing insisting that the argument of the county attorney to the jury that it was the duty of appellant, if his life had béen threatened by deceased, to have appealed to the officers of the law for protection, was a statement of a fact not in evidence and of such materiality as to have likely affected the result of the trial. We have again considered the matter in the light of the authorities cited in this motion but are not willing to commit ourselves to the proposition advanced. The case of Newman v. State, 70 S. W. Rep., 953, reverses the judgment of the lower court because of the admission of evidence that the accused did not file any complaint before any officer charging the deceased with making threats against his life, or asking that he be put under a peace bond. The admission of testimony of this character might under the facts of a given case be deemed hurtful, but a statement in argument such as that complained of here seems susceptible of no construction but that it merely expressed the opinion of the attorney as to a course of conduct which should have been pursued. To place a limitation upon the argument such as the one sought by appellant would be going further than any authority known to this court, and would seem to place an unreasonable restriction upon the right of either counsel to draw his conclusions from facts in testimony before the jury. The matter is discussed in our original opinion and we think correctly disposed of.
+Rehearing denied.March 14, 1923. — Reporter.
+The motion for rehearing will be overruled.
+Overruled.
