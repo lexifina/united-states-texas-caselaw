@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9415"
+decided: "1925-11-04"
+citations: ["102 Tex. Crim. 84"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Odell Childs v. The State."]
+source_url: "https://static.case.law/tex-crim/102/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5110606
+cites_cases: ["265 S. W. 914"]
+---
+
+# Childs v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+Conviction is for the theft of an automobile. Punishment is three years in the penitentiary.
+The evidence shows that appellant with eight other parties were confined in the jail of Lamar County. They effected an escape. Appellant with four others then took an automobile from the street and drove it into the. State of Arkansas where they attempted to sell it. Learning that suspicion had been aroused in the mind of the party with whom they were negotiating they drove the car some distance farther and abandoned it. A few days later appellant and others who escaped with him were captured and the automobile recovered.
+Over objection the court permitted proof that appellant was being held in jail on a charge of murder, and that the other prisoners who escaped with him were charged with various offenses ranging from murder to violations of the liquor law. The bill complaining of this matter bears explanation of the learned trial judge that he admitted such evidence in support of the State’s theory that appellant had no intention of returning the car to the owner, it being appellant’s contention that at the time the car was taken he entertained no fraudulent intent to steal it, and that if a fraudulent intent to appropriate it to his own use was afterwards formed it would not constitute theft. These questions were submitted to the jury for solution. To aid them in this respect we think no error was committed in receiving the evidence complained of. See Welk v. State, 265 S. W. 914, and cases cited therein; also see authorities collated under Section 166, Branch’s Ann. Tex. Penal Code.
+Complaint is made because the court permitted the State to reopen the case and introduce other testimony. The State proved that appellant had testified in the trial of another case that he and others “had all stolen the car together.” No objection was interposed to this testimony at the time it was introduced. The State then rested its case. After this was done appellant urged objection to the evidence just referred to, and requested its withdrawal. The court complied with this request, whereupon the State was. granted permission to reopen its case, and placed upon the witness stand an accomplice who testified in detail to the escape from jail, the taking of the car and the effort to sell it. Article 643 C. C. P., 1925, (formerly Article 718) provides:
+“The court shall allow testimony to be introduced at any time before the argument of a case is concluded, if it appears that it is necessary to a due administration of justice.”
+At the time the court permitted the State to. reopen the case in the present instance argument had not commenced. In matters of this kind the trial judge must exercise his sound discretion. We observe nothing in the present record showing anjr abuse thereof. Many cases are cited in the notes under Article 718, Vernon’s C. C. P.
+We think there is no merit in the contention that the evidence fails to support the verdict and judgment.
+Finding no error in the.recordr.the judgment is affirmed.
+Affirmed.
