@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,535"
+decided: "1956-11-07"
+citations: ["163 Tex. Crim. 585"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Jasper Richardson, Jr. v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0585-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460819
+cites_cases: ["244 S.W. 2d 224", "263 S.W. 2d 261"]
+---
+
+# Richardson v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is a violation of Article 725b, Section 2, V.A. P.C., which denounces the possession of paraphernalia for using narcotic drugs; the punishment, 10 years.
+Police Chief Watson testified that he observed an automobile cutting in and out of traffic and traveling at a high rate of speed through the city of Hurst on the night in question, that he gave chase and when he overtook the same discovered that the appellant, who was the driver thereof, appeared to be intoxicated. He stated that the appellant’s eyes were glassy, that he leaned up against his automobile but he was unable to detect the odor of alcohol on his breath. The appellant was placed ■under arrest and carried to the police station, where his automobile was searched. A spoon which was black on the bottom, a hypodermic needle, and two eyedroppers were removed therefrom. Chief Watson then inspected the appellant’s arms and found thereon a number of old and new bumps that looked like “wasp stings.”
+The following day after his release from jail on bond, the appellant returned to Chief Watson’s office to secure his automobile. According to the chief, the appellant told him that he was a narcotic user, gave the name of his source of supply, and said that he had had a shot shortly before he was arrested the night before.
+Officer Glass of the Narcotic Division identified the items introduced as paraphernalia commonly used by narcotic addicts.
+The appellant did not testify or offer any evidence in his own behalf.
+No brief has been filed, but we do find certain bills of exception to the introduction into evidence of the fruits of the search of the appellant’s automobile.
+If the officer observed the appellant violating a traffic law, he was authorized in arresting him and searching his person. If after the arrest, he observed that the appellant was intoxicated or under the influence of a narcotic drug, he was then authorized to search his automobile. Article 216, V.A.P.C.; Brown v. State 159 Tex. Cr. Rep. 306, 263 S.W. 2d 261; Soileau v. State, 156 Tex. Cr. Rep. 544, 244 S.W. 2d 224.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment of the trial court is affirmed.
