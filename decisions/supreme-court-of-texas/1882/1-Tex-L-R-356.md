@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Texas"
+decided: "1882-08"
+citations: ["1 Tex. L. R. 356"]
+reporter: "tex-l-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["F. G. EVANSICH, by Next Friend, v. G. C. & S. F. Ry."]
+source_url: "https://static.case.law/tex-l-r/1/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1207776
+cites_cases: ["21 Minn., 207", "22 Kans., 687", "65 Mo., 592"]
+---
+
+# Evansich v. G. C. & S. F. Ry.
+
+## Majority (Stayton, J.)
+
+Stayton, J.
+Opinion by This action was brought by P. G. Evansich, sr., as next friend of his son, E. G. Evansich, jr., a child seven years of age, to recover damages for an injury alleged to have been received by the son, on the eighteenth day of April, 1880, on a turntable owned by the railway company, which was alleged to be in a public place and very near to a public street in the city of Brenham, and that it was unenclosed, unguarded, unlocked and easily put in motion by children. The petition set out fully the manner in which the injury was received, the character of injury received by the child, and the negligence of the railway company.
+The appellee answered by a general demurrer and by special demurrers, also by general denial and by special answers.
+The demurrers were sustained and the case dismissed.
+As special ground of demurrer, it was urged that the father, as next friend, could not maintain the action for bis minor son.
+This action having been instituted since the adoption of the Revised Statutes, the father could institute and maintain it. (Abrahams v. Valbaum, 54 Texas, 227; Brooke v. Clarke, Texas Law Reporter, 205, affirmed at the present term of this court.)
+In addition to a general demurrer, there was a special demurrer., which was as follows: “The said petition is insufficient in lawa because it appears from the allegations thereof that if plaintiff has; been injured or damaged, that the same was caused wholly by hie; own contributory negligence and willful trespass upon the property of defendant.”
+The petition in this cause is very full, and, tested by the principles set forth in many well considered cases by courts of high authority, must be considered as sufficient.
+The same rule which applies to persons of sufficient age to have discretion sufficient to protect themselves, in reference to contributory negligence, cannot be applied to infants of tender years, and in reference to them, the negligence of a party through whose want of care they receive injury will fix liability, notwithstanding the act of the infant may have been such as would defeat a recovery by an adult receiving an injury under the same circumstances.
+In the case of Railroad Company v. Stout, 17 Wallace, 660, the rule is thus stated: “ It is well settled that the conduct of an infant of tender years is not to be judged by the same rules which, govern that of an adult. *
+“While it is the general rule in regard to an adult, that to entitle him to recover damages for an injury resulting from the fault or negligence of another, he must himself have been free from fault, such is not the rule in regard to an infant of tender years. The care and caution required of a child is according to his maturity and capacity only, and this is to be determined in each case by the circumstances of that case.” The defense urged in the case above cited was the same as in this case; the facts were almost identical, and the defense was held insufficient.
+In the following cases, K. C. Railway Co. v. Fitzsimmons, 22 Kans., 687; Koons v. St. Louis and Iron Mountain R. R., 65 Mo., 592; Keifer v. Milwaukee and St. Paul Railway Co., 21 Minn., 207, the facts and pleadings were substantially the same as in the present, and the plaintiffs were held entitled to recover.
+The petition in this cause negatives the idea of negligence upon the part of the parents of the child injured; shows that the turntable was in a public place, and very near to a public street; that ■children were accustomed to play on the turntable; that on the same day on which the injury was inflicted, and but a short time before the child was injured, another child was injured, of which the servant of the appellee had notice; that no steps were taken to so secure the turntable that children could not revolve it and thereby receive injury; that the injured child was only seven years of age, and wanting in that discretion necessary to its own protection.
+Such facts entitled the plaintiff to maintain the action, and if proved, to a recovery.
+The question of discretion in the child, and of consequent responsibility for negligence, was not one for the court, and to be determined upon demurrer, but was for the jury.
+“ In no class of cases can this practical experience (of juries) be more wisely applied than in that we are considering. We find, accordingly, although not uniform or harmonious, that the authorities justify us in holding, in the ease before us, that, although the facts are undisputed, it is for the jury, and not for the judge, to •determine whether proper care was given, or whether they establish negligence.” (Railroad Company v. Stout, 17 Wallace, 664.)
+A court cannot declare, as a matter of law, that a child of seven years is sui juris; and when, from the age of the child, there may be doubt upon that question, it should be submitted to the jury. (2 Thompson on Negligence, 1181,1182, and citations.)
+The fact that the turntable was upon the premises of the appellee does not affect the question, nor relieve it from the duty of exercising in reference thereto such care as will render it not a dangerous machine to children who are attracted to it for amusement.
+For the error of the court in sustaining the demurrer and dismissing the cause, the judgment of the court below is reversed, and the cause is remanded.
