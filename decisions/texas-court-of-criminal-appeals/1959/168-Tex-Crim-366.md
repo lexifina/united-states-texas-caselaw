@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,177"
+decided: "1959-10-14"
+citations: ["168 Tex. Crim. 366"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte George Washington."]
+source_url: "https://static.case.law/tex-crim/168/cases/0366-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2619404
+cites_cases: ["161 Texas Cr. Rep. 330", "277 S.W. 2d 111"]
+---
+
+# Ex parte Washington
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is an original application for the writ of habeas corpus, by which relator seeks his discharge from the penitentiary of this state wherein he is confined and serving a sentence of life imprisonment as an habitual criminal, which sentence was assessed against him by the Criminal District Court of Harris County upon his plea of guilty and waiver of trial by jury, in Cause No. 55667 upon the docket of that court.
+The judgment of conviction is attacked as void and unenforceable because of the failure of the trial court to appoint counsel to represent him upon the trial of the case.
+The record before us fails to reflect that relator was represented by counsel or that counsel was appointed to represent him upon his plea of guilty and waiver of trial by jury.
+Indeed, counsel for the state in the trial court has advised this court that they have concluded that relator’s contention is correct and that they are unable to find any evidence that relator was so represented.
+It is apparent, therefore, that relator’s contention should be sustained and the judgment should be declared void and unenforceable for the reason stated. Arts. 10a and 11, Vernon’s C. C. P.; Kelley, Ex parte, 161 Texas Cr. Rep. 330, 277 S.W. 2d 111, and authorities there cited.
+Accordingly, the writ of habeas corpus is granted, and relator is ordered discharged from further custody under the conviction above mentioned.
+Relator will be delivered to the sheriff of Harris County to answer the accusation against him.
