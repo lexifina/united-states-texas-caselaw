@@ -1,0 +1,109 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,711"
+decided: "1961-11-29"
+citations: ["172 Tex. Crim. 130"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Curtis Lee Adams v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0130-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2639530
+cites_cases: ["129 Texas Cr. Rep. 438", "143 Texas Cr. Rep. 347", "149 Texas Cr. Rep. 639", "157 Texas Cr. Rep. 75", "158 S.W. 2d 495", "158 Texas Cr. Rep. 561", "158 Texas Cr. Rep. 8", "164 Texas Cr. Rep. 362", "198 S.W. 2d 271", "230 S.W. 693", "246 S.W. 2d 879", "252 S.W. 2d 465", "258 S.W. 2d 87", "298 S.W. 2d 816", "87 S.W. 2d 722", "89 Texas Cr. Rep. 220"]
+---
+
+# Adams v. State
+
+## Majority (McDonald, judge.)
+
+McDonald, judge.
+The offense is robbery by assault; the punishment, twenty years’ confinement in the penitentiary.
+The facts in this case were largely adduced from appellant’s confession, which was introduced in evidence.
+The confession reflects that appellant was thirty-three years of age and lived in Comanche, Texas; that he and his brother, J. W. Adams, and Billy Joe McDonald were together on the night in question, drinking beer; that while they were riding around Billy Joe McDonald said he knew of two old women who lived out on Lake Banes Road who had a lot of money and suggested that they go out there. The confession further reflects that upon arriving they all three got out of the car and Billy Joe McDonald went to the front of the house, and appellant and his brother went to the rear. Billy Joe “hollered ‘Hello,’ ” and, to quote further, “in a little bit he came around to the side of the house and asked the women where Dale Shoemaker lived.” In about five or ten minutes the two women came out the back door where appellant and his brother were standing. The women asked the brother: “Who are you?” He did not say anything. They then asked, “What do you want?” Again there was no reply. The confession further reflects, as follows: “Then my brother, J. W. Adams, grabbed the bucket that one of the women had under her arm. Then we all took off and ran back to Billy Joe McDonald’s car.” They then drove on back to town and out on the Forth Worth highway, where they stopped and split the money from the bucket in three ways. Appellant stated that he got about $8,000 for his part.
+The evidence in the case reflects that the lard bucket contained in excess of $15,000 in money.
+The testimony of the state’s witness, Miss Lona Anderson, reflects that she and her sister, Miss Hester Anderson, lived near Comanche, Texas, alone; that on the night of the offense she had taken an aspirin and gone to bed, when her sister Hester woke her and said there was “a bunch of men out there at the back of the house”; that they got up and saw an old car parked out there * * * and Hester said, “Let’s get out and go to Mr. Burtons,” Mr. Burton being a neighbor living just a little distance away. The women then got dressed and went out the door to go to the neighbor’s. Quoting further from the testimony: “* * * this boy come around the house and headed us off and Hes says, ‘What are you doing?’ and he wouldn’t say a word and he just come around me and grabbed the money and went on off with it.” The witness testified that she and her sister had their money in the bucket on the night of January 15, in some little envelopes; that they kept the bucket at the head of the bed so that if the house caught fire they could take care of it.
+Quoting from the testimony of the witness adduced by the district attorney on direct examination:
+“Q. All right. When you went outside, did you see anybody then? A. No, sir.
+“Q. Did anybody * * *. A. They was gone.
+“Q. No, ma’m. When you got outside the house. A. There was an old boy come around and met us.
+“Q. All right. This old boy came around and met you, when you got outside the house? A. Yes, sir.
+“Q. What did he do then? A. Well, he just walked around and headed us off, and Hester asked him * * * I said ‘Shoot him, Hester.’
+“Q. You told Hester to shoot him? A. Yes, sir.
+“Q. What did he do when you told Hester to shoot him? A. Why, he taken the bucket and went on.
+“Q. All right, where was the bucket? A. In my arms.
+“Q. All right. How did he get the bucket away from you? A. He just taken hold of it and pulled it out of my arms.
+“Q. Took hold of it and pulled it out of your arms? A. Yes, sir.”
+The cross-examination of the witness by appellant’s counsel reflects the following:
+“Q. Miss Lona — I’m the attorney representing this defendant. You have testified as to the bucket here. Now you have told the District Attorney that whoever took it just grabbed it out of your arms? A. Yes, sir.
+“Q. Did you have it under your arms? A. Just under my arm.
+* * * *
+“Q. What did he say to you, Miss Lona? A. He didn’t say a word.
+* * * *
+“Q. Did he hit you ? A. No, sir.
+“Q. Didn’t threaten you or say anything to you? A. No, sir. Didn’t say a word. Just taken our money and went on with it.
+“Q. Are you able to identify the person who took the money, Miss Lona? A. Well, I have done it. He was a little old brown sun-burned boy with curly hair.
+“Q. Did it occur to you, could you testify whether he was a Negro or white man? A. Well, Hester thought he was a Negro.
+“Q. Do you suppose it might have been? A. I don’t know.”
+The state’s testimony adduced from the witness Hester Anderson reflects as follows:
+“Q. What waked you, Miss Hester? A. A big bunch of men, sounded like about a half dozen or two out the front talking, and it made us awful nervous and I says wake up Lona, there’s something sure enough around. She always called me to hunt the boogers * *
+The witness then related:
+“Somebody come up to the window. We couldn’t see how many it was, or whether there was more than one. There was one talked to us. * * * He asked if the Anderson sisters didn’t live there and I told him yes, and so he asked then where Mr. Shoemaker lived and I told him I didn’t know Mr. Shoemaker and Lona said he lived down about the store, so every- • thing, got quiet and we got dressed and got on the back porch to see * *
+The witness then related that Lona was carrying the bucket; that they started up to Mr. Burton’s and “somebody stepped in front and wouldn’t let us go any further * * *. They would run around us and cut us off * * * and Lona said ‘Shoot ’em,’ and he just showed me a little bright thing like a pistol and put it up there to his belt. I don’t know whether it was a pistol or what it was. It looked like one.” When asked “Did it scare you?” the witness’s answer was “Sure did.” The witness then related that he “grabbed the bucket away from her and pulled out”. She was asked how many men she saw there that night, to which question she replied, “I couldn’t see any. It was too dark, but I could hear lots of men talking.” She was then asked, “Well, you saw the one, didn’t you?” She replied, “Yes, sir * * * it was a man, I couldn’t see, it was too dark through the window.” When asked the question, “Now the one that came up to you and herded you around there and grabbed that pail away from Lona, was that a man?” the witness answered, “Yes, sir.” To the question “You saw him, but you can’t describe him, is that right?” the answer was, “Sure can’t.” To the question, “Was it dark out there?” she replied, “It was dark and he was dark looking. I couldn’t tell his face from a white to a black one and so I was so scared, when they left, I went to squalling for Mr. Goosby, and him and Mrs. Goosby met us out there in the front of the house and I had lost Lona, and they hunted her up and drug her out.”
+On cross-examination, when asked the question, “Did anybody threaten to harm you or Miss Lona if you didn’t give them your money?” the witness replied, “Well, I don’t think they did. They didn’t have time. Now that was all that was passed. They didn’t stay very long and we was scared to death * * The witness was asked, “Was anything said to you at all at the time the money was taken?” Her reply was, “No, sir.”
+Upon being called as a witness by the appellant, on rebuttal, Hester Anderson testified as follows:
+“Q. Miss Hester, I would like to clarify your testimony this morning just a little bit. * * * I believe you testified that whoever took this bucket from your sister just pulled it out from her arms? A. Yes, sir.
+“Q. And he did not say anything to her? Or you? A. Oh,
+he didn’t say anything to us only through the window, but that scared us bad enough.
+“Q. Was there anything that he said that caused your sister to give the bucket up? A. Well, she was just scared so bad, she give it up easy, for she knowed it was to do that or die one, she thought.
+“Q. Did he threaten to kill her? A. No, sir. He didn’t say anything * * *.
+“Q. He didn’t make any assault on you, though? A. Oh, I guess not. He * *
+The state’s testimony adduced on rebuttal from this same witness reflects as follows:
+“Q. Miss Hester, did this man keep you all from going where you wanted to go? A. Yes, sir. He just made a place around us and we was aiming to go out the back gate, we couldn’t get through the fence in Mr. Burton’s pasture.
+“Q. And he wouldn’t let you go there? A. He wouldn’t let us go there * * *.
+“Q. Were you afraid for your money, too, Miss Hester? A. Oh, I knowed we had to die, if our money was gone, we wasn’t able to work, and whoever got it would enjoy it, and we got it by hard labor.
+“Q. Now, you say this object was pointed at you, like a gun? A. No, he just had it in his hand. I can’t realize what it was, but it looked like a pistol, I don’t know.
+“Q. Was it in his hand, it wasn’t pointing at you? A. No, he just held it there that way.
+“Q. Nothing that he did then, Miss Hester, caused your sister to give that money up, except him just snatching it out of her hand? A. No, sir.
+To constitute the offense of robbery by assault, the offender must fraudulently take from the person or possession of another property with intent to appropriate it to his own use, by one of three means: the making of an assault, the use of violence, or by putting in fear of life or bodily injury. Art. 1408, V.A.P.C.
+“Actual or threatened violence to the person antecedent to the robbery must exist.” Van Arsdale v. State, 149 Texas Cr. Rep. 639, 198 S.W. 2d 271.
+In viewing the statutory definition of “theft from the person” (Arts. 1437 and 1438, V.A.P.C.) we find, among other things, that:
+“The theft must be committed without the knowledge of the person from whom the property is taken, or so suddenly as not to allow time to make resistance before the property is carried away.” (Italics added for emphasis by the court.)
+The case of Polk v. State, 157 Texas Cr. Rep. 75, 246 S.W. 2d 879, was unusual in the sense that the appellant was tried and convicted upon a charge of theft from the person, but he contended that the trial court erred in that the testimony showed “an assault with intent to rob” rather than “theft from person”. The facts showed that appellant stuck his right hand in the complaining witness’s pocket, at which time the witness grabbed appellant’s wrist and when appellant jerked his hand away the complainant was thrown to the floor. Appellant’s contention was overruled, this court holding that the offense shown was theft from the person and that the evidence did not warrant a charge upon robbery by assault. The court further held that the money was taken so suddenly as not to allow time to make resistance.
+We think the case at bar may be distinguished from Horn v. State, 89 Texas Cr. Rep. 220, 230 S.W. 693. In the Horn case the complaining witness testified that he was ordered out of the car, that both men had pistols in their coat pockets, that he saw the handles of the pistols, and that the men kept one hand on the pistols.
+We further think that the case of Etzler v. State, 143 Texas Cr. Rep. 347, 158 S.W. 2d 495, may be distinguished from the case at bar. In that case the complaining witness testified that appellant had a pistol in his right hand and that the pistol was loaded and pointed at him. In Horn and Etzler the parties robbed handed over their property, evidently because they were in fear of life or bodily injury; here, the bucket was not handed over but snatched away from the complaining witness
+We agree that the holdings in Horn and Etzler, supra, are both correct and that the contention made by the appellant in those cases that the alleged assaulted party was not put in fear of life or bodily injury was untenable.
+The indictment in this case set forth two counts, the first being robbery by assault and the second being theft from the person.
+With the facts adduced by the state, we think the able and late lamented trial judge fell into error in not submitting the case on the second count of the indictment rather than on the first count, as he did.
+We do not feel that the evidence in this case is sufficient to sustain the conviction for robbery by assault. We find none of the necessary elements present. While we think the judgment should be reversed on this ground, we make the further observation that the conduct of the jury in its deliberations and its consideration of new and additional evidence not introduced at the trial of the case is, within itself, sufficient to warrant a reversal of the case. While this will doubtless not occur on another trial of the case, we do want to point out that the jury improperly discussed whether or not the appellant had ever been in trouble before; that one juror said that appellant had never been in the penitentiary but had been in trouble with the “local laws” many times “by getting drunk and being put in jail over night”.
+We think that consideration of other evidence by the jury, particularly in this case where appellant did not testify in his own behalf and did not put his character in issue, would, within itself, authorize a reversal, where the new evidence against the accused was detrimental to his case and probably did influence the jury adversely during deliberations. Grizzell v. State, 164 Texas Cr. Rep. 362, 298 S.W. 2d 816.
+From what has been said, the judgment is reversed and the cause is remanded.
+
+## Dissent (WOODLEY, Presiding Judge,)
+
+WOODLEY, Presiding Judge,
+dissenting.
+As I understand the evidence, it is sufficient to sustain a conviction for robbery by putting in fear, such as we affirmed in Barber v. State, 158 Texas Cr. Rep. 561, 258 S.W. 2d 87.
+In Horn v. State, 89 Texas Cr. Rep. 220, 230 S.W. 693, all elements of robbery save that of putting in fear of life or bodily injury were withdrawn by the court in his charge. Paraphrasing language used by Judge Hawkins, in the opinion affirming Horn’s conviction: Why did these elderly ladies give up their $15,000.00? Was it because they liked appellant and his companions and wanted to display their generosity? Or was it because of their appearance under the circumstances, and their conduct after they got on the scene?
+Quoting from Judge Hawkins:
+“Where the indictment alleges the robbery to have been effected by fear of life or bodily injury, the burden is of course on the state to prove it; but ‘fear’ in this connection does not mean a panic of fright to the extent of losing one’s senses or control. The party robbed may not be ‘scared’ to the extent that he is hysterical. If he feels that if he complies with the request of the robber to surrender his property, there is no danger imminent to him, in a sense he might not be scared; yet, if under the circumstances and conditions surrounding the transaction he has a reasonable belief that he may suffer injury unless he does comply with the robber’s request, the ‘fear’ required by the law is present.”
+
+## Rehearing (MORRISON, Judge.)
+
+ON state’s motion for rehearing
+MORRISON, Judge.
+This is a companion case to J. W. (Dub) Adams, No. 33,846, this day decided.
+We have re-examined the evidence in the light of the authorities set forth in the State’s brief and have concluded that the acts of appellant and his companions in intercepting the women, running around and cutting them off when they attempted to flee, plus the act of exhibiting a pistol so that it would be visible to one of the women, was sufficient evidence of threatened violence to satisfy the rule set forth in Van Arsdale v. State, supra.
+Bryant v. State, 129 Texas Cr. Rep. 438, 87 S.W. 2d 722, is especially persuasive.
+: We remain convinced, however, that the case must be reversed because of jury misconduct. It was shown, and not disputed at the hearing on the motion for new trial, that when the question .of the penalty came up for discussion the foreman suggested-that they start "with a term of 20 years and, after discussing the matter from there, one member of the jury said that, if appellant had not been such a bad character and had not been in trouble with the law before, the jury “could afford” to give him a lighter sentence but that, since such were the “facts”, a heavy sentence was called for. Another juror stated, “Either the defendant Curtis Lee Adams, or his brother who is under indictment for the same offense charged against Curtis Lee Adams, has already served some time in the penitentiary for another offense.” Still another juror stated that appellant had not been to the penitentiary but had been in trouble with the local laws a lot of times.
+Since this testimony as to what occurred in the jury room was not controverted, no issue of fact was raised for the trial court’s determination and it became the duty of the trial court to grant appellant’s motion for new trial. Rogers v. State, 158 Texas Cr. Rep. 8, 252 S.W. 2d 465.
+For the reasons set forth, the State’s motion for rehearing is overruled.
+state’s motion for rehearing
+
+## Concurring in part and dissenting in part (McDONALD, Judge,)
+
+McDONALD, Judge,
+concurring in part and dissenting in part.
+I feel that this case was correctly disposed of in the original opinion. As I pointed out therein, the State failed to meet the burden of establishing, beyond a reasonable doubt, the requisites of “robbery by assault”. I cannot see how the complaining witness could have “FEAR” engendered in her by something she did not see. It was not she, but her sister, who testified that she saw a pistol. Her sister wasn’t carrying the lard bucket with the money in it.
+As I pointed out in the original opinion, the facts surrounding jury misconduct would alone warrant a reversal of this case.
+Since I feel very keenly that a correct disposition was made of this case in the original opinion, I would overrule the State’s motion for rehearing without written opinion. I am certainly not dissenting to the disposition of this case, so far as a reversal is concerned. While I concur in the reversal on account of jury misconduct, I dissent so far as the majority opinion finds the •evidence sufficient to sustain threatened violence to satisfy the rule set forth in Van Arsdale v. State, supra. I cannot see in this case any actual or threatened violence to the person antecedent to the loss of the money. The complaining witness said, “He taken the bucket and went on.” She said again: “He just taken hold of it and pulled it out of my arms.” To me, this set of facts does not fit the passive resistance shown in Bryant, cited in the majority opinion on this motion. Bryant said he was afraid and allowed his slot machine to be taken. As I view it, this case is just the same as a “purse-snatching case”.
