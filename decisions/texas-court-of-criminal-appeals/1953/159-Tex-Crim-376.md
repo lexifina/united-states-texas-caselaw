@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,678"
+decided: "1953-12-02"
+citations: ["159 Tex. Crim. 376"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Royce V. McGill v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2478833
+cites_cases: ["243 S.W. 2d 173"]
+---
+
+# McGill v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Upon a trial before the court, appellant was found guilty and fined $50 for driving while intoxicated.
+The appeal is predicated upon the claim that the evidence is not sufficient to sustain a finding that appellant drove the automobile at the time in question.
+Appellant was arrested about four miles east of Bryan, on Highway No. 21 in Brazos County, and the highway patrolmen who made the arrest testified that he was drunk and vomiting at the time of the arrest.
+Patrolman O. L. Luther testified: “My partner and I were on routine patrol and headed east on Highway 21 when we noticed this pick-up truck weaving across the center line and coming back, that is to his right, and that is the north side of the road and pull off on the shoulder. We immediately turned around and pulled behind the pick-up and saw Mr. McGill standing by the side of the car vomiting.”
+On cross-examination he testified that the car was not moving when he first saw appellant and he was standing on the outside of the driver’s side with the door open.
+On re-direct he testified that he saw the pick-up moving and did not lose sight of it before it stopped; that the pick-up was in his sight all of the time; that when he drove up appellant was on the driver’s side on the ground and the other occupant of the car, Finis Moore, was standing on the right side of the pick-up.
+Patrolman L. V. Dunigan testified: “We were on routine patrol at that time going East. I saw the lights of a car coming meeting me and pulling pretty well off of the road, off of the highway like he was going to park, then pulled back on and as we met him and passed him I noticed that he pulled off of the highway and stopped the second time and I turned around to investigate and saw that it was a little bit too close to the road, and so I pulled off the road as I intended to park and when I got to the pick-up I saw a man with his left door partly open with his head hanging out and he was vomiting on the ground and floor board of the pick-up. I asked him what his name was and he identified himself as Mr. McGill.”
+“Q. When you first saw McGill when you were able to identify him what was he doing? A. He was sitting partially under the steering wheel with the door open.
+“Q. He got out? A. After I stopped the Patrol car and walked up to the side of the door he was in the process of getting out after I had walked up on the side of his vehicle.”
+Appellant testified that his companion Finis Moore was driving the car on the occasion in question. Finis Moore did not testify.
+Spinks v. State, 156 Tex. Cr. Rep. 418, 243 S.W. 2d 173, is cited in support of the contention that the evidence is insufficient to support the judge’s finding that appellant was the driver of the pickup.
+In the Spinks case, the witness heard the crash, and when he arrived at the collision he saw appellant getting out of the car on the driver’s side. He had not seen the car in motion at any time.
+Here the officers observed the pickup truck being driven on the highway, and their attention was attracted by reason of the manner in which it was being driven. They could not identify the driver at that time, but the pickup was not out of their sight between that time and the time they drove up to it and observed appellant vomiting. He was sitting partially under the steering wheel, the left door was open, and he was in the process of getting out of the pickup on the driver’s side. The other occupant of the car was standing on the right side.
+We find the evidence sufficient to sustain the finding that appellant drove the pickup truck on the highway and that he was intoxicated.
+The judgment is affirmed.
