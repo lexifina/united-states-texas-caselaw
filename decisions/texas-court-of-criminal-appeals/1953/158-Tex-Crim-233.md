@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,124"
+decided: "1953-12-17"
+citations: ["158 Tex. Crim. 233"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. C. Johnson v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0233-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2479962
+---
+
+# Johnson v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for possession of marihuana; the punishment, ten years in the penitentiary.
+A search of appellant’s residence by two police officers armed with a search warrant resulted in the finding of 93 marihuana cigarettes.
+The validity or sufficiency of the search warrant is questioned, the appeal being predicated upon the contention that the court erred in admitting the testimony of the officers concerning the information they acquired through its use.
+Appellant called the justice of the peace who issued the warrant to the stand, and he testified, in the absence of the jury, that after it had been issued, served, and returned, he “finished filling it out” and “filled in the name.”
+The record does not contain the search warrant, nor are its contents, before or after the search, shown.
+The search warrant as it existed at the time of the search must be looked to in passing upon its sufficiency, and any additions or amendments made after the search must be disregarded.
+We are not informed as to the contents of the search warrant at the time of the search and are, therefore, unable to appraise appellant’s contention that it was then insufficient for want of proper allegations describing the premises to be searched and naming or describing the occupant thereof.
+Appellant complains that the state was permitted to prove that upon the officers finding the marihuana cigarettes, appellant said, “You got me cold, Mr. Jackson. What else can I say?” and “You caught me.”
+The statements appear to have been res gestae. In any event, in the absence of a showing that the evidence was not admissible as res gestae, reversible error is not shown.
+The judgment is affirmed.
+Opinion approved by the Court.
