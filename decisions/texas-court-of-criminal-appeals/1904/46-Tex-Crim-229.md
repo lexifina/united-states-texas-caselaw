@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2826"
+decided: "1904-02-24"
+citations: ["46 Tex. Crim. 229"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dr. N. J. Atkinson v. The State."]
+source_url: "https://static.case.law/tex-crim/46/cases/0229-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 175271
+cites_cases: ["14 S. W. Rep., 394", "27 Ind., 56", "38 Texas Crim. Rep., 14", "5 Ind., 75", "50 Ind., 95", "56 Ind., 156", "72 Ind., 294", "76 Ind., 526"]
+---
+
+# Atkinson v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted for selling liquor to a miner, without the written consent of the parent or guardian of the minor. The evidence seems to be uncontroverted that appellant was a physician and gave George Anderson a prescription for intoxicating liquors to be used as a medicine. The prescription is in the terms of the law. Anderson is shown to be a minor, about 18 or 19 years of age; and the facts for the prosecution and defendant show that Anderson was sick at the time. The prescription was given after the local option law had gone into force in the territory. The question as to the minority of Anderson was not mentioned or discussed between Anderson and appellant, and appellant indicates if he had thought about it at all,'he would have thought Anderson was about 21 years of age, but really that question did not enter his mind. He gave the prescription because the boy was sick and needed it. Appellant proved good character as a physician, man, etc. We will treat the case from the standpoint that appellant knew or had reason to believe that Anderson was under 21, the real facts showing him to be about 18 or 19. The general rule is that, “Where local option has been put into operation, it constitutes the exclusive system for the regulation or manner of liquor selling in the given locality, and has the effect to suspend and abrogate during its continuance all laws and provisions of law which are inconsistent with such local option law as well as those laws which prescribe penalties for violation of liquor selling.'” This has been the rule in Texas since the Robertson ease, 5 Texas Crim. App., 1&5. See also Black on Intox. Liq., secs. 90, 104. The local option law provides that intoxicants can be sold as a medicine in case of actual sickness in a local option territory, and with no other saving clause, except the sale of wine for sacramental purposes. This is inconsistent with the law prohibiting the sale to minors except upon the written consent of the parent or guardian, when the liquor is sold on prescription, and being inconsistent it must be considered as suspending that law during the operation of the local option law. Aside from the local option law there is another phase of the case well enough to notice. From the authorities the rule is deducible that where statutes like ours prohibiting the sales to minors, and most of the States in the Federal Union have practically the same law, where the sale is for medicine, it is not within the inhibition of the statute prohibiting sales to minors. This question has been frequently decided, in the States of the Union as well as our own State. 38 Texas Crim. Rep., 14. As said in Ball v. State, 50 Ind., 95, “The main rule in construing a statute is to give it rational and practical effect to the intention of .the law making power. All other rules fall within this fixed principle of jurisprudence. A clause in the statute which is repugnant to the general act and can not be construed in harmony with it must be held inoperative. So, in construing a statute, all effects which are unnatural, absurd or unjust must be held as implied exceptions, the same as if they had been expressed in words. Thus the law mentioned by Puffendorf, which forbade a day-man to lay hands on his priest/ was held to extend only to him who had hurt a priest with a weapon. And the Bologinian law, also from Puffendorf, which enacted, That whoever drew blood in the street should be punished with the utmost severity/ was held not to extend to the surgeon who opened the vein of a person who fell down in the street with a fit. These are trite examples, but very apt.” Lindley v. Braxton, 27 Ind., 56; People v. Board of Com., 3 Seam., 153. For a further discussion of this question see the case of Ball v. State, supra. To the same effect is 56 Ind., 156; 72 Ind., 294; 76 Ind., 526; 11 Am. and Eng. Enc. of Law, 703; 86 U. C., 708.
+For the reasons indicated, the judgment is reversed and the cause remanded.
+Reversed and remanded.
