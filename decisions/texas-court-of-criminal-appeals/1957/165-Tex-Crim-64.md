@@ -1,0 +1,112 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,591"
+decided: "1957-02-27"
+citations: ["165 Tex. Crim. 64"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. L. McLarty v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2614197
+cites_cases: ["110 S.W. 911", "114 Texas Cr. Rep. 29", "164 Texas Cr. Rep. 244", "232 S.W. 300", "29 S.W. 2d 785", "48 Texas Crim. Rep. 149", "53 Texas Cr. Rep. 562", "86 S.W. 1027", "89 Texas Cr. Rep. 638"]
+---
+
+# McLarty v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for violation of Art. 1000 P.C.; the punishment, four years.
+The statute, now Article 1000 P.C., is substantially the same as it appeared in the original code and reads:
+“Whoever with intent to defraud shall, either by falsely reading, or falsely interpreting, any pecuniary obligation or instrument in writing, which would in any manner affect property, or by misrepresenting its contents, induce any one to sign such instrument as his act, or give assent to it in such manner as would make it his act, if not done under mistake, shall be confined in the penitentiary not less than two years nor more than five years.”
+The first question with which we are faced is the constitutionality of this statute. It is attacked as being so vague and indefinite that it fails to inform anyone as to the nature of the act it prohibits.
+This attack is bottomed primarily upon the use of the word “induce” which, it is contended, makes the statute unclear as to whether it prohibits the use of misrepresentation (1) to urge that the instrument be signed or (2) to obtain an agreement that it will be signed or (3) to obtain the actual signing of the instrument.
+We construe Art. 1000 P.C. to provide that whoever with intent to defraud shall (1) by falsely reading or (2) falsely interpreting or (3) by misrepresenting the contents of (A) any pecuniary obligation or (B) any instrument in writing which would in any manner affect property (a) induce anyone to sign such instrument as his act or (b) give assent to it in such manner as would make it his act if not done under mistake —■ shall be confined in the penitentiary not less than two nor more than five years.
+The indictment charges appellant with violating that part of the statute which, omitting other ways and means by which it may be violated, would read: Whoever with intent to defraud shall by falsely interpreting an instrument in writing which would in any manner affect property, or by misrepresenting its contents, induce anyone to sign such instrument as his act, shall be confined in the penitentiary not less than two nor more than five years.
+We overrule the contention that the statute so construed is void for indefiniteness.
+The sufficiency of the indictment is challenged upon several grounds, some of which are disposed of by our construction of the statute.
+The indictment charges that appellant did unlawfully and with intent to defraud falsely interpret and misrepresent to Warner J. Scott the contents of a certain instrument in writing affecting property.
+The instrument is set out in the indictment and purports to be an application and contract of sale under the Texas Veterans’ Land Program, Art. 5421m V.A.C.S. being made a part of the contract by reference.
+The contract recites Warner J. Scott’s eligibility as a Texas Veteran of World War II to purchase land from Veterans’ Land Board of Texas (Constitution of Texas, Art. Ill, Sec. 49b and Art. 5421m V.A.C.S.) and that Scott had complied with the requirements of the Veterans’ Land Board.
+The instrument set out in the indictment sets out a contract between appellant as seller and Warner J. Scott, the veteran, as buyer and their names appear as signers in such capacities followed by a certificate from a notary public showing their acknowledgment.
+Under the terms of the instrument appellant agreed to sell and the Veteran Scott agreed to buy a certain 139.4 acre tract of land in Guadalupe County, Texas, and Scott agreed to deliver to seller in cash $6,970.00 contemporaneously with delivery by the seller of a good and sufficient general warranty deed to the 139.4 acre tract which appellant agreed to deliver.
+The instrument further provides that the buyer (the Veteran Scott) should make with the contract a remittance to the Veterans’ Land Board of $348.50, and a separate remittance to the Veterans’ Land Board of $50 for legal fees and other allied costs.
+Also the contract provides that the buyer (Scott) may transfer and assign the contract to the Veterans’ Land Board for the purpose of resale to him.
+The instrument set out in the indictment further shows the assignment by the buyer Scott to the Veterans’ Land Board of his right, title and interest in the contract of sale. The assignment is in form of an affidavit and also purports to show Scott’s oath “I desire to purchase the land for myself and that no other person or corporation is interested in the purchase thereof, either directly or indirectly.”
+The assignment was made subject to the terms and conditions therein stated and to acceptance by the Veterans’ Land Board’s authorized representative and covered all of the right, title and interest in the contract of sale and the tract of land.
+Warner J. Scott’s name appears as “assignor (Veteran) ” and the jurat shows his acknowledgment thereto.
+The contract, assignment and certificate of acknowledgment and jurat all bear the same date, April 22, 1952.
+Following the instrument, the indictment continues: “and the said defendant did then and there falsely interpret, and misrepresent the contents of said written instrument to the said injured party, so as to cause the said injured party to believe that said instrument purported to be materially different in this, to-wit: The said defendant did then and there falsely interpret and misrepresent the contents of said written instruxnent to the said injured party as being an instrument which when signed by the said injured party, would transfer and assign to the said defendant, the right of the said injured party to purchase land from the Veterans’ Land Board of the State of Texas, without cost and without obligation to the said injured party; whereas, in truth and in fact, said instrument in writing, when signed by the said injured party, did not transfer and assign to the said defendant the right of the said injured party to purchase land from the Veterans’ Land Board of the State of Texas, without cost and without obligation to the said injured party; and the said defendant knew that said interpretations and said misrepresentations were false, and the said injured party did then and there rely upon said false interpreting and misrepresenting of the contents of said instrument in writing then and there so made by the said defendant, and the said defendant, by means of said false interpeting and misrepresenting of the contents of said instrument in writing, did then and there induce the said injured party to sign the said instrument as his act.”
+It is contended that the allegations last quoted are deficient because of the absence of an allegation of what the instrument would do, and it is insisted that in this particular the indictment falls short of the one approved in Lewis v. State, 48 Texas Crim. Rep. 149, 86 S.W. 1027, and does not follow instructions in Wilson’s Criminal Forms “here state the difference between the instrument and the false reading, etc. of the same.”
+The instrument is set out in full in the indictment and shows on its face the obligation and undertaking of both appellant and the veteran in regard to the land and the consideration to be paid for it, and the assignment of the contract to the Veterans’ Land Board. It was not necessary that the instrument contain a further allegation “of what the instrument was” or that there be further allegations to show that the instrument was one which would in any manner affect property.
+The indictment follows closely the form of indictment suggested in every edition of Wilson’s Criminal Forms (6th Ed., p. 272, Sec. 1258). It also conforms with the indictment in Lewis v. State, 48 Texas Cr. Rep. 149, 86 S.W. 1027, except that here the instrument set out according to its tenor shows the same to have been signed and acknowledged by the induced party, whereas in the Lewis case this portion of the instrument was not set out, but the indictment alleged that the injured party signed and acknowldeged the instrument.
+Branch’s Ann. P.C., Sec. 1437, commends the indictment in the Lewis case as a good indictment and a good precedent for falsely interpreting a written instrument or for misrepresenting its contents. (2d Ed., Sec. 1619.)
+The sufficiency of the evidence is challenged.
+The instrument set out in the indictment which was signed by the veteran was introduced in evidence.
+The Veterans’ Land Board was created by Sec. 49b of Art. Ill of the Constitution of Texas, and the statute referred to is the enabling act as amended, wherein said board was declared to be a state agency. Sec. 49b of Art. Ill of the Constitution provides for the issuance of bonds to create a fund to be used by the Board in purchasing land for resale to Texas Veterans of World War II; provides that all land purchased be acquired at the lowest price obtainable to be paid for in cash and to become a part of the Veterans’ Land Fund and to be sold to said veterans in such quantities; on such terms and at such prices and rates of interest and under such rules and regulations as provided or to be provided by law.
+Other provisions of the instrument have been set out in describing the indictment.
+Much of the testimony, including the fact that appellant signed the contract as “seller” and Warner J. Scott signed the contract as “buyer” and the assignment as “Assignor (Veteran) ” is undisputed.
+The contract and assignment is on a form prescribed by the Veterans’ Land Board.
+Appellant obtained from one Henry C. Koontz a contract of sale and, after the signing of the instrument in question with the Veteran Scott, acquired by deed from said Koontz 5789.4 acres of land for $152,235.00. He then sold 3701.4 acres of it to the Veterans’ Land Board in 24 tracts under veteran contracts, including that with Veteran Scott. He received for the 3701.4 acres from the Veterans’ Land Board $177,510, and after paying certain expenses including commissions to agents and substantial sums to attorneys, part of which he testified was a loan, appellant testified that he made a small profit in addition to the remaining 1900 acres, in which the mineral rights had been reserved, which land he sold for $31,000.00. He also re-tamed a small mineral interest in the tracts sold to the Veterans’ Land Board.
+The evidence shows that appellant purchased the 5789.4 acres through an agent and arranged for the agent to sell it, after it was subdivided, to veterans under the Veterans’ Land Program.
+The agent secured some veteran purchasers and thereafter appellant undertook to find other veterans to complete the undertaking.
+Warner J. Scott is a Negro and a veteran of World War II. He testified that he lived at 519 West Newman Street, Cuero, Texas, which was his home where he had resided all of his life; that he served in the United States Army, having entered the service in January 1943, and that he had an honorable discharge; that he signed the instrument in question' (which was thereafter introduced in evidence) but not before a notary public; that he did not read the instrument completely * * * “I just glanced over it and that is just about all, just glanced over it;” that he had known appellant “quite a few years.”
+Scott testified that he signed the instrument under the following circumstances.
+“A. Well, it was during the month of April, back in the year of 1952. I was at the Pleasure Spot, better known as the pool hall, on West Main Street. I was shooting a game of pool. So Shorty Robinson told me Mr. McLarty wanted to see me. And so he was parked in the rear of the pool room. So I went outside and he was there and he was talking about a land deal.
+“Q. Who was talking about this land deal, Robinson ? A. Robinson told me he wanted to see me about a land deal. So I went outside where Mr. McLarty was and I got in the car with him and we talked * * *.
+“A. So I went out and got in and there he talked to me about some papers and he told me that he would give me $50.00 if I would sign some papers, and so I asked him, ‘Papers for what?’ and he told me it was about some land, that he would have my rights for five years and that I couldn’t buy anything from the V.A. Board for five years because I would be selling my rights to him for $50.00. Well, that is what I thought I was doing, just selling my rights for $50.00, and I didn’t know I was going to be obligated to buy land or anything. So the biggest thing that I was interested in was the fifty bucks.
+“Q. All right. Now, I will ask you, Warner, whether or not prior to this meeting with Mr. McLarty that you ever heard anything about the Veterans’ Land Program? A. No, sir. * * *
+“Q. Have you ever seen this land? A. No, sir.
+“Q. I will ask you whether or not you know where it is? A. No, sir, I don’t. * * *
+“Q. Did he give you your $50.00 at that time? A. No, sir.
+“Q. How long was it before you finally got your money, if you did? A. It was in the month of September.
+“Q. And do you recall who gave you the $50.00? A. Mr. McLarty. * * *
+Appellant, who was also a veteran of World War II and a resident of Cuero, testified regarding the acquisition of the tract of land from Mr. Koontz, testified that he deeded the land he sold to a number of veterans to the Veterans’ Land Board and the remainder to a gentleman from Corpus Christi; that the Veterans’ Land Board in time contracted to sell the tracts to veterans; that he subdivided the tract and employed the relators who sold him the land to sell the tracts and they sold some 15 of the subdivided tracts.
+Appellant’s version of his dealing with Warner J. Scott, whom he had known for some 6 or 7 years, is shown by the following quotations from his testimony:
+“Q. Did you ever talk to Warner J. Scott concerning any part of the land, of the McLarty Ranch? A. Yes, sir, I certainly did.
+“Q. Where did you talk to him the first time? A. As well as I remember, the first time I talked to him was in my car behind a little tavern down on West Main Street in Cuero known as the Pleasure Spot.
+“Q. And what was your purpose in seeing him then? A. To try to sell him a piece of this land.
+“Q. Did you try to sell him any of the land. A. Yes, Sir.
+“Q. Was he interested or not in buying any of it? A. He said that he wasn’t able to buy any land.
+“Q. And then did you have some further conversation with him concerning the land? A. Yes, sir, I did.
+“Q. What was that conversation, the nature of it? A. My further conversation with him was that if he weren’t able to buy the land, that he purchase the land or make affidavit to purchase the land and allow me to pay for the land for him.
+“Q. Now, did you say affidavit or application? A. Application.
+“Q. All right. Then what happened? A. And I told him that if he would do this, make application to buy the land, and if the Veterans’ Land Board approved his application to purchase the land and it was finally consummated, that I would pay him $50.00.
+“Q. Did you tell him that you would pay the Veterans’ Land Board for the land or cause it to be paid? A. I told him I would either pay for it or cause the payments to be made for him.
+“Q. Then what did Warner J. Scott say about that? A. He said he would be willing to do that. * * *
+“Q. Now, did Warner J. Scott leave a check with the application or deliver any money to the Veterans’ Land Board along with that application? A. No, sir, he didn’t. * * *
+“Q. Did Warner J. Scott put up anything? A. No, sir, nothing. * * *
+“Q. Now, I believe you stated a moment ago at the time he signed the application he signed some other papers? A. Yes, sir.
+“Q. Do you know what other papers he signed? A. Yes, sir.
+“Q. What other papers did he sign at that time? A. He signed a power of attorney, he signed a five year lease and he signed a quit claim deed. * * *
+“Q. Let me ask you this, I believe you told each and every one of these veterans, did you not, that it wouldn’t cost them anything? A. Those that you mentioned there that signed.
+“Q. Those that you wanted to use their names, that is, you wanted to get them to make application and use their names, the ones you paid the $50.00 to? A. Yes, sir.
+“Q. You told them that it wouldn’t cost them anything? A. That is correct.
+“Q. Now, did you ever get any agreement or any written agreement to that effect in any way? A. No, sir. * * *
+“Q. Did Warner J. Scott tell you he wasn’t able to buy the land? A. Yes, sir, said he didn’t have the money to buy the land. * *
+We find the evidence sufficient to sustain the jury’s verdict.
+There are other claims of error. Bill of Exception No. 1 complains that the trial court abused his discretion in refusing the request to permit the examination of each prospective juror individually and out of the hearing of the balance of the panel.
+The Juror Troell was the third juror examined, the first two having been challenged for cause. Troell stated in the presence of the other panel members that he thought the defendant was guilty and he and eight others who had a fixed opinion were excused. Eight jurors who heard Troell’s statement were accepted as jurors before the panel was exhausted, at which time appellant had not exhausted his peremptory challenges.
+No motion to have the members of the panel excused was made and there was no request to have the jurors instructed to disregard the juror’s remark.
+In Pena v. State, 114 Texas Cr. Rep. 29, 29 S.W. 2d 785, the trial judge declined to permit separate interrogation of the prospective jurors in the absence of the other veniremen. The Pena case was reversed because the court failed to instruct the jury that they were not to take into consideration certain matters about which they learned through hearing the voir dire examination of other jurors.
+In Eason v. State, 89 Texas Cr. Rep. 638, 232 S.W. 300, certain remarks of the trial judge to the jury panel were held to be improper but this court declined to reverse because no motion to quash the jury panel was made on account of the judge’s lecture.
+In the recent case of Brown v. State, No. 28,617, 164 Texas Cr. Rep. 244, we cited the Pena and Eason cases and held that any error arising from a juror’s statement on voir dire was waived when no motion was made to discharge the members of the jury panel who heard the remark.
+It is contended that the trial court erred in overruling appellant’s objection to the impeaching testimony of the witness Roland Kenneth Towery.
+Don Thomas, an attorney, testified that he had talked to several witnesses in the case in behalf of appellant and that he interviewed the veteran Warner J. Scott who made a statement to him. The statement identified by Mr. Thomas and offered in evidence was in conflict with some of Scott’s testimony at the trial. If was offered and admitted for impeachment purposes, the predicate having been laid upon cross-examination •of the Veteran Scott, who said he believed the statement had been changed or altered since it was signed.
+The witness Don Thomas, having identified the statement, testified that there were no changes made in the contents or context of the instrument.
+The state, on cross-examination of Mr. Thomas, asked him if it was not a fact that he told Roland Kenneth Towery that he wouldn’t bribe a witness but would sure “con” one if he could, to which Mr. Thomas answered: “I don’t recall having told him any such thing as that.”
+As the last witness for the state, Roland Kenneth Towery was called, and, over the objection that it was an attempt to impeach the Witness Thomas on a collateral matter, was permitted to testify that Mr. Don Thomas had told him that he would not bribe a witness but would “con” one.
+Appellant relies upon the rule that impeachment upon a collateral or irrelevant matter is not permissible.
+The testimony of the Witness Towery was admitted as tending to show bias, interest, prejudice and motive on the part of the Witness Don Thomas, and was admissible under the rule stated in Branch’s Ann. P.C., p. 93, Sec. 163 (2d Ed. p. 192, Sec. 185) as follows:
+“The motives which operate upon the mind of a witness when he testifies are never regarded as immaterial or collateral matters. The adverse party may prove declarations of a witness which tend to show bias, interest, prejudice, or any other mental state or status which, fairly construed, might tend to affect his credibility.”
+See also Lowry v. State, 53 Texas Cr. Rep. 562, 110 S.W. 911.
+Appellant testifying in his own behalf stated that he had representing him among others Wiley Cheatham, one of the prosecuting attorneys representing the state at the trial, and that Wiley Cheatham prepared for him a power of attorney.
+Complaint is here made that Wiley Cheatham was permitted to testify regarding the preparation by him, at appellant’s request, of a general power of attorney in blank, because of the attorney and client relationship which then existed between appellant and Mr. Cheatham.
+We find no objection upon that ground in the record and no reversible error is shown by the bill.
+The remaining complaint is that state’s counsel was permitted to argue that the appellant should have read depositions from the Witness Bell.
+Appellant objected and excepted to the remarks “because the depositions were not taken in this case. It was a civil suit.”
+The absence of Mr. Bell had been referred to in the argument of other counsel and the depositions of other witnesses taken in the civil suit had been read as evidence at the trial in appellant’s behalf without objection. Also, the trial court expressed the belief that the complained of remark was provoked by argument of defense counsel and was properly in reply thereto.
+In the state of the record we find no reversible error in the argument complained of.
+The judgment is affirmed.
