@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2151"
+decided: "1912-12-18"
+citations: ["68 Tex. Crim. 621"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. W. Abbott v. State."]
+source_url: "https://static.case.law/tex-crim/68/cases/0621-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4652013
+---
+
+# Abbott v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+— The record is before us without a statement of facts or hills of exception.
+There is filed in this court appellant’s brief in which it is suggested-that under the rules the record should contain a statement of the facts which must set out a complete statement of the evidence introduced on the trial, including copies of all papers, documents and exhibits. It is contended as this matter is statutory and a failure to comply with "said rules, regardless of the fact of whether defendant has filed any statement of facts or not, should cause a reversal. Appellant states in the brief that he was not able to have a statement of the facts, adduced on the trial, drawn up and approved. It is urged inasmuch as the Constitution, Article 1, section 19, provides that an accused person shall not he deprived of his liberty without due process of law, that in the absence of the statement of facts this would he the result. It is also urged that the Legislature in 1892 provided, by enactment, rules as to the preparation of the transcript of the record, and following these rules is the only manner in which the Constitutional right of the appellant can he maintained. It is further asserted that this Act provides the manner in which the accused- may be deprived of his liberty and failure to comply with same is not due process of law. The contention here is that so long as there is no statement of facts before the Appellate Court whereby the court may pass upon the sufficiency of the evidence to sustain the verdict, it is the duty of the court, in order to protect the constitutional rights of the accused and have his case passed upon by the court, to reverse the judgment. The statute, as we understand it, provides that a statement of facts may he prepared and approved by the Judge who tried the case and if accused is not able to secure a statement of facts by reason of a want of financial ability, he may make affidavit to that effect and the statement of facts will be prepared, but there must be some showing on his part that he was not able to secure a statement of facts and that he has used proper diligence to secure the same in order to have thcie matters reviewed on appeal. If the accused is deprived of a statement of the facts, or if he fails to obtain a statement of facts, when there is no want of diligence on his part, the judgment may be reversed for that reason, but it must be made apparent to this court in some way that it is no fault of his. There is no affidavit or other evidence of the fact that he was unable to secure the statement of facts, or that he was in any manner deprived of securing the same. Without some showing of this sort this court would not be authorized to reverse a judgment. It is not sufficient reason to reverse a judgment that the record does not contain a statement of the facts, unless it is shown that it arose from no want of diligence on the part of the accused. This is not shown.
+As the record is presented this judgment must be affirmed and it is accordingly so ordered.
+Affirmed.
