@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,004"
+decided: "1960-06-22"
+citations: ["170 Tex. Crim. 88"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marion Charles Rolan v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2626239
+cites_cases: ["129 S.W.2d 646", "130 Tex. Cr. R. 37", "137 Tex. Cr. R. 405", "91 S. W. 2d 715"]
+---
+
+# Rolan v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for felony theft; the punishment, two years.
+The state’s evidence was to the effect that appellant went to C. F. Garrett’s place of business in Andrews on April 12, 1955, and arranged to sell some thread protectors, stating that he had them at home and would bring them.
+The following day he brought the thread protectors which had been stolen from a Woodley Petroleum lease during the night, and sold them to Garrett for $43.54.
+Later the same day Mr. Garrett delivered the thread protectors to Sheriff Peacock who also obtained the license number of the automobile.
+The sheriff went to appellant’s home and waited for him, and after finally making contact appellant admitted selling the thread protectors to Garrett and said that he got them on a lease west of town, and that “a man gave them to him out there.”
+Appellant was charged with the theft of the thread protectors, the value of which was alleged and proved to be more than $50, and was indicted in July 1955. He failed to appear, as, required by his appearance bond, and was not arrested until January 1956. Trial resulting in the conviction appealed from was had in November 1956.
+Appellant did not testify. He called his wife who testified that he came home on the night of April 12, 1955, about midnight, went to bed and did not leave until 8 the next morning. She also testified that appellant acquired the thread protectors in Andrews, “right across from where we were living at the time” from a man whose name she did not know; that the man had a flat and offered to sell the thread protectors to appellant for $20, and that he went to the junk yard to see if they would buy them and then went back and bought them.
+It should be remembered that according to the state’s witness Garrett appellant had arranged the sale before the thread protectors were removed from the lease west of town.
+On cross-examination of the wife" her attention was directed to the motion for continuance which appellant had sworn to and filed in February 1956, which stated that he was not in Andrews County on the date she had testified he was at home.
+The jury resolved the defensive issues raised by his wife’s testimony against him and the evidence is sufficient to sustain its verdict.
+Appellant’s first ground for reversal is predicated upon the contention that the statements of appellant to the sheriff were inadmissible because the facts show he was under arrest when he made them. We do not agree.
+The sheriff was investigating the matter of the missing thread protectors which had been found in Garrett’s possession. Garrett had informed him that he purchased them from appellant. The sheriff then located appellant and interrogated him.
+The sheriff testified that he arrested appellant after talking to him for some 45 minutes, and at no time prior to such arrest did he advise appellant or state to him that he intended to arrest him.
+Sheriff Peacock did testify on cross-examination that if the appellant had sought to leave or escape he would have tried to stop him because he wanted to talk to him, but he also testified that if he had refused to talk to him the appellant would have been free to go, but in such event he would have gotten a warrant.
+The remaining ground for reversal relates to the interrogation of appellant’s wife on cross-examination concerning the facts sworn to by appellant in his motion for continuance.
+The sworn statement of appellant that he was not in Andrews County at the time his wife testified he was at home in bed, in Andrews, was admissible to refute and contradict her testimony and as a “guilty circumstance.” Calloway v. State, 137 Tex. Cr. R. 405, 129 S.W.2d 646; Wright v. State, 130 Tex. Cr. R. 37, 91 S. W. 2d 715.
+The judgment is affirmed.
