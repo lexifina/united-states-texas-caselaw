@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,605"
+decided: "1956-12-12"
+citations: ["164 Tex. Crim. 42"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Floyd Chester Rubin v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2607771
+---
+
+# Rubin v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Appellant was convicted as a second offender of unlawfully possessing marijuana, a narcotic drug, and was assessed punishment at confinement in the penitentiary for twenty years.
+The sole question presented is the sufficiency of the evidence to support the conviction.
+The state’s testimony shows that, while narcotic officers, Stringfellow and Gray of the Houston Police Department, were interrogating two known narcotic suspects standing at the curb in the 1400 Block of West Webster Street, the appellant walked up behind Officer Gray. Officer Stringfellow testified that, as the appellant approached, he noticed one of the suspects shake his head in a negative manner and observed that the appellant was “shaky;” that, after he asked him his name, the appellant walked away and entered a cafe; that he then noticed a cigarette lying on the sidewalk where the appellant had been standing and after he picked it up he and Officer Gray went into the cafe, arrested the appellant and carried him to the police station, where Officer Gray took pocket dustings from the appellant’s shirt pocket. Officer Stringfellow further testified that he had observed the sidewalk before the appellant came up; that the cigarette was not present at that time but he saw it immediately after the appellant left.
+Officer Gray, in his testimony, substantially corroborated that of Officer Stringfellow and identified the cigarette as the one picked up by Officer Stringfellow where the appellant had been standing and the pocket dustings taken by him from the appellant’s shirt pocket following his arrest.
+Chemist McDonald testified that he made both a chemical test and a microscopic examination of the cigarette, which tests disclosed that it contained marijuana. He further testified he made a microscopic examination of the dustings but did not make a chemical analysis because he “didn’t have enough with which to conduct a chemical test;” that the examination disclosed that the pocket dustings contained numerous particles of marijuana mixed with particles of tobacco dustings and lint, and that between twenty and twenty-five per cent of the dustings was marijuana.
+Appellant’s prior conviction as alleged in the indictment was stipulated.
+As a witness in his own behalf, appellant denied that he dropped the cigarette on the sidewalk, and stated that he had not had any marijuana in his possession since he was released from the penitentiary some two years before. He further testified that the shirt he was wearing was a work shirt he kept at the Palace Boot Shop, where he was employed; that the shirt was worn by other shine boys and his father; and that, on the day before, it was worn by Bob Fields, one of the narcotic suspects with whom the officers were talking on the occasion in question.
+Appellant takes the position that the conviction was for possession of the particles of marijuana found in the shirt pocket and insists that the evidence is insufficient to support the conviction for two reasons: First, it is contended that, under his evidence a reasonable hypothesis was created that others could have possessed the particles of marijuana in his shirt pocket and the state’s evidence failed to disprove such outstanding hypothesis; and secondly, that the particles of marijuana found in his shirt pocket were of insufficient amount to constitute an offense under the Uniform Narcotic Act.
+The sufficiency of the evidence to support the conviction need not be tested solely from the standpoint of possession of the particles of marijuana in the appellant’s shirt pocket because of the other evidence showing the finding of the cigarette on the sidewalk where the appellant had been standing.
+We do not construe the court’s charge as restricting the jury to a consideration of the evidence relative to the particles of marijuana in passing upon the issue of appellant’s guilt. Although the court instructed the jury to acquit the appellant if they believed or had a reasonable doubt that someone other than the appellant put the dustings in his pocket and he did not know of their presence, the jury was authorized, under the charge, to convict the appellant upon a finding that he possessed marijuana, which included the particles of marijuana in his pocket and the cigarette on the sidewalk.
+We think the state’s testimony showing the circumstances under which the cigarette was found and the finding of the particles of marijuana in the appellant’s shirt pocket is sufficient to show that appellant dropped the marijuana cigarette on the sidewalk and did therefore possess marijuana. Such circumstantial evidence does, in our opinion, exclude every other reasonable hypothesis except that of appellant’s guilt and is sufficient to support the conviction.
+The judgment is affirmed.
+Opinion approved by the Court.
