@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1766"
+decided: "1912-05-08"
+citations: ["66 Tex. Crim. 405"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. L. Stephens v. The State."]
+source_url: "https://static.case.law/tex-crim/66/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4631737
+cites_cases: ["47 Texas Crim. Rep., 35"]
+---
+
+# Stephens v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of injuring a house belonging to Barham.
+Among other things, it is contended the evidence is not sufficient to support the conviction. The testimony for the State discloses that defendant had a contract with Barham by which he was to paint two houses for the sum of nineteen dollars. They had a disagreement and Barham ordered appellant to leave the premises. When this occurred the alleged owner of the house went away. The door which is alleged to have been injured he testifies was in good condition. That evening the door was defaced and injured, and the next morning he observed that the door was injured. Hendricks' testified that appellant had been painting the house, that he saw Barham and appellant in conversation but did not hear what was said between them. Somewhere in the neighborhood of three o’clock he saw appellant on the premises. There was also near the house and in front of it some boys about fourteen or fifteen years of age. He saw defendant have a knife; he was standing out on the ground whittling. Jones testified that he knew the defendant, and that he had been painting the inside of a house for Barham; that he saw Barham and appellant have a conversation but did not hear it; that after Barham left he saw appellant about the place. R. T. Barham testified that he was the father of the alleged owner, Barham, and was superintending the work of painting the houses and looked after them for his son. He had a phone message the afternoon after the conversation between his son and appellant to the effect that the door and some of the windows in one of the houses had been defaced. The next morning he went to the house and examined the door and found it cut and mutilated, so that he had to remov.e it. All of these witnesses testify that they did not' see the defendant cut the door, did not see him in the house, and they knew nothing about it further than as above stated. Appellant testified in his own behalf that he had a disagreement with Mr. Bar- ■ ham with reference to the painting, and emphatically denied that he injured the house in any way. He ate his dinner near the house and used his knife in eating his dinner. After this disagreement occurred he got his paint ■ brushes preparatory to cleaning them, and subsequently gathered up his buckets and brushes and things he used in connection with the painting, and went away. He denied having cut the door or windows, or in any manner defaced the property, or had any connection with it. He testified that he had better sense than to do such a thing, and would not do such a thing. When he left the house the door and window frames and all the premises were free of mutilation or injuries of any kind. There were other people coming around and about the house, and that they could get into the house if they desired; that Mr. Jones well knew this; that he left Mr. Jones and Hendricks engaged as workmen on the other house next to the one on which he was working; that he had done good work for Mr. Barham; that there was a difference between them as to what he, Barham, owed him on the contract, and that he threatened to file his mechanic’s lien in order to secure his debt. This’ is the case. We do not believe the evidence is sufficient to justify the conviction.
+The judgment is reversed and the cause is remanded.
+Reversed and remanded.
