@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "995"
+decided: "1896-05-27"
+citations: ["36 Tex. Crim. 128"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ben Childers v. The State."]
+source_url: "https://static.case.law/tex-crim/36/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2360580
+cites_cases: ["31 Tex. Crim. Rep., 467", "31 Tex. Crim. Rep., 521", "32 Tex. Crim. Rep., 184"]
+---
+
+# Childers v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant was convicted of cattle theft. The statement of facts found in the record was filed on March 21st, 1896, the same day on which the motion for a new trial was overruled, and on which day the court adjourned, but the statement of facts is not approved by the trial judge. A consideration of said statement of facts or a reversal of the judgment is asked by appellant, because of the failure of the judge to sign and approve the same. In support of these contentions, the appellant’s attorney filed an affidavit in this court, showing that he and the District Attorney agreed upon a statement of facts on March 21st, shortly after the adjournment of the court, and he, on the same evening, signified to the trial judge that fact, and informed him at the same time that the statement of facts was on the clerk’s table, and that the judge answered all right, and he believed the court had signed said statement of facts, and knew no better until the transcript was made up in this case; that he then wrote to the judge, requesting said judge to authorize the clerk of the court to attach his (the judge’s) signature to said statement of facts as approved. And, in support of this affidavit, he attaches the letter of the trial judge. The judge refused the request of the appellant’s counsel in the following language: “The state ment of facts has never been presented to ine for examination, and I know not what it contains, and would not allow any one to sign my name to an official document under any circumstances, more especially when I do not know its contents. If it has been filed with the clerk, it is a file paper in the case; and to withdraw the same and alter it, by such action I would be laying myself liable to a prosecution for illegally altering a filed paper. I thought several times of the case being without a statement of facts, and wondered why, if you and the District Attorney had agreed on a statement of facts, you had not sent the same to me for approval, but did not think to ask him about it when I was with him.” As this matter is presented on the .affidavit of counsel and the attached letter of the trial judge, it shows an utter want of diligence to procure said statement of facts. The statement of facts is shown, both by the affidavit and the letter, never to have been presented to the judge for his approval. This question as presented has been decided adversely to the appellant by a long line of decisions in this State. See, George v. State, 25 Tex. Crim. App., 229; Farris v. State, 26 Tex. Crim. App., 105; Spencer v. State, 25 Tex. Crim. App., 585; Kutch v. State, 32 Tex. Crim. Rep., 184; Aistrop v. State, 31 Tex. Crim. Rep., 467; Bell v. State, 31 Tex. Crim. Rep., 521. Under these authorities, the diligence is not sufficient, and the statement of facts cannot be considered. The action of the court in overruling the application for a continuance, in the absence of a statement of facts, cannot be considered. The defendant attached to his motion for a new trial the affidavit of one Ed. Childers, as to certain facts to which he could testify upon another trial of this case, tending to prove an alibi. The reason assigned for not using due diligence upon the trial of the case for this witness is that he was then under indictment for the theft of the same cattle which appellant was convicted for stealing. The case against him was-dismissed after appellant’s conviction. Coming as it does, and in the absence of a statement of facts showing its materiality, we are unable to say that this testimony would have tended in the slightest manner to have brought about, upon another trial, a more favorable verdict for the appellant, or that the testimony of said witness would have been material or probably true. See, Willson’s Crim. Stat., § 2544; Rucker v. State, 7 Tex. Crim. App., 549; Jones v. State, 23 Tex. Crim. App., 501. As the record is presented to us, the judgment must be affirmed, and it is so ordered.
+[Note.—A motion for rehearing was overruled without a written opinion. —Rep orter. ]
+Affirmed.
