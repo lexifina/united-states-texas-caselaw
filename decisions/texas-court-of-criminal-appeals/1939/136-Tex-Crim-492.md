@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "20292"
+decided: "1939-03-29"
+citations: ["136 Tex. Crim. 492", "126 S.W.2d 671"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Travis McKnight v. The State."]
+source_url: "https://static.case.law/tex-crim/136/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5796802
+cites_cases: ["114 Tex.Cr.R. 468", "115 S.W.2d 636", "116 S. W. (2d) 399", "116 S.W.2d 399", "134 Tex.Cr.R. 373", "134 Tex.Cr.R. 524", "134 Texas Crim. Rep., 373", "197 S. W. 189", "197 S.W. 189", "20 S. W. 547", "20 SW. 547", "22 S. W. (2d) 944", "22 S.W.2d 944", "245 S. W. 430", "245 S.W. 430", "31 Tex. Cr. R. 251", "31 Tex. Cr.R. 251", "81 Tex.Cr.R. 568", "93 Tex. Cr. R. 51"]
+---
+
+# McKnight v. State
+
+## Majority (Christian, Judge.)
+
+Christian, Judge.
+The offense is theft; the punishment, confinement in the penitentiary for two years.
+A former appeal is found reported in 134 Texas Crim. Rep., 373, 115 South Western, Second Series, at page 636.
+The testimony adduced upon the present trial is substantially the same as that set forth in the opinion upon the former appeal, from which we quote as follows:
+“The record shows that during the night of August 23, 1937, appellant stole four tires, tubes, and rims, from the Airline Motor Coach Company, of which C. D. Thomas was manager and had exclusive possession at the time in question.
+“Immediately after the commission of the theft, appellant engaged one Travis Stille, a taxicab driver, to take him, along with the stolen property, to Houston, where he disposed of it to a dealer in secondhand goods of this character. After appellant was arrested, hg admitted to Mr. Strode, a policeman of the town of Nacogdoches, that he took the tires, tubes, and rims from the Airline Motor Coach Company and sold them in Houston to a dealer in secondhand goods. He took the officers to the place where he had disposed of the goods, and all but one tire was recovered.”
+Appellant did not testify and introduced no witnesses. It has already been observed that appellant admitted to Mr. Strode, a policeman of the town of Nacogdoches, that" he stole the tires in question and carried them to Houston. Also he carried the officers to the place where he had disposed of the stolen property, and all but one tire was recovered. Mr. Thomas, the manager of the Airline Motor Coach Company, positively identified the stolen property as belonging to his company. In view of the fact that appellant’s guilt was plainly established by uncontroverted testimony and his own admissions, we are unable to perceive how the failure of the court to instruct the jury that one accomplice witness could not corroborate another could have injured appellant. Neither does it appear to us that the failure of the court to instruct the jury that statements made by the accomplices out of court could not be taken as corroborative of their testimony given upon the trial could have prejudiced appellant’s rights. Conceding that it would have been proper for the court to have given such instructions, and that in some cases the failure to do so would constitute reversible error, we do not think that the present case presents such an example. In Bogan v. State, 22 S. W. (2d) 944, this court used language as follows:
+“The statute precludes the conviction of one accused of crime upon the uncorroborated testimony of an accomplice, and in proper case an instruction to the jury to that effect is necessary. See C. C. P. Art. 718, Vernon’s Ann. Tex. C. C. P. 1925, Vol. 2, p. 773, note 20, p. 795, and note 29 under Article 658, page 167, of the same volume. Under Article 666, C. C. P., which forbids the reversal of a case for a harmless error in the charge, it has been held that it was not necessary in every instance in which an accomplice witness testified to instruct the jury upon .the subject. In other words, the failure to do so is not in all cases reversible error. See Fisher v. State, 81 Tex. C. R. 568, 197 S. W. 189; Wilkerson v. State, 93 Tex. Cr. R. 51, 245 S. W. 430; also Trent v. State, 31 Tex. Cr. R. 251, 20 S. W. 547. The evidence in the present instance is regarded as bringing the case within the exception to the rule requiring a charge on accomplice testimony.”
+See, also, Haines v. State, 116 S. W. (2d) 399.
+At the conclusion of the testimony appellant moved the court to instruct the jury to disregard the testimony of the police officer to the effect that appellant told him that he had stolen the property in question and directed him to its location. We think the motion was properly overruled. It is true that an accomplice witness also went with the officer at the time the property was recovered. However, the officer testified that he did not know where the casings were and could not have gone to the place without being directed by appellant. He said: “I did not know the location of the place before I got to Houston. I would not have known the man that had been described to me if I had met him or passed him on the street in Nacogdoches. I could not have gone to that place without Travis McKnight (appellant) bringing me to it. Somebody would have to show me — not unless somebody directed me. * * * As to whether he carried me to this man, I will state that there were five in the car. They kind of got balled up over the place themselves and for a while there they could not find the city hall, but finally got together on it and both kind of picked out the way down there. Travis McKnight showed me the place. He directed us into the place when we got there.” We think it is clear that the testimony of the officer was admissible under the provisions of Art. 727, C. C. P., to the effect that a confession is admissible, whether in writing or not, when, in connection therewith, the accused makes statements of facts or circumstances that are found to be true, which conduce to establish his guilt, such as the finding of secreted or stolen property, or the instrument with which he states the offense was committed.
+The judgment is affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
