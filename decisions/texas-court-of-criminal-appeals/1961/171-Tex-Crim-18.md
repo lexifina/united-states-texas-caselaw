@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,161"
+decided: "1961-03-22"
+citations: ["171 Tex. Crim. 18"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elmer Hardy v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2629819
+cites_cases: ["146 Tex. Cr. R. 138", "165 Tex. Cr. R. 123", "171 S.W. 2d 887", "304 S.W. 2d 118"]
+---
+
+# Hardy v. State
+
+## Majority (DICE, Judge)
+
+DICE, Judge
+The conviction is for unlawfully selling whisky in a dry area; the punishment, a fine of $100.
+This is a companion case to Cause No. 33,135, styled Elmer Hardy, Appellant, v. The State of Texas, Appellee, this day decided, (page 17, this volume), in which the conviction of appellant for unlawfully selling whisky to Texas Liquor Control Board Inspector Ralph C. Elliott in Coleman County, Texas, a dry area, was affirmed by this court.
+The facts in the two cases are substantially the same and the state’s proof shows that, on the date alleged, the appellant not only sold a pint of whisky to Inspector Elliott in Coleman County but also sold a pint of Tom Moore Whisky to Inspector Wallace N. Coburn.
+Appellant’s conviction in the instant case is for the sale made to Inspector Coburn and we find the evidence sufficient to support the conviction.
+While the proof shows that appellant’s dealings with the liquor agents were contemporaneous, it shows that such constituted two separate transactions and sales of liquor to the two liquor agents, for both of which appellant may be separately prosecuted and convicted. Walker v. State, 146 Tex. Cr. R. 138, 171 S.W. 2d 887 In refusing appellant’s motion to consolidate the two cases and in trying the cases separately, the court did not err.
+The record presents no formal bills of exception and there are no objections to the court’s charge.
+By informal bills of exception, appellant complains of the court’s action in sustaining the state’s objections to certain questions propounded by appellant to the state’s witnesses on their cross-examination. The bills are deficient and present nothing for review in that they fail to show what the answer of the witnesses would have been. Mayes v. State, 165 Tex. Cr. R. 123, 304 S.W. 2d 118.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment is affirmed.
+Opinion approved by the Court.
