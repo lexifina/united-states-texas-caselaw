@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,920"
+decided: "1960-05-18"
+citations: ["169 Tex. Crim. 599"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Luther Don Blanks v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0599-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12149665
+cites_cases: ["117 Tex. Cr. R. 273", "164 Tex. Cr. R. 106", "296 S.W. 2d 782", "35 S.W. 2d 718"]
+---
+
+# Blanks v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Appellant was convicted for unlawfully transporting whisky in a wet area without a permit and his punishment assessed at confinement in jail for 3 months and a fine of $1000.
+The conviction is under Art. 666-4 (a) V.A.P.C. of the Texas Liquor Control Act which makes it unlawful for any person to transport liquor in any wet area without first having secured a permit of the class required for such privilege.
+The sufficiency of the evidence to support the conviction is challenged.
+The state’s testimony shows that on the evening in question the appellant borrowed his brother’s 1958 Pontiac automobile and later went to a retail liquor package store near the city of Amarillo in Potter County, where he placed an order for some whisky. Soon thereafter two liquor agents came to the premises for the purpose of making a routine inspection. In the inspection Inspector Burns went to a garage located in the rear of the building where he observed appellant placing lugs of whisky in the front seat of the Pontiac automobile which had been backed into the garage. Standing in the garage by a two wheel dolly was one J. A. Sloan who worked at the place. Inspector Burns found 20 cases of whisky and 21 cases of beer in the Pontiac automobile. Sloan, the employee at the liquor store, testified that before the officers arrived he had gone back to the garage where he saw the appellant; that appellant told him he wanted some beer and whisky; that he then got the whisky out of a storeroom, brought it to the garage, set it down by the automobile and appellant put it in the automobile. The automobile had not been moved after appellant loaded the whisky but was later moved by one of the liquor agents.
+It was shown that Potter County was a wet area and that appellant did not have a permit to transport liquor in such an area.
+We have concluded that the evidence fails to show a transportation of the whisky by the appellant in violation of Art. 666-4(a), supra, of the Texas Liquor Control Act.
+The term “transport” as used in the Liquor Control Act means the carrying or conveying from one place or locality to another place or locality. Pruett v. State, 117 Tex. Cr. R. 273, 35 S.W. 2d 718 and Lee v. State, 164 Tex. Cr. R. 106, 296 S.W. 2d 782.
+The evidence affirmatively shows that appellant did not carry the whisky from the licensed premises. The evidence only shows that appellant put the whisky in the automobile which Sloan, the employee, had placed on the garage floor. Appellant’s act of putting the whisky in the automobile on the licensed premises was not a transportation of the whisky for which a permit was required, hence such act was not a violation of Art. 666-4(a), supra, of the Texas Liquor Control Act. While the Liquor Control Act, Art. 666-15(12), (13) and (14), supra, provides for the issuance of certain carrier permits, which authorize the transportation of liquor into and out of the state and between points within the state, no provision is made for the issuance of a permit authorizing the transportation of liquor by hand on licensed premises in the state. If appellant transported the whisky by picking it up and putting it in the automobile it was not such a transportation for which he could have secured a permit authorizing the privilege and therefore such act did not violate Art. 666-4(a), supra.
+Because of the insufficency of the evidence, the judgment is reversed and the cause remanded.
+Opinion approved by the Court.
