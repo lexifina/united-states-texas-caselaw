@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,637"
+decided: "1958-03-19"
+citations: ["167 Tex. Crim. 43"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Alfred Dowling v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8546690
+cites_cases: ["125 Texas Cr. Rep. 504", "125 Texas Cr. Rep. 636", "155 Texas Cr. Rep. 639", "157 Texas Cr. Rep. 14", "158 Texas Cr. Rep. 16", "158 Texas Cr. Rep. 397", "163 Texas Cr. Rep. 194", "164 Texas Cr. Rep. 650", "173 Va. 458", "179 Atl. 640", "19 S.E. 447", "190 Ore. 598", "2 S.E. 2d 293", "213 Wis. 65", "22 So. 2d 273", "238 S.W. 2d 707", "246 S.W. 2d 185", "252 S.W. 2d 701", "255 S.W. 2d 864", "259 N.W. 127", "270 Mich. 429", "289 S.W. 2d 935", "30 N.W. 226", "301 S.W. 2d 920", "37 Pac. 1111", "69 S.W. 2d 120", "69 S.W. 2d. 99", "7 N.M. 421", "84 So. 2d 169", "90 Va. 671"]
+---
+
+# Dowling v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+A prior death penalty murder conviction of this appellant was reversed because certain evidence was denied the accused. Dowling v. State, 164 Texas Cr. Rep. 650, 301 S.W. 2d 920. Upon retrial, the death penalty was again inflicted.
+The state’s witness testified that the appellant approached his wife on a downtown street in Houston and shot her in the back with a pistol. Another witness testified that earlier in the morning, while • sitting in a bar and speaking of his marital difficulties, the appellant had said “if I start drinking and I get good, right mad I am going to kill her.”
+The sole defense was that of insanity, and, as we said in McGee v. State, 155 Texas Cr. Rep. 639, 238 S.W. 2d 707. ’Tt is sufficient to say that it is difficult to understand how a stronger defense of insanity could be developed in the trial of a criminal case.”
+There was extensive psychiatric testimony for both the state and the appellant. It was not disputed that the appellant had been a mental patient at the Veteran’s Administration Hospital up until a short while before the homicide. The appellant insisted upon testifying in his own behalf, and his testimony covers 60 pages of the statement of facts.
+This is the second jury which has rejected appellant’s defense, and we are not authorized to substitute our judgment and view of the evidence for that of the jurors who saw, heard and observed the witnesses. McGee v. State, supra.
+In as scholarly a brief as has been filed in this court in a •long time, appellant’s eminent counsel urges this court to reappraise our holding in the recent case of Lopez v. State, 158 Texas Cr. Rep. 16, 252 S.W. 2d 701, and the general rule which it enumerates that the appellant is not entitled to a pre-trial inspection of his confession. We have pursued his argument with interest but feel impelled to hold that a rule so well established in our jurisprudence should not be abandoned without legislative sanction. •
+His remaining contentions require a further discussion of the facts. By coincidence, two city policemen were emerging from a cafe at the moment the appellant shot his wife as she was walking on the sidewalk; appellant was immediately arrested, handcuffed, and the pistol was taken from him. As stated, the prior conviction was reversed because certain evidence relating to his sanity was denied the accused. As an admonition, this court said, “Upon another trial, the arresting officer should not be permitted to testify as to his conversation with the appellant fifteen minutes after the appellant’s arrest which was not shown to be res gestae.” The officer referred to in that opinion was one Poehl. Officer Poehl testified at the present trial but did not mention the conversation which we had held to be inadmissible. But Officer Bradshaw testified that he had a conversation with the appellant which, according to this record, occurred within four minutes after the shot was fired and in which the appellant gave his reason for killing his wife. It is urged that this too, is inadmissible as not being part of the res gestae. Poehl came out of the cafe door first and took the pistol from the appellant and handed it to Bradshaw while he put on the handcuffs. Poehl then went to assist the victim; Bradshaw stepped to the curb where his patrol car was parked and called headquarters on the radio, leaving the appellant standing on the sidewalk under the supervision of one Gannon, a store manager whom the officers knew; both officers then returned to the spot where the appellant was standing and attempted to unload the pistol, receiving advice from the appellant which enabled them to do so. It was during this time that the appellant asked for and received a cigarette. Bradshaw then took the appellant and placed him in the patrol car where the appellant, who, according to the officer, was nervous and excited, told him that he shot the deceased to show her who was boss. We have concluded that, in line with all the holdings of this court, this statement was made under such stress and under such conditions as to make it admissible as part of the res gestae. Morris v. State, 157 Texas Cr. Rep. 14, 246 S.W. 2d 185; Brooks v. State, 125 Texas Cr. Rep. 504, 69 S.W. 2d. 99; and Outlaw v. State, 125 Texas Cr. Rep. 636, 69 S.W. 2d 120.
+Appellant next contends that the court erred in permitting Dr. Dwyer, a witness for the state, to express his opinion, based upon an examination of the appellant on May 7, that the appellant was legally sane on May 1, the day of the homicide. This is the identical question which caused this court concern in Farmer v. State, 158 Texas Cr. Rep. 397, 255 S.W. 2d 864, and we have concluded that we must dispose of it in the same way. Here, as in Farmer, we find a long history of mental deterioration culminating in a homicide which took place during a period in which the accused contends he was unaware of what was happening. For the reasons set forth in our opinion on rehearing in Farmer, we hold the evidence admissible.
+Appellant’s counsel is to be commended for his noteworthy defense of his unfortunate client.
+The judgment is affirmed.
+
+## Rehearing (BELCHER, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING
+BELCHER, Judge.
+We are again urged to re-examine our holdings on the question of pre-trial inspection of written confessions. Prior to the trial, appellant’s diligent counsel made a motion that a copy of the accused’s confession be delivered to him before the commencement of the trial. Such motion was refused. The state, in making out its case in chief, did not introduce in evidence appellant’s written confession. It was after the accused had testified in his own behalf that the state in rebuttal introduced the confession. At that time it was submitted to counsel for the accused for his inspection prior to its introduction. This procedure is in harmony with the prior holdings of this court and the majority rule. See State v. Kupis, 37 Del. (7 W. W. Harr.) 27, 179 Atl. 640 (1935) ; People v. Parisi, 270 Mich. 429, 259 N.W. 127 (1935) ; Territory v. McFarlane, 7 N.M. 421, 37 Pac. 1111 (1894) ; Abdell v. Commonwealth, 173 Va. 458, 2 S.E. 2d 293 (1939; Brown v. Commonwealth, 90 Va. 671, 19 S.E. 447 (1894) ; Steensland et al v. Hoppmann, 213 Wis. 65, 30 N.W. 226 (1886) ; State v. Leland, 190 Ore. 598, 227 P. 2d 785 (1951).
+A recent exhaustive article on this subject appears in the Journal of Criminal Law, Criminology and Police Science, Vol. 48, #3, p. 305.
+Recently, in Pettigrew v. State, 163 Texas Cr. Rep. 194, 289 S.W. 2d 935, we said, “We know of no rule of law that would require the State to furnish the accused, before the trial, with copies of pictures it intends to introduce ag'ainst him.”
+Louisiana alone, so far as we or appellant’s counsel can ascertain, is the only state which holds that, in the absence of a statute, denial of a pre-trial inspection of an accused’s written confession constitutes a deprivation of due process. State v. Dorsey, 22 So. 2d 273 (1948).
+It is interesting to note that in State v. Shourds, 71 S. 2d 340 (1954), and State v. Lea, 84 So. 2d 169 (1955), the Supreme Court of Louisiana has held that the rule of Dorsey had no application in cases involving other documents, confessions which were not introduced in evidence or oral confessions.
+A discussion of the cases arising under the Federal Rules of Criminal Procedure 16 and 17 (a) and those from states which have enacted statutes authorizing pre-trial inspection of documents in the hands of the prosecution would be of no benefit in this jurisdiction.
+We have again examined appellant’s other contentions and remain convinced that this cause was properly decided originally.
+Appellant’s motion for rehearing is overruled.
+Opinion approved by the Court.
