@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,524"
+decided: "1955-04-06"
+citations: ["161 Tex. Crim. 318"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John D. Beeler v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2466907
+cites_cases: ["240 S.W. 2d 305", "255 S.W. 2d 878"]
+---
+
+# Beeler v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+This is a conviction for robbery; the punishment, ten years in the penitentiary.
+State’s witness Joseph Slemerisky identified appellant as one of two men that accosted him about 1 a.m. on February 26, 1954, and testified that, as he was entering his automobile, one of the men began striking him and pushed him into his automobile as the other pointed a pistol toward him; that they demanded the keys to his automobile and his money; that after traveling several miles with them in his automobile, during which time they told him that they wanted his money and for him to be quiet or they would shoot him, they searched him and took $470 in money; that he let them take the money because he thought they would kill him if he resisted.
+Appellant testified in his own behalf and stated that at the time in question he and his companion purchased a quantity of narcotics from Joseph Slemensky for $300 which they soon found to be of a very low grade; that they immediately returned it and demanded the return of their money; that Slemensky gave them $170 and, on the way to his place of business to obtain the balance, his companion pointed to some money in Slemensky’s shirt pocket which he gave them; that Slemensky then leaped from the automobile and ran; that the money last given them was $300 and because he ran they were unable to return any money to him.
+Appellant denied that they had or used a pistol or that they used any force in obtaining the money from Slemensky.
+The jury resolved the issue of fact against appellant and we find the evidence sufficient to support its verdict.
+Appellant complains, in each of two formal bills of excep-. tion, of the trial court’s action in sustaining the state’s objections to certain questions propounded by him, and to which action he duly excepted.
+These bills are deficient in that they do not show what the answers of the witnesses in each instance would have been, therefore the bills cannot be appraised, and an examination of the record fails to reveal answers to such questions. 4 Texas Jur. 318, Sec. 219; 1 Texas Jur. Supp. 393, Sec. 219; McCune v. State, 156 Texas Cr. R. 207, 240 S.W. 2d 305; Cartwright v. State, 158 Texas Cr. R. 344, 255 S.W. 2d 878.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the court.
