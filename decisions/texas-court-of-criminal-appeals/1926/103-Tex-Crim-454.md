@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9735"
+decided: "1926-03-10"
+citations: ["103 Tex. Crim. 454"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["B. W. Ehrlich v. The State"]
+source_url: "https://static.case.law/tex-crim/103/cases/0454-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5118196
+cites_cases: ["239 S. W. 202", "255 S. W. 403", "272 S. W. 209"]
+---
+
+# Ehrlich v. State
+
+## Majority (BAKER, Judge.)
+
+BAKER, Judge.
+The appellant was convicted in the 87th district court of Limestone county for the offense of unlawfully transporting intoxicating liquor, and his punishment assessed at one year in the penitentiary.
+The record discloses that the indictment in this case was returned and filed in the 77th district court of Limestone county, and that thereafter the judge of said court, without notice to appellant, entered an order upon the minutes, transferring this case to the 87th district court of said county; in which the appellant was convicted as above stated. When the case was called for trial the appellant presented a plea to the jurisdiction of the 87th district court, calling in question the validity of the act passed by the regular session of the 38th Legislature, in 1923 (Acts 1923, Regular Session, P. 47), creating the said 87th district court and providing therein that the judges of the 77th and 87th district courts are authorized in criminal or civil cases, upon motion made by either party, or upon their own volition, to transfer cases from one court to another, by entering an order to that effect on the respective minutes of said courts, and without any notice of such action thereon. It is the contention of the appellant in this case that said statutes authorizing the transfer of this case without notice, and in his absence, was in violation of his constitutional rights, and questions the validity of said statute in several respects in reference thereto. We are of the opinion that the contention made by the appellant is not sound, and that there is no error shown by reason of said transfer being made without his knowledge and in his absence. This transfer was no part of the trial, but only a preliminary matter which did not require the presence of the appellant. This was not a change of venue in any respect, but was only a transfer from one district court to another in the same county. However, in the case of Rothschild v. State, 7 Tex. Crim. Apps. 519, this court held that under a change of venue, it was not necessary for the appellant to be present when the order was entered by the court. In the case of Littleton v. State, 239 S. W. 202, this court, through Presiding Judge Morrow, under similar facts as in the instant case, held that there was no error in making the transfer from one district court to another in the same county, in the absence of the appellant, citing with approval the Rothschild case and many other decisions of this court. See also Rush v. State, 255 S. W. 403; Phipps v. State, 272 S. W. 209.
+The appellant also complains of the action of the court in permitting the state’s witness Burroughs, after having testified to arresting the appellant and finding in the back end of his car, the whiskey in question, over his objection, to testify that his purpose in being on the road at the place of arrest about 2:30 in the morning was to get the appellant’s whiskey, that Mr. Willis had sent him and the other parties out there, and that he had received information that the defendant would bring in a load of whiskey, and was on the look out for him at that time. The apellant’s objection to this testimony was that it was hearsay, and strongly indicated his guilt by the introduction of such hearsay evidence. After a careful examination of the record, and especially in view of the appellant’s defense to the effect that he had carried one Tracy to Dallas in his automobile, and was paid by him to do so, and while there he, Tracy, had borrowed his car for about 30 minutes, and when it. was returned, Tracy stated he had decided to go back on the train and appellant could drive said car back by himself; and that he had no knowledge of the whiskey being in the car, and would not have transported same had he known it was in the car, we have reached the conclusion that this hearsay testimony bearing directly on the defense of the appellant was highly prejudicial and should not have been admitted. What we have said in this respect is. applicable to the other officers acting with said Burroughs, in so far as same embraces their reasons for being out upon the road watching for the appellant at the time of the arrest. For collation of authorities see Branch’s Add. P. C. sec. 1930.
+The appellant also complains of the action of the court in overruling his first application for continuance, but the disposition we have made of this case makes it unnecessary for us to discuss this bill, as this question will not likely arise again upon another trial.
+For the errors above mentioned, we are of the opinion that the judgment of the trial court should be reversed and remanded, and it is accordingly so ordered.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the court.
