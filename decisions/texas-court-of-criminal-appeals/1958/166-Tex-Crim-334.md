@@ -1,0 +1,45 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,591"
+decided: "1958-03-26"
+citations: ["166 Tex. Crim. 334"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. N. Tiger v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0334-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2619711
+cites_cases: ["100 S.W. 2d 704", "122 Texas Cr. Rep. 174", "131 Texas Cr. Rep. 527", "144 Texas Cr. Rep. 21", "156 Texas Cr. Rep. 360", "156 Texas Cr. Rep. 625", "157 Texas Cr. Rep. 124", "157 Texas Cr. Rep. 170", "157 Texas Cr. Rep. 51", "158 Texas Cr. Rep. 306", "159 S.W. 2d 878", "159 Texas Cr. Rep. 2", "162 Texas Cr. Rep. 1", "163 Texas Cr. Rep. 289", "163 Texas Cr. Rep. 505", "242 S.W. 2d 371", "246 S.W. 2d 474", "246 S.W. 2d 636", "247 S.W. 2d 127", "247 S.W. 2d 255", "255 S.W. 2d 513", "259 S.W. 2d 570", "280 S.W. 2d 260", "290 S.W. 2d 248", "293 S.W. 2d 789", "54 S.W. 2d 812"]
+---
+
+# Tiger v. State
+
+## Majority (BELCHER, Judge. MORRISON, Presiding Judge.)
+
+BELCHER, Judge.
+The offense is murder; the punishment, five years.
+The killing occurred near Spur, in Dickens County. Trial was in Lubbock County, venue having been changed by the court on his own motion.
+The jury rejected appellant’s claim of self-defense and his effort to reduce the killing to murder without malice by testimony that his wife had just informed him that deceased had sexual relations with her the previous night. The jury also denied his application for suspended sentence.
+The facts, viewed from the state’s standpoint, show an unjustified voluntary killing, appellant having advanced on the deceased with a loaded shot gun; followed the deceased as he drove away with the shot gun he had wrested from appellant; fired at the deceased on the streets of Spur, and finally overtook and killed him by shooting him in the head with a high powered rifle equipped with a telescope sight.
+Two propositions are presented in appellant’s brief, the first relating to Bill of Exception No. 1.
+By this proposition appellant claims material prejudicial error in the voir dire examination of prospective jurors, and the overruling of some of his challenges for cause.
+The voir dire examination of the jury panel is not before us, and the bill of exception nowhere contains a certification by the court that the matters complained of and made the basis of the bill occurred.
+As we read Bill of Exception No. 1, it merely recites that during the selection of the jury the defendant made a motion for mistrial; sets out the motion and recites that it was overruled and the defendant excepted.
+Containing only allegations of the appellant, not verified as facts by the trial judge, Bill of Exception No. 1 presents no reversible error. Mayse v. State, 156 Texas Cr. Rep. 360, 242 S.W. 2d 371; Cox. v. State, 157 Texas Cr. Rep. 51, 246 S.W. 2d 474; Huskey v. State, 156 Texas Cr. Rep. 625, 246 S.W. 2d 636; Veasey v. State, 157 Texas Cr. Rep. 170, 247 S.W. 2d 255; Hanna v. State, 159 Texas Cr. Rep. 2, 259 S.W. 2d 570; Mercer v. State, 163 Texas Cr. Rep. 289, 290 S.W. 2d 248; Stephens v. State, 163 Texas Cr. Rep. 505, 293 S.W. 2d 789.
+Appellant’s second and remaining proposition relates to argument.
+Bill of" Exception No. 4 sets out certain remarks made in the state’s opening argument, and a portion of the closing argument, and shows that objection was offered and motion for mistrial made at the closing of argument.
+The remarks complained of were to the effect that the defendant had not offered any witness to testify that his reputation as a peaceful and law abiding citizen was good, and apparently he could not, and that it should be “mighty significant” that certain state witnesses had the courage to testify that his reputation was bad “if any mention is made of any suspended sentence in this case.”
+In Martin v. State, 122 Texas Cr. Rep. 174, 54 S.W. 2d 812, cited by appellant, the prosecutor, in his argument made a misstatement of the law when he said that the defendant was not entitled to a suspended sentence unless he had proved a good reputation.
+The Martin’s case does not support appellant’s claim of error.
+The arguments set out in the bill reflect that the jury was told that they could suspend the sentence if the punishment they assessed did not exceed five years.
+Appellant placed his reputation in issue by the filing of an application for suspended sentence. A number of witnesses testified that his reputation as a peaceful and law abiding citizen was bad. They were not cross-examined on that point and no character witness was called by the defense.
+It was proper, under these facts, for the attorney representing the state to direct the jury’s attention to the evidence showing the bad reputation of the defendant, and to point out the purpose for which the testimony was admissible. Burnett v. State, 162 Texas Cr. Rep. 1, 280 S.W. 2d 260; Taylor v. State, 157 Texas Cr. Rep. 124, 247 S.W. 2d 127.
+The judgment is affirmed.
+Opinion approved by the Court.
+ON MOTION FOR REHEARING
+MORRISON, Presiding Judge.
+In a forceful brief and argument, appellant urges that we were in error in our disposition of his Bill of Exception No. 1 and relies upon Skinner v. State, 144 Texas Cr. Rep. 21, 159 S.W. 2d 878. In Skinner, the bill of exception recited that the trial judge overruled the motion for new trial in the absence of the defendant and without giving him an opportunity to offer proof in support of his motion. We said. “The trial court’s approval of this bill of exception without qualification constitutes a certificate by him of the correctness of the language quoted.”
+In the case at bar, the bill of exception recites that a motion for mistrial was made and was by the trial court overruled. When the trial court approved this bill of exception, he certified that just that and nothing more had occurred. He did not certify that the allegations in the motion were correct or that the events set forth therein had in fact occurred. Nowhere in the bill do we find a certificate to such effect. The cases cited in our original opinion control, and Skinner has no application. We decline appellant’s suggestion that we overrule them.
+Appellant further contends that there is a conflict between Burnett v. State, and Taylor v. State, supra, cited in our original opinion, and our prior holding in Shipley v. State, 131 Texas Cr. Rep. 527, 100 S.W. 2d 704, and urges that we overrule both Burnett and Taylor. In Shipley, we held that a reputation witness should not be questioned concerning his personal knowledge of specific acts of misconduct on the part of the accused but should be asked if he had heard of the same. This rule has been reaffirmed in many recent cases, including Adams v. State, 158 Texas Cr. Rep. 306, 255 S.W. 2d 513, but does not in any way conflict with the cases mentioned above.
+Remaining convinced that we properly disposed of this cause originally, appellant’s motion for rehearing is overruled.
