@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,507"
+decided: "1956-11-07"
+citations: ["163 Tex. Crim. 575"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alfred Wade Hughes v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461597
+cites_cases: ["160 Tex. Cr. R. 59", "240 S.W. 556", "267 S.W. 2d 410", "56 S.W. 922", "91 Tex. Cr. R. 617"]
+---
+
+# Hughes v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for passing a forged instrument; the punishment, two years in the penitentiary.
+The testimony of Earl Q. Middleton, a witness for the state, shows that he knew the appellant and that he identified him at the trial as being the same person that passed a check to him on July 10, 1955, in the sum of $114.63, payable to A. W. Hughes, signed Tom L. Harpster Steel Erection Company, by Tom L. Harpster as maker, endorsed by A. W. Hughes, and drawn on the Houston National Bank, Houston, Texas. The witness Middleton identified a check at the trial as the same check passed to him by the appellant, who endorsed it in his presence, and for which he paid appellant the amount of the check in money. Said check was then introduced in evidence and marked State’s Exhibit No. One.
+Tom L. Harpster testified that he did business under the name of Tom L. Harpster Steel Erection Company, that he knew the appellant, and that appellant had previously been in his employ. He then examined State’s Exhibit No. One and stated that he did not give anyone his consent to sign his name thereto. He further stated that several blank checks had been stolen from his place of business and that State’s Exhibit No. One was one in the series of numbers of the blank checks missing.
+Appellant while testifying in his own behalf denied that he wrote, endorsed, or passed to the witness Middleton the check in question, and further denied any knowledge of or connection with it in any way.
+John A. Hughes, a defense witness, brother of the appellant, testified that he bought several blank checks of the Tom L. Harpster Company and that he cashed all of the Harpster checks which he had purchased. He further testified that he wrote State’s Exhibit No. One, endorsed A. W. Hughes’ name on it, and that the witness Middleton cashed one of the Harpster checks for him but that he did not know if it was State’s Exhibit No. One, and that the appellant had nothing to do with the check.
+The state’s evidence shows that the appellant had previously been employed by the Harpster Company; that several blank checks used by his company had been stolen from his place of business. The witness Middleton identified the appellant and the check at the trial and stated that the appellant endorsed the check in his presence and passed it to him, that he asked appellant at the time he endorsed the check to also write his address thereon which he did and after the check was returned to him unpaid he determined that the address given was not that of the appellant.
+We find the evidence and all the attendant circumstances sufficient to warrant the jury’s conclusion that appellant knew the check was a forgery when he passed it.
+Appellant complains of the cross-examination of his brother by the state wherein it sought to show that he testified that he wrote the check on which this prosecution is based because it would not increase his trouble and would relieve his brother of this charge.
+The testimony shows that appellant’s brother was returned from the penitentiary where he was serving a sentence so he could appear as a witness in this case.
+It is well settled that great lattitude is allowed in cross-examination when its purpose is to bring out facts which will give to the jury the attitude, motive, and interest which may be affecting the testimony of a witness. This rule is here applicable. Hence no error is shown. Branch’s Ann. P.C., 2nd Ed., 192, Sec. 185; McCormick and Ray, Texas Law of Evidence, 2nd Ed., 521, Sec. 679.
+Finding no reversible eror, the judgment is affirmed.
+Opinion approved by the Court.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+One of the elements necessary to constitute the offense of passing a forged instrument — of which offense this appellant stands convicted — is knowledge on the part of the passer that the instrument was forged. Hanks v. State, 56 S.W. 922; Narsingle v. State, 91 Tex. Cr. R. 617, 240 S.W. 556; Tarwater v. State, 160 Tex. Cr. R. 59, 267 S.W. 2d 410.
+I have been unable to find a line of testimony in this record showing that appellant knew that the check was a forgery.
+Acording to the state’s testimony, appellant passed the check under circumstances ordinarily attendant upon the passage of a perfectly valid check.
+The appellant denied that he passed the check.
+There was evidence that appellant’s brother forged and passed the check.
+The facts are not sufficient to support this conviction, and I respectfully dissent to the affirmance of a conviction not supported or authorized by the evidence.
