@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,275"
+decided: "1957-12-04"
+citations: ["165 Tex. Crim. 529"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willard Jones v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2614226
+cites_cases: ["162 Texas Cr. Rep. 655", "164 Texas Cr. Rep. 138", "288 S.W. 2d 785", "297 S.W. 2d 169"]
+---
+
+# Jones v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for the sale of whiskey in a dry area; the punishment, 90 days in jail and $200 fine.
+The record contains no statement of facts on the main trial or on the hearing of the motion for new trial. No formal bills of exception appear in the record, and there are no objections and exceptions to the court’s charge.
+Appellant was not represented by counsel at the trial.
+After verdict and judgment counsel was employed and filed a motion for a new trial which was heard and considered by the court and overruled.
+Appellant in his brief insists that the trial court erred in its charge wherein he instructed the jury that the complaint and information were not evidence and they were not to be considered as any evidence of the guilt of the accused because the use of the word complaint directed the jury’s attention to a sworn instrument which could not be read to the jury or offered in evidence.
+The reference to the complaint in the admonitory instruction in the charge is not fundamental error and in the absence of an exception thereto and a statement of facts appellant’s contention cannot be considered. Garza v. State, 162 Texas Cr. Rep. 655, 288 S.W. 2d 785.
+Appellant’s complaint in his brief and oral argument that the forms of verdict shown in the court’s charge do not include all the forms of verdicts which could be reached, and especially that it does not set out a form of “not guilty,” cannot be sustained as an examination of the court’s charge reveals that a sufficient and proper form for a verdict of “not guilty” was first set out and later followed by a form in the event the jury found him guilty.
+Appellant in his motion for a new trial and in his brief contends that the trial court erred in sustaining the state’s objection to his offering of character witnesses in his behalf. In the absence of a statement of facts we are unable to consider and appraise this contention. Williams v. State, 164 Texas Cr. Rep. 138, 297 S.W. 2d 169.
+The other contentions of the appellant have been carefully-considered and they do not reflect error.
+The judgment is affirmed.
+Opinion approved by the Court.
