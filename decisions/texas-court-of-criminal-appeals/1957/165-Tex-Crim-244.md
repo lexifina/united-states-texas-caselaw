@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,147"
+decided: "1957-10-23"
+citations: ["165 Tex. Crim. 244"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Augustin Lopez Martinez v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2613070
+---
+
+# Martinez v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for assault with intent to murder with malice, with punishment assessed at seven years in the penitentiary.
+The evidence shows that appellant, with a knife, inflicted upon the injured party multiple stab wounds in the chest and side, one of which penetrated the abdomen. The injured party was taken to a hospital, where he died some twenty days thereafter.
+Before the introduction of any evidence, state’s counsel stated to the jury, in effect, that the injured party had died and that, because of that fact, the state could not call him as a witness; In that connection, state’s counsel made the following statement to the jury:
+“The evidence will further show that he did not die as a result of the knife stabbing, but as a result of pneumonia, which he caught while he was there at the hospital for treatment for this * *
+In developing its case and in showing the assault and wounds received therein, the state proved that the injured party died of pneumonia and, throughout the trial, referred to him as the deceased.
+If we understand appellant’s position, it is that proof by the state of the fact that the injured party died and the state’s continual reference to him as the deceased constituted prejudice to him, the appellant, in that he was thereby being tried for murder without having been indicted for that crime.
+It was the right of the state to show why it did not call the injured party as a witness and, for that purpose, to show that he was dead. Moreover, under the doctrine of carving the state may carve out and prosecute for any offense it may elect which grows out of a single transaction. Branch’s P.C., 2d Edition, p. 625.
+It was, therefore, the province of the state to try the appellant for assault with intent to murder, if it so elected, and to prove the death of the injured party.
+Appellant’s defensive theory of a lack of intent to kill, as well as that of self-defense, was rejected by the jury.
+The state’s testimony showed the elements necessary to constitute the crime of assault with intent to murder with malice aforethought, as charged in the indictment, and is therefore sufficient to support the conviction.
+No reversible error appearing, the judgment is affirmed.
