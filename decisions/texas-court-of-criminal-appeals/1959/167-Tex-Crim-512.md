@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,528"
+decided: "1959-03-11"
+citations: ["167 Tex. Crim. 512"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clarence Noel Hill v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0512-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8551329
+---
+
+# Hill v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is driving while intoxicated; the punishment, 3 days in jail and a fine of $50.00.
+Officer Aufleger of the Amarillo police testified that on the night in question he saw a pickup truck run a red light and collide with another pickup, that he saw the appellant get out on the driver’s side and walk around to the front, that he staggered when he walked, spoke incoherently and his breath smelled of intoxicants. He stated that he asked the appellant several questions concerning the filling out of an accident report and that he could not understand the appellant’s answers and carried him to jail. A sample of blood was taken with the appellant’s consent, and the laboratory test indicated that appellant was intoxicated.
+Sergeant Kolwell also saw the appellant at the scene of the collision, and, from the manner of his walk, expressed the opinion that the appellant was intoxicated.
+Appellant, testifying in his own behalf, stated that he had drunk only two beers on the day in question, admitted running the red light, but denied that he was intoxicated. He also called a number of witnesses who saw him earlier in the afternoon and evening, and they testified that he bore no indication of intoxicants.
+The jury resolved this conflict in the evidence as to the appellant’s intoxication against him, and we find the evidence sufficient to support the conviction.
+There are no formal bills of exception, and no brief has been filed.
+Finding no reversible error, the judgment of the trial court is affirmed.
