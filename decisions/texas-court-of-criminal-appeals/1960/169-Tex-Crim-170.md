@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,378"
+decided: "1960-01-27"
+citations: ["169 Tex. Crim. 170"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willard Ervin Cheney, Jr. vs. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12133117
+---
+
+# Cheney v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for driving while intoxicated; the punishment 90 days in jail and a fine of $500.
+The testimony of two police officers of the city of Houston shows that they saw appellant at the scene where an automobile had run into another automobile parked at the curb on a public street; and that the appellant stated at the scene that he was the driver of the automobile that ran into the one that was parked. They further testified that appellant was unsteady in his walk and had the odor of alcohol on his breath and expressed their opinion that he was intoxicated.
+Appellant testifying in his own behalf denied that he was driving the automobile but stated that he was in the front seat with the owner who was driving when the collision occurred; and he also denied being intoxicated, yet, he said he had had a few drinks before the collision.
+A. B. Judge testified that he was the owner of the car and was driving it at the time of the collision and not the appellant; and he further stated that he had been drinking some.
+Jack Criswell testified that he saw both the appellant and Judge shortly before the collision and that Judge was then driving the car.
+It is concluded that the jury was authorized to accept the testimony of the officers that the appellant had confessed at the scene that he was the driver of the automobile.
+The amended motion for new trial alleges that the jury during its deliberation discussed whether the appellant had been previously convicted of driving while intoxicated; that such discussion amounted to the reception of new evidence which was prejudicial to the rights of the appellant and is reversible error.
+Two jurors were called by the appellant to testify in support of the amended motion.
+One juror testified that he knew nothing of appellant’s past and did not recall whether anything was said about a previous conviction; that an officer while testifying stated that he had had dealings with the appellant before, but did not say what it was for.
+The other juror testified that she did not hear the officer state that “he had had prior dealings with the defendant” but she thought he said “I do not know him personally.”
+The testimony of the officer on the main trial shows that he had never known the appellant personally.
+The trial court did not abuse its discretion in overruling the motion for a new trial.
+The judgment is affirmed.
+Opinion approved by the Court.
