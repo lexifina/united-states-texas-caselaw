@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "16492"
+decided: "1934-11-14"
+citations: ["127 Tex. Crim. 297", "76 S.W.2d 135"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. C. Perkins v. The State."]
+source_url: "https://static.case.law/tex-crim/127/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5253216
+cites_cases: ["17 Tex. App. 277", "19 Tex. App. 281", "207 S. W. 520", "207 S. W., 520", "25 S. W. (2d) 834", "25 S.W.(2d) 834", "261 S. W. 775", "261 S. W., 775", "35 S. W. 988", "35 S. W., 988", "36 Texas Crim. Rep., 143", "50 S. W. (2d) 284", "50 S.W.(2d) 284", "84 Texas Crim. Rep., 354", "97 Texas Crim. Rep., 167"]
+---
+
+# Perkins v. State
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+In the motion for. rehearing it is vigorously insisted that the evidence is insufficient to warrant the conviction.
+According to her testimony, the prosecutrix, appellant and his wife, went to a lake. After remaining there for a short time, the appellant’s wife walked to town. During her absence, the prosecutrix claims that she was subjected to two attacks by the appellant in each of which he had intercourse with her by force and against her will and consent.' She claims in her testimony to have resisted him by pushing, striking and slapping him. It appears from her testimony that her clothes and underclothes were not torn; that she shed no blood; that she made no outcry; that after the offenses were committed she and appellant started to walk to town; that they met the appelIant’s wife and the three went together to town and to a store where the prosecutrix procured a suit-case for the appellant, brought it to him and he departed; that she then returned to the home of the lady with whom she was boarding while attending school. She did not then report the alleged mistreatment. She denied it until she was told that her father was going to whip her. It was only after her father came to town that she disclosed the alleged offenses. According to the State, she was examined by two doctors. Neither of them was called by the State to disclose her condition.
+The appellant’s testimony is to the effect that he, in company with his wife and the prosecutrix, were at the lake together, but he denied any sexual relations with the prosecutrix. He claims that when his wife left the lake, he and the prosecutrix followed and overtook his wife in a few minutes.
+The appellant’s wife testified that she, appellant and the prosecutrix went to the city lake and remained together except for about five minutes, during which time the appellant and prosecutrix were sitting on a fence in her sight. The witness declared that at no time did the appellant have intercourse with the prosecutrix. Appellant’s wife also testified that the prosecutrix had told her that she had been out with a boy the night before until three o’clock in the morning and had had a good time.
+The constable testified that he saw the prosecutrix between eleven and twelve o’clock in the morning of the day of the alleged rape; that he had a conversation with her in which he asked her if that boy had tried to persuade her off; that she replied, “No; he did not try to persuade me off.” According to the officer, she made no complaint to him of mistreatment at the hands of the appellant. He was not investigating the claim of rape at the time.
+It is apparent from the testimony that the situation at the lake was such that there was nothing to obstruct the view; that it was in the center of the town of Rosebud and close to the public highway. From the testimony of the prosecutrix, it appears that men were plowing in a field a short distance from the lake. She described two acts of intercourse, both by force. She admits that she walked back to town with the appellant and his wife; that she went to a store with them and bought appellant-a suit-case. She met a constable and talked to him but made no complaint of any mistreatment, nor did she disclose any evidence of harsh treatment.
+The evidence of the State is not regarded as comporting
+with human experience. It comes within the principle announced in Lusty v. State, 97 Texas Crim. Rep., 167, 261 S. W., 775; Duty v. State, 25 S. W. (2d) 834. It is not denied that the offense of rape may be established by the uncorroborated testimony of the injured party, or that in a proper case the conviction may be based upon it. However, when, as in the present instance, the act of intercourse is vigorousl^combatted and the testimony is of doubtful nature, the failure of the State to introduce available evidence which might tend to corroborate the prosecutrix, is a matter of importance. If there had been penetration, the testimony of the doctors who had examined her was available to the State. The condition of her clothes was incompatible with the claim that she had been twice raped by force and under the circumstances which she described. The prosecutrix was about three months under the age of consent. If appellant had intercourse with her, an offense was committed although there was no force. However, that is not the case made. The contention of the State, as developed by the evidence, is that the offense was by force. It is thought that the evidence does not justify the conclusion by the jury to the effect that appellant had intercourse with the prosecutrix. It is not to be denied that in a proper case the evidence of the prosecutrix is sufficient to convict, but to warrant a conviction the evidence must comport with human experience. The evidence in the present case is not so regarded. The following cases are illustrative of the views of this court heretofore expressed: Gazley v. State, 17 Texas App., 277; Montresser v. State, 19 Texas App., 281; Price v. State, 36 Texas Crim. Rep., 143, 35 S. W., 988; Venable v. State, 84 Texas Crim. Rep., 354, 207 S. W., 520; Stevens v. State, 50 S. W. (2d) 284.
+In the opinion of the writer, the due administration of justice demands a reversal of the judgment of conviction.
+The original opinion is withdrawn, the motion for rehearing is granted, the judgment is reversed and the cause remanded.
+Reversed and remanded.
