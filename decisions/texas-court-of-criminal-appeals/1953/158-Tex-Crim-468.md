@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,280"
+decided: "1953-03-04"
+citations: ["158 Tex. Crim. 468"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas H. Boyle v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2480799
+---
+
+# Boyle v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant, an adult male, was convicted of aggravated assault upon Rita Ruth Booth, a female, and the jury assessed his punishment at two years in jail and a fine of one thousand dollars.
+The assault occurred at the home of a Mrs. Patterson where the injured party had been all day. Appellant arrived about 7 or 8 P.M. and, in response to Mrs. Booth’s telephone request, brought a bottle of scotch whisky and some beer.
+Both appellant and Mrs. Booth were intoxicated and were in an upstairs room when the difficulty arose. According to the state’s theory appellant struck Mrs. Booth on the head with an ice bucket causing a brain concussion which rendered her unconscious. As a result of the wound inflicted Mrs. Booth was still in an unconscious condition several months after this injury was inflicted, at which time it was the opinion of the doctor that she would never be normal again. She did not testify.
+Appellant claimed self-defense. Testifying in his own behalf he admitted throwing a lamp at Mrs. Booth but said that he did so only after she struck him behind the ear with a whisky bottle, as he sat on a bed with his back to her, which blow “dazed” him.
+He denied that he made the statement attributed to him by the witness Dr. Hamilton, to the effect that “he had beaten her up and she might be dead, that he tried to kill her.” When asked if he was using the ice bucket he replied “The first time I saw that ice bucket Officer Shipp had it, when I made bond.” Later when asked: “Is it not a fact that you hit her with the ice bucket?” he replied, “No, I didn’t. The first time I saw the bucket was when I made bond.”
+J. D. Walters, deputy sheriff, testified for the state. He was an old friend of appellant and came to the Patterson home in response to appellant’s call. Walters testified that appellant told him that he struck Mrs. Booth with the ice bucket which he found in the room. He described the bucket as an oval shape ice bucket lined with glass and weighing about two pounds. It was dented and the glass lining was broken. It was discolored with blood on the dented side and was found by the witness among broken glass and blood on the floor of a small upstairs bedroom in Mrs. Patterson’s house.
+Appellant’s first complaint is that the blood stained ice bucket was admitted in evidence.
+This being the weapon which the state contended was used in the assault, and which appellant denied using, we overrule the contention that the exhibit served to elucidate no issue in the case. Appellant’s counsel, in his brief, appears to have overlooked the above quoted testimony wherein appellant denied using the bucket.
+Appellant next complains that counsel for the state, in his closing argument, stated “I wish J. D. Walters could have gotten all the facts by getting the defendant to make a statement.”
+Appellant would have us give this argument the construction that J. D. Walters asked the appellant for a statement and none was forthcoming. According to Walters’ testimony appellant made a statement to him in which he admitted the assault. We think the remark could only be construed as expressing a wish that a detailed written statement of the affair had been available at the trial.
+The trial court having instructed the jury to disregard the remark, we do not think that he erred in declining to declare a mistrial.
+The remaining bill of exception complains that appellant was asked in cross-examination, “You know that Mrs. Rita Booth is still in an unconscious state at this time?”, which question was not answered.
+The bill certifies that no evidence adduced at the trial showed that at the time of the trial Mrs. Booth was still unconscious, nor did it show she had regained consciousness.
+There is no showing in this bill or in the record that the question was not asked in good faith. The state had the right to show the extent of the injuries inflicted upon Mrs. Booth and to account for her absence at the trial. This they might do by inquiring of the appellant while he was a witness, the same as of any other witness.
+In the absence of a showing that the injured party was to the knowledge of the prosecution conscious, and that the question was asked in bad faith, no error appears.
+The evidence is sufficient to sustain the finding of the jury against appellant’s claim of self-defense and to support the verdict and no reversible error appears.
+The judgment is affirmed.
