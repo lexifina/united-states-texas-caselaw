@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,245"
+decided: "1955-01-12"
+citations: ["160 Tex. Crim. 627"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Claude D. Campbell v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0627-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2471375
+cites_cases: ["194 S.W. 2d 400", "237 S.W. 2d 303", "258 S.W. 2d 317"]
+---
+
+# Campbell v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted, in the county court of Panola County, for unlawfully operating a motor vehicle upon a public highway while his operator’s license was suspended, and his punishment was assessed at a fine of $25.
+Under such a charge, the state was under the burden of showing there had been issued an operator’s license to appellant to drive a motor vehicle upon a public highway; that such license had been suspended; and that, while such license was suspended, appellant drove a motor vehicle upon a public highway.
+To meet this requirement, the state here relies upon testimony that appellant drove his pick-up truck upon a public highway in Panola County, on the date alleged, and that he drove said motor vehicle while his driver’s license was suspended.
+This proof is insufficient to sustain the allegations of the offense charged in the information because a driver’s license is not an operator’s license. We have held that there is no such license as a driver’s license known to our law. Hassell v. State, 149 Texas Cr. R. 333, 194 S.W. 2d 400; Holloway v. State, 155 Texas Cr. R. 484, 237 S.W. 2d 303; and Brooks v. State, 158 Texas Cr. R. 546, 258 S.W. 2d 317.
+Proof of the driving of an automobile while the driver’s license was suspended does not sustain the allegations of the information. The evidence being insufficient to support the conviction, the judgment is reversed and the cause remanded.
+Opinion approved by the court.
