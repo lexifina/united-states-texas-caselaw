@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,482"
+decided: "1962-04-18"
+citations: ["172 Tex. Crim. 234"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mildred Cunningham v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2642376
+---
+
+# Cunningham v. State
+
+## Majority (McDonald, judge.)
+
+McDonald, judge.
+The offense is driving while intoxicated; the punishment, a fine of $200 and 20 days in jail.
+Evidence adduced by the State upon the trial below shows the following: that around 1:10 A.M. in the morning of January 9 1961, appellant was stopped for speeding by two patrolmen of the City of Houston Police Department; that upon observing appellant they found she spoke in a “slurred” manner, hard to understand, “thick-tongued” type of speech; that when she got out of her automobile, she walked in a “staggering” fashion. One of the patrolmen further stated that he smelled alcohol on appellant’s breath and both testified that in their opinion she was at such time intoxicated.
+A third police officer, who arrived at the scene some 30 to 35 minutes after the arrest, testified that he detected the odor of alcohol on appellant’s breath and based upon his observation of her, stated that in his opinion she was intoxicated.
+Appellant, testifying as a witness in her own behalf, admitted consuming one drink around 11 P.M. the night before her arrest, but denied that she was intoxicated.
+Wilford Barbeau, testifying in behalf of appellant, corroborated appellant’s testimony as to the one drink and further stated that in his opinion she was not intoxicated when he left her around midnight.
+The jury resolved the disputed issue of intoxication against appellant and we find the evidence sufficient to sustain their verdict.
+Appellant has filed no brief in this appeal.
+There are no objections to the court’s charge, nor does the record contain any formal bills of exception.
+An examination of the informal bill contained in the record reflects no reversible error therein.
+The judgment is affirmed.
