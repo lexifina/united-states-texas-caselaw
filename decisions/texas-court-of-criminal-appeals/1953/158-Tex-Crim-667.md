@@ -1,0 +1,59 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,336"
+decided: "1953-04-15"
+citations: ["158 Tex. Crim. 667"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Ray Blankenship."]
+source_url: "https://static.case.law/tex-crim/158/cases/0667-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2483465
+cites_cases: ["115 S. W. 2d 955", "12 N.Y.S. 2d 435", "134 Tex. Cr. R. 299", "257 App. Div. 40"]
+---
+
+# Ex parte Blankenship
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The Governor of this state issued his executive warrant based upon the requisition and supporting papers of the Governor of the State of California, authorizing the arrest, delivery, and return of appellant to the State of California to answer a charge of burglary.
+Appellant sought his discharge by writ of habeas corpus filed in the district court of Denton County, Texas. After a hearing, the said appellant was remanded to the sheriff of Den-ton County, Texas, to be returned to the State of California, and from said order he gave notice of appeal.
+The requisition of the Governor of the State of California recites that “It appears by the annexed application for requisition and copies of complaint and supporting papers, which I certify are authentic and duly authenticated in accordance with the laws of the State of California.” One of the supporting papers is an authenticated copy of the complaint alleging in positive terms that appellant committed burglary on or about the 22nd day of October, 1952, in California, and is signed and sworn to before a magistrate in said state. Said requisition is also accompanied by authenticated copies of affidavits stating that appellant was present in the demanding state of California at the time of the commission of the crime charged against him, and that thereafter he fled from said state, and said requisition is further accompanied by an authenticated copy of the warrant of arrest for appellant issued by the same magistrate who issued the complaint.
+The requisition and all accompanying and supporting papers were introduced in evidence upon the hearing.
+It is contended that the trial court erred in failing to discharge appellant on the ground that the California demand was based upon a complaint made upon information and belief, and appellant further insists that the testimony of witness Orest Johnson established that said complaint was based upon information and belief and the complaint is therefore insufficient to support the issuance of the requisition on the part of the demanding state, and should not be recognized by the asylum state.
+The first count in the complaint is as follows:
+“Capt. Orest Johnson being first duly sworn, on oath says: That the crime of a Felony, to-wit: Violation of Sect. 459, P.C. (Burglary) 5 Counts ha____been committed, and that the above named defendant -------is guilty thereof; Committed as follows: That said defendant-------in Palm Springs Judicial District in the County of Riverside, State of California, on or about October 22, 1952, did wilfully, unlawfully and feloniously enter that certain building, 591 North Sunrise Way, with intent then, there and therein to commit the crime of larceny.”
+The form of the other four counts in said complaint is the same.
+Upon this hearing, Orest Johnson, who was personally present, testified that “I knew of my own knowledge something about who committed the offense that I charged in the complaint,” and further testified that he signed the complaint upon information and belief.
+The complaint, upon its face, is sufficient to support the demand for extradition and for the issuance of the executive warrant. The complaint being positive in its terms and substantially charging an extraditable offense, the relator is without authority in this proceeding to impeach the sufficiency of the complaint by proof that the complainant acted on information and belief.
+We conclude that no error is shown in regard to the sufficiency of the complaint.
+Appellant further insists that the court erred in remanding him because the California demand failed to allege that he was present in the State of California on the date of the offense charged in the complaint.
+The California demand and its accompanying and supporting papers included the complaint and affidavits stating that accused was in California at the time of the commission of the crime charged against him. This was a sufficient demand. In a similar case it was held:
+“A demand for extradition of accused was not insufficient on ground that it did not allege that accused was present in demanding state at time of commission of alleged crime, where indictment, charging that on date alleged and within demanding state the accused committed crime alleged, was attached to demand.” People ex rel. Higley v. Millspaw, 1939, 12 N.Y.S. 2d 435, 257 App. Div. 40.
+It is further contended that the trial court erred in remanding the relator because the criminal complaint which accompanied the demand did not charge a crime.
+The criminal complaint charged a violation of Sec. 459, Penal Code (burglary) — (5 Counts) and charges as follows:
+“* * * did wilfully, unlawfully and feloniously enter that certain building at 591 North Sunrise Way with intent to commit the crime of larceny.”
+The other four counts charged in a similar manner.
+A copy of the application for requisition in the demanding state accompanies the requisition directed to the Governor of this State, and was introduced in evidence without objection. Therein is found the following:
+“* * * in accordance with the laws of this State * * * the definition of the aforesaid crime of which the fugitive is charged,***
+“459. ‘Every person who enters any house, room, apartment, tenement, shop, warehouse, store, mill, barn, stable, outhouse or other building, * * * with intent to commit grand or petit larceny or any felony is guilty of burglary.’ ”
+This complaint substantially charges appellant with having committed a crime under the law of the State of California, thus no error is shown.
+o
+The judgment of the trial court is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (DAVIDSON, Judge.)
+
+ON appellant’s motion for rehearing.
+DAVIDSON, Judge.
+Appellant insists that we were in error in reaching the conclusion that he was not authorized to impeach the sufficiency of the complaint by proving that the facts therein stated were based by the affiant upon information and belief and not upon actual knowledge, as appeared from the face of the affidavit.
+We remain convinced of the correctness of that conclusion, as supporting which see Ex parte Kinsloe, 134 Tex. Cr. R. 299, 115 S. W. 2d 955.
+In those cases wherein he held that extradition would not be authorized where the charge in the demanding state was by information, we had reference to the presentment by the prosecuting attorney upon information of the accusatory pleading. Such pleadings showed, upon their face, to be informations as distinguished from affidavits or complaints.
+The fact that the instant complaint was, as a matter of law, made upon information and belief would not constitute it an information as that term is used in describing an accusatory pleading. Hence, the question here is not whether the charge in the demanding state rests upon information but whether it rests upon a wholly insufficient affidavit or complaint.
+Under the laws of this state (Art. 222, Vernon’s C. C. P.) a complaint may be founded upon the oath of the affiant that he “has good reason to believe, and does believe” the facts alleged therein. Of necessity, such an affidavit may be based upon information and belief. Under such statute, the instant complaint would have been valid under the laws of this state.
+We are referred to no statute of the demanding state (California) to the contrary.
+From what has been said, the conclusion is expressed that not only was appellant unauthorized to impeach the complaint, but, in addition, the facts relied upon to impeach the same did not defeat extradition by the Governor of this state.
+The motion for rehearing is overruled.
+Opinion approved by the court.
