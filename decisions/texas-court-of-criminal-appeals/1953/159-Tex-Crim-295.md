@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,620"
+decided: "1953-11-18"
+citations: ["159 Tex. Crim. 295"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward Van Ness v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0295-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2473334
+cites_cases: ["123 S.W. 2d 350", "136 Tex. Cr. R. 44", "144 Tex. Cr. R. 614", "149 Tex. Cr. R. 612", "152 S.W. 912", "157 Tex. Cr. R. 353", "165 S.W. 2d 192", "197 S.W. 2d 1013", "248 S.W. 2d 736", "68 Tex. Cr. R. 584"]
+---
+
+# Van Ness v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted for the offense of driving an automobile upon a public highway while intoxicated, and his punishment was assessed at one year in jail and a fine of $100.
+Earl Weatherly testified that he saw an automobile stopped at a stop sign and that it then proceeded north across a street intersection and was struck by appellant’s automobile which was travelling west; that he helped lift the other automobile off of a man pinned underneath. He further testified that two or three persons were in appellant’s car and one person was in the car that was struck; that he was unable to estimate the speed of either car.
+Police Officers Kent and O’Donahue testified that they investigated an automobile accident on February 24, 1952, and found appellant at the scene of the accident; that appellant told them that he was the driver of the Ford automobile therein involved. They further testified that appellant’s speech was blurred, his tongue was thick, he staggered as he walked, they could smell liquor on his breath, and in their opinion he was intoxicated. These officers further said that they took all of the parties to the hospital.
+John Ferro, Jr., testified that on February 24, 1952, his father was injured in an automobile accident with appellant, and was taken to a hospital; that he talked to appellant at the hospital and he smelled liquor on his breath.
+Appellant testified that he and his wife (they were not married at the time of the accident) arrived in Galveston from Houston about 2 A. M. on February 24, 1952, and then visited several clubs; that each drank a Tom Collins, which consisted of a lemon mixture and a small amount of gin, in each of two clubs, and these were all the intoxicants they drank. He further testified that after driving around for some time and then eating, they started on their return to Houston; that he saw a car approaching the intersection of the street on which they were travelling and he thought it would stop, and, as a result of its failure to stop, their cars collided. Appellant testified that he was not intoxicated and was travelling about thirty miles per hour at the time of the collision.
+Mrs. Van Ness testified and her testimony was, in substance, the same as that of appellant.
+By Bills of Exception Nos. 1 and 2, appellant complains of the admission in evidence of the following questions asked the witness Ferro, who was a son of the person driving the car which appellant struck, and the answers thereto, which were as follows:
+“Q. Where is your father now? A. He is dead.
+“Q. When did he die? A. February 24, 1952.”
+His objections were that the same were immaterial, irrelevant, highly prejudicial, inflammatory, and would cause the jury to infer that the witness’ father died as a result of the collision, and further that the death was not part of the res gestae.
+Appellant’s testimony placed the cause of the collision upon the driver of the other car. To meet any adverse inference that might be drawn from the failure of the state to produce the evidence of the driver of the car with whom appellant collided, it was proper to explain the failure of the state to produce an eye witness. Hughes v. State, 68 Tex. Cr. R. 584, 152 S.W. 912; Chandler v. State, 157 Tex. Cr. R. 353, 248 S.W. 2d 736. The failure of the state to introduce the driver of the car as a witness or to explain his absence would have been a proper subject of argument to the jury on the part of the defense. Offerle v. State, 136 Tex. Cr. R. 44, 123 S.W. 2d 350; Duran v. State, 144 Tex. Cr. R. 614, 165 S.W. 2d 192.
+There would have been no error if the state had proved that in fact Mr. Ferro met his death as a result of the collision, and hence there is no error in the proof that was made. There was no proof in this case of “gory details” or long continued suffering prior to death so as to bring this case within the rule of Allen v. State, 149 Tex. Cr. R. 612, 197 S.W. 2d 1013.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the court.
