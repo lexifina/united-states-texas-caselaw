@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2250"
+decided: "1901-01-30"
+citations: ["42 Tex. Crim. 464"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. Hernan v. The State."]
+source_url: "https://static.case.law/tex-crim/42/cases/0464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 171563
+cites_cases: ["34 S. W. Rep., 945", "40 Texas Crim. Rep., 150"]
+---
+
+# Hernan v. State
+
+## Majority (HENDERSON, Judge.)
+
+HENDERSON, Judge.
+Appellant was convicted of burglary, and his punishment assessed at two years confinement in the penitentiary, and he prosecutes this appeal.
+There are but two bills of exception in the record, and both appear to be well taken. The first bill relates to the admission of a statement of appellant while he was under arrest, not having been cautioned. Appellant relied on alibi as his defense, and introduced testimony to show that he was at another and different place in the city of Dallas on the night of the alleged burglary and at the time thereof. On the trial he was a witness on his own behalf. On cross-examination the State asked him if he did not state to Gates (the officer who arrested him) that he could not be guilty of burglarizing the house of Boqueta on the night of the 31st of May, 1900; for he was then in Hot Springs, Ark. It was shown in this connection that appellant was under arrest at the time, and had not been warned. Defendant objected to this testimony. The witness, being compelled to answer, stated, substantially, that he did not so state to the officer. Subsequently the officer, Gates, was introduced by the State, and he testified, over the objections of appellant, that defendant did so state to him. It is insisted by appellant that though this testimony was, strictly speaking, not a confession, yet it was used against him as an inculpatory fact, in view of the defense of alibi set up by him, and was therefore, if not within the letter, within the spirit, of our statute, which inhibits the admission of the confessions of appellant while under arrest, unless he had been duly warned. In support of his contention, he cites us to Bailey v. State, 40 Texas Criminal Reports, 150. That case holds, in effect, that the statute relating to confessions is not confined strictly to a technical confession, but covers any fact or circumstance involved in a statement of defendant made while in jail or under arrest, and not having been cautioned, which may be used by the State as a criminative or inculpatory fact against him. If appellant had answered the question that he had so stated to the officer that he was in Hot Springs at the time of the commission of the offense, the effect of said statement would be to negative and destroy the testimony supporting his alibi. Appellant denied this, and his denial was made the predicate' for-Ms impeachment. That was what was attempted in Bailey’s case, supra, and which this court said could not be done. See also Fulcher v. State, 28 Texas Crim. App., 465; Gardner v. State (Texas Crim. App.), 34 S. W. Rep., 945.
+The Stgte was permitted to prove, over appellant’s objection, by the prosecuting witness, Roqueta, that when he left his store, just before the burglary, and as he passed the saloon situated next door to his store, he saw the boy that had been in his store with defendant a short time previously sitting in front of said saloon, and the boy asked him where he was going; that witness passed on, and in three or four minutes returned, and, as he came by the saloon, as soon as the boy saw him he ran ba'ck into said saloon like he was shot out of a gun. This testimony was objected to on the ground that appellant was not present, and could not be bound by the acts of said boy, no conspiracy having been shown between appellant and the boy. So far as disclosed by the record, the only time appellant and the boy were seen together was on that night a short time previous to the burglary, as testified' to by the prosecutor, Roqueta. When he subsequently saw the boy appellant was not with him, but as witness Roqueta passed on, and went into his store, he there saw appellant in his store attempting to open his money drawer. The conduct of the boy might raise a strong suspicion that he was co-operating with appellant in the burglary, but we do not think it sufficient for that purpose. Nor is there any testimony showing a prior conspiracy between appellant and the boy to burglarize said store. The circumstance of flight of the boy, or his running back into the saloon when he saw Roqueta coming back towards his store, while not admissible in evidence against appellant, was evidently calculated to injure him, and should not have been admitted in evidence. For the reasons indicated, the judgment is reversed and the cause remanded.
+Reversed and, remanded.
