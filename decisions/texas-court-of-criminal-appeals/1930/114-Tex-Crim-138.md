@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "12928"
+decided: "1930-02-05"
+citations: ["114 Tex. Crim. 138", "25 S.W.2d 341"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Leonard Thedford v. The State."]
+source_url: "https://static.case.law/tex-crim/114/cases/0138-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5174347
+cites_cases: ["108 Tex. Cr. R. 1", "194 S. W. 590", "236 S. W. 100", "247 S. W. 854", "299 S. W. 422", "81 Tex. Cr. R. 54", "90 Tex. Cr. R. 552", "93 Tex. Cr. R. 354"]
+---
+
+# Thedford v. State
+
+## Majority (CHRISTIAN, Judge.)
+
+CHRISTIAN, Judge.
+The offense is transporting intoxicating liquor; the punishment confinement in the penitentiary for one year.
+The witness White was an accomplice, and the court instructed the jury that he must be corroborated. His testimony was substantially as follows: Appellant requested White to bring him fifty gallons of whiskey, agreeing to pay him one hundred dollars. for hauling it. Having procured the whiskey, White carried it into Waco in his automobile. He was accompanied on the trip by his son and another person, neither of whom knew that he was transporting whiskey. Upon reaching Waco, he drove to Bolton’s restaurant, where he met appellant. Driving his own car, appellant drove out of town, White and his companions following him with the load of whiskey. Upon reaching a point in a pasture near Waco, appellant and White, in the presence of White’s companions, transferred the whiskey to. appellant’s car. This task being completed, White and appellant drove appellant’s car to town and stopped at a house, ostensibly for the purpose of unloading the whiskey. Appellant called someone on the telephone. He then reported to White that there was no one at home and that they would have to take the whiskey out and hide it. Whereupon White and appellant drove to a gravel pit near Waco, where they unloaded the whiskey. White’s companions were not present at this time. While White and appellant were unloading the whiskey, appellant suggested that occupants of a car nearby might be watching them with the view of stealing the .whiskey. After the whiskey had been unloaded, appellant suggested that he would have to go to Bolton’s restaurant for White’s money. Following this suggestion, the parties went to Bolton’s, Bolton declared that he wanted to go out and determine whether all of the whiskey had been delivered before he paid White. The parties returned to the gravel pit and found that someone had removed the whiskey. They were unable to find it. White suggested that Bolton and appellant had had the whiskey removed in order that they might avoid paying him. He demanded his money, but payment was refused. Later, after the parties had returned to Waco, Bolton and appellant attacked-White, severely beating him. He was carried to a hospital where his wounds were dressed.
+White’s companions testified that-they saw the cases of whiskey transferred from White’s car to appellant’s car, and that they saw appellant and White drive into Waco with their load." They declared that they did not know what the cases contained. One of these witnesses further testified that he heard a conversation between White and appellant as the whiskey was being transferred to appellant’s car. Appellant said: “Reckon it is all here?” White replied: “Yes, I guess it is.” Appellant then advised White, in the witness’s presence, that he did not have the money with which to pay him, and that White would have to go with him to Bolton’s restaurant.
+Appellant’s testimony in his own behalf was to the effect that White had in his presence agreed to sell Bolton some whiskey, and that pursuant to the agreement White had brought the whiskey to Waco. Appellant further testified that, at the instance of Bolton, he took White in his car and drove to the gravel pit, followed by White’s car, which was driven by the parties who had accompanied White to Waco, and that upon reaching the gravel pit he and White unloaded the whiskey from White’s car. He denied that the whiskey was ever transferred to his car and carried into Waco by him. He declared that he did not know that the cases he and White unloaded contained' whiskey.
+Bolton, who had died prior to the trial of this case, carried approximately thirty-five gallons of whiskey to the police station in Waco after the trouble had arisen between him and White. White testified that this whiskey was no part of the whiskey he had delivered to appellant.
+Appellant insists that the corpus delicti was established alone by the testimony of White, -who was an accomplice, his contention being that it was not shown by testimony other than that of the accomplice that the cases delivered by White to appellant contained intoxicating liquor.
+Under the terms of the statute, the accused cannot be convicted on the testimony of an accomplice unless there be corroborative evidence which in and of itself tends to connect the accused with the commission of the crime, and the corroboration is not sufficient if it merely shows that a crime has been committed. Art. 718, C. C. P. A conviction for crime cannot be sustained, if the fact that a crime has been committed rests solely on the testimony of an accomplice. McDaniel v. State, 247 S. W. 854. The conviction cannot be sustained unless: (a) The accomplice testimony of the corpus delicti is corroborated; and (b) there is other testimony tending to connect the appellant with the commission of the offense. Townsend v. State, 236 S. W. 100, and authorities cited.
+This court has often, in testing the sufficiency of evidence offered to corroborate an accomplice, resorted to consideration of the corroborative evidence alone in order to see if there be in such evidence any fact which tends to point to the accused,as the offender. Townsend v. State, supra. The corroboration may be either by circumstances or positive testimony. Pope v. State, 194 S. W. 590. Considering the corroborating evidence to the point that a crime was committed, it is observed that appellant testified that the accomplice agreed, in his (appellant’s) presence, to sell Bolton fifty gallons of whiskey; that thereafter the accomplice appeared with a load of containers, which the accomplice told appellant contained whiskey ; that appellant went with the accomplice to a gravel pit where they unloaded the containers. This, within itself, would seem sufficient to corroborate the positive statement of the accomplice that he transported whiskey. In addition to this, we have the testimony of the companions of the accomplice to the effect that they saw the containers transferred from accomplice’s car to appellant’s car, and heard appellant and the accomplice discuss the question as to whether all of the containers contracted for were present. Again, one of these witnesses heard appellant tell the accomplice that they would have to go to town for the accomplice’s money. Our conclusion is that the combined and cumulative weight of the evidence furnished by the non-accomplice witnesses was sufficient to meet the requirement of the statute, and that the evidence was sufficient to establish the corpus delicti. Minor v. State, 299 S. W. 422.
+No other question is presented for review.
+The judgment is affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+Appellant presents but one question, viz.: that the accomplice was not sufficiently corroborated. The matter was gone into at some length upon original presentation, and the analysis of the testimony appearing in our opinion seems unquestioned by appellant, and seems amply sufficient to show that his contention on this rehearing is without support.
+The motion for rehearing will be overruled.
+Overruled.
