@@ -1,0 +1,42 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,511"
+decided: "1956-10-31"
+citations: ["164 Tex. Crim. 76"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tommy Nichols v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2607244
+cites_cases: ["290 S.W. (2d) 247"]
+---
+
+# Nichols v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for the unlawful possession of beer for the purpose of sale in a dry area; the punishment, a fine of $350.
+It was stipulated that Coleman County was a dry area.
+A search by the officers of appellant’s pick-up truck revealed sixteen quart bottles of beer.
+Appellant complains of the search of his pick-up truck and the admission in evidence of the results thereof.
+Deputy Sheriff Ray, one of the officers making the search, testified that the appellant gave them permission to search his pick-up truck.
+Appellant while testifying in his own behalf expressly denied giving the officers permission to search the pick-up truck.
+The evidence raised an issue as to whether appellant consented to the search. 38 Texas Jur. 82, Sec. 58.
+The jury resolved all the issues of fact against the appellant and we find the evidence sufficient to support their verdict.
+The judgment is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (DICE, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING
+DICE, Judge.
+Appellant complains of our failure to pass upon his objection to the admission in evidence of the sixteen quart bottles of beer on the ground that the beer had been introduced in evidence in another case styled The State of Texas vs. Sterling Benson, 163 Tex. Cr. Rep. 277, 290 S.W. (2d) 247.
+The record does not sustain appellant’s contention that the beer had been introduced in evidence in another case.
+An examination of the record, however, does show that, before the beer was admitted in evidence, it was positively identified by the two officers who made the search as the beer found in appellant’s pickup.
+Clearly the beer was admissible in evidence against the appellant.
+We remain convinced that the case was properly decided in our opinion on original submission.
+The motion is overruled.
+Opinion approved by the Court.
