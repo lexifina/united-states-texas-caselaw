@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,547"
+decided: "1956-11-14"
+citations: ["163 Tex. Crim. 609"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Perry Sewell v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0609-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460164
+---
+
+# Sewell v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The offense is passing a forged instrument; the punishment, 3 years in the penitentiary.
+Grady Jacobs, a witness for the state, identified the appellant at the trial as the person who represented himself to be Billy D. Corley at the time he passed a check to him, dated November 29, 1955, drawn on the Grand Prairie State Bank, payable to the A & P Food Store in the amount of $15, and signed Billy D. Corley with the address of 601 Church street, Grand Prairie, written on the back of the check. The above described check was identified at the trial by the witness Jacobs as the same check passed to him by the appellant and it was introduced in evidence as State’s Exhibit No. One.
+Billy D. Corley testified that he worked at the same place with the appellant in November, 1955, and appellant asked twice to see his billfold which he showed to him, that the billfold contained his “driver’s license” on which was his signature and his address of 601 Church Street, and that two or three days later he missed his “driver’s license.” He was shown and examined State’s Exhibit No. One and testified that he did not sign the check or authorize appellant or any other person to sign his name thereto, and that he had never had an account at the Grand Prairie State Bank. He further testified that a person whose description compared with that of the appellant passed other checks with his name signed to them at which time his “driver’s license” was exhibited for identification.
+Appellant did not testify.
+John C. Smith, Jr., called as a witness by the appellant, testified that Ray Miller, whom he identified and pointed out in the courtroom, passed a check to him in December, 1955, and showed him Billy Corley’s “driver’s license” for identification.
+Appellant also called Ray Miller as a witness who testified on cross-examination that the appellant showed him Billy D. Corley’s “driver’s license” which he said he stole from Corley’s billfold for the purpose of using it in passing forged checks; that he was with the appellant on November 29, when appellant passed a check to the A & P Food Store in Grand Prairie while representing himself to be Billy D. Corley and had with him Corley’s “driver’s license” for identification purposes.
+We find the evidence sufficient to support the jury’s verdict.
+We have carefully examined each of the appellant’s informal bills of exception and are of the opinion that they do not reflect error.
+The judgment is affirmed.
+Opinion approved by the Court.
