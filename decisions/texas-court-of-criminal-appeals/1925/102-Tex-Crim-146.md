@@ -1,0 +1,45 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9126"
+decided: "1925-05-27"
+citations: ["102 Tex. Crim. 146", "277 S.W. 651"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willie Fulton v. The State."]
+source_url: "https://static.case.law/tex-crim/102/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5112197
+cites_cases: ["103 S. W. 879", "11 Tex. App. 219", "11 Tex. Cr. App. 219", "116 S. W. 598", "16 S. W. 770", "17 Tex. App. 311", "17 Tex. Cr. App. 311", "170 S. W. 151", "271 S. W. 610", "272 S. W. 458", "30 S. W. 219", "30 S. W. 319", "30 Tex. App. 64", "30 Tex. Crim. Rep. 64", "38 Tex. Cr. R. 515", "41 S. W. 618", "43 S. W. 1024", "43 S. W. 112", "51 Tex. Cr. R. 545", "55 Tex. Cr. R. 345", "61 S. W. 715", "7 Tex. App. 48", "75 S. W. 505", "75 Tex. Cr. R. 50"]
+---
+
+# Fulton v. State
+
+## Majority (BERRY, Judge.)
+
+BERRY, Judge.
+Appellant was convicted in the District Court óf Bell County for the offense of rape and his punishment assessed at confinement in the penitentiary for a term of seven years.
+The offense is alleged to have been committed on Jewel Tharp, a female under the age of fifteen years. Prosecutrix testified that at about the time alleged in the indictment she, appellant, another boy and another girl went riding in a Ford car at night and that appellant stopped the car and the other couple got out walked on up the road and left her and appellant together, and that appellant had carnal knowledge of her in the car. The State also offered in evidence the other girl, who testified that she and her escort left appellant and prosecutrix in the car at the place designated by prosecutrix. The State also offered testimony to the effect that on ór about the 24th day of October, 1923, prosecutrix gave birth to a baby. Prosecutrix also testified that the act of intercourse happened about the latter part of January or the first of February.
+By bill of exceptions No. 1, appellant complains at the court’s action in overruling his application for a continuance. Appellant stated in said application that he expected to prove by the witness Artie Fulton that the defendant was not in Bell County, Texas, during the month of February, 1923, but that during the whole of the said month was in Lubbock County, Texas, and was not present in Bell County, Texas, the latter part of January, or at any time during January or February, 1923, and that during the whole of said months, and for four or five months next succeeding said months, was a resident of Lubbock County, Texas. The court overruled this application for a continuance, and after the State’s testimony was closed appellant again presented his application and amended it by stating that he could prove by the witness Artie Fulton that appellant was not present in Bell County during either January or February, 1923.
+When the bill of exceptions taken to the refusal of a continuance does not show whether the application was the first or subsequent application it will be presumed to be a subsequent application. Massie v. State, 30 Tex. Crim. App. 64, 16 S. W. 770; Roma v. State, 55 Tex. Crim. App. 345, 116 S. W. 598. Under the rule above stated this will be treated as a subsequent application.
+It is well settled in Texas that an application for continuance to prove an alibi should be so definite as to the statement of the facts as to at least show opportunity of the absent witness to be able to testify as to the alibi. Underwood v. State, 38 Tex. Crim. App. 193, 41 S. W. 618; Pilot v. State, 38 Tex. Crim. Apps. 515, 43 S. W. 1024; Villireal v. State, 61 S. W. 715.
+It is also the rule that an application that sets out mere conclusions and vague and indefinite statements proposed to be proved by an alibi witness is properly overruled. Cullen v. State, 30 S. W. 319; Washington v. State, 51 Tex. Crim. Apps. 545, 103 S. W. 879.
+Under the rules above stated it is manifest that the application was wholly insufficient. We are not prepared to hold that the mere statement that the defendant was not in Bell County but was in Lubbock County for a number of months, showed with sufficient certainty and detail facts to which the absent witness would be able to testify. We see no error in the court’s action in overruling the application for a continuance.
+Appellant presented many objections and exceptions to the court’s charge which we have very carefully examined, but are unable to sustain any of appellant’s contentions with reference thereto. The charge properly defined the offense of rape under the age of consent and further charged the jury that to warrant a conviction it devolved upon the State to establish beyond a reasonable doubt the following three things: 1st, the act of carnal knowledge at or about the time and place charged in the indictment; 2nd, that prosecutrix was under the age of fifteen years; and 3rd, that prosecutrix was not the wife of the defendant, and instructed the jury that if the State has failed to establish any of the said propositions to acquit the defendant.
+Appellant insists that the question of reasonable doubt should have been applied to each of the three elements of the offense separately, and that it was not sufficient to charge it as above stated. We cannot agree with this contention. It has long been the rule in this State that the charge need not couple reasonable doubt with each phase of the case if it be given in regard to the whole case. Hutto v. State, 7 Tex. Crim. Apps. 48; Pope v. State, 170 S. W. 151, Branch’s P. C. page 5, for full collation of many cases sustaining the above proposition.
+In addition to the foregoing charge submitting the reasonable doubt, the court also charged that the defendant is presumed to be innocent until his guilt is established by legal and competent evidence beyond reasonable doubt, and instructed the jury that if they had a reasonable doubt to acquit him.
+Every right which the defendant had was thoroughly protected by the court’s charge. And there being no error found in the record, it is our judgment that the case should in all things be affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (BERRY, Judge.)
+
+ON MOTION FOR REHEARING.
+BERRY, Judge.
+At the last term of this court this case was affirmed. A careful examination- of appellant’s motion for rehearing has served to convince us that we were in error in failing to hold that appellant was entitled to a new trial on account of the court’s action in overruling his application for a continuance.
+We adhere to the holding in our former opinion to the effect that the motion for a continuance was rather vague in that it failed to set out in detail the facts that appellant expected to prove by the absent witness. Our attention, however, has been called by appellant to the fact that on the motion for a new trial the appellant produced the affidavit of the absent witness and in this affidavit the absent witness not only avers his willingness to testify that the defendant was not in Bell County but was in Lubbock County at the time the offense was alleged to have been committed, but he further avers in his affidavit that he is willing to testify that the appellant was a resident of Lubbock County, Texas, during the latter part of the year 1922, and the major part of 1923, .-mv T'nrt of the months of January and February, 1923, but chat he was continuously in Lubbock County, some four hundred miles distant from Bell County, during said two months, and that the witness was in daily contact with and saw the appellant daily during said months of January and February, 1923.
+It seems to be well settled in this State that if on motion for new trial the affidavit of the absent witness | is produced showing that he would testify as stated in the application for a continuance, then the court is not the judge of the probable truth of the absent witness’ testimony.
+In the instant case, as above indicated, the affidavit of the absent witness was attached to the motion for a new trial, and the same shows that he will testify definitely and positively to facts that are certain and pertinent, showing a complete alibi for the appellant at the very time that the prosecuting witness testifies that the offense of rape was committed. Under this condition of the record, we have no option but to grant the motion for rehearing and to reverse and remand the case. Sec. 334 Branch’s Ann. P. C.; Garold v. State, 11 Tex. Cr. App. 219; Jetton v. State, 17 Tex. Cr. App. 311; Leroy v. State, 75 S. W. 505; Bryant v. State, 271 S. W. 610; Derrick v. State, 272 S. W. 458.
+Appellant’s motion for .rehearing is granted, and the judgment of the trial court is reversed and cause remanded.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by- the Judges of the Court of Criminal Appeals and approved by the Court.
