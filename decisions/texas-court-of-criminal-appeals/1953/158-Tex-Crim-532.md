@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,452"
+decided: "1953-05-13"
+citations: ["158 Tex. Crim. 532"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Samuel Anthony Eremo."]
+source_url: "https://static.case.law/tex-crim/158/cases/0532-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2480835
+cites_cases: ["252 S.W. 2d 935"]
+---
+
+# Ex parte Eremo
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+This is an extradition case. The Governor of this state issued his executive warrant based upon the requisition and supporting papers of the Acting Governor of the State of Illinois, authorizing the arrest, delivery, and return of appellant to the state of Illinois, to answer a charge of robbery.
+Appellant sought his discharge by a writ of habeas corpus filed in Criminal District Court No. 3 of Harris County, Texas. After a hearing, appellant was remanded to the sheriff of Harris County for delivery to the agent of the State of Illinois, and from said order gave notice of appeal.
+The executive warrant of the Governor of this state and the requisition and accompanying papers were introduced in evidence. They made out a prima facie case that the accused is a fugitive from justice and is subject to extradition.
+Appellant testified that he was in the State of Michigan on November 30, 1950, the time the offense was alleged to have been committed and, therefore, could not have been in the State of Illinois on said date.
+Nathan Freeman testified on the hearing in this case that he was the victim of the robbery upon which the cause is based; identified appellant at the hearing; stated that appellant was in the State of Illinois at the time the offense was committed; and that appellant committed the offense. Among the papers accompanying the requisition of the Governor of the State of Illinois is an affidavit stating that appellant was in said state at the time the offense was committed and that he committed the offense.
+The trial court, in remanding appellant for extradition, resolved the issue of his presence in the demanding state at the time of the alleged commission of the offense against him.
+Under the executive warrant of the Governor of this state, the requisition and accompanying papers, and the evidence, the trial court was authorized to conclude as he did, and remand the appellant for extradition. Delgado v. State, (Page 52, this volume), 252 S.W. 2d 935.
+The judgment of the trial court is affirmed.
+Opinion approved by the court.
