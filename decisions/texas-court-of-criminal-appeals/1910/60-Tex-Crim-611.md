@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "669"
+decided: "1910-12-21"
+citations: ["60 Tex. Crim. 611"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shy Jones v. The State."]
+source_url: "https://static.case.law/tex-crim/60/cases/0611-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4593038
+cites_cases: ["110 S. W. Rep., 66", "120 U. S., 489", "127 U. S., 640", "128 U. S., 129", "20 S. W. Rep., 85", "20 S. W. Rep., 978", "26 S. W. Rep., 835", "31 Texas Crim. Rep., 469", "33 Texas Crim. Rep., 367", "38 Texas Crim. Rep., 482", "41 Texas Crim. Rep., 254", "41 Texas Crim. Rep., 268", "43 S. W. Rep., 513", "45 S. W. Rep., 245", "47 Texas Crim. Rep., 634", "49 Texas Crim. Rep., 60", "50 Texas Crim. Rep., 563", "52 Texas Crim. Rep., 575", "53 S. W. Rep., 869", "53 S. W. Rep., 882", "53 Texas Crim. Rep., 422", "85 S. W. Rep., 794", "87 S. W. Rep., 669", "87 S. W. Rep., 689", "90 S. W. Rep., 41", "92 S. W. Rep., 1086", "92 S. W. Rep., 1092", "92 S. W. Rep., 1093"]
+---
+
+# Jones v. State
+
+## Majority (RAMSEY, Judge.)
+
+RAMSEY, Judge.
+In this case an indictment was preferred against appellant charging him with pursuing the business of selling and offering for sale intoxicating liquors by soliciting and taking orders therefor, which occupation was then and there made taxable by law without first 'having paid the taxes due the State, which, it was averred, amounted to the sum of $4,000. On trial he was convicted on this charge, and his- punishment assessed at a fine of $4,000 and ninety days confinement in jail.
+1. Before the trial appellant made a motion to quash the indictment on the ground that the Act of the Legislature under which he was sought to be prosecuted was unconstitutional for various reasons therein set forth. In view of the disposition we shall make of the case, we shall not undertake at all to pass on this question.
+2. In this case the evidence shows that appellant lived in the town of Mexia. That about the time the charge was made against him he made frequent trips to the town of Teague, some twelve miles south of Mexia, on the Trinity & Brazos Valley Bailway. That these trips were sometimes as frequent as two or three times a week, and that it was his habit not infrequently on his return from Teague to bring to Mexia, sometimes in a valise and sometimes in a sack, bottles of whisky of various sizes for different parties. The evidence fails to show that at any time appellant personally solicited anyone to order liquor by asking anyone to make such order. All the testimony shows that in every case where he brought whisky from Teague for anyone that such person approached him and asked him to get whisky for them, paying him the price for the quantitjr of whisky desired. Occasionally these requests were denied on the ground that he was not going to Teague, but more frequently they were complied with. The evidence shows that in some cases persons desiring whisky wrote out the kind wanted as well as the price, but in very many instances these requests were verbal and were made without any suggestion or any procurement on the part of appellant. We are not prepared to say whether or not, in view of the continued and continuous custom and habit of appellant in carrying on this business, and in view of the publicity and volume that same had attained, he could, under any circumstances, be held guilty of soliciting orders. However, as stated, in most instances, the requests for the purchase of whisky were verbal, and in practically every instance without compensation or payment of any kind to appellant. In this condition of the record, counsel for appellant requested the court to give the following special instructions:
+1. “Gentlemen of the jury: At the request of the defendant you are instructed that one who without compensation to himself and who derived no profit, or does not contemplate deriving any profit from the transaction, would not in law be held to be pursuing the occupation of selling intoxicating liquors, by purchasing for another, whisky, at his request, with money furnished by said party, and delivering same.
+2. “Gentlemen of the jury: At the request of the defendant you are instructed: That a person who simply purchased for another party, at the request of, and with money furnished by said other party, intoxicating liquors, and delivers same to said other party and who did not solicit the order, but who performs said service upon the request of the other party, and who did not own intoxicating liquors, and received no profit from or on account of said transaction, would not in law be guilty of engaging in selling, intoxicating liquors without license.”
+We think that, while possibly not precisely accurate in every respect, these charges presented a view of the case directly pertinent to the facts and should have been given. It is not a case where the guilt of appellant is sought to be fixed by the very few written orders, if such they can be called, vaguely alluded to in the testimony, but it seems to us from the record that his guilt was sought rather to be established by the frequency of the verbal requests given him by the several witnesses. As stated, these requests were voluntarily made by the witnesses, and were complied with without compensation, and without any solicitation at all on 'the part of appellant. The view of the case presented by these special charges was not presented by the court’s charge, and the evidence of verbal requests with reference to liquors was in no respect charged upon by the court. Certainly, the last quoted instruction would seem peculiarly appropriate in this state of the record. i
+For the error pointed out the judgment will be reversed and the cause remanded.
+Reversed and remanded.
+McCord, Judge, absent.
