@@ -1,0 +1,52 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,545"
+decided: "1961-06-24"
+citations: ["171 Tex. Crim. 274"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Melvin M. Burney, Jr. v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2634394
+cites_cases: ["72 S.W. 241"]
+---
+
+# Burney v. State
+
+## Majority (MCDONALD, Judge.)
+
+MCDONALD, Judge.
+Appellant was convicted, by jury, in the district court of Tom Green County, upon an indictment charging him with the offense of intentionally breaking, cutting, and injuring a telephone wire, as denounced by Art. 1334, V.A.P.C. Punishment was assessed at confinement in the penitentiary for two years.
+State’s witness Stella Robertson, who worked in the Cowboy Bar in San Angelo, testified that appellant came into the place around ten o’clock p.m., with some companions, drank for awhile, and then asked her to call someone for him but she refused to make the call; that after an ensuing argument appellant slapped her and hit her with his fist and told her he would cut her throat if she “called in on him” or called the police station. The witness further testified that as one of appellant’s companions left to go to the car he tried to get appellant to leave also, and that appellant then went out the door to the back and cut the telephone wire and then put his knife back in his pocket, after which the telephone would not operate. The witness said that, prior to this, the telephone had been operating and that she had talked to her son by telephone about fifteen minutes before appellant came in.
+The state’s other witness, Alfred Cates, testified that he was “a combination man and trouble shooter” for the General Telephone Company of the Southwest, and that, as an employee of the company, he went to the Cowboy Bar at 901 Cecil Street in San Angelo, where the company operated “a line running into the telephone there”; that when he arrived the telephone was dead; that the wire appeared to have been cut, approximately five feet from, the ground, with a knife or some sharp instrument. The witness testified that he then spliced the wire back together, after which the telephone was back in operation.
+Appellant did not testify nor offer any evidence.
+Appellant first contends that the trial court erred in not sustaining his motion to quash the indictment, in which motion he contends that the indictment failed to give sufficient notice of the offense charged and that it fails to charge a violation of the penal law, and that the essential elements of any penal offense are not alleged with sufficient certainty to charge him with a penal offense.
+With further reference to the insufficiency of the indictment, in his motion for new trial appellant urges as fundamental error the failure of the indictment to charge him with any “ ‘unlawful, wilful or malicious’ ” act or omission, and says, further, that there was no allegation that the telephone wire was in fact a “live wire,” or a wire over which messages could be transmitted.
+Appellant also urges, in his brief, that the indictment should have contained the allegation that he was not the owner of the telephone wire or that it should have alleged the owner thereof, and also that the telephone wire was cut without the consent of the owner.
+Omitting the formal parts, the indictment alleged that appellant “did, then and there intentionally break, cut and injure a telephone wire there situate, to-wit: the telephone line operated by the General Telephone Company of the Southwst at 901 N. Cecil Street in San Angelo, Texas.”
+The indictment tracked the terms of the statute, Art. 1334, supra, which are substantially the same as found in Sec. 1844, Willson’s Criminal Forms, 6th Edition.
+While appellant submits that the proper form of indictment in this case should have followed —at least in substance— that given in Branch’s Ann. P. C., Vol. 4, at page 755, Sec. 2419, in viewing the terms of the statute, Art. 1334, supra, we do not agree with appellant.
+In examining the offense as defined by the statute, it is interesting to note that there are two elements within the offense, the first being with reference to injuring a telegraph or telephone line and the latter portion of the statue dealing with the obstruction of transmission of messages.
+We do agree that, had the indictment been brought under the latter portion of the statute, appellant’s contention as to the correct form in Branch would have been tenable and that it would have been necessary to allege “wilfully.”
+We find no merit in any of appellant’s contentions with reference to the insufficiency of the indictment.
+It is stated in 23 Tex. Jur., p. 635, Sec. 34:
+“It is a general rule that an indictment or information drawn in the language of the statute creating and defining an offense is sufficient. While it is the better and safer practice to employ the precise words of the statute, words of the same or of more extensive import, or language which substantially follows the statutory words, will ordinarily suffice.”
+Appellant complains of the refusal of the trial court to charge on the law of circumstantial evidence.
+After carefully reviewing the record, we are of the opinion that the state’s evidence was direct and that a charge on circumstantial evidence was not warranted.
+Appellant further complains of the failure of the trial court’s charge to contain an instruction to the jury that “if Bill Dean Carnes, or any other person cut the telephone wire, if same was cut, then that the appellant should be acquitted.”
+We find no evidence to support this requested charge.
+Appellant’s other exceptions and objections to the court’s charge have been examined.
+We find the court’s charge a proper one, and appellant’s contentions are overruled. We find the evidence sufficient to support the conviction.
+While we do not agree with appellant’s able court-appointed trial counsel, we certainly commend him for his diligence, in his brief and oral argument.
+Finding no error, the judgment is affirmed.
+
+## Dissent (WOODLEY, Presiding Judge,)
+
+WOODLEY, Presiding Judge,
+(dissenting).
+The indictment contains no allegation that immediately before it was cut the telephone wire was capable of being used for the transmission of telephone communication, yet the court in his charge properly, I believe, instructed the jury that even though they believed beyond a reasonable doubt that the defendant cut and injured a telephone wire, as alleged in the indictment, “before you can find the defendant guilty you must further find and believe beyond a reasonable doubt that immediately before such action of defendant, if any, said wire was then and there capable of being used for the transmission of telephone communication; and if you do not so find and believe, or if you have a reasonable doubt thereof, you will acquit the defendant * * *.'
+Art. 397 C.C.P. provides “Everything should be stated in an indictment which is necessary to prove.”
+Cutting a dead wire would not constitute an offense under Art. 1334 P.C. The cutting or injury to the wire must be such as to interfere with the transmission of messages along the telephone line. S.W. Tel. & Tel. Co. v. Priest, 72 S.W. 241.
+The motion to quash the indictment should have been sustained.
