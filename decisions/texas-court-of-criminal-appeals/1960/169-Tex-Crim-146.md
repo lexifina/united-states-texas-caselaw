@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,465"
+decided: "1960-02-10"
+citations: ["169 Tex. Crim. 146"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. G. (Major) Johnson v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12131605
+cites_cases: ["142 Tex. Cr. R. 227", "147 Tex. Cr. R. 84", "152 S.W. 2d 359", "167 Tex. Crim. Rep. 125", "178 S.W. 2d 528", "43 Tex. Cr. R. 466", "66 S.W. 845"]
+---
+
+# Johnson v. State
+
+## Majority (WOODLEY, Judge)
+
+WOODLEY, Judge
+The offense is the sale of whisky in a dry area; the punishment, a fine of $500.
+The sole ground for reversal is the contention that County Judge Sanford F. Cole, who presided at the trial, was related to appellant “by consanguinity or affinity within the third degree.”
+If such relationship existed, the judge was disqualified. Constitution of Texas, Art. V, Sec. 11; Art. 552 C.C.P.
+If Judge Cole was disqualified the judgment of conviction is void. Gresham v. State, 43 Tex. Cr. R. 466, 66 S.W. 845; Woodland v. State, 147 Tex. Cr. R. 84, 178 S.W. 2d 528.
+The record shows that Judge Cole’s wife and appellant’s wife were niece and aunt, appellant being married to the aunt and Judge Cole to the niece.
+It thus appears that Judge Cole is related by affinity to appellant’s wife, and appellant is related by affinity to Judge Cole’s wife. However, Judge Cole is not related by affinity to appellant.
+The correct rule is set out in the opinion on appellant’s second motion for rehearing in Washburn v. State, 167 Tex. Crim. Rep. 125, 318 S.W. 2d at p. 639, and the cases there cited.
+Otherwise stated, the rule is that in determining whether two persons are related by affinity (marriage) the relationship does not exist where more than one marriage is required to establish it.
+Appellant relies upon Irons v. State, 142 Tex. Cr. R. 227, 152 S.W. 2d 359, which supports his contention.
+While the opinion states the correct rule of law, the court evidently overlooked the fact that the trial judge was related by marriage to the wife of the person who was tried before him, but was not related to the defendant.
+Insofar as Irons v. State may be in conflict with the authorities above cited it is to that extent overruled.
+The judgment is affirmed.
