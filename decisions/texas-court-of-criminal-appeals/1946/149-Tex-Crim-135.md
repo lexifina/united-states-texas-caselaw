@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "23267"
+decided: "1946-02-13"
+citations: ["149 Tex. Crim. 135", "192 S.W.2d 449"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Allen Kitchens v. The State."]
+source_url: "https://static.case.law/tex-crim/149/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2605698
+cites_cases: ["117 S. W. (2d) 1105", "117 S.W.2d 1105", "13 S. W. 860", "13 S.W. 860", "135 Tex. Cr. R. 218", "135 Tex.Cr.R. 218", "143 Tex. Cr. R. 403", "143 Tex.Cr.R. 403", "158 S. W. (2d) 815", "158 S.W.2d 815", "211 S. W. 217", "211 S.W. 217", "231 S. W. 122", "231 S.W. 122", "28 Tex. Cr. App. 503", "28 Tex.Cr.App. 503", "5 A. L. R. 600", "5 A.L.R. 600", "85 Tex. Cr. R. 165", "85 Tex.Cr.R. 165", "89 Tex. Cr. R. 355", "89 Tex.Cr.R. 355"]
+---
+
+# Kitchens v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+On February 5, 1944, J. D. Benedict was employed by the Sun Oil Company as a pumper, attending an oil well situated on Dickerson lease in the Chapel Hill oil field of Smith County. Appellant lived on a tract of land which adjoined the lease. Access to the oil well was through a wire gap, over a cattle guard or driveway, just off a public highway and near appellant’s fence line.
+About dusk of the day mentioned, Benedict, driving a gray 1936 Chevrolet sedan, went to the cattle guard preparatory to entering onto the lease. Appellant, standing nearby on his own premises with a 30/30 rifle in his hand, accosted Benedict and told him not to go down to the oil well; that if he ever went on that lease, he thought more of the Sun Oil Company than he did his life; and that they would carry him out a corpse any time he went down there again. Appellant accused Benedict of illegally producing oil from the well that was running “hot oil” and “not paying the people who owned it for it.” As a result of appellant’s threat, Benedict got into his car and left. Shortly thereafter, in the early evening, Joe Mortimer, accompanied by his wife, was driving a green 1936 Pontiac coupe — with lights on — along the public road when he noticed that the tank battery at the oil well was afire. This caused him to turn into the cattle guard. He got out of the car and approached the wire gap and when about fifteen feet in front of his car he heard a shot or explosion, followed by a second shot. He got into the car and started to back up, when another shot was fired. After backing the car about one hundred feet, there was another shot — the bullet kicking up the dirt behind his left rear wheel. Subsequent investigation showed that the automobile had been struck by three bullets, one entering the rear or turtle-back about ten inches from where the door shuts on the right side of the car, one on the front bumper on the right-hand side, and one on the left front fender where the fender makes a swell between it and the hood of the car. Mrs. Mortimer remained seated in the car during the time. No one was injured by the bullets. Without further detailing the circumstances, they are deemed sufficient to warrant the jury in concluding that appellant fired the shots from a 30/30 rifle while on his own premises, about eighty-five yards from the car.
+Appellant did not testify as a witness in his own behalf, nor did he offer any affirmative defense.
+Under an indictment charging assault with intent to murder Mortimer, with malice, appellant was — under the facts stated — convicted of such assault, without malice, and his punishment assessed at confinement in the State penitentiary for one year.
+There is an absence of any testimony suggesting ill-feeling or motive prompting appellant to kill Mortimer. A passing acquaintance over a period of two years existed between them.
+Appellant was not interested in the oil well or the oil produced. He was not one of the owners who, he claimed, were being mistreated in producing the oil.
+It was the State’s position that appellant was guilty of assault with intent to murder Mortimer, under either of two propositions : (a) that he fired at Mortimer by mistake, believing that it was Benedict, with intent to kill Benedict, and (b) that he fired at Mortimer with intent to kill him. The trial court submitted both theories to the jury. The verdict does not reflect which theory the jury accepted and upon which guilt was predicated.
+In submitting the first theory, the jury were instructed to the effect that if they believed beyond a reasonable doubt that appellant did with a rifle “undertake to assault the said J. D. Benedict with the intent then and there to kill the said J. D. Benedict, and unintentionally assaulted the said Joe Mortimer with intent then and there to kill the said Joe Mortimer,” they should find him guilty of assault with intent to murder, with or without malice.
+It is difficult to understand how one may “unintentionally” assault another by shooting at him with a high-powered rifle and at the same time intend to kill that person, yet that is the effect of the charge given. If appellant shot at Mortimer, under the circumstances mentioned, with intent to kill him, it was not an “unintentional” shooting.
+It is the rule in this State that if one, intending to murder another by shooting him with a gun, by mistake shoots at some other person, believing that he is the person whom he intends to kill, he is guilty of assault with intent to murder. Article 42, P. C.; Jones v. State, 89 Tex. Cr. R. 355, 231 S. W. 122; Garrison v. State, 143 Tex. Cr. R. 403, 158 S. W. (2d) 815.
+So, in the instant case, if appellant, intending to kill Benedict, shot at Mortimer with a 30/30 rifle eighty-five yards away, believing that he was shooting at Benedict, he would be guilty of assault with intent to murder Mortimer.
+But the charge, as here given, fails to embody the elements of the rule stated. This lies in the fact that the intent to kill Benedict was the motivating cause of the shooting at Mortimer by mistake. As thus presented, the charge was erroneous.
+It is insisted that the conviction is sustainable upon the theory that the shooting at Mortimer was in such a reckless and dangerous manner and in disregard of the rights of others as to imply malice. See Banks v. State, 85 Tex. Cr. R. 165, 211 S. W. 217, 5 A. L. R. 600; Walker v. State, 28 Tex. Cr. App. 503, 13 S. W. 860; Cockrell v. State, 135 Tex. Cr. R. 218, 117 S. W. (2d) 1105.
+Whether the instant facts would authorize the conclusion that the shooting was upon implied malice is not before us, because the jury found that the assault was without malice. Hence, the rule stated has no application here. Moreover, as heretofore pointed out, we have no way of knowing upon which theory of the State the jury based their conclusion of guilt. They might have done so on the erroneous charge.
+Appellant strenuously objected to the receipt in evidence of the testimony showing the acts, conduct, and threat of the appellant toward Benedict, it being insisted that such testimony showed extraneous and distinct crimes and transactions.
+Such testimony was admissible as showing a motive and threat to kill Benedict, which the State contends was the intent with which the shots were fired at Mortimer: This takes the testimony out of the general rule relied upon by appellant.
+Other bills of exception appear, the greater number of which present matters which will not likely arise upon another trial. These have all been examined and overruled without discussion.
+For the error in the charge, as pointed out, the judgment of the trial court is reversed and the cause remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
