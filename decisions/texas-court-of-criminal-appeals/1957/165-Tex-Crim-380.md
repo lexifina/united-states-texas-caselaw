@@ -1,0 +1,64 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,289"
+decided: "1957-12-11"
+citations: ["165 Tex. Crim. 380"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Larry Jackson v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611436
+cites_cases: ["157 Texas Cr. Rep. 301", "248 S.W. 2d 159"]
+---
+
+# Jackson v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+On January 11, 1957, appellant waived a jury trial and pleaded guilty to the felony offense of receiving and concealing stolen property.
+The judgment recited that an application for suspended sentence had been filed and the court found in the judgment that he had never before been convicted of a felony in this or any other state, and that his reputation was good.
+The judgment assessed the punishment at five years in the penitentiary and adjudged “that the sentence of the judgment of conviction in this case be suspended and probated during the good behavior of the defendant.”
+On the same day sentence was pronounced ordering appellant delivered to the manager of the prison system of the State of Texas and that he be confined in said penitentiary for not less than two years nor more than five years; but suspending the execution of the sentence and ordering appellant placed on probation with the sheriff for a period of five years in accordance with the adult probation and parole laws of Texas upon condition “That said Larry Jackson shall (1) commit no offense against the laws of this or any other state, or the United States; (2) attend a church of his choice at least once a month.” A third condition was that he report in writing to the sheriff every sixty days.
+No appeal was taken from this judgment.
+On May 17, 1957, petition was filed by the county attorney alleging that appellant had violated the first condition of said probation in that on May 3, 1957, he (1) made an assault upon Robert Earl Holditch with his fists and (2) that on the same day he was guilty of theft of Holditch’s automobile of the value of $51.00.
+Upon the filing of said petition, hearing was set for June 10, 1957, and after hearing had on that day the trial judge revoked the probation, from which order this appeal is prosecuted.
+Appellant first contends that the judgment should be construed as one suspending the sentence under the Suspended Sentence Law, Art 777 V.A.C.C.P., and not as granting probation under Art. 781b V.A.C.C.P.
+In addition to reliance upon the above quoted wording of the judgment, appellant construes the majority opinions in Ex parte Pittman, 157 Texas Cr. Rep. 301, 248 S.W. 2d 159, as requiring that the conditions of probation be set out in the judgment.
+We said in Ex parte Pittman that it is incumbent upon the trial judge to incorporate in “his order or judgment” the conditions of probation. This we think does not support the contention that the conditions must in all cases be set out in the judgment.
+Art. 781b V.A.C.C.P. authorizes the trial judge to suspend the imposition of sentence or to pronounce sentence and suspend its execution. In the latter case it appears that the conditions under which the execution of the sentence is suspended may properly be set out in the sentence.
+The judgment and sentence having been pronounced the same day, we think it proper to look to both in construing the court’s action. Clearly from the judgment and sentence, appellant was granted probation and the execution of sentence was suspended under the adult probation and parole law.
+Appellant also contends that the trial court abused his discretion in revoking the probation granted because the evidence was not sufficient to justify the court’s finding that he was guilty of theft of the automobile, and that the commission of a simple assault is not of sufficient gravity to justify revocation of probation.
+Nowhere in Art. 781b do we find any language which would permit this court to say that the offense committed by the probationer in violation of the probation order must be a felony or a misdemeanor involving moral turpitude. We would not be justified in writing such condition into the adult probation and parole law.
+We well recognize the position in which one granted probation is placed. It is clear that a probationer’s liberty is conditioned upon conduct above that required of the ordinary citizen.
+Conditions are set out in Art. 781b V.A.C.C.P. as among those the trial court may determine to provide. Among these is the condition for violation of which appellant’s probation was revoked. Others are:
+“(b) Avoid injurious or vicious habits;
+“(c) Avoid persons or places of disreputable or harmful character;
+“(d) Report to the probation and parole officer as directed;
+“(e) Permit the probation and parole officer to visit him at his home or elsewhere;
+“ (f) Work faithfully at suitable employment as far as possible ;
+“(g) Remain within a specified place;
+“ (h) Pay his fine, if one be assessed, in one or several sums, and make restitution or reparation in any sum that the court shall determine; and
+“ (i) Support his dependents.”
+The fallacy of appellant’s argument that a probationer should not go to the penitentiary for committing an offense against the laws of Texas such as a simple assault should be apparent when other approved conditions of probation are considered. If the probationer goes to prison, he goes for the offense of which he was convicted in the first instance and because the court which extended to him the benefits of the adult probation and parole law has found that he violated the conditions imposed and is therefore no longer deemed worthy to remain at large under probation. Surely if probation may be revoked under the statute because of violation of other conditions named in the statute and quoted above, we cannot say that the condition that he commit no offense against the laws of Texas is not violated by the commission of an unlawful assault.
+In any event, we are not prepared to say that the trial judge did not have sufficient facts before him to support his finding that appellant was guilty of theft and also of assault.
+While there is conflict in the testimony, the evidence is sufficient to sustain a finding that appellant and two others were riding in Holditch’s car and an argument ensued; that Holditch ran into a store and appellant followed and struck him; that appellant and the other two were ordered to leave the store and they insisted that Holditch be made to get out too; that a lady employee in the store said “I am not going to put him out with all of you on him” and threatened to call the law; that appellant and the other two then left in Holditch’s car and as they drove away Holditch wras saying “Larry, don’t drive my car away.”
+When the automobile was recovered “the dash was all beat out; the radio was gone out of it.” Appellant said nothing to Holditch from the time the car was driven away to the time of the hearing.
+There was evidence offered in behalf of the defense to the effect that Holditch began the difficulty in the car, but none to legally justify the assault in the store. The testimony of appellant and his witnesses was to the effect that they believed that they had permission to use the automobile, but the trial court did not see fit to accept such defense and this court is not authorized to substitute its finding for that of the trial judge.
+We are unable to agree that the record as a whole shows that the trial judge abused his discretion in revoking the probation he had previously granted to appellant.
+The judgment is affirmed.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+Whether the clemency extended to the appellant was a suspended sentence under the suspended-sentence law, or a probation of sentence under the adult-probation law, is — to my mind— immaterial. Under each, appellant’s probation was not entitled to be revoked unless and until he had (a) committed an offense, (b) failed to attend church, or (c) failed to report to the sheriff.
+The sole ground here used to revoke the probation was that appellant had committed two offenses against the laws of this state: one for assault and the other, felony theft.
+There is not the least proof, here, that prior to the order of revocation appellant had been duly tried and convicted of either offense, in accordance with law.
+No man has, in law, committed an offense until his guilt has been established by a trial in accordance with law. Facts may exist which show that an offense has been committed, but it takes the judgment of a court of competent jurisdiction to determine that one has committed a violation of the law.
+Here, the ex parte hearing, whereby the trial court made the determination that appellant had violated the laws of this state, was void for the want of jurisdiction, if for no other reason.
+When the appellant has been tried and convicted in the courts of this state for the alleged unlawful acts, the trial court may, upon those convictions, revoke the clemency extended. But unless and until that has been done, appellant is not shown to have violated the conditions of probation.
+If the time has come when men are tried and convicted of a violation of the law, without a complaint or indictment having been first filed in a court of competent jurisdiction and without the right of trial by jury having been accorded, then the judgment in this case ought to be affirmed, because that is exactly what has been here done to the appellant.
+I respectfully dissent to the perpetration of such a wrong.
