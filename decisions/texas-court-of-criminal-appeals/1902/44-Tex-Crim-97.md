@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2407"
+decided: "1902-06-08"
+citations: ["44 Tex. Crim. 97"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bob Bedford v. The State."]
+source_url: "https://static.case.law/tex-crim/44/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4527212
+---
+
+# Bedford v. State
+
+## Majority (HENDERSON, Judge.)
+
+HENDERSON, Judge.
+Appellant was convicted of an assault with intent to murder and his punishment assessed at confinement in the State penitentiary for a term of two years; hence this appeal.
+On the trial the State proved that appellant, who was a negro, entered a saloon where Joe Bast and two or three of his companions were drinking at the bar. Appellant insisted on taking a drink with them. East replied that they did not drink with negroes. Appellant uttered some epithet, which East understood to be cursing him, and he made at appellant, who ran out of the room. Appellant went to his wagon close by, evidently procuring a pistol, and returned; and as Bast was coming out of the saloon he encountered him, shoving his pistol against his breast, and snapped it twice, when some parties interfered and the negro left. On this state of case the court instructed the jury on assault with intent to murder and on aggravated assault. Appellant insists that the court should have charged on simple assault, and especially should have instructed the jury on that clause of the statute which authorized the jury to convict of a simple assault, if the assault was not of a deadly character, and appellant displayed a dangerous weapon in a threatening manner, calculated to alarm the party assaulted. If there had been any proof to the effect that the pistol was unloaded and appellant had presented the same in a threatening manner, with intent to alarm the prosecutor, Bast, it would have been incumbent on the court to have given the clause of article 592, on this subject, in charge to the jury. After the State proved the presentation of the pistol and the snapping of it at the prosecutor, the burden was on defendant to show that said pistol was unloaded. Caldwell v. State, 5 Texas, 18; Forrest v. State 3 Texas Crim. App., 232. The mere fact that the pistol did not fire when appellant cocked it and pulled the trigger, but merely snapped, did not prove that the pistol was unloaded. It frequently happens that a pistol may snap when the hammer comes in contact with the cap the first time, but on a second application it may fire; or it may have been, in this case, that other chambers of the pistol were loaded. The proof of the fact that the pistol was unloaded was peculiarly within the knowledge of appellant, and the onus was on him to introduce evidence to this effect. From all the circumstances of the case, it is apparent that appellant was not actuated by an intent merely to-alarm prosecutor, but sought to use the weapon in a manner that suggested that it was loaded and that he proposed to fire it with deadly effect. The mere fact that it did not fire, in our opinion, did not raise the issue requiring the court to charge on an unloaded weapon and the exhibition of the same in a dangerous manner calculated to alarm another. There is no exception to the charge of the court on the definition »of a deadly weapon, describing the same as one capable of unflicting death or serious bodily injury. Indeed appellant requested a charge defining a deadly weapon in this manner, which was given by the court. There was no exception to this charge; nor, if it be conceded that the latter part cE the definition as applied to assault with intent to murder is erroneous, on the ground that the weapon must be capable of inflicting death, and not -merely of inflicting serious bodily injury, then no harm accrued to appellant, because the pistol as used, if it had been discharged, was unquestionably capable of producing death. In addition to the charge on assault with intent to murder, the court' also gave a charge on aggravated assault. We think the charge as given was sufficient. Appellant’s whole contention in connection with simple assault, appears to turn on the iact that there was proof to the effect that the pistol was unloaded, and was not a deadly weapon. We do not regard the proof on this subject as making the issue of,an unloaded pistol, and consequently appellant was not entitled to such charge on simple assault. The judgment is affirmed.
+[Appellant’s motion for rehearing was overruled without a written opinion.—Reporter.]
+Affirmed.
