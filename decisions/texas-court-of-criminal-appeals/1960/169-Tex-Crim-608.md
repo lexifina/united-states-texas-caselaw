@@ -1,0 +1,50 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,868"
+decided: "1960-05-18"
+citations: ["169 Tex. Crim. 608"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WOODLEY, Judge, concurred.", "DAVIDSON, Judge, dissented."]
+parties: ["James Gibbs v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0608-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12149909
+cites_cases: ["167 Tex. Cr. R. 524", "168 Tex. Cr. R. 35", "168 Tex. Cr. R. 354", "321 S.W. 2d 873", "322 S.W. 2d 620", "325 S.W. 2d 697", "327 S.W. 2d 575", "333 S.W. 2d 383"]
+---
+
+# Gibbs v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is robbery, with two prior convictions alleged for enhancement; the punishment, life.
+Our prior opinions are withdrawn.
+The witness Williams testified that he was employed at a service station at 1:35 A.M. on the night of June 28, 1959, when a colored man resembling appellant and another man drove into the station in a blue and white Ford automobile, at pistol point took the contents of his cash register and his wallet, and drove away, immediately after which he notified the police.
+Lieutenant Clark testified that at 1:50 A.M. on the night in question in answer to a broadcast, some five miles from the filling station which was robbed, he, after some difficulty, brought a blue and white Ford which was being driven by appellant to a halt, but appellant fled the scene after driving into the ditch. He testified that he searched the abandoned Ford and found a billfold, which was later identified by the witness Williams as being his, and some insurance papers, a light bill, and a key case bearing appellant’s name, as well as two pistols and loose currency in the glove compartment, and that he saw appellant the next morning at the jail.
+A prior conviction for felony theft which became final on February 18, 1953, and a conviction for robbery which became final on March 30, 1955, were pleaded for enhancement of punishment. Both convictions were in the courts of Harris County.
+The prior convictions were proven in the following manner. The records of the Texas Prison System, including photostatic copies of the judgment and sentence, together with photographs and fingerprints in connection with the 1953 case alleged for enhancement, were introduced in evidence, and fingerprint expert Fullerton testified that he had compared such prints with those he had recently taken from appellant and found them to be identical.
+The deputy criminal district clerk of Harris County produced the original court records and testified that such records revealed that a James Gibbs was convicted in both the 1953 and 1955 cases alleged for enhancement and that such convictions were final convictions. Fullerton testified that from the files of his office he had secured the fingerprint card which he personally took from a James Gibbs in 1955, after his conviction in the second case alleged for enhancement, and that it was also identical to the one he had recently taken from appellant. Such card was admitted without objection.
+We find no merit in appellant’s contention that this record from Fullerton’s files which showed appellant’s fingerprints taken in 1955 was not admissible, even though admitted without objection. Fullerton identified it by his own initials and testified that he took such prints in 1955. It is immaterial where or by whom such record had been kept so long as Fullerton was able to positively identify them as prints which he had taken.
+Appellant did not testify in his own behalf but called as a witness the officer who brought appellant back to Houston from Richmond after the robbery but who did not raise any defensive issues.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the state’s motion for rehearing is granted, the judgment of reversal is set aside, and the judgment is now affirmed.
+
+## Concurrence (WOODLEY, Judge)
+
+WOODLEY, Judge
+(concurring).
+I concur in the opinion affirming the conviction, but deem it proper to point out that there is no evidence to sustain the allegation of the indictment that the conviction for robbery in 1955 was for an offense committed after the conviction for felony theft in 1953 became final. Rogers v. State, 168 Tex. Cr. Rep. 306, 325 S.W. 2d 697, and Rogers v. State, 169 Tex. Cr. Rep. 239, 333 S.W. 2d 383.
+As in the last cited Rogers case, the indictment relied upon by the state was not sufficient because a conviction under said indictment could be had upon proof that the robbery for which appellant was convicted in 1955 was committed prior to his conviction in 1953 for felony theft.
+The affirmance of the conviction herein for robbery is not inconsistent with the decisions in the Rogers cases for the reason that the maximum punishment for robbery is life imprisonment and both prior convictions were for offenses of the same nature. Proof, therefore, that appellant committed the robbery presently charged, after his prior conviction for robbery was final, authorized life imprisonment under Art. 62 P.C.
+
+## Dissent (DAVIDSON, Judge)
+
+DAVIDSON, Judge
+(dissenting).
+The majority of the court overrule appellant’s motion for rehearing without written opinion.
+My brother Morrison affirms this conviction upon one theory. My brother Woodley affirms the conviction upon another and different theory.
+I do not agree that this case should have been affirmed at all, because appellant’s constitutional right to be confronted by the witnesses against him was openly and flagrantly violated in proving by hearsay testimony the alleged prior convictions, proof of which was necessary to authorize the infliction of the punishment of confinement in the penitentiary for life.
+The conviction should be reversed. Preservation of constitutional guarantees so requires.
+My views upon that subject are fully set forth in my dissenting opinions in the cases of Davis v. State, 167 Tex. Cr. R. 524, 321 S.W. 2d 873; Robertson v. State, 168 Tex. Cr. R. 35, 322 S.W. 2d 620; and Tennison v. State, 168 Tex. Cr. R. 354, 327 S.W. 2d 575.
+I dissent.
