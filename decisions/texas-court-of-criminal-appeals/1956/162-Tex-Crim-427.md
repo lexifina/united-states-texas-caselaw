@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,926"
+decided: "1956-01-25"
+citations: ["162 Tex. Crim. 427"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. A. Morris v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0427-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462045
+---
+
+# Morris v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+After appeal from a conviction in the justice court, appellant was, upon a trial de novo in the county court, adjudged to be guilty of “concealing public records” and assessed a fine of $125.
+The complaint, omitting formal parts, reads as follows:
+“ * * * that C. A. Morris * * * was then and there a person engaged as manager in pursuing the business of a livestock commission merchant, that is, was a person pursuing and managing a business of selling livestock upon consignment for a commission, and said C. A. Morris, did, on said date, intentionally fail and refuse to make available for public inspection the records of livestock disposed of by the said C. A. Morris, said records kept by the said C. A. Morris, and the said C. A. Morris, did, on said date, intentionally fail and refuse to make said records available for public inspection by C. L. Brown, against the peace and dignity of the State.”
+This prosecution was instituted under Sections 1, 3a (2), and 3(b) of Art. 1287a, Vernon’s Ann. R.C.S., which read as follows:
+“Section 1. Any person, firm, or corporation pursuing, or who shall pursue the business of selling livestock, cattle, cows, calves, bulls, steers, hogs, sheep, goats, mules, horses, jacks, and jennies, or any of them, at auction, upon consignment for a commission or other charges, or who shall solicit consignments of livestock as a commission merchant or agent, or who shall advertise or hold himself out to be such shall be deemed and held to be a livestock auction commission merchant within the meaning of this subdivision and subject to all the provisions and penalties herein prescribed.
+« *
+“See. 3a. In addition to the requirements set forth in Section 3- above and the other provisions of this Act, said Livestock Auction Commission Merchant shall keep a true and correct record of livestock received, sold or disposed of by him as follows:
+* %
+“2. On livestock sold or otherwise disposed of by him he shall keep a record of the motor vehicle and the trailer or semitrailer on which such livestock was transported or removed from the place of sale; such record shall be on a form prescribed by the Livestock Sanitary Commission of Texas and shall show the name and address of the purchaser of such livestock, the destination thereof, the name and address of the owner of the vehicle or vehicles upon which said livestock is transported from said place of sale. Such record must be prepared and made available by such Livestock Auction Commission Merchant immediately after such livestock is sold and before such livestock is removed from the place of sale.
+“3. The records to be made and kept as herein required shall be retained by such Livestock Auction Commission Merchant for at least one (1) year from the date thereof and shall be open to public inspection at all reasonabl hours. Provided, however, that the records herein provided for shall not apply to a private sale in wfiich the livestock of only one individual, partnership, firm or corporation is offered for sale.
+“Sec. 3b. Any person who violates any of the provisions of Section 3a shall be deemed guilty of a misdemeanor and, upon conviction, shall be fined not more than Two Hundred Dollars ($200).”
+The complaint alleged that appellant was a person pursuing and managing a business of selling livestock upon consignment for a commission, but it was nowhere alleged that the livestock was sold at auction, or that appellant was pursuing the business of a livestock auction commission merchant.
+In the absence of such allegations, the complaint charges no offense.
+The conclusions expressed herein are not to be construed as an approval of the validity of the statute under which this prosecution was brought.
+The judgment is reversed and the prosecution ordered dismissed.
+Opinion approved by the court.
