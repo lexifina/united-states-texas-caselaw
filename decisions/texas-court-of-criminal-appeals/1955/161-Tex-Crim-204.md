@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,226"
+decided: "1955-01-26"
+citations: ["161 Tex. Crim. 204"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Leonard Lionel Bingham v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0204-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2466116
+cites_cases: ["119 Texas Cr. Rep. 546", "157 Texas Cr. Rep. 112", "158 Texas Cr. Rep. 133", "247 S.W. 2d 260", "254 S.W. 2d 117", "44 S.W. 2d 714"]
+---
+
+# Bingham v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is murder; the punishment, death.
+In view of our disposition of this case, a recitation of the facts is not deemed necessary.
+Among other things, the motion for new trial alleged that Mr. Berry, one of the jurors, had been convicted of forgery in cause No. 1766 in the district court of Nolan County in April of 1927 and that said conviction had not been set aside nor had the juror been pardoned. Attached to said motion was a certified copy of the Nolan County judgment.
+At the hearing on the motion appellant’s counsel made the following inquiry of the court, “May it please the court, in view of the court’s instruction, I would like to ask the court if the court will now permit me to ask the question of Mr. Berry whether or not he has ever been convicted of a felony,” to which the court replied, “You may not ask him that specific question. I am relying in that connection on Article 755 which prohibits that specific question. You can show he was convicted if possible by people who were present at the time and actually were in court and saw it.”
+The court qualified the bill by stating that he was referring to Article 618, V.A.C.C.P., instead of Article 755.
+We think the court was clearly in error in giving application to Article 618, V.A.C.C.P., in a hearing on motion for new trial. Mr. Berry was in attendance upon such hearing as a witness and not as a juror.
+The court further qualified the bill by certifying that Mr. Berry was not called as a witness at the hearing.
+We must examine this qualification in the light of the testimony adduced at the hearing.
+Appellant’s counsel testified that after the instant trial and prior to filing his motion for new trial he learned that Mr. Berry had been convicted of a felony; that he went to see him, told him that he was sorry but that he was going to have to prove such fact at the hearing on the motion for new trial; that Mr. Berry replied that he would not deny it and that he had not told the court about it because he thought that it was all over with now. It was at this juncture that counsel asked the court the question hereinbefore set forth and received the ruling complained of in the bill.
+Counsel for the state then testified that they had talked to juror Berry after the trial and inquired of him what he had told appellant’s counsel that Mr. Berry had asked him if he had to answer the question about having been convicted in the event appellant’s counsel called him to the stand, and that he had advised Mr. Berry that he did not have to admit that he had been convicted because to do so might incriminate him and render him criminally liable for having held elections and having voted when he did not have the rights of citizenship. Counsel for the state further testified that Berry at no time in his conversation with him denied the conviction.
+It would seem idle for appellant’s counsel to call Mr. Berry to the stand when the court had already ruled that he would not permit counsel to propound the one question which he wanted to ask him.
+Recently, in Ex parte Bronson, 158 Texas Cr. Rep. 133, 254 S.W. 2d 117, we had occasion to review a long line of authorities in the state holding that a case must - be reversed where it is shown in the trial court that one of the jurors was an unpardoned convict.
+The question of whether juror Johnson had been convicted of a felony in the Federal court will not again arise.
+Upon another trial, the witness Yeary, Sheriff of Uvalde County, should be permitted to answer the question as to whether the appellant had attempted to commit suicide while a prisoner in his jail before the trial. The sole defense was that of insanity. It has been the consistent rule in this court that an officer who has an accused in his custody may testify about the prisoner’s conduct on the issue of his sanity. See Hernandez v. State, 157 Texas Cr. Rep. 112, 247 S.W. 2d 260, and Bartlett v. State, 119 Texas Cr. Rep. 546, 44 S.W. 2d 714. The state’s objection that an answer to such question would be self-serving is without merit.
+The judgment is reversed and the cause remanded.
