@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,846"
+decided: "1957-02-27"
+citations: ["164 Tex. Crim. 345"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Sepulvedo v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611227
+cites_cases: ["111 Texas Cr. Rep. 425", "14 S.W. 2d 847"]
+---
+
+# Sepulvedo v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is carrying a pistol; the punishment, a fine of $250.00.
+Officer Sudsbery testified that he was at a certain night club on the night in question and there observed an argument between the appellant and one Williams, that he instructed Williams to leave but that sometime later Williams returned, and when he did the appellant went outside, that he watched from the window and observed the appellant take something out of the glove compartment of an automobile and put it under his belt. He stated further that when the appellant got out of the automobile he observed the butt of a pistol protruding from under the bottom of his sport shirt and that the appellant reentered the night club where the loaded pistol was taken from him by the witness.
+The appellant, testifying in his own behalf, admitted getting the pistol from the automobile of the witness Dora Smith, an employee of the club, who had advised him to arm himself against an impending attack by Williams and associates.
+Dora testified to the same effect.
+The sole question presented by brief and in oral argument is the legality of the search of the appellant’s person in the night club. Reliance is had upon Nelson v. State, 111 Texas Cr. Rep. 425, 14 S.W. 2d 847. In that case, the court was careful to note “that the pistol could not be seen by the officers prior to his arrest.” Nelson is not here controlling because the officer testified in this case that he could see the butt of a pistol protruding upon the appellant’s waist as he got out of the automobile.
+Finding the evidence sufficient to support the conviction and, no reversible error appearing, the judgment is affirmed.
