@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,793"
+decided: "1961-11-22"
+citations: ["171 Tex. Crim. 665"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Linda Blaylock v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0665-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2630537
+cites_cases: ["341 S.W. 2d 930"]
+---
+
+# Blaylock v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is unlawful possession of morphine, a narcotic drug; the punishment, 5 years.
+The evidence shows: Police officers went to the premises described in a search warrant, arriving about 7:30 P.M. William Seelies was seated on one bed and Frederick Engel on another. Engel had a needle attached to an eye dropper and bulb inserted into his arm, giving himself an injection of some sort of fluid. Appellant was standing beside Engel.
+The officers observed this through a window and made a forced entry as appellant started toward the kitchen. All three ran for the rear of the house when they saw the officers.
+Appellant followed Engel into the bathroom and closed the door. The officers forced entry through said door and saw Engel flushing the commode in which there remained a piece of bloody rag.
+Underneath some female clothing in a suit case the officers found an eye dropper and bulb with a needle attached thereto, which were introduced in evidence and identified as being adaptable for use of subcutaneous injection of narcotic drugs in a human being.
+A clear bottle containing a brownish liquid, found in a cabinet in the kitchen, was also introduced.
+A chemical analysis of a liquid in the syringe bulb offered in evidence, and the brownish liquid found in the kitchen, revealed that such liquids were solutions of morphine, a narcotic drug.
+There was testimony that the appellant had on several occasions been seen entering and leaving the apartment, sometimes spending the night.
+She testified that the overnight bag belonged to her, but denied that the eye dropper, syringe bulb and needle found in it were hers, and denied that she lived in the apartment.
+Appellant questions the sufficiency of the evidence, contending that there was no proof that the liquid in the eye dropper and bulb was anything other than paregoric, and that the quantity of morphine was insufficient to show a violation of the law penalyzing possession of narcotics.
+The contention that the morphine was or could have been evaporated or boiled down paregoric, which could be lawfully purchased in small quantities without a prescription and for that reason its possession was lawful, was overruled in Platt v. State, 169 Tex. Cr. Rep. 341 S.W. 2d 930.
+In view of the circumstances under which the morphine was found, the quantity is not deemed relevant on the question of its possession being unlawful.
+The evidence is sufficient to sustain the conviction and no reversible error is presented.
+The judgment is affirmed.
