@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,085"
+decided: "1960-06-15"
+citations: ["170 Tex. Crim. 226"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bennie Barker v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0226-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2629099
+cites_cases: ["322 S.W. 2d 543"]
+---
+
+# Barker v. State
+
+## Majority (MORRISON, Presiding Judge. WOODLEY, Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the unlawful sale of whisky in a dry area; the punishment, 90 days in jail and a fine of $250.00.
+Appellant, during the term of court at which he was convicted, entered into an appeal bond instead of a recognizance as is required by law.
+An appeal bond entered into during the term of court at which notice of appeal is given does not comply with the statute, Article 830, V.A.C.C.P., and does not confer jurisdiction upon this court to enter any order except to dismiss the appeal. Deming v. State, 167 Tex. Cr. Rep. 592, 322 S.W. 2d 543.
+The appeal is dismissed.
+WOODLEY, Judge.
+Supplemental transcript has been forwarded showing, that a proper appeal bond has been entered into and approved. The appeal is reinstated.
+John Short, investigator for the Texas Liquor Control Board, testified that he went to appellant’s home, in Van Zandt County, where he found appellant and one Busby drinking whisky. He took a drink with them and gave them some beer. Short asked them to sell him some whisky. Appellant and Busby left the room and discussed whether Short might be a Texas Liquor Control Board man. They returned to the room and said they didn’t have any whisky in the house. Short asked them if they could get him some whisky. Appellant and Busby left the house and a few minutes later came back with a pint of whisky and appellant “told me it would cost me $5.00.” Appellant then handed it to the witness Short. Short offered a $5.00 bill to appellant but appellant refused to take it and told Short to throw it over on the sofa. Short did so, took the whisky and left. After leaving the room Short, looking through a window, saw appellant “stoop over the sofa and reach like he was picking up something.”
+The whisky was produced and identified by Investigator Short and its custody thereafter was established by a witness from the Dallas office of the Texas Liquor Control Board.
+The state rested without proof that Van Zandt County was a dry' area, but was permitted to reopen. Certified copies of orders.of the commissioners court as they appeared in the minutes of said court were then offered, which show the calling of the election, the canvass of the returns and declaring the result in favor of prohibition, the selection of the newspaper for publication of the order and the county judge’s certification showing that the order declaring the result was published.
+The contention is made that the clerk’s certificates to the certified copies so introduced by the state are inadequate in that each of the orders certified is described in the certificate thereto as being “a correct copy of the order of the County Judge and Commissioners Court declaring the result of an election for prohibition * * * .”
+The certification to the order calling for the election shows that it appears in Vol. 5, Pages 583 and 584 of the minutes of the commissioners court. The order declaring the results is certified as appearing in said Vol. 5 on page 590 of said minutes. The county judge’s selection of the newspaper for publication of the order is certified by the clerk as appearing on Page 591 of said minute book, and the county judge’s certification showing publication of the order declaring the result of the election is certified as appearing in Vol. 5, page 609 of the minutes of the Commissioners Court of Van Zandt County.
+In view of the reference to the minutes where the instruments appear of record, the fact that each instrument was referred to in the clerk’s certification as a copy of the order declaring the result of the election did not destroy the probative value of the instruments as evidence.
+Appellant complains that the attorney for the state argued that if the defendant was not the man who made the sale he should have had Busby, the man who delivered the whisky, to prove such fact.
+We overrule the contention that the argument was an allusion to the defendant’s failure to testify.
+In the absence of any showing that Busby was charged with an offense growing out of the transaction, no reason appears why counsel could not argue that the defendant should have called Busby as a witness.
+The remaining contention is that the court erred in declining to submit the case to the jury as one of circumstantial evidence. We find the evidence to be direct evidence of a sale of whisky, as charged in the information.
+The judgment is affirmed.
