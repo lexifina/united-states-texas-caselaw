@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "24783"
+decided: "1950-03-15"
+citations: ["154 Tex. Crim. 379"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Marvin W. Hopkins."]
+source_url: "https://static.case.law/tex-crim/154/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2586674
+cites_cases: ["147 Tex. Cr. R. 661", "153 Tex. Cr. R. 301", "154 Tex. Cr. R. 123", "184 S. W. (2d) 286", "219 S. W. (2d) 1022", "225 S. W. (2d) 833"]
+---
+
+# Ex Parte Hopkins
+
+## Majority (HAWKINS, Presiding Judge.)
+
+HAWKINS, Presiding Judge.
+Relator is a convict imprisoned in the state penitentiary. He seeks issuance of the writ of habeas corpus to the end that he may be discharged. The clerk of the court of criminal appeals was directed to file relator’s application and submit it to the court in order that it might be determined whether the writ should issue.
+Copies of the judgment and sentence rendered against relator are made a part of the application for the writ.
+It appears from the application that in 1932 relator was under indictment in Tarrant County for robbery by assault. On November 25, 1932, he waived a jury, and under the formalities provided for in such cases, entered a plea of guilty before the court. Upon said plea and the evidence submitted relator was found guilty, the judgment reciting that “it is therefore considered, ordered, adjudged and decreed by the Court that said defendant is guilty of the offense of robbery as charged in the indictment, and that he be confined in the state penitentiary for the full period of 25 years.” In the sentence appears a recital that the court had theretofore assessed relator’s punishment at “not less than 5 years nor more than 25 years,” and that he be sentenced to serve in the penitentiary for not less than 5 years nor more than 25 years.
+It is relator’s contention that under the circumstances shown he has brought himself under the holdings in Ex parte Traxler, 147 Tex. Cr. R. 661, 184 S. W. (2d) 286; Edwards v. State, 153 Tex. Cr. R. 301, 219 S. W. (2d) 1022, and Ex parte East, 154 Tex. Cr. R. 123, 225 S. W. (2d) 833. In each of these cases the judgment was indefinite as to the punishment assessed which rendered the judgment void. Such defect does not appear in the judgment in relator’s case. The punishment was there definitely fixed at 25 years. It is true there is in the sentence a misrecital that the judgment was for an indefinite time, but the certified copy of the judgment itself makes it clear that such recital in the sentence was not correct.
+There is no merit in the complaint that the sentence recites a minimum and a maximum term of imprisonment. In no other way could effect be given to the “Indeterminate Sentence Law” which specifically provides that the sentence recite the minimum punishment fixed by statute and the maximum punishment assessed by the court or jury. See Art. 775, Vernon’s Ann. C. C. P., as amended by 42nd Legislature, p. 349.
+It appearing from the face of relator’s petition that same is without merit, the writ of habeas corpus is refused.
