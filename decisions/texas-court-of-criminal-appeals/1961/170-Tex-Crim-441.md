@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,789"
+decided: "1961-01-18"
+citations: ["170 Tex. Crim. 441"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward Rayford Swanson v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2627357
+cites_cases: ["331 S.W. 2d 941"]
+---
+
+# Swanson v. State
+
+## Majority (WOODLEY Presiding Judge.)
+
+WOODLEY Presiding Judge.
+Appellant was convicted of the offense of assault with intent to murder without malice and his punishment was assessed at two years. Sentence was pronounced on January 7, 1960, but its execution was suspended and he was granted probation. One of the conditions of such probation was that he commit no offense against the laws of this State.
+On July 8, 1960, order was entered revoking said probation upon the finding by the court that appellant “has violated the terms of his adult probation heretofore accorded him, in that he has committed the offense of aggravated assault” within the probationary term.
+This is an appeal from said order revoking probation. No statement of facts has been filed
+The sole ground advanced for setting aside the court’s order revoking probation is that the conviction for aggravated assault has not become final. Reliance is had upon Harris v. State, 169 Tex. Cr. Rep. 7, 331 S.W. 2d 941.
+The distinction between the case before us and Harris v. State lies in the fact that the revocation of appellant’s probation was based upon the finding that he committed an offense against the laws of Texas, whereas probation granted Harris was revoked exclusively upon the return of a verdict which had not become the basis of a final conviction. We pointed out in Harris v. State that a different question would have been presented had the trial judge found that Harris committed an offense during the term of her probation.
+The judgment is affirmed.
