@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,014"
+decided: "1956-02-22"
+citations: ["163 Tex. Crim. 42"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Duren Taylor v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462153
+cites_cases: ["12 S.W. 2d 572", "20 S.W. 2d 196", "200 S.W. 2d 174", "255 S.W. 2d 223", "283 S.W. 520", "78 S.W. 2d 956"]
+---
+
+# Taylor v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is murder; the punishment, 5 years.
+The appellant was the proprietor of a beer establishment on the night charged in the indictment and, as such, had separated the deceased and another of his patrons who got into an argument over a woman. The deceased resented the appellant’s intervention and addressed some opprobrious epithets toward the appellant, who countered by commanding the deceased to go home. The deceased started to leave but overheard the appellant state “I hope he comes back” and promptly obliged. As the deceased advanced upon the appellant, the appellant shot four times, and three of the bullets took effect in the body of the deceased, from which he died.
+Appellant testified in his own behalf that he shot twice at the ground in order to deter the deceased from advancing upon him and twice at the deceased because he was in fear of his life, but did not state what he thought the deceased had in his hand or what he thought the deceased was going to do to him. The appellant and none of his witnesses testified that they saw any weapon in the hands of the deceased.
+The court submitted the appellant’s plea of self-defense to the jury, and the same was rejected. We find the evidence sufficient to support the conviction.
+The sole question presented for review is the ruling of the court which permitted the state to prove that prior to the instant offense the appellant had been convicted of the offense of murder over the objection that such conviction was too remote to be admissible in view of the proof of reformation on the part of the appellant.
+The record before us here reveals that the appellant was released from the penitentiary on the prior conviction five years and eleven months prior to the commission of the instant offense. The last expression of this court on the question of remoteness is Couch v. State, 158 Tex. Cr. Rep. 292, 255 S.W. 2d 223. In that case, we held that where the offense charged was committed within seven years following release from the penitentiary the prior conviction was not too remote to be proven. See also Shipp v. State, 104 Tex. Cr. Rep. 185, 283 S.W. 520; Collier v. State, 111 Tex. Cr. Rep. 249, 12 S.W. 2d 572; White v. State, 20 S.W. 2d 196; Burns v. State, 127 Tex. Cr. Rep. 599, 78 S.W. 2d 956; and Toms v. State, 150 Tex. Cr. Rep. 264, 200 S.W. 2d 174.
+We are not inclined to depart from the holdings in the above cases.
+Finding no reversible error, the judgment of the trial court is affirmed.
