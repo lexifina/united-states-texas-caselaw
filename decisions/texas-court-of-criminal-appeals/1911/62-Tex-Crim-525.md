@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1218"
+decided: "1911-05-31"
+citations: ["62 Tex. Crim. 525"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clarence Garner v. The State."]
+source_url: "https://static.case.law/tex-crim/62/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4606836
+cites_cases: ["37 Texas Crim. Rep., 77", "51 S. W. Rep., 240", "52 Texas Crim. Rep., 403", "52 Texas Crim. Rep., 551", "53 Texas Crim. Rep., 246", "57 Texas Crim. Rep., 277", "97 S. W. Rep., 483"]
+---
+
+# Garner v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+On December 13, 1910, the grand jury of Bowie County indicted the defendant for selling intoxicating liquors on December 3, 1910. He was tried and convicted on January 13, 1911, and his penalty fixed at one year confinement in the penitentiary.
+There was no motion to quash the indictment in the court below. Neither is there a bill of exceptions or any complaint whatever of the charge of the court. No special charges were requested or refused. After the conviction, on January 28, 1911, the appellant filed an amended motion for new trial, the grounds of which are as follows: “1. Because the verdict of the jury is contrary to the law and evidence in this case. 2. Because the indictment or pretended indictment fails to charge a felony, in this, to wit: It nowhere appears on its face to be an indictment for a felony, where he says this court has jurisdiction to try said cause. 3. Because, if said indictment charges any offense, it charges a misdemeanor, and not a felony, under article 402, Penal Code.” Under this third ground the appellant further states therein that article 402 of the Penal Code, as it appears in the Revised Statutes of 1895, is quoted on the back of the indictment. This appears nowhere else, either in the indictment or on it, in the record. The fourth ground of the motion for new trial complains of some irregularity by the jury in arriving at their verdict, but this, even if it presented any ground, could not be considered, because it is nowhere presented by a bill of exceptions, or otherwise properly shown to have occurred.
+The prosecution was had under article 402 of the Penal Code, as amended in 1909, p. 356, making an unlawful sale under that article a felony.
+The indictment follows the approved form which has uniformly been held good by this' court and is good under the decisions and the statute. Holloway v. State, 53 Texas Crim. Rep., 246; Shilling v. State, 51 S. W. Rep., 240; Stephens v. State, 97 S. W. Rep., 483; Starnes v. State, 52 Texas Crim. Rep., 403; Key v. State, 37 Texas Crim. Rep., 77; Wesley v. State, 57 Texas Crim. Rep., 277; Watson v. State, 52 Texas Crim. Rep., 551, and also several cases recently decided by this court but not yet reported.
+As above stated, there was no motion to quash the indictment. The point raised, as we understand it by the motion for new trial, is that because the indictment does not show the date of the prohibition election that the court ought, therefore, to conclude that the election was held prior to the enactment of 1909, making the offense a felony; and that, therefore, the court ought to conclude that it was a misdemeanor.
+Article 564, Code Criminal Procedure, is as follows: “There is no exception to the substance of an indictment or information except: 1. That it does not appear from the face of the same that an offense against the law was committed by the defendant. 2. That it appears from the indictment or information that a prosecution for the offense is barred by lapse of time, or that the offense was committed after the finding of the indictment. 3. That it contains matter which is a legal defense or bar to the prosecution. 4. That the indictment or information shows upon its face that the court trying the case had no jurisdiction thereof.” It will be seen by this article the only grounds on which a motion to quash can properly be made. The fourth subdivision thereof clearly, we think, indicates that, unless the indictment or information itself shows upon its face that the court had no jurisdiction, that it would be incumbent upon the appellant to plead in writing, under oath, whatever facts were necessary to show that the court in which the trial was proceeding had no jurisdiction (C. C. P., arts. 563-566); and unless this is done the court could not do otherwise under the statute under which this prosecution was had, the indictment being regular, and on its face charging a felony, than proceed with the trial. The evidence in this case for the State, which was believed by the jury, establishes, beyond controversy and without doubt, the guilt of the appellant as charged in the indictment, and that the prohibition election in Bowie County was properly ordered in Pebru-. ary, 1910, by the Commissioners’ Court of said county, the election duly and legally held in March, 1910, the votes properly canvassed, the election declared carried by the Commissioners’ Court in March, • 1910, and the proper publication thereof ordered by the county judge designating a paper, and showing that the publication was had and completed; so that the law went into effect and was so declared, fully and legally and properly, on April 15, 1910. The illegal sale was alleged to have been made on December 3, 1910, and the proof clearly established it on that date and no other.
+The court did not err in not granting a new trial on any of the grounds set up in the motion for new trial, and the case is, therefore, affirmed.
+Affirmed.
