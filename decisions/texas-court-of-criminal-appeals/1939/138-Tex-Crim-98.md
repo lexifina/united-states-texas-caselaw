@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "20542"
+decided: "1939-11-01"
+citations: ["138 Tex. Crim. 98"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hub Bowers v. The State."]
+source_url: "https://static.case.law/tex-crim/138/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5275532
+cites_cases: ["110 S. W. (2d) 906", "133 Tex. Crim. Rep., 333", "243 S. W. Rep. 473"]
+---
+
+# Bowers v. State
+
+## Majority (KRUEGER, Judge.)
+
+KRUEGER, Judge.
+The conviction is for selling whisky in dry area; the punishment assessed is a fine of $500.00.
+Appellant complains of the court’s action in declining to sustain his motion to quash the complaint and information. We have carefully examined them and deem both sufficient to charge the offense.
+The State’s testimony shows that on the 5th day of January, 1939, an agent of the Texas Liquor Control Board, accompanied by another party, went to appellant’s home and purchased a pint of whisky.
+Appellant and a number of persons who were present at the time testified that no transaction took place between them. Thus it will be seen that an issue of fact was raised, which the jury, who are the exclusive judges of the credibility of the witnesses and the weight to be given to their testimony, decided adversely to appellant’s contention. We deem the evidence sufficient to support the jury’s conclusion of appellant’s guilt.
+Bill number three is qualified by the trial court and as thus qualified is without merit. Bills number 11 through 14 inclusive make objections to the court’s charge, but there were no special charges presented to the court accompanied by a request that they be given. This is a misdemeanor case and a mere objection to the court’s charge is not sufficient. An accused is required to prepare and present special instructions covering any defect in the court’s charg’e and accompany it with a request that the special charge be given. See Branch’s Ann. P. C., p. 939, Sec. 1596 and authorities cited. Bills numbers five through ten are in question and answer form without a certificate by the trial judge that it was necessary that they be in such form. Hence we cannot consider the same. See Palmer v. State, 116 S. W. (2d), 387 and authorities cited.
+By bill of exception" number four appellant complains because the court declined to instruct the jury that McDonald was an accomplice and refused to give a special requested instruction to that effect. Appellant’s contention in this respect is without merit. There was no evidence which brought McDonald within the category of an accomplice. The rule on this subject has been well settled since the case of Stevens v. State, 133 Tex. Crim. Rep., 333, 110 S. W. (2d) 906.
+All of the other complaints urged by the appellant have been carefully examined and are deemed to be without merit.
+No error of a reversible nature appearing, the judgment is affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (GRAVES, Judge.)
+
+ON MOTION FOR REHEARING.
+GRAVES, Judge.
+We were in error in our original opinion wherein we refused to consider bills of exceptions Nos. 5, 6, 7, 9, and 10 because of the fact that same were in question and answer form. We have heretofore held that where the complaint relates solely to the asking of an improper question, of a necessity the question must be set forth in the bill. We quote from Young v. State, 243 S. W. Rep. 473: “The State’s objection to bills of exception Nos. 3, 4, and 5 because in question and answer form is not tenable. The desire of appellant was to present to this court his complaint of the asking of hurtful questions, whose substantial repetition by the State is urged as injurious, and in such case the bill must set out the questions and answers complained of.”
+However bill No. 10 is multifarious, containing three subject matters, and will not be considered. Bill No. 6 contains testimony a portion of which we think is admissible, and is therefore overruled. Bill No. 7 we think evidences no error, the testimony evidencing a legitimate inquiry. It is observed, however, that the trial court in an excess of caution instructed the jury not to consider the same. Bill No. 9 evidences no error. Bill No. 5 however gives us concern, and is based upon the' asking of the two following questions of one Hugh Caperton, a witness for appellant:
+“Question: ‘Do you know whether or not the place you live (being the residence of defendant) has been under a liquor injunction?’
+“Question: ‘Do you know of your own knowledge whether the defendant has been convicted of violating any liquor injunction?’ ”
+The appellant was on trial for the sale of one-half pint of intoxicating liquor to an agent of the Liquor Control Board, which agent alone testified to the sale, while appellant and three other witnesses denied such sale. The jury gave the appellant a penalty of a fine of $500, and we are unable to say that the asking of such a line of questions was not influential at least in the giving of such a severe penalty.
+We do not think appellant has had a fair trial, and the motion for a rehearing is granted, the judgment of affirmance set aside, and the judgment is now reversed and the cause remanded.
