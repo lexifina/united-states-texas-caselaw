@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,365"
+decided: "1953-04-15"
+citations: ["158 Tex. Crim. 462"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kenneth Thompson v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2482041
+---
+
+# Thompson v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is willfully refusing to provide for the support and maintenance of minor children; the punishment, 30 days and a fine of $250.00.
+Appellant’s former wife testified that they were divorced in 1948; the custody of their four minor children was awarded to her by the decree, and the appellant was thereby ordered to pay the sum of $30.00 per month for the support and maintenance of said children. She testified that for approximately a year after the divorce the appellant made the required payments, but that he then ceased to make further contributions.
+Appellant, testifying in his own behalf, admitted that he sometimes made as much as $5.00 an hour pursuing his trade as a welder. He further admitted that he had sent money to his stepfather, with instructions that clothes be bought for the children. Appellant’s testimony concerning the amount of such contributions was very hazy and uncertain. He further admitted that he had been arrested in the State of Michigan and returned to Texas for trial.
+Appellant gave as his reason for ceasing to support his children that his wife had remarried, and he did not like the way she had been spending the money which he had contributed.
+Appellant contends that the evidence is insufficient to support the allegation that he “willfully” neglected and refused to support his children.
+Appellant’s position at the close of the state’s case might have been tenable, but his testimony showing his ability to pay and his reasons for not doing so, together with the state’s proof, amply warranted the jury in concluding that his action was willful.
+Bill of Exception No. 1 complains of proof concerning the child support payments provided for in the divorce decree. Appellant admits that he knows of no authority holding such proof inadmissible. We think that such was properly admitted as a part of the state’s case and that no error is reflected by the bill.
+Finding no reversible error, the judgment of the trial court is affirmed.
