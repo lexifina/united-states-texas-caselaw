@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "16388"
+decided: "1934-02-28"
+citations: ["125 Tex. Crim. 436", "68 S.W.2d 1038"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. F. Marchbanks v. The State."]
+source_url: "https://static.case.law/tex-crim/125/cases/0436-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5265871
+cites_cases: ["151 S. W. 538", "151 S. W., 538", "17 Tex. App. 465", "204 S. W. 1165", "204 S. W., 1165", "24 Tex. App. 514", "6 S. W. 548", "6 S. W., 548", "68 Tex. Cr. R. 295", "84 Tex. Cr. R. 8", "93 S. W. 556", "93 S. W., 556"]
+---
+
+# Marchbanks v. State
+
+## Majority (CHRISTIAN, Judge.)
+
+CHRISTIAN, Judge.
+The offense is incest; the punishment, confinement in the penitentiary for five, years.
+Bulah Marchbanks, who was thirty-five years of age, testified that on the 15th of October, 1928, her father, the appellant, had an act of sexual intercourse with her, resulting in the birth of a child. We quote from her testimony as follows:
+“The intercourse took place most of the time in the barn. Yes, it was in the barn that day. Yes, my mother was in the house on that day. The barn is just a little piece from the house, and the act of intercourse took place in the day time, in the maize bin. No, my father didn’t whip me that day. I did not see anyone else about the place that afternoon. Just my mother, my father and I were there. No, my brothers and sisters were not there at that time. No, I didn’t tell my mother about that. I didn’t tell anybody else about it at the time. No, I didn’t tell anybody before my baby was born. Yes, I worked in the field on the evening before my baby was born. That was during cotton-picking time in the fall of 1928, in October, and it had been a right smart time before that that my father had whipped me. It was when I was twenty that he whipped me. I was twenty years old the last time he whipped me, and I am now thirty-five. * * * No, I didn’t consent to it that day on the 15th of October, 1928, when I had intercourse with my father, I tried to get away but I couldn’t do it. I tried to get loose from him. I was lying down on the maize and I was made. Yes, I weighed just about as much then as I do now. As to what I did in the way of trying to get up and fighting him, etc., I tried to get up and hit him but that didn’t do no good. He was so much stouter than I was. Yes, he weighed more than I did. As to what we both did, he asked me to go in the maize bin and I went in, and he almost made me lay down and I went ahead and did that and then he went ahead. After we both got down there we went ahead and finished the transaction and after we got through I went on and milked. Yes, I went and milked before I went to the house. After I finished milking I went to the house. Yes, I saw mother when I got to the house but didn’t tell her anything about what had happened because I was afraid to. No, sir, I didn’t tell her anything about it the next day. I never did say anything about it even up to the time my baby was born.”
+The witness testified, further, that she had always done what her father asked her to do; that at other times he had threatened her and on occasions had whipped her; that the last time he whipped her was fifteen years before the act upon which the prosecution was predicated; that her father began having acts of intercourse with her when she was fourteen years of age; that this conduct continued until she was thirty-five years of age; that these acts took place several times a month; that upon each occasion she had intercourse with her father he threatened her and forced her to submit; that on one or two occasions he told her unless she submitted she had to leave; that on other occasions he would kick and abuse her.
+The only other witness used by the state was the attending physician, who testified to waiting on the prosecuting witness at the time she gave birth to her child.
+The court submitted for the determination of the jury the .question as to whether the prosecuting witness was an accomplice. Appellant contends that, under the facts revealed by the record, she was an accomplice witness as a matter of law. We think this contention should be sustained. Notwithstanding the witness testified that she did not consent to the intercourse, it appears from her testimony that she made no serious, determined or positive resistance to it. She made no outcry, although her mother was nearby. The course of conduct with appellant had lasted twenty-one years. During all of such time the matter of appellant’s misconduct had never been reported by her to any person. Until she became pregnant she made no charge against appellant. In his Annotated Penal Code, section 1030, Mr. Branch makes the following statement:
+“A general statement of the prosecutrix that the accused had carnal knowledge of her without her consent, or that she resisted, or that it was had through force, fear or threats, must be considered in connection with her other testimony and all the other facts in the case in determining whether or not her testimony given in behalf of the state is accomplice testimony, and if the proof shows that the act of intercourse alleged to be incestuous could not have occurred without her consent or that she did not oppose it, she is an accomplice witness.”
+In support of the text many authorities are cited, among them being Mercer v. State, 17 Texas App., 465; Dodson v. State, 6 S. W., 548. See, also, Pate v. State, 93 S. W., 556; Burford v. State, 151 S. W., 538; Bohannon v. State, 204 S. W., 1165. When the testimony of prosecutrix is considered in connection with her age, the proximity of her mother, the meager testimony touching resistance, the failure to make outcry or report the matter, the long period of time during which intercourse had been carried on, we think it is clear that she was an accomplice witness. There is in the record no corroborating evidence.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
+. The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
