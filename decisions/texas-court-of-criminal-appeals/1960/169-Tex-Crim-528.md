@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,886"
+decided: "1960-04-27"
+citations: ["169 Tex. Crim. 528"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Taft Spigner v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12147654
+cites_cases: ["316 S.W. 2d 757", "322 S.W. 2d 717"]
+---
+
+# Spigner v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for felony theft; the punishment, two years.
+This is a companion case of Abney v. State, No. 31,623, (page 128 of this volume), 322 S.W. 2d 717. In addition to the facts set out in the Abney opinion the testimony in this case further shows:
+Maude Johnson while testifying identified the appellant as the man Alice Abney said had found a billfold containing money, and as they approached him he said to Alice “I see you have told someone else about the billfold I found,” and further said he would split the money three ways and left saying he was going to see his boss and change the large bills so they would not be suspicious. When appellant returned he told Maude she would get $600 or $700, but they would have to put up some earnest money. Alice left and returned shortly and said she had her earnest money. Maude testified that “I gave them the $88 to get part of the money that was in the billfold,” and that she delivered the $88 to Alice in appellant’s presence and they left saying they would return, and she waited but they never returned. Maude further said that she did not give them or either of them her consent to convert her money to their own use. Several weeks later Maude saw the appellant and Alice in an automobile, notified the police and they were later apprehended.
+Appellant did not testify but offered testimony showing that he was in another state at the time of the commission of the offense alleged.
+The evidence is sufficient to warrant the jury’s finding that the appellant was guilty of theft while acting as a principal with Alice Abney in the commission of the offense charged.
+Appellant complains of the argument of the state’s attorney to the jury.
+The complaint is not presented by formal bill of exception. Neither is it shown by an informal bill reserved in a statement of facts in accordance with subsection (C) of section 2 of Art. 759a, V.A.C.C.P. Bridges v. State, 166 Tex. Cr. Rep. 556, 316 S.W. 2d 757. Therefore nothing is presented for review.
+The judgment is affirmed.
+Opinion approved by the Court.
