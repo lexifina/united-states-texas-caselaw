@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,958"
+decided: "1956-01-25"
+citations: ["162 Tex. Crim. 417"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arnulfo Aguirre v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0417-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462629
+cites_cases: ["271 S. W. 2d 879"]
+---
+
+# Aguirre v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is assault with intent to murder with malice; the punishment, two years in the penitentiary.
+On a former day of this term appellant’s appeal was dismissed because no sentence had been pronounced. Aguirre v. State, No. 27090, 271 S. W. 2d 879, decided October 20, 1955.
+Sentence having been pronounced and notice of appeal again given, the case is before us for disposition.
+The state’s case was one of circumstantial evidence, some of the facts, relied upon having been presented by witnesses who were apparently not friendly to the state.
+The prosecuting witness was shot through the abdomen as he was leaving the Austin Coliseum where a dance was in progress. He was unable to say who fired the shot, but testified that he saw the flash of the gun and that the blast came from where appellant and his brother were standing, the flash being closer to appellant.
+The witness Santos Bandera testified that he heard the shot and saw the flash of the pistol which came from appellant’s direction, but did not see the pistol. He did not remember seeing anyone around appellant at the time.
+A pistol was picked up near a tree in the grassy section in front of the coliseum by Joe Montoya, who had arrived in Austin that day in company with appellant, from California. He identified the pistol as belonging to appellant.
+A bullet was found in the clothing of the injured party at the hospital. The pistol and the bullet were submitted to and examined by Fred Reimer, Firearms Examiner for the Texas Department of Public Safety.
+As a result of his examination Mr. Reimer expressed the opinion that the bullet had been fired from the pistol.
+At the time the shot was fired, the prosecuting witness was engaged in some character of argument or controversy with Joe Montoya. Montoya had slapped a girl when she refused to permit him to take her home.
+Serious injuries resulting from the gunshot wound were described by Dr. Willett, the interne who examined, operated upon, and attended the prosecuting witness during his stay of some thirty days in the hospital.
+Appellant filed an application for suspended sentence and the state offered testimony to the effect that his reputation as a peaceful and law-abiding citizen was bad. Appellant did not testify. He offered only one witness, his mother, who testified that he had never been convicted of a felony.
+The evidence, viewed from the standpoint most favorable to the state, is sufficient to sustain the conviction.
+We have not been favored with a brief in appellant’s behalf, and our examination of the record has not disclosed reversible error.
+The judgment is affirmed.
