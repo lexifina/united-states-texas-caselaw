@@ -1,0 +1,21 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2936"
+decided: "1914-01-21"
+citations: ["72 Tex. Crim. 539"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bob Dickerson v. The State."]
+source_url: "https://static.case.law/tex-crim/72/cases/0539-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4673549
+---
+
+# Dickerson v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This conviction was for violating the local option law. The State’s contention is that appellant sold the whisky to the alleged purchaser. Appellant’s theory is that he was the agent of the purchaser, and so bought it. There is no complaint of the charge, the only insistence being that the evidence does not support the conviction. After the parties talked with reference to getting the whisky, it seems to have been understood that appellant could do as the witnesses say "rustle some whisky.” The purchaser went with appellant a short distance to some stock pens where he stopped and appellant went to Jack Dickerson’s house and came back directly with a bottle of whisky. The purchaser and another party had given appellant $1.50 with which to get the whisky. Appellant testified that he went down to Jack Dickerson’s and got the whisky out of a box under the bed, and laid the $1.50 on the bed where Mrs. Jack Dickerson could get it, and went away with the whisky. Mrs. Jack Dickerson says that this whisky had been there for some months, she having intended to use it in making camphor; that her husband had brought her some alcohol, which she used for that purpose, leaving the bottle of whisky in the box under the bed. She corroborates appellant to. the effect that he came and got the whisky, and went away with it, but she contradicts him with reference to the money. She says he did not leave the money on the bed; if he did she did not see it, or know anything of it. If appellant got the whisky, as he says he got it, leaving the money for it, then he would be purchasing as the agent and would not be the seller, but if he went to Jack Dickerson’s, got the whisky from under the bed and did not leave the money, as Mrs. Jack Dickerson says he did not, then he got the whisky and the money both, and under that view of the testimony he would be guilty. The jury had the right to view the evidence from this standpoint, which they seemed to have done. This court would hardly be in position under this state of evidence to reverse the judgment. It is therefore ordered that it be affirmed.
+Affirmed.
