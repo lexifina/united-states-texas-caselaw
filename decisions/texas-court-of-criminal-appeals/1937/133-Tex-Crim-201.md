@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "19096"
+decided: "1937-06-09"
+citations: ["133 Tex. Crim. 201", "109 S.W.2d 489"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jessie Williams v. The State."]
+source_url: "https://static.case.law/tex-crim/133/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5236768
+cites_cases: ["10 Tex.Cr.R. 186", "10 Texas Crim. Rep., 186", "129 Tex.Cr.R. 223", "129 Texas Crim. Rep., 223", "86 S. W. (2d) 782", "86 S.W.(2d) 782"]
+---
+
+# Williams v. State
+
+## Majority (KRUEGER, Judge. —)
+
+KRUEGER, Judge. —
+Appellant was convicted of the offense of unlawfully tapping a pipe line, and his punishment was assessed at confinement in the state penitentiary for a term of one year.
+Appellant’s first contention is that the court should have instructed the jury to return a verdict of not guilty on the ground that the testimony does not sustain his conviction under the indictment.
+The testimony, briefly stated, shows that the Phillips Petroleum Company owned a pipe line which extended from Ibex to Sedgewick in Shackelford County, Texas, by and through which the company conveyed casinghead gasoline from its field at Ibex to its loading rack at the M. K. & T. Ry. Co. track at Sedgewick; that R. C. Mason, an employee of said company, was in charge of said pipe line and had the actual control thereof; that on the night of June 1, 1936, appellant drove his car to a point within three hundred yards of said pipe line and parked it among some small bushes and trees. He then went with a bucket and hose to the pipe line, unscrewed a plug and screwed the end of a hose into the pipe line, by means of which he drained gasoline from said pipe line into a bucket; that E. B. McClure and J. W. Kelly, who had secreted themselves near the place, apprehended appellant while in the act of withdrawing gasoline from said pipe line; that the pipe line was tapped by appellant and gasoline withdrawn from the same without the consent of Mason, the person in charge thereof. We think that the testimony fully sustains his conviction.
+Appellant next contends that the court erred in declining to sustain his motion to quash the indictment on the ground that it was not averred that he, appellant, tapped and withdrew the gasoline therefrom with the intent to deprive the owner of the value thereof. Sec. 2 of art. 1111b, P. C., reads as follows:
+“Any person who shall unlawfully tap any pipe line, conduit, or storage tank, constructed for the purpose of transporting or storing crude oil, gasoline naphtha, natural gas, casinghead gas, or any petroleum product without the consent of the owner and with intent to injure such pipe line, conduit, or storage tank, or to permit the contents thereof to escape, or with intent to appropriate any portion of the contents of such pipe line, conduit, or storage tank to the use and benefit of the person tapping the same, shall be guilty of a felony and upon conviction shall be punished by confinement in the state penitentiary for a term of not less than one nor more than five years.”
+It was charged in the indictment that appellant tapped the pipe line without- the consent of R. C. Mason and with the intent then and there to appropriate a portion of the contents of said pipe line to the use and benefit of him, the said Jessie Williams, which necessarily includes the charge that he intended to deprive the owner of the value thereof. Since the indictment charged the offense in the language of the statute, it is deemed sufficient. The allegation “to deprive the owner of the value thereof” is not an element of the offense. See Long v State, 10 Texas Crim. Rep., 186 (195).
+By bill of exception number seven appellant complains of the action of the court in overruling his objection to the court’s charge because the court did not define the word “tapping,” the words “casinghead gasoline,” and the word “gas,” nor what constituted a “pipe line.” We do not think there is any merit in either of the contentions for the reason that the tapping of a pipe line for the purpose of withdrawing therefrom oil, gas, or casinghead gasoline would constitute the offense. There was not any controverted issue as to the tapping of the pipe line, nor that appellant’s act might not come within the meaning of the term tapping. Hence it was not necessary for the court to define the term. Any property taken from a pipe line whether the same be gas, crude oil, or casinghead gasoline regardless of its value would constitute the offense. The failure to define gas or casinghead gasoline could not have injured appellant, nor was it necessary to define a pipe line. The term pipe line has a well understood meaning and is commonly understood as a means by which water, gas, oil, or other liquids are conveyed from one place to another.
+We have examined and considered all other matters brought forward for review by various bills of exception, but fail to find any reversible error.
+It is therefore ordered that the judgment of the trial court be and the same is in all things affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (HAWKINS, Judge. —)
+
+ON MOTION FOR REHEARING.
+HAWKINS, Judge. —
+As we understand appellant’s motion for rehearing it is predicated largely on the idea that the gravamen of the offense is the “taking” of part of the contents of the pipe line. Such is not our understanding of the law. The offense would be complete if the line was tapped with intent to appropriate any of the contents whether or not such appropriation was in fact made, just as the crime of burglary with intent to steal is complete when the burglarious entry is effected although no property be actually taken.
+The indictment alleged that the pipe line in question had been constructed for transporting casinghead gas, and was being used for such purpose, and that appellant tapped said line with intent to appropriate a part of the contents. The evidence shows that appellant took from the line at a point where a “gasoline trap” was located some casinghead gasoline, and it is appellant’s contention that the State’s case failed because appellant took casinghead gasoline and not casinghead gas. The evidence established that the line was constructed to transport casinghead gas, and was used for that purpose. We think it immaterial just how it happened that casinghead gasoline was in the pipe line at the point where it was tapped. The State’s evidence shows that appellant knew it was there because he stated to the arresting officers that he had gotten gasoline there on former occasions.
+Neither do we think there is merit in appellant’s contention that the State failed to prove the averment that the line was being used to transport casinghead gas. Such contention is based on the fact that witnesses were not able to say that the compressor which converted the vapor gas into liquid gasoline was being operated the night the offense was committed. It was not essential that the compressor was working at the very instant the “tapping” occurred. The compressor machine worked only when gasoline was being loaded, and loading was done two or three times each week. This proof sufficiently met the averments of the indictment on the use being made of the pipe line.
+. The evidence shows that the pipe line in question was a private line belonging to the Phillips Petroleum Company, under the control of R. C. Mason. It is appellant’s contention that Art. 1111b, P. C. (Acts 1933, 43 Leg., page 732, Ch. 219), making the “tapping” of a pipe line an offense had reference only to common carrier pipe lines which were under the supervision of the' Railroad Commission of the State, and not to private lines. He bases such contention on certain expressions found in Nelson v. State, 129 Texas Crim. Rep., 223, 86 S. W. (2d) 782. It was not our intention to give the restricted construction to Art. 1111b as claimed by appellant. In the opinion in Nelson’s case we were endeavoring to distinguish Art. 1056, P. C., which makes it an offense to tamper with meters, from Art. 1111b, P. C., regarding the “tapping” of pipe lines, and reference to “common carrier pipe lines” was only illustrative and not restrictive.
+Other matters adverted to in appellant’s motion have been considered but we think are properly disposed of in our original opinion and do not require further discussion.
+The motion for rehearing is overruled.
+Overruled.
