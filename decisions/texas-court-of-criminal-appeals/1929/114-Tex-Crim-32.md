@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "12747"
+decided: "1929-12-04"
+citations: ["114 Tex. Crim. 32", "24 S.W.2d 437"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. E. Bascom v. The State."]
+source_url: "https://static.case.law/tex-crim/114/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5177733
+cites_cases: ["1 S. W. (2d) 279", "14 S. W. 122", "140 S. W. 352", "144 S. W. 961", "179 S. W. Rep. 572", "232 S. W. 509", "28 S. W. 473", "33 S. W. 978", "33 Texas Crim. Rep. 573", "35 Texas Crim. Rep. 394", "36 S. W. 79", "36 Texas Crim. Rep. 616", "38 S. W. 48", "4 Texas 260", "40 Texas Crim. Rep. 391", "49 S. W. 584", "50 S. W. 938", "55 S. W. 54", "63 Texas Crim. Rep. 475", "7 S. W. (2d) 1076", "88 Texas Crim. Rep. 273"]
+---
+
+# Bascom v. State
+
+## Majority (CHRISTIAN, Judge.)
+
+CHRISTIAN, Judge.
+The offense is possession of intoxicating liquor for the purpose of sale; the punishment confinement in the penitentiary for three years.
+A state’s witness testified that he went to appellant’s place of business and bought a gallon of whiskey.from him. Appellant admitted that the witness came to his place of business, but declared that he sold him no whiskey. Appellant’s theory was supported by the testimony of other witnesses.
+Appellant filed his second application for a continuance, stating therein that he was not ready for trial on account of the absence of his wife. It was averred in the application that appellant’s wife, if present, would testify, in substance, that she was present at the time the state’s witness came to appellant’s place of business and that appellant did not sell said witness any whiskey. Attached to the motion for a new trial is the affidavit of the wife showing that she would give the testimony set forth in the application for continuance. The application being a second request is fatally defective in omitting to aver that the testimony expected from the absent witness could not have been procured from any other source known to appellant. The trial court was therefore justified in overruling it, and the application formed no basis for a complaint in the motion for new trial on account of the denial of the continuance in the first instance. Article 544, C. C. P.; Brannan v. State, 1 S. W. (2d) 279.
+The state’s witness testified, in substance, that appellant tried to get him to leave until his trial was over. Appellant claimed surprise and asked that the court postpone the case until he could bring in witnesses who would testify to the falsity of the testimony of said state’s witness. Attached to the motion for the new trial are several affidavits to the effect that appellant could not have approached the state’s witness at the time testified to by him, inasmuch as appellant was at another and different place at such time. Appellant gave testimony on the trial denying that he had approached the witness at the time claimed by the witness, and showing that he was out of town at such time. It is the general rule that surprise at the testimony of a witness is not cause for a new trial. The proper remedy is application for postponement or continuance. Art. 551, C. C. P.; Graves v. State, 144 S. W. 961. Where surprised at the testimony of a witness, the party must move to withdraw his announcement and ask for a postponement or continuance so he can meet the testimony. He cannot proceed with the trial and urge the matter on motion for new trial. Bryant v. State, 33 S. W. 978, 36 S. W. 79; Caldwell v. State, 14 S. W. 122. While the application for continuance or postponement for surprise or some unexpected occurrence since the trial commenced is addressed to the sound discretion of the trial court, still if the application for continuance or postponement be improperly overruled and on motion for new trial it is developed that the absent testimony is material and it is reasonably probable that on another trial it might change the result, the motion for new trial should prevail. Branch’s Annotated Penal Code of Texas, section 340, and authorities cited. As shown by a bill of exception appellant claimed surprise when the witness gave the testimony in question and moved the court to postpone the trial in order that he might be permitted to bring in witnesses to show that said testimony was untrue. No written application was filed. It has been held that an application for postponement under the provisions of Article 551,
+C. C. P., must be in writing. Walker v. State, 232 S. W. 509. In his Annotated Penal Code of Texas, at page 195, Mr. Branch states the rule as follows:
+“If defendant is taken by surprise by reason of some unexpected occurrence since the trial commenced, he should present a written motion to continue or postpone, showing diligence, etc., or else he cannot proceed with the trial and urge such matter for the first time on motion for new trial. Cotton v. State, 4 Texas 260. Burton v. State, 9 Texas Crim. App. 609. Childs v. State, 10 Texas Crim. App. 185. Evans v. State, 13 Texas Crim. App. 225. Cunningham v. State, 20 Texas Crim. App. 167. Robbins v. State, 33 Texas Crim. Rep. 573; 28 S. W. 473. Bryant v. State, 35 Texas Crim. Rep. 394; 33 S. W. 978. Batson v. State, 36 Texas Crim. Rep. 616; 38 S. W. 48. Johnson v. State, 49 S. W. 584. Smith v. State, 40 Texas Crim. Rep. 391; 50 S. W. 938. Turner v. State, 55 S. W. 54. Brogden v. State, 63 Texas Crim. Rep. 475; 140 S. W. 352. Graves v. State, 144 S. W. 961.”
+Failing to find reversible error, the judgment is affirmed.
+A firmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+Appellant contends that we erred in refusing his application for continuance, upon the ground that the-absent testimony, though cumulative, was of such materialty as that we should have held upon mbtion for new trial that he was entitled to same under the opinions of this court in certain cases that are cited. We have examined each of these authorities. In our original opinion attention was called to the fact that the application for continuance was wholly defective in that it, being a second application, should have complied with the statutory requirement that it state that the absent testimony could not be obtained from any other source. We find none of the authorities referred to to be upon similar facts. In Chapman v. State, 179 S. W. Rep. 572, it appears that the application was a first application, which was refused because of lack of diligence. The same thing was true of Sherwood v. State, 88 Texas Crim. Rep. 273. Belton v. State, 7 S. W. (2d) 1076, presents no case of a defective application. In our former opinion we cite the- case of Brannan v. State, 1 S. W. (2d) 279. An examination of this authority will show that it is exactly in point. There was an application for continuance which was held defective because it did not state that the testimony could not be obtained from any other source, and notwithstanding the fact that the affidavit of the absent witness was attached to the motion for new trial, as in this case, we held no error was shown, and the judgment was affirmed.
+The motion for rehearing will be overruled.
+Overruled.
