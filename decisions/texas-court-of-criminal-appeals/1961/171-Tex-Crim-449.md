@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,783"
+decided: "1961-11-22"
+citations: ["171 Tex. Crim. 449"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gregory Michael O’Brien Et Al v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0449-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2637572
+cites_cases: ["121 Tex. Cr. R. 30", "122 Tex. Cr. R. 452", "13 S.W. 991", "28 Tex. App. 531", "53 S.W. 2d 307", "55 S.W. 2d 1044"]
+---
+
+# O'Brien v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+This is a bond forfeiture case.
+Gregory Michael O’Brien was charged with drunk driving and when his motion for new trial was reached and called his appearance bond in the sum of $500, with E. Coley Sullivan and M. E. Fields as sureties, was forfeited, he having failed to appear.
+Citation issued February 22, 1961, was served on the sureties commanding that they appear by filing written answer “at or before 10 o’clock A.M. of the Monday next after the expiration of twenty (20) days after March 6th, 1961, the date of commencement of the next term of said court, and show cause why the forfeiture of said bond should not be made final.”
+Motion to quash the citation was filed April 10, 1961, and on April 28th, 1961, the motion was granted.
+On May 26, 1961, judgment final was rendered and was signed and entered May 31, 1961.
+On June 8, 1961, sureties on said bail bond excepted to the overruling of their motion for new trial and thereafter superseded the judgment with a supersedeas bond.
+Appellant’s first point of error is that the court was without authority to render final judgment because, after their motion to quash the citation, they had not been re-served and had not waived service.
+Under the terms of Art. 2092(8) V.C.S., applicable in Dallas County, as well as Rule 122 of the Rules of Civil Procedure which made the provision of said section of the statute applicable to all courts, appellants were deemed to have been duly served so as to require them to answer on Monday next after the expiration of 20 days after the day the citation was quashed, and, having failed to do so, judgment by default was authorized.
+Appellant’s second point of error is that the judgment nisi is fundamentally defective and at variance with the final judgment in that the judgment nisi renders judgment against the principal for $500.00 and “in addition thereto renders a judgment against each of the sureties additionally for the same amount.” We overrule this point.
+The liability of the sureties on a bail bond or recognizance is several as well as joint, and it is immaterial whether it be stated in the judgment nisi or the citation to be joint or several, or joint and several. Allee v. State, 28 Tex. App. 531, 13 S.W. 991; Dunn v. State, 121 Tex. Cr. R. 30, 53 S.W. 2d 307; Moreland v. State, 122 Tex. Cr. R. 452, 55 S.W. 2d 1044.
+The judgment is affirmed.
+Appellants having superseded the judgment by supersedeas bond, judgment is rendered against the sureties on said supersedeas bond for the performance of the judgment herein affirmed.
