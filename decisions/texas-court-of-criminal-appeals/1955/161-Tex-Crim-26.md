@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,335"
+decided: "1955-01-19"
+citations: ["161 Tex. Crim. 26"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Williams v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468565
+cites_cases: ["156 Texas Cr. Rep. 218", "156 Texas Cr. Rep. 29", "156 Texas Cr. Rep. 88", "238 S.W. 2d 537", "238 S.W. 2d 970", "240 S.W. 2d 297", "252 S.W. 785", "46 Texas Cr. Rep. 412", "69 Texas Cr. Rep. 62", "80 S.W. 623"]
+---
+
+# Williams v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for transporting whisky in a dry area; the punishment, 60 days in jail.
+The judgment recites that appellant waived a jury and entered a plea of guilty before the court, and that the court heard evidence, adjudged appellant guilty, and assessed the punishment mentioned.
+There are no bills of exception and no statement of facts on the trial proper.
+Appellant filed a motion for new trial alleging, as ground 4. that a new trial should be granted “because defendant has never entered a plea to the charge against him in this cause.”
+The agreed statement of facts on motion for new trial shows that the only evidence offered was the testimony of appellant. He testified that he was brought before the court without benefit of counsel and “never did at any time enter a plea of guilty— in Cause No. 1899 and in truth and in fact he was not guilty of the charge against him.”
+In the absence of a bill of exception appellant is relegated to the contention that “a judgment is null and void without defendant having first entered a plea to the charge.” Cited in support thereof is Thompson v. State, 46 Texas Cr. Rep. 412, 80 S.W. 623.
+Without passing upon the correctness of the rule and decision submitted, it has no application here, for there is no evidence that appellant did not enter a plea. He testified only that he did not plead guilty.
+Being a misdemeanor case, the trial court was not without authority to hear the case, whether the plea was guilty or not guilty, it being without dispute that appellant waived a jury.
+The record contains an affidavit of the trial judge made after the hearing on appellant’s motion for new trial but before the order overruling the motion was entered. He states therein that appellant was fully apprised of the nature of the accusation against him and, in his presence, “clearly and emphatically entered a plea of guilty to the charge.”
+We have no doubt that these matters occurring at and during the trial and in open court were such as could have been certified by the trial judge in connection with his approval of a bill of exception, had such a bill been presented to him for approval, raising the question of the overruling of his motion for new trial on the ground that appellant did not plead, or plead guilty, to the accusation against him.
+The affidavit contains recitations which indicate to us that it was filed for the purpose of informing this court of the facts, in the event he was not afforded an opportunity to do so in connection with a bill of exception.
+The cases of Sims v. State, 156 Texas Cr. Rep. 218, 240 S.W. 2d 297; Forrester v. State, 69 Texas Cr. Rep. 62, 252 S.W. 785; Swidan v. State, 156 Texas Cr. Rep. 29, 238 S.W. 2d 537, and Milliman v. State, 156 Texas Cr. Rep. 88, 238 S.W. 2d 970, make it clear that the rule which requires the judge to assume the attitude of a witness and make his statement as such is limited to matters known personally to him, which did not transpire during the trial and were not in some manner immediately connected therewith.
+We conclude that the trial court was not bound to accept as true the testimony of appellant that he did not plead guilty at the trial before him; that the judgment is not void, and that in the absence of any bill of exception the question of error otherwise is not presented for review.
+The judgment is affirmed.
