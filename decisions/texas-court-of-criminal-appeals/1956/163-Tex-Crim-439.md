@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,316"
+decided: "1956-05-30"
+citations: ["163 Tex. Crim. 439"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lon Gilmer Reed v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0439-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460541
+---
+
+# Reed v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for robbery by assault; the punishment, five years in the penitentiary.
+According to the state’s testimony, while R. A. Cox, the injured party, and the appellant were drinking beer in a tavern, appellant showed him a blackjack and said that he had the difference. He did not name the person to whom he referred. John R. Hatten arrived and the three then left in Hatten’s car purportedly to collect some money for Hatten. After travelling about six miles they stopped in a caliche pit on a side road; appellant, who had gotten out of the car, struck Cox on the head with a blackjack (State’s Exhibit No. One) as he was getting out. When Cox asked appellant why he hit him, he struck him again; Hatten and appellant got back in the car, pushed Cox away and drove to the top of the pit; then returned and appellant began beating Cox again with the blackjack, and Hatten said, “Kill him,” and appellant replied, “I will; I am going to kill him.” While Cox pretended that he was unconscious because he was afraid he would be killed, appellant took over $20 from his person, removed his shoes and beat him in the face with a shoe. Appellant and Hatten then left the scene and Cox found aid a short distance away.
+Charles Smith, chemist for the Texas Department of Public Safety, while testifying, identified State’s Exhibit No. One and stated that the analysis he made of the stains on said exhibit showed that they were blood stains of human origin.
+Appellant, while testifying in his own behalf, testified that he, Cox, and Hatten were drinking and while driving around stopped at a caliche pit where he and Hatten argued and got into a fight, and when Cox interfered he slapped him and told him to keep out. He further testified that he did not “beat” Cox and didn’t know who did, but that he “was beat up pretty bad * * * with some heavy instrument;” that he did not take Cox’s money and did not see anyone take it.
+Appellant called John R. Hatten who testified that shortly after they stopped in the caliche pit he heard Cox say, “Oh,” and then saw appellant with a weapon in his hand beating Cox, who was bleeding, and that he saw appellant place his hand in Cox’s pockets; that on the way back to town appellant was cursing Cox and said that he knew that he had some money but that he couldn’t find it.
+By Bill of Exception No. 4 it is contended that the court erred in admitting in evidence a taped chain or blackjack (State’s Exhibit No. One) which the state claims was used in the assault on the. ground that it was obtained by an illegal search of the trailer house occupied by the appellant.
+The court certifies in the bill that the exhibit and testimony were admitted because the evidence was sufficient to show that the search was made with the consent of the appellant. As so certified the bill shows no error.
+The state’s testimony shows the commission by the appellant of the offense charged. Appellant proved by his witness Hatten on direct examination that he committed an assault upon the injured party in the caliche pit. Also appellant’s witness Hatten testified that appellant put his hand in Cox’s pockets and afterwards the appellant had some blood on his shirt.
+In view of the state’s evidence and the proof introduced by the appellant in line with that offered by the state and of the lowest penalty being assessed, we perceive no injury or prejudice to the appellant as a result of the other matters complained of which would require that the jury’s verdict be set aside.
+The judgment is affirmed.
+Opinion approved by the Court.
