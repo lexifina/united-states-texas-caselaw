@@ -1,0 +1,50 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,781 and 30,782"
+decided: "1959-06-17"
+citations: ["168 Tex. Crim. 215"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Nefi Dykes v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2620061
+cites_cases: ["114 Texas Cr. Rep. 412", "130 Texas Cr. Rep. 412", "147 Texas Cr. Rep. 519", "151 Texas Cr. Rep. 115", "182 S.W. 2d 720", "205 S.W. 2d 590", "24 S.W. 2d 47", "94 S.W. 2d 1173"]
+---
+
+# Dykes v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant was charged in two separate counts with the offense of seriously threatening to take life and with unlawfully carrying a pistol on or about his person.
+By agreement, both cases were tried and disposed of in the same trial, which resulted in appellant’s conviction in each case. Under the accusation of seriously threatening to take life, his punishment was assessed at a fine of $300 and one year in jail; and under the accusation of unlawfully carrying a pistol, punishment was assessed at ninety days in jail.
+Notice of appeal was given in each case, and the statement of facts and bills of exception are identical in each case.
+The cases are therefore consolidated in this court and are disposed of together.
+The evidence is deemed sufficient to support the conviction for carrying a pistol.
+An issue arose under the facts as to whether the alleged threat to kill was seriously made and as to whether appellant could have carried out his threat to kill with a pistol, in view of his physical condition, his right leg having been amputated, the use of his arms being limited, and the use of either hand being limited to the thumb and forefinger as the result of severe burns.
+Appellant did not testify.
+A further discussion of the facts is deemed not necessary, in view of our conclusion that the conviction in each case must be reversed because of argument of state’s counsel.
+There appears to be no dispute but that in closing argument to the jury state’s counsel made the following statement:
+“May it please the court, ladies and gentlemen of the jury; Mr. Shown always talks about how the State is ganging up on this poor Defendant; — there is only one reason I say poor Defendant and that’s because he has these two attorneys representing him. He says that I’m nothing but a henchman; I represent the folks who pay my salary; I think I am a little prouder of that than I would be' being a mouthpiece for a bunch of rapists, thieves and murderers.”
+Appellant objected to that argument as being manifestly harmful, and moved the court to instruct the jury not to consider it for any purpose. He also moved the court to declare a mistrial because the argument was so highly and manifestly improper that the effects thereof could not be withdrawn from the jury’s consideration. The motion was overruled, and exception was properly reserved.
+The trial court approved the bill of exception with the following qualification:
+“The Court finds that the argument complained of in the foregoing bill of exceptions was invited by the following arguments of Defendant’s counsel, Mr. James J. Shown:
+“ * * * the police officer wouldn’t talk to the defense attorney over here, he didn’t know whether he was supposed to talk to the defense attorney; he thought he ought to talk to the State and see what they wanted.”
+“You’re not here for the State, you are here as friends of the Defendant, and you wouldn’t be here if it hadn’t been for the Magna Carta passed on down to the Constitution of the United States and the State of Texas and put into our Bill of Rights; you wouldn’t be a jury here today; Mr. Northrup [state’s counsel] could cut his head off without a trial and that is exactly why you are here today to put that burden of proof on them to prove beyond a reasonable doubt.”
+The trial court also appended this additional qualification to the bill:
+“The Court further finds that after objection by defense counsel, Mr. Northrup stated, with reference to his statement about someones being the mouthpiece of a bunch of murderers, rapists and thieves, that he had mentioned no one by name as being such mouthpiece.”
+When the argument of state’s counsel is analyzed it is susceptible of the construction (a) that it is a reflection upon the ability, character, and integrity of counsel for the appellant, and (b) that it is a reflection upon the character and reputation of the appellant.
+What was the jury authorized to conclude was meant by counsel when he referred to the appellant as a “poor Defendant and that’s because he has these two attorneys representing him?” While those words may have carried the connotation that appellant was not financially able to employ other counsel, the words were also susceptible of the construction that they were said in pity for the defendant as being so unfortunate as to have two attorneys representing him who were lacking in ability, character, and integrity.
+But the effect of the words of counsel did not stop there: In connection with the prior argument, they had the effect of openly accusing defense counsel not only of representing but being a mouthpiece for a “bunch of rapists, thieves and murderers.”
+That this was a severe accusation against the counsel representing appellant can hardly be denied. If counsel were the mouthpiece for rapists, thieves, and murderers, appellant would be considered as being among the “bunch” referred to — at least it could not be construed from the language used that he was not one of them.
+There is no escape from the conclusion that the argument was harmful and prejudicial.
+The question remaining for determination is whether such argument was improper.
+The trial court says that it was justified because the prior argument of one of the two attorneys representing the appellant invited state’s counsel to make the argument he did.
+When that argument is analyzed, it appears at first to be a reference to the fact that the police officer “wouldn’t talk to the defense attorney.” Surely there was nothing in that statement to invite the argument by state’s counsel in abuse of appellant’s counsel.
+The remainder of the argument of appellant’s counsel was in reference to the right of trial by jury and the burden of proof in a criminal case. Such argument could hardly have invited state’s counsel to attack the character and integrity of appellant and the attorneys representing him.
+The fact that state’s counsel stated, after the objection had been made to his argument, that he mentioned no one by name as being the mouthpiece of murderers, rapists,. and thieves served only to aggravate the harmful effect of what he said in the first instance, because there were two attorneys representing the appellant and he made his argument apply to both.
+This court has often pointed out that counsel for the state should not permit himself, in his zeal or in the heat of a trial, to stoop to abuse or vilification, which is not a substitute for legitimate argument. Johnson v. State, 130 Texas Cr. Rep. 412, 94 S.W. 2d 1173. Other cases where attacks in argument upon counsel for the accused have been condemned by this court are: Harrell v. State, 114 Texas Cr. Rep. 412, 24 S.W. 2d 47; Summers v. State, 147 Texas Cr. Rep. 519, 182 S.W. 2d 720; and Jones v. State, 151 Texas Cr. Rep. 115, 205 S.W. 2d 590.
+The punishment inflicted under the facts of this case precludes an application of the harmless-error rule.
+For the error discussed, the judgment in each case is reversed and the cause is remanded.
