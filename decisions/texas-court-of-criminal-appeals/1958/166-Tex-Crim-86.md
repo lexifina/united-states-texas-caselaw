@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,588"
+decided: "1958-02-26"
+citations: ["166 Tex. Crim. 86"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hubert Rodriguez v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2618530
+cites_cases: ["157 Texas Cr. Rep. 603", "252 S.W. 2d 186"]
+---
+
+# Rodriguez v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+The conviction is for possessing marihuana; the punishment, ten years in the penitentiary.
+Peace officers saw appellant stoop down, reach under and feel along the sill of a building and, as he removed his hand and stood up, they saw him transfer a package in his hand to his pocket. The officers apprehended the appellant and a companion about a half block away, at which time appellant was asked, “What’s that you’ve got in your pocket that you got from that building over there?” Thereupon appellant removed from his pocket a package wrapped in brown paper and threw it on the ground. One of the officers ordered him to pick up the package, which was shown to contain fourteen marihuana cigarettes.
+The foregoing is taken from the testimony of the state’s witnesses.
+Appellant denied that he ever had possession of the package containing the cigarettes. He suggested that it was his companion who dropped the package on the ground.
+The fact that the package contained marihuana cigarettes was established by the testimony of the toxicologist for the Texas Department of Public Safety.
+It is appellant’s contention that the package examined by the toxicologist, to which he testified, was not shown to be the package which appellant was alleged to have possessed. This contention is predicated, mainly, upon the different identifying initials placed upon the package by the various officers having custody thereof.
+It appears that the package, itself, without reference to any identification thereon, was identified.
+The deputy sheriff who made the arrest and to whom the package was given testified that he delivered the package to Ranger Stewart. Stewart testified that he carried the package to Austin and delivered it, in person, to the Department of Public Safety.
+Maupin, the toxicologist, testified that after Stewart delivered the package to him, in person, he examined the contents and found marihuana cigarettes therein. After the examination and after sealing the cigarettes in an envelope, Maupin mailed— or delivered — them to the sheriff of the county.
+The sheriff testified that he received the package from Maupin or some of his associates and that it remained in his possession continuously until introduced in evidence in this case.
+The conclusion is reached that under the facts stated the package containing the marihuana cigarettes was sufficiently identified as being that which the officers testified the appellant had in his possession.
+In stating the law touching narcotics in his charge to the jury, the trial court gave the full statute, covering, in addition to possession, the manufacture, sale, prescribing, administering, and dispensing and compounding of such drugs.
+Appellant insists that the statement of the law should have been restricted merely to the possession of narcotics, that being the offense for which he was on trial.
+The trial court restricted appellant’s guilt to a finding by the jury of the possession of marihuana, a narcotic drug, and instructed the jury that if they did not so believe or if they had a reasonable doubt thereof they should acquit.
+In the light of that instruction we are unable to agree with appellant that he was in any manner injured by the general statement of the law which the trial court gave. See: Martinez v. State, 157 Texas Cr. Rep. 603, 252 S.W. 2d 186.
+No reversible error appearing, the judgment is affirmed.
