@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,396"
+decided: "1962-03-07"
+citations: ["172 Tex. Crim. 272"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elbert Jasper Newsom v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2637932
+---
+
+# Newsom v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is procuring; the punishment assessed by the jury, 30 days in jail and a fine of $50.
+The state’s evidence consists of the testimony of Vice Squad Officer D. H. Hadley. He testified that he went to the Brazos Hotel about 8:30 P.M. under assignment to make an undercover investigation in regard to alleged prostitution; that he registered under a false name; that appellant brought ice and seven-ups he had ordered to his room, at which time he asked appellant if he had a prostitute he could send to the room and said he wanted a date with one. Appellant said he would get one for him and left the room.
+About 15 minutes later Virginia Mitchell, the female named in the complaint and information, came to the room and solicited Hadley for a $20 prostitution date.
+Some 5 minutes later Virginia called for a porter and appellant came back to the room. Virginia told him that Hadley wanted another girl to come up, and appellant “said he would have another one right up there”.
+Three to five minutes later Mary Ann Keith arrived and solicited Hadley for a $25 date for sexual intercourse. Hadley then called for appellant to send up “some setups”, and when appellant returned to the room Hadley identified himself to appellant and the two girls and placed them under arrest.
+The information alleged that appellant procured Virginia Mitchell “to visit and be at a place, to-wit, at a house, room and place commonly known as Brazos Hotel” for the purpose of meeting and having sexual relations with a male person.
+Appellant contends that there is a fatal variance because Hadley testified that he later learned that both of the girls who came to his room lived in the Brazos Hotel. No authorities are cited which sustain such contention.
+Proof that the named female was procured “to be” at the place named for the purpose of meeting and having sexual inter•course with a male person constituted an offense under the statute. The evidence is deemed sufficient to sustain the allegations of the complaint and information.
+The judgment is affirmed.
