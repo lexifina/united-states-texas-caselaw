@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "21518"
+decided: "1941-03-26"
+citations: ["141 Tex. Crim. 565", "150 S.W.2d 94"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Leroy Gentry v. The State."]
+source_url: "https://static.case.law/tex-crim/141/cases/0565-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5803512
+---
+
+# Gentry v. State
+
+## Majority (BEAUCHAMP, Judge.)
+
+BEAUCHAMP, Judge.
+Leroy Gentry and Antonio Cañizares were charged by indictment with unlawfully keeping and exhibiting for the purpose of gaming a policy game on or about the 29th day of April, 1940. The jury assessed a penalty of two years in the penitentiary against the appellant Leroy Gentry.
+A number of witnesses testified to having had transactions with the “G. & N.” policy through this defendant at a prior time. It appears that he was arrested and paid a fine for such transactions.
+The State relied for a conviction chiefly on the testimony of D. T. Stodghill, a police officer in the City of Houston. During the month of April he had a special assignment working for the grand jury, making an investigation of “policy” gambling. He had an associate in this undertaking. For several days they shadowed appellant and Cañizares, at least at a certain time of day, and twice each day they saw them meet in automobiles at about the same place. At each time it appears that appellant turned over to Cañizares “a large brown canvass bag.” The witness had seen appellant get a bag from another negro, but the one that he delivered to Cañizares was not the same bag. It was considerably larger than the one he had received. After each transaction they departed, going in different directions. These transactions were repeated twice daily for several days, the parties going- in about the same general direction each time. It seems that Cañizares, after meeting appellant at one time of day, would go to 410 Drew Street and at the other time would go to 601 Colquit Street. Finally the officers obtained a search warrant for the premises at 601 Colquit Street. They searched the automobiles which he had driven, both the Ford and the Dodge. In one they found quite a large brown canvass bag that contained a number of smaller canvass bags, each of the small bags contained a quantity of brown paper envelopes. Each envelope had a number and each contained a bunch of small slips of paper with figuring on it. Each had a small quantity of money, the total of which amounted to $253.45. The witness said, “It was the same automobile that Tony Cañizares was driving those times when a bag was passed to him by this defendant, Leroy Gentry. I had seen the Ford that day we searched it and I had seen the bag just like that one, if it was not the same one, when it was passed by the defendant to Tony Cañizares.” The officers took the fruits of their search and turned it over to the district attorney’s office and it was produced on the trial of the case. The witness further said that he didn’t know what was in the package that the accused gave to Cañizares. He saw him give him a package at 1:15 in the afternoon and it was six hours and fifteen minutes later when the search was made. He had not observed the car continuously. He did not know that it was the same bag that was handed by Gentry to Cañizares, but it was one just like it. He was willing to state that it was the same bag or one just like it. He did not know what the contents were at the time it was passed and does not know that the contents were the same at the time it was seized by the search. It was six hours later and he didn’t know what took place with regard to the contents of the bag or whether it was the same bag or not.
+In the absence of the testimony of the several witnesses concerning appellant’s operation with the “G. & N.” policy game, there is insufficient evidence to show that this transaction constituted a violation of the law. The record as we have it before us does not sufficiently, we think, connect the other transactions with this and throws but little, if any, light on this transaction in the present state of the record. It is very clear that the State relied on circumstantial evidence for a conviction.
+If the evidence construed together is sufficient upon which a jury may reach a verdict of guilt, the fact of the operation must be inferred from the facts and circumstances found in the record. There is no direct proof of the operation, but only proof of the existence of those things from which the jury may presume an operation. This creates only a circumstance. (Branch’s Ann. Penal Code, Section 2478, and authorities there cited.) It was the duty of the court to charge the jury on the law of circumstantial evidence when so requested. For his failure to do so the judgment will be reversed and the cause remanded.
+We recognize the fact that there are other questions in this case which may or may not again arise upon another trial, depending upon the evidence presented. It appears, however, that most of these questions may not occur again and we think it sufficient to say that should' the evidence raise a question as to whether or not the offense proven had been the subject of a former conviction that question should be presented to the jury by proper charge. It is more definitely presented to us in the present appeal by reason of the objections to the evidence which are found in a long list of bills of exceptions, each of which raises a serious question as the record is now before us. On ■another trial it would, in all probability, be presented in quite a different way.
+For the reasons stated, the judgment of the trial court is reversed and the cause remanded.
+
+## Rehearing (KRUEGER, Judge.)
+
+on state’s motion for rehearing.
+KRUEGER, Judge.
+The State, by its able District Attorney, has filed a motion for rehearing contending that we erred in holding that the trial court should have complied with appellant’s request for an instruction to the jury upon the law of circumstantial evidence. We have again reviewed the record in the light of the State’s contention but see no reason to recede from the conclusion reached by us, as expressed in the original opinion. Appellant was charged with keeping and exhibiting a policy game. There was no direct evidence that he kept or exhibited a policy game. There were circumstances proven from which the jury could reasonably draw the conclusion that he was engaged in such enterprise; hence the requested charge should have been given.
+The question of former jeopardy referred to depends entirely upon evidence. It may be that upon another trial the evidence will show that the former conviction was for another offense which was committed at a different time.
+The State’s motion for rehearing is overruled.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
