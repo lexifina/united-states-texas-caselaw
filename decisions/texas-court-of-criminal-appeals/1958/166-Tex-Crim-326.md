@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,880"
+decided: "1958-06-04"
+citations: ["166 Tex. Crim. 326"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Walter Harley Keener."]
+source_url: "https://static.case.law/tex-crim/166/cases/0326-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2617912
+cites_cases: ["140 Texas Cr. Rep. 251", "144 S.W. 2d 581", "148 Texas Cr. Rep. 354", "161 Texas Cr. Rep. 554", "162 Texas Cr. Rep. 235", "164 Texas Cr. Rep. 358", "164 Texas Cr. Rep. 385", "187 S.W. 2d 570", "278 S.W. 2d 845", "284 S.W. 2d 155", "298 S.W. 2d 838", "299 S.W. 2d 128", "313 S.W. 2d 287"]
+---
+
+# Ex parte Keener
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+This is a habeas corpus proceeding wherein relator attacks as void the judgment and sentence under which he is confined in the penitentiary.
+The conviction was in the Criminal District Court No. 2 of Dallas County. Though not appealed to this court, the record of the evidence offered in the trial court is before us.
+This case lies halfway between Crawford v. State, 161 Texas Cr. Rep. 554, 278 S.W. 2d 845, and Ex parte Clark, 164 Texas Cr. Rep. 385, 299 S.W. 2d 128, and involves an application of Article I, Section 10, Constitution of Texas, and Article 12, V.A.C.C.P. See also Shepherd v. State, 162 Texas Cr. Rep. 235, 284 S.W. 2d 155, and Ex parte Bruinsma, 164 Texas Cr. Rep. 358, 298 S.W. 2d 838.
+The relator entered his plea of guilty before the court. His counsel waived the presence of the witnesses, and it was stipulated that if such witnesses were present they would testify to a certain state of facts which, if true, would have been sufficient to support the plea of guilty. Relator did not personally join in this stipulation but was sworn, testified and answered affirmatively when questioned if he had heard “this testimony as was stipulated here” and that it was substantially true and correct.
+In Harper v. State, 148 Texas Cr. Rep. 354, 187 S.W. 2d 570, this court held that a judicial confession was sufficient to support a death penalty conviction even if the written confession be disregarded. Here we have a stipulation, plus the testimony of the accused that the matters stipulated were true and correct. This we deem sufficient to support the plea of guilty.
+The writ of habeas corpus is denied.
+
+## Concurrence (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+concurring.
+I concur only in the disposition of this case — that is, that the writ of habeas corpus be denied.
+This court is without jurisdiction, I have always insisted, to set aside a final judgment because of errors upon the trial of a case where no appeal was taken and the errors would render the judgment voidable, only. My views áre stated in my dissenting opinion in Ex parte Bush, No. 29,806, (page 259, this volume). 313 S.W. 2d 287.
+Ths court has no authority to entertain the writ of habeas corpus and to review the evidence upon which the conviction was predicated.
+The erroneous holding to which I here call attention is that a plea of guilty constitutes a judicial confession. Such is not true and to so hold destroys Art. 12, Vernon’s C.C.P., which requires proof of guilt upon a plea of guilty before the court.
+If a plea of guilty was a judicial confession, then no reason or necessity would arise for the introduction of evidence “showing the guilt of the defendant,” as the statute requires.
+Such would also be true if the accused could take the witness stand and admit his guilt and thus supply the evidence “showing the guilt of the defendant.”
+The purpose and intent on the part of the legislature in the passage of Art. 12, Vernon’s C.C.P., was to prevent the state from convicting the accused, upon his plea of guilty and waiver of trial by jury, without proving his guilt, independent of any plea or testimony by the accused. Franklin v. State, 140 Texas Cr. Rep. 251, 144 S.W. 2d 581.
+It may appear that the position I here take is not in keeping with that expressed by me in my dissenting opinion in Ex parte Clark, 164 Texas Cr. Rep 385, 299 S.W. 2d 128. Such, however, is not true. It was my position in that case that there was no evidence introduced showing the guilt of the accused, as required by Art. 12, V.A.C.C.P., because hearsay evidence had no probative value, and therefore the judgment of conviction was void as distinguished from voidable, only.
+In the instant case evidence was introduced, but such was not sufficient to comply with the statute requiring that evidence be introduced “showing the guilt of the defendant” and thereby rendering the convicton voidable, only, and subject to be set aside upon appeal for that reason.
