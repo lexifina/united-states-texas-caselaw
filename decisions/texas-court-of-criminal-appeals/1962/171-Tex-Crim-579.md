@@ -1,0 +1,49 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,111"
+decided: "1962-01-10"
+citations: ["171 Tex. Crim. 579"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carl Oren Capps v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0579-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2635038
+cites_cases: ["160 S.W. 687", "162 Tex. Cr. R. 268", "283 S.W. 2d 933", "30 S.W. 1066", "334 S.W. 2d 184", "34 Tex. Cr. R. 434", "350 S.W. 2d 204", "71 Tex. Cr. R. 625"]
+---
+
+# Capps v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is driving an operating a motor vehicle upon a public highway while intoxicated; the punishment, ten days in jail and a fine of $100.
+Reversal is sought upon two points, the first being the contention that “there was no evidence that a motor vehicle was moved along, across or upon a public highway while under the control of Defendant.”
+Seventeen year old Jerry Hester testified that as he went out the door of a cafe at the intersection of Farm Road 400 and U.S. 82, between 10 and 11 o’clock at night:
+“I heard some tires squealing and I looked around and seen a car run up on top of some posts out there. I mean — ■ Well, there are posts dividing the highway.
+*****
+“O. Okay. What did you do when you heard these tires squealing? A. I just looked over my shoulder.
+“Q. Which direction did you look? A. Away from the— The way the tires would be squealing.
+“Q. What did you see when you looked around, Jerry? A. I seen a car — a car light running, just kind of bouncing for a moment and then standing still and heard like a car hit something * * *.
+“Q. All right. Now, you saw these car lights sort of moving; is that right? A. Yes, sir. Just for a second.”
+The witness Hester identified appellant as the man who was alone in the Chevrolet that was “kind of balanced” on posts dividing the highway. The posts were inside the curb and the Chevrolet was on or inside the curb when the witness passed and when he returned with Officer Ford, from nearby Idalou, appellant was seated under the steering wheel and the motor was running.
+Ford testified:
+“Q. All right. And where was this car when you arrived? A. It was astraddle of about two posts.
+“Q. Okay. And two of these guard posts here; is that correct? A. Yes, sir.
+“Q. So, I believe you said you went up to the car; is that right? A. Yes, sir.
+“Q. All right. What did you do when you got up to the car? A. I opened the door.
+“Q. Could you see anyone in this car? A. Yes, sir.
+“Q. How many people were there? A. One.
+“Q. Where was he seated? A. Under the wheel in the front seat.
+“Q. Now, was this — You recall whether, or not the motor was stopped or running at this time? A. It was running.
+“Q. And before you got up to the car, did you observe what was happening to the car, what was being done with the car, if anything? A. Well, nothing, only I knew the car was setting out there. I just drove on out there. Jerry told me about the car. And I went on out and parked there in the front of the car and got out. Found it.
+“Q. When did you first notice the car motor was running? A. Well, as soon as I got out of the car.
+“Q. Okay. And was the car — did it appear to you, or not, whether, the car was being moved or the motor raced or it was trying to move? A. He was trying to get out.”
+The Witness Ford further testiifed that appellant “said he had made a bad drive.”
+The careful trial court charged the jury on circumstantial evidence.
+Viewed in the ilght most favorable to the jury’s verdict, we find the evidence sufficient to sustain the finding that appelland drove and operated the automobile on the public highway. Harrison v. State, 350 S.W. 2d 204; Sandford v. State, 169 Tex. Cr. Rep., 388, 334 S.W. 2d 184; and Thomas v. State, 162 Tex. Cr. R. 268, 283 S.W. 2d 933, sustain our holding.
+The second ground upon which reversal is sought is the refusal of a requested charge defining the term “operate a motor vehicle upon a public highway”, used in the court’s charge^
+The quoted words appear in the statute, Art. 802 V.A.P.C., and are ordinary English words which are commonly and ordinarily understood by people generally, hence the court was not required to define them. Humphreys v. State, 34 Tex. Cr. R. 434, 30 S.W. 1066; Blackburn v. State, 71 Tex. Cr. R. 625, 160 S.W. 687; 24-A Tex. Jur. 629, Sec. 70.
+There is ample evidence that appellant was intoxicated on the occasion in question. The officers who made the investigation and the arrest described his appearance and conduct and testifiéd that he was intoxicated. A partially full bottle of whisky was found on the floor of the automobile, near the driver’s seat.
+The evidence is sufficient to sustain the conviction and we find no reversible error. The judgment is affirmed.
