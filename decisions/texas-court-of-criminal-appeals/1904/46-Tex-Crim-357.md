@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2746"
+decided: "1904-06-15"
+citations: ["46 Tex. Crim. 357"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. W. Stokes v. The State."]
+source_url: "https://static.case.law/tex-crim/46/cases/0357-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 175361
+cites_cases: ["11 S. W. Rep., 647", "68 S. W. Rep., 276"]
+---
+
+# Stokes v. State
+
+## Majority (HENDERSON, Judge.)
+
+HENDERSON, Judge.
+Appellant was convicted of an aggravated assault, and his punishment assessed at a fine of $25; hence this appeal.
+Appellant assigns as error the action of the court refusing to quash the information. He insists that the information charging that appellant “in and upon the person of Mrs. G. W. Stokes, did commit an aggravated assault and battery, the said appellant then and there being an adult male person, the said Mrs. Stokes being a female,” is not sufficient to charge an aggravated assault; that there should be some further allegation in the indictment of the means used. An indictment of this character was held sufficient in Webb v. State, 68 S. W. Rep., 276. Appellant, however, attempts to criticise this opinion, and cites us to Meier v. State, 10 Texas Crim. App., 39. We have examined said case carefully, and it is not authority contravening the proposition announced in the case above cited. That was a case where the gravamen of the offense constituting an aggravated assault made with a slung-shot inflicting serious bodily injury, etc. Of course in such case, where the assault being aggravated, depends upon a particular allegation, that must be used. The clause under which this information was framed constitutes a character of assault made by an adult male on a female an aggravated assault. And so the allegation of an assault, without stating the means used, would be a sufficient statement of the assault. And then, in order to characterize it as an aggravated assault, the statement that it was made by an adult male on a female, would be sufficient under our statute.
+Appellant complains that the court permitted Mrs. Stokes to testify to an assault and battery on her, claiming that the evidence showed her name was not Mrs. G. W. Stokes, but Mrs. Eliza Comella Stokes, insisting there was a variance between the information and the proof in this respect. And in this connection appellant insists the court committed error in refusing to give certain requested special instructions asked by appellant in regard to variance between the names of Mrs. G. W. Stokes alleged in the information and the name as proven. The proof shows that Mrs. Stokes had a husband, with whom she was living, and that his name was G. W. Stokes; that her name was Eliza Cornelia Stokes. She stated that she was not generally known nor called Mrs. G. W. Stokes; that she was sometimes called by her husband’s name. This was about all the proof on the question. The court gave appellant’s requested instruction to the effect that, if the jury had a reasonable doubt whether or not prosecutrix was commonly known as Mrs. G. W. Stokes to acquit; but appellant insists this was not sufficient; that there was no proof at all that she was commonly Imown as Mrs. G. W. Stokes, the only proof being that she was called sometimes Mrs. G. W. Stokes, the same being the name of her husband. To support his contention appellant refers us to Bell v. State, 25 Texas, 574; and Davis v. State, 11 S. W. Rep., 647, showing by these authorities that the wife does not assume the given name or initials of her husband. This may be conceded as true, and yet it does not appear to meet the facts of this case. Here the witness testified that she was sometimes called by her husband’s name. The statute only requires that she be known by the name alleged in the indictment; and where a person is known by two or more names, it shall be sufficient to state either name. Art. 444, Code Crim. Proc. We take it that, where a wife is sometimes called by her husband’s name, she is Imown by that name, and it is not necessary that she be commonly Tcnown by that name. The court seems to have required more in the instruction than is demanded by the statute. We do not believe it was necessary to give the other special instructions requested.
+Appellant further complains that the court refused to give the special requested instruction to the effect that, if the prosecuting witness was making or creating a disturbance at the house where defendant lived by yelling, quarreling, hallooing and screaming, and defendant in an effort to quell said disturbance took from prosecuting witness a piece of iron and disarmed her for the purpose of quelling said disturbance, and if in so doing hé used no greater force than was necessary to accomplish said lawful purpose, or if the jury had a reasonable doubt thereof to acquit him. We find in the record that the court gave a charge on self-defense, predicated on appellant’s own testimony that prosecutrix was about to assault him with a piece of iron, and we think this was sufficient, inasmuch as we fail to find any testimony that authorized an instruction of the character refused.
+There being no error in the record, the judgment is affirmed.
+Affirmed.
