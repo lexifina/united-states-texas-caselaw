@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "6728"
+decided: "1922-02-01"
+citations: ["91 Tex. Crim. 93"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Sellers Andres."]
+source_url: "https://static.case.law/tex-crim/91/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4816330
+cites_cases: ["106 S. W. Rep., 149", "23 L. R. A., (N. S.) 243", "234 S. W. Rep. 533", "40 Ala. 308", "48 Mich. 27", "50 Ohio St., 428", "54 Texas 167", "70 Ohio St. Rep. 25", "78 Kan. 859", "88 Texas Crim. Rep., 473", "90 Texas Crim. Rep., 256"]
+---
+
+# Ex parte Andres
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+Judge. This is an original application for writ of habeas corpus.
+Appellant was indicted, tried, convicted and sentenced to confinement in the penitentiary for the offense of unlawfully possessing equipment for the manufacture of intoxicating liquor.
+On appeal, the conviction was affirmed and the mandate from this Court issued on the first day of April, 1921.
+The offense was denounced by Sec. 1, Chap. 78, Acts of the thirty-sixth Leg., 1st Called Session, which was in force at the time of the indictment and remained so until the Act was amended on the 15th of November, 1921, by Sec. 1, Chap. 61, Acts of the thirty-seventh Leg., 1st Called Session. By the amendment, the specific act of possessing equipment for making intoxicating liquor was omitted and thereby repealed. Cox v. State, 90 Texas Crim. Rep., 256, 234 S. W. Rep. 533.
+Under the judgment of conviction, appellant is now confined in the penitentiary and urges that he should be discharged because of the repeal of the law denouncing the offense of which he was convicted. He relies upon Art. 16 of the Penal Code, which reads thus:
+“The repeal of a law, where the repealing statute substitutes no other penalty, will exempt from punishment all persons who may have offended against the provisions of such repealing (repealed) law, unless it be otherwise declared in the repealing statute.”
+This statute has often been construed as requiring the dismissal of a prosecution for violation of a repealed law at any time before the judgment becomes final. Wall v. State, 18 Texas Reports, 682; 70 Amer. Dec., 302, and other cases listed in Vernon’s Texas Crim. Statutes, Vol. 1, p. 11. It has, in this state, never been held that the repeal of a statute, after final judgment, would discharge one convicted of the repealed offense. There are instances in other states in which such effect has been denied. In Re Kline, 70 Ohio St. Rep. 25; Amer. & Eng. Ann. Cas., Vol. 1, p. 219; State v. Addington, 2nd Bailey (S. C.) p. 517; Wichita v. Murphy, 78 Kan. 859; 23 L. R. A., (N. S.) 243; Foster v. Medfield, 3 Metc. (Mass.) p. 1; Aaron v. State, 40 Ala. 308; People v. Hobson, 48 Mich. 27. The reasoning in one of the cases is thus stated:
+“The relator was legally tried, convicted, sentenced and committed, under a valid statute. Blackburn v. State, 50 Ohio St., 428. Not only is the case res adjudicata and beyond the reach of the courts, but it is in process of execution as a final judgment. If the courts could resume jurisdiction and interfere with the execution of sentence, after regular procedure, judgment and commitment under sentence, there could be no final judgment and no end to a legal controversy. The legislature cannot intervene and vacate the judgment of the courts either directly, or indirectly by repeal of a statute under which the judgment was rendered, because that would be an exercise of judicial and not of legislative power. 1 Black on Judgments, section 298. . .' . The only remedy left to the adjudged criminal, if the case calls for any remedy, is a resort to the pardoning power which is vested in the executive. The repeal of a statute which authorizes a prosecution and conviction, if before final judgment, ends all proceedings under it unless a contrary intent appears in the repealing statute; but a repeal after final judgment with neither vacate the judgment nor arrest the execution of the sentence.” (In Re Eline, 70 Ohio St., 25.)
+This conclusion is supported by the text and numerous citations to be found in Riding Case Law, Yol. 6, Sections 148, 150, and 163. Holding inoperative an Act of the Legislature attempting to set at naught a decision of the Supreme Court of the State with reference to a civil matter, the Supreme Court quoted and applied from the work of Mr. Cooley (Const. Limitations, 7th Ed., p. 136) the following :
+“ ... the legislative action cannot be made to retroact upon past controversies, and to reverse decisions which the courts, in the exercise of their undoubted authority, have made; for this would not only be the exercise of judicial power, but it would be its exercise in the most objectionable and offensive form, since the legislature would in effect sit as a court of review, to which parties might appeal when dissatisfied with the rulings of the courts.” (Milam County v. Bateman, 54 Texas 167.)
+The relator, in an interesting brief and argument, directs attention to many instances in which this court, on appeal, has ordered a reversal and dismissal of the judgment when the Legislature after the verdict but before final judgment, has repealed the statute condemning the offense. This principle has been given effect in several recent cases. Cox v. State, 90 Texas Crim. Rep., 256, 234 S. W. Rep., 533. Some reference is made to a discrepancy between our statute and those in force in the states in which the right to discharge has been denied. Considering the settled practice against the interference by the Legislature with the final judgment of courts, we do not conceive that there was an intent upon the part of the Legislature, in the passage of Article 16 of the Penal Code, to reverse this rule. See Ruling Case Law, Vol. 6, Sections 148, 150, and 163. We find nothing in the language of the statute which impresses us as requiring that it be construed as exempting from punishment, those who are confined in the penitentiary under a final judgment of the court.
+In the present matter, appellant was convicted upon a law valid at the time and the final judgment is now in process of execution. The power does not lié in the court to relieve him. The matter has passed that stage, and has reached the point at which the power to discharge him rests in the executive branch of the government.
+The application for writ of habeas corpus is ordered dismissed.
+Dismissed.
