@@ -1,0 +1,42 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,690"
+decided: "1954-01-06"
+citations: ["160 Tex. Crim. 88"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Heard v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468778
+cites_cases: ["117 S.W. 798", "131 Am. St. Rep. 824", "143 Texas. Cr. Rep. 277", "144 Texas Cr. Rep. 432", "158 S.W. 2d 535", "158 Texas Cr. Rep. 337", "164 S.W. 2d 668", "2 S.W. 814", "22 S.W. 49", "22 S.W. 680", "255 S.W. 2d 870", "265 S.W. 585", "28 S.W. 688", "55 S.W. 831", "57 Am. Rep. 618", "63 S.W. 328", "68 S.W. 988"]
+---
+
+# Heard v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for theft of property of the value of over $5 and under $50; the punishment 10 days in jail.
+There are no bills of exception.
+The facts are stated in appellant’s brief wherein it is admitted that the testimony of all witnesses is without substantial dispute, except as to appellant’s intentions.
+“Appellant was a San Antonio City Policeman assigned to patrol a section in the western part of San Antonio in a squad car. During the early evening of March 13, 1953, Appellant stopped at a housing project under construction by Ball Construction Company. There he saw and talked with Hubert J. Walker, employed as a nightwatchman by Ball Construction Company. Walker reported to Appellant that he had seen someone driving an automobile with.a new hot water heater extending out of the trunk and which Walker suspected had been stolen from the housing project. Walker gave Appellant a description of the automobile and driver and Appellant drove off in an attempt to catch the suspected thief, but without success. After a few minutes, Appellant returned to the housing project and ... . suggested to Walker that he, Walker, steal some new plumbing fixtures from the project and deliver them to Appellant at a rendezvous several blocks away from the project. Appellant stated to Walker that Appellant would get off work about 11:00 o’clock, and that Walker could deliver the fixtures around 2:30 A.M. Walker testified that Appellant’s suggestion that he commit theft made him ‘mad,’ but, nevertheless, he stated to Appellant that he would steal such fixtures and deliver them to Appellant.---Walker, a State’s witness, testified that at no time did he ever intend to actually steal the fixtures, but that he merely stated to Appellant that he would do so.---After Appellant had left, Walker phoned Detective headquarters of the Police Department and reported - - - that some policeman was trying to get him to steal some property. Thereupon, several detectives went to the housing project and--asked Walker if he would be willing to help them to entrap the policeman and Walker stated that he would, providing that his boss consented thereto. Walker thereupon call J. P. Tate, who was a carpenter foreman for Ball Construction Company, and who was in charge of the project.---Walker asked Tate if it would be O.K. to take the plumbing fixtures and cooperate with the police in an effort to entrap Appellant. Mr. Tate told Walker that it would be all right if he wanted to cooperate with the police in that maner.---Walker told Tate that he would do as suggested by the police.---Thereupon, Inspector Bichsel and Lt. Hutton of the Police Department began to make plans to entrap the Appellant. Shortly before the appointed time of the rendezvous, Officer Weilbacher assisted Walker in removing a new wash basin and combination toilet commode and tank which were placed in a pickup truck. Officer Weilbacher rode in the truck with Walker driving and they drove to the rendezvous. Officer Weilbacher crouched down in the pickup so he could not be seen by Appellant. Inspector Bichsel and Lt. Hutton were in another car inside a short distance from the rendezvous. Walker saw Appellant’s car, stopped the pickup truck, unloaded the fixtures therefrom, and placed them in Appellant’s car. Appellant showed Walker his pocket book and said that he did not have any money but would see Walker later. They did not discuss price. Walker and Weilbacher started driving off in the pickup and at that time Inspector Bichsel and Lt. Hutton drove up to Appelant’s car. Appellant was placed under arrest and disarmed and he protested his innocence of any theft. Appellant was driven to the police station and the plumbing fixtures were placed in the Police Department property room.---”
+Though conceding that the issue of appellant’s intentions was resolved against him, appellant contends that the evidence is insufficient because it was not shown that he was present at the time the property was taken; that Walker committed no offense because he had permission to take the property for the purpose of entraping appellant, and had no intent to appropriate it to his own use. Therefore, he says that he could not be guilty of theft unless Walker was guilty of theft and he was associated with Walker in the criminal act.
+We believe that appellant’s contention may be answered by the following statement found in Branch’s Ann. P.C., Sec. 2428, quoted with approval in Spivey v. State, 144 Texas Cr. Rep. 432, 164 S.W. 2d 668, at page 672:
+“ ‘If defendant fraudulently procured a person innocent of any fraudulent intent to take the property for him, it is a taking through an innocent agent, and a taking by an innocent agent is a taking by defendant. In a legal sense, defendant was present when the act was done if he fraudulently caused that act to be done by an innocent agent although in fact he was in a different county or state. Madison v. State, 16 Texas App. (435) 442; Doss v. State, 21 Texas App. (505) 509, 2 S.W. 814 (57 Am. Rep. 618) ; Dale v. State, 32 Texas Cr. R. 78, 22 S.W. 49; Sikes v. State (Texas Cr. App.) 28 S.W. 688; Lane v. State, 41 Texas Cr. R. 559, 55 S.W. 831; Walls v. State, 43 Texas Cr. R. 70, 63 S.W. 328; Jessup v. State, 44 Texas Cr. R. 83, 68 S.W. 988; Farris v. State, 55 Texas Cr. R. 481, 117 S.W. 798 (131 Am. St. Rep. 824).’
+“Many of the cases cited are reviewd in Houston v. State, 98 Texas Cr. R. 280, 265 S.W. 585, and the principle approved. See, also, Strang v. State, 32 Texas Cr. R. 219, 22 S.W. 680.”
+If we understand appellant’s remaining contention it is that the evidence shows the property taken to be of the value of more than $50; therefore the evidence is insufficient to establish the offense charged.
+On direct examination the witness Zerm testified that the property had a market value of $46.05, but on cross-examination he testified that in the San Antonio stores the property had a retail price of more than $50.
+We find the evidence sufficient to sustain a finding that the property had a value of more than $5 and less than $50. In any event, we think that appellant is in no position to complain that he was convicted of misdemeanor theft upon proof that he was guilty of felony theft.
+The judgment is affirmed.
+
+## Rehearing (MORRISON, Judge.)
+
+ON MOTION FOR REHEARING
+MORRISON, Judge.
+Appellant takes us to task, among other things, for the concluding sentence in our original opinion and says that such conclusion is in conflict with our holding in Givens v. State, 143 Texas. Cr. Rep. 277, 158 S.W. 2d 535. In this he is correct. We must now re-examine the holding in the Givens case and determine whether or not we will be bound thereby. So far as we can find, it is the only case in which a conviction for misdemeanor theft was reversed because the evidence which we considered admissible showed a value in excess of $50.00. To adhere to such a holding would be inconsistent with the decisions relating to other offenses.
+The court has held that a conviction for assault with intent to rape was supported by proof of a consummated rape. Carr v. State, 158 Texas Cr. Rep. 337, 255 S.W. 2d 870.
+In the Carr case we discussed other cases decided by this court involving different offenses, and they will not again be cited here.
+Insofar as the Givens case holds contrary to our original opinion herein or to the rule expressed in the Carr case and the cases there cited, it is expressly overruled.
+Remaining convinced that we properly disposed of this cause originally, appellant’s motion for rehearing is overruled.
