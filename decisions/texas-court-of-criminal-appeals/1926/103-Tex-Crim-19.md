@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9707"
+decided: "1926-01-20"
+citations: ["103 Tex. Crim. 19"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. A. Thomas v. The State."]
+source_url: "https://static.case.law/tex-crim/103/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5117777
+---
+
+# Thomas v. State
+
+## Majority (■MORROW, Presiding Judge.)
+
+■MORROW, Presiding Judge.
+—The conviction is for theft; punishment fixed at a fine of one dollar and confinement in the county jail for one day.
+According to his testimony, the owner of a truck left his automobile parked upon the street and upon his return, an automobile casing which was in the car was missing. He said that it was taken without his consent; and that he later saw the casing in court. According to another witness, a person was seen to place the automobile casing taken from the truck under the edge of a house. The person then mingled with the crowd. This occurred at night. The witness was unable to describe the taker further than to say that he wore white shoes, dark clothes and a black felt hat. Later in the night, appellant, wearing apparel like that described, went to the building mentioned, took the casing from under the house, and walked away with it. After going a few yards he was apprehended.
+The case, in a written charge, was submitted to the jury' upon the law of circumstantial evidence. The sufficiency of the evidence is challenged, but in our opinion, that contention is not sound. While the State’s witness could not definitely identify the appellant as the person taking the casing and depositing it under the house, his identity as the person taking it from the place where it was deposited is definite. When arrested, appellant was in possession of the recently stolen property. His possession of it was not explained. These circumstances, together with the others detailed, are deemed sufficient to support the verdict.
+The judgment is affirmed:
+Affirmed.
+
+## Rehearing (MORROW, Presiding Judge.)
+
+ON MOTION FOR REHEARING.
+MORROW, Presiding Judge.
+— In stating that a written charge submitting the law of circumstantial evidence was given, we were mistaken. Such a charge was requested and refused. This was error.
+The motion for rehearing is granted, the affirmance is set aside, the judgment of the trial court is reversed and the cause remanded.
+Reversed and remanded.
