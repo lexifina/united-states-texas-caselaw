@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,664"
+decided: "1962-05-30"
+citations: ["172 Tex. Crim. 407"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Curtis Smith v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0407-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2641197
+---
+
+# Smith v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is the possession of equipment designed for use in the manufacture of an illicit beverage; the punishment, six months in jail and a fine of $100.00.
+Internal revenue agent Daniels saw Vylie Reed and Gladys Gunishaw in a pickup truck, noticed a “still pot” in the back, and followed them until they turned in at appellant’s place. He went on up the road a short distance to a point where he picked up two more officers, and they returned immediately and entered upon appellant’s property.
+Officer Ellsworth testified that when he came upon appellant’s property (where appellant and another carpenter were building a house), he saw Vylie Reed and one “Poodlum” Smith (not shown to be appellant) standing between what was to be a house and a barn on the right side of the pickup halfway between the tail gate and the cab. Reed had hold of the still pot, which was “lying parallel to the truck and directly behind the bed of the pickup truck.”
+Officer Pearson testified that Vylie and appellant were beside the “whisky pot”.
+We have searched this record with care and have been unable to find the evidence to support the conclusion expressed in the State’s brief that appellant was seen unloading the still pot.
+Having concluded that the evidence is insufficient to support a finding that appellant had the apparatus in question in his possession, the judgment must be reversed and the cause remanded.
+It is so ordered.
