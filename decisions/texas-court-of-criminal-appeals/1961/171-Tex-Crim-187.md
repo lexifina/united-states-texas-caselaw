@@ -1,0 +1,52 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,514"
+decided: "1961-01-18"
+citations: ["171 Tex. Crim. 187"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Maggie Morgan v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2632393
+cites_cases: ["124 S.W. 101", "156 S.W. 1172", "275 S.W. 2d 108", "290 S.W. 2d 234", "299 S.W. 422", "30 S.W. 1071", "318 S.W. 2d 627", "322 S.W. 2d 525", "338 S.W. 2d 474", "60 S.W. 2d 227"]
+---
+
+# Morgan v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is murder; the punishment, death.
+Appellant’s co-indictee Bounds testified that Selby, deceased’s husband, a patron of the massage parlor whére she worked, had on several occasions requested her to secure someone for him to “do a job” and “get rid of somebody” and instructed her to have such person “get in touch with him” if she located them. She stated that she spoke to appellant about the matter, and appellant gave her a telephone number, which in turn she gave to Selby, and appellant said that she wanted to talk to him about the job. She testified that at a later date he delivered $1,600.00 in cash to her and that she, at Selby’s instruction, gave $1,000.00 of the same to appellant who had been in touch with Selby, and that Selby had told her that appellant’s “job” was to get rid of his wife.
+She stated that on the day of the homicide, several months after the original contact, appellant came and got her and instructed her to get in her automobile, that they then picked up one Clarence Collins, that they drove to a brick, home in the residential section of Houston, where appellant let them in, and they waited at different places in the house, which were designated by appellant, for Mrs. Selby to come home, that during such wait an automobile drove into the Selby driveway but did not cut off its motor and soon thereafter left. She testified that a short while thereafter Mrs. Selby drove in the driveway, entered the rear of the house carrying a package, turned on the light, that two shots were fired and she saw Mrs. Selby fall; whereupon she ran out of the house, met appellant and Collins at appellant’s automobile and the three drove away, at which time Collins gave appellant what appeared to be a pistol.
+Selby, Jr., testified that on the evening in question, and at a time which would have been within a few minutes before deceased was shot, he drove into his parents’ driveway but, seeing no lights and no automobile in the garage, backed out and drove away.
+Shelba Pate, Mr. Selby’s bookkeeper, testified that appellant came to Selby’s office on at least two different occasions prior to the homicide and had lengthy private conversations with him but that no bill was ever submitted to appellant.
+Nelvie Dorion, another Selby employee, testified that on the afternoon of the homicide Mrs. Selby called the office and reported that she was going to pick up her fur coat prior to meeting Selby for dinner and that she delivered the message to Selby.
+Ernest Creighton testified that he had done some carpentry on appellant’s house prior to the homicide and had seen Selby at the house.
+Sam Clark testified that appellant came to his home prior to the homicide, told him that a white man wanted his wife “bumped off” and was willing to pay as much as a thousand dollars, and asked him if he was interested in the job; that he conferred with his companion Moore; that they decided to “take” appellant for some money and pretended to go along with the plan. He testified that the “white man’s” plan was, according to appellant, to take his wife to dinner, let the killer enter the house and then let her return alone, when the killing was to take place; that appellant exhibited a key to Moore and him but that, instead of going through with appellant’s program, he pretended to have been hijacked out of the money which she had given him for the “job,” asked for more, and when appellant refused, the whole matter dropped and they kept the money which appellant had paid them in advance.
+Moore gave practically the same account of their meeting with appellant, but testified that in the absence of Clark and after the homicide he talked to appellant and she said that Clark “knew too much’” on her and, along with Selby, had gotten her into the trouble she was then in.
+This conversation occurred after appellant had been questioned by the police the first time and after a newsstory had been published relating how a porter had reported to the police that he had “taken” appellant for $300.00. At this conversation, appellant told Moore that she would be willing to pay $3,000.00 to get Clark and Selby disposed of and that if Clerk testified against her it would make it look bad for her.
+Louise Parker testified that appellant got a job as a maid for her in the Selby home and on occasions drove her to and from the house, and on one of such occasions came in the house and visited a while. She testified that appellant attempted to get her to slip sleeping pills in Mrs. Selby’s food, telling her that Selby wanted to get rid of his wife, and that when she failed to do as appellant had directed appellant said “it was going to happen anyway,” and that after the homicide when she told appellant that the police had been questioning her appellant told her to keep her mouth shut.
+It was further shown that Selby and his wife had dinner together on the night of the homicide at a club but that they did not go home together, that Selby drove up after the killing had taken place, and that a package was found on the floor near Mrs. Selby’s body.
+Appellant contends that he court erred in failing to instruct the jury or submit to them the issue as to whether or not the witnesses Clark, Moore and Parker were accomplice witnesses, The test, we think, is whether or not there is sufficient evidence in the record to support a charge against either of said witnesses as a principal, an accomplice or an accessory to the actual shooting of Mrs. Selby. Silba v. State, 161 Tex. Cr. Rep. 135, 275 S.W. 2d 108, and Holmes v. State, 70 Tex. Cr. Rep. 214, 156 S.W. 1172.
+Appellant urges that the testimony of the witnesses Clark, Moore and Parker makes them accomplices and that they cannot extricate themselves from the position of accomplices by their own testimony alone.
+A similar contention was overruled in the recent case of Press v. State, 168 Tex. Cr. Rep. 1, 322 S.W. 2d 525.
+We do not agree that the testimony of either of these witnesses showed them to be connected with the murder of Mrs. Selby so as to make them accomplices. Clark and Moore were contacted several months prior to the homicide about killing some woman whose name and address they were never made aware of; they did not intend to enter into any conspiracy with appellant to commit murder but only intended to fleece appellant, which is what they did. In a very similar fact situation, this Court recently, in Washburn v. State, 167 Tex. Cr. Rep. 125, 318 S.W. 2d 627, held that the court did not err in failing to submit to the jury the question of similar witnesses being accomplices. Dever v. State, 37 Tex. Cr. Rep. 396, 30 S.W. 1071, relied upon by appellant, may be distinguished, among other grounds, on the fact that Mayfield, the witness in question, was shown to have furnished the arms and horses that were to be used in the train robbery. The witnesses here furnished nothing and did nothing toward the furtherance of appellant’s criminal de>sign.
+The facts of each case must be looked to in determining whether there is sufficient evidence aside from that of the accomplice witness to corroborate his testimony.
+“Circumstances proved by credible witnesses may be as potent as direct testimony in tending to connect the accused with the commission of the offense. * * * It is the combined and cumulative weight of the evidence furnished by non-accomplice witnesses which supply the test.
+“If by this rule it appears on appeal that before the jury there was proof confirming the testimony of the accomplice to material facts tending to connect the accused with the commission of the offense, the law is satisfied.” Barnett v. State, 290 S.W. 2d 234, 238, quoting from Minor v. State, 299 S.W. 422, and Hawkins v. State, 60 S.W. 2d 227.
+The facts and circumstances set out we find sufficient to corroborate the accomplice witness Bounds. In Medley v. State, 170 Tex. Cr. Rep. 78, 338 S.W. 2d 474, relied upon by appellant, we had nothing beside a non-incriminating piece of paper to corroborate the accomplice witness. In this case, we have the evidence set forth above which clearly distinguishes the two cases.
+The court’s charge on accomplice testimony is substantially the same as was approved in Brown v. State, 57 Tex. Cr. Rep. 570, 124 S.W. 101, and we find no error therein.
+Appellant’s complaint that the court erred in permitting Bounds to testify about her conversations with Selby before the existence of a conspiracy between them had been established has been set to rest by this Court. See 18 Tex. Juris., Sec. 120, p. 211.
+Her last contention that the court erred in not permitting her to impeach the witness Bounds by showing a prior inconsistent statement of said witness cannot be appraised because the prior statement is not before us on this appeal.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment of the trial court is affirmed.
+
+## Rehearing (McDonald, judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING
+McDonald, judge.
+Appellant strenuously re-urges his contentions presented on original submission and insists that the court erred in its affirmance.
+We have carefully considered appellant’s contentions in the light of his motion for rehearing and remain convinced that no error is shown.
+Appellant’s motion for rehearing is overruled.
