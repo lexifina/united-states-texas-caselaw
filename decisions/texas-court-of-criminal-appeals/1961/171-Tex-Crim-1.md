@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,102"
+decided: "1961-03-08"
+citations: ["171 Tex. Crim. 1"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter Thomas Vaughn v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2630713
+---
+
+# Vaughn v. State
+
+## Majority (WOODLEY, Presiding Judge)
+
+WOODLEY, Presiding Judge
+The indictment under which appellant was tried alleged that he “did wilfully burn one automobile then and there the personal property of and belonging to Leroy Vaughn.”
+Upon a finding that the indictment alleged a misdemeanor, the cause was transferred to County Criminal Court where a trial before the court on a plea of not guilty resulted in a judgment of conviction finding appellant guilty as charged and assessing his punishment at a fine of $500.
+While the charge is referred to in portions of the record as “conspiracy to burn insured personal property belonging to another,” both the state and appellant treat it as a prosecution under Art. 1323 P.C., which reads:
+“Whoever wilfully burns any personal property belonging to another, the punishment for which is not otherwise provided for in this chapter, shall be fined not exceeding two thousand dollars.”
+Said article is found in the chapter of the Penal Code which follows the chapter on arson and relates to “other wilful burning.” The first article of the latter chapter provides that the rules and definitions contained in the preceding chapter with respect to arson apply, unless clearly inapplicable, “to wilful burning under this chapter.”
+The narrative statement of facts shows that Hal H. Hood, Fire Marshall of Dallas County, testified that on June 11, 1959, he investigated a burned automobile. He qualified as an expert in such cases and expressed the opinion that the fire which destroyed the automobile was the result of intentional burning; that upon further investigation he learned that the automobile belonged to Leroy Vaughn. He had a conversation with appellant who told him that he had taken a spare tire and some lugs off his brother’s automobile, which were later found in appellant’s automobile.
+Appellant’s statement to Fire Marshall Hood was introduced in which he stated that while he was looking at his brother’s 1954 Buick, about 11:30 A.M., his brother, Leroy Vaughn, “* * * said he wished something would happen to the car;” that sometime after 9:30 that night he picked up the car, drove it to Cherry Lane and Wildhorse Lane, removed the spare tire and lugs from the wheels, siphoned a quart of gasoline and poured it on the inside of the Buick, set fire to it and hurried away.
+Appellant testified that he burned his brother’s automobile, but that he received no compensation; had been promised nothing, and that the only reason that he burned the automobile was that his brother requested him to do so.
+The sole ground for reversal is the contention that the evidence is insufficient to sustain the conviction. We overrule this contention.
+We do not agree that the command or request of the owner to another to burn his property necessarily constitutes a defense to the charge of violating Art. 1323 P.C. Even so, the trial judge as the trier of the facts was not bound to accept as true appellant’s explanation or reason for burning the automobile. The statement attributed to the brother by appellant, in his confession, that “he wished something would happen to the car,” was not an exculpatory statement which the court was bound to accept as true.
+The judgment is affirmed.
