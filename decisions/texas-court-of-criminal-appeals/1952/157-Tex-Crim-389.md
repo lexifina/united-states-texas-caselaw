@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,825"
+decided: "1952-04-30"
+citations: ["157 Tex. Crim. 389"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kenneth L. Morman v. State."]
+source_url: "https://static.case.law/tex-crim/157/cases/0389-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2576235
+cites_cases: ["149 Tex. Cr. R. 179", "154 Tex. Cr. R. 594", "192 S. W. (2d) 277", "228 S. W. (2d) 185", "44 Tex. Cr. R. 137", "68 S. W. 995"]
+---
+
+# Morman v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is rape of a female under the age of 18; the punishment, 5 years.
+The prosecutrix, who was 15 years old at the time charged in the indictment, testified that she met appellant at a drive-in ; that she danced with him; and that, as she and her girl companion were preparing to leave, appellant offered to take them to town. Prosecutrix testified that they let her companion out at the bus station, and she continued on with appellant in the direction of her home; but that, instead of taking her directly home, appellant drove past her home turning and on out to a dirt road, where he parked.
+Prosecutrix further testified that, when appellant started kissing her, she asked to go home; and he replied, “This is one guy you are not going to talk out of it”; that he got her arm behind her back and told her, “It won’t do you any good to fight,” and then had intercourse with her against her will. Prosecutrix stated that, at the conclusion of the act, appellant had “said he was sorry; that he didn’t think I was a virgin; that he had heard otherwise” and took her home, where she immediately reported the assault to her mother, who notified the police. Prosecutrix further stated that this was the first act of intercourse she had ever had and that it caused her considerable pain.
+Dr. Bayer testified that he examined prosecutrix the day following the assault and found a tear in her hymen and her vagina swollen and bruised, which injury, in his opinion, had been inflicted within the last 24 hours.
+Prosecutrix’s mother corroborated her daughter’s testimony as to her age and as to the immediate outcry upon reaching home, and said that prosecutrix had been extremely nervous since the incident.
+Mrs. Rote, a policewoman, testified that she went with prosecutrix to a certain road near prosecutrix’s home and, at her direction, there found a pair of panties, which prosecutrix had testified she had thrown away following the assault.
+Appellant, testified in his own behalf, recounted practically the same facts as did prosecutrix, but testified that she had told him she was past 18 and had had other acts of intercourse, and, further, said prosecutrix had resisted him at first but that the act of intercourse itself had finally been effected without any resistance, and admitted that she had complained about the pain while the act of intercourse was taking place.
+Appellant offered one Thompson as a witness, who testified that he had had acts of intercourse with prosecutrix prior to the date charged in the indictment and that she had told him that prior thereto she had had intercourse with another.
+The jury chose the state’s version of the matter, and we find the evidence sufficient to support their verdict.
+Appellant objects to the charge of the court because of the inclusion of the phrase, “with or without the use of force,” in describing the means whereby the rape was effected. The indictment charged statutory rape. Under this charge, a conviction was authorized by proof that the act of intercourse was effected either with force or without force. Article 1183, P. C., provides that the carnal konwledge of a female under the age of 18 years, other than the wife of the person, with or without her consent and with or without the use of force, threats or fraud shall constitute rape. We have construed this statute as meaning that the consent of the girl is wholly immaterial. See Maynard v. State, 154 Tex. Cr. R. 594, 228 S. W. (2d) 185. The same rule is applicable to the use of force.
+Bills of Exception Nos. 1 and 2 complain of prosecutrix’s testimony about her immediate outcry to her mother upon arriving home. No details were recounted. This was clearly admissible.
+Bill of Exception No. 3 complains of a portion of the doctor’s testimony which was withdrawn from the jury. We see no error therein.
+Bills of Exception Nos. 6 and 7 relate to unanswered questions propounded to appellant concerning his martial status. In each case, the court sustained the appellant’s objection. Appellant has not brought his case within the rule of Smith v. State, 44 Tex. Cr. R. 137, 68 S. W. 995, until he shows that the jury actually received some information that he was a married man at the time of the commission of the offense. This is not shown by these bills. The facts of the case at bar on this point are almost indentical to those in our relatively recent opinion in Turpin v. State, 149 Tex. Cr. R. 179, 192 S. W. (2d) 277.
+Bill of Exception No. 8 reflects that one of appellant’s witnesses was asked, on cross-examination, if he had been convicted of aggravated assault on a woman. The witness answered that he had not been convicted. The court sustained the objection, and no error is shown.
+The effort to bring before this court for review the continued questioning of the district attorney on the subject without a formal bill of exception is futile. This is not directed to the admission or exclusion of evidence.
+Finding no reversible error, the judgment of the trial court is affirmed.
