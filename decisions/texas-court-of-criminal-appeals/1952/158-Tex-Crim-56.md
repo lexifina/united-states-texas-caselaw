@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,096"
+decided: "1952-12-10"
+citations: ["158 Tex. Crim. 56"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["B. F. (Lefty) Fowler v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2483350
+---
+
+# Fowler v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for the unlawful transportation of whisky in a dry area; the punishment, a fine of $1,000 and confinement in the county jail for one year by reason of a prior conviction for an offense of like character.
+About 7:15 o’clock, p. m., deputy sheriffs Wilson and Johnson by chance happened to stop at a travel bureau in Lubbock. According to the testimony of the officers, appellant was talking over the telephone as they entered the building and, seeing them, quickly ended the conversation and “hung . . . up.” A short time thereafter, appellant answered other telephone calls, during one of which he was heard to say, “ ‘No, I don’t have any beer. I wish I knew where I could get some good cold beer ... I don’t handle anything but whiskey.’ ” Thereafter, appellant answered a third call and asked the person calling “what was the address,” and repeated the address as “501 Avenue Q.” Appellant was seen also to make a note of that address on a scratch pad. Thereupon, one of the deputy sheriffs asked appellant “if he was going to this address.” Appellant replied “yes, he was; that he was going to make a delivery to that address and that he was going in this blue Ford that was setting right outside.” He further said, “ ‘Well, I guess you fellows will be down there waiting for me.’ ” The witnesses replied, “we probably would.” As a result of this conversation, the officers drove to the vicinity of the address mentioned. Soon thereafter appellant was seen to drive to such address and park the automobile which he had previously said he would use. As he did so, the officers “drove in beside him.” Thereupon, appellant laughingly said to the officers, “ T made a dry run down here just to see if you fellows were going to be here.’ ” One of the officers asked if he had liquor in his car, and appellant replied, “ ‘No, get out and look.’ ”
+The officers searched the automobile and found therein two four-fifths quarts and two pints of whisky.
+The foregoing facts are undisputed, and abundantly establish the transportation of the whisky, as alleged.
+Bills of exception appear complaining of the receipt in evidence of the testimony as to what appellant was heard to say over the telephone and, especially, that he said, “ ‘No, I don’t have any beer. I wish I knew where I could get some good cold beer. I don’t handle anything but whiskey.’ ” It is insisted that such testimony violated the rule against admitting proof of extraneous offenses and transactions, particularly in the absence of any issue of motive, intent, or other defense by which proof of other crimes would become admissible.
+It is a cardinal rule that when extraneous offenses and transactions are a part of the res gestae, proof thereof is authorized. Branch’s P. C., Sec. 166, p. 98.
+Here, the testimony constituted declarations on the part of the appellant against his interest. This testimony, together with other facts, is deemed sufficient to authorize the conclusion that the ultimate transportation and delivery of the whisky was the result of the telephone conversation. The conclusion is expressed, then, that the above quoted testimony became a part of that transaction and, therefore, res gestae of the unlawful transportation of the whisky.
+Bills of exception appear complaining of the argument of state’s counsel at various times.
+None of the arguments so complained of violated any mandatory statute. Nor did they inject into the case any new evidence. In order for reversible error to have been reflected by the arguments they would have had to be such as to obviously prejudice appellant’s rights before the jury. As to this, the record reflects that appellant, in open court, stipulated and agreed that he was one and the same person who had been theretofore convicted of the unlawful possession of whisky, as alleged. The state’s' testimony which showed appellant’s overwhelming guilt of the transportation of the whisky was undenied and unchallenged.
+The penalty authorized to be inflicted under the facts stated and under Art. 666-41 and Art. 61, Vernon’s P. C., was a fine of not less than $200 nor more than $2,000 or by imprisonment in the county jail for not more than two years, or by both such fine and imprisonment.
+The penalty of $1,000 and confinement in jail for one year, which the jury imposed in this case, was neither the minimum nor the maximum authorized to be inflicted.
+While it is true that the penalty assessed is heavy, yet it was within the jury’s province to make it so. We cannot say as a matter of law that they should not have inflicted it. We are unable to reach the conclusion that any argument of the county attorney induced or brought about the penalty assessed.
+The judgment is affirmed.
+Opinion approved by the court.
