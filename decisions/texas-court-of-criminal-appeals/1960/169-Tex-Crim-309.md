@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,826"
+decided: "1960-04-06"
+citations: ["169 Tex. Crim. 309"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WOODLEY, Judge, concurred."]
+parties: ["Frank Pounds v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12140772
+---
+
+# Pounds v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for the unlawful transportation of whisky; the punishment sixty days in jail.
+When this case first reached this court, the attention of the clerk of the trial court was called to the fact that there was no notice of appeal in the record.
+Thereafter, a supplemental transcript was forwarded to this court in which we find the following certificate relative to the notice of appeal:
+“I, Raymon Thompson, County Judge of Young County, Texas, do hereby certify that the above notice of appeal to the Court of Criminal Appeals in Austin, Texas, was given in open Court by the defendant, Frank Pounds, on the 7th day of January, A.D. 1960, after the verdict of the jury in said cause had been read and judgment entered. The defendant, Frank Pounds, after giving notice of appeal entered into a recognizance according to law, before said Court.
+“s/s RAYMON THOMPSON “ Raymon Thompson, County Judge, Young County, Texas”
+The defect in that notice of appeal lies in the fact that it was not “entered of record,” as is expressly required by Art. 827, C.C.P.
+This court has uniformly held that the term “entered of record,” as there used, means “entered of record in the minutes of the court and that a docket entry or other certification or memorandum is not sufficient to constitute “entered of record.” The authorities attesting that rule will be found collated under Note 5 of Art. 827, C.C.P.
+This court has also uniformly held that a notice of appeal as required by the statute (Art. 827, C.C.P.) is necessary to the jurisdiction of this court and until the notice of appeal is given and entered of record as required by the statute this court is without authority to enter any order in the case save and except to dismiss the appeal.
+Here, all parties—including the trial court—knew that this appellant desired to appeal his case and so announced in open court. Yet such appeal is denied because that notice was not entered in the minutes of the court, and appellant was thereby deprived of the right to have his conviction reviewed by this court.
+This court has no alternative in the matter other than to follow the mandate of the law and dismiss the appeal in this case.
+This is accordingly done.
+
+## Concurrence (WOODLEY, Judge)
+
+WOODLEY, Judge
+(Concurring).
+Art. 827 C.C.P., which requires the notice of appeal to be entered in the minutes, makes it the duty of the trial judge, under the facts certified by him herein, to order appellant’s notice of appeal entered of record as of date when notice of appeal was actually given in open court.
+When this has been done appellant will be in position to have his appeal reinstated and considered.
+I concur in the dismissal of the appeal.
