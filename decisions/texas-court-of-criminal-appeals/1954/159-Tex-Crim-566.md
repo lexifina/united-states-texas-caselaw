@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,901"
+decided: "1954-03-31"
+citations: ["159 Tex. Crim. 566"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte A. J. Luehr."]
+source_url: "https://static.case.law/tex-crim/159/cases/0566-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2476454
+cites_cases: ["147 S.W. 2d 478", "150 S.W. 2d 793", "158 S. W. 2d 525", "162 S.W. 2d 419", "162 S.W. 2d 426", "162 S.W. 2d 428", "167 S.W. 2d 1029", "168 S.W. 2d 499", "21 S.W. 2d 297", "226 S.W. 2d 868", "240 S.W. 2d 780", "246 S.W. 373", "318 U.S. 413", "318 U.S. 418", "319 U.S. 105", "319 U.S. 141", "326 U.S. 517", "93 Tex. Cr. R. 112"]
+---
+
+# Ex parte Luehr
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant was charged in the corporation court of the city of Cuero with the violation of an ordinance of that city, in that he did unlawfully go in and upon the private residence of F. B. Bryne for the purpose of soliciting orders for the sale of goods, wares and merchandise, without having been requested or invited so to do by the owner or occupant of said private residence.
+A trial in the corporation court resulted in a conviction from which an appeal was prosecuted to the county court of DeWitt County. A trial in the county court likewise resulted in a conviction, a fine of $10 being assessed.
+This judgment of conviction is attacked in this proceeding, being an appeal from the order of the county judge of DeWitt County refusing to discharge appellant in a habeas corpus hearing.
+Aside from the contentions raised by appellant as to the invalidity of the judgment of conviction, we observe that the complaint upon which he was convicted is fatally defective in that the affiant states that he has good reason to believe that appellant committed the acts therein alleged, but omits to charge that affiant “does believe” that he did so. Ward v. State, 119 Tex. Cr. Rep. 48, 21 S.W. 2d 297; Adkins v. State, 145 Tex. Cr. Rep. 287, 167 S.W. 2d 1029; Fowler v. State, 156 Tex. Cr. Rep. 264, 240 S.W. 2d 780; Betels v. State, 145 Tex. Cr. Rep. 368, 168 S.W. 2d 499; Art. 222 V.A.C.C.P., Sec. 2.
+But if we adhere to the rule stated in Ex parte Vaughan, 93 Tex. Cr. R. 112, 246 S.W. 373, and Ex parte Ryan, 142 Tex. Cr. Rep. 65, 150 S.W. 2d 793, unless the complaint is void we can consider in this collateral attack only the question of whether there is a valid ordinance under which a sufficient complaint can be drawn.
+The ordinance in question reads as follows:
+“SECTION 1. The practice of going in and upon private residences within the City of Cuero, Texas, by solicitors, peddlers, hawkers, itinerant merchants or transient merchants or transient vendors of merchandise, not having been requested or invited so to do by the owner or owners, occupant or occupants, of said private residences, for the purpose of soliciting orders for the sale of goods, wares, and merchandise and/or disposing of and/or peddling or hawking the same is declared to be a nuisance and punishable as such nuisance as a misdemeanor.
+“SECTION 2. Any solicitor, peddler, hawker, itinerant merchant or transient vendor of merchandise who shall go in or upon any private residence within the City of Cuero without having first been requested or invited so to do by the owner or owners, occupant or occupants of such private residence, for the purpose of soliciting orders for the sale of goods, wares, or merchandise and/or disposing of and/or peddling or hawking the same, shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined in any amount not more than $100.”
+Appellant is a missionary evangelist preaching from house to house by soliciting and taking orders for subscriptions to the magazine The Watchtower, under the directions of the Victoria Congregation of Jehovah’s Witnesses, as his way of worship.
+Under many authorities, the above ordinance when properly construed and applied does not cover such preaching activities, and if it does so the ordinance is in conflict with the Constitutions of the United States and of this state. Amendments I and IV, Constitution of the United States; Constitution of Texas, Secs. 6 and 8; Murdock v. Pennsylvania, 319 U.S. 105; Martin v. Struthers, 319 U.S. 141; Jamison v. Texas, 318 U.S. 413; Largent v. Texas, 318 U.S. 418; Tucker v. Texas, 326 U.S. 517; Pool v. State, 154 Tex. Cr. Rep. 270, 226 S.W. 2d 868.
+However, if we follow the rule laid down in Ex parte Largent, 144 Tex. Cr. Rep. 592, 162 S.W. 2d 419, Ex parte Killam, 144 Tex. Cr. Rep. 606, 162 S.W. 2d 426, and Ex parte Hillery, 144 Tex. Cr. Rep. 606, 162 S.W. 2d 428, we are precluded from considering whether or not the ordinance, if valid on its face, was wrongfully applied, this court being without jurisdiction of an appeal from the conviction under the terms of Art. 53 C.C.P.
+There is no question as to our authority to pass upon the remaining contention, which is that the ordinance is void on its face for the reasons stated in Ex parte Faulkner, 143 Tex. Cr. Rep. 272, 158 S. W. 2d 525. If we agree with this contention it becomes unnecessary that we further consider the question of whether or not we can determine that the construction of the ordinance brings it into conflict with the State and Federal Constitutions, or consider the defect in the complaint.
+We have again examined our holdings in Ex parte Faulkner, 143 Tex. Cr. Rep. 272, and Ex parte Lewis, 141 Tex. Cr. Rep. 83, 147 S.W. 2d 478, claimed to be in conflict therewith, and have concluded that the cases can be distinguished on the facts as pointed out in Ex parte Faulkner.
+The ordinance of the city of Cuero under which appellant was convicted prohibits rather than regulates the practice of going in and upon private residences within that city by solicitors, peddlers, hawkers, itinerant merchants, transient merchants, or transient vendors of merchandise. It appears to be in almost the identical language of the ordinance of the city of Canyon which was before us in Ex parte Faulkner, 143 Tex. Cr. Rep. 272, 158 S.W. 2d 525.
+We adhere to the holding in Ex parte Faulkner and for the reasons therein stated hold that the city of Cuero was without authority to prohibit the going in and upon private residences by all uninvited solicitors, etc., without regard to the goods to be sold and the responsibility and methods of the parties selling such articles.
+We disclaim any intention of holding that the complaint is not void, or of re-affirming the holding in Ex parte Largent, Ex parte Klllam and Ex parte Hillery, supra. Our holding that the ordinance is void on its face makes it unnecessary for us to pass upon these questions.
+Nor are we passing upon the power of municipalities to regulate rather than prohibit the practice of going in and upon private residences by uninvited solicitors, peddlers, or transient merchants soliciting orders for the sale of their merchandise.
+The judgment of the county court refusing to discharge appellant from restraint by reason of the conviction mentioned is reversed and appellant is ordered discharged.
