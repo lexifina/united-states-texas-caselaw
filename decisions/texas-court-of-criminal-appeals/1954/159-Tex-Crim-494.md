@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,865"
+decided: "1954-03-10"
+citations: ["159 Tex. Crim. 494"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willie B. Dabney v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477250
+cites_cases: ["162 S. W. 2d 712"]
+---
+
+# Dabney v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is procuring in violation of Article 525, V.A.P.C.; the punishment, 30 days in jail and a fine of $100.00.
+Officer Ingargiola, of the special service bureau of the Dallas police, testified that on the night in question he went to the Sunset Motel and inquired of appellant “if he had a girl I could date”; that the appellant replied he did not have a girl at the motel but that he could call one within thirty minutes; that he rented a cabin and retired thereto; that Officer Trantham who had accompanied him to the motel, but who had not been present when he talked to the appellant, came in the cabin and secreted himself in a closet; that thereafter the appellant came to the cabin and reported “that the girl would be there in a little while.”
+Officer Ingargiola testified that shortly thereafter a woman came to the cabin and offered “to fill a prostitution date”; that they agreed upon the price; that at this moment Officer' Trantham came out of the closet; that the woman snatched $15.00 out of his hand; and he left the cabin after his fellow officer arrested the woman.
+Officer Trantham testified that on the night in question he followed Officer Ingargiola to the Sunset Motel, took up a position across the street, observed his fellow officer have a conversation with the porter and then go to a cabin, and that he then entered the cabin and concealed himself in the closet, partially closing the door, observed the appellant when he came back and made his report, saw the woman enter the cabin, heard her conversation with Officer Ingargiola, and that he came out and arrested the woman, whom he knew as Shirley Young, a prostitute. Officer Trantham testified that he went to the motel office and arrested the appellant.
+Appellant did not testify or offer any witnesses in his behalf.
+Bills of Exception Nos. 1 and 2 complain of the testimony of the two officers as to what transpired between Officer Ingargiola and Shirley Young in the absence of the appellant. Appellant’s contention is that the hearsay rule is applicable. The state contends that, since appellant and Young were conspirators, the acts and declarations of one would be admissible against the other. It is obvious to us from the facts before us that the appellant and Young were acting together toward the furtherance of a common illegal design, and what the woman may have said or done during the existence of the conspiracy is admissible.
+Bill of Exception No. 3 complains of the asking of a question which called for a conclusion of the witness. Appellant, in cross-examining Officer Trantham, sought to show that the officers were endeavoring to entrap the appellant. The conduct of the officers in this case does not constitute entrapment. Clif v. State, 144 Tex. Cr. Rep. 340, 162 S. W. 2d 712. On re-direct examination the witness was permitted to testify, over the objection that his answer would be a conclusion of the witness, that the reason he had arrested the appellant was, “In my opinion he was violating the law.”
+Even if we consider the answer improper, it would not call for a reversal. If the witness had answered, “Because he procured this prostitute,” the jury would have acquired the sanje information from the witness. This was the last question and answer in the case, and the officers, had testified fully, as to the facts implicating the appellant. We have been cited no case and find none holding this occurrence to constitute reversible error.
+We find the evidence sufficient to support the conviction; and, no reversible error appearing, the judgment of the trial court is affirmed.
