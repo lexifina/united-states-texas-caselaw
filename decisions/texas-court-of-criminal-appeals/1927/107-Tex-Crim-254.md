@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "10697"
+decided: "1927-03-09"
+citations: ["107 Tex. Crim. 254", "296 S.W. 531"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Everett Kelley v. The State."]
+source_url: "https://static.case.law/tex-crim/107/cases/0254-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5135128
+cites_cases: ["100 Tex. Cr. R. 237", "100 Tex. Crim. Rep. 237", "201 S. W. 179", "216 S. W. 1086", "218 S. W. 366", "249 S. W. 861", "272 S. W. 791", "74 Tex. Crim. Rep. 71", "83 Tex. Cr. R. 39", "83 Tex. Crim. Rep. 39", "86 Tex. Cr. R. 450", "86 Tex. Cr. R. 585", "86 Tex. Crim. Rep. 450", "86 Tex. Crim. Rep. 585", "94 Tex. Cr. R. 71"]
+---
+
+# Kelley v. State
+
+## Majority (BETHEA, Judge. —)
+
+BETHEA, Judge. —
+The appellant was convicted of pandering, and his punishment fixed at five years in the penitentiary.
+The indictment in this case, leaving out the formal parts, is as follows:
+“Everett Kelley, on the 7th day of July, in the Year of our Lord, One Thousand Nine Hundred and Twenty-six, with force and arms, in the county and state aforesaid, did unlawfully procure a female, to-wit, Cora Lynn, to enter and become an inmate of a place where prostitution was then and there encouraged and allowed, to-wit, a house situated at 2418i/£¡ Elm Street, then and there situated in the county and state aforesaid, and did then and there by fraud and duress of the person and goods of the said Cora Lynn, cause her to remain as an inmate therein, contrary to the form of the statute in such cases made and provided, and against the peace and dignity of the state.”
+Appellant moved to quash the indictment, first, on the grounds that the same did not charge any offense under the laws of this state, and, second, that said indictment was in its terms vague, and uncertain, and indefinite, and did not put the appellant on notice of what he was charged with and that the appellant was unable to know how to meet what was attempted to be alleged against him.
+The indictment follows the language of the statute. This was held not to be sufficient in Kennedy v. State, 86 Tex. Crim. Rep. 450, 216 S. W. 1086, and Hammonds v. State, 100 Tex. Crim. Rep. 237, 272 S. W. 791.
+The indictment in the intant case sets out no facts showing how the offense was committed by appellant. Under the decisions cited above, the appellant’s motion to quash should have been sustained.
+Appellant, by timely exceptions and objections to the court’s charge, and also by the second bill of exceptions appearing in the record, complains of the action of the learned trial judge in not charging that Cora Lynn was an accomplice. Under the particular facts in this case, the said Cora Lynn was an accomplice, and the court should have so charged the jury. Muse v. State, 74 Tex. Crim. Rep. 71, 249 S. W. 861.
+For the failure of the indictment to charge an offense, the judgment must be reversed and the prosecution ordered dismissed.
+Reversed and dismissed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (MORROW, Presiding Judge. —)
+
+ON MOTION FOR REHEARING BY THE STATE.
+MORROW, Presiding Judge. —
+State’s counsel insists that in holding in the original opinion that the indictment charged no offense, this court was in error. Upon a review of the matter, the conclusion has been reached that one of the phases of the law on the offense of pandering is sufficiently charged in the indictment. The statute upon which the prosecution is founded (Art. 519, P. C.) prescribes several different ways in which the offense may be committed. Thus, one who causes a female to become an inmate of a house of prostitution commits a felony, and one who causes a female to remain an inmate of a house of prostitution is a felon. The indictment in the present case attempts to charge each of these phases of the offense of pandering. In charging the first, however, it fails to state the means used to procure a female to become an inmate of a house of prostitution. It has been heretofore held that the constitutional and statutory provisions requiring that one accused of crime shall be apprised of the facts upon which the prosecution is based, are not fulfilled by an averment that one procured a female to become an inmate of a place of prostitution, without stating or describing some act or words of the accused upon which the female was brought into or induced to enter the house of prostitution. See Hammonds v. State, 100 Tex. Crim. Rep. 237; Kennedy v. State, 86 Tex. Crim. Rep. 450.
+The second phase of the indictment containing these words: “did then and there, by fraud and duress of the person and goods of the said Cora Lynn, cause her to remain an inmate therein” is more specific. The word “fraud” is indefinite, but the “duress of the person and goods of the said Cora Lynn” are deemed sufficiently specific to comply with the law requiring a degree of certainty in charging the offense. Duress signifies compulsion, constraint, imprisonment, or pressure.
+The testimony in the case is in substance this: The appellant occupied a part of a building in which he had a photograph apparatus and conducted a photograph business, and also'rented rooms. An officer visited the place and arrested the appellant, Cora Lynn, and one Bill Haney. There were other persons present. It seems that the officer found a picture of Cora Lynn in the nude. From the testimony of Cora Lynn, it appears that she was twenty-three years of age; that she had been married and divorced; that she had been living at another place called the St. James hotel, where she engaged in acts of prostitution. She moved to the appellant’s place where, according to her testimony, she engaged in like acts. In both instances, according to her testimony, she divided the receipts with her landlord or employer. She testified that when she lived at the St. James hotel, her income was not satisfactory, and that she had a quarrel with her employer; that she voluntarily went to the place of the appellant. She subsequently engaged to work for him because he promised to teach her to hand-paint pictures and also pay her ten dollars a week besides the room rent. This she said he did, and in addition thereto, she filled dates for illicit intercourse with men and received pay therefor, which she divided with the appellant. According to her testimony, there were other women in the house who were practicing prostitution. She gave them aid in assisting in renting the rooms and otherwise, and by her own testimony she connected herself with the management and conduct of the illicit business in which she claims the appellant was engaged. The circumstances show that at the time she came to the appellant’s house and before, she had been living in illicit relations with Haney. Appellant testified and denied any knowledge of her acts of prostitution, or any participation or agreement with reference thereto, and claims that she and Haney came to his house ostensibly as husband and wife, and that he knew nothing to the contrary. Several witnesses supported his reputation as a law-abiding citizen.
+It is to be observed that the criminating evidence comes in the main from Cora Lynn. If her testimony is true, she and the appellant together were engaged in the conduct of a disorderly house, or bawdy house. She was criminally connected with the offense and was therefore an accomplice witness. Of such witnesses the statute says:
+“A conviction cannot be had upon the testimony of an accomplice unless corroborated by other evidence tending to connect the defendant with the offense committed; and the corroboration is not sufficient if it merely shows the commission of the offense. (Art. 718, C. C. P., 1925.)
+Under the law, it is imperative that the jury be instructed in accord with this statutory provision. O’Brien v. State, 83 Tex. Crim. Rep. 39; Clark v. State, 86 Tex. Crim. Rep. 585; Vernon’s Ann. Tex. C. C. P., 1925, Vol. 2, p. 795, note 20. The court omitted such instruction, and the omission was duly called to his attention in an exception filed in accord with the statute, also by requested special charges.
+We will add that if the case is again tried, it should be upon that phase of the law, which, as stated above, sufficiently charged the offense, provided, of course, there is evidence before the court supporting that theory.
+The state’s motion for rehearing is granted to the extent of the dismissal of the judgment. That part of the previous order is set aside. For the reasons stated, however, the judgment of reversal must stand and the case is remanded to the District Court for another trial.
+Reversed and remanded.
