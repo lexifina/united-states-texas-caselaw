@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "80"
+decided: "1909-11-03"
+citations: ["57 Tex. Crim. 174"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tab Evans v. The State."]
+source_url: "https://static.case.law/tex-crim/57/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2374964
+cites_cases: ["105 S. W. Rep., 1127", "115 S. W. Rep., 590", "33 Texas Crim. Rep., 546", "52 Texas Crim. Rep., 232", "55 Texas Crim. Rep., 142"]
+---
+
+# Evans v. State
+
+## Majority (BROOKS, Judge.)
+
+BROOKS, Judge.
+Appellant was convicted of an assault, and his punishment assessed at a fine of $5.
+1. Bill of exceptions Ho. 1 complains that the court refused to require the county attorney to place upon the witness stand the alleged injured party, Andrew Winfrey, in order to test his mental qualifications as a witness, the said Andrew Winfrey being present in court, and the county attorney having placed Andrew Winfrey’s father, I. H. Winfrey, upon the witness stand for the purpose of proving said Andrew Winfrey’s mental incapacity, because under the direction of the court the mental qualifications of the alleged injured party should have been tested before offering proof by some other person that he was mentally unable to testify, and because the best evidence of which the case was susceptible should have been introduced if possible. In the first place, the county attorney could put any witness on the stand he saw fit. There is no law that requires him to put the prosecuting witness on the stand whether he is crazy or not; and" if the father of the prosecuting witness was placed upon the stand, and properly qualified to testify about his insanity, there could be no error in this action in order to explain why the main witness and party aggrieved was not placed. upon the stand. The insanity of the prosecuting witness might also be quite germane to indicate whether or no appellant had any reason for making an assault upon him. This matter, however, is not presented in such way that we can tell for what purpose this testimony was introduced.
+2. Appellant excepted to the ninth paragraph of the court’s charge, because the court instructed the jury that a person has a right to defend himself against any assault or threatened assault upon his person calculated to inflict serious bodily injury and to a violent attack, because this instruction limited defendant’s defense to serious bodily injury, and to a violent attack. The charge of the court is as follows: “You are instructed that self-defense is a defensive, not an offensive act, and must not exceed the bounds of mere defense and prevention, there must be an apparent necessity to ward off by force some unlawful and violent attack, and a person attacked must decide for himself at his peril as to whether the circumstances in which he is placed and upon which he acts, are such as to furnish a reasonable apprehension of danger. A person has a right to defend himself against any assault or threatened assault upon his person calculated to inflict seriously bodily injury, and it is not essential to his perfect right of self-defense that the danger be real or actually exist, if it is apparent.” This charge is erroneous in that it limits appellant’s right of self-defense by stating that he must decide, at his peril, whether the assault is violent. It is true, in a subsequent portion of the charge this is somewhat changed or qualified, but still appellant floes not have to decide at his peril that the assault is being made or about to be made. If it reasonably appeared to him, judging from all the circumstances surrounding him at the time the assault is made, that his life or person was in danger of death or serious bodily injury, he has a right to act on said appearances regardless of whether subsequent events show said appearances are real or not. So there is nothing that a defendant, acting upon the perfect right of self-defense, has to do at his peril. The charge is incorrect.
+3. The fourteenth paragraph of the court’s charge is as follows: “If you should find the defendant not guilty of an aggravated assault and battery, but believe that the defendant is guilty of a simple assault and battery, the form of your verdict will be: We, the jury, find the defendant guilty and assess his fine at - dollars filling in the - the amount agreed upon by you to be not less than five nor more than twenty-five dollars.?’ The objection to said instruction is that it does not tell the jury to find the grade of the offense, and if they found him guilty of simple assault to so state in their verdict. This question has been repeatedly before this court, and with unbroken uniformity we have held that a- jury must find the grade of the offense. In this ease the jury merely found appellant guilty and assessed his punishment at a fine of $5 without stating the grade of the offense. Hays v. State, 33 Texas Crim. Rep., 546; Bowen v. State, 28 Texas Crim. App., 498; Aycock v. State, 55 Texas Crim. Rep., 142, 115 S. W. Rep., 590; Moody v. State, 52 Texas Crim. Rep., 232, 105 S. W. Rep., 1127.
+For the error suggested the judgment is reversed and the cause is remanded.
+Reversed and remanded.
