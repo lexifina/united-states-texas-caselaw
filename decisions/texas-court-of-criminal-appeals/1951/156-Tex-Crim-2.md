@@ -1,0 +1,49 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,000"
+decided: "1951-02-07"
+citations: ["156 Tex. Crim. 2"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. L. Jones v. State."]
+source_url: "https://static.case.law/tex-crim/156/cases/0002-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2581975
+cites_cases: ["155 Texas Crim. Rep. 160", "167 S.W. 56", "232 S.W. 2d 727", "41 Tex. Cr. R. 127", "52 S.W. 769", "74 Tex. Cr. R. 3", "79 S.W. 817"]
+---
+
+# Jones v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant was convicted of fondling a child’s sexual parts, an offense defined by Acts of the 51st Leg., 1st Called Session, p. 52, Ch. 12, now Art. 535d, Vernon’s Ann. P.C. His punishment was assessed by the jury at three years’ confinement in the penitentiary.
+The injured party was a girl four years old. Appellant was a married man 48 years of age.
+The trial court held that the child was too young and immature to testify, and the state relied upon the testimony of the mother of the injured party and the confession of the appellant.
+The mother testified that her family consisted of herself, her husband and three children; that they lived in a trailer house in appellant’s back yard and had the use of appellant’s bathroom ; that on the day in question her four-year-old child stated to her that appellant “licked my hind-endy,” “had taken her in the house and made her stay,” “had licked my hind-endy while they were in there,” “had felt of her, and she pointed to herself where it happened,” and “asked her if it felt good.”
+Appellant’s confession was introduced in which he stated in part: “* * * the little four-year-old Watts girl was in my house, and I pulled her panties down, and I rubbed my fingers on her female parts.”
+Appellant testified on the trial to the effect that he had overheard boys and girls in his bathroom at the same time and that the examination which he made of the injured party’s female parts was for the purpose of determining if there had been anything improper going on in the bathroom between the children.
+Appellant insists that his motion for an instructed verdict should have been granted because of the insufficiency of the evidence to show a lascivious intent on the part of appellant.
+It is urged that the statute under which this prosecution was had should be construed to mean that the fondling of the sexual parts of a female child under 14 years of age must be with the intent on the part of the accused to produce a lascivious intent, or arouse the sexual instinct on the part of the young girl. It is urged that a four-year-old child has no such instinct, and therefore the offense charged could not be committed against her.
+We do not so understand the statute.
+The act appears to apply to the fondiling of both male and female children.
+The trial court defined “lascivious” as meaning an unlawful indulgence in lust, tending to deprave the morals of the child.
+In Slusser v. State, 155 Texas Crim. Rep. 160, 232 S.W. 2d 727, 730, we held that “lewd” and “lascivious” were similar in meaning and signify that form of immorality which has relation to sexual impurity. We further held in the Slusser case that the words “lewd” and “lascivious,” not being defined in the statutes, must be given their ordinary meaning to be arrived at by a determination of the legislative intent in the use of the words in the particular statute.
+The objection to the trial court’s definition on the ground that the act of lasciviousness was not confined to the injured party was properly overruled.
+We think it clear that the legislature intended by this statute to make punishable the fondling of the sexual part of a child under 14 with a lewd and immoral intent on the part of the accused to indulge in lust or sexual impurity. The fact that the child be a four-year-old girl and therefore incapable of having any sexual instincts which could be developed is immaterial. The intent which is controlling is that of the accused.
+Appellant’s first four bills of exception complain of the testimony of the injured party’s mother wherein she testified to the above quoted statements made by the child soon after the commission of the offense. He insists that such statements were hearsay and not res gestae.
+According to each of these bills, the child’s mother “went to the garage and visited with defendant and while she was there, the little girl made a statement to her.” The mother testified that she had seen her children come back across the street and begin playing in appellant’s yard. That they were lost from her view for approximately fifteen minutes and then found by her in the garage. It is apparent that the offense was committed within this fifteen minute period and reported as soon thereafter as the injured party saw her mother. Such statements appear to come within the rule making them admissible as part of the res gestae. Certainly the bill does not negative that such testimony was res gestae which is an essential element of a valid bill. See Kenney v. State, 79 S.W. 817.
+The fact that the child was incompetent would not militate against the admissibility of her res gestae statement. See 18 Tex. Jur. 301, Sec. 184.
+Bill of Exceptions No. 5 complains of the introduction of his confession made to the district attorney because the indictment charged appellant with a felony under the new sex act, whereas the district attorney told him, and the confession on its face showed, that the statement was about an assault on a child.
+We are unable to agree that the confession was inadmissible because at the time of its making, appellant believed that he was making a statement regarding a misdemeanor charge, and not a felony.
+The statement related to the same transaction. It is immaterial that the name of the offense or the punishment provided by law therefor was not explained or known to appellant.
+Bills of Exception Nos. 6 and 7 relate to the cross-examination of appellant’s wife. In Bill No. 6 she was asked how long after she first met appellant she started going with him, and in Bill No. 7 the question was why she did not report to the child’s mother that she saw boys and girls together in the bathroom.
+Appellant’s objection was that the cross-examination of the wife was improper because it was upon a matter not gone into on her direct examination.
+Art. 714, C.C.P., provides in part that the husband or wife shall in no case testify against each other except in a criminal prosecution for an offense committed by one against the other.
+Under this article, we understand the rule to be that it is only new incriminating evidence brought out against the accused through the wife on cross-examination that constitutes reversible error. See Taylor v. State, 74 Tex. Cr. R. 3, 167 S.W. 56, 61.
+We see no harm to appellant in the cross-examination complained of, and these bills fail to point out wherein he was prejudiced thereby.
+Bill of Exceptions No. 8 complains of the district attorney’s questioning of appellant’s wife about her having offered money to the parents of the injured party. It will be noted that the careful trial court instructed the jury not to consider the questions or answers. A similar line of questioning was held to be admissible in Buchanan v. State, 41 Tex. Cr. R. 127, 52 S.W. 769.
+Bills of Exception Nos. 9 and 10 have been examined, and are overruled as insufficient to show reversible error.
+The evidence being sufficient to sustain the verdict and no reversible error appearing, the judgment is affirmed.
+Opinion approved by the court.
