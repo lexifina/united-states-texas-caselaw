@@ -1,0 +1,91 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,058"
+decided: "1954-11-03"
+citations: ["160 Tex. Crim. 610"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jose Macal, Jr. v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0610-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469597
+cites_cases: ["60 S.W. (2d) 233"]
+---
+
+# Macal v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant was indicted in Starr County, Texas, for the murder of Rumaldo Garza. Venue was changed to Hidalgo County and upon trial he was found guilty and assessed a term of 28 years in the penitentiary.
+It was the contention of the state that the fatal shot struck the deceased in the back; whereas appellant, claiming self-defense, testified that he did not shoot Garza in the back, but that Garza was “over me” — was coming at or toward appellant — was following appellant with a knife in his hand when appellant shot the deceased and that he did not know where the deceased was hit.
+By his Formal Bill of Exception No. 1, appellant complains that the witness J. D. Chastain, Chief Chemist and Toxicologist for the Texas Department of Public Safety, was permitted to testify that the bullet entered from the back and that the point of exit was in the front of the body of the deceased, basing his testimony upon an examination of a shirt purported to be that worn by the deceased Garza at the time of the killing.
+It is shown that Gilberto Garza took the clothing off the body of his brother, the deceased. Gilberto testified that he could identify the shirt if he saw it, but it is not shown that he was given the opportunity to do so.
+Mr. Chastain testified that he supervised the examination of a shirt which came to the laboratory following the receipt of a letter from Hon. Homer Dean, then district attorney of the 79th Judicial District, advising that he was sending it. The shirt was referred to in questions addressed to Mr. Chastain as the shirt “allegedly worn by Rumaldo Garza who was shot in Star County in 1952.”
+Mr. Dean did not testify and we find no evidence which may be construed as identifying the shirt examined in the laboratory as that worn by the deceased.
+The testimony of Mr. Chastain based upon his examination of the shirt was upon a material matter, and his answer supported the state’s theory and contradicted in a measure the testimony of appellant. If the shirt was that worn by the deceased at the time he was shot and killed, it was the duty of the state to establish such fact.
+The toxicologist should not have been permitted to express an opinion as to the point of entrance and exit of the bullet in the body of the deceased based upon his examination of such an unidentified shirt.
+The admission of the testimony mentioned requires that the conviction be set aside.
+The judgment is reversed and the cause remanded.
+
+## Dissent (GRAVES, Presiding Judge)
+
+GRAVES, Presiding Judge
+(Dissenting).
+Appellant was convicted by a jury in Hidalgo County, Texas, and was awarded a penalty of 28 years in the state penitentiary for the murder of Rumaldo Garza, which was alleged to have taken place on August 10, 1952, in Starr County.
+This cause was transferred from the district court of Starr County to the district court of Hidalgo County by agreement of the parties thereto, the order of transfer having been made by Judge Sam G. Reams, District Judge of the 79th Judicial District of Texas.
+The testimony is voluminous, and evidently a major portion thereof was given in the Spanish language and interpreted into English by an interpreter.
+The facts show that on Sunday afternoon of August 10, 1952, around 1:30 and 2:00 o’clock, the beer taverns located at the town of San Isidro were popular places with many Latin-Americans present therein. Finally, in the tavern of Pablo Rodriguez, the deceased was present with his brother-in-law, Felipe Requenez, and some discussion arose relative to the political situation that was soon to be determined in an election.
+As near as we can gather from the facts, an argument began between Simon Macal, a cousin of the appellant, and Felipe Requenez, the brother-in-law of the deceased, as to which side would prevail in the forthcoming election. Eventually the parties agreed to make a bet relative thereto, and the deceased sent Felipe Requenez to another place to obtain a certain sum of money to be placed in this bet. When Felipe returned the argument was resumed between him and Simon Macal relative to this election. The deceased then entered the argument with Simon Macal and struck him. The tavern wherein this trouble occurred consisted of two rooms: one where the drinks were sold and consumed, and a door opening into another room where there were some pool tables.
+According to the appellant’s testimony, he went in there to assist his cousin, when the deceased made an attack on the appellant and he shot at him. He fired six shots, two of which seem to have struck the deceased and the others exhausted themselves on the floor and in the walls.
+The state’s testimony evidences an unprovoked killing upon the part of the appellant in an effort to also shoot the deceased’s brother-in-law, who was at the time engaged in a difficulty with the cousin of the appellant.
+The testimony is vague and confusing to some extent in that the appellant himself testified that the deceased was making an attack upon him with an open knife in his hand. However, the testimony of the state does not disclose any weapon of any kind, either upon or in the hand of the deceased during the fatal difficulty, nor was any weapon found upon his person at the time he expired.
+It seems that the appellant also made some contradictory statements but failed to mention therein the attack upon him by the deceased with a knife, although upon the trial of the case, he contended that there was a knife in the hands of the deceased at the time he was shot and appellant produced a knife at the trial. As to these conflicting statements, we can only say that the verdict of the jury reconciled them as best they could, and under the circumstances here presented, we think we are justified in saying that the testimony is sufficient to support the verdict of the jury as herein found.
+Formal Bill of Exception No. 1 relates to the identification of certain clothing which the state claimed was taken from the body of the deceased shortly after his death. It appears that, according to the bill, Mr. Chastain, an expert at the Texas Department of Public Safety, testified that this blood-stained shirt came to the Texas State Laboratory by mail together with a letter from Mr. Homer Dean (who was then the district attorney of that district) saying that it would be sent by him through the mail. This matter was objected to on the ground that, “I am going to object to what Homer Dean may have said in a letter with reference to the shirt or anything like that.” The letter itself was not introduced in evidence, nor was any of its contents save the mere fact that the witness said he had received it from Mr. Homer Dean. This matter was offered in rebuttal to the appellant’s testimony, he having testified that the deceased was coming towards him at the time he fired the shot that took the deceased’s life. This expert witness was thereafter allowed to testify that from the fabric there presented to him he would make the deduction that this bullet entered the body of the deceased from the back. Unquestionably, appellant’s testimony relative to the shooting of the deceased as he came towards him would be rebutted by the fact that the shirt taken from the body of the deceased revealed that the bullet entered from the back. It is apparent from a resumé of the appellant’s testimony that he did not know whether he shot the deceased in the back or in the front.
+Bill of Exception No. 2 relates to the portion of a certain purported confession of the defendant, which is not found in the statement of facts but which was gone into outside the presence of the jury and was afterwards read before them, in which appellant detailed to some extent at least the facts surrounding the killing that caused the deceased to lose his life. It seems that the matter was utilized in rebuttal of the appellant’s testimony while upon the stand and is qualified by the Q. and A. examination of the appellant while he was testifying in his own behalf. Nowhere in the statement of facts do we find this statement complained of, but same appears as an exhibit, although it was referred to at length in the cross-examination of the appellant.
+Bill of Exception No. 3 relates to the fact that the wife of the deceased, wearing a black mourning dress with a child crying in her arms, was present in the court room and offered as a witness for the state. Upon objection by the defendant, the court excluded the crying child from the court room and permitted the witness to testify relative to her name, her husband’s name, and to the fact that she was his widow; also to the fact that she had married the deceased at a certain time and that they had two children. She further testified to matters that seemed to be pertinent herein. The objection was directed to the fact that she was dressed in mourning at the time and was crying. It was further shown that, when her testimony was concluded, she was excluded from the court room but that she came back at the conclusion of the testimony for the argument, still dressed in the same garb and with the same demeanor, and faced the jury, at which time she doubtless evidenced some grief. The court refused, upon objection by appellant, to exclude her from the argument in the case. See Lott v. State, 123 Texas Cr. R. 591, 60 S.W. (2d) 233.
+It appears from the answer to Appellant’s Assignment of Error No. 8 that while the deceased’s brother was on the stand, he testified that he saw two bullet wounds on his dead brother’s body and that one was located near his chest. He further testified that he removed the clothing and the shirt from the body. The witness was then asked if he could identify the shirt if he saw it, to which he answered in the affirmative. At this point a shirt was brought into the court room wrapped in a paper, and counsel for the defendant then approached the bench and objected to the introduction of the shirt since it had been shown that the shirt was covered with blood, and also upon the objection that same would be highly prejudicial and inflammatory before the jury. Whereupon the jury was retired and counsel for the defendant objected to the introduction of the shirt, and a discussion was had with the court, and the state finally desisted from attempting to introduce the same.
+The witness Gilberto Garza, out of the presence of the jury, further testified that he removed the shirt from the body of the deceased and mailed it to Homer Dean, the then district attorney of that district, and no further reference was made to this shirt until the expert witness, J. D. Chastain, was called to the stand. He testified that he was a chemist with the Texas Department of Public Safety, and was then asked whether or not he had received the shirt allegedly worn by the deceased. Counsel for the defendant then objected, “*** until the shirt, or whatever it was, is traced here. I do not mean by that the introduction of the shirt, but to trace where the shirt went to.” Thereupon the witness, Mr. Chastain, testified that he had received the shirt at the laboratory, together with a letter from Homer Dean, then district attorney. Whatever was said in the letter was not allowed to be introduced. The witness Chastain then said that he had received a shirt and trousers in the package from the district attorney; and further testified that a gun was received at the Ballistics Laboratory on the same day. He further testified that an examination was conducted with such gun on material similar to the shirt. Appellant’s counsel objected that unless it was shown that the similar material was exactly the same as the shirt, he would object to it. There was no exception taken to this ruling.
+The only exception taken to the statement of Mr. Chastain relative to the shirt and the entrance and the exit point of the bullet was when he was testifying before the jury. The objection of the appellant’s attorney reads as follows:
+“If the court please, I am going to object to any testimony in regard to this (the points of entrance and exit of the bullet) ; the State closed their case yesterday and this is not in rebuttal of any evidence offered by the defendant and we object to the State re-opening Ms main case.”
+Mr. Chastain finally testified and pointed out the position or place where he claimed the bullet entered the body, and was then requested to point out approximately the exit of the bullet on the body. He answered as follows:
+“Approximately right here on the right front shirt pocket.”
+Appellant then objected as follows: “I object to the consideration of it because he is re-opening the main case”; and further:
+“If the court please, in connection with my objection the defendant testified that he did not know where the bullet entered the body or anything like that.”
+This bill of exception is qualified by the court who added thereto the proceedings had throughout the whole trial relative to the statement of Mr. Chastian as to where the bullet entered the shirt. We quote the objections to such testimony as follows:
+“MR. SMITH: I object to that line of questioning until the pistol or shirt or whatever it was is traced here. I do not mean by that the introduction of the shirt but to trace where the shirt went to from one party to the other.
+“THE COURT: I think your objection is premature.
+“MR. SMITH: Note our exception.
+* :|i :j: *
+“MR. SMITH: (Interrupting) I am going to object to what Homer Dean may have said in a letter with reference to the shirt or anything like that.
+“THE COURT: I don’t think he offered the letter.
+* * ❖ *
+“MR. SMITH: I am going to object to what Mr. Homer Dean said in the letter and ask the Court to instruct the jury not to consider that part of the answer.
+“THE COURT: He said he received it from Homer Dean, if there is anything further that was said I think your objection is good.
+❖ :Ji
+“MR. SMITH: If the Court please, I am going to make the additional objection to any testimony in regard to that. The State closed their case yesterday and this is not in rebuttal of any evidence offered by the defendant.
+“THE COURT: It should be confined to rebuttal.”
+We also quote from the appellant’s testimony as follows:
+“Q. O. K. What did you do next? A. So then I shot at him, I was afraid of him because he had that knife and it was four or five feet from where I was.
+“Q. Do you know where you hit him? A. No.
+“Q. Did you shoot him in any particular part of his body? A. I just shot at him, I do not know where.
+Ht &
+“Q. All right, you show me, you put hie in position. A. He made like this and then I backed off looking for the door.
+“Q. This is the right hand, isn’t it? A. Yes.
+“Q. Is that the hand that Rumaldo had a knife in? A. Yes, but I don’t know where I hit him.
+H* Hi ❖ ❖
+“Q. All right, now Jose, did you shoot Rumaldo Garza in the back? A. No, sir, I do not know.
+“Q. Aren’t you sure that you shot him in the back? A. No, sir, I did not shoot him in the back.
+“Q. Wasn’t he going in a certain way at the time that you shot him in the back? A. No, sir, he was over me.
+“Q. You are sure that you did not shoot him in the back? A. No, I do not know whether he was fronting me or he had turned around because I gave him my back trying to look for my way out.
+“Q. Well, did you shoot like this, Jose? A. No.
+“Q. Is that your story now? A. That is the way he was.
+“Q. If you shot him in the back he was not coming towards you, was he? A. He was over me and I turned around and shot him.
+“Q. And therefore he was coming at you when you shot him ? A. That is the way he was coming when I lost sight of him and kept off looking at him and I turned around and I shot.”
+It is evident from the record herein that the court himself did not know whether appellant’s attorney was objecting to the testimony of Mr. Chastain as to what was shown by the shirt thus referred to or not.
+We quote from the bill, as signel by the court, as follows:
+“The defendant while on the stand in his own behalf, engaged in a demonstration with the State’s Attorney showing how the killing had taken place and showing the relative positions of himself and of the deceased and also showing the manner in which he shot the deceased. Previously, on direct examination by his own counsel, the defendant had testified as follows:
+(Please see attached transcripts).
+“The Court expresses no opinion as to whether or not there was any seasonable objection by the defendant to the effect that the shirt was never identified as that worn by the deceased since the foregoing transcript of the testimony speaks for itself in this respect.”
+This bill of exception contains more than twenty pages and embraces, among other things, the entire testimony of the appellant relative to this transaction. It is clear from the court’s qualification above quoted that he himself was unable to say that any seasonable objection by the defendant as to what was shown by the shirt was ever made on the trial of this case. That is the only error upon which the reversal of this case is ordered by my brethren, and if the trial court himself was not able to say that any seasonable objection was made to Mr. Chastain’s testimony, then I find myself of the same opinion as the trial court, and do not think that this matter warrants a reversal of this cause. I think it should be affirmed and therefore file this dissent to its reversal.
