@@ -1,0 +1,42 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1010"
+decided: "1911-03-01"
+citations: ["61 Tex. Crim. 647"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ros Frazier v. The State."]
+source_url: "https://static.case.law/tex-crim/61/cases/0647-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4602054
+cites_cases: ["116 Mass., 17", "37 Texas Crim. Rep., 146", "4 S, W. Rep., 880", "4 S. W., 880", "43 S. W. Rep., 512", "46 Texas Crim. Rep., 234", "48 Texas Crim. Rep., 559", "79 S. W. Rep., 28", "89 S. W. Rep., 838"]
+---
+
+# Frazier v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+—Appellant was charged by indictment with the offense of perjury in the District Court of Jackson County, Texas. On a trial he was convicted and sentenced to a two-year term in the penitentiary.
+The Assistant Attorney-General has filed a motion to strike out the statement of facts sent up as a part of the record. The statement of facts was filed more than thirty days after the adjournment of court, and upon application requesting further time the judge of the court entered an order refusing an extension of time. This is a matter within his discretion, and the motion of the Assistant Attorney-General is sustained.
+Complaint is made of the action of the court in overruling the application for a continuance. The only ground set out in the motion is that appellant had not employed his counsel until the day of trial, and his attorney had not had time to prepare the case for trial, that he has a defense, even if it is only in mitigation of the offense. Appellant had been arrested in April and bound over to the grand jury. His case was not called for trial until the 3d day of October. The jury assessed the minimum punishment, and if his defense was only in mitigation of punishment, we can not see in what way he was injured. The court did not err in overruling the motion.
+Appellant in his brief says: “We are aware of the provisions of article 723 of the Code of Criminal Procedure, as amended March 12, 1897, and the many decisions of the court construing the same, and only hope for a reversal of this case upon errors which are fundamental, unless the fourth and sixth sections of the motion for a new trial meets the requirements of law.”
+We have carefully examined the indictment, charge of the court, judgment and sentence, and find no fundamental error. The fourth and sixth grounds of the motion for a new trial read as follows: “4th. Because the court refused to give in charge the charge asked for by defendant, defining what constituted ‘a statement deliberately made/” “6th. Because for the reasons assigned above the verdict was contrary to the law and the evidence.” The special charge referred to in the fourth ground of the motion for a new trial is as follows:
+“A false statement made through inadvertence, or under agitation, or by mistake, is not perjury. Among the ingredients essential to constitute perjury, the false statement assigned must have been made deliberately and wilfully, his mind must have been deliberate, he must have made the false statement deliberately and wilfully, to this extent the offense of perjury involves the condition and status of the mind of the accused. And unless you belieye from the evidence, beyond a reasonable doubt, that the defendant made the statement alleged to have been made, deliberately and wilfully, and not through inadvertence, or under agitation, or by mistake, you will find the defendant not guilty.” This charge is endorsed: “Given;” “Refused.” So it would be difficult for us to determine whether it was given or refused, but take it for granted that it was refused. This court has uniformly held that, in the absence of a statement of facts, it will be presumed that the court gave in charge the law and all the law applicable to the facts in evidence. Wright v. State, 37 Texas Crim. Rep., 146. In addition to this the court, in his main charge, gave everything in this special charge, saying, “Perjury is a false statement, either verbal op written^ deliberately and wilfully made, relating to something past or present, under the sanction of an oath, where such, oath is legally administered, under circumstances in which an oath is required by law or is necessary for the presecution or defense of any private right or for the ends of public justice. A false statement made through inadvertence or under agitation or by mistake is not perjury. Wilful, as used in the definition of this offense, is that the act must be committed with an evil intent, with legal malice, without reasonable ground for believing the act to be lawful and without legal justification,” and the jury were told that before they would find the defendant guilty they must find he deliberately and wilfully made a false statement, knowing it to be false. The court did not err in failing to give the special charge, if it was not given. The court defined the words “deliberate” and “wilful” in the above-quoted paragraph. Steber v. State, 23 Texas Crim. App., 176, 4 S. W., 880.
+The other ground, the sixth, we can hardly consider. There are no facts in the record. Therefore we must presume the verdict is in accordance with the evidence, and in the absence of a statement of facts, where the indictment charges an offense, and the judge submits that offense to the jury in his charge, we can not say the verdict is contrary to the law. The judgment is affirmed.
+Affirmed.
+
+## Rehearing (HARPER, Judge.)
+
+ON REHEARING.
+March 29, 1911.
+HARPER, Judge.
+—At a former day of this term the judgment of the trial court was affirmed. Appellant has filed a motion for a rehearing, and insists that the indictment should be quashed. In Bradberry v. State, 7 Texas Crim. App., 375, this court held:
+“A party not only commits perjury by swearing falsely and corruptly as to the fact which is immediately in issue, but also in swearing falsely and corruptly as to material circumstances tending to prove or disprove such fact; and this without reference to the question whether such fact does or does not exist. It is as much perjury to establish the truth by false testimony as to maintain a falsehood by such testimony, and the f^ct that the former may lead to a correct decision is immaterial,” citing The Commonwealth v. Grant, 116 Mass., 17; 1 Hawley’s Am. Cr. Law, 500.
+In Davidson v. State, 22 Texas Crim. App., 372, the court quotes the above approvingly, and adds: “If the statement tends even circumstantially to the proof of the issue, it will be deemed material.” (2 Arch. Crim. Prac. & Plead., 8th ed., p. 1727.) In the case of State v. Hathaway (2 Nott and McCord, 118), it was said that to constitute perjury it was not necessary that the particular fact sworn to should be immediately material to the issue, but it must have such a direct and immediate connection with a material fact as to give weight to the testimony or the point.
+Mr. Bishop says: “The true test would seem in reason to be whether the evidence could have properly influenced the tribunal. . . . Where the incidental matter is calculated to incline the jury to give more ready credit to the substantial fact, it will sustain a conviction for perjury if wilfully false.” (2 Bish. Cr. Law, 3d ed., secs. 1036-1037.)
+The indictment was sufficient and perjury could be predicated upon the alleged false testimony.
+There are several criticisms of the charge of the court in the motion for a rehearing, but this court has always held that we would not consider grounds that were not assigned in the motion for new trial. By reference to the motion for a new trial, page nine of the transcript, we find no complaint was made in the court below in reference to the charge of the court. While we think the charge is hardly susceptible to the criticisms contained in the motion for rehearing in this court, however, no complaint having been made of these matters in the trial court, we can not consider them. In Magee v. State, 43 S. W. Rep., 512, this court holds: “Under the Act of Twenty-fifth Legislature, which requires that exceptions shall be reserved at the time the charge is given or brought forward in a motion for a new trial, an assignment can not be considered not reserved by a bill of exception nor in the motion for a new trial.
+The motion for rehearing is overruled.
+Overruled.
