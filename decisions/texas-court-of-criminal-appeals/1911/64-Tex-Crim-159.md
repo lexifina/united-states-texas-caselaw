@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1451"
+decided: "1911-12-13"
+citations: ["64 Tex. Crim. 159"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Boydston v. The State."]
+source_url: "https://static.case.law/tex-crim/64/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2375778
+---
+
+# Boydston v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was prosecuted under complaint and information alleging that he exposed his person in the presence of ladies. 4
+When the case was called for trial, appellant filed his first application for a continuance on account of the absence of a number of witnesses, which was, by the court, overruled. Appellant excepted to the action of the court, and presents the matter for «review in his first bill of exceptions, which was, by the court, approved. Appellant shows that he had process issued for all the witnesses named, and they had been served, and were in attendance at the former term of court. The diligence being sufficient, the only question relates to the materiality of the testimony.
+The State witnesses state that appellant on June 12th, about 4 or 5 o’clock in the afternoon, came near the residence of Mrs. Lee McDaniel and exposed his person in a manner that would render him guilty of the offense charged in the information. The appellant in his application sajrs that “the facts which defendant expects to prove by the said witnesses Ara Boydston, Louis Cantrell and Frank Hammack, are the following: The said witnesses all saw the defendant at his home on the 12th day of June, 1910, at about 3 or 4 o’clock and later, and that he could not have been the person that committed the offense as alleged by the prosecuting witness, Mrs. Will McDaniel and Miss McDaniel; that at the time the above State witnesses claim that defendant committed this offense in Bur-net County, Texas, that he was at his home in Bell County, Texas, several 'miles away and could not have been at or near the residence of Will McDaniel, in Burnet County, Texas.
+“That by the witnesses, Henry Whitehead, Mrs. Henry Whitehead, and C. C. Arnold, that the prosecuting witnesses, Mrs. Will McDaniel and Miss McDaniel, came to the residence of Henry Whitehead on the evening after they claim that the offense was committed, and that they were not excited in the least, that they made no statement and told them nothing about what had happened, and that they noticed nothing unusual about their appearance, and that a few days later, Mrs.’ Will McDaniel, in talking to them about the matter, after she had looked at the defendant for the purpose of identification, made this statement, that she did not know whether Mr. McDaniel would prosecute Boydston or not, but that he was not the man that was at her house on the evening of the 12th of June.
+“That by the witness, W. A. Haines, that he was present at a time a few days after the offense was alleged to have been committed when Mrs. McDaniel met the defendant for the purpose of seeing if she could identify him as the man that committed the offense and that after carefully examining the defendant, positively, declared that he was not the man, that the man that 'committed the offense had black hair.”
+Appellant further alleges in his application “that the witness, Ara Boydston, who is his wife, and Frank Hammack, are both at home with their sick mother, and that the family and her doctor are hourly expecting her death.” That the other witnesses named are not absent by the consent or procurement of defendant, and he does not know why they are not in attendance on court.
+This being the first application for a continuance, diligence being shown, and the testimony being thus shown to have been of a material nature, the application should have been granted.
+The other bills of exception in the record are not approved by the court, and we can not review the matters complained of in them, but for the error above pointed out the judgment is reversed and the cause is remanded.
+Reversed and remanded.
