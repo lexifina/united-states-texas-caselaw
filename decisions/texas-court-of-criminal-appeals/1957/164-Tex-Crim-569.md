@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,988"
+decided: "1957-05-01"
+citations: ["164 Tex. Crim. 569"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chano Arrellano v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0569-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610476
+---
+
+# Arrellano v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is aggravated assault with a motor vehicle as denounced by Article 1149, V.A.P.C.; the punishment, one month in jail and a fine of $100.00.
+The witness Harle, inspector for the Texas Highway Department, testified that he and his assistants were surveying for the construction of a new bridge, and, in the course of doing so, they stopped the south bound traffic in order to let the north bound traffic cross the old bridge, which they had limited to one-way traffic. A milk truck traveling south stopped at the end of the bridge and an Oldsmobile was proceeding north across the bridge when, according to the witness, the appellant’s truck, which was proceeding south, drove around the milk truck and collided with the Oldsmobile on the appellant’s left-hand side of the bridge.
+The witness Horne, who was riding in the Oldsmobile and was injured, testified that as they approached the bridge while traveling north they observed a sign for the south bound traffic to stop, and after they got on the bridge a truck driven by the appellant came “around those cars that were stopped” and collided with the automobile in which he was riding.
+The appellant, testifying in his own behalf, stated that he saw no stop sign at the bridge and thought that the milk truck was moving until he got to within 30 feet of it, and that he immediately applied his brakes as soon as he saw the milk truck was stopped. His explanation of the collision was that when he applied his brakes he “felt something throw me out of the seat,” that he hit the bridge, and “then I must have hit the car.” He denied that he had seen the Oldsmobile until after the collision.
+Trial was before the court without the intervention of a jury, and there are no bills of exception in the record. .
+We have concluded that the evidence is sufficient to support the trial court’s finding that the appellant failed to keep a proper lookout and, as the result of such negligence, caused the collision and the incident injuries to the witness Horne.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment is affirmed.
