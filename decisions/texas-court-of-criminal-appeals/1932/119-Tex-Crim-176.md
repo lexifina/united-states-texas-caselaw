@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "14-730"
+decided: "1932-01-27"
+citations: ["119 Tex. Crim. 176"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arkie Benson v. The State."]
+source_url: "https://static.case.law/tex-crim/119/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5198448
+cites_cases: ["102 Texas Crim. Rep., 456", "104 Texas Crim. Rep., 238", "111 Texas Crim. Rep., 240", "115 Texas Crim. Rep., 644", "13 S. W. (2d) 111", "243 S. W., 1095", "255 S. W., 436", "267 S. W., 488", "278 S. W., 203", "28 S. W. (2d) 556", "283 S. W., 505", "92 Texas Crim. Rep., 342", "95 Texas Crim. Rep., 555", "98 Texas Crim. Rep., 636"]
+---
+
+# Benson v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Conviction for possessing equipment for the manufacture of intoxicating liquor; punishment, one year in the penitentiary.
+Officers testified that they found a complete still in operation, also a mash barrel from which the mash had been emptied. Whisky was running into a jar out of the still. There was a coil, a cooker, and a fire under the latter. Two persons were present at the time, one of whom was appellant. Appellant made the statement there that this was his outfit, and that the other person had nothing to do with it. Appellant said he had a bunch of kids and did not want to steal, and was not going to the bread line, and had to make a little whisky. The state used Carver, the other party, who testified that he was going through the timber and heard some one cutting wood, and walked up to the place where the still was in operation. He said he had nothing to do with the manufacture of the intoxicating liquor. Appellant took the witness stand and said he was down in the woods after his cow and saw smoke and went out there and found the fire under a can; that he “fooled around there about ten minutes until Graver came up; that he and Graver talked on and fooled around until the officers came up.” He said he did not operate the still and had nothing to do with it.
+We find three bills of exception. The first complains of the reception of the testimony of the officers as to the statement made to them by appellant at the time they came upon him at the still, the ground of the objection being that he was under arrest and not warned. There are many authorities holding such statements to be res gestae and admissible. Hayes v. State, 115 Texas Crim. Rep., 644, 28 S. W. (2d) 556; Rayburn v. State, 95 Texas Crim. Rep., 555, 255 S. W., 436; Bell v. State, 92 Texas Crim. Rep., 342, 243 S. W., 1095; Strickland v State, 98 Texas Crim. Rep., 636, 267 S. W., 488; White v. State, 102 Texas Crim. Rep., 456, 278 S. W., 203; Martin v. State, 104 Texas Crim. Rep., 238, 283 S. W., 505; Wright v. State, 111 Texas Crim. Rep., 240, 13 S. W. (2d) 111. The second bill of exception complains of the testimony of another officer who gave substantially the same testimony as that referred to in the preceding bill of exception.
+Bill of exception No. 3 complains of the refusal of a charge on circumstantial evidence. The admission of appellant testified to by the officers takes the case out of the rule of circumstantial evidence.
+No error appearing, the judgment will be affirmed.
+Affirmed.
