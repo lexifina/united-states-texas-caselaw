@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1186"
+decided: "1911-11-01"
+citations: ["63 Tex. Crim. 525"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lee Anderson v. The State."]
+source_url: "https://static.case.law/tex-crim/63/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2375666
+---
+
+# Anderson v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+On June 17, 1910, the appellant was indicted for the murder of Berry Bobinson by shooting him with a pistol, charged to have occurred on December 34, 1909, was convicted of manslaughter and his punishment fixed at four years in the penitentiary.
+There are no bills of exception or charges asked and refused shown by the record.
+The facts, briefly stated, are that some time about the latter part of the evening of December 24, 1909, the deceased got off the train and met the appellant. The deceased was drinking. A little later they met and after some words between them the appellant accused deceased of not speaking to him when he got off the train; they had a fist fight in which the deceased knocked the appellant down twice, but no serious injury was inflicted or attempted to be inflicted. Several hours later the appellant was at a dance and supper, sitting in a room picking a guitar. Several couples were on the floor dancing. The deceased stepped into the door of the room, stood against the facing thereof and had in his hand a shotgun with the muzzle placed on his foot. The appellant saw him, quit picking the guitar, said nothing to the deceased, walked out of the room through the door, passed the deceased and was gone some few minutes. After a few minutes he returned with a pistol in his hand, stepped up beside the deceased, caught hold of the gun which ivas in deceased’s hand, and shot the deceased in the side, killing him. At the time, the evidence shows, the deceased was doing nothing whatever with the gun or otherwise to attack the appellant.
+The court properly submitted to the jury a charge on murder in the second degree, manslaughter and self-defense. There are only two grounds of the motion for new trial. One is “the court misdirected the jury as to the law in the charge given the jury in this: That he failed to correctly charge the jury with reference to the law of self-defense, and failed to define the words ‘deadly weapon.’” Then in this ground of the motion for new trial the appellant contends that the shotgun which the deceased had in his hand was a deadly weapon and he was attempting to raise, or raised it in a shooting attitude, and pointed in the direction of appellant and he saved his life only by grasping the barrel of the gun with one hand and wresting it from him; and further therein contends that the court should have given article 676 of the Penal Code in charge to the jury on this subject.
+The appellant’s contention as to the state of facts is not correct. The evidence all shows that the deceased did not raise or attempt to raise or point the gun in the direction of the appellant, but that he held the stock in one hand with the muzzle on his foot. Appellant stepped into the door beside the deceased, himself grabbed the gun and at once shot the deceased in the side when no attempt was made by him to use the gun. Notwithstanding this, the court did charge correctly on self-defense and gave in substance, if not literally, the article of the Code which appellant claims he should have given, and while the court, in the charge, did not technically define a deadly weapon, he did tell the jury in the charge on self-defense: "“And if the weapon used by him, and the manner o£ its use, were such as was reasonably calculated to produce death or serious bodily harm, then the law presumes that the deceased intended to murder or aimed to inflict serious bodily injury upon the defendant.” The charge of the court on self-defense was much more favorable to the appellant than he was entitled to.
+The other ground of the motion for new trial is that the verdict is contrary to the law and the evidence. Then the motion argues the question that the testimony conclusively showed that the appellant killed the deceased in self-defense. We have briefly stated what the evidence showed on that subject above. The evidence, as a whole, clearly shows that the appellant was at least guilty of manslaughter, of which the jury found him guilty. It would clearly have justified the jury to have found him guilty of murder in the second degree and fixed a greater penalty than was given him by the jury. There is no question but that the appellant has no ground of complaint which shows any reversible error in the trial of the case.
+The judgment is therefore affirmed.
+Affirmed.
