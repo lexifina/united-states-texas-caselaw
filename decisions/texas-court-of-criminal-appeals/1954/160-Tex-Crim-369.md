@@ -1,0 +1,88 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,771"
+decided: "1954-03-17"
+citations: ["160 Tex. Crim. 369"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Patricia Parkinson"]
+source_url: "https://static.case.law/tex-crim/160/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2470938
+cites_cases: ["120 S.W. 2d 259", "135 Texas Cr. Rep. 291", "138 S.W. 2d 813", "154 Texas Cr. Rep. 168", "154 Texas Cr. Rep. 68", "156 Texas Cr. Rep. 355", "159 Texas Cr. Rep. 94", "198 S.W. 2d 893", "225 S.W. 2d 193", "24 S.W. 354", "242 S.W. 2d 384", "261 S.W. 2d 567", "34 Minn. 115"]
+---
+
+# Ex parte Parkinson
+
+## Rehearing
+
+ON MOTION FOR REHEARING
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+The appellant’s motion for rehearing is granted, the former opinion delivered herein is withdrawn, and the following is rendered in lieu thereof:
+Appellant here, relator in the court below, was taken into custody by virtue of the executive warrant of the Governor of this state to answer an accusation pending against her in the state of New Mexico. She sought her discharge from such arrest and custody in a writ of habeas corpus proceeding before the Criminal District Court No. 2 of Dallas County, Texas. After a hearing, the relief prayed for was denied and she was remanded to the custody of the arresting officer.
+The record before us shows the executive warrant of the Governor of this state and what is purported to be the complaint and supporting documents upon which the executive warrant was issued.
+We have searched this record in vain for any requisition or demand by the Governor of the state of New Mexico for the appellant’s extradition.
+In Ex Parte Anderson, 135 Texas Cr. R. 291, 120 S.W. 2d 259, we quoted with approval the holding in the case of State v. Richardson, 34 Minn. 115, 24 S.W. 354, that a requisition from the governor of the demanding state is jurisdictional to the issuance of the executive warrant by the governor of the asylum state. Therefore it is apparent that the record before us fails to reflect the jurisdictional authority in the Governor of this state to issue the executive warrant.
+Accordingly, the judgment remanding appellant is set aside, and she is ordered discharged from custody.
+
+## Rehearing (MORRISON, Judge.)
+
+ON state's motion for rehearing
+MORRISON, Judge.
+On motion for rehearing herein we overlooked the recitations in the Executive Warrant of the Governor of Texas and the effect of its introduction at the hearing.
+The warrant recites in part:
+“Whereas, it has been made known to me by the Governor of the State of New Mexico that Mrs. James E. Parkinson stands charged by criminal complaint and supporting documents before the proper authorities, with the crime of obtaining property with intent to cheat or defraud committed in said State and that the said Defendant has taken refuge in the State of Texas, and Whereas, the said Governor, in pursuance of the Constitution and Laws of the United States, has demanded of me that I cause the said fugitive to be arrested and delivered to W. L. High, or his agent, who are, as is satisfactorily shown, duly authorized to receive Mrs. James E. Parkinson into custody and convey Mrs. James E. Parkinson back to said State, and Whereas, said demand is accompanied by copy of said criminal complaint and supporting documents duly certified as authentic by the Governor of said State.
+“Now, therefore, I Allan Shivers, Governor of Texas, by virtue of the authority vested in me by the Constitution and Laws of this State and the United States do issue this my Warrant commanding all Sheriffs, Constables and other Civil Officers of this State, to arrest and aid and assist in arresting said fugitive and to deliver Mrs. James E. Parkinson when arrested to the said Agent in order that Mrs. James E. Parkinson may be taken back to said State to be dealt with for said crime.”
+This warrant was introduced in evidence, and no objection was leveled thereto and no proof was adduced to challenge the truthfulness of the recitations contained therein.
+The rule in this state, and in the other jurisdictions, may be found in 35 Corpus Juris Secundum, “Extradition,” Sec. 16, pp. 345-346, as follows:
+“d. Conclusiveness
+“In the absence of proof to the contrary, it will be presumed that the Governor acted in conformity with law in the issuance of his warrant, or the recitals therein are prima facie evidence of the existence of the jurisdictional facts, although it is not conclusive proof of compliance with statutory requirements.”
+In Ex parte Norris, 154 Texas Cr. Rep. 68, 225 S.W. 2d 193, this Court, speaking through Judge Graves, gave application to this general rule by saying:
+“We have heretofore held that the warrant of the executive of the asylum state is prima facie evidence of the existence of every fact which that executive was obliged to determine before issuing it. See Ex parte Noble, 151 Texas Cr. App. 1, 198 S.W. 2d 893, 894, and cases there cited * * *
+“The executive warrant makes a prima facie case that all the statements therein relative to what the writ shows are true and the burden of showing them to be false rests on the relator in a habeas corpus proceeding * * *”
+We are aware of no change in this general rule which was effected by the adoption of the Uniform Criminal Extradition Act, C.C.P. Art. 1008a. In Ex parte Teplitz, 159 Texas Cr. Rep. 94, 261 S.W. 2d 567, a proceeding under the present Uniform Criminal Extradition Act, we followed the Norris case and, speaking through Judge Davidson, said:
+“Does the respondent in an extradition case make out a prima facie case authorizing extradition by the introduction in evidence of the executive warrant of the Governor of this state, which is in all things regular upon its face ?
+“This is the sole question presented by this record.
+“The requisition of the Governor of the demanding state for relator’s extradition was not offered in evidence.
+“Ex parte Norris, 154 Texas Cr. R. 68, 225 S.W. 2d 193, is direct authority requiring that the question be answered in the affirmative. See, also, Ex parte Berry, 139 Texas Cr. R. 67, 138 S.W. 2d 813; Ex parte McMillan, 156 Texas Cr. Rep. 355, 242 S.W. 2d 384.
+“The judgment remanding relator to the custody of the transfer agent in extradition is affirmed.
+“Opinion approved by the Court.”
+In addition to the above, our attention is now directed to the appointment of the agent of the state of New Mexico signed by the Governor of that state, reciting that requisition upon the Governor of Texas had issued for the apprehension of appellant herein and directing her return to said state.
+It is also pointed out that, while testifying at the hearing, the agent of the State of New Mexico testified that a requisition for the appellant had been sent by the Governor of New Mexico to the Governor of Texas asking that she be extradited to New Mexico, which was admitted without objection, and no effort was made to refute such testimony.
+It therefore follows that a prima facie case for the respondent is shown by the record before us.
+The state’s motion for rehearing is granted. The judgment of reversal is set aside, and the judgment of the trial court directing the delivery of the relator to the agent of the demanding state is now affirmed.
+
+## Rehearing
+
+on state’s motion for rehearing
+
+## Dissent (GRAVES, Presiding Judge)
+
+GRAVES, Presiding Judge
+(dissenting).
+Upon the submission of the state’s motion for rehearing, it was assigned to Judge Davidson of the commission in aid of this court for study. Judge Davidson prepared an opinion which was rejected by my brethren. Believing that the opinion is correct, I adopt it as my dissenting opinion herein. The opinion reads as follows:
+“The State insists that the executive warrant of the Governor of this State proves itself and constitutes prima facie evidence that it was based upon a demand by the governor of the demanding state because it is stated in the warrant that the governor of the demanding state ‘has demanded of’ the governor of this state that he ‘caused the said fugitive to be arrested and delivered’ to the demanding state.
+“The State further insists that additional proof of the issuance of a demand by the governor of the demanding state is shown by his appointment of a transfer agent, in which it is certified that ‘Requisition upon the Governor of the State of Texas has this day been issued. . .’ The fact remains, however, that there is not shown by this record any demand by the governor of the demanding state upon the governor of this state.
+“In Ex parte Anderson, 135 Texas Cr. Rep. 291, 120 S.W. 2d 259, it was held that where it was shown that no demand accompanied the requisition, the extradition warrant was void. The holding in that case was made because two essentials were lacking in the proof: (a) the requisition or demand by the governor of the demanding state, and (b) a certificate that the complaint and other documents were authentic. The instant record fails to reflect the existence of either of those essentials.
+“Appellant insists that the Anderson case is authority supporting her contention.
+“The State insists that the distinction between the instant case and the Anderson case is that, here, we have no affirmative proof that the demand of the governor of the demanding state was not before the governor of this state when the extradition warrant was issued, and that in the absence of such proof the warrant of the governor of this state presented a prima facie case authorizing extradition of the person named in the executive warrant. See Ex parte Norris, 154 Texas Cr. Rep. 168, 225 S.W. 2d 193.
+“In other words, the State’s contention depends upon whom the burden rests, in extradition cases, to show the absence or presence of a demand by the governor of the demanding state.
+“Both the Anderson and Norris cases, supra, were written prior to the effective date of our present Uniform Extradition Act passed in 1951, and appearing as Art. 1008a, Vernon’s C.C.P. They could not, therefore, have controlling effect on the above present statute.
+“If that Act placed upon the State the burden of showing that the executive warrant was issued upon a valid and legally sufficient demand, then appellant’s contention that the instant executive warrant was void must be sustained.
+“The Uniform Extradition Act, especially Sec. 3, thereof, appears to answer that question. There, the legislature has set forth the requisites for the issuance of an extradition warrant where the accused is charged in the demanding state, as here, with the crime of obtaining property with intent to defraud, as follows: ‘No demand for the extradition . . . shall be recognized by the Governor’ unless (a) the demand is ‘in writing alleging . . . ’ that (b) ‘the accused was present in the demanding state at the time of the commission of the alleged crime,’ and that (c) the accused thereafter ‘fled from’ the demanding state; (d) a copy of the indictment or affidavit which substantially charges the accused with having committed a crime under the laws of the demanding state must accompany the demand; (e) the indictment or affidavit must be authenticated by ‘the Executive Authority’ making the demand; (f) copies of all instruments mentioned herein shall be delivered to the defendant or his attorney.
+“The record in this case does not reflect compliance with any of the requisites set forth above.
+“Compliance with the mandates of Sec. 3 of the Act is jurisdictional. No other construction may be given to the language of the command that ‘No demand’ shall be recognized until the requisites there specified have been complied with.
+“But the Legislature was not content to rest its mandate upon the command of Sec. 3 of the Act, for it went further and, in Sec. 7 of the Act, required that ‘The warrant must substantially recite the facts necessary to the validity of its issuance.’
+“Had there been doubt that the Legislature intended that compliance with the prerequisites mentioned in Section 3 of the Act be jurisdictional, such was set at rest by the provisions of Sec. 7 mentioned.
+“The validity of the warrant was, by that section, made to depend upon the fact that the warrant reflected substantial compliance with the prerequisites of Sec. 3 of the Act heretofore set forth. Here, the warrant of the governor of this state falls far short of meeting that requirement. Moreover, neither the record before us nor the executive warrant reflects an affidavit or indictment which has been duly authenticated by the governor of the demanding state substantially charging appellant with a crime in the demanding state.
+“There is no escape from the conclusion that the validity of a warrant of extradition depends upon compliance with the provision of Sec. 3 of the Act and that a warrant is invalid that does not reflect that those requirements were substantially complied with.”
+To the foregoing I add the following supplement:
+If, however, I am wrong in my effort to show that the law has not been complied with relative to the extradition of the appellant herein, then I am reminded of the state courts of Texas, being both of law and of equity, and the appellant, in the exercise of her equity rights herein, shows the following:
+The testimony shows that the appellant was with a child at the time the incident occurred in New Mexico for which she is held, and at that time she indulged in other misdemeanors in Texas by giving checks on banks wherein she had no funds. Her conduct was such that she was confined in the state hospital for the insane at Terrell and there kept until it became apparent that she was about to give birth to a child. She was then confined in the Parkland Hospital at Dallas and safely delivered of her girl child. Three days thereafter she was placed on trial in this cause, and at such time she was evidently in no condition to offer her defense, either legal or equitable.
+The crime with which she is charged here is the giving of a check for $7.50 in New Mexico, with which she purchased shoes and a handbag. This amount is a felony in New Mexico, and she is being held to answer for a felony in the courts of New Mexico at the present time.
+We think the equity of this situation should demand that this woman, who was undergoing a terrific strain at the time of being in the lunatic asylum and then giving birth to a child, and then being tried within three days thereafter, should relieve her of having to return to New Mexico at this time to answer for the felonious giving of a check for $7.50.
+Therefore, I think that under both the law and equity in this matter, this appellant should be discharged, and that the state’s motion for rehearing should be overruled.
