@@ -1,0 +1,42 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,062"
+decided: "1960-06-01"
+citations: ["169 Tex. Crim. 635"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WOODLEY, Judge, dissented."]
+parties: ["William H. Downs v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0635-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12150599
+---
+
+# Downs v. State
+
+## Majority (PER CURIAM. DAVIDSON, Judge.)
+
+PER CURIAM.
+This is an appeal from an order of the Criminal District Court of Jefferson County revoking probation and imposing a sentence of four years for felony theft by false pretext.
+The state moves to dismiss this appeal because no sentence appears in the record.
+In the absence of a sentence, this court is without jurisdiction to entertain this appeal.
+The appeal is dismissed.
+ON MOTION TO WITHDRAW MOTION TO REINSTATE
+DAVIDSON, Judge.
+The appeal in this case was dismissed for the want of a sentence.
+The appellant filed a motion to reinstate the appeal. He now asks to withdraw his motion to reinstate, alleging that he was misinformed of the facts. Having filed the motion to reinstate, appellant is entitled to withdraw such motion.
+The motion to withdraw the motion to reinstate the appeal is granted.
+
+## Dissent (WOODLEY, Judge,)
+
+WOODLEY, Judge,
+(dissenting).
+At a former day of this term this appeal was dismissed upon the erroneous holding that no sentence appeared in the record.
+The record does in fact contain a sentence, it appearing as a part of the order revoking probation, in the following words:
+“Therefore, It Is Thereby Ordered, Adjudged And Decreed this 3rd day of April A.D. 1959 that the probation assessed William H. Downs on the 13th day of January, 1955, in the above styled and numbered cause, for the offense of Felony theft by False Pretext, is hereby revoked and the State appearing by her Assistant District Attorney Jim Vollers and the defendant William H. Downs, in person now before the Court, it is the order of the Court that the defendant William H. Downs who has been adjudged guilty of the offense of Felony Theft by False Pretext and whose punishment has been assessed at confinement in the penitentiary for a term of four years with credit for three days spent in jail, and that said defendant William H. Downs be delivered by the Sheriff of Jefferson County, Texas, immediately to the warden of the penitentiary of the State of Texas, or other person legally authorized to receive such convicts, and the said William H. Downs shall be confined in said penitentiary for four years in accordance with the provisions of the law covering penitentiaries of the State and the said William H. Downs is remanded to jail until the Sheriff can obey the directions of the sentence.
+“OWEN M. LORD Judge Presiding.”
+There being no valid ground for the dismissal of the appeal, the order of dismissal should be set aside, the term of court not having expired.
+The record contains no statement of facts and there is no showing that the trial judge abused his discretion in revoking probation and pronouncing sentence.
+The sentence should be reformed so as to give application to the indeterminate sentence law, and the judgment should be affirmed.
+To fail to correct our error while we have the authority to do so would constitute a wilful dereliction.
