@@ -1,0 +1,64 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,208"
+decided: "1960-11-16"
+citations: ["170 Tex. Crim. 417"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cleo Risby v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0417-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2626352
+cites_cases: ["166 Tex. Cr. R. 24", "310 S. W. 2d 328", "355 U. S. 369", "78 S. Ct. 363"]
+---
+
+# Risby v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is transporting whisky, beer, wine and vodka in a dry area; the punishment, 3 months in jail and a fine of $500.
+The evidence from the state’s standpoint shows that on the night of November 8, 1959, Deputy Sheriff HcLaury and Sudan Chief of Police Hears observed an automobile approaching highway from the west on a dirt road in Lamb County, a dry area. As the automobile stopped at the intersection, appellant got out and Chief Hears asked to see her driver’s license.
+There were three other occupants of the automobile, Juanita Ashley, Betty Collins and George Shorter, alias Barnyard Jones.
+Deputy HcLaury, who had known appellant for several years and who had received information that the automobile she was driving was being used to haul illicit beverages from the State of New Hexico into Littlefield, Texas, looked into the automobile and saw some beer cases between the front and back seat. He asked appellant if he could look in the trunk, and she said “The keys are in the switch.” Officer HcLaury got the keys and went to the back of the automobile. He asked appellant “What have you got in there?” and she said “I have too much.” She then took the keys and opened the trunk.
+In the trunk the officer found ducking sacks in which there were paper bags containing whisky and wine, and between the seats he found, in addition to beer, some whisky and vodka, all of which was introduced in evidence at the trial and totaled some 75 or 80 pints of wine, 21 pints of Old Quaker Whisky, 16 half pints of “Bourbon de Luxe,” 14 half pints of “Barclays,” 8 half pints of vodka, two cases of beer containing 24 twelve ounce cans of beer, a six pack of 12 ounce cans and 5 other cans of beer.
+The automobile, according to the state’s evidence, was owned by Oscar Adams who testified that he had loaned it to appellant.
+Appellant testified. Her version of the facts was that she did not borrow the automobile, but drove it at the request of Juanita Ashley, who had borrowed it but did not have a driver’s license; that she drove to Clovis (New Mexico) and then to a place near Melrose; that she became ill from having eaten barbecue and went to an outside restroom; that her companions were drinking beer; that when they stopped she was the only one in the automobile that was sober; that she did not put liquor in the automobile; had no knowledge of any beer, wine, whisky or vodka being in the car; did not open the trunk; that she was not asked by the officer if he could look in the trunk; did not say that the keys were in the switch and that the officer did not ask her what she had in the trunk and she did not say “I have too much.”
+The disputed issue of facts were for the jury. They were resolved against the appellant, and the evidence sustains the jury’s verdict.
+We overrule the contention that under the facts stated the beer, wine, whisky and vodka, and the evidence relating thereto, was obtained as the result of an illegal search.
+Appellant claims error in the charge submitting appellant’s contention that she had no knowledge of the alcoholic beverages or liquor being in the automobile she was driving because, instead of the customary instruction that the defendant should be given the benfit of a reasonable doubt, the instruction concluded “then you will give the defendant the benefit of your said belief or doubt and acquit her and say by your verdict ‘not guilty.’ ”
+If this be error, it was harmless.
+Other claims of error have been considered and are overruled.
+The judgment is affirmed.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+(dissenting).
+Appellant is not shown to have violated the statute upon which this conviction rests.
+From the standpoint most favorable to the state, the undisputed evidence shows that appellant borrowed and used an automobile to transport intoxicating liquors from Clovis, New Mexico, to Littlefield, Lamb County, Texas. The arresting officers testified to their knowledge thereof.
+Accompanied by three other persons, appellant drove to Clovis, New Mexico, where a large quantity of beer and other intoxicating liquor was loaded into the car, and then returned to Lamb County, where she was apprehended by the officers and a search of the car was made.
+The state introduced in evidence the liquors so recovered and read from and introduced the labels on the bottles. There were no stamps on any of the liquors evidencing the payment of the tax due the State of Texas.
+Under such state of facts, appellant was charged with unlawfully transporting liquors into Lamb County, a dry area, with punishment assessed at three months in jail and a fine of $500. Such offense is made unlawful by subsection (b) of Art. 666-4, Vernon’s P. C., which is the general statute prohibiting transportation of intoxicating liquor in a dry area in this state.
+The information did not allege the quantity of intoxicants being transported.
+The sufficiency of the evidence to authorize the conviction is presented for determination.
+The legislature of this state has enacted special legislation touching the importation and transportation of intoxicaing liquor from another state, included within which legislation is Art. 666-8, as amended in 1957. Such article reads as follows:
+“Importation
+“It shall be unlawful for military personnel stationed in Texas or any resident of the State of Texas to import into this state more than one (1) quart of liquor unless he is the holder of a permit as provided in Section 4(a) hereof. It shall further be unlawful for any non-resident of the State of Texas to import into this state more than one (1) gallon of liquor. In addition to the penalties set out in Section 41 of this Act, any person violating any provision of this section shall forfeit the liquor so illegally imported to the Texas Liquor Control Board. It is further provided that any person importing any liquor into this state under the provisions of this section shall pay the state tax thereon as levied in Section 21, Article 1, Texas Liquor Control Act, and affix thereto the required State Tax Stamp.”
+By plain and direct language the legislature, by that statute, has said that it is unlawful only for one to transport into this state from the State of New Mexico “more than” a quart of liquor.
+Such unlawful and lawful transportation of liquor is limited only to the payment of the tax thereon.
+The necessary import of that statute, then, is that a citizen of Texas may transport into this state from another state a quart of liquor upon which the tax due the State of Texas has been paid.
+Such is the construction required by Art. 666-23a, which says that “ * * * any resident of the State of Texas may bring into this state not more than one(l) quart of liquor for his own personal use.”
+In addition to the foregoing statutes, the legislature has by special statute (Art. 666-17, subsection 20) made it unlawful for any person to “transport into this State from any place outside the State any liquor, in containers to which have not been affixed the proper State tax stamps * * * .”
+By regulatory and tax-levying statutes, the legislature has controlled and regulated the interstate transportation of liquor. Such statutes have no reference to the wet or dry status of the area of transportation and must be construed as controlling over a general statute prohibiting, absolutely, the transportation of liquor.
+To accord to those statutes any other construction would be to make unlawful the same act by separate statutes with different penalties applied to a violation thereof.
+To further regulate the importation and transportation of liquor across the state line the legislature, by Art. 666-27, subsection (a), made it unlawful to transport into this state any liquor “unless the person accompanying or in charge of such shipment shall have present and available for exhibition and inspection” what is commonly called a “manifest.”
+The statutes cited all point to but one conclusion, which is that the legislature never intended that Art. 666-4, prohibiting the transportation of liquor in a dry area, should have any application to our control of liquor transported across the state line — which transportation constitutes interstate commerce.
+The regulatory statutes cited make no distinction whatsoever between wet and dry areas. The provisions thereof apply to both areas. Being special and covering special conditions, those statutes are therefore controlling over the general statute. In other words, the special or regulatory statutes would have no meaning if the transportation of all liquors across the state line was prohibited.
+To obviate the general prohibition of liquors in interstate commerce, therefore, the legislature enacted the regulatory statutes mentioned.
+As was pointed out in Gordon v. State, 166 Tex. Cr. R. 24, 310 S. W. 2d 328, affirmed by the Supreme Court of the United States in 355 U. S. 369, 78 S. Ct. 363, the power of the legislature over the moving of intoxicants in interstate commerce was limited to the regulatory provisions of the statutes and could not amount to a prohibition and resultant burden upon interstate commerce.
+All of this leads to the only conclusion which to me seems possible, which is that, under the facts stated, the prosecution, here, cannot be maintained under Art. 666-4, which prohibits the transportation of liquors in a dry area. This prosecution is maintainable only as a violation of the applicable regulatory statutes mentioned.
+The affirmance of this case destroys the commerce clause of our Federal Constitution in so far as the transportation of liquor in interstate commerce is concerned and constitutes to this appellant a denial of due process of law.
+The conviction should be reversed.
+I respectfully dissent.
