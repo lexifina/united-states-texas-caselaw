@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3692"
+decided: "1907-03-06"
+citations: ["51 Tex. Crim. 143"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tom Holland v. State."]
+source_url: "https://static.case.law/tex-crim/51/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4552089
+cites_cases: ["38 Texas Crim Rep., 14"]
+---
+
+# Holland v. State
+
+## Majority (HENDERSON, Judge.)
+
+HENDERSON, Judge.
+Appellant was convicted of violating the local option law, and prosecutes this, appeal.
+The same questions are presented in this case which were decided, to-day, in Holland v. State, cause No. 3700. In accordance with the propositions of law announced in said case, we hold that the election was valid and the certificate of the county judge was sufficient to put local option into effect in Hunt County, Texas.
+There is another question in this case which was not raised in the . above case. The information here was in the ordinary form, charging appellant with violating the local option law, and the conviction was for violating the local option law. The facts show without controversy that the whisky was sold by appellant to one Nicholson; that he was sick and bought the whisky from appellant on the prescription of Dr. C. E. Coker. Said' defendant was engaged in the business of selling intoxicating liquors in local option territory, to wit: Hunt County, and that his license was of date January 13, 1906, and on the 14th of April, 1906, he was served with notice by the County Judge of Hunt County that his bond as a retailer of intoxicating liquors in local option territory had been sued on for the full amount thereof, and that it was in danger of being exhausted and that he was required to file another bond at once. That this sale took place, as stated, on the 22d of April, 1.906, and that a new bond was filed by appellant on the 28th of April, 1906; that the prescription of the physician was regular in form, and that the prosecutor Nicholson was actually sick and bought the whisky on said prescription. The question as presented is, was this an offense against the local option law of Hunt County? Article 405, Penal Code, as amended by laws of 1903, page 55, defines and prescribes a punishment for any one violating the prescription law in a local option territory, but this conviction was not for violating said law. It appears to have been apprehended by the State that article 5060j of the Civil Code, as amended (see White’s Annotated Penal Code of Texas, addenda 1901, page 51), furnishes authority for this conviction; that is, we find in said provision, that for violation of the prescription law in certain particulars, the bond of a liquor dealer, in local option territory can be sued on, and it is further provided “if said bond shall be exhausted or become in danger of being exhausted by suits, said person, firm, corporation, or association of persons, shall be required to execute another bond; notice of such requirement shall be given by the county judge of the county, and such parties shall have ten days after notice to comply, and upon failure to do so, shall be subject to all the pains and penalties from the time such notice was given as if no bond had been given in the first instance.” There are a number of other provisions in said amended article 5060j not necessary to be here stated, but we presume it is contended by the State that because of the failure to give this new bond, appellant, though engaged in the sale of intoxicating liquors in local option territory on prescription and selling under a prescription of a regular physician, would somehow be amenable to a violation of the local option law. We do not think so. Our constitution does not embrace sales of intoxicating liquor for medicinal purposes in local option territory. See article 16, section 20, Constitution of Texas, and Bowman v. State, 38 Texas Crim Rep., 14. The Legislature, in accordance with the constitutional provision above cited, has eliminated sales of liquor for medicine and has regulated the sale thereof, and has made penal the violation of such regulations. As above stated, this was a sale bv apellant under a prescription regular in form by a practising physician, and acting under a license which had not been repealed or annulled, and also under a bond which had not been annulled, but the sale was made after notice of the county judge that his bond was in danger of being exhausted. There is no statute so far as we are aware making this a penal offense, much less subjecting a party to a violation of the local option law. Under our system of jurisprudence, before a person can be convicted of an offense, there must be some statute defining such offense and making it penal.
+Because the evidence here shows that appellant was not guilty of any offense under our law, the judgment is reversed, and the cause remanded.
+Reversed and remanded.
