@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,195"
+decided: "1962-01-31"
+citations: ["171 Tex. Crim. 685"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bellvin J. Anthis v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0685-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2633183
+cites_cases: ["161 Tex. Cr. R. 53", "162 Tex. Cr. R. 206", "274 S.W. 2d 712", "283 S.W. 2d 946"]
+---
+
+# Anthis v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for driving while intoxicated; the punishment, 5 days in jail and a fine of $200.
+The state’s evidence shows that on the day in question, two automobiles collided at the intersection of North 6th Street and Waco Drive West in the City of Waco. After the collision one of the automobiles remained at the intersection and the other, a Chevrolet panel truck, was driven from the scene to where it stopped after traveling several blocks. Appellant was identified by the witness, Tadlock, whose place of business was located near the scene of the collision, as the driver of the Chevrolet truck. When taken into custody, appellant stated to the arresting officer, that he was the driver of the truck at the time of the collision and admitted that he had had “a few beers.” Three police officers, who observed appellant after he was taken into custody, testified that he smelled strongly of alcohol; that he was thick “tongued”, his speech was incoherent; that he had difficulty in walking and expressed their opinion that at such time he was drunk. A blood specimen taken from appellant after the collision, with his consent, upon being examined by Chemist and Toxicologist Eldon Straughan of the Department of Public Safety, was shown to have an alcohol content of .26%. The Chemist testified that such an alcoholic concentration in a person’s blood was indicative of drunkenness and that in his opinion the person from whom the specimen was taken was at the time intoxicated.
+As a witness in his own behalf, appellant testified that on the day in question he was passing through Waco, around noon, when he stopped to buy some medicine for a headache; that while in the drug store he met a man whom he had known, but did not remember his name; that he asked the man if he would drive appellant’s truck to Fort Worth and the man said he would; that after lunch, they got in the truck and the man drove while appellant got in the bade on a pallet. Appellant stated that he next remembered being awakened by the truck bumping on the street on a flat tire and when he got out of the truck the man who was driving was gone.
+The jury by its verdict accepted the testimony of the State’s witnesses and rejected that of the appellant and we find the evidence sufficient to sustain its verdict.
+The record contains no formal bills of exception and there are no objections to the court’s charge.
+No brief has been filed on behalf of the appellant.
+The statement of facts is in narrative form and appellant’s sole objection to testimony appearing therein may not be considered as an informal bill of exception under Art. 759a, V.A.C.C.P. Redding v. State, 161 Tex. Cr. R. 53, 274 S.W. 2d 712 and Bobbitt v. State, 162 Tex. Cr. R. 206, 283 S.W. 2d 946.
+The judgment is affirmed.
+Opinion approved by the Court.
