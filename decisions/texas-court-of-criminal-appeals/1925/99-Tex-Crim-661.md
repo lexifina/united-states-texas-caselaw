@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "8919"
+decided: "1925-04-15"
+citations: ["99 Tex. Crim. 661"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. C. Morgan v. The State."]
+source_url: "https://static.case.law/tex-crim/99/cases/0693-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5094888
+cites_cases: ["204 S. W. 326", "219 S. W. 1102", "238 S. W. 232"]
+---
+
+# Morgan v. State
+
+## Majority (BAKER, Judge.)
+
+BAKER, Judge.
+The appellant was charged by information in county court of Victoria County with unlawfully and knowingly causing cattle and horses to go within the enclosed land of A. Yariger, without his consent, and was convicted of said offense on April 7, 1924, and his punishment assessed at a fine of $10.00.
+Prom which conviction appellant has appealed to this court 'for a reversal of the judgment below, assigning as errors the court’s action in refusing his motion to quash the information, the charge of the court, the court’s refusal to give his special charges Nos. 1, 2 and 3, the overruling of his motion in arrest of judgment, and the insufficiency of the evidence to sustain the conviction.
+Under the law, this court is unauthorized to consider any complaint raised to the court’s general charge or its refusal to give the special charges mentioned, ’ for the reason that the record fails to show any written objections filed and presented to the court’s general charge, and there is nothing in the record to show that the special charges were presented to the court within the time required by law. Articles 737 and 737-a, Vernon’s C. C. P. The decisions construing said articles, Barrios v. State, 204 S. W. 326, and Nichols v. State, 238 S. W. 232, require the appellant to file written objections to the general charge^ if any complaint he has thereto, and present his special charges to the pourt, before the general charge is read to the jury and the argument has begun, and not thereafter.
+Prom our view of the record there is only one question raised necessary for our consideration of this case, and that is the sufficiency of the evidence to authorize a conviction.
+This prosecution is based upon Art. 1240, Vernon’s P. O., and in the ease of Bray v. State, 219 S. W. 1102, and the authorities therein cited, this court, in construing this statute, states that the ease was tried upon the assumption and the theory that the alleged owner of the fence was the rightful or legal owner of the land on which the fence was situated, and therefore entitled to possession, and not upon the theory of the actual possession of the fence and the land, and the court states:
+"The question of title or ownership is not the pivotal question in a case of this character. A party may be entitled to the land, may be the rightful owner, yet, if he is not in actual possession of the fence alleged to be cut, but the party accused of cutting the fence is in such possession, under Article 1240 of the Penal Code, the accused could not he subject to prosecution.”
+And also further states:
+“One party may be the owner and entitled to possession, but this cannot be adjudicated under the article above mentioned, and the pivotal question upon which this character of case turns is the actual possession of the fence alleged to be injured. If the alleged owner was in actual possession of it, and the accused cut the fence, the accused would be brought within the terms of the law. The question is one of actual possession of the fence alleged to be injured. * * * * The evidence, therefore, must be confined to possession rather than to ownership”-and cites numerous authorities in support of this doctrine.
+The undisputed evidence in this case shows that the appellant had rented the premises in question from the prosecuting witness, Yariger, said rent contract had expired a few days before the alleged offense, but he was in the actual possession of the premises at the time of the alleged violation of the law, and that the prosecuting witness was not in possession of same but was seeking to obtain possession thereof, which seems to have brought about the controversy which was the basis for the prosecution.
+Under the Bray case, supra, we are of the opinion that the evidence in the case is wholly insufficient to warrant a conviction, and the judgment of the lower court is therefore reversed and remanded.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
