@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,355"
+decided: "1955-01-19"
+citations: ["161 Tex. Crim. 207"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nick F. Botello v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2467221
+cites_cases: ["157 Texas Cr. Rep. 414", "160 Texas Cr. Rep. 284", "160 Texas Cr. Rep. 296", "249 S.W. 2d 612", "268 S.W. 2d 459", "269 S.W. 2d 395"]
+---
+
+# Botello v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is indecent exposure; the punishment, 15 years.
+Prosecutrix, a nine-year old girl who lived in the southern part of the city of Austin, testified that on the day in question she and her seven-year old brother Melvin were returning from a filling station in the neighborhood of her home where they had bought some ice cream when they passed a building where she noticed the appellant dressed in painter’s clothes; that they asked him where the man was who had the black dog, and the appellant replied that he was not there and further told them that he was there alone. She testified that she and her brother stayed there in the building watching the appellant paint; that the appellant asked her brother to go to the filling station and bring him a Coca-Cola; that while Melvin was gone the appellant kissed her twice, asked her if she liked him, and she told him she did not. She stated that when her brother returned the appellant continued with his painting and they continued to watch; that sometime later the appellant asked them if they wanted a drink; that she wanted to go with her brother to get soda water, but the appellant persuaded her not to go, and while Melvin was gone the appellant opened his britches, pulled out his private parts and asked her, “Do you want to play with it?” and she said, “No”; that he fastened his pants; that Melvin returned with the soda water, ■ and they drank it. She stated that sometime later Melvin left to return the bottles; that she started to go with him, but the appellant again instructed her to remain with him; that while Melvin was gone this time the appellant held her, pulled down her blue jean shorts and pants and kissed her between the legs; that she broke away from him, pulled her pants back up, and shortly thereafter appellant’s boss drove up. She stated that they stayed a while longer and then went home.
+Prosecutrix’ brother Melvin corroborated his sister’s testimony as to the trips for the Coca-Cola and the other details of what transpired while he, the appellant, and his sister were together.
+Prosecutrix’ mother testified that on the day charged in the indictment the prosecutrix made a report to her at the first opportunity and that she, in turn, called the police.
+J. C. Lankford, appellant’s employer, testified that the appellant was employed at the building described by the children alone on the day charged in the indictment and that when he went to the building shortly after noon the two children who had testified on the trial of this case were there.
+Appellant, testifying in his own behalf, admitted that prosecutrix and her brother had visited with him at work on the day in question and admitted buying them soda water, but denied any improper acts toward prosecutrix. He admitted that he had been convicted in the State of New Mexico for forgery and passing and in Texas for swindling with a worthless check.
+Appellant’s brief is directed principally to the- question of the competency of prosecutrix and her brother as witnesses. Both were given a thorough voir dire examination by the court, the district attorney, and counsel for the appellant. This type of case gives this court some of its greatest concern and receives the most careful scrutiny. Recently, in Hines v. State, 160 Texas Cr. Rep. 284, 268 S.W. 2d 459, we said “We have before us the entire testimony of the child. From this we can determine whether her testimony is logical and probably true.” In this respect we have the advantage over the trial judge who must rule on the competency of a witness before his testimony is given. As illustrative of prosecutrix’ testimony in the case at bar, we cite the folowing example. She was examined in question and answer form by the prosecution. Defense counsel took her on cross-examination, and, under his direction, she gave her account in narrative form. She was then asked how many times she had given the prosecution staff her account of what had happened to her. She answered that she had told it once to one prosecutor and twice to another, identifying them. She was then asked if her testimony on the trial was exactly as she had told them prior to the trial. She replied that she had forgotten to tell the prosecutors about the pencil box in appellant’s tool bag about which she had just testified. We read the testimony of few adults who are as accurate.
+We have concluded that the trial court ruled correctly in holding the prosecutrix competent to testify.
+Appellant contends that the trial court erred in refusing to charge the jury that the prosecutrix was an accomplice. It is not shown that appellant’s objections to the charge were ever presented to the trial court or that he acted upon them. Be that as it may, the facts of this case show no wilful participation in any unlawful act on the part of the prosecutrix and show an immediate outcry as soon as she got to her mother, which is a stronger state of facts than we had before us recently in Mackey v. State, 160 Texas Cr. Rep. 296, 269 S.W. 2d 395.
+Complaint is made about the proof of the act of fondling which occurred after the exposure charged in the indictment on the ground that this constituted an extraneous offense. What we said in Gephart v. State, 157 Texas Cr. Rep. 414, 249 S.W. 2d 612, disposes of this contention.
+Finding no reversible error, the judgment of the trial court is affirmed.
