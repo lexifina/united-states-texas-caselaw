@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "18987"
+decided: "1937-05-26"
+citations: ["133 Tex. Crim. 3", "106 S.W.2d 319"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Patton v. The State."]
+source_url: "https://static.case.law/tex-crim/133/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5230880
+cites_cases: ["124 Tex.Cr.R. 368", "61 S. W. (2d) 829", "61 S.W.(2d) 829"]
+---
+
+# Patton v. State
+
+## Majority (LATTIMORE, Judge. —)
+
+LATTIMORE, Judge. —
+Conviction for murder; punishment, death.
+We find in the record no bill of exceptions in any way challenging the jurisdiction of the trial court, though from the complaint in appellant’s brief the question appears to have been presented. The case was tried in Ellis County, Texas, on change of venue from Henderson County, Texas. While the record shows that the order changing the venue was made by the judge of Criminal District Court No. 2 of Dallas County, it is recited in the order that said judge was sitting for Judge Ben F. Dent, Judge of the Third Judicial District of Texas, in which Henderson County is located, — and in the absence of some valid objection properly presented and certified we take it the proceedings were entirely regular. The order changing the venue recites that the venue was changed to Ellis County, Texas, “Being agreeable to both the State and defendant, and was selected at their suggestion.”
+Appellant’s bill of exceptions No. 1 relates to misconduct of the jury based on supposed discussion by members of the jury, while in retirement, of appellant’s failure to testify. Examination of the facts sworn to by the jurors brought before the trial court in support of the motion for new trial, makes plain that there was no such discussion as would call for reversal. One of. the jurors, who said he was the last man to agree to the death penalty, swore that at one time he said he would have been glad had appellant taken the stand. He further said, however, he was promptly reproved by other members of the jury who reminded him they were not to consider the fact that appellant did not testify. This juror in common with others affirmed that this was the only reference to the failure of the accused to testify, and no one affirmed that such failure was weighed by them or considered against appellant. We regard the matter as a mere reference to the failure of the appellant to testify, and that no discussion thereof was shown.
+Bill of exceptions No. 2 complains of the refusal of a requested instruction for a verdict of not guilty, the ground of which was that the evidence was not sufficient to show that Carrie McGehee, the decedent, came to her death by violent means or by means alleged in the indictment. Such a motion calls in review the entire facts of the case. We have gone over same as carefully as we could and are of opinion that the motion was properly refused.
+This is a case in which deceased, her husband, and two small children disappeared about Thanksgiving of 1932. It was in testimony that the McGehee family, consisting of the above, moved to appellant’s house in October, 1932; that they were seen alive and apparently well on Monday night prior to Thanksgiving day of 1932, and one witness testified that on Tuesday before Thanksgiving about nine o’clock he was passing the Patton house and saw all the McGehee family. They disappeared and no one knew what became of them for several years. We need not go into the gruesome details. Appellant went with a Texas ranger and other persons to his place in the early part of 1936, and disclosed to said parties a place near his house, digging into which disclosed the body of Mr. Mc-¡ Gehee, on top of which was the body of his wife, decedent in this case, and across their bodies were the remains of their two small children. In the same hole was found a piece of iron pipe which fitted into a long dent in the head or skull of deceased. Appellant told the parties that they would find this pipe in the grave with the bodies, and also a large rock which was found. The remains were positively identified, and it was in testimony that the skull of the woman was so indented by the use of the pipe referred to as to make it evident that she was killed by a blow from said pipe. The appellant did not take the stand and testify. There was very little evidence offered in his behalf, chiefly that of some of his neighbors who testified to his good reputation.
+The case was submitted to the jury upon the law of circumstantial evidence. We have no doubt of the sufficiency of the testimony to support the verdict.
+Finding no error in the record, the judgment will be affirmed.
+Affirmed.
+
+## Rehearing (CHRISTIAN, Judge. —)
+
+ON APPELLANT’S motion for rehearing.
+CHRISTIAN, Judge. —
+The only question presented in the motion for rehearing is the alleged misconduct of the jury in discussing appellant’s failure to testify.
+Appellant insists that the original opinion is incorrect in stating that only one juror was shown to have referred to the fact that appellant did not testify, and that this juror was promptly reproved by other members of the jury. We were in error in our statement that such mention was made by only one juror. Juror Eaton testified that he and another juror stated, in effect, that they would have been glad if the appellant had testified. However, we think the original opinion correctly states that these jurors were promptly reproved. On this point it is observed that the juror Eaton was asked the following question: “When you made that statement did anybody say anything to you about it?” He answered: “I don’t remember whether they did or not. It came into my mind that it couldn’t be held against him.” Juror Dillard, testifying for the appellant, stated that two or three jurors had something to say about the fact that the defendant failed to testify. However, in connection with this statement, he said: “All I remember about it was that one of the men asked the question T wonder why Mr. Patton did not testify himself’ and another said T don’t know why, but we are not supposed to take that into consideration.’ ” He also testified that he (Dillard) remarked “It didn’t make any difference; we are not supposed to consider that.” Juror Corley, testifying for appellant, said that he heard the fact mentioned that appellant did not testify. We quote his language as follows: “I do not recall who it was. It might have been just two or three of us.” He testified further that when the remark was made he made the statement that the matter must not be considered.
+The State introduced five jurors, all of whom testified that they did not hear any reference made to appellant’s failure to testify.
+We think the testimony of the jurors placed on the stand by appellant warranted the conclusion of the trial judge that the failure of the appellant to testify was mentioned by two jurors, and that they were promptly rebuked. Under the circumstances, we are of opinion that the trial judge did not abuse his discretion in overruling the motion for a new trial. We quote from Mullins v. State, 61 S. W. (2d) 829, as follows:
+“It is also well settled that when such conduct is made an issue before the trial court, his determination of same will be upheld by us except there appear an abuse of his discretion. In such case the jurors are before the trial court, who is in a great deal better position than we are to pass on their testimony in case of conflict. We have here three jurors, two for the state and one for the defense, who affirm the fact of only one mention of the failure of appellant to testify, and that of a casual nature, and that such mention was promptly rebuked. We have, on the other hand, two jurors affirming that such failure was mentioned two or three times, one of these declaring that at each mention of the matter someone would object to the consideration of same. We are of opinion that the record discloses no abuse of the discretion of the trial court in this regard.”
+The motion for rehearing is overruled.
+Overruled.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
