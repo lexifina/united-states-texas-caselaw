@@ -1,0 +1,52 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,779"
+decided: "1957-01-30"
+citations: ["164 Tex. Crim. 589"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chester Root v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0589-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610969
+cites_cases: ["157 Texas Cr. Rep. 91", "162 Texas Cr. Rep. 603", "246 S.W. 2d 633", "288 S.W. 2d 113"]
+---
+
+# Root v. State
+
+## Majority (DICE, Judge. WOODLEY, Judge.’)
+
+DICE, Judge.
+The conviction is for unlawfully injuring a fence; the punishment, a fine of $10.
+The notice of appeal herein appears only as a docket entry upon the trial court’s docket and is not shown to have been entered of record in the minutes of the court. -
+Art. 827, Vernon’s Ann. C.C.P., provides that such notice shall be given in open court and entered of record and it has been repeatedly held that a docket entry is not sufficient. Martinez v. State, 157 Texas Cr. Rep. 91, 246 S.W. 2d 633; and Keilmann v. State, 162 Texas Cr. Rep. 603, 288 S.W. 2d 113.
+In the absence of a notice of appeal properly entered of record, this court is without jurisdiction of the appeal.
+It further appears that the bail bond which is shown to have been executed by the appellant on appeal is not conditioned as required by Articles 830 and 831, Vernon’s Ann. C.C.P.
+The appeal is dismissed.
+Opinion approved by the Court.
+ON APPELLANT’S MOTION TO REINSTATE APPEAL
+WOODLEY, Judge.’
+The record having been perfected, the appeal is reinstated.
+There are no formal bills of exception and no objections or exceptions to the court’s charge.
+The statement of facts is in narrative form and does not purport to contain all of the evidence adduced at the trial.
+In the state of the record there is nothing before this court for review.
+The judgment is affirmed.
+
+## Rehearing
+
+ON APPELLANT’S MOTION FOR REHEARING
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+Being of the opinion that the information in this case is fundamentally defective, I cannot agree to the affirmance of the case.
+The information reads as follows :
+“Thomas W. Creighton, County Attorney of the County of Palo Pinto, State of Texas, at this -the September Term, A.D. 1956, of said Court, comes in behalf of the State of Texas and in connection with the complaint of Mrs. Henry Hester, herein filed, presents, in and to said county court that in said county and state, on or about the 20th day of September, A.D. 1956, Chester Root did then and there unlawfully break, pull down, and injure the fence of Henry Hester without the consent of the said Henry Hester.”
+It will be noted that nowhere is it stated therein that the information is presented in and to the county court of any county or in any court having jurisdiction of the offense set forth.
+County courts and justice courts, both, have jurisdiction of the offense charged in the instant information.
+Art. 414, C.C.P., provides that in order to be sufficient an information must show — among other things: “That it appear to have been presented in a court having jurisdiction of the offense set forth.” See, also, Davis v. State, 2 Texas App. 184, and Thornberry v. State, 3 Texas App. 36.
+Without such allegation, the jurisdiction of the court has not been invoked. It is impossible from this information to know in what court this prosecution was begun and instituted.
+It is apparent, here, that the trial court was not shown to have jurisdiction to try this cause or to enter the judgment of conviction.
+The information being fundamentally defective, this conviction should be set aside and the prosecution ordered dismissed.
