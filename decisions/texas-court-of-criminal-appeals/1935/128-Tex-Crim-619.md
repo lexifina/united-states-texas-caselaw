@@ -1,0 +1,50 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "17534"
+decided: "1935-04-24"
+citations: ["128 Tex. Crim. 619", "82 S.W.2d 377"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. A. Littleton v. The State."]
+source_url: "https://static.case.law/tex-crim/128/cases/0619-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5254007
+cites_cases: ["102 Tex. Cr. R. 181", "102 Texas Crim. Rep., 181", "104 Tex. Cr. R. 358", "104 Tex. Cr. R. 386", "104 Texas Crim. Rep., 358", "104 Texas Crim. Rep., 386", "277 S. W. 387", "277 S. W., 387", "283 S. W. 796", "283 S. W., 796", "284 S. W. 556", "284 S. W., 556"]
+---
+
+# Littleton v. State
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+The offense is assault to murder; penalty assessed at confinement in the penitentiary for two years.
+It is charged that appellant made an assault upon Mable Littleton. The prosecutrix was the wife of the appellant.
+Mable Littleton testified that she and her husband (the appellant) had separated. She and her children were living at her brother’s house. She was contemplating a suit for divorce. Upon the day of the alleged offense, appellant stated that he would kill her if she entered suit for a divorce. As she was starting to town, the appellant appeared in his automobile and assaulted her. He got an iron spring which was among the tire tools in his automobile. According to the prosecutrix, the spring was about fifteen or eighteen inches long, as wide as her three fingers and as thick as her little finger. The spring was made of metal.
+The sister-in-law of the prosecutrix was present and asked appellant what the trouble was. He replied: “I am a crazy-killer. I am going to kill Hable. Go and call the law.”
+The prosecutrix testified further that appellant ran upon an embankment and took hold of her. He had the instrument mentioned in his hand and attacked her with it. He struck at her and she fell. Her sister-in-law had gone to call the police. Appellant said: “You had better call her back. If she calls the police I will kill you and her both.”
+According to the prosecutrix, the appellant struck her on the head with the instrument mentioned and knocked her unconscious. While she was lying on the ground, she heard her little boy say: “Oh, daddy’s going to run over you. Get out of the way.”
+She had sufficient consciousness to roll to one side. She remembered nothing after that until she was in the ambulance.
+On cross-examination the prosecutrix described the quarrel and misunderstanding between her and her husband. The recital is long and is not deemed necessary to the decision of the case.
+The doctor who examined the prosecutrix stated that while the prosecutrix was on the operating table he found two gashes in her scalp. One wound was on the back of the head on the right side, and the other was right over the left ear. Each wound was about three or four inches long. The doctor made no examination to determine if any bones were fractured. The injuries were such as had been inflicted by a blow from some hard instrument. The wounds went through the scalp but produced no fracture. The doctor gave the opinion that with the tool described a man of the weight of appellant could inflict a wound which would produce death. The doctor testified: “If he (appellant) had intended to kill her he could have done so if he had hit her with such an instrument.”
+The witness, Ruby Gossett, sister-in-law of the prosecutrix, testified that appellant drove his car to her house and then drove it upon an embankment. The witness asked: “Jimmy, what is the matter with you?” Appellant replied: “I am just a crazy killer. Go call the law, they are going to be fifteen minutes too late.” The witness then said: “That’s what I am going to do.”
+She turned around and saw appellant hit at the prosecutrix and the iron stuck in the ground. The witness called the police and the Emergency Hospital, and came back to the prosecutrix, who was lying in the middle of street and bleeding very much. The witness said to the appellant: “Jimmy, you have killed her. She is just lying up there.” Appellant replied: “If she don’t, I will come back and kill her.”
+Additional testimony of the character of that set out above was introduced by the State.
+Several witnesses were introduced on behalf of the appellant. Clifford Garrison testified that he saw appellant on the morning of the occurrence and that he appeared to be in good humor. He told the witness that he had to go to his home and take some money to his little son. Other witnesses testified to the good reputation off the appellant as a peaceable and law-abiding citizen.
+Appellant presented no specific denial of striking the blow described by the prosecutrix but denied the intent to kill her. He introduced several witnesses and also testified» himself to the effect that his wife frequented a dance hall and spent a great deal of time there in dancing with men; that on the day of the occurrence he had received a message from his young son requesting money with which to buy school books. Appellant related the conversation with his son and also with his wife about the same time, which conversation was had over the telephone. She warned him not to come to the house. She told appellant that she did not want to see him. She said she was going to town about 9:30 or 10:00 o’clock and appellant waited until noon, when he thought she would not be at home. He went there for the purpose of complying with his son’s request for money to buy school books. Appellant did not expect to see his wife. When he saw her on the embankment where the encounter took place, he was surprised. According to his testimony, he told her that he would only remain long enough to give the money to his boy and to kiss his little daughter. He indicated that he would take his wife to town. She replied that he did not have to take her as she had a way to go. He then saw waiting for her an automobile of a certain number which he recognized. At the automobile was a man who had been the dancing partner of the prosecutrix. Appellant claimed that his wife frequented dance halls and would dance with other men; that she would drink intoxicants rather heavily. Appellant related a previous incident which almost resulted in an automobile accident. However, its relevancy is not apparent. Appellant’s testimony is in substance to the effect that he remonstrated with his wife about her dissipation and unusual conduct. He related circumstances to the effect that his wife was seeking an opportunity to institute suit for a divorce, and had remarked that she was glad that he made the assault upon her as it gave her the opportunity which she desired. He claimed that when he saw the man, who had been dancing with him wife, in the automobile his mind became- inflamed. He claimed that he had not been drinking; that he had no recollection of striking his wife; that he would not say it did not happen, but that his mind was so disturbed by the circumstances under which he found himself and the conduct of his wife that he had practically lost control of his faculties.
+There was testimony to the effect that appellant was in the habit of drinking intoxicating liquor.
+No bills of exception are found in the record.
+The motion for new trial presents several complaints. The motion is controverted by the State in writing and under oath. The second paragraph of the motion complains of a remark of State’s counsel. The third paragraph complains of the failure to give appellant the requisite number of peremptory challenges. The fourth paragraph deals with alleged newly discovered evidence to the effect that the instrument with which the prosecutrix was struck was not an iron bar but, if anything, was a small wooden stick. The sixth paragraph complains because the penalty assessed by the jury is excessive. The seventh paragraph relates to the remark of State’s counsel which is as follows: “If this defendant is turned loose or gets free, he will murder Mabel Littleton and his children.”
+The eighth paragraph challenges the sufficiency of the evidence to show an intent to commit murder.
+In the first paragraph of the State’s answer to the appellant’s motion for new trial it is claimed that the case was brought in the proper court. The second paragraph deals with a question propounded to the appellant while on cross-examination as a witness in his own behalf. The third paragraph is controverted in detail, and the averment in the appellant’s motion is not supported by bills of exception.
+It is manifest from the motion for new trial and the answer thereto that the question of newly discovered evidence is not properly before this court. Each of the appellant’s complaints in the motion for new trial was controverted by the State. None of the contentions raised are based upon bills of exception authenticated by the trial court. Any conflict in the conclusion stated in the motion and the controverting affidavit of the State would on appeal be resolved in favor of the action of the •trial court in overruling the motion for new trial.
+On the record before us, we have no choice but to order' an affirmance of the judgment, which is accordingly done.
+Affirmed.
+
+## Rehearing (HAWKINS, Judge.)
+
+ON MOTION FOR REHEARING.
+HAWKINS, Judge.
+In appellant’s motion for rehearing we are asked to consider an affidavit of appellant’s wife which is attached to the motion. It should be plain to everyone that this is a reviewing court, and we can only consider those things which are made a part of the record in the trial court. Affidavits or statements made a part of briefs or motions in this court will not ordinarily be considered. Bratton v. State, 102 Texas Crim. Rep., 181, 277 S. W., 387; Overley v. State, 104 Texas Crim. Rep., 386, 283 S. W., 796; Horne v. State, 104 Texas Crim. Rep., 358, 284 S. W., 556.
+The motion for rehearing is overruled.
+Overruled*
