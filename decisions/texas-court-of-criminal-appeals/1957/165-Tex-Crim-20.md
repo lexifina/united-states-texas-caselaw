@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,059"
+decided: "1957-05-29"
+citations: ["165 Tex. Crim. 20"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edmond J. Watkins v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611237
+cites_cases: ["157 Texas Cr. Rep. 598", "159 Texas Cr. Rep. 618", "161 Texas Cr. Rep. 550", "162 Texas Cr. Rep. 322", "163 Texas Cr. Rep. 141", "163 Texas Cr. Rep. 250", "164 Texas Cr. Rep. 125", "252 S.W. 2d 163", "266 S.W. 2d 879", "279 S.W. 2d 331", "284 S.W. 2d 901", "289 S.W. 2d 291", "290 S.W. 2d 518", "297 S.W. 2d 157"]
+---
+
+# Watkins v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is driving while intoxicated; the punishment, 3 days in jail and a fine of $50.00.
+Highway Patrolman Angle and the witness Hobbs, who was riding with Angle on the night in question, both testified that late that night they observed an automobile which they were meeting weave across the center stripe and off on the shoulder of the road, that they turned around and gave pursuit and were finally able to bring the appellant to a halt. Between the two of them, they described the appellant’s condition as “staggering,” “weaving,” “thick tongued,” “glassy eyed,” “smelling of whisky,” and expressed the opinion that both the appellant and his wife, vzho was in the automobile with him, were intoxicated. The officer recovered a pint bottle of whiskey from the appellant’s coat pocket and found a fifth of whiskey in the back seat. According to these witnesses, the appellant told them as he was being questioned at the scene and at the time of the arrest “that he had had quite a bit to drink.”
+The appellant did not testify in his own behalf but called several of his business' associates, who testified that they had never seen the appellant drink or get intoxicated. Appellant’s wife explained that she had a health condition which was benefited if she consumed a small quantity of whiskey each evening. She stated that she and the appellant had been to the Jaycee Club in Odessa, where she took a drink from the whiskey bottle while the appellant drank two beers. She denied that either of them was intoxicated on the occasion in question but admitted that she entered a plea of guilty for drinking following their arrest on this occasion.
+The jury resolved the conflict in the evidence against the appellant, and we find it sufficient to support their verdict.
+We shall discuss the contentions advanced in appellant’s brief which find support in the record. We are unable to appraise those which are merely stated in the brief.
+He contends that venue was not proven. No issue was raised in the tidal court, and hence we are to presume that venue was proven. Article 847, V.A.C.C.P., and Dickey v. State, 162 Texas Cr. Rep. 322, 284 S.W. 2d 901.
+We find the information in substantially the same terms as set forth in Willson’s Criminal Forms, 6th Edition, Section 1111, and it is not subject to the objections urged by the appellant.
+Appellant complains of the introduction into evidence of the bottle of whiskey found in the appellant’s coat. Appellant’s contention that it was inadmissible has been decided adversely to him in Cornelius v. State, 157 Texas Cr. Rep. 598, 252 S.W. 2d 163. The notations placed on the bottles by the arresting officer do not appear in the record. For this reason, we are unable to say that Powdrill v. State, 159 Texas Cr. Rep. 618, 266 S.W. 2d 879, has application here. For the information of the appellant and the law enforcing fraternity, it is recommended that ordinarily the identifying label placed upon evidence seized state no more than the name of the accused, the date, and the officer’s initials.
+Appellant’s complaint as to the proof of his wife’s state of intoxication has no merit. Andrews v. State, 161 Texas Cr. Rep. 550, 279 S.W. 2d 331.
+Appellant’s statement to the officer' made at the time of his arrest was admissible as part of the res gestae. Cline v. State, 163 Texas Cr. Rep. 141, 289 S.W. 2d 291.
+Clearly, the highway patrolman was qualified to give an opinion as to the appellant’s state of intoxication. Mozley v. State, 163 Texas Cr. Rep. 250, 290 S.W. 2d 518.
+No error is reflected by the certificate that the state’s attorney read the court’s charge to the jury. Quinn v. State, 164 Texas Cr. Rep. 125, 297 S.W. 2d 157.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment of the trial court is affirmed.
