@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "10035"
+decided: "1926-03-24"
+citations: ["103 Tex. Crim. 585"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clarence Mumphrey v. The State."]
+source_url: "https://static.case.law/tex-crim/103/cases/0585-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5116508
+cites_cases: ["231 S. W. 113"]
+---
+
+# Mumphrey v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Appellant was convicted in the district court of Cottle County of murder, punishment fifteen years in the penitentiary.
+Appellant, John Hollings and two negro women occupied a room. Deceased was one of said women and was cut in the shoulder by appellant, from the effects of which wound she died. The theory of the state as deduced from its witnesses was that appellant and the woman indulged in mutual abuse and crimination, at the end of which appellant caught up a butcher knife from a table and cut the woman in the shoulder. Appellant’s theory was that the two women in the room, each with a long bladed knife, attacked him and that in self-defense but without any more intent than to cut deceased enough to compel her to desist from her attack upon him, he used the knife and inflicted the wound.
+The chief complaint appearing in the record is of the refusal of the trial court to submit the issue of manslaughter. The court did submit the law of aggravated assault, basing same upon the proposition, viz: that if the jury had in their minds a reasonable doubt as to whether the knife used from its character, etc., was a deadly weapon, and had a reasonable doubt as to whether defendant intended to kill deceased, then they should find him guilty of aggravated assault.
+We are not able to persuade ourselves that appellant should not have been given the benefit of a charge on the issue of manslaughter. He asserted that what he did was in self-defense, and against a knife attack by the said woman. John Hollings, the other man in the room at the time of the cutting, was used as a state witness and testified that both the women owned long bladed knives, and that deceased had her knife in her hand at the time appellant cut her, but asserted that the knife was°not open at the time. It is without dispute that the parties had been quarreling, cursing and abusing each other. Appellant testified that he was excited. There is no question but' that he was angry. Nothing in the record suggests that there had been previous difficulties between appellant and deceased who had only known each other a short time. The jury may have rejected the theory that the knife was not a deadly weapon, and may have refused to believe that appellant did not intend to kill, but may have found from the testimony before them, had they been given an opportunity to so find by the charge of the court, that there was adequate cause to produce in the mind of appellant such a degree of rage, anger, resentment, etc., as to render it incapable of cool reflection and in that condition of mind the killing took place. Lewis v. State, 231 S. W. 113.
+Believing the court should have submitted the issue of manslaughter, and from his refusal so to do appellant may have suffered injury, the judgment is reversed and the cause remanded.
+Reversed and remanded.
