@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,062"
+decided: "1954-11-10"
+citations: ["161 Tex. Crim. 620"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gordon Smith v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0620-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2466097
+cites_cases: ["242 S.W. 2d 381"]
+---
+
+# Smith v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted for the murder of Susana Martinez under Art. 802c, Vernon’s Ann. P.C.; the punishment, two years in the penitentiary.
+The state’s testimony shows that appellant, while intoxicated and driving his automobile upon a public highway at a fast rate of speed, turned to his left-hand side of the highway and struck the Martinez automobile approaching from the opposite direction, the collision resulting in the death of Susana Martinez and four other Martinez children, who were passengers in said automobile. The driver of the Martinez automobile was unable to identify appellant as the driver of the other automobile.
+Appellant did not take the witness stand but offered a witness who testified that she smelled intoxicating liquor on the breath of Lucas Martinez at the hospital soon after the wreck.
+It is contended that the evidence is insufficient to show that appellant was intoxicated at the time of the collision.
+The state’s proof shows that appellant bought and drank some whiskey “about noon” on the day in question. Later, between 2 and 3 p.m. that day, he had whiskey on his breath and, from their observation of appellant, several of the state’s witnesses expressed the opinion that he was intoxicated. It was further shown that he had a “sweet odor to his breath” at the hospital soon after the collision. This evidence is sufficient to warrant the jury finding that appellant was intoxicated at the time of the collision.
+Appellant strenuously insists that there is no direct evidence that he was driving the automobile that collided with the Martinez automobile and that the trial court erred in failing to charge the jury on circumstantial evidence.
+The state’s testimony shows that appellant was driving his automobile at noon on the day in question, later that day appellant was in said automobile at a filling station in Muleshoe; that about “ten or fifteen minutes” after he drove his automobile from the station alone, a witness there heard sirens and ambulances and went to the scene of the collision and there saw the same automobile that appellant drove from the station.
+The state further proved that the first persons to the scene of the wreck found appellant lying on his back on the ground with his feet up in the Chevrolet automobile and that they didn’t see any other person in or near the Chevrolet automobile at the time they arrived.
+Also, the ambulance driver arrived at the scene of the collision soon after it happened and found appellant under the left-hand door of his automobile with his feet “in the floor board on the driver’s side.”
+When the facts proven are in such close juxtaposition to the main fact to be proved as to be equivalent to direct testimony, a charge on circumstantial evidence is not required.
+We are of the opinion that the facts proved by the state constitute direct evidence that the appellant was driving his automobile at the time and place in question and the submission of a charge on circumstantial evidence was not required. Landry v. State, 156 Texas Cr. R. 350, 242 S.W. 2d 381.
+We And the evidence sufficient to support the verdict of the jury.
+Appellant contends that the court erred in his charge because it placed the burden on him to prove that he was operating his automobile in the same manner as a sober person would have operated it under the same circumstances, and again erred therein by assuming that there was an accident which was a comment on the weight of the evidence.
+The court, in his main charge, instructed the jury upon the law of presumption of innocence and reasonable doubt, made application of the law to the facts of the case and, among other matters, required the jury to find beyond a reasonable doubt that even though appellant was intoxicated and operating said automobile, if they found from the evidence that he was operating said automobile in the same manner as a person not intoxicated would have operated it, or if they had a reasonable doubt thereof, to acquit him.
+We think that the charge did not improperly place the burden of proof, as contended by appellant.
+Appellant’s objections to Paragraph 8 of the charge were that it conveyed to the jury the opinion of the court that accused’s intoxication resulted in the death of Susana Martinez and is a comment upon the evidence. Said paragraph submits the converse of this matter and charges the jury that the same must be found beyond a reasonable doubt before they can convict, therefore no error is shown.
+Complaint is made of the introduction of certain pictures of the automobiles involved in the collision. It was shown by the person taking the pictures that they were taken soon after the wreck and correctly depicted the positions of the automobiles and their condition at that time. We think they were properly identified and were admissible in evidence.
+The judgment of the trial -court is affirmed.
+Opinion approved by the Court.
