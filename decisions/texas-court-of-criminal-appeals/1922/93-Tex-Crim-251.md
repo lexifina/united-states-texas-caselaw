@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "7156"
+decided: "1922-11-22"
+citations: ["93 Tex. Crim. 251", "247 S.W. 533"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Yohner v. The State."]
+source_url: "https://static.case.law/tex-crim/93/cases/0251-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5033628
+cites_cases: ["116 U. S., 616", "192 U. S. 1067", "192 U. S. 585", "192 U. S., 585", "219 S. W. 463", "219 S. W. Rep., 463", "225 U. S., 313", "231 S. W. 769", "231 S. W. Rep., 769", "247 S. W. 524", "255 U. S., 208", "80 Texas Crim. Rep., 632", "86 Tex. Cr. R. 539", "86 Texas Crim. Rep., 539", "89 Tex. Cr. R. 493", "89 Texas Crim. Rep., 489"]
+---
+
+# Yohner v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Appellant was convicted in the District Court of Floyd County of the offense of transporting intoxicating liquor, and his punishment fixed at confinement in the penitentiary for a period of two years.
+Appellant was charged by indictment containing six counts with the transportation of intoxicating liquor and also with the possession of intoxicating liquor for the purpose of sale. There was no election had and a general verdict of guilty was returned upon which the judgment was entered.
+The facts showed that appellant, accompanied by a garage man and a boy, was seen driving a car in Floyd County as testified to by a number of witnesses. At one place where the parties stopped a witness testified that he was invited by both men in the car to partake of liquor which they said they had in the car. Another witness testified that appellant invited him to partake of liquor which they had in the car. Other witnesses testified that at a certain point an axle of the car was broken and while the party of occupants were working over the car and trying to fix it, it was discovered that on the front seat there was a quantity of liquor, and when officers looked into the car they found several gallons of liquor covered up by a quilt, between the seats of the car, and another lot of said liquor under the back seat. It was in testimony by several witnesses that appellant at that time was considerably under the influence of intoxicants.
+By his bills of exception Nos. 1, 3 and 5-A appellánt complains of the testimony of certain officers to the effect that they found the whisky in the car at the place wnere the accident occurred. In our view of the matter the admission of this testimony presents no error. The officers had no search warrant but none seemed to be necessary. There was no sort of objection to the officers looking into the car, nor to their finding or taking possession of the contraband liquor. The possession of such liquor for the purpose of sale as well as the transportation of it is a violation of the law. There was no unreasonable search or seizure such as is contemplated or forbidden by the terms of our State or Federal Constitutions. We do not think one whose car is full of contraband liqupr which is in process of transportation and part of which is being consumed by such party, is in position to invoke shelter or aid from the Constitution, whose only guarantee is against unreasonable searches and seizures, as against officers or other parties who look into such car in the presence of the accused without objection and without force, and without any fraud or threats appearing to be used in furthering such investigation. We think one who is in possession of the fruits of a crime, or the means or instrument with which crime is committed, for the fruits of which crime or for which instrument or means only, a search is had which is shown not to be over the objection of the accused, and not to be accompanied by the use of any force or fraud or threats, should not be permitted to interpose an imaginary objection that such search was in violation of some sacred personal right. Much less do we believe that when such search reveals the fact that in the possession of the accused is found such fruits of the crime, or the means or weapon with which some crime is committed, and the objection is offered to the testimony of the fact of such possession, that such objection is tenable. Welchek v. State — opinion this day handed down; Rippey v. State, 86 Texas Crim. Rep., 539, 219 S. W. Rep., 463; Thielepape v. State, 89 Texas Crim. Rep., 489-491-493, 231 S. W. Rep., 769; Adams v. State, 80 Texas Crim. Rep., 632, 192 U. S. 1067.
+We do not think testimony of the fact that appellant was drunk or was under the influence of intoxicating liquor would be immaterial in a case such as the one before us. The law permits possession and transportation of liquor for mechanical, scientific, medicinal, etc., pur-poses. The fact that one in possession of liquor or transporting same was using it for beverage purposes and drinking it and under the in-fluence of it, would have force in rebutting any presumption that he was possessing or transporting same for one of the excepted purposes.
+Appellant’s bill of exception No. 5 complains of the refusal of a requested charge the substance of which was that if appellant pos-sessed the quart of whisky found on the front seat of the car, or was transporting it for certain purposes, that he should be acquitted. There is no evidence in the record calling for a different charge ap-plicable to.whisky found on the front seat of the car from that found in the other parts thereof. Appellant took the stand and emphatically' denied responsibility for or connection with any of the liquor in said car. It is not necessary that a charge should be given presenting a defensive theory which rests upon no fact in evidence.
+We think the evidence sufficient to support the verdict. Appellant testified that the other man in the car with him and who lived some miles distant from him, employed him on the occasion in question to drive him in a car across the country some distance and agreed to pay him $25 and his expenses for making the trip. Appellant disclaimed knowledge of the presence of liquor in the car until he said his passen-ger produced a bottle from his pocket from which he and appellant took some drinks. He admitted that he knew there was something in the back of the car covered with quilts but said he did not know what it was. These matters were for the jury. The car belonged to appel-lant; he was cognizant of the fact that he was transporting liquor therein, and also of the fact that the liquor so transported was being used for beverage purposes by himself and his passenger.
+We think the facts-support the conclusion of guilt, and an affirmance is ordered.
+Affirmed.
+
+## Rehearing (HAWKINS, Judge.)
+
+ON REHEARING
+January 17, 1923.
+HAWKINS, Judge.
+The correctness of one statement, which is wholly immaterial, contained in our original opinion is challenged. Ap-pellant was not accompanied by a garage man and a boy, but by one J. A. McCanley. The fact that appellant insists in his motion for rehearing, as well as in oral argument, that the evidence is insufficient, has caused us to again examine the facts closely. Appellant’s defense was that he had no knowledge of the presence of any whisky in his car when he started on the unfortunate journey that culminated in his arrest. This issue was submitted to the jury in a special charge prepared by his attorney. The issue was settled against appellant by the only tribunal authorized to determine questions of fact. We fact. We would be unwarranted in saying the jury was without evidence upon which to base their finding.
+Our duty clearly calls for the overruling of the motion for rehearing.
+Overruled.
