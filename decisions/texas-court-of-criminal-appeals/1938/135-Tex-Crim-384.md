@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "19833"
+decided: "1938-10-26"
+citations: ["135 Tex. Crim. 384", "120 S.W.2d 592"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. C. (Blackie) Morris v. The State."]
+source_url: "https://static.case.law/tex-crim/135/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5223270
+cites_cases: ["101 Tex.Cr.R. 622", "101 Texas Crim. Rep. 622", "108 Tex.Cr.R. 218", "276 S. W. 921", "276 S.W. 921", "299 S. W. 897", "299 S.W. 897", "41 A. L. R. 1527", "41 A.L.R. 1527"]
+---
+
+# Morris v. State
+
+## Majority (Graves, Judge.)
+
+Graves, Judge.
+Appellant was charged with the theft of one head of cattle, and upon a conviction was awarded a penalty of two years in the penitentiary.
+Appellant complains in his bill of exceptions No. 1 of the court’s refusal to grant to him a second continuance of this case because of the absence of certain witnesses who had been present at the prior term of the court when this case had been called for trial. This motion was overruled, and the cause went to trial without the- presence of said witnesses. At the conclusion thereof, the district attorney filed a written statement in which he agreed that if certain of the witnesses were present they would testify as set out in appellant’s motion, and that their testimony was true. This testimony thus agreed to did not relate to an alibi, but to another and different phase of the case. There was a further witness whose absence was a part of the basis for such motion, a Mrs. Effie Siddens, who was desired to be used to testify relative to an alibi, and to a contradiction of an admitted accomplice, and it appears that the district attorney refused to agree relative to her testimony, possibly under the doctrine that her testimony would have been but cumulative of that of other witnesses who had testified to such an alibi for appellant.
+The doctrine relative to cumulative testimony not being sufficient to demand the granting of a motion for a continuance seems not to apply to alibi testimony, and that of itself should be no reason for its denial.
+In Richardson v. State, 299 S. W. 897, we said:
+“The fact that the evidence is cumulative where it is sought to establish an alibi is no reason for its exclusion. The greater the number of witnesses to the facts establishing an alibi, the stronger ordinarily would be the reliance upon, and conviction of, its truth. See Baimonte v. State, 101 Texas Crim. Rep. 622, 276 S. W. 921, 41 A. L. R. 1527, and authorities cited.”
+Bill of exceptions No. 2 goes to the sufficiency of the evidence, and complains of the court’s failure to peremptorily instruct the jury to bring in a verdict of acquittal because there was no corroboration of the confessed accomplice in the theft. The theft complained of was established by the testimony of Cecil Davis, who had been previously convicted of this same offense, and was serving a term in the State prison therefor. This witness had been convicted and sentenced to four terms in the penitentiary prior to this conviction. This witness claimed that he, Aldie Thomas and appellant, on the night of April 1, 1937, met' at appellant’s house in Stamford, in Jones County, and planned to go into Baylor County and steal this cow. That the next night all three of them went to Baylor County in appellant’s car, and did steal this cow, and all three brought her to appellant’s home and put her in the lot there. That witness was to receive one-fourth of the proceeds from the cow’s sale, but never did receive it.
+Appellant denies any connection with the theft, but does state that on the morning of April 2d he was at Grandpa Bruce’s house, and Aldie Thomas came up and said that he had a cow he wanted to sell appellant, that he had certain obligations to meet, and he needed the money. Appellant and Thomas finally got in Thomas’ car and drove about twelve miles out in the country to Floyd Turman’s, where the cow was supposed to be, and they found that the cow had gotten out of the lot, but later they found her, and appellant claims to have bought her, of at least an interest in her, from Aldie Thomas. He then had her butchered and sold three-fourths of the meat and kept the balance.
+The only testimony that connects the appellant with this taking is that of the accomplice Davis, who swears that appellant furnished the car and was present with them on the trip to Baylor County, where the theft occurred, and with them on the return trip to Stamford, where the cow was left in appellant’s lot.
+In the statement of facts there appears the following:
+“Now comes the State by and through her district attorney and says if the following witnesses, to-wit, Grace Thomas, Floyd Turman, Mrs. Floyd Turman, Garland Turman and Orval Turman, if present, would testify as set out in defendant’s motion for continuance, to the facts therein set out by each of the above witnesses, which the State admits that said witnesses would testify if present, and that said testimony of each of the above witnesses is true, said testimony being as follows, as set out in said motion:
+“The witness, Grace Thomas, if present, would testify that she was at defendant’s home on the night of April 1st and 2nd, 1937, the time of the alleged theft, and that same was in Stamford, Texas, and that Aldie Thomas nor Cecil Davis were there:
+“That the witnesses, Floyd Turman, Mrs. Floyd Turman, Garland Turman, and Orval Turman, if present, would testify that on the morning of April 2nd, 1937, that they lived about twelve miles from Stamford, Texas, and that Auldie Thomas came to their house with a cow that was afterwards alleged to have been stolen by the defendant; that another person was with the said Thomas but the defendant was not there and they did not see him on that occasion; that all transactions concerning the said cow was had with the said Thomas; that this happened about daylight on the morning following the night the said cow was alleged to have been stolen.”
+We thus see that according to the State’s admission there was no meeting of the three — Thomas, Davis and appellant— at appellant’s house in Stamford, as testified to by the accomplice Davis. We also find that the testimony of the Turmans, agreed to by the State’s attorney as true, would be that on the morning of the alleged theft Aldie Thomas and another person, unknown to them, but known not to be the appellant, left this stolen cow in the Turman lot, and that appellant was not present with such persons. The State also admitted that this testimony, if given, was true.
+We therefore say that we are unable to find any corroborative testimony to that of the confessed accomplice that tends to show the connection of appellant with this taking. We also find that the State has admitted that the accomplice’s testimony itself is not true relative to the meeting at appellant’s home, as well as the transportation of the stolen animal.
+Under the circumstances and admissions the court should have granted appellant’s request for an instructed verdict.
+The judgment is reversed and the cause remanded.
