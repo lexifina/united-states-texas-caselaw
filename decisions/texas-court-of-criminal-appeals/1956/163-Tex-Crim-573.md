@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,554"
+decided: "1956-11-07"
+citations: ["163 Tex. Crim. 573"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. L. Henderson v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0573-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461128
+cites_cases: ["157 Tex. Cr. R. 363", "160 Tex. Cr. R. 642", "170 S.W. 2d 735", "248 S.W. 2d 744", "275 S.W. 2d 673"]
+---
+
+# Henderson v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is driving while intoxicated; the punishment, 60 days in jail and a fine of $100.00.
+Officers Heath and Smith testified that they observed the appellant as he was driving upon the highway and noticed that his automobile “went off the side of the road” and stirred up dust and that it “wobbled” to either side of a straight line. They stated that when they brought his automobile to a halt they concluded from his actions and demeanor that he was intoxicated and placed him under arrest.
+The appellant, testifying in his own behalf, admitted having drunk two beers earlier in the afternoon.
+The jury resolved what disputed issue there may have been in the evidence against the appellant, and we find the evidence sufficient to support their verdict.
+The sole question presented for review is the action of the trial court in overruling the appellant’s motion for new trial based upon alleged jury misconduct.
+The supporting affidavit recited that a statement was made during the deliberations that the appellant had been indicted for the instant offense and the case had been “dismissed for some reason or other” and that drunk driving was happening all too frequently in Yoakum County and that if they (the jury) “were going to stop it they had better start now by assessing a heavy punishment and not so much money.”
+We must determine if the trial court erred in overruling a motion with such an affidavit attached thereto without hearing evidence thereon. In doing so, we are to assume that such allegations are true and that nothing further transpired during their deliberations that was injurious to the appellant.
+We are at a loss to determine how the first statement could have been prejudicial. The appellant was then on trial upon an information signed by the county attorney. As a matter of law, neither an indictment nor an information is evidence of guilt. The fact that the grand jury of the county had returned an indictment against the appellant charging him with the same offense and that the same had been dismissed for “some reason or another” would tend, we think, to counterbalance each other in the jury’s mind.
+We move on to the question of the discussion concerning strict enforcement of the law as a means of eliminating frequent violations thereof.
+With respect to whether or not statements are outside the record, there is much similarity between discussions among jurors during their deliberations and argument of the prosecutor.
+This court has often held that pleas for the enforcement of the law through severe penalties in the prosecution argument were proper. In Williams v. State, 145 Tex. Cr. Rep. 634, 170 S.W. 2d 735, this court referred to Article II of the Penal Code, which says, “The object of punishment is to suppress crime and reform the offender.” The statute under which the appellant was prosecuted authorized confinement in jail and a fine as punishment. It was permissible for one juror to argue with his colleagues as to what type of punishment they should assess.
+Finding no reversible error, the judgment is affirmed.
+
+## Concurrence (WOODLEY, Judge,)
+
+WOODLEY, Judge,
+concurring.
+The trial court did not err in declining to hear testimony in support of appellant’s motion for new trial for the reason that the matters complained of occurred, if at all, in the jury room during the deliberations of the jury and there is no affidavit of a juror or other person in position to know the facts to support the motion for new trial, and no showing why such an affidavit could not be secured and made a part of the motion. Valdez v. State, 157 Tex. Cr. R. 363, 248 S.W. 2d 744; and other authorities cited in my dissenting opinion in Moore v. State, 160 Tex. Cr. R. 642, 275 S.W. 2d 673.
+I concur in the affirmance of the conviction.
