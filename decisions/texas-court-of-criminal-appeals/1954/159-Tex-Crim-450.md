@@ -1,0 +1,42 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,697"
+decided: "1954-02-24"
+citations: ["159 Tex. Crim. 450"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. Barnes v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2478397
+cites_cases: ["110 S.W. (2d) 61", "115 Tex. Cr. R. 519", "133 Tex. Cr. R. 250", "142 Tex. Cr. R. 150", "151 S.W. (2d) 205", "154 Tex. Cr. R. 448", "157 Tex. Cr. R. 192", "157 Tex. Cr. R. 27", "227 S.W. (2d) 817", "246 S.W. (2d) 211", "247 S.W. (2d) 1022", "28 S.W. (2d) 151"]
+---
+
+# Barnes v. State
+
+## Rehearing (GRAVES, Presiding Judge.)
+
+ON MOTION FOR REHEARING.
+GRAVES, Presiding Judge.
+The original opinion herein handed down on January 13, 1954, is withdrawn and the following substituted therefor:
+Appellant was convicted for unlawfully transporting whisky in a dry area, and his punishment was assessed at a fine of $500.00.
+It was stipulated that San Augustine County was a dry area.
+Sheriff Tindall testified that on March 27,1953, he saw appellant driving an automobile which he followed several blocks until it stopped in a driveway between two houses; that he walked up to the driver’s side of the car and could smell liquor in the car; that he told appellant to get out and he searched the car. He further testified that he found several small bottles of gin under the seat, and a case of whisky and a case of wine in the back of the car, which he produced in court; the county attorney opened the cases of whisky and wine and offered all in evidence. He also testified that he had not opened, tasted nor smelled the contents of the bottles; that one bottle was labeled “Log Cabin Whiskey”; that he thought the bottles in the other case contained wine, but he had not tasted nor smelled of same; that he had not tasted nor smelled the contents of the bottles in the paper sack, but thought they contained gin.
+Manse Mitchell, Deputy Sheriff, testified that he was with Sheriff Tindall when they walked up to the side of appellant’s automobile on March 27, 1953, and that he could smell liquor from inside the car. He further testified:
+“I saw a paper sack in between the seats, and I could tell there were some bottles in the sack. I took the sack out. I also saw a bottle of wine on the front seat. I could smell liquor on several of the people in the car.”
+He further stated that he did not open any of the bottles in the two cases, but in regard to the bottles in one case, he testified: “It says on each one ‘California Wine,’ ” and he testified in regard to the other case, “I have not opened any of the bottles, but it says on each one ‘Old Log Cabin Whiskey.’ ”
+Before the evidence was closed and while the jury was in the box, the county attorney opened one of the bottles of whisky, one of the bottles of wine, and one bottle of the gin. Then he passed each opened bottle to the jury for examination.
+Appellant complains of the action of the court in permitting the officers to testify as to what they found upon the search of appellant’s car on the ground that the officers were without a search warrant.
+The evidence reveals that the officers approached appellant’s automobile after he had stopped it in L. C. Reed’s driveway; that they smelled liquor from inside the car and on several of its occupants. Deputy Sheriff Mitchell testified that he saw a bottle of wine on the front seat and some bottles between the seats of the car. Upon these facts, the officers did not need a search warrant to search the car, and their testimony as to the results of the search was admissible. See Parker v. State, 142 Tex. Cr. R. 150, 151 S.W. (2d) 205; Ellison v. State, 154 Tex. Cr. R. 448, 227 S.W. (2d) 817.
+By Bill of Exception No. 1, appellant contends that the court erred in permitting the county attorney to open a -bottle each of whisky, wine and gin, and pass each of them to the jury to examine and determine whether they were intoxicating liquor, upon the ground that there was a controverted issue as to whether the liquor was intoxicating, and making witnesses of the jurors on a controverted issue.
+The evidence reveals that the unopened bottles in one of the cases found in appellant’s automobile were labeled “California Wine,” and the unopened bottles in the other case were labeled “Old Log Cabin Whiskey.” See Adair v. State, 157 Tex. Cr. R. 27, 246 S.W. (2d) 211; Ferguson v. State, 133 Tex. Cr. R. 250, 110 S.W. (2d) 61.
+Appellant did not testify and offered no evidence, making an issue as to the nature of the contents of the bottles introduced in evidence. The fact that the jury was called upon to examine the contents of each of three of the bottles, and, there being no evidence to controvert the nature of the same, as testified to by the state’s witnesses, there was no harmful error in the jury’s examination. See Sims v. State, 157 Tex. Cr. R. 192, 247 S.W. (2d) 1022, and cases there cited.
+Bill No. 2 complains that the jury were permitted to smell the contents of some of the bottles offered in evidence. Such would be harmless error if it were admitted that such bottles contained whisky, as alleged in the information. The statement of facts, approved by appellant’s attorneys, is replete with such statements as:
+“The witness brought into court and placed the case of wine, whiskey and gin on the floor in front of the jury. The cases had not been opened. The county attorney opened the case of whiskey and case of wine.”
+“* * * and the county attorney then introduced the whiskey, wine and gin in evidence.”
+“The County Attorney took a bottle of the whiskey, opened it and stated to the court in the presence of the jury * *
+“The County Attorney then opened a bottle of the whiskey * * *.”
+By approving such a statement of facts, the appellant removed any issue as to the contents of the bottles.
+We confess that we fail to see any serious error in allowing the jury to see, or to smell the contents of these labeled bottles. They were often spoken of as wine, gin and whiskey in the statement of facts, as agreed to by appellant’s attorneys, and the jurors were allowed to see such bottles and their labels and hear such statements. See Thompson v. State, 115 Tex. Cr. R. 519, 28 S.W. (2d) 151.
+Under the record as here presented, we are of the opinion that this cause should be afBrmed. Therefore, the state’s motion for rehearing is granted, the original opinion is withdrawn, and the judgment of the trial court is affirmed.
