@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,523"
+decided: "1958-02-05"
+citations: ["165 Tex. Crim. 540"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tomas Hernandez Lambrana v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0540-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2612927
+---
+
+# Lambrana v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the possession of marijuana; the punishment, 2 years.
+Officer Wuertenburg of the San Angelo police testified that, while on patrol on the day in question, he observed an automobile parked on the side of the road and a man named Gustavo Garza approaching the same from a mesquite flat adjacent to the road; that he brought his patrol car to a halt beside the automobile at about the time Garza got in the same, and as he did so he observed Garza throw a package out of the automobile and make “another motion with his hand.” He testified further that he went immediately to a spot three or four feet from, the automobile and there found a brown paper sack and “homemade like cigarettes” lying nearby. The appellant was the driver of the automobile. He then radioed for help, and the parties were carried to jail, where the automobile was searched and two cigarettes were found under the front seat on the driver’s side.
+The custody of the cigarettes and the sack were traced, and Chemist Beardsley of the Texas Department of Public Safety testified that he had examined a portion of each of the three cigarettes and of the contents of the sack and found them to contain marijuana.
+The appellant, testifying in his own behalf, stated that he had driven to the grocery store in his father’s automobile on the day in question and there met Gustavo, who asked for a ride home; that on the way and at the spot where he was arrested Gustavo asked him to stop the automobile, alighted, went out in the bushes, and had just returned to the automobile when the officer arrived. He stated that he had never had the sack or cigarette in his possession but answered, “I think he (Gustavo) threw them away” as the officer drove up. He stated further that he had no knowledge of the cigarettes which were found under the seat.
+The jury resolved what conflict there was in the evidence, and we find the same sufficient to support the conviction.
+We have not been favored with a brief, nor are there any formal bills of exception in the record.
+We do note that the appellant objected to a portion of Officer Wuertenburg’s testimony on the grounds that he was not qualified as an expert and that the court overruled the objection. However, the record is replete with references to the substance as being marijuana from other witnesses no better qualified than Wuertenburg. Beardsley, whose qualificatons were amply established, also testified on the question.
+Finding no reversible error, the judgment of the trial court is affirmed.
