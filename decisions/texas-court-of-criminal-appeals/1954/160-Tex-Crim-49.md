@@ -1,0 +1,87 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,790"
+decided: "1954-02-10"
+citations: ["160 Tex. Crim. 49"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. C. Massey v. State."]
+source_url: "https://static.case.law/tex-crim/160/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469327
+cites_cases: ["106 S. W. 2d 709", "132 Tex. Cr. R. 628", "152 Tex. Cr. R. 255", "213 S. W. 2d 541"]
+---
+
+# Massey v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for felony theft; the punishment enhanced by prior convictions having been fixed by the court at life imprisonment. Art. 63 P.C.
+J. T. Massey, the alleged injured party, operated the Massey Feed and Supply Company in Center, Texas, and the indictment alleged the theft of some 175 bags of poultry feed and 24 water troughs and valves, of the total value of $1028.25. The state, under such indictment, prosecuted for theft by false pretext.
+The evidence shows that appellant W. C. Massey, through a number of transactions, received from the Massey Feed and Supply Company some $10,000 worth of merchandise.
+Among such transactions was that of September 22, 1951, on which day appellant called and had a telephone conversation with J. T. Massey and indicated a desire to purchase merchandise such as is described in the indictment. The prosecuting witness advised appellant that he had not received payment for chickens which had been delivered to him on a prior occasion, to which appellant replied that a check to cover the prior order of chickens was in the mail and that he would send a check by his truck driver for the order he was then making.
+On the following day appellant sent his truck to the Massey Feed and Supply Company and sent by the driver a check for $408.00 which seems to have been in payment not for the chickens but for some feed previously purchased. The property described in the indictment was loaded on appellant’s truck.
+The prosecuting witness testified that he delivered the merchandise described in the indictment to appellant’s driver on September 23, 1951, believing and relying upon appellant’s statement that the check in payment for the prior order for chickens had been deposited in the mail. He testified also that he never received such check.
+The $408 check the truck driver brought was returned unpaid by the bank, but was thereafter paid off, but neither the merchandise described in the indictment nor the chickens were ever paid for.
+A warrant for appellant’s arrest was issued and John Hoyt, then chief deputy sheriff of Shelby County but at the time of the trial an agent of the Texas Liquor Control Board, testified that he found appellant in Mexico City, Mexico, about November 1, 1951, and advised him that he was wanted in Shelby County and attempted to execute the warrant, but was unable to do so.
+Hoyt testified that when he next saw appellant, about a year later, he was in jail at Center.
+W. E. Isbell, a deputy sheriff of Harris County, was in company with Hoyt and saw appellant in Mexico City. He arrested appellant in Dallas when he next saw him a year later in a Dallas hotel.
+There was evidence that on February 9, 1953, appellant escaped from the Henderson County jail. Also, appellant introduced evidence to the effect that he had been convicted in Rusk County for burglary of a private residence at night, felony theft, burglary, and aiding prisoners to escape from jail, and had been transferred to the penitentiary to serve concurrent sentences of 10 years.
+Other testimony will be discussed in connection with the various contentions of error. These contentions will be considered in the order in which they appear in the brief.
+Bills of Exception 3, 9 and 14 complain that certain officers, including Deputy Sheriff Isbell of Harris County and John Hoyt, Agen+ of the Texas Liquor Control Board, were excused from the rule, permitted to remain in the courtroom and to testify, though appellant asked that the rule be invoked and objected to such officers being excused.
+The court, in his qualification to Bill No. 3, “certifies that in his opinion then and now, the officers excused from the rule were needed by the court in view of the past reputation and information before the court that recently this defendant with the aid of others had commandeered the officers of the Rusk County jail, and with firearms effected an escape, that he had lost one leg in an effort to escape from the penitentiary in Mississippi, that he had been incarcerated in various penitentiaries, and that the defendant had made statements that he would never go to the penitentiary alive, and this, as well as other information, caused the court to feel that all officers in attendance were needed to carry on the trial and prevent the escape of the prisoner, . .
+Bills 9 and 14 show similar qualifications.
+As qualified these bills show no abuse of discretion on the part of the trial court in excusing all officers from the rule.
+Appellant next contends that the evidence shows no violation of a penal law because the property in question was obtained by appellant by purchase in due course of trade and on credit.
+In this connection, appellant stresses that there were some thirteen sales by the injured party to appellant during a period of some 10 or 12 days, all being evidenced by invoices introduced in evidence, though payment was made for only one load. Appellant insists that the injured party merely sold the goods on credit, which fact is further evidenced by his having filed a civil suit against appellant and recovered judgment for value of the merchandise described in the indictment, as well as the merchandise delivered on other occasions. No part of the judgment has been satisfied, however.
+The invoices were offered in evidence and show a check mark under the heading “CHARGE,” and not under “CASH” or “COD.”
+The injured party testified that under his business method, the invoice was marked charge until the driver paid and returned the invoice and that he did not at any time extend a line of credit to appellant.
+In view of the testimony of the prosecuting witness that he did not extend credit but delivered the property described in the indictment solely in reliance on the false statement that a check for the previous delivery of chickens had been mailed, and the other testimony above mentioned, we conclude that there is sufficient evidence to support the jury’s finding that appellant acquired the property by means of false pretext and with intent to approximate it to his own use, and that he did so appropriate it.
+Appellant urges that the trial court erred in declining to give his requested charge to the effect that he should be acquitted if he bought the property.
+The court in his charge instructed the jury in part as follows:
+“7. You are further instructed that if you believe that the defendant did not have the intent, at the time that he obtained possession of the property in question, if he did so, to appropriate the same to his own use and benefit, or did not use a false pretext at the time he obtained said property, or that he did not appropriate the same to his own use and benefit, you will acquit the defendant; or if you have a reasonable doubt thereof, you will acquit the defendant.
+“8.' You are further instructed that if you believe that the defendant, W. C. Massey, took the property, if he did, without any fraudulent intent, or without any false pretext, as that term has been defined herein, then you will acquit the defendant; or if you have a reasonable doubt thereof, you will acquit him.
+“9. You are further instructed that if the defendant, W. C. Massey, when he took the property in question, had no fraudulent intent .at the time, but took the property in question with no fraudulent intent, and with a view of paying for the same, you will acquit the defendant; or if you have a reasonable doubt thereof, you will acquit the defendant.”
+These instructions found in the court’s charge appear to adequately present the defense suggested.
+The next contention is that the prosecuting witness should not have been permitted to testify as to his telephone conversation with appellant because prior to the conversation he had never met the defendant in person, and met him for the first time more than a year later.
+The prosecuting witness was positive in his identification of appellant’s voice.
+Whether he heard the voice for the first time in the telephone conversation or in personal contact is immaterial. The personal contact which becomes the basis for identification of a telephone voice may be subsequent as well as prior to the telephone conversation. The appellant seems to concede this but only where the personal meeting occurs soon after the telephone conversation. We know of no reason why the time of the personal meeting should enter into the question of the admissibility of the testimony, though it might well affect its weight.
+Proposition No. 5, the complaint as to the sentence, will be answered by reforming the sentence so as to read that appellant has been adjudged guilty of felony theft and by striking out the attempted cumulation with the Rusk County sentence.
+As shown in a supplemental transcript, the indictment is not subject to the objection next briefed.
+The next complaint is directed to the overruling of appellant’s first application for continuance based upon the absence of W. E. Warwich, an employee of appellant, who was shown to be in the state of Michigan.
+The motion was controverted as to diligence and the court qualified the bill.
+The trial date was July 13, 1953, and the qualifications to the bill show that in April 1953 the case was called, at which time in open court appellant’s counsel was advised as to the whereabouts of the witness Warwich, and the state agreed with said attorney to waive all formalities for the taking of his deposition.
+The qualifications further certify that no attempt was made by appellant’s counsel to take the deposition, and that there was no showing that the witness would ever be available at any subsequent term of the court.
+We are unable to agree that the trial court was in error in overruling the motion for continuance.
+In this connection, we note that the absent witness does not appear to have been present or to have furnished an affidavit as to the testimony he would have given when appellant’s motion for new trial was overruled on August 6, 1953.
+Proposition 8 questions the sufficiency of the evidence identifying appellant as the defendant in the prior convictions alleged for the purpose of enhancing the punishment.
+Frank Travis, California lawyer and deputy district attorney for Imperial County, testified that he prosecuted the California case alleged in the indictment, and he identified appellant as the defendant therein in the following testimony.
+“The information alleges that the people of the State of California vs. William Massey, defendant, and it is filed by the District Attorney, signed by myself, and is docketed No. 4760; dated November 8th, 1948. I know the defendant named in that information; and I was present when the case was tried. As to whether I saw the man that was tried in that case, I will state that I saw the man when he entered his plea of guilty as charged in the information. That man is the man that is sitting in the chair that I am pointing out with my hand.”
+Edwin B. 0. Smith identified appellant as the defendant in the Arizona case in the following testimony:
+“I know the defendant, W. C. Massey. I had occasion to see W. C. Massey on the 11th day of June, 1934; I saw him first on the 5th day of March, 1934. The next time I saw him was during the trial. This defendant was tried in the Superior Court of Maricopa County, in the State of Arizona for a felony offense. I am unable to tell you when the trial started; I was in the Court when he was sentenced, and can’t clearly tell you truthfully what part of the trial I was in there except the day he was called to be sentenced.”
+Chief Deputy Sheriff Lee Reynolds of Copiah County, Mississippi, testified:
+“While serving as deputy sheriff I became acquainted with the defendant, W. C. Massey. I was holding the court room when he was tried in the court in Mississippi where I was. I was present when this defendant was tried in this case. That is the same W. C. Massey that was tried in our court under the name of Albert Karam, alias William Masseeh, alias William Massey, in Cause No. 8680. ... I was present in Court when this defendant was tried and convicted in this case; I was the court room officer. This man here, W. C. Massey, was the same man that was tried in our court.”
+We conclude that appellant was sufficiently identified as the defendant in such prior convictions.
+It was stipulated that the prior offenses alleged in the indictment were committed in the order of time alleged and that convictions were had upon the dates alleged.
+According to the testimony, the amount involved in the California prosecution was $3000, in the Arizona case more than $50. The indictment in the Mississippi case alleged that the property feloniously obtained by false pretenses was of the value of $780.
+It is not necessary that the offense in the foreign state be identical in all its elements with one punishable as a felony in this state, a substantial similarity being sufficient. 24 C.J.S., Sec. 1960, p. 1152.
+We have concluded that the testimony is sufficient to show that the offenses for which appellant was convicted were felony offenses in the states where the convictions occurred, and in substance were offenses which under the laws of this state could be prosecuted as theft by false pretext or swindling, and were therefore felonies less than capital under Texas law.
+We find the evidence sufficient to sustain the conviction.
+The sentence will be reformed in accordance with this opinion.
+As reformed, the judgment is affirmed.
+
+## Rehearing (DAVIDSON, Judge.)
+
+ON APPELLANT'S motion for rehearing.
+DAVIDSON, Judge.
+Appellant renews his insistence that the facts do not warrant the conviction. He insists that the facts show only the relation of debtor and creditor and that the false representation that a check was then in the mail to cover prior purchases and that he would send a check by the truck driver for the order he was then making did not alter or change the legal effect of the purchase, nor did it constitute such a false pretext as would authorize this conviction.
+Whether the facts show theft by false pretext or swindling need not be determined, for the state was authorized to maintain this prosecution for theft by false pretext upon facts which might also show swindling. Art. 1549, Vernon’s P. C.; King v. State, 152 Tex. Cr. R. 255, 213 S. W. 2d 541.
+So then if the facts show swindling — that is, the acquisition of personal property by some false pretenses with intent to appropriate the property so acquired (Art. 1545, Vernon’s P. C.), this conviction for theft by false pretext under Art. 1413, Vernon’s P. C., will be sustained.
+The correctness of appellant’s contention that the purchase of goods on credit does not constitute either theft by false pretext or swindling is not questioned.
+Here, the false representation by the appellant that he had already forwarded a check in payment of a prior credit purchase constituted such a pretext, when relied upon by the injured party in parting with his property, as would constitute swindling. Burck v. State, 132 Tex. Cr. R. 628, 106 S. W. 2d 709.
+We remain convinced that the facts warranted the conviction, and that a correct conclusion was reached originally.
+Other matters presented in the motion for rehearing but challenge our original conclusion, with nothing new presented in connection therewith.
+The motion for rehearing is overruled.
+Opinion approved by the court.
