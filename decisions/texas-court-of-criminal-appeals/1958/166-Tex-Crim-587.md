@@ -1,0 +1,86 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,634"
+decided: "1958-06-18"
+citations: ["166 Tex. Crim. 587"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James E. Cox v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2618351
+cites_cases: ["103 Texas Cr. Rep. 182", "104 Texas Cr. Rep. 210", "112 S.W. 299", "112 Texas Cr. Rep. 376", "112 Texas Cr. Rep. 659", "116 Texas Cr. Rep. 437", "122 Texas Cr. Rep. 571", "138 S.W. 598", "140 S.W. 2d 187", "140 Texas Cr. Rep. 159", "16 S.W. 2d 818", "164 Texas Cr. Rep. 422", "165 Texas Cr. Rep. 422", "18 S.W. 2d 181", "280 S.W. 798", "283 S.W. 850", "308 S.W. 2d 33", "34 S.W. 2d 250", "40 Texas Cr. Rep. 23", "48 S.W. 171", "50 Texas Cr. Rep. 364", "50 Texas Cr. Rep. 381", "54 Texas Cr. Rep. 149", "56 S.W. 2d 881", "62 Texas Cr. Rep. 545", "97 S.W. 474", "97 S.W. 98"]
+---
+
+# Cox v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for consenting to accept a bribe, with punishment assessed at two years in the penitentiary.
+The charge, as laid in the indictment, was to the effect that appellant, as a member of the House of Representatives of this state, at the Regular Session of the 55th Legislature, did, as such legislative officer, unlawfully, wilfully, and corruptly consent to accept a bribe in the sum of five thousand dollars from Howard Harmon to prevent the passage of a certain proposed piece of legislation then pending before the House of Representatives, in violation of his duty as a legislative officer.
+In the presentation of its case in chief, the state showed by the witness Harmon consent by the appellant to accept the bribe, substantially as alleged in the indictment.
+Appellant did not testify as a witness in his own behalf but, by other testimony, showed that he did not intend to accept a bribe or to keep the money offered and that his sole and only connection therewith was to entrap or expose Harmon as offering the bribe.
+In rebuttal of this defensive theory of innocent intent, the state introduced two witnesses, Shelton and Johnson.
+Shelton was interested in the passage of a certain legislation by the 54th Legislature of this state in 1955. Appellant was a member of the House of Representatives at that time and was co-author of the bill presenting that proposed legislation. During the session, the bill reached the point where it was of vital importance that it be called up for final passage. The witness testified that appellant made the statement that he would not bring the bill up until he received a thousand dollars. Shelton testified that he told the appellant that he would not pay him the one thousand dollars.
+The witness Johnson was also interested in the passage of the same,, legislation as was the witness Shelton, and she testified that appellant told her he was not going to bring the bill up until she and Shelton gave him a thousand dollars. The witness refused to make such payment.
+To this testimony appellant registered various objections, chief among which was that it was proving another and extraneous offense or transaction, that it was too remote, and that it was upon a collateral issue in the case.
+At the time this testimony was offered, the trial court orally instructed the jury that the testimony was limited to its consideration thereof upon the question of intent, if the same did, in fact, have any relation to or did show appellant’s intent. In his charge the trial court expressly limited the jury’s consideration of the testimony “for the purpose of showing, if it does, intent, if any, by or under which the offense, if any, alleged in this indictment was committed, if the same was committed, and for no other purpose.”
+In connection with that charge appellant insisted that if the testimony of the witnesses Shelton and Johnson was to remain with the jury over his objection and protest, then, in addition to the above limiting charge, the jury should also be instructed to the effect that in order to consider said testimony for any purpose it was first required to believe beyond a reasonable doubt that he (appellant) made the statements and committed the acts attributed to him by the witnesses Shelton and Johnson and unless it so believed it could not consider such testimony for any purpose.
+The trial court refused to so instruct the jury.
+The admissibility of the testimony of the witnesses Shelton and Johnson and the failure of the trial court to charge the jury as requested are matters of controlling importance.
+There is no question but that this court is committed to the correctness of the legal proposition that where other and extraneous offenses of the accused are admitted in evidence the accused is entitled to have the jury instructed that in order to give consideration thereto it must first believe beyond a reasonable doubt that he committed those offenses. Ernster v. State, 165 Texas Cr. Rep. 422, 308 S.W. 2d 33; Carden v. State, 62 Texas Cr. Rep. 545, 138 S.W. 598.
+But that rule applies only where the proof shows the commission of other offenses.
+The testimony of Shelton and Johnson showed a solicitation by the appellant of a bribe. At that time, (1955) however, it was not an offense under the statute law of this state for an officer to solicit a bribe.
+Such act was not made unlawful until the succeeding session of the legislature (1957).
+In his brief and in oral argument, counsel for appellant so contends and urges that solicitation of a bribe was not a penal offense in 1955.
+Appellant’s position, then, is (1) that the testimony of Shelton and Johnson was not admissible for any purpose, and (2) that, if admissible upon the issue of intent, the trial court should have limited that transaction before the jury the same as if the transaction was an offense.
+The question for determination is whether the testimony of said witnesses was admissible upon the main issue and entitled to the consideration of the jury without limitation.
+In that connection it is well to keep in mind that no necessity exists to limit testimony which goes to prove any of the main issues in the case. Thompson v. State, 116 Texas Cr. Rep. 437, 34 S.W. 2d 250; Lawrence v. State, 112 Texas Cr. Rep. 659, 18 S.W. 2d 181. Nor is it necessary to single out facts which tend to identify or connect a person with and for a crime and to separately charge thereon. Pink v. State, 40 Texas Cr. Rep. 23, 48 S.W. 171; Martinez v. State, 140 Texas Cr. Rep. 159, 140 S.W. 2d 187.
+The reason for limiting the effect to be given to the testimony is to prevent the jury’s use and appropriation — to the prejudice of the accused — of evidence which is not admissible, directly, to prove the main case. 24 Texas Jur., Sec. 97, at p. 582; Rice v. State, 54 Texas Cr. Rep. 149, 112 S.W. 299.
+Evidence which tends to prove the offense charged, or some material fact in connection therewith, is admissible regardless of the fact that it also shows the commission of other crimes. Turman v. State, 122 Texas Cr. Rep. 571, 56 S.W. 2d 881; Enix v. State, 112 Texas Cr. Rep. 376, 16 S.W. 2d 818; Underhill’s Criminal Evidence (4th Edition), Sec. 184; McCormick and Ray (2d Edition), Vol. 2, Sec. 1521.
+It is apparent, therefore, that a determination of the questions presented turns upon the admissibility of the testimony upon the main issue, provable by the state in support of its contention of guilt.
+If the testimony was admissible for that purpose, no limiting charge was necessary, or required.
+If the testimony was not admissible for that purpose, reversible error is reflected.
+We are not here dealing with a crime applicable to and capable of being committed by the public, in general. To the contrary, we are dealing, here, with a crime that is applicable to and can be committed only by a special class — that is, by officers of our three separate branches of government. In order for one to be able to commit the crime of bribery or consent to accept a bribe he must first be an officer of this government.
+Bribery comes to us from the common law, and consists of the prostitution of a public trust. It is a betrayal of public interest, and a debauchment of the public conscience. It affects the state or community at large without reference to the hurt or injury to any individual.
+In addition to our statutes upon the subject, our founding fathers wrote into the Constitution of this state a prohibition against bribery by the officers of this government and therein decreed that it was a violation of the Constitution for an officer of this state to solicit or consent to accept a bribe. Art. 16, Sec. 41, Const. of Texas.
+When the individual takes upon himself the burdens and duties of public office, he does so charged with knowing that his official conduct and the performance of the duties of his office are open to the public view and scrutiny. While it is the individual who performs the official acts, yet those acts — when done and performed — are those of the public official, as the servant of the people. Official acts of all officers must always be subject to public scrutiny.
+With the foregoing thoughts in mind, we analyze the situation here presented:
+Appellant, the individual, is on trial for an offense in violation of his official conduct, under an indictment charging that he wilfully and corruptly consented to accept a bribe while and as a member of the legislature of this state.
+Under that allegation, the state proves that two years before, while occupying the same official position, appellant solicited a bribe, thereby evidencing his willingness to do the very thing for which he is here on trial — that is, to accept a bribe.
+While it is true that the solicitation of a bribe did not at that time constitute a violation of any statute of this state, it did, however, violate the Constitution of this state and evidence a willingness to pervert and betray the public trust reposed in him as an official of this state.
+No other construction can be given to appellant’s acts and conduct except that they evidenced his vulnerability to wilful, deliberate, corrupt perversion and betrayal of the public trust for his financial gain. Above and beyond all things else such acts reflected appellant’s state of mind, his attitude toward and his lack of respect for the office he held and the obligations assumed thereby.
+It must be remembered, in this connection, that the testimony of Shelton and Johnson did not refer to or involve some other office but that the solicitation of the bribe — according to their testimony — concerned the same office as that here involved. Their testimony disclosed that the appellant’s acts and conduct debauched, for money, the public trust. Such was the same and mastering purpose behind the criminal act here involved.
+Under the facts and circumstances here presented, the conclusion is reached that the conduct, acts, and statements of appellant in soliciting a bribe from Shelton and Johnson had a direct tendency to connect him with the offense here charged.
+The testimony of those witnesses was therefore admissible in support of the state’s main case. The trial court was under no burden to charge thereon.
+The witness Sandall, upon direct examination, gave material testimony supporting appellant’s theory of entrapping the state’s witness Harmon. Upon cross-examination, the state made inquiry of the witness relative to his (Sandall’s) activities as public relations representative before the legislature, his friendship with the appellant, his (Sandall’s) expenditures while in Austin, and the payment by him for the appellant of something like a total of ten dollars in miscellaneous expenses.
+Appellant’s objection to the witness Sandall’s testimony was overruled, and he excepted to the charge of the trial court in failing to instruct the jury that they could consider such testimony as bearing upon his guilt or innocence only for the purpose of going to the weight of the testimony of the witness, if it did so.
+The evidence was hardly susceptible of being used by the jury to the injury of the defendant or to determine his guilt or innocence of the crime charged. Under such circumstances, the trial court was not under the duty of charging the jury relative thereto.
+The same conclusion is applicable to the testimony developed upon cross-examination of the appellant’s witness, Mrs. Brewer.
+Appellant insisted that the terms “wilfully” and “corruptly” should have been defined by the trial court in the charge, particularly in connection with the instruction to the jury that in order to convict they must find beyond a reasonable doubt that he wilfully and corruptly consented to accept a bribe.
+The cases of Stovall v. State, 104 Texas Cr. Rep. 210, 283 S.W. 850, and Garner v. State, 50 Texas Cr. Rep. 364, 97 S.W. 98, hold that it is not necessary that the terms be defined. We adhere to the holding announced by those cases.
+In addition to the rule there announced, the instant facts rendered unnecessary a definition of those terms, because there was no middle ground. Appellant either wilfully and corruptly consented to accept the bribe or he did so with a contrary or innocent intent.
+The trial court instructed the jury that if they entertained a reasonable doubt that appellant consented to accept a bribe for the purpose of entrapping Harmon they should acquit him.
+Under the facts here as well as under that charge, no injury could have possibly resulted to appellant in failing to tell the jury the meaning of the terms “wilfully” and “corruptly.”
+Appellant insists that the facts are insufficient to support the conviction.
+We see no necessity for detailing the facts. Suffice it to say that the accomplice Harmon, by his testimony, made a complete case of appellant’s guilt. The tape recording of the conversation between appellant and Harmon, which was played before the jury and which has been transcribed and given official recognition by and is carried in a supplemental journal of the 57th Legislature, in 1957, was sufficient to furnish the corroboration necessary.
+Moreover, appellant’s testimony which raised the defense of innocent intent and entrapment materially corroborated the testimony of the accomplice.
+The conclusion is reached that the facts were sufficient to warrant the jury’s conclusion of guilt.
+The indictment is in keeping with approved form and is not subject to the defect urged.
+No reversible error appearing, the judgment is affirmed.
+
+## Concurrence (WOODLEY, Judge,)
+
+WOODLEY, Judge,
+concurring.
+I concur in the affirmance of the conviction and in Judge Davidson’s opinion insofar as it is not in conflict with the views expressed in my dissent in Ernster v. State, 165 Texas Cr. Rep. 422, 308 S.W. 2d 33, and with the holding in Stanford v. State, 103 Texas Cr. Rep. 182, 280 S.W. 798.
+
+## Dissent (MORRISON, Presiding Judge,)
+
+MORRISON, Presiding Judge,
+dissenting.
+I agree with my brethren that the failure of the trial court to charge the jury concerning the testimony of Shelton and Johnson is a matter of controlling importance. By fuller objection than was made in the recent case of Ernster v. State, 164 Texas Cr. Rep. 422, 308 S.W. 2d 33, this defect in the charge was called to the trial court’s attention. In Ernster we reviewed the holdings of this court beginning with Taylor v. State, 50 Texas Cr. Rep. 381, 97 S.W. 474, decided in 1906, and the consistent adherence through the years to the rule therein expressed. By authority of Ernster and the case there cited, this case should be reversed.
+I am further of the opinion that the requested charge should have been given in connection with the testimony of the witness Brewer. Impeachment testimony should be limited whenever it appears that it may be used to establish the guilt of the accused. 1 Branch’s Ann. P.C., 2nd Ed., sec. 202.3, p. 325.
+I respectfully dissent.
