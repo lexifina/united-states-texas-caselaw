@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,813"
+decided: "1957-02-13"
+citations: ["164 Tex. Crim. 241"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Billy Berl Berry v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0241-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2607050
+cites_cases: ["132 S.W. 2d 858", "137 Texas Cr. Rep. 590"]
+---
+
+# Berry v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is robbery; the punishment, 25 years.
+The witness Arganbright, the manager of a 7-11 Store, testified that the appellant and a companion entered his store and, at the point of a pistol, took from him the money in the cash register. He stated that he reported the robbery to a customer who arrived just as the appellant and his companion were leaving and that the customer pursued them. He testified that he identified the appellant in a police lineup the following day.
+The customer Crabb testified that he pursued the automobile which fled the 7-11 Store until it crashed, saw two men abandon it, and returned to the store and reported to the police.
+The appellant, testifying in his own behalf, denied that he committed the robbery and stated that he had been at Mae’s Lounge on the night in question. In this, he was supported by three witnesses who were interested in the operation of the lounge.
+In rebuttal, the state offered the testimony of an officer who stated that during the course of his investigation of the robbery he had talked to two of the appellant’s witnesses and they had told him that the appellant was not at the lounge at the time of the robbery.
+The only questions presented for review concern the cross-examination of the appellant’s alibi witnesses.
+Bill of Exception No. 1 complains of the overruling of an objection to the following question propounded to the witness Rush: “And you were released on the 9th day of August, 1954 to Ruth Rush? The objection was “because to insinuate that a person is insane is one thing and another one to prove it by judgment.” Prior to the asking of such question, the appellant had testified without objection that on the 6th day of August, 1954, he had been “filed on” for “lunacy” or “unsound mind.”
+If the appellant felt that the state had no right to inquire into the prior mental condition of his witness, he should have objected to the question which developed such evidence when it was asked or at least moved the court to instruct the jury not to consider the answer after it was made. Neither was done. Surely, no injury resulted from proof that the witness was released to his wife three days after the lunacy complaint was made.
+Bill of Exception No. 2 relates to a question propounded to the witness Mrs. Mayes: “Did Judge Sterrett pass on your application for a license?” The objection was sustained, and the jury were instructed not to consider the question. Prior to the asking of this question, the witness had testified without objection that she and her husband had been running the lounge for a Mr. Love and that the beer license was not in her name.
+The appellant seemed to be satisfied with the ruling of the court in sustaining the objection and instructing the jury because he asked the court for no further relief.
+Bill of Exception No. 3 complains of a question propounded to the witness Willie Mayes: “Isn’t it true that the Liquor Control Board accused her (referring to Mrs. Mayes) of running that place under subterfuge while licensed to another man?” The objection to this question was sustained, the jury instructed not to consider the same, and the appellant asked the trial court for no further relief. The witness had, prior to the asking of such question, stated without objection that he was running the place but was not licensed to operate it and that his wife had applied for a license but that he had not done so.
+We would not be inclined to reverse this conviction under the facts stated merely because the question was asked.
+Bill of Exception No. 4 complains of the asking of still another unanswered question. The objection was again sustained, and no motion was made requesting the court to instruct the jury not to consider the question. The bill does not reflect reversible error.
+Appellant cites a number of cases which follow the rule that proof of specific acts of misconduct which have not eventuated into an indictment and conviction are not admissible for impeachment purposes. In the case at bar,, no such proof was made. Reliance is had especially on Musslewhite v. State, 137 Texas Cr. Rep. 590, 132 S.W. 2d 858. In that case, this court reversed the conviction, among other reasons, because the witness Watkins was asked the following questions:
+“Q. Did you run a gambling house?”
+“Q. Did you know that very shortly after that killing the district attorney got an injunction against you as a nuisance as a gambling house?”
+“Q. How many women did you and Mr. Kincaid employ to go out to the various hotels and bring in suckers?”
+It is thus apparent that by the asking of these questions the prosecution in effect charged the witness with violating the law against gaming and possible other laws.
+The only possible injurious question in the case at bar is that set forth in Bill of Exception No. 3 above. We have demonstrated in a discussion of that bill that practically the same information as was contained in the question had been testified to by the witness without objection which had the effect of waiving the error in the question.
+Finding the facts sufficient to sustain the conviction and no reversible error appearing, the judgment of the trial court is affirmed.
