@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,858"
+decided: "1954-02-24"
+citations: ["159 Tex. Crim. 459"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Jones v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2475367
+---
+
+# Jones v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for passing a forged instrument; the punishment two years in the penitentiary.
+The statement of facts does not purport to contain all of the evidence heard at the trial, but shows the following:
+Appellant passed the instrument described in the indictment, which was a customer’s draft dated May 6, 1953, for the sum of $118.00 drawn on East End State Bank, signed Seale Construction Co., by H. H. Seale, and payable to Jones Electric.
+The draft was cashed for appellant by H. E. Hollan at his food market or grocery store.
+Mr. Hollan testified that appellant represented to him that Seale Construction Co. was located on McKinney Avenue in Houston and that he had received the draft in payment for work he had done for Seale Construction Co.
+The check was not paid by the bank and it was shown that there was no account in the East End State Bank in the name of Seale Construction Co. or of H. H. Seale.
+Other testimony was to the effect that unsuccessful efforts had been made to locate a person named H. H. Seale and a Seale Construction Company.
+It was also shown that appellant was absent from his home in Houston after the check was returned unpaid, and was arrested some five weeks later in Kilgore, Texas.
+The principal complaint raised in this appeal is directed to the following evidence.
+The state called the witness Charles Snow who testified, over appellant’s objection, that on May 6, 1953, appellant presented a check to him signed Geo. H. Matthews, “for electric work.” This check was also payable to Jones Electric. It was for the sum of $90 and was drawn on Security State Bank. It was returned unpaid and though efforts had been made, no such person as Geo. H. Matthews had been located.
+R. O." Queen, handwriting expert, was then called and, his qualifications being admitted, testified that the Matthews check and the draft purportedly issued by Seale Construction Company were in the handwriting of the same person, but were apparently not written by appellant.
+The state relied upon circumstantial evidence and was under the necessity of proving that the draft was forged; that appellant knew it to be forged when he passed the draft and intended to defraud. This check was passed on the same day. It bore the name of a different maker who, like the person whose name appeared on the draft described in the indictment, and the Construction Company, could not be found.
+The testimony was admissible as tending to prove that the names appearing as makers of the draft were fictitious. Of course this was relevant on the question of whether the draft was forged and whether appellant knew it to be forged when he passed it to Mr. Hollan.
+Appellant testified that both the draft and the check were given him in payment for labor and that they were written by Seale and Matthews respectively in his presence, and not by the same person. But no subpoenas were requested for H. H. Seale or Geo. H. Matthews, and appellant admitted that he knew nothing of their whereabouts at the time of the trial. Though he had been at liberty on bail he did not produce the makers of the instruments or proof of their existence.
+The judgment is affirmed.
