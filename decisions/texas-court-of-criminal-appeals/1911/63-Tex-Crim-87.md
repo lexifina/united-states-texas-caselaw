@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1258"
+decided: "1911-06-07"
+citations: ["63 Tex. Crim. 87"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Cain v. The State."]
+source_url: "https://static.case.law/tex-crim/63/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2375162
+cites_cases: ["22 S. W. Rep., 590", "32 Texas Crim. Rep., 151"]
+---
+
+# Cain v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of murder in the first degree and the jury allotted him the death penalty. The killing occurred at night. The deceased, J. J. Hardy, had retired with his wife and children when someone holloed at the gate. The deceased arose, inquired what was the matter and was informed by the party out in the dark that he was wanted by the long distance ’phone at Few Waverly, which was about a mile and a half east of the residence of deceased. Thinking it was a negro named Anthony, he asked him if his horse was in the lot. The deceased prepared himself to go to Few Waverly and went out in the yard, and as he approached his horse lot he was fired upon and killed.
+Appellant admitted the killing, and in addition, took the stand and testified to the fact that he did the killing. He claimed, however, that he was forced to do so by another negro, who was with him, by the name of William Hargrove. It is deemed unnecessary to go into a detailed statement of appellant’s testimony, or the facts which show guilt, but it may be mentioned, among those things, that appellant says that Hargrove approached him and induced him to kill or assist in killing deceased, giving as a reason that deceased was going to send appellant to the penitentiary for forging an order, and that deceased was going to prosecute Hargrove for the theft of cotton; and, in fact, had instituted a prosecution against Hargrove. Mrs. Hardy testified to the effect that appellant had forged an order and deceased had contemplated bringing him before the courts. Appellant says that Hargrove offered him $10 to get a gun for him. Appellant finally agreed to do this and did get the gun and went with Hargrove. He further says Hargrove agreed to pay him $30 for assisting in the killing. He claims that he did not want to kill deceased, but Hargrove made him go with him to do the killing.
+[Rehearing denied June 23, 1911.—Reporter.]
+The court’s charge was only with reference to murder in the first degree and the law applicable to duress. Appellant in his motion for new 'trial—and that is practically the only question in the case— insisted that the court erred in not giving in charge to the jury the law applicable to murder in the second degree. We are of opinion this contention, under the facts, is not well taken. The homicide was a cruel, cold blooded assassination. There is nothing in the record that we have been able to discover that called for or demanded a charge on the law applicable to murder in the second degree. We understand the rule to be that where the circumstances are clear, unequivocal and strong, and without doubt as to express malice, it is unnecessary to charge on the law applicable to murder in the second degree; but if there be a doubt with reference to the environments of the case, and attendant circumstances and the jury might, under any phase of the evidence, conclude that it Avas murder in the second degree, the charge should be given. But that does not apply to a case like the one before us. The jury did not see proper to credit appellant’s theory of duress and in this they were entirely justified.,
+Believing there is no reversible error in this record, the judgment is affirmed.
+Affirmed.
