@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2746"
+decided: "1913-11-12"
+citations: ["72 Tex. Crim. 13"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jim Rasberry v. The State."]
+source_url: "https://static.case.law/tex-crim/72/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4680293
+---
+
+# Rasberry v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was convicted of unlawfully carrying a pistol, and his punishment assessed at a fine of $100.
+The State’s evidence would show that appellant went to a Christmas tree in the church at Whitehouse on the night of 24th of last December. That he and Charlie Carlton left there together, going towards the business portion of the town. A call of nature caused Carlton to step to one side, and while out there he heard two or three shots fired. He says he does not know whether it was a pistol shooting, or large firecrackers. They then went on to the store, and appellant bought four 38 calibre pistol shells from Mr. Ham. When they came out of the store appellant had a pistol in his hand, and Mr. Ham asked him to let him see it. Ham says appellant handed it to him and he unbreeched it and it had three loaded and three unloaded shells in it; that he unloaded it and gave it back to appellant. Appellant lived some three, and one-half miles from Whitehouse, and then started home, Jim Hagan going a part of the way with him. Will Shahan testifies that as appellant and Hagan passed his house appellant had the pistol in his hand, and fired it twice. Appellant admits he had the pistol on this occasion; says it was out of repair; that the cylinder would not revolve, and the pistol would not shoot. That when he left home that night he brought the pistol with him to have it repaired; that he went direct to the blacksmith to have it repaired, but the shop was closed, when he put the pistol in his pocket and carried it with him to the Christmas tree, and had it at the store and other places the witnesses say, but denies that he shot it. He says he had some large fire-crackers with him, and it was the fire-crackers he shot. He is supported by other witnesses in his contention that his pistol was out of order on this occasion.
+There are two bills of exception to the introduction of testimony. While the witness J. C. Ham was testifying he was asked, “How did you come to see the pistol?” and answered, “That appellant had it in his hand and was walking around with it.” He also stated he unbreeched it and unloaded it. Under the defense in this case, that the cylinder would not revolve, and appellant’s testimony that he could not unbreech the pistol, the testimony was clearly admissible.
+The court charged the jury: “1. How if you shall find from the evidence beyond a reasonable doubt that the defendant did in Smith County, Texas, on or about the 24th day of December, 1912, unlawfully carry on or about his person a pistol, then you will find him guilty and assess a proper penalty.
+“2. It is not an offense to carry a pistol that is broken or out of repair so that same can not be fired. So, if you shall find that the pistol was broken or out of repair, so that same could not be fired, then you will find him not guilty.
+“3. But even though you may believe that the pistol was broken or out of repair, yet if you shall find from the evidence'beyond a reasonable doubt that the pistol was in condition to be fired and could be fired, then you will find him guilty.
+“4. The defendant would have a right to carry a pistol from his home to a shop for repairs provided in going to the shop and returning home he traveled a direct or reasonable and practicable route. But the defendant can not claim the benefit of this exemption if he stops over in his journey at any place and engages in business or pleasure, and if you believe from all the evidence in this case that the defendant carried the pistol to the shop for repairs and back home again by a reasonable and practicable route, and had not digressed from his purpose by engaging in business or pleasure, you will find him not guilty.
+“5. But if you shall believe' from all the evidence in this case that the defendant had digressed from his common purpose and intent) and had gone from place to place in the town of Whitehouse, and engaged in business or pleasure, then you will find him guilty.” .
+The first criticism of this charge is that in the first paragraph the court erred in not telling the jury in this paragraph they would find him guilty “unless they found him not guilty under some other paragraph of the charge.” It was not necessary to so instruct the jury in this paragraph when the court immediately followed it with a charge that he would not be guilty if the pistol was out of repair, etc.
+The next criticism is that the court erred in not telling the jury that “it was no offense to carry a pistol that is broken or out of repair, without regard to whether it could be fired or not.” This is not the law; even though a pistol is broken or out of repair, if it can still be used as a weapon with which to shoot it is unlawful to carry same, unless it was being carried to be repaired, and this issue was presented in another paragraph.
+The next criticism is that in the paragraph instructing the jury that it would be no offense to carry the pistol to have it repaired, and in instructing them, “but the defendant can not claim the benefit of this exemption if he stops over on his journey and engages in business or pleasure,” etc., the court should have instructed them in this paragraph that if it “'could not be fired” it would be no offense. Having given this instruction, it was not necessary to repeat it. The court had instructed the jury that if it was broken and could not be fired to acquit, and it was only necessary to do so once. The question of whether or not the pistol could be fired was submitted to the jury, and the court in no part of the charge assumes that it could be fired.
+The special charges requested by the appellant were fully covered by the court in his main charge, and it was not necessary to give them. In fact, a part of the court’s charge would read as if he copied therein a portion of the charges requested.
+The court refused to approve the bill in regard to remarks of the county attorney, therefore it can not be considered.
+The question asked of Will Shahan “if he was not testifying for the State that he might collect his witness fees” was perhaps legitimate to affect his credit, but it is not shown what the answer of the witness would have been, consequently it presents no error.
+We have carefully reviewed every matter raised by appellant in his bills of exception, and none of them present error.
+The judgment is affirmed.
+Affirmed.
