@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9486"
+decided: "1925-11-18"
+citations: ["102 Tex. Crim. 615"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter Meyers v. The State."]
+source_url: "https://static.case.law/tex-crim/102/cases/0615-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5113379
+---
+
+# Meyers v. State
+
+## Majority (BERRY, Judge.)
+
+BERRY, Judge.
+The offense is unlawfully transporting intoxicating liquor; the punishment is confinement in the penitentiary for one year.
+The indictment charges the appellant Walter Meyer, and one Raymond Henneke, jointly, with the offense of possession of intoxicating liquor for the purpose of sale in one count, and with transportation of intoxicating liquor in another. count. The record discloses that both the appellant and Henneke were duly arraigned and that each of them plead not guilty to such indictment and were placed on trial jointly. The charge of the court discloses that the case of each of them was submitted in a joint charge to the jury, whereupon the jury returned into court the following verdict:
+“We the jury find the defendant guilty of unlawfully transporting spirituous and intoxicating liquor as charged in the indictment and assess his punishment at confinement in the state penitentiary for a term of one year.”
+On this verdict the court for some reason selected the appellant Walter Meyer as the party condemned by this verdict and sentenced him to one year in the penitentiary. Just what became of his co-defendant Henneke is not manifested by the record. The appellant Meyer complains of this action of the court, it being contended that the judgment of the court is contrary to the law. The appellant’s contention in this respect must be sustained. The verdict as returned by the jury was not responsive to the court’s charge and ought not to have been received by the court. It is manifest from the verdict that only one of the parties on trial was convicted and yet it is utterly impossible to form any conclusion from said verdict as to which of the parties on trial it was the purpose of the jury to convict.
+Because under the facts above stated in this case the verdict is wholly unintelligible in that it fails to designate the party found guilty and because from the entire record it is utterly impossible to determine which of the parties on trial was actually convicted, the judgment must be reversed and the cause remanded.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+This case was reversed because the record showed that appellant and another were tried together and there was nothing before us to show what disposition was made of appellant’s co-defendant. The record has been corrected so that at this time it appears said co-defendant was found guilty but given a suspended sentence, hence did not appeal. Having made said correction and thus met the proposition upon which the case was reversed, the State files its motion for rehearing asking that the judgment of reversal be set aside and that the conviction be now affirmed. ’
+The charge in the indictment was the transportation of intoxicating liquor. The State, introduced the sheriff of Austin County, who testified that on the occasion of a dance he saw a number of people who appeared to have been drinking, and that he looked around and found some liquor in a Ford coupe; that he secreted himself and watched said car- and presently saw appellant and Raymond Henneke come to the car and get in samé; they stepped on the starter and witness said he walked up at that time and stopped them; there were two half gallon jars each over half-full of whiskey and a gallon bottle with a little whiskey in it, the whole amount of whiskey being estimated at about three quarts. This witness further testified that the car had not started when he went to it; that the car did not move at all during the time he observed it. Witness said the two defendants both denied that the whiskey in the car was theirs, and said they did not know anything about how it came here. This constituted the State’s case. For the defendant, witness Person testified that he saw appellant and his companion in the Ford coupe the afternoon before they were arrested; that they had a flat tire and he helped, them fix it, and got the tools, etc., out of the car and looked all through it, and that there were not any jars or jugs or anything containing whiskey in the car at that time. Anpellant’s father testified that he had been in bad health and when appellant and his companion started to the dance he requested them if they could get any whiskey to bring him some, and gave the appellant a ten dollar bill to be used in purchasing whiskey if he could find any. Appellant’s co-defendant testified that he went to the dance with appellant and that they had no whiskey, but while at the dance appellant - told him he had bought some whiskey and put it in the ear, and when they came out to get in the car to leave the sheriff arrested them before the car was moved. Appellant testified substantially to the same facts. Both admit that they told the sheriff that they did not have anything to do with the whiskey, and explained that they told this falsehood because they were scared. The good reputation of appellant as being a peaceable, law-abiding citizen was proven.
+The above facts do not make out a case of transporting intoxicating liquor. Neither by circumstances nor by direct testimony is there any proof showing that said liquor was moved or transported by appellant from or to any place. While our original .opinion was based on the legal necessity for a reversal because no disposition was shown of the charge against appellant’s co-defendant, the conclusion there reached must be again announced, that is, that the judgment should be reversed and the cause remanded. This being true, the State’s motion for rehearing will- be overruled.
+Overruled
