@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,112"
+decided: "1962-01-17"
+citations: ["171 Tex. Crim. 644"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Christine T. Hartsfield v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0644-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2632328
+cites_cases: ["159 Tex. Cr. R. 396", "162 Tex. Cr. R. 335", "264 S.W. 2d 432", "284 S.W. 2d 908"]
+---
+
+# Hartsfield v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for driving while intoxicated; the punishment, 3 days in jail and a fine of $50.
+The state’s evidence shows that the appellant was stopped and arrested by Officers Glen A. Crews and Harry G. Moore around 2:30 P.M., while driving her automobile in the wrong lane of traffic on Broadway Street in the city of Lubbock. Both officers testified that after appellant got out of the automobile, she staggered when she walked; that she had the odor of alcohol on her breath and expressed their opinion that at such time she was drunk. Officer Miller, who went to the scene, corroborated their testimony in his description of appellant’s actions and appearance and expressed his opinion that she was intoxicated.
+Testifying as a witness in her own behalf, appellant admitted driving her automobile on the occasion in question and admitted having had two drinks of vodka at 10:00 A.M., that morning. Appellant further testified that she had taken three equanil tablets during the day, two in the morning and one in the afternoon for a nervous condition. Appellant called her husband as witness, who testified that she had a nervous condition for which she took equanil. She also called as a witness, Dr. C. B. Batson, who testified that he had treated appellant for a nervous condition. The doctor further testified that the taking of three equanil tablets between the hours stated by appellant was an overdose and might produce muscular relaxation to a degree where it might simulate alcoholism.
+The jury resolved the issue of intoxication against appellant and we find the evidence sufficient to sustain their verdict.
+The record contains no formal bills of exception and no brief has been filed in behalf of appellant.
+The evidence offered by appellant that on the day of her arrest, she was taking medicine known as equanil, was not proof of such an independent fact as would, if accepted by the jury as true, entitle her to an acquittal and the court was not required to submit such matter to the jury as an affirmative defense. Humphrey vs. State, 159 Tex. Cr. R. 396, 264 S.W. 2d 432 and Roescher vs. State, 162 Tex. Cr. R. 335, 284 S.W. 2d 908.
+The court did, however, in submitting the issue of intoxication to the jury instruct them that if they believed from the evidence that appellant was under the influence of such medicine and not under the influence of intoxicating liquor or if they had a reasonable doubt thereof, to acquit her.
+We find no merit in appellant’s objection to the court’s instruction on the ground that it was a comment upon the weight of the evidence and an assumption by the court that she was under the influence of intoxicating liquor.
+No reversible error appearing, the judgment is affirmed.
+Opinion approved by the Court.
