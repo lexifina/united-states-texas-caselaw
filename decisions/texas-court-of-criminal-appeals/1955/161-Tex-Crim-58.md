@@ -1,0 +1,52 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,308"
+decided: "1955-01-26"
+citations: ["161 Tex. Crim. 58"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cecilio Trevino v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0058-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468040
+cites_cases: ["122 Texas Cr. Rep. 211", "157 Texas Cr. Rep. 301", "158 Texas Cr. Rep. 50", "248 S.W. 2d 159", "253 S.W. 2d 664", "54 S.W. 2d 127"]
+---
+
+# Trevino v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant was charged by indictment, returned in the 49th District Court of Jim Hogg County on October 8, 1936, with the offense of felony theft.
+On October 12, 1936, appellant filed application for suspended sentence, waived a jury and entered a plea of guilty.
+The judgment rendered by Hon. J. F. Mullally, then judge of said court, recites that evidence was heard which was sufficient to support the plea of guilty; that the defendant was adjudged guilty and his punishment assessed at two years’ confinement in the penitentiary.
+The judgment further recites “and it appearing from the proof that the Defendant Cecelio Trevino has never before been convicted of a felony in this, or any other State, and that his general reputation is good, it is further ordered and adjudged by the Court that the sentence of the judgment of conviction in this case be suspended during the good behavior of the Defendant . . . . ”
+On August 24, 1954, appellant Trevino, filed his motion in said court alleging that since said trial and conviction appellant had not been convicted of a felony, and that the two-year period of time had elapsed.
+The motion for new trial and for dismissal filed under the provisions of Art. 780, C.C.P., was heard on August 27, 1954, before the Honorable R. D. Wright, presently and for some years past the duly elected judge of the 49th Judicial District.
+Hon. Bismark Pope, a member of the bar practicing in said court, appeared as amicus curiae by permission of Judge Wright, and filed a pleading in opposition to the motion alleging that the court was without power or authority, on October 12, 1936, to hear, pass upon or grant a suspended sentence, and because thereof that portion of the judgment was void.
+Evidence was heard by Judge Wright from which he made the following conclusions:
+“1. The affidavit and testimony of the defendant made in this cause for the purpose of securing a suspended sentence were false and untrue.
+“2. The defendant had, prior to the time of the trial of this cause, been convicted of an offense or offenses of the grade of felony in a court of competent jurisdiction and was barred because thereof from receiving a suspended sentence in this cause.
+“3. By such false affidavit and testimony in this cause the defendant through his active fraud secured the order purporting to grant to him a suspended sentence because of his conviction in this cause.
+“4. That under the admitted facts this court on October 12, 1936, was without power, authority, or jurisdiction to receive or hear a plea for a suspended sentence by the defendant or to hear evidence thereon or to grant a suspended sentence.
+“5. That that part of the judgment of this court attempting to grant a suspension of sentence to the defendant was and is void and has been void at all times because it was beyond the power and authority of the court at the time of the trial to enter such a judgment.
+“6. That the evidence as to the offense received upon the trial of this cause on October 12, 1936, to establish guilt after the plea of guilty by the defendant, a complete transcript of which from the stenographic report was offered in evidence on the hearing of this motion for a new trial and dismissal, was and is sufficient to sustain the judgment of conviction entered on October 12, 1936.”
+Upon such conclusions the court ordered:
+“1. That the motion for a new trial and for dismissal filed by the defendant under the provisions of Article 780 of the Code of Criminal Procedure be, and the same is, hereby in all things overruled.
+“2. It is ordered that that portion of the judgment entered in this cause on October 12, 1936, attempting to grant a suspended sentence be, and the same is, hereby declared to be and to have been void from the time of its entry, and of no force.
+“3. It is ordered that that portion of the judgment adjudging the defendant guilty of the offense charged in the indictment in this cause be, and the same is, hereby declared to be in full force and effect.”
+The court, having so ordered, then proceeded to pronounce sentence against appellant upon the portion of the judgment of 1936 adjudging appellant guilty of felony theft and assessing a two-year term in the penitentiary.
+Appellant excepted and gave notice of appeal, which was noted both in the order declaring the suspended sentence feature of the judgment to be void and in the sentence pronounced.
+The judge of a district court is clothed with authority to grant a suspended sentence for the offense of felony theft, where in a trial before him on a plea of guilty, a jury being waived, the proof shows that the defendant has never been convicted of a felony in this or any other state. Art. 776a, V.A.C. C.P.
+The trial judge in the 1936 judgment so found from the evidence before him and ordered that the two-year term assessed be suspended.
+Said court was not without jurisdiction to enter the judgment awarding appellant a suspended sentence and that provision of the judgment of 1936 was not void.
+The trial court in 1954 was without authority to go behind said judgment and set aside the suspended sentence provision upon a finding that the evidence adduced at the trial in 1936 and the affidavit for suspension of sentence were in fact false and the suspended sentence was secured by fraud.
+In Ex parte Pittman, 157 Texas Cr. Rep. 301, 248 S.W. 2d 159, we said:
+“A suspended sentence may be set aside and sentence imposed only upon a subsequent conviction for a felony or any of the offenses enumerated in Arts. 777 and 778, C.C.P.
+“There being no evidence that relator had been subsequently convicted of any of the offenses there named, the right to revoke the suspended sentence is not here shown . . . .”
+“From what has been said, the conclusions reached are, viz: (a) The trial court suspended relator’s sentence under the suspended sentence law. (b) Relator has not been subsequently convicted of any offense that would authorize the suspended sentence to be revoked, (c) The sentence imposed after the attempted revocation was without authority in law, and is void.”
+It is further noted that the two-year suspended sentence had expired long prior to 1954, and could not for that reason be set aside or held for naught. See Clare v. State, 122 Texas Cr. Rep. 211, 54 S.W. 2d 127; Ex parte Davis, 158 Texas Cr. Rep. 50, 253 S.W. 2d 664.
+There are other most interesting and novel questions presented, but in view of what has been said, these need not be considered.
+The order of August 27, 1954, declaring the suspended sentence provision of the 1936 judgment to be void and the sentence ordering that appellant be confined in the penitentiary are reversed and set aside.
+My brethren have reached the conclusion that we should further direct that the judgment overruling appellant’s motion for new trial and dismissal, filed under the provisions of Art. 780 C.C.P., should also be reversed, and the trial court directed to grant such motion. It is so ordered.
