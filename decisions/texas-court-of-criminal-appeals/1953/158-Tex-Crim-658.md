@@ -1,0 +1,60 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,278"
+decided: "1953-04-08"
+citations: ["158 Tex. Crim. 658"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. H. Petrey v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0658-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2483624
+cites_cases: ["120 Tex. Cr. R. 373", "127 S.W. 215", "157 Tex. Cr. R. 534", "247 S. W. 2d 119", "48 S.W. 2d 632", "59 Tex. Cr. R. 73"]
+---
+
+# Petrey v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for rape; penalty assessed at 50 years.
+Jeanette Petrey Lemon testified that she was fourteen years of age on December 1, 1951, the date of the alleged offense, and fifteen years old on the day of the trial. She further testified that she was the daughter of the accused; that he had sexual intercourse with her for the first time about two years prior to December, 1951; that from the first act until about December 1, 1951, he had sexual intercourse with her approximately twice each month; that the first act was at their home and the others on the road between Wildorado and Vega, and at these times he had a pistol in the glove compartment of the car; that she was afraid of the accused and for this reason submitted to him; that she first told her mother in February or March, 1952, and her mother called the sheriff.
+Dr. Lokey testified that on March 23, 1952, he, upon examination of the prosecutrix, found her private parts to be in the condition of a woman who had frequent sexual intercourse.
+Appellant made three separate statements — the first statement on June 2, the second on June 6, and the third on June 12, 1952.
+When the third statement was offered in evidence, the court retired the jury and heard evidence by the state and appellant as to its voluntary character, and admitted it in evidence over appellant’s objection that it was involuntary, holding that there was an issue of fact to be submitted to the jury. Later, the statements made on June 2 and June 6 were admitted in evidence, and the issue of their voluntariness was submitted to the jury together with the voluntariness of the statement dated on June 12, and such issues were resolved against appellant.
+In each confession, the appellant admits that he had sexual intercourse with prosecutrix, and the confession dated June 12 states that he had such an act with the prosecutrix “on or about the 1st day of December, 1951.”
+Appellant testified at the hearing on the admissibility of the confession dated June 12 and before the jury, and each time claimed that he was promised certain concessions and was abused and threatened; and further testified denying any sexual relations with the prosecutrix.
+Appellant insists that the court erred in permitting the state to ask the prosecutrix leading questions, and further contends that the evidence to support the charge was developed by leading questions and that such procedure was error.
+Considering the age of the prosecutrix, her relationship to the accused, and that she had lived at his home all her life; that she said on the witness stand several times that she did not want to testify; and the fact that she was an unwilling witness, leads us to the conclusion that the court did not err in permitting leading questions to be asked prosecutrix under the peculiar circumstances of this case. Carter v. State, 59 Tex. Cr. R. 73, 127 S.W. 215.
+Appellant contends that the court erred in sustaining the state’s challenge for cause to the prospective juror, Victor E. Lemke.
+The record reveals that Victor E. Lemke was one of the compurgators upon the affidavit for change of venue; that he was a witness upon the hearing of the motion to change venue; that he had talked to appellant after said charge was filed; that he had contributed money to pay the attorney’s fee for the defense; and no showing is made that an objectionable juror sat on the case.
+No error is shown by the action of the trial court in sustaining the challenge to said prospective juror.
+It is contended that the court erred in excluding the testimony of the same Victor E. Lemke, called as a defense witness, after objection by the state upon the ground that said witness was present in the court room during the examination of the state’s witnesses.
+In the absence of the jury, appellant submitted the proffered testimony of the witness Lemke to the court, which testimony related his conversations with and observations of appellant when he visited him in jail. The state then further objected to Lemke testifying on the ground that said testimony was immaterial and self serving, and the state’s objection was sustained.
+The rule was invoked as to witnesses. Lemke was notified one night, after the trial began, to appear the next morning at 9 A.M., and he responded. Lemke sat in the court room from 9 A.M. until he was called as a witness, and during which time testimony was being heard.
+No abuse of discretion of the trial court is shown in refusing to permit the above testimony of the witness Lemke to go before the jury, thus no error is shown. Long v. State, 120 Tex. Cr. R. 373, 48 S.W. 2d 632, 637.
+The judgment of the trial court is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (MORRISON, Judge.)
+
+ON MOTION FOR REHEARING.
+MORRISON, Judge.
+We shall attempt to discuss the contentions raised in appellant’s able motion.
+In addition to what we said originally concerning the propriety of permitting the district attorney to ask leading questions, we observe that the case before us is a near-perfect example of surprise. The prosecutrix admitted that she had talked to the district attorney a few minutes before she went on the stand and had told him about the different acts of intercourse she had had with appellant, and yet when she became a witness she answered the first incriminating question by saying, “I don’t want to testify.”
+In Branch’s Ann. P. C., Sec. 158, we find: “If the witness is hostile, unwilling or reluctant, it is within the sound discretion of the trial court to permit leading questions on direct examination.”
+Appellant next contends that the prosecutrix gave no testimony incriminating the appellant. With that we cannot agree.
+We quote from the state’s examination of the prosecutrix:
+“Q. Please state whether or not A. H. Petrey has had sexual relations with you. A. Yes, he has.
+“Q.....Please tell the jury when the first time was that he had sexual intercourse with you. A. November, two years ago.
+“Q . . . . where were you when this happened? A. At the house.
+“Q.....Now, at those times and all of those times, did he or did he not put his private parts into you? A. Yes, he did.”
+Appellant contends that his confession was inadmissible as a matter of law.
+In Golemon v. State, 157 Tex. Cr. R. 534, 247 S. W. 2d 119, we said:
+“The use in evidence against one charged with crime of a coerced or forced confession constitutes a denial of due process. ... In determining if a denial of due process has occurred in the particular mentioned, the Supreme Court of the United States arrives at a conclusion by an independent examination of and from the undisputed facts.”
+In the case at bar, it is noted that the very able district attorney called as a witness in rebuttal each person mentioned by appellant in his testimony, and each witness contradicted the testimony of the appellant. The issue of the voluntary nature of the confession was properly submitted to the jury.
+Appellant next complains of the action of the court in sustaining the state’s challenge to the prospective juror Lemke.
+The court qualified the bill of exception to this matter by certifying that when the jury was complete the state had several peremptory challenges left.
+Had the court not sustained the challenge, then certainly the state would have used a peremptory challenge on a man who had raised a defense fund for the accused.
+Remaining convinced that we properly disposed of this cause originally, the appellant’s motion for rehearing is overruled.
