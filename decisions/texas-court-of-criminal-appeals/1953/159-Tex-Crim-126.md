@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,571"
+decided: "1953-11-04"
+citations: ["159 Tex. Crim. 126"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mark Tatum v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2474621
+---
+
+# Tatum v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for assault with intent to murder Pat Coffee; the punishment eight years in the penitentiary.
+The evidence, including the confession of appellant and his testimony on the trial, shows without dispute that appellant, without legal justification or excuse, cut and stabbed Willie Mae Deams, the woman with whom he had been living, with a long knife or bayonet; then attacked the prosecuting witness Pat Coffee, her male companion.
+The attacks occurred in a cafe in Kermit, and both the woman and the prosecuting witness were taken to a hospital in Kermit where they were examined by Dr. Joe Heath.
+The sole question presented by appellant in his brief is whether or not the testimony of Dr. Heath, the physician, as to the nature and extent of the injuries inflicted upon Willie Mae Deams by appellant was admissible.
+The wounds inflicted upon both parties were of a similar nature and were inflicted by appellant with the same instrument and on the same occasion. However, it appears that the wounds inflicted upon the woman were deeper and were much more serious than the wounds received by Pat Coffee.
+The evidence showed that the knife or bayonet had a blade some ten inches in length and was therefore a deadly weapon. However, the appellant testified that he had no intent to kill either Willie Mae Deams or Pat Coffee.
+The extent, nature and seriousness of the wounds inflicted upon the woman as well as upon the injured party were relevant upon the question of appellant’s condition of mind and his intent. The testimony of Dr. Heath as to the injuries sustained by Willie Mae Deams was therefore admissible upon the question of whether appellant intended to kill Pat Coffee, and whether he acted with malice.
+The testimony was so limited by the trial judge in his charge, to which no objections were made.
+The judgment is affirmed.
