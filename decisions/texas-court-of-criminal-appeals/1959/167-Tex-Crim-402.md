@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,323"
+decided: "1959-01-28"
+citations: ["167 Tex. Crim. 402"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Billy Ray McBee v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8549986
+---
+
+# McBee v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for forgery of a check by endorsement, the punishment, four years.
+When Larry James LaBlane delivered some food from Bennett’s Grill to the appellant at a tavern, the appellant tendered him a check in payment but LaBlanc told him he could not cash it and referred him to the manager of the grill. LaBlanc identified a check introduced in evidence and marked State’s Exhibit No. 1, dated October 23, 1957, in the sum of $100, payable to George Rich, signed API Well Service by Hal B. Allen, as maker, endorsed:
+S/ George Rich
+S/ George R
+S/ Geo
+and drawn on the Spring Branch State Bank, Houston, Texas, as the same check presented to him by the appellant at the time he delivered the food. LaBlanc testified that the appellant told him his name was George Rich and that he endorsed the check in his presence as the endorsement appears above and that appellant had some difficulty in writing because the pen was not working properly.
+The manager of Bennett’s Grill while testifying identified a check marked State’s Exhibit No. 1, as being the same check which the appellant, who had told him he was George Rich and that he had signed said check on the back, presented to him at the grill and he refused to cash.
+The testimony shows that the next day after appellant had presented the check at Bennett’s Grill, he was arrested and while in an automobile on the way to the police station he appeared to be putting something behind him on the seat. A search of the car revealed a check which was identified at the trial as the same as State’s Exhibit No. 1.
+George Rich while testifying examined State’s Exhibit No. 1 and stated that it was given to him for certain merchandise; that the check was left on his desk while he was out of the city and when he returned the police had it. He testified that he did not give anyone his consent to take it or endorse his name thereon. He also stated that he had seen the appellant in his place of business visiting one of his employees.
+Appellant did not testify or offer any evidence in his behalf.
+The evidence is sufficient to support the conviction.
+Appellant complains of the admission of the check in evidence over his objection that it was not an exact copy of the check set out in the indictment.
+An examination of the check introduced in evidence as State’s Exhibit No. 1, conforms to the one described in the indictment, hence no error is shown.
+Other contentions presented by the appellant have been carefully considered and they do not show error.
+The judgment is affirmed.
+Opinion approved by the Court.
