@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,565"
+decided: "1961-06-24"
+citations: ["171 Tex. Crim. 351"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Hiram Cross v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0351-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2630675
+cites_cases: ["236 S.W. 2d 820", "317 S.W. 2d 740", "331 S.W. 2d 331"]
+---
+
+# Cross v. State
+
+## Majority (McDONALD, Judge.)
+
+McDONALD, Judge.
+Statutory rape is the offense, with punishment assessed at life confinement in the penitentiary.
+The state’s testimony reflects that Mellie Nadine Cross was the daughter of the appellant and that at the time of the intercourse, on December 10, 1960, in Del Rio, Val Verde County, Texas, she was twelve years of age, the record also reflecting that previous acts of intercourse had occurred between them in San Antonio, Texas, and Menard, Texas.
+The prosecutrix testified that the act of intercourse occurred in the house where she and her father resided, in Del Rio, Texas, between Third and Fourth Streets, and that this took place in her bed, on December 10, 1960. The prosecutrix further related that she had not told anyone about it until shortly before the trial of the case, for the reason that she “was embarrassed.”
+The state also adduced testimony from the witnesses Alfred Transue and Grace McDonald showing a prior act of intercourse between the prosecutrix and her father to have been committed in Menard County.
+Transue testified that he lived in Del Rio; that he went with appellant and his daughter and the McDonald family to Menard to pick pecans, in November of 1960; that appellant and the prosecutrix slept five or six feet from the tent in which he (the witness) slept; that appellant and the prosecutrix were together on the latter’s bed, which was just big enough for one person; that he could see a commotion; that appellant “was going up and down” and that he could see “the covers going up and down.” The witness further testified that appellant then got up and went to the fire and that the prosecutrix “pulled her blue jeans up and then took right off and went off to the bushes.”
+The witness McDonald testified that appellant was her husband’s uncle; that she was on the trip to pick pecans at Menard, where they slept in the pecan bottom. The witness further testified that appellant’s conduct toward his daughter “the morning [she] saw him get out of her bed was very unusual for a father.”
+Dr. George Hermann testified that he examined the prosecutrix and found that her hymen was not intact; that the vaginal orifice was “that of a married type” and that it admitted “three fingers.”
+Appellant did not testify nor offer any evidence in his behalf.
+There are no formal bills of exception and no objections nor exceptions to the court’s charge.
+By informal bill of exception, appellant complains of the testimony of Transue as to his (appellant’s) and the prosecturix’s actions, near Menard —not because the previous acts were inadmissible but because the best evidence should come from a person who “actually took part in it, rather than someone who just saw it.”
+The objection was overruled. We think properly so.
+We hold that previous acts of intercourse may be introduced where one stands in loco parentis. Johns v. State, 155 Tex. Cr. Rep. 503, 236 S.W. 2d 820; Armstrong v. State, 169 Tex. Cr. Rep. 1, 331 S.W. 2d 331.
+It is fundamental that the state may introduce evidence other than that of the prosecutrix.
+Appellant objected to the testimony of Mrs. McDonald that she had seen the discharge on the underclothing of the prosecutrix in January after the alleged rape on December 10, 1960. After all this testimony was in, appellant’s counsel objected and the court sustained the objection and instructed the jury not to consider it.
+Prior and subsequent acts of intercourse may be introduced in a statutory rape case. Simons v. State, 167 Tex. Cr. Rep. 15, 317 S.W. 2d 740.
+Appellant insists that the evidence is insufficient to sustain the conviction.
+Appellant’s able, court-appointed counsel is commended for his diligence, by brief and oral argument.
+While the testimony of the prosecutrix is inconsistent as to some of her answers and statements and some of her testimony might not comport with human experience, we hold the evidence to be sufficient to sustain the jury’s verdict.
+No attack was made upon the prosecutrix as being an incompetent witness. The able trial judge deemed her competent, or he would have refused to allow her to testify.
+The jury determined the weight and credibility of the testimony, and by their verdict found it sufficient.
+For the reasons stated, the judgment is affirmed.
