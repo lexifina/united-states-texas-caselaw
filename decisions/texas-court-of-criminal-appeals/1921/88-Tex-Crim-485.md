@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "6046"
+decided: "1921-02-16"
+citations: ["88 Tex. Crim. 485", "227 S.W. 1107"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ellis Gibbs v. The State."]
+source_url: "https://static.case.law/tex-crim/88/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4800145
+cites_cases: ["129 S. W. Rep., 1129", "143 S. W, Rep., 1168", "200 S. W. Rep., 168", "225 S. W. 538", "225 S. W. Rep., 538", "88 Texas Crim. Rep., 281"]
+---
+
+# Gibbs v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Appellant was convicted in the District Court of Hood County of the offense of assault with inten to rape a female under the age of consent, and his punishment fixed at -four years in the penitentiary.
+Most of the facts are undisputed. Appellant, a married man with grown children, and the alleged injured party, a girl of fifteen, met at night by appointment at a school house in the town of Tolar, Hood County, and remained there and in that vicinity till after 12 o’clock that night hugging and kissing and holding in laps, etc. The girl’s absence from home was discovered by her parents, and the indictment followed later. On the trial the girl in question testified that along with the demonstrations mentioned above appellant persistently sought to obtain carnal knowledge of her person by solicitation and putting his hand on her limbs, and trying to pull up her clothes, and that she resisted such efforts and refused to agree to the intercourse desired. Appellant admitted that he hugged and kissed said girl, and solicited her carnal favor, and also stated that she sat in his- lap, and that he might have put his hand over her limbs, but he denied that he tried to pull up her dress or that he put his hands on her with any purpose. He said he intended to divorce his wife and marry this girl. These are substantially the facts, except as will be stated in connection with some objections urged.
+By his bill of exceptions No. 1 appellant complains of testimony of a meeting between himself and the prosecutrix on the night preceding that of the alleged assault. The only objection appearing in the bill, as offered to this testimony, is that it related to a different time and place. Such objection was without merit. Many transactions and occurrences at times and places other than that of the immediate scene of the crime charged are often most material. This testimony so objected to tended to show the relations of these parties leading up to the occasion of the alleged assault.
+No error appears in bill of exceptions No. 2. As here presented same, consists of two pages of questions and answers, and we find no place where the trial court failed to sustain any objection made. We find various places where objection was made after a question was asked and answered, but no request appears anywhere of the court that he instruct the jury not to consider such matters.
+Appellant asked a special charge for peremptory instruction in his favor, which we think was correctly refused.
+Appellant asked the following charge: “You are further instructed that not merely the decent placing of the hands upon a woman while there exists in the mind no more than a purpose to persuade her to place herself or allow herself to be placed in the condition necessary for the operation, makes him guilty of the offense of assault with intent to rape, but that the person so placing his hand upon the girl must intend instantly and without suspension of action, and without waiting to ascertain whether or not she would consent to' then and there place her in the attitude to have carnal intercourse, whether by his force or by her free cooperation and consent, the final act could be performed, and that solicitation accompanied by the expectation of consent, and the laying on of hands without the use of such force, as indicates a purpose to obtain intercourse at the very time, is not an assault with intent to rape a female under the age of consent, and from all the evidence you must believe beyond a reasonable doubt, that the defendant did so intend to have intercourse vzith her at the very time without suspension of action, or without waiting for her consent, before you can convict him.”
+It is difficult to know just what was intended by this charge. The expressions used therein such as the decent placing of the hands upon a woman—the condition necessary for the operation—must intend instantly and without suspension of action—without waiting to ascertain whether or not she would consent—the final act could be performed—must believe the defendant intended to have intercourse with her without suspension' of action, etc., were such as to present no issue clearly and legally for the decision of the jury. Such charge, if given, could only have created confusion in the minds of the jury, and we think it was properly refused.
+We find in the record what purports to be exceptions to the court’s charge, but same are marked by the trial court “overruled.” There does not appear any where a bill of exceptions showing that such objections to the court’s charge were properly presented to the trial court in time. Said paper being marked “overruled,” we have nothing before us by which we may be informed whether said exceptions to the charge were presented to the court before he read his charge to the jury, and in such case we cannot consider same. Gibson v. State, 88 Texas Crim. Rep., 281, 225 S. W. Rep., 538.
+We cannot agree to the proposition that the evidence is not sufficient to support the verdict. If the testimony of the prosecutrix be true, and of this the jury and not this court are the arbiters, this appellant, who was a mature married man, not only spent hours trying to induce a girl fifteen years of age to allow him to have intercourse with her, but he tried against her will and consent to place his hands upon her limbs and to pull up her dress while so soliciting her carnal favor. This we think sufficiently evidenced an assault with the present intent to have carnal knowledge of said girl, and we conclude the jury was justified in so finding.
+The judgment will be affirmed.
+Affirmed.
