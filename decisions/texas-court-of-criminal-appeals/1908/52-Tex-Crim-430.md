@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "4177"
+decided: "1908-01-29"
+citations: ["52 Tex. Crim. 430"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rice Williams v. The State."]
+source_url: "https://static.case.law/tex-crim/52/cases/0430-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4562237
+cites_cases: ["35 Texas Crim. Rep., 391", "38 Texas Crim. Rep., 459", "43 S. W. Rep., 519", "50 Texas Crim. Rep., 282", "97 S. W. Rep., 483"]
+---
+
+# Williams v. State
+
+## Majority (RAMSEY, Judge.)
+
+RAMSEY, Judge.
+—Appellant was convicted in the county court of Johnson County for unlawfully selling intoxicating liquors in violation of the local option law.
+There are no bills of exception in the record, except those questioning the validity of the local option election, and the only questions of consequence arising are the motion of counsel for defendant to quash the indictment, and his objection to the orders, judgments and entries in the commissioners' court of Johnson County, touching the prohibition election in said county and the steps thereafter taken to make the result of said election effective. Complaint is made in the motion that the indictment is defective in that it is not distinctly averred that the commissioners court declared the result of the election held in said county on April 7, 1904, by an order of said court declaring the result as required by law. To sustain this contention reliance is had upon the proposition substantially that the indictment must allege that the result of the election was declared by the commissioners court, having in mind evidently the cases of Boone v. State, 10 Texas Crim. App., 418; Akin v. State, 14 Texas Crim. App., 142; Donaldson v. State, 15 Texas Crim. App., 25; and Stallworth v. State, 18 Texas Crim. App., 378. It should, in fairness, be stated that the language of many of the early decisions of this court would seem to lend strong support to appellant’s contention’. However, in the recent case of Stephens v. State, 97 S. W. Rep., 483, appealed from Johnson County, almost the identical question here raised was ruled adversely to the contention of appellant. In that ease the indictment read as follows: “Said Charley Stephens did then and there unlawfully sell intoxicating liquors to J. A. Hill after the qualified voters of said county had determined at an election held in accordance with the laws of the State of Texas, that the sale of intoxicating liquors should be prohibited in said county, and after the commissioners court of said county had made an order prohibiting the sale of intoxicating liquors in said county, and after said order had. been published according to law.” The indictment in this case is a faithful reproduction, indeed almost a literal copy of the indictment considered in the Stephens case, supra. In the last named case the validity of said indictment was raised by motion in arrest of judgment; but it is not believed that additional force can be lent to the objection by the mere change in form or manner in which it is presented. Passing on this identical question in the Stephens case, Judge Henderson said: “While there is no direct averment of the fact that the commissioners court had declared the result, it is shown that the voters had determined in favor of prohibition as to the sale of intoxicating liquors, and that the commissioners court had made an order prohibiting the sale of intoxicating liquors, which embraced the proposition that they had declared the result. There was no error in the action of the court in this regard.” In view -of this decision we do not feel ourselves at liberty to institute a new rule unless we were clear that the Stephens’ decision did not correctly decide the law of the case.
+Complaint is made of the alleged misconduct of the county attorney in his closing address to the jury, but what purports to be a bill of exceptions contained in the record is neither signed nor approved by the trial judge, and cannot, therefore, be considered.
+The proof in the case is conflicting. The prosecuting witness, John Hall, testifies distinctly that on the 10th day of January, 1907, he got a half pint of whisky from appellant, Rice Williams, for which he paid him 25 cents. This is denied by Williams, who testifies that some time near the day mentioned by prosecuting witness he gave him some whisky; that Hall at the time was drunk, and he never sold Hall any whisky in his life. In addition to this appellant introduced two witnesses, Ferguson and Matteson, both- of whom testified to their acquaintance with Hall for many years, and that his general reputation for truth and veracity in the community in which he lived was bad. It appears that Hall had resided in Cleburne and Johnson County most all the time for almost thirty-two years. Whatever view personally we are inclined to take of the credibility of the witnesses, we are not at liberty under the well settled rules of this court to disturb the verdict of the jury affirming appellant’s guilt.
+Finding no error in the record, the judgment of the court below is affirmed.
+Affirmed.
