@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1490"
+decided: "1898-05-25"
+citations: ["39 Tex. Crim. 330"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Unsell v. The State."]
+source_url: "https://static.case.law/tex-crim/39/cases/0330-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4496178
+---
+
+# Unsell v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant was convicted of the theft of cattle from E. P. Davis. There was a second count in the indictment, charging him with fraudulently defacing the brand upon one head of cattle, the property of said Davis. He was convicted under the first count for the theft of cattle.
+On the trial, the State introduced E. L. Craddock, who testified that on February 7, 1898, he had defendant under arrest on a charge of cattle theft in Baylor County; that at the home of the defendant, and near the granary in his field, and in the same field were a lot of cattle; that he warned the defendant, and told him anything he would say could be used against him or for him on his trial. About a half hour later, they approached some cattle in defendant’s inclosure, whose brands had been burned, and the witness remarked to defendant that it was the worst lot of burned stuff he had ever seen, and, if it was in his county, he would take charge of it. Defendant said he had never seen the stuff that was necked together and not burned. Various objections were urged to the introduction of this testimony. Without going into a discussion of the various questions, suffice it to say that this testimony was inadmissible, because, among other reasons, the defendant was not warned as required by the statute. Before a confession can be used against a defendant when made under arrest, he must be warned and cautioned that said confession can be used against him. To warn him that it may be used for him would be holding out an inducement. For a discussion of this question, see Guinn v. State (decided at the present term), ante, p. 257.
+The defendant requested a special - instruction that the recorded brand of E. P. Davis, “6” on the side, is not sufficient evidence alone to prove ownership in E. P. Davis, it having been recorded since the commission of the offense. This charge should have been given. See Turner v. State (just decided), ante, p. 322.
+The State introduced evidence of the record of the marks and brands of Archer County, which showed that the brand “6” on the left side was recorded in the name of E. P. Davis, the alleged owner, on the 4th of March, 1898, and subsequent to the alleged theft, to which the defendant objected for several reasons. The same bill shows as a fact that Davis had recorded in Throckmorton, the county of his residence, another brand, which was “6” on the jaw, “6” on the left side, and “6” on the left hip; and the record did not show its abandonment as a brand. And, further, said Davis testified that his ranch brand was “6” on the left side and “6” on the left .hip, and that this brand, “6” on the side, was only placed, on cattle he had bought and expected to sell or market, and he called the-brand “6” on the side his “road brand.” It was further shown that said Davis, on March 1, 1898, recorded another brand in Archer County, to wit, “6” on the left side and “6” on the left hip; and this had not been abandoned. Defendant objected, among other reasons, because Davis had already two recorded brands before the one introduced here was recorded, and that it was recorded since the alleged theft. So, under this state of case, there are two brands recorded in Archer County in the name of E. P. Davis—the first, dated March 1, 1898, “6” on the left side and “6” on the left hip, being No. 832 on the records; and on March 4, 1898, brand No. 835 was recorded, the same being “6” on the left side. We have also in Throckmorton County his brand, recorded in 1879, “6” on the left jaw, “6” on the left side, and “6” on the left hip. Then Davis testified that he had a ranch brand, which was “6” on the left side and “6” on the left hip. Our statute provides for the use of but one brand by any one person, and article 932 of the Penal Code imposes a penalty upon anyone who originally uses more than one brand in the branding of cattle. For a discussion of this matter, see Turner v. State (just decided), ante, p. 322.
+In regard to the testimony of Craddock and Butler with reference to some cattle the brands of which had been burned, and described by the witnesses as the “bow and arrow cow” and the “ladder steer,” we are of opinion that the testimony was not admissible. The record does not show them to be contemporaneous thefts, but rather the contrary. They were not claimed by the defendant, and are shown to have been sold to Butler by him as the agent of Guinn. The testimony, in our opinion, is not sufficient to show the defendant’s fraudulent connection with these animals, nor to sustain the theory that he and Guinn were engaged in a systematic line of theft. So, as presented under this record, we are of opinion that said testimony should have been excluded. For the errors indicated, the judgment is reversed and the cause remanded.
+Reversed and remanded.
+Hurt, Presiding Judge, absent.
