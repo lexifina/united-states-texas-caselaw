@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "563"
+decided: "1911-03-01"
+citations: ["61 Tex. Crim. 431"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. H. Poudrill v. The State."]
+source_url: "https://static.case.law/tex-crim/61/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4602755
+cites_cases: ["44 S. W. Rep., 159", "44 S. W. Rep., 495", "55 Texas Crim. Rep., 541", "72 S. W. Rep., 393", "98 S. W. Rep., 869"]
+---
+
+# Poudrill v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+—This is an appeal from a conviction in the County Court of Shelby County for an illegal sale of intoxicating liquors.
+An examination of the statement of facts shows that there was no evidence offered showing that local option had been adopted at any time in Shelby County, or the town or precinct in which the offense is charged to have occurred. It .has been the uniform holding of this court that where this occurs to reverse the case. There are many opinions to this effect. Tyrell v. State, 44 S. W. Rep., 159; Scott v. State, 44 S. W. Rep., 495; Lively v. State, 72 S. W. Rep., 393; Allen v. State, 98 S. W. Rep., 869; Bills v. State, 55 Texas Crim. Rep., 541. On this account the judgment of the lower court will be reversed and the cause remanded.
+The other questions raised in the case- will probably not occur upon another trial, and it is unnecessary to decide any of the questions raised.
+Reversed and remanded.
