@@ -1,0 +1,55 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,796"
+decided: "1954-02-10"
+citations: ["159 Tex. Crim. 557"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Earl Huskey v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0557-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2478680
+cites_cases: ["126 Tex. Cr. R. 111", "142 Tex. Cr. R. 4", "151 S. W. 2d 211", "156 Tex. Cr. R. 290", "158 Tex. Cr. R. 272", "235 S.W. 2d 641", "255 S.W. 2d 204", "69 S.W. 2d 1113"]
+---
+
+# Huskey v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The offense is the sale of whiskey in a dry area, with prior convictions alleged to enhance the punishment; the punishment, one year in jail and a fine of $4,000.
+Appellant challenges the sufficiency of the evidence to support the conviction*
+The prior convictions were proven, and evidence was offered as to the dry status of the county.
+Kenneth Pierce, a Texas Liquor Control Board Inspector, testified that he, Leon Bowman and James B. Cole, two other inspectors, on May 13, 1953, parked their car about fifteen feet north of the Highway Club in Nolan County; that he approached the north door, pushed a button, heard a bell ring inside, then entered a small room without windows with a heavy door with a lock about three feet from the floor and another about three feet from the top, which provided entrance into the main building. This heavy door, about “waist-high,” had a V-shaped trough about fifteen inches wide and six inches high built in it so that objects could be passed through the door. In the door was a two-way mirror. That is, to one on the outside it appeared to be a mirror and to one on the inside it was transparent.
+Officer Pierce further testified that as he approached the heavy door a voice from the inside asked “ ‘What will it be?’ I told him I wanted a pint of Bourbon whiskey. He said, ‘Just a minute,’ and he was gone about sixty seconds. He said he didn’t have that but he had Old Crow and Yellowstone. I said, ‘Will it be the same price?’ and he said, ‘No, five dollars.’ I said that would be all right, I would take Old Crow. He left again and while he was gone I placed five $1 bills in the slot. I saw a hand go into the slot and get the five $1 bills and then place the whiskey in the slot. I took the whiskey out and returned to the car.” In regard to the money passed through the door, the witness said: “In the afternoon of that same day I had taken four $1 bills and copied the serial numbers off of them and placed a bluish-purple burglar powder on each side of those four $1 bills. I put them in an envelope and when the voice on the other side of the door said it would be $5, I deposited the $4 and took a dollar bill out of my billfold and placed it in the trough with the $4;” that the name of the “burglar powder” was Gentian, which will “come off on anybody’s hands who touches it,” and that is hard to remove.
+He further stated that he returned to the car and “Well, we immediately returned to the door and rang the buzzer and told them we had a search warrant for the Highway 80 Club. I heard a noise which sounded like a commode flushing, and the Deputy Supervisor, Leon Bowman, went to the door and James B. Cole went to the front entrance * *
+The witness said after he entered the building he met Jesse Ross McDowell and looked at his hands and no “Burglar powder” was on them; that in another room he saw appellant with “something on his hands, face and trousers that looked like burglar powder. It looked like the burglar powder after you had it on your hands. It had the same appearance.”
+He further testified that only five persons were in the building, the other three being: Mrs. John Earl Huskey, Mrs. Jesse Ross McDowell and her eight-year-old daughter; that he examined the hands of each of these three and found no “powder” on them; that he looked at appellant’s hands and “He (appellant) said something about he had been putting a typewriter ribbon on a typewriter;” that he did not find a typewriter in the building. He identified a bottle of whiskey as being the same that he purchased at the heavy door of the building; that he did not see anyone leave the building after they arrived and before a search of the building was made.
+Inspector Bowman testified that appellant had some “stuff” on his hands and the hands of the other persons in the building were not discolored; that he did not see anyone leave the building.
+O. B. Lee, while testifying in appellant’s behalf, stated that he operated a service station and that he serviced appellant’s car late one evening about May 13; that he saw a blue substance on appellant’s hands which he thought came off of an ink pad in his station and mentioned it to appellant, who said “he must have got it on his hands from changing a typewriter ribbon;” that appellant told him the next day that the “ink” almost got him in trouble.
+The evidence does not show appellant’s connection with the Highway 80 Club; no whiskey was found in the building; and the five $1 bills passed through the heavy door were not recovered.
+The jury was charged upon the law of circumstantial evidence.
+The state’s evidence is direct that someone sold Kenneth Pierce some whiskey and, to identify the seller, the state was required to rely upon circumstantial evidence. The presence of the appellant in the building from which the whiskey was passed through the door; the fact that some one on the inside received and disposed of the bills which were covered with Gentian or “burglar powder;” that of those present appellant alone showed evidence of having had the bills in his hands, the evidence being “hard to remove;” these facts and circumstances surrounding the transaction are, taken together, of such cogency that they exclude the connection of any other person with the transaction save appellant and the purchasing party. Scholl v. State, 156 Tex. Cr. R. 290, 235 S.W. 2d 641. In Hawkins v. State, 126 Tex. Cr. R. 111, 69 S.W. 2d 1113, we said:
+“There is no evidence of probative force pointing to any other person than appellant as the seller of the liquor.”
+See also Huskey v. State, 158 Tex. Cr. R. 272, 255 S.W. 2d 204.
+We conclude that such evidence, when considered as a whole, excludes any other reasonable hypothesis than that of appellant’s guilt.
+The judgment of the trial court is .affirmed.
+Opinion approved by the Court.
+
+## Rehearing (DAVIDSON, Judge.)
+
+ON APPELLANT’S motion for rehearing.
+DAVIDSON, Judge.
+Appellant earnestly insists that we erred in concluding that the facts were sufficient to support the conviction. In that connection, it is contended that others were shown to have been present with an equal opportunity to make the sale of the whisky and the state failed to call them to deny that they made such sale.
+Appellant calls attention to the fact that, according to the state’s theory, Jesse Ross McDowell was in charge of the premises where the sale was made. The search warrant by which entry of the premises was made after the sale alleged that Mcr Dowell was in possession of the premises. Mrs. McDowell and their eight-year-old child, were also present in the house. None of these persons was called as a witness to deny that they made the sale of the whisky. The appellant insists that in failing to call them the state-has .failed to meet the test of circumstantial evidence. “
+With this contention we do not agree.
+The officers did examine the hands of all of the parties, and none showed the stain of the so-called “burglar powder.” If a sale of the whisky was shown, it was by the person who received and handled the money with the identifying powder thereon. The absence of the powder on the hands of the other parties is deemed sufficient to meet the test of exclusion.
+It is next contended that proof showing the stain from the powder upon appellant’s hands is not sufficient to identify him as the seller of the whisky. To support his contention, appellant relies upon the so-called fingerprint cases where identification by similarity of fingerprints, alone, is not sufficient.
+We see no reason why the rule of law applied in finger-print cases should not be here given recognition, because of the similarity of the facts. We do not, however, agree that appellant is not here shown guilty under that rule. The finding of the powder upon appellant’s hands was a circumstance showing that it was his hand that delivered the whisky and handled the money given in payment therefor, just as much so as if such circumstances had been shown by his fingerprints.
+Shortly after the sale of the whisky, appellant was found to be in the house where such sale was made. Therefore, he was shown to have had the opportunity of making the sale or of receiving the powdered money given in payment thereof.
+In Grice v. State, 142 Tex. Cr. R. 4, 151 S. W. 2d 211, we discussed at length the probative force of fingerprint evidence and there reached the following conclusion:
+“Our investigation leads us to conclude that where the evidence, as here, shows the fingerprint found at the scene of the crime was left there by the criminal at the time the crime was committed, thereby excluding the hypothesis that it might have been placed there innocently prior to or subsequent to the commission of the crime, and the evidence further shows that said print is identical with known prints of the accused, that such evidence satisfies the law and excludes every reasonable hypothesis save.guilt of the accused.”
+Believing that the rule stated is here applicable, we remain convinced that a correct conclusion was reached originally.
+The motion for rehearing is overruled.
+Opinion approved by the court.
