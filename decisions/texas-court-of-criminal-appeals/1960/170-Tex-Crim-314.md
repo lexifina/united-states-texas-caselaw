@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,896"
+decided: "1960-12-07"
+citations: ["170 Tex. Crim. 314"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte John Leonard Rubison"]
+source_url: "https://static.case.law/tex-crim/170/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2630866
+cites_cases: ["139 Tex. Cr. R. 489", "140 Tex. Cr. R. 83", "141 S.W. 2d 319", "143 S.W. 2d 956", "165 S.W. 2d 81"]
+---
+
+# Ex parte Rubison
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Applicant, being in custody of the sheriff of Dallas County, applied to Hon. Henry King, Judge of Criminal District Court No. 2 of Dallas County, for writ of habeas corpus alleging that he was unlawfully restrained of his liberty, being “held for Sheriff of Ector County on charge of forgery.”
+On November 16, 1960, Judge King granted the writ; set hearing for November 18, 1960, and granted bail in the sum of $750.
+Applicant made the bond and was released from custody.
+Upon it being brought to the attention of Judge King that applicant had been indicted by the grand jury of Ector County for the felony offense for which he had granted the writ, Judge King directed that said writ be made returnable to the 70th Judicial District Court of Ector County for hearing on November 28, 1960, at 10 A.M., and applicant-was remanded to the custody of the sheriff.
+Judge King granted the application for habeas corpus presented to him pursuant to Art. 118 C.C.P. and set the hearing in Dallas County. When he learned that the applicant was under indictment in Ector County and was in custody by reason of a capias issued in said county, it became his duty under the provisions of Art. 119 V.A.C.C.P. to make the writ returnable to Ector County for hearing there, which he did. Ex parte Patterson, 139 Tex. Cr. R. 489, 141 S.W. 2d 319; Stakes v. Rogers, 165 S.W. 2d 81.
+This is an original application to this Court for habeas corpus in which the same relief is sought which is sought in the habeas corpus proceeding in which Judge King granted the writ.
+It is true that applicant gave notice of appeal from the order of Judge King making the writ returnable for hearing in Ector County. Such order was not, however, one from which an appeal would lie.
+To grant the application and issue writ of habeas corpus would sanction the obtaining of a second writ of habeas corpus while the hearing on a writ which had been granted was pending, contrary to Art. 171 V.A.C.C.P. It would also require this court to issue an order which in effect was a mandamus; that is, an order directing a sheriff to accept an appearance bond that had been tendered to him and release the defendant.
+This court’s jurisdiction to issue mandamus extends only to cases where such writs are necessary to enforce the jurisdiction of this court. We are without authority to order the sheriff of Dallas County to accept applicant’s bond to answer the felony charge in Ector County. Ex parte Newsom, 140 Tex. Cr. R. 83, 143 S.W. 2d 956.
+The application for habeas corpus is denied.
