@@ -1,0 +1,45 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,430"
+decided: "1955-02-16"
+citations: ["161 Tex. Crim. 300"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cebie Woodrow Hughes v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0300-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2466963
+cites_cases: ["161 S.W. 2d 795", "235 S.W. 602", "243 S.W. 2d 706", "244 S.W. 2d 818", "252 S.W. 2d 195", "264 S.W. 2d 112"]
+---
+
+# Hughes v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Appellant was convicted of unlawfully driving a motor vehicle upon a public highway while intoxicated, and his punishment was assessed at three days in jail and a fine of fifty dollars.
+The statement of facts appearing in the record is not shown to have been filed with the clerk of the trial court as required by Article 759a, section 4, Vernon’s Ann. C.C.P., and therefore cannot be considered as a part of the record on appeal. Williams v. State, 264 S.W. 2d 112.
+In the absence of a statement of facts, this court cannot pass upon the appellant’s contention that the evidence is insuffióient to support the conviction, Shaddix v. State, 90 Texas Cr. R. 431, 235 S.W. 602; Lewis v. State, 243 S.W. 2d 706; and likewise, cannot appraise the exceptions to the court’s charge, the refusal of a requested charge or the bills of exception complaining of the introduction in evidence of certain testimony. Smith v. State, 144 Texas Cr. R. 172, 161 S.W. 2d 795; Whistler v. State, 244 S.W. 2d 818, and Conde v. State, 252 S.W. 2d 195.
+The complaint and information, as well as all other matters of procedure, appear regular; therefore, nothing is presented for review.
+The judgment of the trial court is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (WOODLEY, Judge.)
+
+on appellant’s motion for rehearing
+WOODLEY, Judge.
+It is now shown that the statement of facts was timely filed in the trial court and it will be considered.
+The sufficiency of the evidence to sustain the conviction is challenged, the contention being that there is no proof that appellant drove an automobile on the occasion in question.
+The state offered two witnesses.
+J. B. Thomas, of the Paris Eire Department, testified that about a mile and a half north of Powderly, in Lamar County, Texas, about 9 o’clock p.m., as he was traveling south toward Paris, he got behind an automobile and followed it for about a mile before he succeeded in passing.
+He testified that this car had gone off the road on the left hand side a couple of times, and finally pulled off the right side of the road; that he took the number of the car and, after it pulled off the road, passed it and proceeded toward Paris; that he saw only one person, the driver, in the car but could not identify him and could not testify that no one else was in the car.
+Thomas further testified that north of Paris he saw Highway Patrolman Murray Chapman, and gave him the license number of the car he had tried to go around.
+Patrolman Chapman testified that he had occasion to see Thomas at the approximate location north of Paris described by both witnesses, and after talking with him, drove at a speed of about 50 miles per hour directly to the place some eleven miles north where he found appellant lying in the front seat of an automobile which was parked in a rural area, partially on the road and partially on the shoulder, headed south. The license number on the car was checked with the license number that Thomas had given him. No one else was found in or around the car.
+Patrolman Chapman further testified that in his opinion appellant was intoxicated, and the facts relating to that subject were shown and are not questioned.
+The jury was charged on the law of circumstantial evidence. The issue before us is whether the facts and circumstances stated are sufficient to support the finding that appellant drove the automobile in which he was found, and to exclude every other reasonable hypothesis.
+The testimony of Thomas relating to the car he saw proceeding along the highway, the number of which he furnished the officer, together with the testimony of the officer, is deemed sufficient to show that appellant was alone in the car and was the driver thereof.
+Thomas testified without objection that he took the license number of the car he had tried to pass, and gave it to Officer Chapman. Chapman’s testimony to the same effect could not, therefore, call for reversal.
+The court did not err in admitting the testimony of the officer that the car in which he found appellant bore the same license number as that furnished him by Mr. Thomas.
+The evidence is deemed sufficient to sustain the conviction and no reversible error is found.
+Appellant’s motion for rehearing is overruled.
