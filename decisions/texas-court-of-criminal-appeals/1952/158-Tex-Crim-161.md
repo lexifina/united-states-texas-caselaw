@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,045"
+decided: "1952-11-19"
+citations: ["158 Tex. Crim. 161"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Lancaster v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2482446
+---
+
+# Lancaster v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+Appellant was charged by complaint and information with unlawfully placing “in one of the waters of this State, to-wit: in the Leon River, in Comanche County, Texas, a drug and a substance and thing deleterious to fish life, the exact name of which drug and thing and substance is unknown to affiant, for the purpose of catching, and for the purpose of attempting to catch fish by the use of such drug, substance and thing,” etc. Upon his conviction, the punishment was assessed at a fine of $50.00 and confinement in the county jail for 60 days.
+The testimony shows that a 13-year-old boy accompanied the appellant and others to a spring hole in Leon River; that appellant and his companions dusted some rags in some kind of a white powder in a cardboard container and then washed the rags out in the water; that in a few minutes thereafter many fish came up to the top of the water and were picked up by the appellant and his companions; that there was probably a washtub full; that all of the fish seemed to be suffering in some way; that they picked up many fish whose gills were covered with a certain kind of substance that deprived them of their power to obtain oxygen. The substance which they placed on the rags came out of a “funnel-looking box.” Shortly after the rags had been washed out in the water the fish came to the surface. The appellant and his companions stood there and watched them for awhile and then picked them up and took them away.
+A game warden testified in answer to a hypothetical question that a substance known as “Orris Root Powder or Rotenone,” if used in the manner as claimed by the state in this instance, will kill out the fish that are found in the waters of this state; that it leaves a scummy look or oily smell and that the fish will come up in about thirty minutes; that it could be used to sufficiently destroy all fish life because of the fact that it covers up the gills; that the fish cannot get enough oxygen and smother to death.
+A further witness testified that his land bordered on the Leon River near this spring hole; that he was the owner of the land at the time of the occurrence herein complained of. He went down to the spring hole on Sunday afternoon on July 28, 1951, to go in swimming and found many dead fish caught in a drift. He said that on the previous day Frank Lancaster and some people came up to the house and asked if they could fish, and he told them that they could. He said that he had seen the hole that day before the appellant and his companions went there and that there were no dead fish floating around at that time; that on Sunday when he went to the hole, he saw dead fish in a drift; that they were swollen and their gills flared open; that they were beginning to bloat and beginning to smell; that there were quite a few of them. He said that this was the first time he had ever seen this brown scum on the water.
+Appellant and his companions denied having placed any deleterious substance in the water or having poisoned any fish, their claim being that they had driven the fish under a drift and caught them with their hands.
+It is claimed that this is a case of circumstantial evidence and that the court should have instructed the jury upon that issue. There are circumstances in the case which might point to the guilt of the appellant; and there is direct evidence from the little 13-year-old boy that appellant and others placed a substance of some kind in the Leon River and that dead fish came up to the surface of the water. Under these circumstances, we do not think that a charge on circumstantial evidence is called for in view of the fact that there is direct evidence that appellant and his companions poisoned these fish, caused the death of many of them, and took home approximately a tub full of fish.
+There being no other matter offered for our consideration, and no error having been reflected by the record, the judgment of the trial court is affirmed.
+
+## Rehearing (BELCHER, Judge.)
+
+ON MOTION FOR REHEARING.
+BELCHER, Judge.
+Appellant urges that we erred in holding the facts sufficient to support the conviction, and if sufficient, then he urges that the court erred in holding that this case did not require a charge to the jury on circumstantial evidence.
+The facts have been re-examined and found to be sufficient to support the conviction.
+Although there are circumstances pointing to the guilt of appellant, yet, there is direct evidence in the record that appelplant and his companions committed the act charged. Therefore, an instruction to the jury on circumstantial evidence is not required.
+The statement in the original opinion concerning the quantity of fish is corrected to read “about half a tub full.”
+We have reconsidered the case in the light of the matters presented and are of the opinion that the correct conclusion was reached.
+The motion for rehearing is overruled.
+Opinion approved by the Court.
