@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,902"
+decided: "1957-03-06"
+citations: ["164 Tex. Crim. 355"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alfred Bartley, Jr. and Joy Jay Weaver v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0355-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2612373
+cites_cases: ["118 Texas Cr. Rep. 366", "147 Texas Cr. Rep. 140", "179 S.W. 2d 545", "42 S.W. 2d 441"]
+---
+
+# Bartley v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The appellants were tried jointly upon indictments charging the primary offense of attempt to commit burglary, with prior convictions of offenses of like character alleged for enhancement; the punishment in each case assessed at four years.
+We are met at the outset with the appellant’s contention that the verdict is insufficient to support the judgment.
+We shall quote from the indictment, the charge, the verdict, and the judgment in the case against Bartley. The same question is common to both cases.
+In the first paragraph of the indictment, the primary offense was properly charged.
+The second paragraph reads as follows:
+“And the grand jurors aforesaid, upon their oaths aforesaid, do further present in and to said Court that prior to the commission of the aforesaid offense by the said Alfred Bartley, Jr., and to-wit, on the 24th day of August, 1953, in the District Court of Haskell County, Texas, and in Cause No. 4034, entitled The State of Texas vs. Alfred Bartley, Jr., on the docket of the said Court, the said defendant, Alfred Bartley, Jr., was duly and legally convicted in said last named Court of a felony less than capital and one of like character as alleged against him in the first paragraph hereof, to-wit, the offense of burglary, upon an indictment then legally pending in said last named Court and of which said Court had jurisdiction and said conviction being suspended but suspension being revoked on July 10, 1954, and becoming a final conviction and was a conviction and sentence thereon for an offense committed by him, the said defendant, prior to the commission of the offense herein above charged against him as set forth in the said first paragraph hereof, Against the peace and dignity of the State.”
+In submitting the case to the jury, insofar as the question presented for review is concerned, the court did so as follows:
+“Now, if you believe from the evidence beyond a reasonable doubt that the defendant Alfred Bartley, Jr., in the County of Stephens and State of Texas, on or about the 2nd day of November, A.D. 1956, as alleged in the first count of the indictment, then and there did attempt to break and enter a house then and there occupied and controlled by Jack Ellis, with the intent then and there to fraudulently take therefrom corporeal personal property then and there belonging to the said Jack Ellis, from the possession of the said Jack Ellis, without the consent of the said Jack Ellis, and with the intent to deprive the said Jack Ellis of the value of the same and then and there to appropriate it to the use and benefit of him the said Alfred Bartley, Jr., and that the said Alfred Bartley, Jr., did then and there in carrying out said design to break and enter said house with the intent aforesaid, and did then and there attempt to open a door of said house by the use of all acts of forcing a door to the said house and with the intent as above alleged; and you further find and believe that the defendant has heretofore been once convicted of a felony less than capital, of which the judgment has become final against him, the said Alfred Bartley, Jr., you will find the defendant guilty as charged in the second count of the indictment.
+“If you do not so find from the evidence beyond a reasonable doubt that the defendant is guilty of the offense charged in the second count of the indictment and that he has heretofore been once convicted of a felony less than capital, or if you have a reasonable doubt as to his guilt, as charged in the said second count, or as to his prior conviction as set out therein, you will acquit the defendant of the charge contained in the second count of the indictment.”
+It should be noted that the court used the term “count,” when the same is actually the second paragraph. But, be this as it may, we must construe the verdict in the light of the charge.
+The verdict reads as follows:
+“We, the jury, find the defendant guilty under the second count of the indictment.”
+The judgment found each appellant guilty as a second ofender and set their punishment in accordance with the terms of Article 62, V.A.P.C., at four years.
+Were we writing on a clean slate, we might have minimized the strength of the appellant’s contention, but this question has been decided.
+In Cagle v. State, 147 Texas Cr. Rep. 140, 179 S.W. 2d 545, in an exhaustive opinion written by Presiding Judge Hawkins, the identical question here presented was decided and supports the appellant’s contention.
+The form of verdict selected by the jury in that case read as follows:
+“We, the jury, find the defendant guilty as charged in the second section of the second count of the bill of indictment.”
+We quote from the opinion:
+“The form of verdict suggested was unfortunate and evidently was an oversight on the part of the court. If the jury had returned the verdict in question without the form having been suggested by the court its failure to pass upon the guilt of the appellant for the present offense charged would not even be debatable. If the verdict does not include a finding of guilty upon the primary offense it is futile to cavil as to how the error came about. The court can not receive a verdict and give effect to part of it and ignore some other part. Williams v. State, 118 Texas Cr. Rep. 366, 42 S.W. 2d 441, and cases therein cited. Neither may the court receive a verdict and go beyond it in entering judgment thereon. The judgment must follow the verdict. If it did so in the present case it would simply adjudge that appellant at some previous time had been convicted of certain felonies because nothing more than that is charged in the second section of the second count.”
+We have studied the original papers in the Cagle case and are unable to distinguish it from the case at bar.
+The judgments are reversed and the causes remanded.
