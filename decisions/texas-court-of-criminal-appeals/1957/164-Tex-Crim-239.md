@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,810"
+decided: "1957-02-13"
+citations: ["164 Tex. Crim. 239"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Carleton Belyeu v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2607345
+cites_cases: ["160 Texas Cr. Rep. 309", "268 S.W. 2d 667"]
+---
+
+# Belyeu v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is driving while intoxicated as a second offender under Article 802b; the punishment, a fine of $1,000.00.
+The witness Spears testified that the automobile driven by the appellant collided with his parked automobile in front of his place of business, that he ran out, hailed the police, and saw them apprehend the appellant a short distance down the street. He stated that the appellant leaned up against a parking meter while he talked to the officers and that he “didn’t look normal” to him.
+Officer Moore testified that he responded to Spears’ call and found the appellant seated in his automobile at the curb.' He stated that he smelled alcohol on the appellant’s breath, observed that his speech was slurred, that he could not stand alone, that his eyes were “blurry,” expressed the opinion that he was intoxicated, and that he placed him under arrest.
+Officer Smith testified that the appellant was unsteady on his feet, had bloodshot eyes, that he spoke with a thick tongue, and expressed the opinion that he was intoxicated.
+The appellant, testifying in his own behalf, stated that he had drunk one beer on the occasion in question and denied that he was intoxicated. In this, he was supported by the testimony of Mr. and Mrs. Gallemore.
+The prior conviction was established.
+The jury resolved the disputed issue of the appellant’s intoxication against him, and we find the evidence sufficient to support the conviction.
+The sole bill of exception advanced on appeal in appellant’s brief relates to argument of the prosecutor. It recites that he said in his closing argument:
+“I believe the defendant was drunk when he drove his automobile on the street that day when he collided his car with that of Mr. Spear’s parked there on the street, just as he is charged with here.”
+The bill is qualified, in part, as follows:
+“Counsel for Defendant’s objection and request were made to the Judge in a low tone of voice at the Judge’s Bench without interrupting the argument of the District Attorney.
+* * * *
+“The Trial Court considered the District Attorney’s argument to be his deduction from the evidence and in reply to Defendant’s argument to the jury.”
+Recently, in Eldridge v. State, 160 Texas Cr. Rep. 309, 268 S.W. 2d 667, we reviewed the authorities and the reason for our holding that a private objection to the court was not sufficient to preserve the error, if any, in argument.
+When the appellant accepted the court’s qualification that the argument was in reply to his own counsel’s argument, he is bound thereby, and no error is reflected by such a bill.
+Finding no reversible error, the judgment of the trial court is affirmed.
