@@ -1,0 +1,47 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,936"
+decided: "1959-11-25"
+citations: ["169 Tex. Crim. 14"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nearvel Moon v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12122727
+cites_cases: ["163 Tex. Cr. R. 58", "167 Tex. Cr. R. 289", "252 S.W. 2d 701", "283 S.W. 2d 239", "288 S. W. 2d 782", "312 S.W. 2d 661", "317 S.W. 2d 203", "319 S. W. 2d 720", "79 S. Ct. 825"]
+---
+
+# Moon v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is murder; the punishment, death.
+The evidence reflects without conflict that the appellant came upon two men and a boy who were target shooting in a rural section of Harris County and asked permission to fire their pistol. When he was given the pistol, he turned it on the three and marched them to a nearby woods where he shot and killed all of them after having taken their money. Following this, appellant masked himself and left the scene, encountering some young women on horseback at whom he made threatening gestures with his rifle. Upon his return home, appellant secreted the pistol, which he had used in the homicides, and the money in a closet and hid the billfolds which he had taken from the deceaseds in a chimney.
+Appellant admitted the killings, the pistol used, and the money and billfolds taken were recovered as a result of his oral confession. Also appellant’s written confession was introduced without objection.
+The sole defense was that of insanity. In support thereof the appellant called Dr. Wagner, a psychiatrist, who had examined appellant while in jail and who had interviewed members of appellant’s family. He classified appellant as a “borderline mental defective” with a “schizoid personality” but stated he did not consider appellant to be “psychotic” or “insane.”
+By various witnesses it was shown that the moral level in appellant’s home and family was extremely low.
+The state countered this with the testimony of two psychiatrists and various lay witnesses who testified that in their opinion the appellant, though retarded, was sane.
+Under appropriate instructions the jury resolved what conflict there was in the evidence against the appellant, and we find sufficient support for its verdict in the record.
+On appeal the appellant relies entirely upon the alleged error of the trial court in failing to grant his various motions for change of venue and relies upon several cases from this court and the recent opinion of the Supreme Court of the United States in Irvin v. Dodd, 79 S. Ct. 825.
+We are furnished no statement of facts showing what evidence was heard by the court at the hearing on the motion, as is required by Art. 760c, V.A.C.C.P., but, because of the penalty here involved, we will discuss appellant’s motion. If we were authorized to accept as true the allegations in his motion, it reflects that 139 veniremen responded to the summons, that 33 were excused for “various legal excuses”, that after all challenges had been made twenty of the remaining sixty veniremen were excused from jury duty for the reason that they expressed an opinion as to the guilt of the defendant. We pause here a moment to note that appellant attached to his motion a scratch sheet listing the entire venire and we find thereon only 16 names which have the word “opinion” opposite them. Be this as it may, we are informed by the motion that appellant had not exhausted his challenges.
+We shall endeavor to point out distinctions between the case at bar and Irvin v. Dodd, supra.
+1. In Irvin, 335 jurors were called and 233 of that number had formed the opinion that the defendant was guilty. In this case 139 responded to the summons and 16 or 20 of that number had expressed an opinion as to the guilt of appellant.
+2. In Irvin the accused’s counsel exhausted all of his peremptory challenges, while in the case at bar he did not do so.
+3. In Irvin four jurors who were selected after his challenges had been exhausted stated that they had an opinion that Irvin was guilty. In case at bar there is an entire absence of any allegation or proof that any juror who served in appellant’s case had an opinion as to appellant’s guilt at the time he was selected.
+It has been the consistent holding of this court, in Lopez v. State, 158 Tex. Cr. Rep. 16, 252 S.W. 2d 701; Kizzee v. State, 166 Tex. Cr. Rep. 191, 312 S.W. 2d 661; and Slater v. State, 166 Tex. Cr. Rep. 606, 317 S.W. 2d 203 and cases there cited, that in order to require a reversal for refusal to change venue, there must be a showing that prejudice against the accused found its way into the jury box at his trial. We reverse where such a showing is made. Williams v. State, 162 Tex. Cr. Rep. 202, 283 S.W. 2d 239.
+No reversible error appearing, the judgment is affirmed.
+
+## Rehearing (DICE, Judge.)
+
+ON APPELLANT’S motion for rehearing
+DICE, Judge.
+In his motion for rehearing, appellant insists that the court erred, during the selection of the jury in the case, in ordering additional talesmen summoned by the sheriff from which the jury was completed instead of drawing the names of the jurors from the jury wheel. Appellant relies upon Coy v. State, 163 Tex. Cr. R. 58, 288 S. W. 2d 782, in which it was held that in the formation of the jury in a capital case in Bexar County, a county under the jury wheel law, it was error, upon the list of jurors being exhausted, to complete the jury from talesmen summoned by the sheriff under Art. 596 V.A.C.C.P. and that the jury should have been completed from the names of jurors drawn from the jury wheel.
+The Coy case was decided by this court in 1956 prior to the amendment of Art. 601-A, V.A.C.C.P. by the 55th Legislature in 1957. Acts 1957. 55th Leg. p. 792, Ch. 327.
+As presently amended, Art. 601-A, supra, provides that in all counties in this state where jurors are drawn from a jury wheel and where as many as one hundred (100) jurors have been summoned in such county for regular service for the week in which a capital case is set for trial the judge of the court having jurisdiction of the capital case in which a motion for special venire has been made, “shall grant or refuse such motion for a special venire and upon such refusal require the case to be tried by regular jurors summoned for service in such county for regular service for the week in which such Capital case is set for trial and such additional talesmen as may he summoned by the Sheriff upon order of the court as provided, in Art. 596 of the Code of Criminal Procedure,” etc.
+In Johnson v. State, 167 Tex. Cr. R. 289, 319 S. W. 2d 720 the constitutionality of Art. 601-A, supra, as amended was upheld by this court.
+Appellant’s trial was after the effective date of the 1957 amendment of Art. 601-A, supra, and was in a county in which the jury wheel law is applicable. Art. 2904, V.A.C.S. As amended, Art. 601-A, supra, clearly authorizes a trial judge in such a county to order additional talesmen summoned by the sheriff in a capital case as provided by Art. 596, supra. Under the provisions of Art. 596, supra, the trial court is authorized to order the sheriff to summon additional talesmen upon a failure to select a jury from those summoned upon the special venire.
+The court’s order in the present case directing the sheriff to summon the additional jurors recites that there had been a failure to select a jury from those persons who had been summoned. Under the record the court’s action was authorized and no error is shown.
+The motion is overruled.
