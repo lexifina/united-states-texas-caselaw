@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,801"
+decided: "1961-02-08"
+citations: ["171 Tex. Crim. 3"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. E. Chapman v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0003-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2635489
+---
+
+# Chapman v. State
+
+## Majority (MORRISON, Judge)
+
+MORRISON, Judge
+The offense is aggravated assault; the punishment, one year in jail and a fine of $500.00.
+Randy Calhoun, aged 11, testified that his mother, his sisters and appellant, his step-father, went to Greenville to visit appellant’s brother on the day in question; that he corrected appellant in the presence of the others about something he said, and appellant replied, “I got one stored up for you”; that .upon their return to Dallas appellant observed his bicycle lying on the side of the sidewalk and said, “You little s. o. b., move that bike,” and when he started to comply with such order appellant kicked him, causing him to fall. He stated that appellant grabbed him by the arm and drug him back in the house, got his belt and started beating him with the buckle end; that he fell to his knees, and appellant started hitting him with his fist, during which time “he shoved my head against his knee and hurt my ear”, and that when his six-year old sister “ran in” appellant knocked her up against the wall and then kicked her. He testified that he went with his mother and sister to a doctor the following day and had his ear examined.
+Freda Sipriano, who lived across the street from appellant, testified that on the day in question she saw appellant jerk one of the little girls in the house by her hair and later saw him kick Randy as he was going down the steps and then drag him back in the house, after which she heard Randy scream. On cross-examination, she testified that appellant was always cussing at the children and “hitting on them”.
+James Calhoun, Randy’s natural father, testified for appellant. He stated that Randy had lived with him until approximately a year and a half before the day charged and that Randy’s mother had secured custody of the children. He testified that he had occasion to examine Randy three days after the date alleged and found four or five blue marks on his buttocks and down on his leg, but found no other evidence of injury to his person.
+Appellant also called Dr. Thomas, who examined Randy, and he testified that he found a bloody discharge from his ear and minor bruise discolorations (bleeding of small blood vessels, mostly due to trauma) on his shoulder, arms, knees, elbows, ankles and above. He also testified that at the same time he examined the little girl and treated her then, and several times thereafter, for nose bleed which had been caused by a blow.
+Appellant, tpstifiying in his own behalf, stated that on the occasion in question he told Randy to put his bicycle in the garage, that Randy kicked the screen door open, and that he reprimanded him for doing so by giving him four or five licks with his belt.
+Appellant also called a fellow employee who testified as to his good reputation.
+We find the evidence sufficient to support the conviction and shall discuss the questions raised by the bills.
+He first contents that the court erred in excluding the evidence of the natural father about what someone had told him after an investigation had been conducted. This was clearly hearsay and therefore not admissible.
+The next bill reflects that the court excluded the testimony of Randy’s uncle to the effect that at some time prior to the alleged assault Randy visited at his house and that he caught him pulling on a newly planted tree, had reprimanded him and Randy had spoken disrespectfully to him, and that he knew Randy as a “strong willed” boy. We have been cited no authority supporting his contention that the exclusion of such evidence was error and know of none.
+The other questions presented in the brief prepared by appellant’s attorney on appeal only were either testified to by appellant himself or admitted without objection and will not be discussed.
+Finding no reversible error, the judgment is affirmed.
