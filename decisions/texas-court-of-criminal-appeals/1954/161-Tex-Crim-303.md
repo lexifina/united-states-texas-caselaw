@@ -1,0 +1,89 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,067"
+decided: "1954-11-03"
+citations: ["161 Tex. Crim. 303"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wilma Hazel Kennedy v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0303-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468418
+cites_cases: ["100 S.W. 151", "159 Texas Cr. Rep. 496", "182 S.W. 289", "186 S.W. 769", "212 S.W. 171", "220 S.W. 85", "265 S.W. 2d 96", "51 Texas Cr. Rep. 29", "78 Texas Cr. Rep. 539", "79 Texas Cr. Rep. 487", "85 Texas Cr. Rep. 279", "87 Texas Cr. Rep. 129"]
+---
+
+# Kennedy v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is fpr the offense of negligent homicide of the second degree; the punishment, three years in jail.
+The complaint and information alleged, in part, that appellant, while driving an automobile upon a public street and highway in Dallas County, overtook and passed a motor bus upon its right side, driving off the pavement and main traveled portion of the roadway and highway, and that in the performance of said unlawful act and by negligence and carelessness drove into and caused the death of Lee Andrew Robinson.
+The evidence is sufficient to sustain the jury’s verdict and need not be fully discussed.
+The complaint was sworn to by Alvis R. Kincaid, an Assistant District Attorney of Dallas County, upon information and belief.
+Appellant complains of the overruling of his motion to quash the complaint and information, urging that an assistant district attorney is not a credible person under the law.
+She relies upon Daniels v. State, 2 Texas Court of Appeals 353, and Patillo v. State, 3 Texas Court of Appeals 443, which if found to be controlling will require that the conviction be set aside and the prosecution ordered dismissed.
+The statutes applicable at the time of the decision in Daniels v. State, 2 Texas Court of Appeals 353, included the following:
+Acts 15th Legislature, pp. 87, 88: “Sec. 16. Whenever any credible person shall inform any County Attorney that an offense has been committed, and shall give the names of the person or persons who may have knowledge of an offense, it shall be the duty of said County Attorney, and he is hereby authorized and required, to issue a subpoena requiring said person or persons to appear before him, . . .”
+“Sec. 17. Upon the appearance of said witnesses, it shall be the duty of the County Attorney ... to reduce their testimony to writing and cause the same to be signed by such witnesses; and if it appear therefrom that an offense has been committed, the County Attorney shall, upon said testimony, file an information. ...”
+The opinion in the Daniels case sets out these and other provisions of the statutes in existence at the time the complaint and information in question were filed. The opinion reflects that the court was construing these provisions of the statute. The court said “Our construction of the language of the statute above quoted is that he (the county attorney) is not authorized to make the affidavit when he derives his knowledge of the facts from another party.”
+It is significant to note that the provisions mentioned have long since disappeared from our statutes and that the Daniels and Patillo cases do not appear to have been cited on the point before us since the provisions mentioned were eliminated.
+We are not at liberty to add to the requirements of the statute in regard to the filing of a complaint. No particular form is required, so long as an affidavit is made by a credible person charging the commission of an offense.
+Article 222, C.C.P., declares that:
+“The complaint shall be sufficient, without regard to form, if it have these substantial requisites:
+“1. It must state the name of the accused, if known, and if not known, must give some reasonably definite description of him.
+“2. It must show that the accused has committed some offense against the laws of the State, either directly or that the affiant has good reason to believe, and does believe, that the accused has committed such offense.
+“3. It must state the time and place of the commission of the offense, as definitely as can be done by the affiant.
+“4. It must be signed by the affiant by writing his name or affixing his mark.”
+Article 415, C.C.P., provides:
+“No information shall be presented until affidavit has been made by some credible person charging the defendant with an offense. The affidavit shall be filed with the information. It may be sworn to before the district or county attorney who, for that purpose, shall have power to administer the oath, or it may be made before any officer authorized by law to administer oaths.”
+A credible person is held to be a person competent to testify. Halbadier v. State, 87 Texas Cr. Rep. 129, 220 S.W. 85.
+We overrule the contention that a county or district attorney, or an assistant county or district attorney, is not a credible person. No reason appears why such an officer could not testify to the same extent as any other affiant acting on information and belief alone. Sec. 2 of Art. 222, C.C.P., provides that the complaint may be made on information and belief.
+The Daniels case is not deemed controlling under the present statutes. Insofar as it may be so construed it is overruled.
+It is next contended that the unlawful act relied upon is the violation of Art. 6701d, Sec. 55b, V.A.C.S., and that such act is invalid because too uncertain to define an offense.
+The statute referred to reads as follows:
+“The driver of a vehicle may overtake and pass another upon the right only under conditions permitting such movement in safety. In no event shall such movement be made by driving off the pavement or main traveled portion of the roadway.”
+The later portion of the statute was the basis for the state’s case and we need not, therefore, determine the sufficiency of the first portion standing alone. We find the prohibition against overtaking and passing another vehicle to the right by driving off the pavement or main traveled portion of the roadway to be sufficiently definite and certain and we uphold its validity against the attack here made.
+Nor can we agree that the complaint and information should have been quashed on the ground that no specific acts of negligence were alleged.
+Appellant complains that officer Sutton was not permitted to testify as to an oral statement made to him by appellant “at the time of the accident.”
+There is nothing in the record to show what the statement was that was rejected, and the error if any is not such as to warrant a reversal. Deams v. State, 159 Texas Cr. Rep. 496, 265 S.W. 2d 96.
+We find no reversible error in the state’s proof of the death of Lee Andrew Robinson. This was a part of the state’s case. The fact of such death and its cause was not admitted as true.
+The remaining bills have been considered and no reversible error appears therein.
+The judgment is affirmed.
+
+## Rehearing (MORRISON, Presiding Judge.)
+
+ON MOTION FOR REHEARING
+MORRISON, Presiding Judge.
+In our original opinion we passed only on the question of whether the assistant district attorney was a credible person authorized to make a complaint. We did not discuss the broader question here presented; that is, that the two accusatory pleadings were, in law, signed by one and the same person. Our law consists of numerous interlacing checks and balances which must always be maintained in order to preserve our constitutional form of government. If one assistant district attorney signs a complaint, another signs the information and a third directs the prosecution, then the accused has actually been placed on trial by the act of one man, their principal, the district attorney.
+The accused here received three years in jail, and yet the law is clear that one may not be placed on trial for a felony, many of which carry a minimum term of two years, except after indictment by a grand jury of twelve men. To hold that one individual might be the accuser and the prosecutor in misdemeanor cases would certainly be contrary to the policy of our law to protect its citizens from the inherent dangers arising from the concentration of power in any one individual.
+It is apparent that our procedure, which authorizes prosecutions by information presented by the prosecuting attorney, is bottomed upon the proposition that there must be a supporting affidavit, without which an information cannot be lawfully presented. In other words, a prosecuting attorney is not authorized to institute prosecutions in the county court upon his independent act or of his own volition. Federal procedure is in keeping with that rule, as also was the rule at common law.
+This court, in an opinion written by the illustrious Judge Henderson many years after the Daniels case, had this to say, “ . . . and indeed, it would seem that it is not the policy of the law that a County Attorney should make a complaint, and then have an information on his own complaint, and we believe the rule would extend to an Assistant County Attorney.” Flournoy v. State, 51 Texas Cr. Rep. 29, 100 S.W. 151.
+There is still another reason why we should not approve of the prosecutor acting in this dual capacity. To do so would be rendering a great disservice to the prosecuting fraternity. We know from experience that a great many people would like to see their neighbor fall into the clutches of the law but are reluctant to sign a complaint. To hold that the prosecutor might be both accuser and prosecutor would subject him to the accusation of misfeasance if he did not accede to the wishes of these reluctant accusers.
+In further prosecution growing out of this offense, the state in proving the death of the deceased should not do so in a manner that might be harmful to the accused and wholly unnecessary to a proper development of the state’s case. It serves no legitimate purpose and certainly unduly influences the jury to parade every member of the family of the deceased across the witness stand and ask them if they viewed the remains in the casket.
+Appellant’s motion for rehearing is granted, the judgment of affirmance is set aside, and the judgment is now reversed and the prosecution ordered dismissed.
+
+## Dissent (WOODLEY, Judge,)
+
+WOODLEY, Judge,
+dissenting.
+My views on the question raised upon the submission of this appeal are stated in our original opinion, to which views I adhere.
+On rehearing appellant, for the first time, makes the contention that the complaint was sworn to by an assistant criminal district attorney of Dallas County before another assistant criminal district attorney of said county, and is for that reason insufficient. This was not a ground of her motion to quash the complaint and information.
+As I understand the majority opinion on rehearing, my brethren uphold this contention, as well as the original contention that Mr. Kincaid, who swore to the complaint, was not a credible person because he was an assistant criminal district attorney of Dallas County.
+I am not in accord with either holding, and will state my views on the question which has been raised since the original opinion was handed down.
+The jurat found on the complaint following the signature of Alvis R. Kincaid reads as follows:
+“Sworn to and subscribed before me this the 29th day of September, A.D. 1953.
+“(Signed) A. D. Bowie
+Assistant Criminal District Attorney of Dallas County, Texas.”
+The complaint nowhere indicates that the affiant, Alvis R. Kincaid, was acting in an official capacity when he made the affidavit.
+In Arbetter v. State, 79 Texas Cr. Rep. 487, 186 S.W. 769, we held that a county attorney could administer an oath and that the assistant county attorney had the same authority, but the county attorney could not administer the oath through a deputy. Goodman v. State, 85 Texas Cr. Rep. 279, 212 S.W. 171, is to the same effect.
+In line with the authorities mentioned, Mr. Bowie made his jurat recite that the complaint was sworn to before him as assistant criminal district attorney, and not before Mr. Wade acting through him as assistant.
+No authority is cited which holds that one authorized to administer oaths may not take the affidavit of one who is his deputy or assistant, and of course no authority exists which would prevent the taking of an affidavit by one officer authorized by law to administer oaths because the affiant possessed the identical authority to swear an affiant.
+If the fact that the affiant, an assistant criminal district attorney, made the complaint before another assistant affects the validity thereof, it must be upon the basis that an affidavit taken before an attorney in the case is not entitled to be considered by the court.
+This is the rule relied upon by appellant and he cites in support thereof 2 Texas Jur., Secs. 5 and 10, Affidavit; and Melton v. State, 78 Texas Cr. Rep. 539, 182 S.W. 289.
+The rule has been applied to motions for continuance and for new trial, bystanders bills and controverting affidavits. A complaint, however, may be and is generally sworn to before the attorney prosecuting for the state and the rule cannot apply.
+It is noted that the information upon which appellant was tried and convicted was signed by Henry Wade, Criminal District Attorney of Dallas County, Texas, and not by either of the assistants mentioned.
+It is further observed that if the theory of the majority opinion be correct and neither the criminal district attorney nor an asistant may take the affidavit of another assistant to a complaint, then it must follow that the same rule applies to the affidavit of an investigator for the district attorney’s office.
+I am convinced that the affiant Kincaid was a credible person authorized to make the complaint; that Assistant Criminal District Attorney Bowie was authorized to take Kincaid’s affidavit and execute his jurat thereto, and that the complaint so executed was sufficient to support the information signed by Henry Wade, Criminal District Attorney.
+I respectfully dissent from the order reversing the conviction and ordering the prosecution dismissed.
