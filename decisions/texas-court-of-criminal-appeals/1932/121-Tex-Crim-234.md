@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "14859"
+decided: "1932-05-04"
+citations: ["121 Tex. Crim. 234", "51 S.W.2d 314"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Will (Pete) Thompson v. The State."]
+source_url: "https://static.case.law/tex-crim/121/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5208373
+cites_cases: ["127 S. W. 1020", "127 S. W., 1020", "134 S. W. 705", "134 S. W., 705", "157 S. W. 157", "157 S. W., 157", "161 S. W. 459", "161 S. W., 459", "165 S. W. 180", "165 S. W., 182", "59 Tex. Cr. R. 190", "59 Texas Crim. Rep., 190", "61 Tex. Cr. R. 442", "61 Texas Crim. Rep., 442", "7 Tex. App. 301", "70 Tex. Cr. R. 183", "70 Texas Crim. Rep., 183", "71 Tex. Cr. R. 646", "71 Texas Crim. Rep., 646", "73 Tex. Cr. R. 165", "73 Texas Crim. Rep., 165"]
+---
+
+# Thompson v. State
+
+## Majority (CALHOUN, Judge.)
+
+CALHOUN, Judge.
+Driving a car while intoxicated on a public road is the offense; he punishment, six months in the penitentiary.
+The evidence is quite voluminous and consists of the testimony of over twenty witnesses. Several witnesses testified that a truck with a dump body was being driven along highway No. 23 and the manner in which it was being driven indicated that the driver was intoxicated. The evidence further showed that the truck with a dump body struck a boy by the name of Messenger and that at the time he was struck, the party operating said truck was intoxicated. A lens out of the light on the car that struck the boy was broken, and there was further evidence to show that the appellant had been driving a truck which corresponded with the description of the truck which struck the said Messenger. Other facts and circumstances in evidence were sufficient to show circumstantially that it was the truck of the appellant, which he had been seen driving on the same day a short time before the accident, that struck the boy. It was also in evidence that on the morning after the accident that the appellant told the sheriff that he was so drunk that he did not know what happened the night before; that somebody brought him in, he did not know who. It was further in evidence that on the same night of the accident that the appellant went to the house of one Jackson and parked his car some little distance from the house, and that later appellant and one Archie Jackson walked out to appellant’s truck, and appellant told the said Archie Jackson that he had run over a man down town and guessed he killed him.
+A witness by the name of Ethera Jackson testified for the state that the appellant came to his house on the night of the accident; that he smelt something, he could not say exactly whether it was extract or what it was; that the appellant did not stay long, and was not in the house but a very little time when he got up and walked out; that he did not think the appellant was himself, he seemed to be off some way; that he told the witness something about an accident, but that he never paid much attention to him because he thought the appellant was drunk and did not know what he was talking about. The evidence further showed that the appellant was taken home by the witness and his two sons, and, when they got to his home, he was unable to walk from the car to the house; that, after he had taken appellant home, he examined the -truck, and he could see something had been broken; that his light was bent back and the horn was bent down; that he saw the appellant’s truck before he got to his house that night and it just had one light.
+Appellant denied that he was drunk on the occasion charged or that he ran into anyone, and offered witnesses to show his condition as being sober on the occasion in question before the accident. He also testified that what caused him to get drunk at Jackson’s house was that he had some liquor hidden in an oat stack near Jackson’s house and he got the liquor and drank it before he went up to Jackson’s house; that that was what caused him to be intoxicated.
+Bills of exceptions Nos. 1, 2, 3, and 4 relate to the action of the trial court in overruling appellant’s challenges to certain jurors. He recites in the bills of exception that these jurors had declared upon their voir dire examination that they entertained an opinion as to the guilt or innocence of the defendant, and their opinion was of such a nature as would require evidence to remove same, but they further testified that they had no such opinion as to the guilt or innocence of the defendant that would influence them in arriving at a verdict, if selected as jurors to try-the case. The qualifications to two of said bills show that two of the jurors challenged by appellant did not sit as jurors in the case. As to the other two jurors challenged, who did sit in the case, the bill does not show that appellant had exhausted his peremptory challenges at the time they were taken. In fact, the bills show that, at the time the court overruled his peremptory challenge to the two jurors who afterwards sat in the case, the appellant had four challenges left. “A supposed error of the trial court in overruling challenge for cause will not be revised on appeal if the bill of exceptions fails to- show that defendant exhausted his peremptory challenges.” Branch’s Ann. P. C., sec. 543; See, also, Luttrell v. State, 70 Texas Crim. Rep., 183, 157 S. W., 157; Duke v. State, 61 Texas Crim. Rep., 442, 134 S. W., 705; Bass v. State, 59 Texas Crim. Rep., 190, 127 S. W., 1020, 1023.
+Bill of exception No. 5 shows that the witness G. R. Wimberly was. permitted to state, after he had testified that he saw a truck pass his filling station a little after dark and that the truck the defendant was driving in the afternoon was a model A Ford truck with a dump bed on it, and was apparently the same type of truck with reference to having a gravel bed on it that passed his filling station that night, that said truck was rattling and knocking.
+Other bills of exception, — six to twelve, inclusive — present objections to testimony of a similar nature. Two of these bills are qualified by the trial judge. Without attempting to set out the testimony embraced in each bill, it is observed that they bring forward testimony touching circumstances which were relevant and material on issues of the identity of the person driving the truck that struck Messenger. The state relied upon circumstantial evidence to identify appellant as the offender. When the evidence is wholly circumstantial, every fact and circumstance reasonably calculated to illuminate the transaction should be permitted to go to and be weighed by the jury. Branch’s Ann. P. C., sec. 1872. See, also, Belcher v. State, 71 Texas Crim. Rep., 646, 161 S. W., 459; Durfee v. State, 73 Texas Crim. Rep., 165, 165 S. W., 182; Noftsinger v. State, 7 Texas App., 301.
+We are unable to reach the conclusion that the evidence is insufficient to meet the demand of the rule of law that the circumstances must exclude every other reasonable hypothesis except the guilt of the accused.
+No reversible error appearing, the judgment is affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+Appellant presents a persuasive motion, insisting that the testimony in this case is not sufficient to show his guilt beyond a reasonable doubt. This court uniformly declines to interfere where from the record we conclude that enough testimony was before the jury to furnish them a fair basis for their conclusion. We think such is the case here.
+The motion for rehearing will be overruled.
+Overruled.
