@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,414"
+decided: "1962-04-04"
+citations: ["172 Tex. Crim. 292"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Troy Eugene Holcomb v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2636612
+cites_cases: ["166 Texas Cr. Rep. 71", "311 S.W. 2d 242"]
+---
+
+# Holcomb v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for robbery with firearms; the punishment, 35 years.
+Stanley Foster, the operator of a service station, while testifying identified the appellant as the one of two men who entered the service station about 11:30 P.M., June 17, 1961. The appellant asked about the restroom, then appellant’s companion, Mendenhall, exhibiting a gun as he entered, told Foster to “Freeze * * While appellant was holding his gun against Foster’s body, Mendenhall asked where the money was and Foster pointed to the cash box, and told him that other money was in the desk. When Foster reached toward the desk, the appellant grabbed his arm jand said “Get your * * * hands out of the drawer.” * * * “If you don’t believe I will shoot you, put something on your head and I’ll blow it off, and then I’ll blow your * * * head off.” Mendenhall took the money from the cash box and the desk while appellant held his gun on Foster. The appellant also exhibited a knife and told Foster he would cut his throat, and for him to take a good look at his face, because the cops were already after him, and to tell them that you saw me. He ordered Foster into the storage room and told him that if he stuck his head out of the door he would kill him, closed the storage room door, and cut the telephone line. After a brief time, Foster left the storage room and notified the officers.
+Foster further testified that he had the care, control and management of the station, that the appellant and Mendenhall, without his consent, took more than $200 from the cash box and the desk, and that they placed him in fear of his life and serious bodily injury.
+The appellant and Mendenhall, who had a gun in his belt at the time, were apprehended on June 19. Another gun and a stocking full of silver coins were found in the apartment where they were apprehended. Shortly thereafter, they were identified in a police line up by Foster as the two men that robbed him at the service station on June 17. Foster testified that the two guns were similar to those used at the time of the robbery.
+The appellant did not testify or offer any testimony in his behalf.
+Appellant complains of the search of the apartment on the ground that the officers had no search warrant for the apartment or warrant for his arrest.
+This contention does not show error because there is no evidence that the appellant owned, occupied, or controlled the building. Such a showing is necessary before the appellant is authorized to object to the testimony of the search or the results thereof on the grounds that the search was illegal. Rubens v. State, 166 Texas Cr. Rep. 71, 311 S.W. 2d 242.
+No formal bills of exception appear in the record. There are no objections to the court’s charge or any specially requested charges.
+The evidence is sufficient to support the conviction and no error appearing, the judgment is affirmed.
+Opinion approved by the Court.
