@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2441"
+decided: "1913-05-07"
+citations: ["70 Tex. Crim. 346"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harold Clifton, alias Howard Carrier, v. The State."]
+source_url: "https://static.case.law/tex-crim/70/cases/0346-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2382344
+---
+
+# Clifton v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of theft of money alleged to be $500, his punishment being assessed at two years confinement in the penitentiary.
+The first ground of the motion for new trial is to the effect that the court erred in admitting in evidence a copy of the testimony of Eva Gilmore given at the examining "trial, for the reason that same is and was an unsigned copy of said testimony, and' in so doing the defendant was deprived of his right under the Constitution and laws of this State to be confronted with the witnesses against him on the trial of his cause; and, second, the court erred in admitting in evidence the testimony of the witness, Eva Gilmore, touching a civil contract between defendant and herself, the same being based upon a civil contract in writing, and which evidence tended to prejudice the jury against him. Suffice. it to say, the record does not contain bills of exception verifying these matters, and there is nothing in the record to show evidence was admitted other than as stated as grounds of the motion. Of course, under these circumstances - those two grounds of the motion can not be considered.
+The third ground is, the “court erred in the second paragraph of his general charge on page 5 for the reason that the same tends to emphasize the first paragraph of said charge on page 2.” This ground is very general, to say the least of it. There is nothing pointed out that would tend to show any error, or even if one charge emphasized the other, how it could have injured appellant, and in fact it is not urged that it did injure him. And it may be further stated in this connection the evidence is not in the record, nor does it accompany the record.
+The remaining ground is that the State failed to prove beyond a reasonable doubt that defendant committed the theft charged. This can not be reviewed in the absence of the testimony.
+The judgment is affirmed.
+Affirmed.
