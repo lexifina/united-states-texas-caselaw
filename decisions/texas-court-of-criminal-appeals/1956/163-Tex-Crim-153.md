@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,985"
+decided: "1956-02-22"
+citations: ["163 Tex. Crim. 153"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis Oliver Henderson v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460202
+cites_cases: ["120 Tex. Cr. R. 605", "121 Tex. Cr. R. 298", "148 Tex. Cr. R. 427", "187 S.W. 2d 667", "49 S.W. 2d 798", "53 S.W. (2d) 41"]
+---
+
+# Henderson v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Appellant was convicted of felony theft, with a prior conviction for an offense of like character alleged to enhance the punishment, and his punishment was assessed at confinement in the penitentiary for ten years.
+The indictment charged the theft of one shotgun of the value of $88.65 from Robert H. Hampton, on or about the 24th day of November, 1953. Hampton, who was the owner and operator of a retail store in the city of Houston, testified that on the date alleged in the indictment, the appellant was in his-store; that as he (Hampton) walked to the back to wait on a customer the appellant was standing by the gun rack; that in a few seconds when he turned around the appellant was gone and when he went to the gun rack he discovered that one of the guns was missing. He further testified that at such time the only persons in the store were himself, the appellant, and the other customer. Hampton identified, by the model, barrel length, and serial number, State’s Exhibit No. 1, which was a 12-gauge Winchester Shotgun, and testified that it was the same gun which was missing from his place of business on the day in question. His testimony further shows that the gun in question had a retail market value of $104.85 on the date it was stolen.
+The state’s witness, W. D. Brittain, testified that he saw the appellant in possession of the gun around December 1, 1953, and that about a week later the appellant traded the gun to him.
+The state offered proof of the prior conviction as alleged.
+Appellant admitted the prior conviction but denied that he had stolen the gun. He testified that in December, 1953, he purchased the gun in question, along with another gun, from one Boots Clark, who had since died, and that he sold one of the guns to Mr. Brittain and the other to a Mr. Manson.
+The jury chose to accept the state’s testimony and reject that of the appellant; and we find the evidence sufficient to support its verdict.
+Appellant insists that the court erred, in permitting the state to prove, over appellant’s objection, that on two prior occasions when he case had been called for trial the appellant failed to answer, and on each occasion his bond was forfeited and he was thereafter rearrested.
+This was not error, as proof that appellant had failed to appear for trial and his bonds were forfeited was admissible as evidence tending to show flight. Branch’s Ann. P.C., Sec. 135; Dickens v. State, 121 Tex. Cr. R. 298, 53 S.W. (2d) 41; and Williams v. State, 148 Tex. Cr. R. 427, 187 S.W. 2d 667.
+By Formal Bill of Exception No. 1, appellant complains of the refusal of the court to permit him to testify that while under arrest on the charge for which he was being tried he told Deputy Sheriff Middleton that he had bought two guns from Boots Clark in December, 1953, just before Christmas, and that he sold one of them to a Mr. Brittain and one to a Mr. Manson in the same month.
+The bill, as qualified by the court, certifies that the appellant was arrested several weeks after the date of the alleged offense and was not in possession of the gun or any gun, or any property alleged to have been stolen at the time of his arrest.
+Appellant contends that because of the court’s ruling he was denied the right to explain his possession of the gun at the time his connection with it was first questioned.
+In prosecutions for theft it is the rule that the accused’s explanation of his possession of property supposed to have been recently stolen is admissible as original evidence in his behalf, if made at the time his possession was first directly or circumstantially challenged, or when charged with the theft. Under the rule the explanation, to be admissible, must be made when the party is first directly or circumstantially called upon to explain his possession of property recently stolen. Branch’s Ann. P.C., p. 1332, Sec. 2464; Hermosillo v. State, 120 Tex. Cr. R. 605, 49 S.W. 2d 798.
+We do not think that the appellant’s explanation made to Deputy Sheriff Middleton was admissible under the rules above stated. He was not in possession of the stolen gun at the time he gave the explanation. The explanation was not made when he was first arrested and called upon to explain his connection with the gun, as the record shows he was arrested by Deputy Sheriff Morrison, to whom he made no explanation, but later made the explanation to Deputy Middleton after he had been brought to jail.
+By Formal Bills of Exception Nos. 2 and 3 appellant complains of the exclusion of certain testimony and evidence offered by him which related to another indictment pending against him in which he was charged with having stolen another shotgun from the prosecuting witness, Hampton. The bill reflects that the appellant sought to show that in the indictment he was alleged to have stolen the other shotgun on the first day of May, 1954, and to prove by the official transcript of evidence in the examining trial that the prosecuting witness, Hampton, had testified upon the examining trial that the second shotgun was stolen from him in November, 1954. Appellant also sought to introduce in evidence the complaint filed in the justice court upon which the indictment was predicated.
+We perceive no error in the exclusion of this testimony and evidence. Such evidence, as shown by the bill, related to a separate indictment which charged appellant with the theft of an entirely different shotgun from the one which he was charged with having stolen in the case on trial. Proof that the prosecuting witness had testified on the examining trial in the other case that the other shotgun was stolen on a date different from the date alleged in the indictment was immaterial and had no bearing on the issues in the case on trial. The testimony of the witness as to the time the second gun was stolen in no wise impeached his testimony on the present trial.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the Court.
