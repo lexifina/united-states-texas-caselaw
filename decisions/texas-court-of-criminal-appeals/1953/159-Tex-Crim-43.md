@@ -1,0 +1,59 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,473"
+decided: "1953-06-10"
+citations: ["159 Tex. Crim. 43"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tommy C. Bush v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2473148
+cites_cases: ["142 Tex. Cr. R. 592", "152 S.W. 2d 747", "170 S.W. 145", "71 S.W. 20"]
+---
+
+# Bush v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant was convicted of aggravated assault under the count of the information which alleged that he did go into the house of a private family, to-wit, the house of Harvey Kirkpatrick, and there commit an aggravated assault and battery on said Harvey Kirkpatrick. His punishment was assessed at a fine of $1000 and two years in jail.
+Art. 1147 P.C., Sec. 3, provides that an assault and battery becomes aggravated when the person committing the offense goes into the house of a private family and is. there guilty of an assault and battery.
+We overrule the contention that the information is fundamentally defective because it alleges that the assault and battery committed in the house of the private family of Kirkpatrick was an aggravated assault and battery. The assault and battery became aggravated under the provisions of Sec. 3 of Art 1147 P.C. because the accused went into the family home and. there committed the assault and. battery and the pleader was referring to that ground of aggravation.
+' The state offered as a witness Betty Joe, a daughter of Kirkpatrick, who was present in the home when appellant and a-companion entered and committed an assault and battery on Kirkpatrick.
+This witness testified that she had lived with appellant for a time and had been away from him for a week or two when he came to her father’s house. She did not testify to having seen the assault on her father.
+Other testimony of the state established the assault, and it was shown that Betty Joe was carried out of the house and placed in a car, from which she was rescued by her mother.
+Complaint is made of the fact that the attorney for the state, after calling Betty Joe Kirkpatrick as a witness, propounded to her the following questions:
+“Q. During that time (the time she had known and was living with appellant) have you ever engaged in the profession of prostitution?”
+“Q. During the time you knew Tommy Bush (appellant) did you ever give him any money?”
+Appellant objected to said questions on the ground that same were prejudicial. The objections were sustained and the questions were not answered. He moved for a mistrial also and this motion was overruled.
+Thereafter the prosecuting attorney asked.the question:
+“Now, prior to the time you left Tommy Bush, when was the last time you gave him any money?”
+Appellant again objected and moved for mistrial and again the objection was sustained, but the motion for mistrial was overruled. The trial court in each instance instructed the jury to disregard the questions.
+Again, the prosecuting attorney asked the witness “While you were living with Tommy Bush as man and wife, how did he make his living?”
+The objection that the question was irrelevant, immaterial and highly prejudicial was sustained. No exception was reserved to the asking of the question.
+Appellant did not testify and did not place in issue his character or reputation.
+The questions were manifestly hurtful and the testimony sought to be elicited would have no bearing on the issue of appellant’s guilt of the assault charged. The only possible effect of the evidence called for by the questions would be to prejudice the jury against appellant because of his immoral conduct, wholly disassociated with the offense for which he was on trial.
+Under the circumstances, the action of the trial court in sustaining the objections and instructing the jury to disregard the questions did not cure the error.
+Appellant directs our attention to the testimony of Betty Joe Kirkpatrick on cross-examination wherein she stated that she had lived with appellant as his common-law wife and carried his name in certain places around town. Also appellant attempted to show that she had a child by him. We overrule appellant’s contention that these facts, if true, would reduce the offense to simple assault because of his relation to the private family occupying the house in which he committed the assault.
+We observe, however, that if the relationship between appellant and Betty Joe constituted a common-law marriage, she was disqualified as a witness for the state.
+In Glover v. State, 142 Tex. Cr. R. 592, 152 S.W. 2d 747, we held that the conclusion of the witness that she was a common-law wife was not sufficient to establish the relationship of husband and wife.
+If the relationship of common-law husband and wife existed, the disqualification of the wife as a witness could not be waived. Brock v. State, 44 Tex. Cr. Rep. 335, 71 S.W. 20; Eads v. State, 74 Tex. Cr. Rep. 628, 170 S.W. 145.
+For the error in the asking of the questions above mentioned, the judgment is reversed and the cause remanded.
+
+## Dissent (GRAVES, Presiding Judge)
+
+GRAVES, Presiding Judge
+(Dissenting).
+My brethren have rendered an opinion reversing this case on account-of the asking of three questions by the state’s attorney, none of which was answered by the witness. The first question is:
+“Q. During that time (the time she had known and was living with appellant) have you ever engaged in the profession of prostitution?”
+The majority of the court hold that this is an inadmissible question. There was no answer made thereto. It was claimed by the appellant that this woman, who was the daughter of the injured party, had been living with him and had engaged in illicit relations for two years. Appellant’s own counsel asked her if she had not given birth to a child by the appellant while thus living with him. On cross-examination by appellant’s attorney she was asked: ’
+“Q. Have you ever lived with Tommy Bush as his wife, Miss Kirkpatrick, as his common law wife? A. Yes.
+“Q. Did you carry his name as Mrs. Bush in certain places around town? A. Yes.
+“Q. Did you have a child by him?” (No answer).
+Now, as to the second question, “During the time you knew Tommy Bush did you ever give him any money?” The record shows that the basis of this trouble supposedly was that this girl witness had given a watch to the appellant and he had traded same in on a ring which he gave to the girl; that he demanded the return of his ring and she required that he first return the watch which she had given him and she would then return the ring; that he and his companion, Ray, came to the house for the purpose of obtaining this ring and possibly for the purpose of obtaining the girl, Betty Joe Kirkpatrick; that they did pick up this girl and tore the clothing off of her with the exception of a blouse and put her in their automobile from which she was rescued by her mother. If she had given him the watch, as is here shown, I see no error that would come from the asking of the question as to whether she had ever given him any money.
+The third question, “Now, prior to the time you left Tommy Bush, when was the last time you gave him any money?” was never answered. I fail to see any difference between giving appellant a watch and giving him money, both of them having a commercial value.
+This case is being reversed because of the asking of these questions. It seems to me that they were pertinent to the facts finally confronting the attorney trying the case for the state, and some of the questions could certainly have been pertinent to the one asked by the appellant’s attorney.
+On the facts I see no serious injury that could occur to the appellant from the asking of these three questions to none of which was any answer made.
+Therefore, I think this cause should be affirmed instead of reversed and remanded and respectfully enter my dissent thereto.
