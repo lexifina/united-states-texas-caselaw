@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,325"
+decided: "1956-05-23"
+citations: ["163 Tex. Crim. 250"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fred Gurley Mozley v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0250-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461315
+cites_cases: ["106 Tex. Cr. R. 524", "156 Tex. Cr. R. 97", "161 Tex. Cr. R. 89", "20 S.W. 2d 1063", "238 S.W. 2d 964", "275 S.W. 2d 105", "293 S.W. 821"]
+---
+
+# Mozley v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for driving while intoxicated; the punishment, forty days in jail and a fine of $100.
+The state’s evidence shows that the appellant was arrested around midnight while driving his automobile on a public street in the city of Dallas. C. E. Ellis, the arresting officer, testified that he stopped the appellant after he had observed his automobile weaving from the right to the left and going off the road; that he could smell a strong odor of alcohol on appellant’s breath; that he was unsteady on his feet; and that, in his opinion, the appellant was intoxicated. Officer Ellis further testified that he offered the appellant an intoximeter test at the scene of the arrest, which he took by blowing up a balloon, and that the test showed appellant to be intoxicated.
+Officer Allen, who was dispatched to the scene of the arrest, testified that he observed appellant sitting in the squad car ; and, based upon his observations of him, expressed his opinion that the appellant was drunk.
+Dr. Morton F. Mason, toxicologist for the city and county of Dallas, upon being called as a witness for the state, testified that he received, at his office, from Lieutenant Alexander of the Dallas Police Department, an intoximeter test in a container bearing the appellant’s name and the date on which it was taken; that a mechanical analysis of the test was performed by assistants directly under his supervision; and that he made the final calculations of the results of the test, which showed that the blood alcoholic concentration of the person who took the test was .262 %. He further testified that a person with such a blood alcoholic concentration is under the influence of alcohol.
+Appellant, as a witness in his own behalf, testified that he had only consumed one-half a bottle of beer on the night of his arrest, and denied being intoxicated. He further testified that at the time of his arrest he was taking a man by the name of Turner home who was intoxicated and who did pay a fine for being drunk on such occasion.
+Appellant called as a witness Mrs. Earl Lagow, who testified that the appellant and his companion, Turner, had been to her home shortly before the arrest, and that at that time, the appellant was not drunk, but that Turner was intoxicated.
+The record contains no formal bills of exception or objections to the court’s charge, nor have we been favored with a brief on behalf of the appellant.
+There appears in the statement of facts two informal bills of exception to the court’s rulings on the admission of testimony, which will be discussed.
+The first exception relates to the ruling of the court in permitting Oificer Allen to testify that in his opinion the appellant was drunk when he observed him on he night of his arrest. Appellant objected to the officer stating his opinion on the ground that he was not an expert on intoxication. The officer’s testimony shows that his opinion was based upon his observation of the appellant’s appearance and actions, and we find no error in the court permitting him to state his opinion.
+A non-expert witness may express his opinion as to intoxication when such opinion is based upon his observation of the appearance, acts and conduct of an accused. Inness v. State, 106 Tex. Cr. R. 524, 293 S.W. 821; Spears v. State, 20 S.W. 2d 1063; Kendrick v. State, 156 Tex. Cr. R. 97, 238 S.W. 2d 964; and Rice v. State, 161 Tex. Cr. R. 89, 275 S.W. 2d 105.
+The second bill of exception presents appellant’s objection to Dr. Mason testifying as to the analysis and result of the intoximeter test on the ground that the doctor did not give the actual test himself to the appellant.
+The fact that Dr. Mason did not give the actual test to the appellant did not render his testimony as to the analysis and result of the test inadmissible.
+Under Dr. Mason’s testimony, it is shown that the intoximeter test, concerning which he was testifying, was delivered to his office by a member of the Dallas Police Department, in a sealed container which bore the appellant’s name and the date on which the test was given. The test was sufficiently identified as being the test given the appellant as to authorize Dr. Mason’s testimony showing the results thereof.
+Finding the evidence sufficient to support the conviction, and no reversible error appearing in the record, the judgment of conviction is affirmed.
+Opinion approved by the Court.
