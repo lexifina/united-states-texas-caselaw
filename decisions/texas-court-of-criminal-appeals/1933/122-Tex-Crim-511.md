@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "15551"
+decided: "1933-01-18"
+citations: ["122 Tex. Crim. 511", "56 S.W.2d 455"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. K. Waster v. The State."]
+source_url: "https://static.case.law/tex-crim/122/cases/0511-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5212556
+cites_cases: ["111 Tex. Cr. R. 395", "111 Texas Crim. Rep., 395", "13 S. W. (2d) 114", "13 S.W.(2d) 114", "243 S. W. 474", "243 S. W., 474", "53 S. W. (2d) 786", "53 S.W.(2d) 786", "92 Tex. Cr. R. 264", "92 Texas Crim. Rep., 264"]
+---
+
+# Waster v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+It was charged against appellant that while intoxicated he drove an automobile on Twenty-fifth Street, a public street in the City of Lubbock. Upon conviction his punishment was assessed at ninety days in jail, and a fine of $200.
+A police officer testified that in the afternoon about three o’clock he saw appellant driving a car on Avenue H, in the City of Lubbock; that he turned west on Twenty-fifth Street, and that witness arrested him near Avenue I; that appellant was drunk when arrested. Appellant was taken to a doctor’s office for treatment of a wound inflicted upon his head by the arresting officer. The doctor also testified that appellant was drunk. The only defense witness was appellant himself. He denied that he was drunk when arrested, and asserted that he never at any time drove the car on Avenue H or Twenty-fifth Street.
+In his motion for new trial appellant asserted that a prejudiced juror sat on the jury which convicted him and also claimed that he was entitled to a new trial for newly discovered evidence.
+Regarding a claimed prejudiced juror, the rule, supported by many authorities, is stated in Branch’s Ann. Tex. P. C., sec. 565, as follows: “If it is discovered for the first time after the verdict of guilty that a juror was prejudiced against defendant and the juror had qualified on his voir dire examination, a new trial will be granted if defendant and his counsel were not lacking in diligence and were deceived by the answers of the juror.”
+It is averred in the motion that both the district attorney and the attorney for appellant asked questions of the juror, which, if answered truly, would have revealed his prejudice. The averments in the motion did not prove themselves. Although sworn to by appellant, the motion was only a pleading, upon which evidence might have been introduced. Johnson v. State, 111 Texas Crim. Rep., 395, 13 S. W. (2d) 114; Rollins v. State, 53 S. W. (2d) 786. The evidence heard upon the motion is brought forward in a statement of facts. We find in it nothing regarding the void dire examination of the juror, or of the jury panel generally. So far as the evidence shows, the juror may have been selected without the asking of a single question. Under these circumstances we must hold that there is no showing that appellant or his counsel were deceived by the answers of the juror; in other words, “lack of diligence” is not refuted. Adams v. State, 92 Texas Crim. Rep., 264, 243 S. W., 474, 475.
+The two alleged newly discovered witnesses were Alin Kinchion and D. V. Tatum. Kinchion was the party with appellant at the time he was arrested and who owned the car appellant was driving. We are at some loss to understand just how Kinchion’s testimony could be brought within the rule of newly discovered evidence. Any sort of diligence would have revealed what his version of the transaction would have been. In Tatum’s affidavit attached to the motion for new trial he says that on the day of appellant’s arrest he saw him on Thirteenth Street, and saw a car.driven by another negro stop, and that appellant got into this car and “drove on west.” He does not profess to know where "the car went after he saw appellant get into it, and, if he would give the testimony indicated, it would throw no light whatever upon the matter under investigation. It is further stated in the affidavit that when he saw appellant he “was walking and acting perfectly rational.” Witness does not say how near he got to appellant, but says he “hollered” at him about the time the car stopped. The trial judge was warranted in concluding that, if this alleged new witness were present and testified as claimed, it would not likely change the result of the trial.
+Finding no error in the record justifying a reversal, the judgment is affirmed.
+Affirmed.
