@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,030"
+decided: "1952-12-03"
+citations: ["158 Tex. Crim. 32"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Zephaniah Atkinson v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477543
+---
+
+# Atkinson v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant was convicted for felony theft of a Quick-Meal oil stove owned by his employer, L. C. Smith, and his punishment was assessed at two years in the penitentiary.
+The evidence offered was circumstantial, and its sufficiency to sustain the conviction is the only serious question raised on the appeal.
+Appellant was employed by L. C. Smith, a hardware merchant, and, together with other employees, had access to his warehouse where, on August 23, 1951, a number of Quick-Meal oil stoves were stored. These stoves were the remnant of a carload of oil stoves, all identical except for serial numbers, which had been previously stocked by Mr. Smith for sale at wholesale and retail.
+On August 25, 1951, appellant delivered a stove answering the description of those from this carload shipment to the home of one Lemond McClelland during his absence. This stove, according to McClelland, had not been ordered or purchased by him, and he did not pay for it. He denied that he had any conversation with appellant about the stove or that he had any knowledge about the stove prior to finding it on the porch of his home.
+The owner, Mr. Smith, testified that he missed one of his Quick-Meal oil stoves on August 28, 1951, but did not report the loss at that time.
+Appellant continued in Mr. Smith’s employ until some time in December of 1951, and the stove which had been delivered to McClelland’s home remained there until some time in December. The record is silent as to how, under what circumstances, or by whom the stove was-removed from McClelland’s home, nor is it shown that there was any connection between appellant’s leaving Mr. Smith’s employ and the loss or recovery of a stove.
+Mr. Smith identified a used stove which he said was returned to him on January 3, 1952 as the stove that had been missing since the previous August 28th. He was positive in his identification of this stove, though the serial number had been removed, and he was unable to point out any identifying marks or peculiarities which might distinguish the stove in question from others from the same shipment.
+There is no showing that the stove which appellant saw on January 3 was the same stove which had been in McClelland’s house or that appellant ever had that stove in his possession.
+Mr. Smith did testify that some time after January 3 he saw the same stove which was returned to him on January 3, and that it was then in Lemond McClelland’s house.
+However, it is not shown that the stove Mr. Smith saw was the only Quick-Meal oil stove in McClelland’s house at the time he was there; the time was not fixed other than as being after January 3, 1952, and there is no testimony to show that the stove Mr. Smith saw was that returned to McClelland or which was moved from his house in December.
+The circumstances strongly indicate that Lemond McClelland was an accomplice, and the trial court correctly submitted that issue to the jury. Further, it seems that Lemond McClelland in his testimony may have been attempting to favor or protect appellant, and this may account for some of the state’s difficulty in proving its case. However, no testimony is found in the record which is sufficient to establish beyond a reasonable doubt that the stove, which Mr. Smith saw on January 3, 1952, at his place of business and thereafter saw in McClelland’s home, was the same stove which was delivered by appellant and left on the porch of the McClelland house in August.
+The failure of the state to trace and identify the stove in question as that which appellant had in his possession requires that the judgment be set aside for want of sufficient evidence to warrant a conviction under the law of circumstantial evidence.
+The judgment is reversed and the cause remanded.
+Opinion approved by the Court.
