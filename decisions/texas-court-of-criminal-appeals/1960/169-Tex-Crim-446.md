@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,917"
+decided: "1960-05-04"
+citations: ["169 Tex. Crim. 446"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary G. Thomas v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0446-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12145177
+cites_cases: ["308 S.W. 2d 512", "317 S.W. 2d 542"]
+---
+
+# Thomas v. State
+
+## Majority (WOODLEY, Judge)
+
+WOODLEY, Judge
+The conviction is for giving a check in the sum of $40 without sufficient funds, with intent to defraud (Art. 567b V.A.P.C.) ; the punishment, a fine of $200.
+The undisputed evidence shows that appellant cashed the check described in the information on June 23, 1959, and that payment was refused by the drawee bank for want of sufficient funds.
+The evidence also shows that appellant cashed four smaller checks the same month which were returned unpaid.
+Appellant testified that she thought she had sufficient funds on deposit to pay the checks; that she had apparently become confused as to her bank balance; that she had been hospitalized shortly before; had changed her place of residence after she cashed the checks; had not received her bank statement; had been out of town for a while and that the first notice she received that the checks had not been honored was when she was arrested.
+There is no evidence in the record that appellant, prior to her arrest, received any notice that the check had not been paid.
+Effort was made to notify appellant that the check had been returned unpaid, both in person, by telephone, and by written notice by certified mail (return receipt requested) addressed to appellant at her address as it appeared on the check. However, these efforts proved unsuccessful, and the letter was returned to the writer by the postal authorities.
+The prima facie evidence of intent to defraud provided in Section 2 of Art. 567b V.A.P.C. arises only when the maker or drawer of the check “shall not have paid the holder thereof the amount due thereon within ten (10) days after receiving notice that such check * * * has not been paid by drawee * *
+The undisputed evidence is that the check was paid within 3 days after appellant received notice that it had not been paid by the bank on which it was drawn.
+Without benefit of the prima facie evidence provision of the statute the evidence is insufficient to sustain the conviction. Thompson v. State, 165 Tex. Cr. Rep. 449, 308 S.W. 2d 512, and Miller v. State, 166 Tex. Cr. Rep. 513, 317 S.W. 2d 542, are deemed applicable.
+The judgment is reversed and the cause remanded.
