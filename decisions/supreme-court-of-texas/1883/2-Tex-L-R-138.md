@@ -1,0 +1,43 @@
+---
+court: "Supreme Court of Texas"
+decided: "1883-07"
+citations: ["2 Tex. L. R. 138"]
+reporter: "tex-l-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. W. HUNT, et al., v. KELLUM & ROTAN."]
+source_url: "https://static.case.law/tex-l-r/2/cases/0138-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2056467
+cites_cases: ["24 N. H. 282"]
+---
+
+# Hunt v. Kellum
+
+## Majority (Willie, C. J.)
+
+Opinion by
+Willie, C. J.
+The charges of the court complained of in the 1st and 2d assignments of error submitted to the jury the sale made by appellants to Middleb ook under two aspects: First, as an unconditional sale, where a part of the consideration had been paid by the purchaser; and, secondly, as an executory contract where a condition precedent had been partly fulfilled by the party bound to its performance.
+In the first case the court held that the title to the goods sold passed to the purchaser immediately; in the second that the vendor was deprived of his title by failing to rescind the contract and place the vendee in the same condition as before the sale within a reasonable time, and before it had been placed beyond his power to comply with his part of the contract.
+These are undoubtedly correct principles of law, and they do not seem to be disputed. The complaint is that the facts of the case did not justify them. There was much conflict of testimony as to the facts surrounding the sale made by appellants to Middlebrook. In such cases, if there be sufficient testimony to warrant the charge of the court we cannot reverse, if the charge announces correct rules of law.
+The court in this case adopted its charge to every phase of the evidence, and in effect instructed the jury as to what they should do, if they believed the state of case to exist as made by the proof of appellants, and what they should find if they gave credit to the evidence of the appellees. It is apparent that they believed the witnesses of th,e latter, and it is in its application to the state of facts made by them that we must consider the charge of the court.
+It plainly appears from this evidence that at the time of .making the sale of the goods by Hunt & Co. to Middlebrook, there was no understanding as to when the consideration was to be paid. The presumption of law then is that it was an unconditional sale, taking effect immediately, and dependent for its completion on no condition whatever.
+Benjamin on Sales, secs. 311, 315.
+Again the trade for the goods was made by Hunt and Middlebrook in person and acting for themselves. Ford was afterwards sent by Middlebrook to receive the goods for him, and to see to their invoicing and delivery; and it seems to make, a payment on the consideration money. He did receive the goods, and paid a large portion of the consideration, and had shipped a large quantity of the goods to his principal before anything was said about securing the unpaid balance.
+It is a principal perhaps as old as the common law itself that where there is no understanding to the contrary, a sale of personal property is completed by a payment of all or a portion of the purchase money, or when the purchaser by agreement takes the tiling sold into possession.
+She]). Touch., p ¿24.
+Tn this case, Ford, as agent of Middlebrook, without any previous understanding to the contrary, not only received possession of the goods, hut paid a large part of the consideration agreed to be given for them.
+After flie completion of the salt* in manner as stated, Hunt became uneasy about the balance ol the consideration, and it was agreed between him and Ford that enough of the goods to meet the balance thus unpaid should be turned over to Porter as trustee, to be delivered to Middlebrook when he paid for them as per agreement. The object of this as appears from Ford’s testimony was to secure the payment of the balance due from Middlebrook on the trade. The effect was to make the transaction a pledge of the goods to secure a debt due from Middlebrook to Hunt.
+This was the object which Hunt sought to obtain. The goods were in possession of Middlebrook through his agent, and were not returned to Hunt, but were sent to the same storehouse, where they were originally directed to be sent for Middlebrook’s benefit. They were, in effect, placed there by himself, not for redelivery to Hunt, but to be held by a trustee until Middlebrook should redeem them by paying the amount due for their purchase.
+The original right to the goods obtained by reason of the sale, delivery and part payment of consideration still existed in Middle-brook. His rights to possession of them as against the trustee was alone suspended. The sale was as complete as if the unpaid balance of the consideration had been secured by a pledge or hypothecation of other property.
+It was no more than a sale upon a credit as to this balance of the goods, and if they had remained in the hands of Hunt himself, he would have had only a lien on them for their price.
+1 Parsons on Con., p. 526, and authorities cited.
+Martindale v. Smith, 1 Q. B. 395.
+We think the charge complained of in the first assignment of error was warranted by the evidence; but considered as a conditional sale we think that under the circumstances of this case the condition was waived, and the property in the goods as between Hunt and Middlebrook passed to the latter. A part of the purchase money was paid; possession of the property was delivered to a third party to be delivered to Middlebrook upon performance of certain acts by him.
+Hunt had the power to do one of two things: confirm the trade and sue for the balance due, or rescind it and reclaim the goods. If he proposed to do the latter, he must restore what he had received and replace all parties in their original situation. Moreover, he must do this within a reasonable time, and whilst the situation of the parties remained so far unchanged that they could be restored to their first position.
+Webb v. Stone, 24 N. H. 282, 288.
+To place the parties in their original condition here, that part of the consideration received by Hunt should at least, have been offered to Middlebrook, and the goods should have been in such condition that they could have been returned to Hunt; but the levy of the attachment prevented the latter, and no offer to return the note received in part payment was ever made, but the note was cancelled and destroyed by Hunt. He, by his own act, incapacitated himself from restoring the note, and made no offer to supply its place witli anything else.
+We think the charge of the court complained of in the 2nd assignment of error is also correct. The third assignment of error is not well taken. The financial condition of the purchaser does not change the rule of la w. The vendor is as much bound to restore to an insolvent the purchase money received from him, and otherwise place him in the same condition he was in. before the trade, as he would one in solvent circumstances.
+As to the fifth error assigned, it is sufficient to say that it is difficult to see how Hunt could recover for damages caused by the seizure of the goods if they belonged to Middlebrook; and as for the damages to the reputation of appellants as merchants, the proof shows that the goods sold to Middlebrook constituted all their stock, and after the sale they ceased to be merchants, and had no reputation as such to he injured by the attachment of the property. The other assignments of error are too general to claim our attention, but if we could consider them they disclose no errors for which the judgment should be reversed.
+There is no error in the judgment and it is affirmed.
