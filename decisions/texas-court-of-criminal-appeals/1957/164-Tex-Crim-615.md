@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,918"
+decided: "1957-03-27"
+citations: ["164 Tex. Crim. 615"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Wade Wilson v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0615-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2609562
+---
+
+# Wilson v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is burglary; the punishment, 2 years.
+The Freeway Gun Shop was burglarized and a number of pistols were taken. Officer Kutschbach, during the course of his investigation of the burglary and after having secured the license number of an automobile which he had reason to believe was implicated in the crime, questioned Walter Wilson, the appellant’s brother. As the result of their conversation, the officers went to the home occupied by Walter, this appellant, and their mother, and an unsuccessful search for the pistols was made. Following this, the appellant was taken into custody, and the parties returned to the home and the pistols were found. The appellant admitted that the pistols so found had come from the Freeway Gun Shop.
+The evidence is not as clear as it should be as to who was present at the time the stolen property was found, but we have concluded that the trial court was authorized to conclude therefrom that, though both brothers told the officer that the pistols were at their homes, it was not until the officer took the appellant into custody that he was able to find the pistols behind the door in a box.
+The identity of the property recovered as being the stolen pistols was established by serial numbers.
+The appellant did not testify or offer any evidence in his own behalf.
+The appellant’s contention that he was deprived of an opportunity to object to the fruits of the search of the home because the pistols were merely marked as exhibits and not introduced in evidence cannot be sustained. The officer testified fully without objection about the recovery of the stolen property.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment is affirmed.
