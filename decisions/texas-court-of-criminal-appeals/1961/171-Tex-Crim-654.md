@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,845"
+decided: "1961-12-13"
+citations: ["171 Tex. Crim. 654"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Domingo Palomo v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0654-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2632493
+---
+
+# Palomo v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The conviction is for the felony offense defined by Art. 602-A V.A.P.C., which provides in part that any parent who has been convicted of the misdemeanor offense of deserting, neglecting or refusing to provide for the support and maintenance of his child or children under 18 years of age, and who shall thereafter wilfully desert, neglect or refuse to provide for the support and maintenance of his child or children under 18 years of age, shall for each and every subsequent such violation be guilty of a felony and, upon conviction, shall be punished by confinement in the county jail not less than 10 days nor more than 2 years, or by confinement in the state penitentiary for not more than 5 years.
+The indictment properly alleged such offense and the jury found appellant guilty and assessed his punishment at 2 years in the county jail.
+Evidence was introduced showing that appellant was the father of five children under 18 years of age; that on February 9,1960, appellant was tried upon complaint and information filed September 15, 1959, alleging that he did wilfully desert, neglect and refuse to provide for the support of his children under 18 years of age and upon his plea of guilty, was assessed a 60 day jail term.
+On January 8, 1960, and while the aforesaid cause was pending, appellant’s wife was granted a divorce and given custody of the children, and appellant was ordered to contribute $15.00 per week for their support.
+The indictment herein alleged that the felony offense was committed on or about November 9, 1960.
+Appellant made several $15.00 contributions during April, May and June 1960, but contributed nothing in July, August or September 1960.
+In October 1960 he contributed $32.00; in November $35.00 and in December $15.00. In January 1961 he contributed nothing. The indictment was returned February 21, 1961.
+The foregoing are all of the contributions made by appellant for the support of his children from the time of his conviction of the misdemeanor offense to the return of the indictment, except for $20.00 he gave one of the children.
+Beginning in June or July 1960, appellant worked for Raffic Sarraf for 8 or 10 weeks, his pay being $60.00 a week. He then started driving a truck for Mr. Sarraf, making two or three trips to California for which he was paid $165.00 to $175.00 per trip.
+We find the evidence sufficient to sustain the jury’s finding that appellant wilfully neglected and refused to provide for the support of his children under 18 years of age.
+We overrule the contention that the state failed to prove that appellant had the ability to support or could have contributed more than he did to the support of his children.
+In this connection, attention is directed to Art. 605 V.A.P.C., which reads in part:
+“* * * Proof of the desertion of such wife, child or children in destitute or necessitous circumstances or of neglect or refusal to provide for the support and maintenance of such wife, child, or children, shall be prima facie evidence that such desertion, neglect, or refusal is wilful.”
+The judgment is affirmed.
