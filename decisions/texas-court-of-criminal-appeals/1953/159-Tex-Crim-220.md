@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,640"
+decided: "1953-12-02"
+citations: ["159 Tex. Crim. 220"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. L. Leinart v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0220-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2473543
+cites_cases: ["193 S. W. 669"]
+---
+
+# Leinart v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is swindling; the punishment, two years.
+The indictment appears to be sufficient to charge the felony offense of swindling based upon the false representation that 4050 gallons of oil had been delivered to the city of Greenville during the month of August and appellant had the right to collect therefor, when in truth and in fact such 4050 gallons of oil had not been delivered and he was not entitled to pay therefor.
+If the proof sustains such allegation and there is no variance, the conviction may be sustained.
+Appellant insists that the fraudulent representation relied upon by the state in fact consists of the written billings or invoices and the final tabulation thereof offered by the state and that the court erred in admitting such exhibits over the objection that the allegations of the indictment were not sufficient to warrant their admission.
+A close examination of the evidence discloses no testimony showing any representation, false or otherwise, made by appellant to the effect that he had delivered any amount of oil or was entitled to any sum of money in payment therefor, unless he did so by means of the written invoices or delivery slips and the voucher form containing the final billing for T3 loads of oil dated August 29, 1952.
+Any doubt that such written instruments were the fraudulent representations relied upon by the state is removed by the testimony of F. M. Benton, cashier of the utilities department of the city of Greenville, wherein he stated:
+“These are the invoices submitted to us on deliveries of oil made at the plant for payment. . . . These are deliveries and this is a statement or summary of this billing — the total amount of this billing is represented by these. . . .
+“I couldn’t say whether he brought these; it was his custom to come by and bring them; sometimes he would come in and leave them on my desk and come back later, but most every time he would come by and leave the bill and come by and pick them up. . . . This statement: these are invoices and they all came in at one time to be paid.”
+“Q. I will ask you whether or not you relied on the accuracy of these figures as to the deliveries in the payment of that bill. A. That’s right. I took those signed deliveries to be authentic and my authority to make payments.”
+It has been the consistent holding of this court through the years, as well as the Texas Supreme Court when they had jurisdiction in criminal cases, that where a written instrument enters into an offense as a part or basis thereof, such instrument should be set out in the indictment in order to render its admission into evidence proper. See Wilson v. State, 80 Tex. Cr. Rep. 622, 193 S. W. 669, and cases there cited. Without these invoices there would have been no proof of a false representation.
+In the event of a further trial for the offense set forth in this indictment, we express the view that the evidence" raises a serious question as to the witness Buck Warren being an accomplice in fact or as a matter of law. The trial court should charge the jury in accordance with the facts developed upon the new trial.
+The judgment is reversed and the cause remanded.
