@@ -1,0 +1,49 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,009"
+decided: "1957-05-15"
+citations: ["165 Tex. Crim. 154"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. A. Green v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2616230
+cites_cases: ["101 Texas Cr. Rep. 454", "138 S.W. 2d 1084", "139 Texas Cr. Rep. 86", "158 Texas Cr. Rep. 262", "163 Texas Cr. Rep. 587", "164 Texas Cr. Rep. 160", "236 S.W. 739", "254 S.W. 2d 513", "276 S.W. 715", "290 S.W. 2d 521", "297 S.W. 2d 174", "298 S.W. 2d 946", "90 Texas Cr. Rep. 527"]
+---
+
+# Green v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the unlawful practice of medicine; the punishment, 15 days in jail and a fine of $500.00.
+The prosecution was upon an indictment which charged that the appellant treated a disease or disorder to effect a cure and charged money therefor without having registered a certificate authorizing him to practice medicine.
+The prosecuting witness testified that she went to the appellant’s hospital in the town of Hawkins, where she remained approximately seventeen days; that during her stay, among other things, the appellant burned her throat with an electric needle and told her that this would “stop” her tonsils and that she would not be bothered with them any more. Upon admission to the hospital, the prosecuting witness signed certain forms in order to enable the appellant to collect on two hospitalization insurance policies which she carried.
+At the termination of her stay, statements signed by the appellant were submitted to both insurance companies, each of which listed, among other charges, “Removal of tonsils,” for which a charge of $50.00 was made.
+One company paid the sum of $184.00 on such account. The other refused to pay.
+The appellant, testifying in his own behalf, stated that he was a licensed naturopathic physician and admitted that he applied an electric coagulating needle to the prosecuting witness’ tonsils, which he said was calculated to cause her tonsils to “slough away.”
+Dr. Meritt, an M.D., testified for the state that the application of an electric coagulating needle to a person’s throat constituted surgery and the practice of medicine.
+The statement of facts is approximately 240 pages in length, much of which covers the testimony of reputation witnesses for the accused, but we have concluded that the above is a sufficient statement of the facts relative to this prosecution. We find the evidence sufficient to support the conviction.
+The appellant sets forth three grounds for reversal:
+Bill of Exception No. 1 complains that defense counsel was not permitted to read to the panel, prior to the selection of the jury, Article 4590(d), V.A.C.S. (Practice of Naturopathy).
+Appellant relies upon such cases as Hibbitt v. State, 90 Texas Cr. Rep. 527, 236 S.W. 739, and Dennis v. State, 101 Texas Cr. Rep. 454, 276 S.W. 715, which hold that error is reflected by an undue limitation on the right of an accused to question the jury panel.
+We observe at the beginning that this court in the relatively recent case of De Hay v. State, 158 Texas Cr. Rep. 262, 254 S.W. 2d 513, declined to pass upon the validity of the Naturopathy Act but did hold that, because Section 18 of said act provided that nothing in the act should be construed as authorizing a naturopath to practice medicine, the fact that an accused in a prosecution of this nature was licensed as a naturopath would be no defense. We further observe that the Court of Civil Appeals in the recent case of Wilson v. State Board of Naturopathic Examiners, 298 S.W. 2d 946, held that Article 4590(d), C.A.C.S., is void. We also observe that the court charged the jury in accordance with the terms of Sections 16 and 18 of Article 4590(d). We also call attention to the fact that this was a prosecution for treating a disorder for money and was not instituted under that section of Article 741, V.A.P.C., which makes it unlawful to “publicly profess to be a physician.”
+The court qualified Bill of Exception No. 1 by certifying that he did not limit the questioning of prospective jurors by the appellant or his attorney and permitted them to ask each juror any proper question they desired.
+Having accepted such qualification, the appellant is bound thereby, and reversible error is not reflected by the bill. McGowan v. State, 163 Texas Cr. Rep. 587, 290 S.W. 2d 521.
+Bills of Exception Nos. 2 and 3 complain of the refusal of trial court to permit the appellant to offer into evidence his license to practice naturopathy and his diploma which evidenced the fact that he was graduated from a naturopathic college. The court’s qualification of the bill reflects that later on in the trial the witness was permitted to read to the jury the appellant’s license from the State Board of Naturopathic Examiners which had been recorded in the office of the county clerk.
+If such evidence was material, a question which we do not decide, then the subsequent action of the court cured any possible error in his earlier ruling.
+Finding no reversible error, the judgment of the trial court is affirmed.
+
+## Rehearing (DICE, Judge.)
+
+ON APPELLANT’S MOTION FOB BEHEABING
+DICE, Judge.
+Appellant insists that reversible error is presented by two informal bills of exception which we did not discuss in our opinion on original submission.
+The first bill relates to the action of the court in permitting Dr. Merritt to testify that the application of an electric coagulating needle to a person’s throat constituted surgery over appellant’s objection that a proper predicate had not been laid and that such testimony invaded the province of the jury.
+Dr. Merritt testified that he was a doctor of medicine with a degree from Louisiana State University and that a part of his medical training was in surgery. Under this testimony he was shown to be qualified as an expert witness and the court did not err in permitting him to testify as such. Clayton v. State, 139 Texas Cr. Rep. 86, 138 S.W. 2d 1084. The doctor’s testimony that a particular act constituted surgery was an expression of his opinion upon a question of fact in the case and not his opinion upon the ultimate issue to be determined by the jury of whether the appellant was practicing medicine. Such testimony was admissible. See Cordero v. State, 164 Texas Cr. Rep. 160, 297 S.W. 2d 174.
+The remaining bill presents appellant’s contention that the court erred in permitting Dr. Merritt to testify on re-direct examination that a large percentage of commercial penicillin has a local anesthetic drug added to it. Appellant insists that such testimony should not have been permitted by the court because there was no evidence in the record that the penicillin injected by the appellant contained any narcotic or foreign drug. The court did not err in permitting the testimony as the record reflects that the appellant on cross examination had questioned the doctor in regard to the several formulas used in preparing penicillin and its basic components.
+We have again considered appellant’s other contentions and remain convinced that we properly disposed of the case on original submission.
+The motion for rehearing is overruled.
+Opinion approved by the Court.
