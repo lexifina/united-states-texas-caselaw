@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "20535"
+decided: "1939-11-29"
+citations: ["138 Tex. Crim. 32"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. R. O’Clarke, Ed A. Seideman, Jack Whitley, and Vera O’Clare v. The State."]
+source_url: "https://static.case.law/tex-crim/138/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5275572
+cites_cases: ["100 Texas Crim. Rep. 232", "103 Texas Crim. Rep. 451", "115 Texas Crim. Rep. 335", "2 S. W. 830", "22 S. W. 40", "229 S. W. 544", "272 S. W. 448", "281 S. W. 861", "29 S. W. (2d) 757", "36 Texas Crim. Rep. 71", "37 Texas Crim. Rep. 18", "38 S. W. 800", "89 Texas Crim. Rep. 131"]
+---
+
+# O'Clarke v. State
+
+## Majority (HAWKINS, Presiding Judge.)
+
+HAWKINS, Presiding Judge.
+The appeal is from a judgment final on a forfeited bail bond.
+By indictment returned into the district court of Hudspeth County on March 15, 1937, R. R. O’Clare was charged with forgery alleged to have been committed on or about the 20th day of October, 1936. A bail bond in the sum of $2,500 was executed by Richard O’Clare, as principia, and by Ed A. Seideman, Jack Whitley and Mrs. Vera O’Clare, as sureties. In the bond appears the following recital:
+“THE CONDITION OF THE ABOVE OBLIGATION IS SUCH that whereas the above named principal, Richard O’Clare stands charged by indictment duly presented in the 34th District Court of Hudspeth County, Texas, with the offense of forgery on March 3”-1937 a felony.”
+The bond bears no date. A notation over the sheriff’s signature states that it was “taken and approved this 18th day of December, A. D. 1937.” On September 6, 1938, a forfeiture was declared on said bond and judgment nisi entered against the principal and sureties, it being recited in said judgment that the bond was made on the 15th day of December 1937. The scire facias writ served upon the sureties also recited that the bond was executed on the 15th day of December, 1937, and obligated the principal to appear and answer a charge of forgery on March 3, 1937.
+Upon the trial to determine whether the judgment nisi should be made final objection was interposed to the admission in evidence of the bail bond on the following grounds: “Because it doesn’t appear therefrom that it was a bail bond executed and entered into before this court on the 15th day of December, as set out in the judgment nisi, and also that scire facias served upon the defendants shows to have been entered into on the 18th day of December and not on the 15th day of December, and for that reason I object to it, and because it does not bear any date except the date that it was filed and approved by the sheriff of Hudspeth County, Mr. M. H. Wright, which shows to have been filed on the 18th and is not the bail bond mentioned and referred to in the scire facias.” The objection was overruled and the bond admitted in evidence and exception was reserved to the ruling of the court.
+Article 427, C. C. P., states the requisites of a citation to the sureties before judgment nisi may be made final. Sub-division 4 of said article provides: “It (the citation) shall state the offense with which the principal is charged as set out in the bond or recognizance, and state the date of such obligation.” The date of a bail bond is the date on which it was executed, and not the date of its approval. Holt v. State, 20 Texas Crim App. 271; Faubion et al v. State, 21 Texas Crim. App. 494, 2 S. W. 830. The scire facias writ serves two purposes, one as a citation to the sureties, the other, as the State’s pleading. Uppenkamp v. State, 89 Texas Crim. Rep. 131, 229 S. W. 544. In the absence of an averment in the scire facias writ supported by proof that the true date of the execution of the bond was December 15, 1937, although on its face it bore no date of execution, the objection to admission of the bail bond in evidence on the ground of variance should have been sustained. See Johns v. State, 115 Texas Crim. Rep. 335, 29 S. W. (2d) 757; Glass v. State, 103 Texas Crim. Rep. 451, 281 S. W. 861; Mayfield v. State, 100 Texas Crim. Rep. 232, 272 S. W. 448; Moseley v. State, 37 Texas Crim. Rep. 18, 38 S. W. 800; Bailey v. State, 22 S. W. 40. We are not unmindful of the holding in Mills v. State, 36 Texas Crim. Rep. 71, where the scire facias recited the date of the execution of the bond to have been the date of its approval, and it was held no variance. It is expressly stated that such holding was not in conflict with the Bailey Case, last above cited. In the present case the bond was approved on December 18th, but the judgment nisi and scire facias state its execution to have been on a different date, to-wit: December 15th.
+Another variance is apparent which we regard as fatal to the judgment. In stating the offense for which appellant was charged it was described in the bail bond as “forgery on March 3, 1937.” The offense is likewise so described in the scire facias writ. The indictment alleges that the forgery there declared on was committed “on or about the 20th day of October, 1936.” From the recitals mentioned it does not appear that the bond in question required the principal to answer to the forgery charged in the indictment relied on by the State.
+For the reasons stated, the judgment must be reversed and the cause remanded, and it is so ordered.
