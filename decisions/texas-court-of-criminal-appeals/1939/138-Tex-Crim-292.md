@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "20,595"
+decided: "1939-11-29"
+citations: ["138 Tex. Crim. 292"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. L. Tarkenton, alias W. L. Trammel v. The State."]
+source_url: "https://static.case.law/tex-crim/138/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5276225
+cites_cases: ["116 S. W. 816", "20 S. W. (2d) 1047", "241 S. W. 478", "26 S. W. (2d) 241", "55 Tex. Cr. R. 259", "92 Tex. Cr. R. 45"]
+---
+
+# Tarkenton v. State
+
+## Majority (HAWKINS, Presiding Judge. CHRISTIAN, Judge.)
+
+HAWKINS, Presiding Judge.
+Conviction is for attempting to pass a forged instrument, punishment being two years in the penitentiary.
+The original transcript failed to show any notice of appeal as required by Art. 827 C. C. P. By a supplemental transcript now before us there is shown a “docket entry” by the trial judge stating that notice of appeal was given, but it does not appear that such order was carried into the court’s minutes. It has been held many times that the docket entry is not a “record” entry as required by Art. 827. See 4 Tex. Jur., Sec. 123, p. 172, and cases there cited; also Lenox v. State, 55 Tex. Cr. R. 259, 116 S. W. 816; Haynie v. State, 92 Tex. Cr. R. 45, 241 S. W. 478; Bryson v. State, 20 S. W. (2d) 1047; Thackerson v. State, 26 S. W. (2d) 241.
+The appeal is dismissed.
+ON APPELLANT’S motion to reinstate the appeal.
+CHRISTIAN, Judge.
+The record having been perfected, the appeal is reinstated and the case considered on its merits.
+The indictment charged appellant with the offense of attempting to pass as true a forged instrument. The jury found appellant guilty of the offense of passing as true a forged instrument. The verdict fails to follow the charge in the indictment and the charge of the court, in that it finds appellant • guilty of an offense not set forth in the indictment. Under the circumstances we are constrained to order a reversal of the judgment of conviction.
+The judgment is reversed and the cause remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
