@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,157"
+decided: "1956-03-21"
+citations: ["162 Tex. Crim. 550"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Artis Darden v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462962
+cites_cases: ["154 Tex. Cr. R. 427", "159 Tex. Cr. R. 10", "227 S. W. 2d 552", "244 S. W. 2d 216", "258 S. W. 2d 86", "259 S. W. 2d 218", "282 S. W. 2d 873"]
+---
+
+# Darden v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Under an indictment charging the primary offense of robbery by assault, together with three prior felony convictions alleged for the purpose of enhancing the penalty, appellant was convicted and his punishment assessed at life imprisonment in the penitentiary.
+No statement of facts accompanies the record.
+In the absence of a statement of facts we are unable to appraise appellant’s objections and exceptions to the court’s charge. Mason v. State, 244 S. W. 2d 216; Conwell v. State, 258 S. W. 2d 86; Martinez v. State, 282 S. W. 2d 873.
+By Bill of Exception No. 1 appellant complains of the following argument to the jury by the state’s attorney while he was discussing the former convictions: “* * * Don’t you know that if there was something wrong with these papers these gentlemen who have been so ably representing the defendant would have found it out * * *” and also complained of the further argument as to the same matter: “* * * I brought three witnesses here, and each one of them identified this defendant as being the same person as was convicted in each of these judgments. Their testimony stands uncontradicted, gentlemen, — uncontradicted ■ — ■ from this witness stand * * over his objection that such argument alluded to appellant’s failure to testify in the case and that there was no other witness who could testify to the same fact.
+In the absence of a statement of facts and in view of the court’s certification in the bill, to which there was no exception, that there were other witnesses than the three referred to who could have testified about the same matter, and, further, that the argument complained of was invited by the argument of counsel for the appellant, no reversible error is shown. 42 Tex. Jur. 357, Sec. 282; Spencer v. State, 154 Tex. Cr. R. 427, 227 S. W. 2d 552; McGowan v. State, 159 Tex. Cr. R. 10, 259 S. W. 2d 218.
+Finding no reversible error the judgment is affirmed.
+Opinion approved by the court.
