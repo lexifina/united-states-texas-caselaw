@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,021"
+decided: "1954-06-09"
+citations: ["160 Tex. Crim. 383"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Freeman Walker v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0383-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2471000
+cites_cases: ["158 S.W. 2d 1012", "266 S.W. 2d 880"]
+---
+
+# Walker v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted for felony theft, and his punishment was assessed at two years in the penitentiary.
+The indictment, drawn under Art. 1413, P.C., charges the theft, by false pretext, of 14,509 feet of lumber of the value of $1,089.22.
+The state’s testimony shows that appellant had purchased lumber for several years from H. H. Andrews, and had given him a check in the amount of $1,069.04 for a load of lumber on March 3, 1953, and another check in the amount of $979.77 for lumber on March 9, 1953.
+H. H. Andrews testified that about March 17, 1953, appellant telephoned him about the purchase of another load of lumber for which he wanted to give a check and he told appellant that his check of March 3 was returned unpaid and that he did not want other checks which would not be paid; that appellant told him to send the check of March 3 back as the money was in the bank to pay it, and that the check of March 9 had been paid. He further testified that on March 20, 1953, appellant came to his place of business for lumber and when he was questioned about his check stated again that the check of March 9 had been paid; that the money was in the bank to pay the one of March 3, and further stated to him that he had the money in the bank to pay the check for the lumber he was then purchasing. Witness Andrews further said that he believed and relied upon these statements when he accepted appellant’s check, dated March 20, 1953, and drawn on the Donie State Bank in the amount of $1,089.22, in payment for 14,509 feet of lumber which he delivered to him.
+It was shown by the records of the account of appellant in the Donie State Bank that his balance on March 20, 1953, was $32.41. Also the evidence shows that the check in question was presented to said bank and payment refused for lack of sufficient funds. It was further shown that the check of March 9 was never paid, nor was there sufficient funds in appellant’s account in said bank on March 20 to pay the check of March 3, and it was not thereafter paid.
+Appellant, testifying in his own behalf, testified that he had made many purchases of lumber from H. H. Andrews, and that in February, 1953, he told Andrews that he sold on credit which caused him to be short of money at times, but that he deposited his money as fast as it came in. He testified that he bought lumber from Andrews by telephone on March 3 and sent a signed check by the driver of the truck who received the lumber; that on March 9 he went with the driver of the truck for the lumber, told Andrews he was in a tight for money, and left a signed check for the lumber. He further testified that Andrews telephoned him after his truck had arrived there on March 20, and wanted to know about the two checks that were returned; that he told him he would collect some accounts due and pay him; that Andrews agreed to accept his check for lumber on March 20, which he sent to him. Appellant denied that he told Andrews on March 20 that one of the checks had been paid and the other would be paid upon its return, insisting that he told him he was having financial difficulties.
+The jury resolved the issues of fact against appellant and we find the evidence sufficient to sustain the conviction. Massey v. State (page 49, this volume), 266 S.W. 2d 880.
+Appellant urges error because of the refusal of the trial judge to disqualify himself for the reason that he is the uncle of Hayden Brown, part owner of a lumber company who held an unpaid check of appellant for lumber and who appeared as a witness for the state.
+Hayden Brown is not the alleged injured party in this case and the record does not reflect that he instigated this prosecution or that the result would affect his personal or pecuniary loss or gain. Thus, no error is here shown. Art. 552, C.C.P.
+Appellant contends that the court erred in refusing to set aside the indictment because the minutes of the court do not show the date of presentment of the indictment in open court, and further complains of not being served with a correct copy of the indictment.
+The indictment appearing in the transcript bears the file mark of September 3, 1953.
+It is not shown that appellant was in custody and entitled to be served with a copy of the indictment. Art. 489, C.C.P. It appears that he was furnished with a correct copy of the original indictment shown in the record, however the certificate on the copy shows a different file date from that of the original indictment. This apparently was a clerical error. The filing of the indictment on September 3 evidences the date of its presentment. Flores v. State, 143 Texas Cr. R. 382, 158 S.W. 2d 1012. No error is here reflected.
+Appellant sought to prove that subsequent to the commission of the alleged offense, he proposed, under the bankruptcy act, an arrangement to settle his debts among his creditors as permitted by said act. Complaint is made of the trial court’s refusal to permit him to make proof of such fact.
+Appellant’s guilt here depends, among other things, upon his intent and representations at the time he came into possession of the lumber, and not his plans later formulated to pay for it. No error is perceived in the trial court’s ruling.
+Appellant complains of the definition of “fraudulent taking,” given in the charge, because the various elements are neither set out in the disjunctive or the conjunctive, and fails to instruct the jury that all the elements must be proved and found by the jury to be true before they would be authorized to convict.
+The charge, in applying the law to the facts, required the jury to find that each and all of the elements set out in said definition were true before they would be authorized to convict, and further instructed the jury that if they had a reasonable doubt as to any matter therein submitted, then to give the accused the benefit thereof and find him not guilty. Appellant’s rights under said definition were fully protected by the charge of the court.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the court.
