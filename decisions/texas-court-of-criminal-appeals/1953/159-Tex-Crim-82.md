@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,492"
+decided: "1953-06-24"
+citations: ["159 Tex. Crim. 82"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rupert Lunsford v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2475800
+---
+
+# Lunsford v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is aggravated assault; the punishment, six months. The prosecution was brought under Section 5 of Article 1147, Vernon’s Ann. P. C., the appellant being an adult male and the injured party a female. They were man and wife. It is undisputed that the participants had been drinking for many hours; that they had parked on a lonely road; that they had engaged in a fight; that the injured party had gone to sleep; and that some time later they were apprehended by police officers. The injured party was shown to have sustained black eyes, a cut lip, and multiple bruises.
+Appellant defended on the ground that the officers had no warrant to search his automobile and, therefore, should not be permitted to testify as to what they observed therein or what appellant said at the time of the arrest. The officers testified on direct examination that they observed an automobile parked on “a road in the woods, more or less of a lovers lane”; that they “shined my light in the front seat of the vehicle and saw the defendant, and at that time what appeared to be a woman under him; she was laying with her head on the passenger side of the vehicle, with her feet to the driver’s side, and the defendant was in a half sitting, crouching position facing the driver’s side, with his body on the passenger side and his head was between her legs.”
+It is unnecessary to pass upon the legality of the search predicated upon the foregoing testimony, because the appellant took the officer on voir dire examination and asked him this question:
+“Q. When you saw what you mentioned in your testimony that the defendant had his head between the legs of this woman in the car there and then brought his head up, at that moment did you at that time think he was committing the offense of sodomy on this woman? A. Yes sir.”
+If from what he saw it reasonably appeared to the officer that the felony offense of sodomy was then being committed in his presence, there can be no question as to his authority to search the automobile, arrest the appellant and testify as to what appellant said.
+Appellant next contends that this cause shoúld bé reversed because of the proof of an extraneous offense of sodomy. We have quoted from the record in order to demonstrate that appellant himself injected the extraneous offense into the case and, therefore, cannot be heard to complain.
+There was nothing in the direct testimony of the officer to show the commission of an extraneous offense. Not until the appellant cross-examined him was such issue brought into the case.
+By one bill of exception the appellant complains of the redirect examination of the prosecutrix. On cross-examination by counsel for appellant, she was asked if appellant had ever during their married life committed an act of sodomy upon her, and she answered, “Never done anything like that actually to me, no.” On re-direct examination the state asked her, over appellant’s objection, if appellant had ever attempted such act, and she replied that he had. Since the appellant first interrogated the witness on the matter, we see no error in permitting the state to fully cross-examine her concerning the same.
+Finding no reversible error, the judgment of the trial court is affirmed.
+
+## Rehearing (DAVIDSON, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING.
+DAVIDSON, Judge.
+Appellant renews his insistence upon the inadmissibility of the testimony of the officers showing or tending to show that, at the time they apprehended appellant, he was then engaged in acts of sodomy upon the prosecutrix.
+The trial court refused to certify that the evidence was not a part of the res gestae. It is apparent, therefore, that he construed such testimony as being a part of the res gestae of the unlawful act for which appellant was then upon trial, such act being that of aggravated assault by an adult male upon the person of a female.
+The manner in which the trial court submitted the case to the jury lends emphasis to that conclusion, because nowhere did the trial court elect upon any transaction or state of facts by which the jury might predicate guilt. To the contrary, the jury were authorized to convict upon any state of facts which they concluded showed appellant guilty, for there was no charge defining to the jury the term, “assault,” or in any manner advising the jury as to what, in law, would constitute an assault.
+The facts showing or tending to show that appellant was guilty of the crime of sodomy were not only covered by the allegations of the information, but the state was authorized to predicate a conviction thereon.
+It must be remembered that it is within the power of the state to carve out of any transaction or state of facts any crime which is revealed thereby, and to prosecute therefor.
+So far as this record shows, the assault of which the jury found appellant guilty was and could have been the assault occurring in the commission of the crime of sodomy.
+It is apparent that the testimony of the officers was not only a part of the res gestae but also set forth facts upon which the jury might predicate their verdict.
+Appellant insists that the testimony of the officers may not be given the construction just noted, because of the certificate of the trial court in the bills of exception to the effect that the charge against appellant was predicated upon injuries received by the prosecuting witness in a fight.
+As above pointed out, it is impossible, in the light of the court’s charge, for the trial court to have known — or any one else to know — upon what state of facts the jury based its conviction. Of necessity, therefore, the certificate of the trial court could not restrict or limit the application of the jury’s verdict to any particular state of facts".
+The motion for rehearing is overruled.
+Opinion approved by the court.
