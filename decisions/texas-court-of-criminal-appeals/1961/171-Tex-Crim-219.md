@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,332"
+decided: "1961-04-19"
+citations: ["171 Tex. Crim. 219"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Paul Pace v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2635253
+cites_cases: ["135 S.W. 2d 715", "177 S.W. 2d 965", "82 S.W. 2d 678"]
+---
+
+# Pace v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is robbery; the punishment, 5 years.
+The witness Giles testified that, while returning from Odessa to Andrews on the night in question, he gave out of gas and flagged a ride with four young men, two of whom he knew, the appellant and one Ketchersid; that upon their arrival at Andrews, while seated between appellant and Ketchersid, he withdrew from his pocket his billfold, in which he had in excess of one hundred dollars, and paid for some gasoline to go in the automobile belonging to the young men and some to be taken back to his automobile. He stated that they started back toward Odessa, but had automotive trouble and returned to Ketchersid’s house in Andrews where the young men drank some beer and then went in search of another automobile. He stated that as they were walking through a park one of the men in question hit him in the back of the head and knocked him unconscious; that he came to after midnight, discovered that he was bruised and bloody and his billfold was gone, and he immediately reported the matter to the police.
+Officer Cozart testified that he went to the park in question the following morning after daylight and there found a billfold containing Giles’ identification and a loose one dollar bill.
+Appellant’s confession, which was introduced without objection, recited how Giles had been picked up on the highway and driven to Andrews, where Giles purchased gasoline; it related the automotive trouble and their return to Andrews. It continues as follows:
+“When we all got to the ball park, since Gene Giles had been smarting off all night I hit him and knocked him down. Then all the others jumped on him. We saw the car lights of a car coming, so we all ran off. Bill Thompson said he had Giles’ money. Under a street light we counted it and found he had $78.00 which we all divided, and I got $20.00 which I accepted knowing it wasn’t mine.”
+The accomplice witness Watkins testified to practically the same state of facts except that he did not know who struck the first blow which hit Giles. He testified that before the group left in the direction of the ball park he heard Ketchersid whisper something about Giles having some money but that he did not know whether or not appellant heard the same.
+Appellant did not testify or offer any evidence in his behalf.
+We shall discuss the contentions advanced by the brief. It is appellant’s primary contention that the evidence is insufficient to support the conviction for robbery because there is no proof that appellant intended to take Giles’ money at the time he was assaulted.
+Reliance is had upon Gillard v. State, 128 Tex. Cr. Rep. 514, 82 S.W. 2d 678, in which the accused remained in the automobile while her companions entered the cafe and fobbed the proprietor. The apparent distinction is that Gillard did nothing toward the perpetration of the robbery, while appellant here struck the first blow which rendered Giles unconscious so that he might be robbed.
+Reliance is further had upon Alaniz v. State, 147 Tex. Cr. Rep. 1, 177 S.W. 2d 965. Such case was not reversed on the insufficiency of the evidence but the failure of the court to submit appellant’s defensive theory if that after the fight Perez returned to the scene and took possession of the billfold without Alaniz’s knowledge or that Perez thought the'billfold belonged to Alaniz or Falcon they should acquit. There were no objections to the charge as given in the case at bar, and we do find that the court instructed the jury to acquit appellant of the offense of robbery if they found that he assaulted Giles but they had a reasonable doubt as to whether he intended to take his property. The court further charged on aggravated assault and simple assault and the law of principals.
+We have concluded that the evidence is sufficient to support the jury’s finding that appellant intended to rob Giles at the time he struck him. They may have concluded that the phrase “since Gene Giles had been smarting off all night,” contained in his confession, was a reference to the display of the pocketbook full of money at the filling station. Be that as it may, this Court upheld a conviction for robbery under a charge on the law of principals where the evidence showed that the accused merely drove the automobile while his companion Allen committed the robbery of the injured party, who was, as in the case at bar, a hitchhiker. See Blair v. State, 138 Tex. Cr. Rep. 247, 135 S.W. 2d 715.
+Appellant’s next complaint relates to argument. It is contended that State’s counsel commented on appellant’s failure to testify. In his argument, appellant’s counsel posed this question, “Why hasn’t the State put on this witness stand this boy Bill Thompson * * * ?” In answer thereto, the State’s attorney argued as follows:
+“He says why haven’t we done this, why haven’t we done that? But, remember this: Every witness called to'that witness stand, if you please, was called by the State. Right? Not one — not one, mind you, by the Defendant.”
+Sometime later, appellant’s counsel made a general objection, nowhere indicating to the court that he thought this constituted a comment upon appellant’s failure to testify. We have concluded that, in view of appellant’s argument and the general objection, reversible error has not been shown.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment of the trial court is affirmed.
