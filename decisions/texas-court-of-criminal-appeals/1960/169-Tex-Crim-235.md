@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,708"
+decided: "1960-02-24"
+citations: ["169 Tex. Crim. 235"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Larry Joe Miller"]
+source_url: "https://static.case.law/tex-crim/169/cases/0235-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12137253
+cites_cases: ["330 S.W. 2d 466"]
+---
+
+# Ex parte Miller
+
+## Majority (BELCHER, Judge)
+
+BELCHER, Judge
+This is an original application for a writ of habeas corpus to this court. In accordance with Article 119 V.A.C.C.P. the facts were developed on a hearing in Criminal District Court No. 3, of Dallas County, after which the relator was remanded to the custody of the sheriff of Dallas County pending final disposition thereof.
+Relator contends that the trial judge failed to admonish him at the time he entered his plea of guilty as to the consequences of such plea therefore the judgment is void.
+The record shows that on April 4, 1958, relator entered a plea of guilty before the court without a jury to an indictment pending in Criminal District Court No. 3, charging the possession of marihuana and his punishment was assessed at ten years. Sentence was pronounced and the execution thereof was suspended, the relator was placed on probation and he did not appeal therefrom. Thereafter on October 3, 1958, relator’s probation was revoked from which he gave notice of appeal, and said cause has been affirmed and is reported in Miller v State, 168 Tex. Cr. Rep. 570, 330 S.W. 2d 466.
+The appellant’s testimony on the main trial on April 4, 1958, which was introduced by him on the hearing of his application herein, shows that while testifying he stated that he was guilty of the offense alleged in the indictment, and that he understood that the state’s attorney would recommend to the court that his punishment be assessed at ten years in the penitentiary, and he would further recommend to the court that he be granted probation. These recommendations were carried out by the trial judge.
+The judgment on the main trial on April 4, 1958, affirmatively recites that after the appellant in open court in person entered a plea of guilty to the charge contained in the indictment, he was admonished by the court of the consequences of said plea.
+On relator’s appeal from the order revoking his probation, he attacked the validity of the original judgment of conviction. He there contended that said judgment was void upon its face because it failed to adjudge him guilty of the offense alleged in the indictment. There we said that by failing to appeal to this court when he was placed on probation, he waived his right to review of the original trial and conviction. Miller v. State, 168 Tex. Cr. Rep. 570, 330 S.W. 2d 466.
+Appellant’s knowledge, as shown while he was testifying on the main trial, of the punishment to be recommended by the state as well as its recommendation of probation which was put into effect by the court without any complaint by him evidences not only that he-had been admonished as to his plea but that he knew in advance the consequences of his plea.
+The testimony supports rather than destroys the judgment which upon its face is in all things valid.
+The relief sought by the writ of habeas corpus is denied.
+Opinion approved by the Court.
