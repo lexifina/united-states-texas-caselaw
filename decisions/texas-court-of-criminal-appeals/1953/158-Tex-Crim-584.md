@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,467"
+decided: "1953-06-10"
+citations: ["158 Tex. Crim. 584"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. S. Flannery v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0584-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2483803
+---
+
+# Flannery v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted for the offense of driving an automobile upon a public highway while intoxicated, and his punishment was assessed at a fine of $200.
+There are no bills of exception and no exceptions to the court’s charge.
+C. D. Matthews, an officer for the Texas Liquor Control Board, testified that on December 18, 1951, he observed an automobile crossing the center line as it moved along a public highway in Harrison County; that he sounded the horn of his car; that the car stopped and appellant was under the steering wheel. He further said that from his observation of appellant’s speech and actions and having smelled his breath, he was of the opinion that appellant was intoxicated.
+Lewis Cowart, highway patrolman, testified that he saw appellant at the justice of the peace’s office on the night of December 18, 1951, and that he had an opportunity to observe him and that he was intoxicated.
+Appellant testified that he was driving the car, denied that he was drinking, and said he was not intoxicated, explaining that his manner of operation of the car at the time in question was caused by a diabetic attack. This defense was submitted to the jury and was, by them, resolved against him.
+The evidence is sufficient to support the conviction.
+The judgment of the trial court is affirmed.
+Opinion approved by the Court.
