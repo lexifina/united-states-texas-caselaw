@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,161"
+decided: "1958-11-26"
+citations: ["167 Tex. Crim. 53"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arnett Johnson v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8546767
+cites_cases: ["144 Texas Cr. Rep. 272", "160 Texas Cr. Rep. 443", "162 S.W. 2d 706", "162 Texas Cr. Rep. 365", "271 S.W. 2d. 821", "285 S.W. 2d 225"]
+---
+
+# Johnson v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is robbery; the punishment, five years.
+Prosecutrix testified that on the night in question, as she left the bus and started walking home, she observed a red pickup truck parked at the curb; that shortly thereafter a man grabbed her purse and said, “Don’t you holler, I’ll kill you;” that he ordered Jier to enter the truck, hit her with the pistol when she plead with him, and placed her forcibly in the truck. She stated that as the appellant went around the back in order to get on the driver’s side she took off her shoes and ran to a nearby house, where she gained admittance. Upon learning that there was no telephone there, she returned to the front door, saw the red truck being driven away, and observed that it had a flat tire on the right rear wheel. When the officers arrived, prosecutrix described the appellant, his attire, and the truck, and accompanied them until they found the truck parked some distance away with a flat tire on the right rear. Inquiries in the vicinity lead the officers to the appellant’s apartment, and he was identified by the prosecutrix. Her shoes and purse, minus its contents, were found in the truck.
+Her testimony was corroborated by the investigating officers.
+Appellant and his witnesses testified to an alibi, which testimony was by the jury rejected. We find the evidence sufficient to support the conviction and overrule the appellant’s contention in this regard.
+Appellant contends that his constitutional rights against incriminating himself were violated. On direct examination, the prosecutrix testified as stated above. On cross-examination, she stated, without objection, that the officers required the appellant to repeat the words he used at the time he took her purse for the purpose of assisting her in her identification. Having brought out this testimony by his own interrogation, the appellant may not now be heard to complain, and the holding in Beachem v. State, 144 Texas Cr. Rep. 272, 162 S.W. 2d 706, finds no application here. See Lucas v. State, 160 Texas Cr. Rep. 443, 271 S.W. 2d. 821, and Ramon v. State, 162 Texas Cr. Rep. 365, 285 S.W. 2d 225.
+Finding no reversible error, the judgment of the trial court is affirmed.
