@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,987"
+decided: "1962-11-14"
+citations: ["172 Tex. Crim. 618"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stafford Agee v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0618-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2642875
+cites_cases: ["164 Texas Cr. Rep. 591", "301 S.W. 2d 913"]
+---
+
+# Agee v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is unlawfully carrying a pistol; the punishment, 60 days in jail. Trial was before the court without the intervention of a jury.
+Officer Murdock of the Dallas police testified that, while on patrol with his fellow officer Elwonger on the night in question, he observed an automobile driving at an excessive rate of speed on the freeway and gave chase; that after he turned on the red light on his patrol car he observed the driver of the automobile in question raise up in his seat and observed certain motions on the part of the two other occupants. He stated that when the automobile came to a halt he approached the same on the driver’s side and asked appellant, who was the driver, to step out while Elwonger got the other two occupants out on the other side; that he observed a fabric cushion approximately one inch thick in the driver’s seat and under the same found a pistol.
+Officer Elwonger testified that he observed the occupants leaning forward and reaching down “towards the underside of the seat or thereabouts” before the automobile came to a stop; that he got the two passengers out at the same time Murdock asked appellant to step out of the automobile, and that he found no pistol on either of them or on the side where they had been seated.
+Appellant, testifying in his own behalf, denied that the pistol was his or that he knew of its presence under the one inch thick cotton cushion on which he was seated.
+The sole question presented for review is the sufficiency of the evidence to show that the pistol was in appellant’s possession. Reliance is had upon Summerville v. State, 164 Texas Cr. Rep. 591, 301 S.W. 2d 913. The facts clearly differentiated the two cases. Regardless of who had the pistol originally, appellant was clearly shown to have had it in his possession and on and about his person while he was seated thereon in an effort to conceal it from the officers.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment of the trial court is affirmed.
