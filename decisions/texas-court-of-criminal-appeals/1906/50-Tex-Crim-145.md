@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3138"
+decided: "1906-05-30"
+citations: ["50 Tex. Crim. 145"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wayne Koen v. The State."]
+source_url: "https://static.case.law/tex-crim/50/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2373020
+cites_cases: ["35 Texas Crim. Rep., 501", "78 S. W. Rep., 1072", "79 S. W. Rep., 577", "80 S. W. Rep., 376"]
+---
+
+# Koen v. State
+
+## Majority (HENDERSON, Judge.)
+
+HENDERSON, Judge.
+Appellant was convicted of an aggravated assault, and his punishment fixed at a fine of $250 and thirty days confinement in the county jail; and prosecutes this appeal.
+The facts show that appellant was the uncle of prosecutrix, a young married woman living with her husband some fifteen miles from the town of Hamilton. On the day of the alleged assault, appellant and prosecutrix rode to Hamilton in his wagon. She states that on the way he kissed her with her consent, as he had been in the habit of doing that, and she thought nothing of it; that subsequently he put his arm around her, and began to fondle her bosom, to which she objected, and told him to quit; and he desisted. He afterwards put his hand on her leg, and she made him quit. That he offered her $10 if she would be good to him, this she declined; and he then showed her a $50 bill and said he would give her that, and then offered her as much as $500, and this she declined. She admits that she went on to town with him, ate dinner with him at a restaurant; and he also bought her a dress at a store, which she carried home. That he told her he could not gb back home with her, that she could go home with her father-in-law. She went home with her father-in-law, and said nothing to him on the way about appellant’s treatment of her; nor did she say anything to her husband about it until some two or three nights afterwards. Appellant testified on. his own behalf, and denies all of her statements, except that he kissed her. And it was proven by other witnesses that she was with appellant in town and seemed to be pleasant and agreeable with him; took dinner with him and he bought her a dress at the store. This is a sufficient statement of the case to discuss the assignments of error.
+Appellant complains of that portion of the court’s charge, which instructed the jury that indecent familiarity of the person of a female by an adult male, against her will and consent is an aggravated assault. He further instructed the jury in this connection, if you find from the evidence beyond a reasonable doubt, that the defendant was an adult male, and that Fannie Denham was a female, and that at the time and place alleged defendant was then and there guilty of indecent familiarity with the person of Fannie Denham, against her will and against her consent, defendant would be guilty of an aggravated assault, and to" so find, and assess his punishment, etc. This charge ia objected to because it ignores the very essence of an assault to wit: violence to the person with intent to injure. While abstractly speaking indecent familiarity of the person of a female by an adult male against her will and consent may be an aggravated assault, and in some character of cases it might not even be error to so instruct the jury, yet in a case of this character, where there appears to be some question as to whether what was done was against the consent of the prosecutrix, or produced a sense of shame in her, the court ought to have embraced in the charge the proposition, that if appellant used violence to the person of the prosecutrix with intent to injure her and fondled her person against her will and consent, and that such acts or conduct on the part of appellant created in the mind of prosecutrix a sense of shame, or other disagreeable emotion of the mind, that the same would constitute an aggravated assault, and they should so find. We understand this to be in effect embodied in the requested charges which were refused. In this connection, under the circumstances of this case, we believe that the court should have also instructed the jury the reverse or opposite of this proposition: that is, to the effect, if they believed that appellant used indecent conduct or undue familiarity with the person of prosecutrix, Fannie Denham, but that he had no intent to injure her, or if they believed that his conduct towards her did not create in the mind of said Fannie Denham a sense of shame or other disagreeable emotion of the mind, they would not be authorized to find him guilty. Floyd v. State, 29 Texas Crim. App., 341; Stermer v. State, 78 S. W. Rep., 1072; Chambless v. State, 79 S. W. Rep., 577. Because the charge of. the court did not embrace the features above stated, it is erroneous, and was calculated to impair appellant’s rights with the jury. The judgment is reversed and the cause remanded.
+Reversed and remanded.
+Brooks, Judge, absent.
