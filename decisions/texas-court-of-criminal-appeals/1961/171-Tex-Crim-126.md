@@ -1,0 +1,51 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,883"
+decided: "1961-02-08"
+citations: ["171 Tex. Crim. 126"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George L. Pate v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2634764
+cites_cases: ["106 Tex. Cr. R. 68", "143 Tex. Cr. R. 45", "150 Tex. Cr. R. 332", "156 S.W. 2d 988", "160 Tex. Cr. R. 646", "161 Tex. Cr. R. 202", "163 Tex. Cr. R. 640", "201 S.W. 2d 42", "274 S. W. 2d 408", "275 S.W. 2d 684", "288 S.W. 2d 93", "291 S.W. 226"]
+---
+
+# Pate v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is rape; the punishment, 60 years.
+Prosecutrix testified that, while she and a younger woman companion were driving down a highway in Angelina County at night, appellant forced their Volkswagen off the highway. She stated that appellant demanded their money and searched their purses but found none, after which he locked their car, threw the keys into a ravine, and forced the two women to get into his car. She said that after driving some distance he said, “One of you get out,” and prosecutrix told the younger woman to get out, which she did; that appellant then drove off again and stopped on a side road; that, despite her remonstrances that she was undergoing her menstrual period, he forced her to remove her clothes and throw away her Tampax or sanitary napkin, and had intercourse with her.
+Prosecutrix testified that appellant several times threatened to kill her; that he had his hand in his left-hand pocket and told her to do as he said and she wouldn’t be hurt; that she was m fear of death or serious bodily injury if she did not do what he said, and that during the intercourse there was “something sharp pointed in my ribs on the right side.” She testified that after she put on her clothes appellant told her to get out of the car, threatened to kill her if she told the police he had raped her, and drove away.
+It was shown by the testimony of the officers that the younger woman was picked up by a passing motorist and gave the alarm; that prosecutrix was found walking toward the highway, and that she pointed out to them the scene of the assault, where they found the Tampax.
+The doctor who examined prosecutrix at the hospital testified that he found male sperm in her vagina, verified the fact that she was in her menstrual period, and stated that prosecutrix “was obviously distraught with fear, and I had to give her an injection of a sedative prior to performing a pelvic examination.”
+Prosecutrix’s companion corroborated her testimony relating to what occurred up to the time that she was permitted to get out of appellant’s car.
+Appellant was arrested in Houston some three weeks later.
+Appellant’s confession was introduced in evidence in which he admitted that he forced a car in which the two women were riding off the highway; that he demanded their money, looked through their purses but found none; that he made the girls get in his car, locked their car and threw away the key, drove a short way and turned off of the highway; that he told one of the girls to get out, drove with the other back to the highway, turned off on a dirt road and stopped after going about a mile. The confession continues as follows:
+“I finally told her to take her clothes off. She argued with me for a while and she seemed to be scared. I got in the back seat with her and made her take all her clothes off. She took them off and told me that she was sick. I didn’t understand what she meant. I thought she was just saying that to keep me from raping her. She begged me not to rape her but I went ahead and got on top of her and had intercourse with her. * * * At no time did this girl give me her consent to have intercourse with her. I knew that I had committed the offense of rape. My original intentions were to stop the women and rob them. * * *”
+Appellant did not testify or offer any evidence in his own behalf.
+We find the evidence sufficient to support the conviction.
+There are no formal bills of exception in the record, and we find no reversible error reflected by the informal bills indexed in the statement of facts. No brief has been filed.
+Finding no reversible error, the judgment of the trial court is affirmed.
+
+## Rehearing (DICE, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING
+DICE, Judge.
+Since the delivery of our opinion, affirming the judgment of conviction, a brief has been filed in behalf of the appellant.
+In his brief appellant urges three claimed errors as grounds for reversal of the conviction.
+It is first contended that the court erred in refusing to grant a mistrial when, during the course of the trial, a member of the jury became ill, which required the treatment of a doctor. While the record shows that during the trial the Juror Smith did become ill and the jury was retired to the jury room where he was treated by a doctor, there is no evidence that the juror’s illness was such as to prevent him from continuing to serve as a juror in the case.
+It is further contended that the doctor’s treatment of the juror and his presence in the jury room constituted reversible error because it was in violation of Art. 671 V.A.C.C.P., which provides: “No person shall be permitted to be with a jury while they are deliberating upon a case, nor be permitted to converse with a juror after he has been impaneled, except in the presence and by the permission of the court, * * *."
+In his motion for new trial appellant did not urge as a ground therefor the doctor’s presence in the jury room, and such question is not presented for review. Harvey v. State, 150 Tex. Cr. R. 332, 201 S.W. 2d 42.
+Furthermore, appellant’s motion for new trial was not verified by himself or his attorney and is insufficient to present for review the claimed error. Carruthers v. State, 143 Tex. Cr. R. 45, 156 S.W. 2d 988; Pierce v. State, 160 Tex. Cr. R. 646, 274 S. W. 2d 408.
+Appellant insists that his written confession introduced in evidence by the state was insufficient because it was not dated, did not contain the proper statutory warning, and was not made to Sheriff Leon Jones, the person to whom the confession states it was made.
+We find no merit in such contention. The fact that the confession was not dated did not vitiate it and render it inadmissible in evidence. Leal v. State, 106 Tex. Cr. R. 68, 291 S.W. 226. The warning contained in the confession is in substantial compliance with the statutory warning prescribed in Art. 727 V.A.C.C.P. While the evidence shows that Ranger Ed Gooding typed the written statement made by appellant, the record clearly shows that the confession was made to Sheriff Leon Jones, the person to whom the confession recites it was made.
+Appellant’s remaining contention is that the court erred in refusing to permit him to perfect a bill of exception in the absence of the jury. Reliance is upon that portion of Art. 759a, Sec. 2(a), V.A.C.C.P., which provides:
+“Where the defendant offers testimony which is rejected by the court, the judge, if requested by defense counsel, shall immediately retire the jury and hear such testimony to allow defendant to perfect his Bill of Exception.”
+While the record shows that the court did, upon overruling appellant’s motion for mistrial because of illness of the juror, refuse appellant’s request to then call Sheriff Jones as a witness to perfect his bill of exception in the absence of the jury, the record further shows that at such time the court advised appellant’s counsel that he would be allowed to perfect the bill at the first recess or at some other time during the trial. There is no showing in the record that appellant at any time thereafter called Sheriff Jones for the purpose of perfecting his bill of exception in the absence of the jury. Having been offered such opportunity, the court’s refusal to hear the testimony at the time it was offered does not present reversible error. Weeks v. State, 161 Tex. Cr. R. 202, 275 S.W. 2d 684; Davidson v. State, 163 Tex. Cr. R. 640, 288 S.W. 2d 93.
+The motion for rehearing is overruled.
+Opinion approved by the Court.
