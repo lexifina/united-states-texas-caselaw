@@ -1,0 +1,49 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,890"
+decided: "1961-02-15"
+citations: ["171 Tex. Crim. 107"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. Odis, Sr. v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0107-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2630902
+cites_cases: ["158 Tex. Cr. R. 529", "163 Tex. Cr. R. 287", "257 S.W. 2d 704", "290 S.W. 2d 666"]
+---
+
+# Odis v. State
+
+## Majority (BELCHER, Judge)
+
+BELCHER, Judge
+The conviction is for incest; the punishment two years.
+The typewritten statement of the appellant, which was introduced in evidence by the state, shows the offense charged.
+Appellant, testifying in his own behalf, stated that he was 70 years of age, could not read, could write his name and a few simple words, and had completed the third grade. He admitted signing the statement but stated that “I didn’t want to make any statement at all” and that “I did not make no statement. He (the officer) made it hisself”; and further, the appellant denied the truthfulness of the facts recited in the statement. He testified that when he arrived at the court house about 1:00 P.M. he was placed in jail where he remained until about sundown when he was taken into a small room where he remained while being questioned by the officers until he signed the statement about 3:00 A.M. the next morning; that he had no dinner, supper or food at any time during the interrogation; that the officers cursed and threatened to hit him, called him coward and yellow because he wouldn’t place his hands on the officers; that “I got tired, just like drunk. I was sick, I was weak” and that he signed the statement after the officer “begged me lots” and told me “to sign and we will give you bond,” but “if you don’t do it, we won’t give you bond.”
+Officer Davis, a state’s witness, testified that he first saw the appellant about 6:00 P.M. when he was taken into a little room in the back and that he agreed to make the statement around 1:00 A.M. the next morning.
+Deputy Sheriff Hullman, a state’s witness, to whom the eighteen line statement was made and who typed it, testified that “He (appellant) did not readily admit it. * * * But after a while he did.” Hullman stated that he first saw appellant about 5:30 P.M. when he placed him in jail but did not begin interrogating him until about 8:30 or 9:00 P-M. He further stated that there was some four of five hours of talk in the little room but that he didn’t say anything to the appellant about making a statement until probably after midnight and that the appellant signed the statement about 2:30 A.M.
+The officers while testifying denied the use by them of any persuasion, threats or coercion upon the appellant in the making of the confession.
+In the absence of the jury, the trial judge heard evidence on the voluntary character of the confession and concluded that it was not inadmissible as a matter of law. But he recognized that there was an issue as to whether appellant’s confession was voluntary and in his charge instructed the jury that before they could consider the statement they must find that no threats, duress or physical violence was used to induce him to make the confession.
+By specially requested charge, the appellant called the court’s attention to its failure to instruct the jury that unless they found that the confession was made without compulsion or persuasion they could not consider it. These defensive issues were raised by the evidence.
+Art. 726, V.A.C.C.P., provides in part:
+“The confession of a defendant may be used in evidence against him if it appear that the same was freely made without compulsion or persuasion * * * .”
+In Jordan v. State, 163 Tex. Cr. R. 287, 290 S.W. 2d 666, we said:
+“In his charge to the jury the court required them to find that the appellant had been warned but did not mention the other defensive matters raised by the appellant’s testimony.
+“By requested charges the appellant called this omission to the court’s attention.
+“We have concluded that the case of Cordes v. State, 158 Tex. Cr. R. 529, 257 S.W. 2d 704, 705, is here controlling. There we said, ‘He was entitled to a distinct submission of each defensive issue raised by the testimony.’ ”
+That the jury considered the voluntariness of the statement is evidenced by its written request, during its deliberations, to the judge for a definition of duress which he declined to give them-
+There was no evidence of the use of physical violence by the officers upon the appellant.
+The facts and circumstances surrounding and under which the making and signing of the statement took place entitled the appellant, in addition to the submission of threats and duress, to a distinct submission of whether the statement was made without compulsion or persuasion. These issues having been raised by the evidence, the failure of the court to either give or respond to appellant’s specially requested charge was prejudicial to his rights and calls for reversal.
+The judgment is reversed and the cause is remanded.
+Opinion approved by the Court.
+
+## Rehearing (McDonald, Judge)
+
+ON STATE’S SECOND MOTION FOR REHEARING
+McDonald, Judge
+Our opinion on state’s motion for rehearing is withdrawn and the following is substituted therefor:
+The state contends that appellant made no objections and reserved no exceptions to the court’s amended charge; that, having failed to do so, any defects were waived; and that no error was shown, therefore, in refusing the special requested charge originally presented.
+An examination of the record shows only one charge. There is only one file mark on the charge, and it bears no earmarks, signs, or designations showing that it was ever modified or amended.
+In its motion for rehearing, the state refers to the “trial court’s qualification to said requested charge.” The court merely used this qualification to complete the bill of exception by showing the instruction given in the main charge, thereby justifying his refusal of the requested charge- This instruction had to be contained in the main charge or it could not have been quoted as it was by the court in his qualification.
+The state’s second motion for rehearing is overruled.
