@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,265"
+decided: "1953-03-25"
+citations: ["158 Tex. Crim. 409"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Otis Sanford v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0409-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477485
+---
+
+# Sanford v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is burglary; the punishment, two years.
+The sole question presented for review is the sufficiency of the evidence to support the conviction.
+Parker Jordan testified that the appellant had been to his home on several occasions prior to the day in question, and that on said day appellant drove up in his automobile and borrowed some tools in order to fix his brakes. Jordan stated that he and his widowed sister, who was living with him, drove off in a wagon loaded with corn; that appellant was working on his automobile and that he promised to stay there until they got back.
+Jordan testified that he drove the wagon to the home of his landlord, emptied the corn, and returned to his home. He stated that upon his return the appellant was gone, the wire netting over one window had been pulled loose, the dresser drawer prized open, and the money he had therein was gone.
+Several other witnesses testified, but they added no criminative fact pointing to the accused as the burglar, other than that he was in the vicinity on the day in question and that no one else was seen thereabouts.
+The state, evidently realizing the weakness of its case, asks us to look to the transcript to find that the accused was not arrested until some time after the burglary. This we are not at liberty to do. If the state had evidence of flight, the same would have been very helpful in making out its case, but should have been introduced before the jury in order to warrant our consideration.
+The evidence herein may raise a strong suspicion of appellant’s guilt, but we conclude that it does not measure up to the demands of the law of circumstantial evidence.
+The judgment is reversed and the cause remanded.
