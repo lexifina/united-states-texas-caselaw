@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9338"
+decided: "1925-11-04"
+citations: ["102 Tex. Crim. 124"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John J. Harry v. The State."]
+source_url: "https://static.case.law/tex-crim/102/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5107638
+---
+
+# Harry v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Appellant was convicted in the Criminal District Court of Travis County of possessing intoxicating liquor for the purpose of sale, and his punishment fixed at one year in the penitentiary.
+Officers arrested appellant and some companions in possession of a quantity of intoxicating liquor. No reasonable explanation is offered by the defense of any purpose in the possession of said liquor. The jury were justified in their conclusion that it was possessed for the purpose of sale.
+There are three bills of exception. Bill No. 3 is in question and answer form, and for that reason will not be considered. Bill No. 2 was taken to the action of the district attorney in pouring out some of the liquor found in possession of appellant, and setting fire to it in the presence of the jury. We perceive no error in this action. The remaining bill complains that a witness was permitted to taste the liquor in the presence of the jury and testify to its intoxicating qualities. There was no error in this.
+Finding no error in the record, the judginent will be affirmed.
+Affirmed.
