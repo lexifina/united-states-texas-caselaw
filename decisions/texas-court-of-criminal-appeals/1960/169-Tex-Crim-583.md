@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,943"
+decided: "1960-05-04"
+citations: ["169 Tex. Crim. 583"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Billy E. Parker v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0583-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12149227
+cites_cases: ["124 Tex. Cr. R. 642", "146 Tex. Cr. R. 157", "163 Tex. Cr. R. 378", "164 Tex. Cr. R. 18", "172 S.W. 2d 342", "262 S.W. 761", "292 S.W. 2d 126", "296 S.W. 2d 550", "317 S.W. 2d 743", "319 S.W. 2d 704", "331 S.W. 2d 52", "65 S.W. 2d 311", "98 Tex. Cr. R. 71"]
+---
+
+# Parker v. State
+
+## Majority (BELCHER, Judge)
+
+BELCHER, Judge
+Appellant entered a plea of guilty before the court without a jury to the offense of giving a check in the sum of $17 without sufficient funds, with intent to defraud; and the court assessed his punishment at ten days in jail and a fine of $25.
+By his plea of guilty to the misdemeanor offense charged the appellant admitted the truth of all the material averments in the information and it was not necessary that the state introduce evidence showing his guilt. Art. 518, V.A.C.C.P.; Hunt v. State, 167 Tex. Cr. Rep. 51, 317 S.W. 2d 743; Cooper v. State, 167 Tex. Cr. Rep. 205, 319 S.W. 2d 704. However, the statement of facts shows that the state introduced sufficient evidence to establish appellant’s guilt.
+For the above reasons, appellant’s contentions, that the evidence is insufficient to support the conviction and that there is a material variance between the pleadings and the proof are overruled and the judgment is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (DICE, Judge)
+
+appellant’s motion for rehearing
+DICE, Judge
+Appellant insists that the record which was before us on original submission incorrectly reflected that he entered a plea of guilty in the cause and that the record has been corrected to show that the plea which was entered by him was that of “Not Guilty.”
+By supplemental transcript it is shown that since the delivery of our original opinion, the trial court, on motion of the appellant, has ordered that a corrected judgment be entered nunc pro tunc which judgment recites that appellant entered a plea of not guilty in the cause.
+The trial court was without authority to order entry of the corrected judgment nunc pro tunc during the pendency of the appeal. Art. 772, V.A.C.C.P.; Griggs v. State, 163 Tex. Cr. R. 378, 292 S.W. 2d 126; Le Bove v. State, 146 Tex. Cr. R. 157, 172 S.W. 2d 342; Allen v. State, 124 Tex. Cr. R. 642, 65 S.W. 2d 311 and Acuff v. State, 98 Tex. Cr. R. 71, 262 S.W. 761. Until this appeal has become final, the trial court is without authority to correct the judgment and minutes of the court which forms a part of the record on appeal. Palacio v. State, 164 Tex. Cr. R. 18, 296 S.W. 2d 550 and Bradshaw v. State, 331 S.W. 2d 52. Under the authorities cited the nunc pro tunc judgment entered in the cause will not be considered.
+Remaining convinced that a proper disposition was made of the case in our opinion on original submission, the motion for rehearing is overruled.
+Opinion approved by the Court.
