@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "22596"
+decided: "1943-10-27"
+citations: ["146 Tex. Crim. 325", "174 S.W.2d 975"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Whitaker v. The State."]
+source_url: "https://static.case.law/tex-crim/146/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5295971
+---
+
+# Whitaker v. State
+
+## Majority (KRUEGER, Judge.)
+
+KRUEGER, Judge.
+The offense is murder. The punishment assessed is confinement in the State penitentiary for a period of two years.
+It appears from the record that on the night of February 13, 1943, quite a number of negroes congregated at Tom Fuller’s restaurant and beer tavern, where they partook of the “foamy brew” to the extent that it stimulated their fighting spirit. Sometime about 12:30 A. M., the appellant and his nephew, Ernest Roberts, on one side and the deceased and his brother, Joe Ellison, on the other, became involved in a difficulty. A few bricks or rocks were thrown by Joe Ellison' and Ernest Roberts at each other. Finally, Roberts started across the street to where Joe Ellison was; that when Joe saw Ernest coming towards him he fled down the street. Ernest pursued him, followed by the deceased, who in turn was followed by the appellant. After Ernest had chased Joe for a distance of about half a block, Joe stumbled and fell to the ground, where Ernest pounced upon him, and then beat and cut him. Appellant and the deceased arrived at the scene of the scuffle about the same time and each one, according to the testimony of the appellant, had a knife; that when the deceased struck at him with a knife he (appellant) stabbed him in the chest and on the chin and then went away, leaving the deceased lying on the ground.
+Appellant brings forward two complaints. His first contentention is that the court, in his instructions to the jury on the law relative to his right of self-defense, limited and restricted the right "of self-defense to an assault by the deceased with a knife, when he should have charged that he had "a right to defend himself against an attack by the deceased with a knife, brick or any other weapon. It must be borne in mind that the charge of the court should apply the law to the facts as' they were developed upon the trial of the case. In the instant case, there is no evidence that the deceased was making any assault upon the appellant with anything but a knife. Joe Ellison, the brother of the deceased, had abandoned the difficulty and was fleeing down the street until he stumbled and fell, when Ernest Roberts got on top of him and began beating him. No rock was thrown by the deceased at the time appellant stabbed him. Com sequently there is no error in the court’s instruction complained of.
+His next contention is that the court erred in giving the following instruction: “However, if you believe from the evidence beyond a reasonable doubt that at the time and place in question it did not reasonably appear to the defendant that he or his nephew, Ernest Roberts, was in any danger of death or serious bodily harm at the hands of the deceased, viewing all the facts and circumstances from the defendant’s standpoint at the time, then you will find against the defendant on his issue of self-defense.”
+This instruction was but the converse of the court’s charge on the appellant’s right of self-defense, and we see no harm that could have resulted to the defendant from this instruction. The only persons who testified that the deceased had a knife was the appellant and one of his friends. No knife was found on the ground or on the body of the deceased; and no other person present saw a knife or any other instrument or weapon in the hands of the deceased.
+Bill of Exception No. 1 reflects the following occurrence: After Mack Washington had testified for the State that he was at Tom Fuller’s place on the night in question, that he knew the parties involved in the difficulty which resulted in the stabbing of Cleo Ellison by appellant, that as he stepped out of the door he saw a rock come from the other side of the street to the side he was on but did not know who threw it, he was then asked by counsel for the State if he did not make a statement to the officers the next morning after the killing, to which he replied that he did, whereupon the following was read to him from said statement, he being unable to read: “I saw a negro man that they called Baldy throw a rock across the street at Cleo and Joe.”
+Appellant objected to this procedure on the ground that the State was attempting to impeach its own witness on a matter on which he had not hurt the State. This bill is qualified by the court to the effect that the State did not offer in evidence any portion of the statement which the witness made to the officers, but after the witness had shown that his memory was not clear, there was read to him in an undertone for the purpose of refreshing his memory and not to impeach him, a part' of his statement; that after such portion of the statement was read to him, the District Attorney inquired of him; “Does that refresh your memory?” to which he replied: “Yes, sir.” The bill, as qualified, was accepted by appellant and he is bound thereby. As thus qualified it fails to reflect reversible error.
+Finding no reversible error in the record, the judgment of the trial court is affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
