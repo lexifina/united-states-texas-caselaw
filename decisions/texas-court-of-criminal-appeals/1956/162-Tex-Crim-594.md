@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,170"
+decided: "1956-03-28"
+citations: ["162 Tex. Crim. 594"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ernesto Garcia v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462318
+cites_cases: ["256 S. W. 2d 416", "277 S. W. 2d 107", "286 S. W. 214", "42 S. W. 2d 433"]
+---
+
+# Garcia v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is murder; the punishment, 10 years.
+Juan Garza testified that he and the deceased repaired to a “cantina” on the night in question, that the appellant and others were there when they arrived, that he and the deceased ordered a beer, that after a short while the deceased spoke to the appellant and told him that he was dressed up like he was going to get married, that shortly thereafter the appellant left the cantina and returned, whereupon the deceased asked the appellant why he had gotten his pistol, and that he then observed the appellant with a pistol in his hand and heard him reply to the deceased, “I am going to get you.” Garza stated that the deceased advanced toward the appellant and the appellant retreated behind the bar and began to shoot at the deceased, that the deceased continued to advance and after the appellant fired two or three shots the deceased grabbed a beer bottle in his hand, after which the appellant fired the pistol at the deceased two or three times or more. Garza further testified that following the shooting he asked the appellant, who was by that time bleeding around his face and head, why he had killed the deceased and the appellant, who then had a knife in his hand, told him “to get away before he did something to me.”
+Maria Betencourt, another state’s witness, testified that the deceased and the appellant had been talking back and forth in a joking manner, that the deceased said he was going to cut off the appellant’s necktie and the appellant invited the deceased to do so if he thought he could, after which the parties seemed to lose their tempers and the deceased was advancing upon the appellant calling him a “s.o.b.” when the appellant fired the first shot. She stated that she saw no blood on the appellant’s face when he started shooting, but when the shooting was over she observed blood coming from his head.
+Deceased’s death from gunshot wounds was established.
+There was testimony from experts of the Texas Department of Public Safety who had examined the appellant’s pistol and the shirt worn by the deceased to the effect that the muzzle of the pistol was approximately four feet from the deceased at the time one of the shots was fired and a distance of five feet or greater when the deceased was shot the other times.
+Appellant’s confession was introduced in evidence in which he stated that the deceased had hit him with his open left hand before he began firing.
+Appellant, testifying in his own behalf, stated that he had armed himself with his pistol early in the afternoon on the day in question and sallied forth to the cantina, where he sat drinking until the deceased arrived some seven hours later. He stated that the deceased said to him, “You are a damned super rosa, you take that tie off or I am going to cut it off with a knife,” and that he told the deceased to come ahead. He stated that the deceased came around inside the bar and struck him with his left hand, that he retreated and the deceased hit him again, “but I don’t know if it was with his fists or with a knife or what. All I know is that I was cut.” He testified that the deceased was much larger than he and that he was afraid the deceased would kill him, but he did not state that he saw any weapon in the hands of the deceased. He stated that the deceased was “about three feet, more or less” from him when he started shooting.
+The jury resolved the issue of self defense against the accused, and we find the evidence sufficient to support the conviction.
+We shall discuss the contentions so carefully presented in the appellant’s able brief.
+He first contends that his confession should not have been introduced in evidence because an examination thereof shows that it was prepared by the county attorney, “and at most the defendant assented to it.” He asserts that the confession is not in the words of an illiterate Latin-American, and with that we agree. He states that the confession contains a detailed statement, including the number, make and model of the appellant’s pistol and a floor plan of the cantina where the homicide occurred, which the appellant would not normally have thought of incorporating in such a statement. With this we also agree. He further states that in the confession there is not one word which would indicate that he was attempting to vindicate himself. With this we do not agree. In the confession he stated that the deceased threatened to cut off his tie, advanced upon him, hit him, and “then he kept on coming towards me; I then took out the pistol, a little .25 caliber automatic, and started shooting at him . ”
+We think appellant’s objection to the confession loses much of its force when the appellant took the stand and testified to practically the same state of facts as are recited in the confession. We do observe that we know of no rule which requires that a confession contain all the grammatical errors or colloquialisms that the accused would normally make were he called upon to dictate a narrative statement of what occurred to his interrogator. So long as the confession is voluntarily made, it is admissible, though on reducing it to writing the identical words are not used. When he testified, the appellant did not question the voluntary nature of the confession or state that anything therein set forth was inaccurate.
+Bill of Exception No. 2 complains of the following argument of the prosecutor:
+“I know you gentlemen, as reasonable men, would also be shaken if you had seen a man shot five times through the body; murdered in cold blood.”
+Appellant’s objection to the use of the word “murdered” was sustained, the jury were instructed not to consider the same, but the motion for mistrial was overruled.
+In Jackson v. State, 118 Tex. Cr. Rep. 443, 42 S. W. 2d 433, this court had occasion to review the several holdings of this court concerning argument of this nature.
+In Marshall v. State, 104 Tex. Cr. Rep. 619, 286 S. W. 214, the state’s attorney in his argument referred to appellant as “a cold-blooded murderer.” There, we said: “Nothing in this bill of exceptions in any wise informs us that the facts failed to justify the conclusion that appellant was a cold-blooded murderer.” In that case, we observe that such argument did not constitute new evidence. See also Doswell v. State, 138 Tex. Cr. Rep. 447, 256 S. W. 2d 416, and Gray v. State, 161 Tex. Cr. Rep. 384, 277 S. W. 2d 107.
+Bill of Exception No. 3 complains of the following argument:
+“In the first place it is hard to get the story from the defendant’s standpoint. And so that later when he testifies in the event that his story varies, then you can set down and you can impeach him on his statements.”
+Appellant’s objection was sustained, the jury were again instructed not to consider the argument, and the motion for mistrial was again overruled. Appellant contends that the combination of this argument with that set forth in the preceding bill should call for a reversal of this conviction. Because a trial court may sustain an objection does not necessarily establish that the argument was improper. Our attention has been directed to no fact which would make the argument set forth in this bill improper or prejudicial.
+By Bill of Exception No. 4 the appellant complains of the submission of forms of verdict. We find the court submitted three forms of verdict, including one of not guilty. We are cited no authority holding such practice reversible error where the court submits forms for verdict in proper time which cover all possible verdicts under the facts.
+Finding no reversible error, the judgment of the trial court is affirmed.
