@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2940"
+decided: "1914-01-21"
+citations: ["72 Tex. Crim. 536"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Paul Walker v. The State."]
+source_url: "https://static.case.law/tex-crim/72/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4678619
+---
+
+# Walker v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This conviction was for violating the local option law.
+The information charges that local option was in vogue in justice precinct No. 3 of Shackelford County. It is alleged that the evidence does not show publication as. required by the statute either in a newspaper or in some manner putting the law into operation. We find upon inspection of the facts that the evidence is not sufficient to show that publication was made. The witness Morris testified he was county judge of Shackelford County at the time of the election, and it was his impression that the order declaring the result had been published, but he says he so testified because it was his duty as county judge to have said order published, but that he had no recollection of ever having published the order, or ever having seen it in a paper, or seen a paper with the order published in it. This is the evidence in regard to this matter, and it is not sufficient to show publication of the order as required by statute. It is also shown, however, there was a newspaper office in that precinct, but the files had been burned, and that there was no order on the minutes of the Commissioners Court showing the publication of the order or designating any paper in which it should be published. , There was no attempt to prove further than this that the order had ever been published either in a newspaper or by posting notices. Before the law becomes operative the publication must be made.
+Rich, the alleged purchaser, testified that he bought on the first of July from defendant a bottle of alcohol. The defendant denies this, testifying that he never sold Rich any alcohol, or any other intoxicants, and did not see him on the day mentioned. He is corroborated by other witnesses.
+There are two bills of exception in the record, one reserved to the testimony of G. B. Kirkman, and the other to the testimony of Wallace Kirkman, practically the same. These bills of exception show that after Rich testified appellant had sold him the intoxicating liquors, and defendant had testified that he had not, the State introduced the two Kirkmans and permitted them to testify over various and sundry objections, that Rich was at Kirkman’s house on Sunday morning, about the time of the sale, and had a quart of alcohol which he, Rich, said he had bought from defendant in Moran on Saturday, the day before. This testimony was not admissible. The other Kirkman testifies to the same matter. There was no attempt to impeach Rich by showing he had made contradictory statements. The matter stood before the jury on contradiction squarely put between Rich and the defendant as to the sale. This did not authorize the corroboration of Rich by his own statement to the two Kirkmans, that he had bought the alcohol which they say they saw him with from appellant the day before. This was reversible error.
+There is another question in the case: The record shows the election was held on the 30th of November, 190?. The result of the election was declared by the Commissioners Court on the 9th of December following. Error is assigned upon this. This error is well taken. The statute provides that the County Commissioners Court shall meet on or after the eleventh day after the election and count the votes and declare the result. The Commissioners Court in this particular instance met on the ninth day and declared the result This they had no authority to do. This is the first time this question "has come before the court, so far as the writer has been able to ascertain. However, it is well settled by the authorities that where the Commissioners Court order the election earlier than fifteen days after making the order, or later than thirty days thereafter, it renders the election, held under such order absolutely void. The Commissioners Court can only order a local option election as authorized by the statute. The statute requires that they shall order the election not less than fifteen days nor more than thirty days after entry of the order, and if they order it within fifteen days or before the fifteen days, or- after the thirty days, the election would be a nullity. In the instant case the court met on the ninth day and declared the result, whereas the statute only authorizes them to act not earlier than the eleventh day. We are of opinion that this action of the court was without authority of law, and they had no authority to meet and declare the result on that day, and their action was ultra vires and void. This may not render the election void. The result was not legally ascertained, and the Commissioners Court can only act under the authority of the statute.
+The judgment is reversed and the cause is remanded.
+Reversed and remanded.
