@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2530"
+decided: "1913-06-18"
+citations: ["71 Tex. Crim. 120"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Jefferson v. The State."]
+source_url: "https://static.case.law/tex-crim/71/cases/0120-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2384294
+---
+
+# Jefferson v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of murder in the second degree, his punishment being assessed at ten years confinement in the penitentiary.
+Appellant criticises the following quotation from the court’s charge: “Homicide is the destruction of the life of one person by the act, agency, procurement or culpable omission of another,” because the same is erroneous and incorrect, and fails to define -homicide, as that term is used in law and defined in the statutes of the State." These objections are quite general, but an inspection of the statute compared with the charge given,'shows that if there is any difference it is in the fact that 'the court used the expression “the destruction of the life of one person hy the act,” etc., instead of “the destruction of the life of one human being.” There.is no merit in this contention, and we deem it unnecessary to discuss the matter.
+The second criticism of the charge is that the court failed to state to the jury in the written charge delivered, that they were to “receive the law from the court in this written charge.” We think the court’s •charge is fully sufficient on this question. The charge is as follows: '“You are the sole and exclusive judges of the facts proven, of the credibility of the witnesses, and the weight and value to be given to their testimony, but the law you receive from the court, and you are bound io be governed thereby.” This was sufficient on that question.
+Appellant contends that the evidence does not support the conviction, first, because it does not show that the,deceased came to his death by the wound inflicted by the defendant, and, second, that the verdict and judgment are contrary to the law and the evidence and not supported by the evidence. We are of opinion that the evidence is sufficient on both propositions. The evidence was conflicting .as to the relation of the parties to the difficulty and who was in the wrong. The State’s evidence shows that appellant was clearly the aggressor in the difficulty which resulted in the death of the deceased. The defendant introduced evidence to the contrary. This was a matter for the jury; they saw the witnesses and heard them testify. Under such circumstances this court would hardly be justified in setting aside the conviction.
+Finding no reversible error in the record the judgment is affirmed.
+Affirmed.
