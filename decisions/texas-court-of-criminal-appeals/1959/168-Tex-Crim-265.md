@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,189"
+decided: "1959-05-13"
+citations: ["168 Tex. Crim. 265"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Daniel Love Mangan v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2620932
+cites_cases: ["136 S.W. 50", "156 Texas Cr. Rep. 267", "240 S.W. 2d 780", "61 Texas Cr. Rep. 619"]
+---
+
+# Mangan v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is indecent exposure to a child, as defined in Art. 535c V.A.P.C.; the punishment, five years.
+Sue, the eleven-year-old girl named in the indictment, identified appellant as the man who, on an August afternoon in 1957, drove by the house in San Felipe Courts where she was sitting on the porch with her sister Cathey and two other girls, May and Christine.
+Sue testified that the car was either a Ford or a Plymouth; that appellant was wearing glasses and had a mustache at the time; that after passing, appellant backed up and stopped, and then raised his body and began shaking his private parts up and down.
+Cathey, aged ten, also identified appellant and testified that he unzipped his pants and stuck out his private parts and that he raised ■ his body up and down and started shaking his “privacy.” She testified that she saw appellant again a day or so later and ran home and gave her mother his car number, as she had been told to do if she saw him again.
+May, aged eleven, testifying in rebuttal, identified appellant as the person wdio exposed his male organ to Sue and the other girls.
+Appellant testified and denied being at the San Felipe Courts on the occasion in question, or at a picture show where one of the girls testified she first saw him.
+The jury accepted the testimony of the girls and rejected appellant’s claim of alibi. The evidence is found sufficient to sustain the jury’s verdict.
+Three points of error are presented in appellant’s brief. Points 1 and 2 relate to the court’s charge. The complaint appears to be that the charge is not in the time-honored form and does not first state the substantive law and thereafter apply the same to the facts.
+The charge required the jury to find and believe beyond a reasonable doubt, in order to convict, that appellant on or about the date alleged in the indictment, in Harris County, Texas “did with lascivious intent, knowingly and intentionally expose his private parts and genital organs” to Sue, the girl named in the indictment, she being under the age of sixteen years.
+We are aware of no authority requiring that the provisions of the statute defining the offense charged be first stated in the charge. The rule appears to be that the charge is sufficient if the instruction correctly presents the law of the case in language which is not likely to be misconstrued by the jury, and the statute need not be quoted. Gentry v. State, 61 Texas Cr. Rep. 619, 136 S.W. 50; 24-A Texas Jur., Sec. 63, p. 620; Fowler v. State, 156 Texas Cr. Rep. 267, 240 S.W. 2d 780.
+Point 2 complains that the court erred in not affirmatively instructing the jury to acquit the defendant unless it found that he was guilty of each of the elements of the offense.
+In addition to the submission above mentioned, the charge defined lascivious intent; instructed the jury to acquit if they had reasonable doubt as to his presence at the place and at the time the offense, if any, was committed; and instructed the jury to acquit “if you have a reasonable doubt as to the guilt of the defendant.”
+If there be error in the charge in the particulars pointed out in appellant’s brief, they are not such as would call for reversal, in view of Art. 666 C.C.P.
+The remaining claim for reversal is the contention that the trial court erred in permitting Mrs. Elder, policewoman who was called as a defense witness, to testify on cross-examination that Sue and Cathey identified appellant at a police lineup after his arrest.
+If error, the admission of Mrs. Elder’s testimony is not ground for reversal because the same facts had been elicited by appellant’s counsel on cross-examination of the mother of Sue and Cathey, ás shown by the following quotation from the statement of facts herein:
+“Q. Did you go with the little girls when they went to the showup and picked out Mr. Mangan in the Showup? A. Yes, sir.
+“Q. Did you see the defendant in the showup ? A. Yes, sir.”
+The judgment is affirmed.
