@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,203"
+decided: "1956-04-18"
+citations: ["163 Tex. Crim. 252"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Clyde Parrish v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460006
+cites_cases: ["104 Tex. Cr. R. 456", "104 Tex. Cr. R. 669", "119 Tex. Cr. R. 381", "127 Tex. Cr. R. 386", "135 S.W. 2d 987", "138 Tex. Cr. R. 317", "157 Tex. Cr. R. 326", "160 Tex. Cr. R. 138", "248 S.W. 2d 739", "268 S.W. 2d 152", "284 S.W. 578", "284 S.W. 965", "45 S.W. 2d 984", "77 S.W. 2d 241"]
+---
+
+# Parrish v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for murder; the punishment, twenty-five years.
+A recitation of the facts is unnecessary, in view of our disposition of the case, other than to state that the homicide grew out of an argument over a crap game after it was discovered that the deceased possessed a pair of crooked dice.
+Appellant filed an application for a suspension of sentence, testified in his own behalf, and offered several character witnesses who testified that he bore a good reputation for being a peaceable and law-abiding citizen, and for truth and veracity.
+The record reflects that, after the appellant had rested his case, the state recalled one of his character witnesses, Claude Starnes, who had testified that the appellant’s reputation was good, and propounded to him the following question:
+“Q. Did you know that on or about February 6, 1950 this defendant was arrested in Tennessee for investigation of a burglary in Ohio and Kentucky?”
+Appellant objected to the question and gave as a reason for the objection “it is a reference to specific acts or other and extraneous offenses for which this defendant is not now on trial and is asked for the purpose of inflaming the minds of the jury against the defendant at a time when the defendant has rested.”
+Appellant’s objection was by the court sustained and the jury instructed not to consider the question for any purpose.
+We think the asking of the question in the form in which it was propounded constituted reversible error.
+The fact that the appellant had placed his general reputation in issue did not authorize the state, in combating proof of good reputation, to show specific acts of misconduct on his part. Goss v. State, 104 Tex. Cr. R. 456, 284 S.W. 578; Adaire v. State, 119 Tex. Cr. R. 381, 45 S.W. 2d 984; Edwards v. State, 127 Tex. Cr. R. 386, 77 S.W. 2d 241.
+It has been the uniform holding of this court that a character witness to the good reputation of the accused, for the purpose of testing his knowledge of the reputation, may be asked, on cross-examination, if he has heard of specific acts of misconduct on the part of the accused, but may not be asked if he knows of such specific acts of misconduct. Prater v. State, 104 Tex. Cr. R. 669, 284 S.W. 965; McNaulty v. State, 138 Tex. Cr. R. 317, 135 S.W. 2d 987; Wharton v. State, 157 Tex. Cr. R. 326, 248 S.W. 2d 739; and Davis v. State, 160 Tex. Cr. R. 138, 268 S.W. 2d 152.
+The vice in the form of the question which inquires of the witness as to whether he knows of specific acts of misconduct is that it asserts as a fact that the accused has committed the acts which the state is prohibited from proving.
+The question propounded to the witness clearly asserted as a fact that appellant had been arrested for investigation of a certain burglary. This fact the state was prohibited from proving, and we are unable to say that its assertion as a fact in the question propounded, notwithstanding the court’s instruction, did not influence the jury in arriving at their verdict.
+The record further reflects that the state’s counsel, over appellant’s objection, was permitted to inquire of the witness whether he had heard that the appellant had been convicted in Fort Worth, Texas, on a certain date, for vagrancy and violation of the liquor law.
+From an examination of the record, it appears that the vagrancy charge against the appellant had been dismissed in the corporation court. It further appears that, at the time the witness was being questioned by the state, the state’s counsel had in their possession a police blotter card which contained a pencil notation thereon that the vagrancy charge had been dismissed.
+Under the facts, the witness should not have been questioned as to whether he had heard of a vagrancy conviction of appellant in corporation court.
+For the errors pointed out, the judgment is reversed and the cause remanded,J
+Opinion approved by the Court.
