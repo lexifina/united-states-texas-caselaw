@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,316"
+decided: "1959-02-04"
+citations: ["168 Tex. Crim. 76"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["David James Fields v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2623761
+cites_cases: ["117 S.W. 2d 428", "135 Texas Cr. Rep. 181", "148 Texas Cr. Rep. 220", "159 Texas Cr. Rep. 271", "161 Texas Cr. Rep. 432", "185 S.W. 2d 978", "262 S.W. 2d 723", "277 S.W. 2d 718"]
+---
+
+# Fields v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for the possession of marijuana; the punishment, fifty years.
+After a deputy sheriff was informed that a certain described automobile was being used to transport marijuana, he saw the car so described, unoccupied, on a parking lot, and from a near-by point began observing it. At this time the deputy sheriff by radio transmitted such information to two other officers and they took a position three blocks distant from the parked car. Shortly thereafter four men were seen leaving a building across the street from the car being observed. The deputy sheriff testified that these men walked toward the parked car, one carrying a brown paper sack, “just which one I couldn’t say.” He further testified that when the men arrived at the car the person carrying the sack placed it on the floor board in the back on the left side and entered the rear seat, two entered the front seat and the record fails to account for the fourth man.
+They drove away in the car and the officers followed and soon stopped them. The officers testified that when the car was stopped, the owner of the car was seated on the right in the front seat, another was driving, and the appellant was seated on the left in the rear seat; and before the car was stopped they had seen the appellant stooping over like he was looking at something. They further testified that they took into their possession a large brown paper sack containing five smaller sacks which was on the back floor on the left side of the car.
+The proof shows that each of the small sacks in the large paper sack contained marijuana.
+Appellant did not testify but called one witness who was asked if he knew of appellant ever having been in trouble con-corning marijuana. The state’s objection to this question was sustained. No further testimony was offered.
+The contention that the search of the automobile was illegal because the officers were without a search warrant cannot be sustained as the evidence shows that appellant did not own the automobile and that the owner was in the car at the time of the search, therefore, there was no invasion of the rights of the accused. Moss v. State, 135 Texas Cr. Rep. 181, 117 S.W. 2d 428; Lee v. State, 148 Texas Cr. Rep. 220, 185 S.W. 2d 978; Smith v. State, 159 Texas Cr. Rep. 271, 262 S.W. 2d 723. It also appears that the search was authorized on probable cause.
+Appellant complains of the refusal of his requested charge wherein he sought to have the jury instructed that mere presence alone will not constitute one a principal.
+There was testimony offered that the person carrying the sack placed it on the floor board in the back on the left side and entered the rear seat of the car. Only one person was in the rear seat while the officers were following the car and he sat on the left side. When the officers stopped the car, appellant was the only person seated on the left in the rear seat with the sack at his feet.
+The court in applying the law to the facts in the charge, authorized the jury to convict the appellant if they believed beyond a reasonable doubt that he, acting either alone or jointly with the other occupants of the automobile, possessed the marijuana.
+The charge did not make appellant’s guilt depend upon the commission of an offense by another when the appellant was present and knowing the unlawful .intent, aided and assisted or encouraged by acts or words the person or persons committing it.
+Therefore, a charge that the mere presence of the appellant would not constitute him a principal was not called for because there was evidence of his direct participation in the possession of the sack containing the marijuana. 24-A Texas Jur. 676, Sec. 97, Mann v. State, 161 Texas Cr. Rep. 432, 277 S.W. 2d 718.
+Error is urged because of the failure of the court to charge on circumstantial evidence.
+There was evidence that the appellant, had been carrying the sack and also had the sack containing marijuana at his feet in the car. These facts are sufficient to constitute direct evidence of the possession of the marijuana by the appellant, hence a charge on circumstantial evidence was not required.
+Other contentions urged have been considered and they do not show error.
+The judgment is affirmed.
+Opinion approved by the Court. _
