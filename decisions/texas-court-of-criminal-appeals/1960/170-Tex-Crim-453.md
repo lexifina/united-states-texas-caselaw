@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,548"
+decided: "1960-12-07"
+citations: ["170 Tex. Crim. 453"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eugene Robert Boulte v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0453-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2626891
+---
+
+# Boulte v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is driving while intoxicated, a felony; the punishment, 90 days in jail and a fine of $100.00.
+The witness Henderson testified that, while he was driving alone in the city of Houston, an automobile traveling in the opposite direction crossed the center of the street, entered his lane, and collided with his automobile. He was unable, because it was a rainy night, to testify whether a man or woman was driving, but did say that after the collision he saw only two people in the automobile, a man and a woman. He testified that he spoke to appellant at the scene, asked him what he was going to do about his car, and that appellant said he was not going to do anything. He stated that appellant remained seated in the automobile which had collided with him until the police arrived.
+Mr. Giraud, the driver of a third automobile at the scene, testified as to the collision, that he saw only a man and a woman in the automobile, that after the collision the woman got out of the passenger’s side, but the man remained seated in the driver’s seat.
+Mrs. Giraud related her version of the collision and stated that a man was driving the automobile in question, a woman was seated on the passenger’s side; that after the collision the woman got out but the man remained seated in the driver’s seat, and there were no other people in the automobile unless they were lying down on the back seat out of her view.
+Accident investigator Rogers testified that when he arrived at the scene he found appellant and a woman who claimed to be his wife, with a cut on her lip. and that he saw blood on the dashboard of the automobile on the right side. On the issue of intoxication, he testified that appellant’s breath smelled strongly of intoxicants, that his speech was incoherent, he was unsteady on his feet, but complained of no injury, that he found an empty vodka bottle in the car, and expressed the opinion that appellant was intoxicated.
+Rogers’ fellow officers Woodruff testified that he smelled “some sort of alcoholic beverage” on appellant’s breath, that appellant was unsteady on his feet and “you couldn’t hardly understand what he was saying,” and expressed the opinion that he was intoxicated.
+Appellant did not testify or offer any evidence in his own behalf.
+We have carefully examined the above facts and have concluded that they are sufficient to support the jury’s finding that appellant was the driver of the automobile in question and overrule appellant’s contention in this regard.
+We now address ourselves to his contention that the state failed to establish the prior conviction as alleged. The indictment alleged the prior convictions as follows:
+“ * * * and prior to the commission of the aforesaid offense by the said EUGENE ROBERT BOULTE, to-wit, on the 18th day of December, A.D. 1957, in the County Court at Law No. 3 of Harris County, Texas, the said EUGENE ROBERT BOULTE, in cause No. 125598, was duly and legally convicted, in said last named court of the offense of driving and operating a motor vehicle upon a public highway, while intoxicated, a misdemeanor, upon a complaint and information then legally pending in said last named court and of which the said court had jurisdiction, and said conviction was a final conviction. * * *”
+During the course of the trial, appellant, his attorney, and the attorney representing the state entered into the following stipulation:
+“That the defendant, Eugene Robert Boulte, is the same Eugene Robert Boulte, who on the eighteenth day of December, 1957, in the County Court at Law No. 3 of Harris County, Texas, in cause No. 125398, was duly and legally convicted in said last named court of the offense of driving and operating a motor vehicle upon a public highway while intoxicated, a misdemeanor, upon a complaint and information then legally pending in said last named Court, of which said Court had jurisdiction, and that said conviction was a final conviction.”
+It is appellant’s contention that the variance as to the one number is fatal. Had the judgment and sentence in the prior conviction been introduced in evidence, another question would be presented, but here we are dealing with an oral stipulation; and, because of the exactness of the other details, it is apparent that the parties were stipulating as to the same prior conviction which had been alleged and that through error one digit was substituted for another in the dictation of transcription.
+Finding the evidence sufficient to sustain the conviction and no reversible error appearing, the judgment is affirmed. ■
