@@ -1,0 +1,56 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,128"
+decided: "1956-04-25"
+citations: ["163 Tex. Crim. 104"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Raymond Mayfield v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461494
+cites_cases: ["114 Tex. Cr. R. 567", "115 Tex. Cr. R. 513", "115 Tex. Cr. R. 518", "124 S.W. 2d 121", "136 Tex. Cr. R. 105", "143 Tex. Cr. R. 43", "149 Tex. Cr. R. 330", "156 S.W. 2d 983", "194 S.W. 2d 410", "206 S.W. 516", "26 S.W. 2d 631", "27 S.W. 2d 242", "27 S.W. 2d 244", "27 S.W. 2d 245", "84 Tex. Cr. R. 197"]
+---
+
+# Mayfield v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for keeping and being interested in keeping a room for the purpose of being used as a place to gamble with dice, the indictment being drawn under Art. 625 P.C.
+The room in question was curtained off from the main room of a “Nite Spot” owned and operated by Calvin and Emmett Clark who had a license authorizing the sale of beer.
+There is no testimony showing that appellant owned any interest in the premises or that he was employed by the Clarks, or that he was a tenant, sub-tenant or lessee of the room to the rear of the Nite Spot.
+There is no direct testimony that appellant was in control of the room, the trial court having properly excluded the conclusion of the state witnesses that he was in control of the dice game therein and required the witnesses to state the facts which led them to such conclusion.
+In the absence of direct evidence that appellant owned or had an interest in the premises as keeper, the case became one of circumstantial evidence. Bell v. State, 84 Tex. Cr. R. 197, 206 S.W. 516.
+It is undisputed that the room was used for gambling with dice, and that appellant was present and participated on several occasions as “sack man.”
+The evidence shows that there was a warning signal system installed in the room, wired to the front entrance of the Nite Spot and to a car on an adjacent used car lot, whereby a lookout man could press a button and cause a light in the room to flash upon approach of an officer.
+The dice game carried on in the room was not a banking game where players bet against the exhibitor, one against many, but a game where the players bet against each other and appellant, as the sack man, took ten cents or more out of each bet.
+Other duties of the sack man, as shown by the evidence, included making change for the players, and “kept the game going along without any arguing and so forth. He settled all disputes they had.”
+Appellant was identified as being the sack man from 8:40 to 9:50 P.M. on October 12, 1954, and from 7:45 to 9:15 P.M. on October 15, 1954, the undercover man testifying that during this time he took a cut from every bet made and put the money in a sack he had in front of him.
+There was another unidentified person referred to as the “handler” who each time picked up the dice and handed them to the shooter.
+There was evidence to the effect that appellant was arrested in the same room on January 15, 1954. He was “behind the sack, making change for the other four men who were in the dice game.” Also on May 1st and again on May 8th, 1954, appellant and others were arrested for “loitering in the gaming room,” the warning system being in working order. The arresting officer testified that there was no game in progress, but the room was “a known gambling house.”
+Appellant did not testify. Evidence offered in his behalf was to the effect that he owned no interest in the premises and took no cut from the bets, but was a frequent player in dice games in said room.
+We find the evidence sufficient to sustain the jury’s finding that appellant was interested in keeping the room for the purpose of being used as a place to gamble with dice. Whether he “kept the game going” and took the cut out of each bet as an employee or agent of the owners or as a tenant is immaterial. He was in charge of the game and of necessity of the room.
+Appellant recognizes the case as one of circumstantial evidence, and seeks reversal of the conviction because the trial court failed to charge the jury on the law of circumstantial evidence.
+No exceptions or objections to the court’s charge complaining of such omission are found in the record, and no such charge appears to have been requested. The omission is not ground for reversal in the absence of objection or requested charge. Art. 658 V.A.C.C.P.; Collins v. State, 149 Tex. Cr. R. 330, 194 S.W. 2d 410; also Jazo v. State, 114 Tex. Cr. R. 567, 26 S.W. 2d 631; Duffer v. State, 115 Tex. Cr. R. 513, 27 S.W. 2d 242; Duffer v. State, 115 Tex. Cr. R. 518, 27 S.W. 2d 244; Sanders v. State, 27 S.W. 2d 245.
+The judgment is affirmed.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+Art. 625, P.C. makes it a felony to keep a gambling house. It reads as follows:
+“Keeping. — If any person shall keep, or be in any manner interested in keeping any premises, building, room or place for the purpose of being used as a place to bet or wager, or to gamble with cards, dice or dominoes, or to keep or to exhibit for the purpose of gaming, any bank, table, alley, machine, wheel or device whatsoever, or as a place where people resort to gamble, bet or wager upon anything whatever, he shall be confined in the penitentiary not less than two nor more than four years, regardless of whether any of the above mentioned games, tables, banks, alleys, machines, wheels or devices, or things are licensed by law or not. Any place or device shall be considered as used for gaming or to gamble with or for betting or wagering, if any money or anything of value is bet thereon, or if the same is resorted to for the purpose of gaming or betting.”
+The prosecution arose under that article, the indictment charging that appellant did unlawfully “keep and was then and there interested in keeping a certain room, place and building there situate for the purpose of being used as a place to bet and wager and to gamble with dice then and there played; and as a place where people did then and there resort to gamble, bet and wager on games played with dice * *
+In order to convict one of a violation of Art. 625, P.C., it is necessary, absolutely, that it be shown that the accused was in some manner connected with the premises, building, room, or place in which the gaming occurred. Lewis v. State, 136 Tex. Cr. R. 105, 124 S.W. 2d 121; Ardovina v. State, 143 Tex. Cr. R. 43, 156 S.W. 2d 983.
+The examination of the evidence in the light of the above rule of law reflects the following:
+On two occasions, i. e., October 12 and October 15, 1954, Harrison, a policeman of the city of Dallas and acting as an undercover man for the Special Service Bureau of that city, went to a house known as “Bryan Street Nite Spot” — a cafe and beer tavern — in the city of Dallas. On each occasion he found and participated in a dice game in the house. Appellant was present, and his connection with the game was that of “sack man.” The duties of the sack man were stated by the policeman as follows:
+“Well, the sack man took a cut. He took 10 cents cut off all bets 60 cents or less, and all bets above 60 cents, he took 20 cents off, and made change in the game for the players, and kept the game going along without any arguing and so forth. He settled all disputes they had.”
+Such testimony was ample and sufficient to show that the appellant was directly connected with the operation of the dice game.
+There is not a line of testimony in this case to the effect that the appellant had any connection with the premises, the building, the room, or the place where the game was operated. To the contrary, the uncontradicted testimony shows that the place was owned and operated by others, viz., the Clark brothers. Indeed, the license to sell beer in that place was issued in the name of and to one of those brothers.
+Unless and until the state showed appellant had some connection with the keeping of the place for the purpose of gaming, he was not guilty as charged.
+Whether appellant was shown to be guilty of a violation of Art. 619, P.C., which makes it a felony for one to keep or to exhibit a gaming table for the purpose of gaming, is a question that is not before us. The state did not charge appellant with that offense.
+The fact remains that proof of his connection with and his exhibition of the dice game and his taking of fees from others as a privilege to bet thereon do not show that he was the keeper of the house or place for the purpose of gaming, especially when the uncontradicted proof shows that others were the keepers thereof.
+If one should be convicted under Art. 619, P.C., for keeping and exhibiting a dice game and table for the purpose of gaming and the facts showed only that he was the keeper and exhibitor thereof, I cannot help but wonder how my bretheren would dispose of the contention there that such facts do not show a violation of Art. 619, P.C., but do show a violation of Art. 625, P.C., prohibiting the keeping of a house or place for the purpose of gaining, and, in support of that contention, cite their opinion in this case, which so holds.
+In order that such confusion might not exist under our decisions, I respectfully enter my dissent.
