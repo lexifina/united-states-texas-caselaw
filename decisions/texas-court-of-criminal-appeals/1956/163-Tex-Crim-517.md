@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,320"
+decided: "1956-10-17"
+citations: ["163 Tex. Crim. 517"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Floyd Ewing v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0517-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462632
+cites_cases: ["154 Tex. Cr. R. 20", "154 Tex. Cr. R. 546", "155 Tex. Cr. R. 335", "157 Tex. Cr. R. 177", "224 S.W. 2d 715", "229 S.W. 2d 170", "235 S.W. 2d 165", "247 S.W. 2d 562", "264 S.W. 2d 120"]
+---
+
+# Ewing v. State
+
+## Rehearing (WOODLEY, Judge.)
+
+ON appellant’s motion for rehearing
+WOODLEY, Judge.
+All former opinions are withdrawn and the following substituted therefor.
+The conviction is for transporting whisky in a dry area; the punishment, 30 days in jail and a fine of $500.
+The information not only alleged the transportation of whisky in a dry area, but alleged that appellant transported said whisky in a “2 door” automobile.
+The evidence does not support the allegation that the automobile appellant used was a “2 door.”
+Having alleged the transportation of whisky in a dry area, it was not necessary that the information allege that it was transported in an automobile, or to describe the vehicle.
+The rule appears to be, however, that having described the automobile used in the unlawful act, it devolved upon the state to prove the descriptive averments. The allegation that the automobile was a “2 door,” being descriptive of the identity of the particular unlawful act charged, may not be rejected as surplusage. Branch’s Ann. P.C. 2nd Ed., Sec. 518. See also McElroy v. State, 154 Tex. Cr. R. 20, 224 S.W. 2d 715; Franklin v. State, 157 Tex. Cr. R. 177, 247 S.W. 2d 562; Dugan v. State, 159, Tex. Cr. R. 364, 264 S.W. 2d 120; Daulton v. State, 155 Tex. Cr. R. 335, 235 S.W. 2d 165; Staley v. State, 154 Tex. Cr. R. 546, 229 S.W. 2d 170.
+The trial court, in formal bills of exception, has certified that there was a variance between the allegation of the information and the proof in this regard, and that the evidence is insufficient to sustain the conviction. These certifications appear to be supported by the statement of facts.
+The appellant’s motion for rehearing is granted, the order affirming- the conviction is set aside and the judgment is now reversed and the cause remanded.
