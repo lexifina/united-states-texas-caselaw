@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,805"
+decided: "1954-02-03"
+citations: ["159 Tex. Crim. 541"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Allen H. Brunk v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0541-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2476983
+cites_cases: ["220 S. W. 774"]
+---
+
+# Brunk v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is robbery; the punishment, 25 years.
+No statement of facts accompanies the record.
+Appellant’s sole bill of exception is addressed to the motion to quash the indictment, because it was signed by someone other than the regular foreman of the grand jury. Article 396, C. C. P., states that an indictment should be signed by the foreman. However, Article 512, C. C. P., precludes an exception based upon the want of his signature.
+In Parkinson v. State, 87 Tex. Cr. Rep. 176, 220 S. W. 774, the indictment was signed by a member of the grand jury who was not the foreman. We upheld its validity. See also Branch’s Ann. P. C., Sec. 513, p. 264. Also Note 20 under Article 396, V. A. C. C. P.
+In any event, the court’s qualification of the bill recites that one Allison was appointed foreman when the grand jury was impaneled, that later he made it known to the court that he would be temporarily absent, and the court then appointed Loughlin (who signed the instant indictment) to act as foreman and caused the order of appointment to be entered in the minutes of the court.
+Such action is in accordance with the provisions of Article 370, C. C. P.
+No error appearing, the judgment of the trial court is affirmed.
