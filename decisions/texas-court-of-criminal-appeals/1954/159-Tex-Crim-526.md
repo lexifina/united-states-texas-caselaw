@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,737"
+decided: "1954-01-20"
+citations: ["159 Tex. Crim. 526"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter Norris Jones v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0526-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2476790
+---
+
+# Jones v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is murder; the punishment, 50 years.
+Special Officer Frank testified that on the night in question he was on duty at the Dallas State Fair; that his attention was directed to two people who were at an isolated spot in the fair grounds; that he started toward them; that the woman turned to leave the man whom he later learned was the appellant and said, “Leave me alone”; that the appellant grabbed her “round the neck like this,” stabbed her and shoved her toward the witness. Officer Frank testified that he laid the woman down, recovered a bloody knife with a 3 or 314 inch blade from the appellant, asked him why he stabbed the woman, and the appellant replied that he had done so because she wouldn’t kiss him. Frank stated that he checked the woman’s pulse and found her to be dead, that during the course of his examination of her body he found a closed pocket knife inside her brassiere and found a broken bottle near the scene of the assault.
+The state properly established the cause of death and the custody and deadly character of appellant’s knife, which was introduced in evidence.
+Appellant, testifying in his own behalf, stated that he had lived with the deceased as her common-law husband; that she had left him; that he had made a date to carry her to a ball game on the night of the homicide; that he had failed to keep this engagement, but had met her later in a cafe; that, while accompanying her home, he had asked the deceased for a kiss; that she refused and attacked him with a bottle which she had in her hand; that he had an open knife in his pocket; that he took it out to close it in order that she might not accidentally be hurt; and that the deceased had fallen on the knife, causing the fatal injury.
+The jury resolved the issue of accidental killing against the appellant, and we find the evidence sufficient to support the verdict.
+The sole question presented for review is the appellant’s contention that he was not represented by counsel.
+We have carefully examined the statement of facts on motion for new trial and think we can summarize the facts there developed as follows: Following appellant’s arrest he secured the services of one Jack Moss, a bondsman; Moss paid attorney W. A. McLaughlin $100 to “see the case through the grand jury”; the appellant was indicted and his case set; attorney McLaughlin appeared and represented him in the trial thereof. The fact that appellant did not employ Mr. McLaughlin personally and did not pay him a fee to represent him in the trial can be of no importance. Neither the counsel’s alleged failure to prepare for trial nor any negotiations between such attorney and the district attorney’s office relative to a term of years to be recommended upon a plea of guilty is controlling.
+We have again reread the statement of facts on the main trial and remain convinced that Mr. McLaughlin represented the appellant as well as might be expected in view of the facts of the case.
+The judgment of the trial court is affirmed.
