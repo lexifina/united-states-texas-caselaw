@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,375"
+decided: "1954-01-13"
+citations: ["159 Tex. Crim. 297"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Monroe Wiley v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2474407
+cites_cases: ["148 Tex. Cr. R. 427", "187 S.W. 2d 667"]
+---
+
+# Wiley v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted under Art. 535d, V.A.P.C., for intentionally attempting to fondle a child’s sexual parts, and his punishment was assessed at three years in the penitentiary.
+Mrs. Ollie McDaniel testified that she worked at the Howard County Library and that appellant had been coming there about 4 P.M. every day for some time; that about 4 P.M. on March 11, 1953, she received a complaint from some young girls; that she called Sheriff Slaughter, who came to the library and arrested appellant.
+;■ Grace Harvey testified that she was twelve years of age; that she went to the Howard County Library on March 6, 1953, to get a book; that on that day she saw appellant behind some of the book shelves in the library, and that he placed his hand <m the outside of her dress over her private parts and pushed his hand between her legs.
+Appellant’s confession was introduced in evidence and was, in part, as follows:
+“I was standing at the back of a book shelf and this little redheaded girl came toward me and I felt of her. By this I mean I put my hand down between her legs. She had on a dress, but I did not put my hand up her dress, but did put my hand on the outside of her dress on her private part. She walked on past me and in about a minute or two she came back by me. When she came back past me the second time I did the same thing again. By this I mean that I put my hand on her private parts. That is the only girl that I fooled with yesterday. I have done this before in the library. * * * I do this because I get a thrill out of it.”
+Appellant testified that for about one year he had frequently gone to the Howard County Library. He denied placing his hands on the girl named in the indictment with the intent to fondle her person, but he said the library was “pretty crowded” and “I might have, but without intent to do so;” and he further testified that “It is likely I might have rubbed against them or touched them, but it wasn’t intentional.” He further testified that he signed the statement introduced because of promises by the officers that he would be turned loose if he did, and because the officers threatened to send him to the penitentiary if he didn’t sign it. The issue of the voluntary nature of the confession was properly submitted to the jury.
+We find the evidence sufficient to support the verdict.
+Appellant complains of the action of the court in overruling his motion for a continuance upon the ground that he did not have time to interview the witness and prepare for trial. Appellant was placed in jail charged by complaint with the offense on March 18, 1953, and the indictment was returned on June 24. His father and brother contacted an attorney on June 29; he was released on bond on June 30; and the cause proceeded to trial on July 8, 1953. An application for a continuance of this nature is addressed to the discretion of the trial court and his action thereon is binding on this court unless an abuse of discretion is shown. Williams v. State, 148 Tex. Cr. R. 427, 187 S.W. 2d 667.
+By informal bills of exception, appellant complains of the testimony of the small girls concerning their complaint to the librarian and their statements to each other concerning appellant’s conduct in the library. An examination of the statement of facts reveals that part of this evidence was res gestae and that at other times testimony of the same nature was introduced without objection, thus no error is shown.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the Court.
