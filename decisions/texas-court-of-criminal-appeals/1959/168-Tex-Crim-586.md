@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,092"
+decided: "1959-12-02"
+citations: ["168 Tex. Crim. 586"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Hillman Byrd v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0586-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2620795
+---
+
+# Byrd v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is procuring; the punishment, six months in jail and a fine of $100.
+Detective B. J. Gee and Officer L. B. Emard, of the Dallas Police, assigned to the Vice Squad, received information from the Security Officer of a Dallas hotel that Bell Boy No. 3, who was described as having a bad eye, was procuring women.
+Having registered and been assigned a room, the officers came through the lobby staggering and with a mixed drink in their hands about 2 A.M. They called for a bell boy and appellant, who answered the description given and was wearing Number 3, answered their second call.
+The officers asked appellant if he could get them a bottle of whisky and he said that it was impossible; that it was too strict in Dallas to get whisky after hours. Then Detective Gee asked appellant about getting a woman, and he said he didn’t know any women. Gee said “You must know a ’phone number or something you could call” and appellant said “Well, sometimes they contact me and I’ll see. If anybody contacts me, I’ll let you know.”
+About an hour or an hour and a half later appellant returned to the room and “stated that he got ahold of a woman for us, but that she couldn’t meet us in the hotel, we would have to meet her at another place. He told us that one of us would have to go at a time -and meet her at Choppy’s Cafe.” “* * * Choppy’s Restaurant * * * in the first booth * *
+Appellant described the girl as red headed and young, and said that she had a good figure and was freckled.
+Officer Emard dressed and proceeded to the meeting place. As he left the room and went to the elevator he saw a girl answering the description of the girl he was to meet at the cafe.
+Arriving at the cafe the officer seated himself in the first booth and the same girl soon arrived and they agreed upon a prostitution date at a price of $50.
+The girl had a key to appellant’s room at another hotel and stated that they were going to the bell boy’s room. As they left Choppy’s Restaurant and were proceeding to the latter hotel, appellant was watching them from the street corner. When appellant went back into the hotel where he worked, Officer Emard arrested the girl and soon thereafter took appellant into custody.
+The foregoing is from the officers’ testimony.
+Appellant gave a different version of the incident. He testified that he told the men “I don’t have any women, we don’t handle women in this hotel,” that he wanted no part of their proposition or their money; that he was called to the room several times and about 4 A.M. he told them there was a girl sitting over in Choppy’s Restaurant wearing a black dress and red headed, and they could go over there and talk to her if they so desired, “but I wanted no part of it whatsoeverthat he had seen the girl when he went to the restaurant to get something for a guest; that he did not know who she was or what she was; that if she was in the hotel on the same floor as the officers, he did not know it, and did not see her there; that so far as he knew she did not have the key to his room, and that he had nothing to do with women, and had no conversation with her at Choppy’s Restaurant. He admitted that his room number at the other hotel was the same number as the key the officers testified they took from the girl.
+The jury chose to accept the testimony of the Vice Squad Officers and the evidence is sufficient to sustain their verdict.
+The information alleged that appellant did unlawfully * * * invite, solicit, procure and allure the named female to visit and be at Choppy’s Restaurant for the purpose of meeting and having unlawful sexual intercourse with a male person, to wit L. B. Emard.
+Appellant moved to quash the information upon the theory that there were two “Choppy’s Restaurants” in Dallas. The proof showed that the other restaurant on which the Choppy name appeared was “Choppy’s King of the Sea Restaurant.”
+Other claimed errors are that a requested charge on entrapment was refused and that certain remarks of counsel for the state were prejudicial.
+The record contains no objections to the court’s charge, and no special charges requested. There are no formal bills of exception and the record does not contain the argument of counsel for the state and does not show as a fact that the complained of remarks were made.
+The judgment is affirmed.
