@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2425"
+decided: "1913-04-23"
+citations: ["70 Tex. Crim. 243"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Will Francis v. The State."]
+source_url: "https://static.case.law/tex-crim/70/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2381458
+---
+
+# Francis v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was prosecuted and convicted of the crime of perjury.
+The only ground in the motion for new trial upon which the court is asked to set aside the verdict reads as follows: “Because the evidence is insufficient to- warrant a conviction.”
+The statement of facts -was not filed in the court below until one hundred and twenty-three days after adjournment of court. Article 896 of the Code of Criminal Procedure provides that the clerk shall prepare transcripts in felony cases that have been appealed in preference to cases of misdemeanor, and shall prepare transcripts in all criminal cases appealed in preference to civil cases. It was never contemplated by our Code of Criminal Procedure that a longer time than ninety days should elapse from and after the adjournment of the trial court before the filing of the transcript in any case in this court, and statement of facts filed in the trial 'court more than ninety days after the adjournment of court for the term will not be considered by this-court. There being no statement of facts we can consider, this ground in the motion for new trial presents no error, and the judgment will be affirmed.
+Clerks of the courts are paying but little attention to our Code of Criminal Procedure in regard to the preparation and filing of transcripts, and, inasmuch as we may deem it our duty to cite some of them to appear before us and show cause why they have not prepared and forwarded transcripts in cases appealed within the time provided by law, we call their attention to articles 895, 896, 89,7, 898, 899, 900, 901 and 902 of White’s Annotated Code of Criminal Procedure. We will not sanction the policy pursued by some clerks in neglecting or wilfully failing to forward transcripts to this court for one year and sometimes for two years’ time after the date of the trial. The whole policy of our law is that the clerk shall perform this duty immediately upon the adjournment of court for the term, and in no event shall they permit more than ninety days to elapse before doing so, for articles 900 and 901 provide that in the event the transcript is not received within ninety days from the date of perfecting the appeal, the clerk of this court shall immediately notify the clerk of the trial court that such transcript has not been received, when the clerk of the trial court shall make out another transcript and forward same as in the first instance, this clearly evidencing that it was the intent of the Legislature that the transcript in the first instance should be made out and forwarded in less than ninety days.
+Article 898 provides that at the adjournment of each term of court the clerk of the court shall make out' a list of all cases appealed to this court, certify to same, and forward it to the clerk of this court. This provision is being wholly ignored by the clerks, and we take this occasion to notify them that we shall expect and require in the future a compliance with this and the other provisions of the Code herein cited, and if not complied with they may be cited to appear before us and show cause why they have not done so, and if no good reason is shown, they will be punished in a manner that will in future secure a compliance with the law. This list must be forwarded to the clerk of this court. And iu this connection, we might say that attorneys for persons appealing their cases, if the clerks should make a showing that they had prepared the transcript in accordance with the law, and it was at the instance, request or through fault of such attorneys that the transcript has not been forwarded to this court, such cases may, if good reason is not shown why it should not be done, be dismissed from the docket.
+[Rehearing denied May 21, 1913.—Reporter.]
+S"either clerks, attorneys, nor any other person have a right to ignore the plain provisions of the law, and if the law as written is complied with, much of the delay in criminal cases can and will be avoided, and we shall in this instance, as in others, enforce the law as it is written, and we call attention to the articles of the Code and the rules of this court which follow the statute, that no person in future may plead ignorance of the law.
+The judgment is affirmed.
+Affirmed.
