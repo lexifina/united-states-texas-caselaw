@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,973"
+decided: "1958-10-08"
+citations: ["166 Tex. Crim. 480"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Adolphus Emmett Davis, Jr. v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0480-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2617959
+cites_cases: ["1 S.W. 2d 303", "105 Texas Cr. Rep. 568", "108 Texas Cr. Rep. 313", "142 Texas Cr. Rep. 50", "145 Texas Cr. Rep. 497", "151 S.W. 2d 205", "169 S.W. 2d 719", "290 S.W. 762"]
+---
+
+# Davis v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Upon a trial before the court without a jury appellant was convicted of unlawfully possessing policy paraphernalia and his punishment assessed at confinement in jail for 60 days.
+The state’s evidence shows that on the day in question Officers L. W. Cook and Edwin D. Coombs went to the residence of William Wesley Varnell at 1216% Summer Street in the city of Houston for the purpose of executing a search warrant for policy paraphernalia. While searching the residence the telephone rang and an unidentified voice said “to meet him at the corner of Goliad and Crockett Streets at the grocery store at 4:00 P.M.” Pursuant to the telephone conversation the officers proceeded to the vicinity of Goliad and Crockett Streets and at 4:04 P.M. saw the appellant drive up in a 1957 green and white Buick automobile, park on the corner, get out of the automobile and walk into a grocery store. Both officers knew appellant to be connected with a policy organization. They then went to the Buick automobile where Officer Coombs observed a match box with a paper wrapper around it on the dashboard on the driver’s side which he pointed out to Officer Cook. Officer. Cook then went in the grocery store, bought a package of gum and came back outside. Appellant then came outside and after the two officers identified themselves and asked him where his car was appellant led them to the Buick automobile. As they approached the automobile the officers again observed through the windshield on the dashboard the package of papers rolled up with a rubber band which Officer Cook then identified as policy bets. The officers then opened the door of the automobile, removed the package containing the policy bets from the dashboard and also found a package on the floor board in the rear of the automobile which contained numerous policy plays and policy books.
+It was shown that the policy plays and books found in appellant’s automobile were designed and adaptable for use in connection with a policy game and that appellant did not possess the same for evidence purposes.
+Appellant did not testify.
+Appellant’s sole contention is that the evidence obtained in the search was the result of an unlawful arrest and is therefore insufficient to support his conviction.
+With this contention we do not agree.
+Section 8 of Art. 642c, V.A.P.C., of our gaming statutes provides :
+“It shall be the duty of all peace officers to arrest without warrant any and all persons violating any provisions of this Act, whenever such violation shall be committed within the view of such officer or officers.”
+Clearly under the evidence appellant was violating within the view of the officers that provision of the statute prohibiting the possession of policy paraphernalia which under the provisions of the statute, above quoted, authorized his arrest without a warrant.
+Furthermore, the evidence shows that the officers had ample “probable cause” to search the appellant’s automobile without a search warrant and under the facts presented the search was legal. Battle v. State, 105 Texas Cr. Rep. 568, 290 S.W. 762; Mims v. State, 108 Texas Cr. Rep. 313, 1 S.W. 2d 303; Parker v. State, 142 Texas Cr. Rep. 50, 151 S.W. 2d 205 and Crawford v. State, 145 Texas Cr. Rep. 497, 169 S.W. 2d 719.
+The judgment of the trial'court is affirmed.
+Opinion approved by the Court.
