@@ -1,0 +1,82 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,343"
+decided: "1959-02-04"
+citations: ["167 Tex. Crim. 324"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Katherine Deason v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8549295
+cites_cases: ["124 S.W. 944", "128 Texas Cr. Rep. 519", "131 Texas Cr. Rep. 322", "154 Texas Cr. Rep. 417", "156 Texas Cr. Rep. 452", "158 Texas Cr. Rep. 24", "158 Texas Cr. Rep. 311", "162 Texas Cr. Rep. 48", "163 Texas Cr. Rep. 472", "164 Texas Cr. Rep. 173", "164 Texas Cr. Rep. 230", "165 Texas Cr. Rep. 374", "166 Texas Cr. Rep. 34", "227 S.W. 2d 564", "243 S.W. 2d 582", "252 S.W. 2d 941", "255 S.W. 2d 519", "284 S.W. 2d 359", "293 S.W. 2d 659", "297 S.W. 2d 845", "298 S.W. 2d 146", "307 S.W. 2d 808", "310 S.W. 2d 331", "58 Texas Cr. Rep. 152", "81 S.W. 2d 698", "98 S.W. 2d 806"]
+---
+
+# Deason v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is passing as true a forged instrument; the punishment, 2 years.
+In view of our disposition of this cause, a recitation of the facts will not be deemed necessary other than to observe that the appellant did not testify. The prosecutor in his argument, in part, said:
+“* * * but I do not think he brought you any testimony, nor did he show you in explanation as to what you were doing, Katharine Deason, with this check which was made out to Barbara Kenyon. The Defense has never hinted at an explanation as to how she would have a check payable to Barbara Kenyon, and under what right or what authority * *
+In Smith v. State, 131 Texas Cr. Rep. 322, 98 S.W. 2d 806, the prosecutor said:
+“They have not brought you any frank explanation of this defendant’s possession of the fruits of this robbery. It has been unexplained to you, gentlemen, where this defendant came into possession of this pistol.”
+This court held that this constituted a violation of the mandatory terms of Article 710, V.A.C.C.P., was a comment upon the defendant’s failure to testify, and called for a reversal of the conviction.
+In the case at bar, the trial court agreed that the argument violated the statute because the bill certifies, without qualification, the follownig:
+“* * * That such argument on the part of the Prosecuting Attorney was a comment on the Defendant’s failure to take the witness stand in her own behalf, which was so highly prejudicial and manifestly improper that the effect could not be withdrawn from the jury and no other instruction by the Court could cure the effect of this type of argument.”
+Recently, in Richard v. State, 164 Texas Cr. Rep. 230, 298 S.W. 2d 146, we said:
+“Bill of Exception No. 5 complains of a similar remark in the opening argument for the State: ‘Nobody denies the burglary.’
+“The court certifies in this bill: ‘And such statement and argument on behalf of the State of Texas by the Assistant •Criminal District Attorney constituted a comment on the failure of the defendant to testify in said cause * * *.’
+“We are not in position to say from the record that the trial court’s certification is incorrect, and hence we are unable to agree with the State’s position.”
+Likewise, in the case at bar, we are not in a position to say from the record that the trial court’s certificate is incorrect.
+The judgment is reversed and the cause remanded.
+
+## Concurrence (DAVIDSON, Judge)
+
+DAVIDSON, Judge
+(concurring).
+I concur in the reversal of this case for the reasons assigned by my brother Morrison, Presiding Judge.
+There is, however, in my opinion, a far more compelling reason for reversing the conviction than that assigned: The facts are insufficient to support this conviction and the reversal should be predicated upon that error.
+The reasons for that statement follow:
+The indictment alleged that the check was a forgery because the name of the payee, Barbara H. Kenyon, had been endorsed upon the back of a genuine check of Braniff Airways, Incorporated, and that appellant passed the forged check to Madeline Swor, knowing that the endorsement was forged.
+Under such allegations it was the burden of the state to prove that the endorsement was a forgery and that appellant knew it was a forgery when she passed the check to Madeline Swor.
+The state proved by Mrs. R. W. Louis, who at the time of the alleged offense was Barbara H. Kenyon, that she had not endorsed her name on the check. The witness further testified that Brainiff Airways was neither indebted to nor owed her the amount for which the check was drawn. Thus was it shown that someone forged the endorsement.
+In order to convict appellant it was the burden of the state not only to prove that the endorsement was a forgery but that appellant knew it was a forgery when she passed the check. Feeney v. State, 58 Texas Cr. Rep. 152, 124 S.W. 944.
+How did the state make proof of appellant’s knowledge? The state took the position that appellant knew the endorsement was a forgery because she forged it. To sustain such position the state proved that knowledge on the part of appellant by the witness Martin, a handwriting expert from the Texas Department of Public Safety, who, after an examination of the allegedly forged endorsement with known and established specimens of appellant’s handwriting, expressed the opinion that appellant forged the endorsement.
+Other than the testimony of the expert there is no evidence in this case that appellant forged the endorsement.
+When the case was called for trial, appellant filed her sworn affidavit denying “that the signature, Barbara H. Kenyon, alleged to have been forged in the above entitled and numbered cause was signed or forged by her or made under her authority.”
+As we held in Caldwell v. State, 158 Texas Cr. Rep. 24, 252 S.W. 2d 941, the filing of such an affidavit invoked the provisions of Art. 731, C.C.P., which reads as follows:
+“Evidence of handwriting.
+“It is competent to give evidence of handwriting by comparison, made by experts or by the jury. Proof by comparison only shall not be sufficient to establish the handwriting of a witness who denies his signature under oath.”
+That statute is directly controlling here, under the facts. See: Davis v. State, 164 Texas Cr. Rep. 173, 297 S.W. 2d 845.
+The provisions of the statute have not been met, here.
+To affirm this conviction under the facts would be either to destroy that statute or wholly ignore it. This court may not lawfully do either.
+
+## Dissent (WOODLEY, Judge)
+
+WOODLEY, Judge
+(dissenting)
+The argument complained of in Bill of Exception No. 3 shows upon its face that it was made in reply to the argument of Mr. Booth, counsel for appellant.
+The remarks preceding the portion set out in the majority opinion read: “Now, Mr. Booth did not need to put on any testimony at all. He didn’t have to offer any testimony, but he did put on testimony, and I say that he has gotten up here and complained about the quality of the State’s testimony * * * .”
+Objection being made, the court made no ruling except to instruct the attorney for the state to “make no reference to the Defendant.”
+It is in the light of the foregoing that we should determine the effect of the language of the bill which appears to be a certification by the trial judg'e that the complained of argument was a comment on the defendant’s failure to testify, and was so prejudicial and manifestly improper that the effect thereof could not be withdrawn from the jury and no instruction could cure.
+Appellant passed to Mrs. Swor, Teller at Citizens State Bank in Richardson, Texas, the $159.10 check set out in the indictment, and received the proceeds thereof.
+The check was drawn by Braniff Airways Incorporated to be charged to Flight Crew Expense. Appellant was a Braniff employee and was responsible for expense voucher claims including that upon which the check was issued.
+Barbara H. Kenyon, formerly a hostess of Braniff, was the payee in the check, and the endorsement of her name on the back thereof was alleged to have been forged.
+Barbara H. Knyon, who became Mrs. R. W. Louis upon resigning her position with Braniff several months before the check in question was issued, testified that she did not receive the check; did not present an expense claim or voucher; was due nothing from Braniff; was not acquainted with appellant; did not endorse her name on the check or authorize anyone to do so for her and that her endorsement was forged.
+The indictment charged that appellant forged the endorsement, and in a second count that she passed the check to Mrs. Swor, knowing the endorsement to be forged.
+Appellant did not testify, but filed her affidavit denying that the signature “Barbara H. Kenyon” was signed or forged by her or made under her authority. The state’s evidence that she did forge the endorsement was circumstantial, and included opinion evidence of an expert witness based upon comparison of the endorsement with specimens of appellant’s handwriting.
+It was upon this evidence and the charge of the court submitting both counts to the jury upon circumstantial evidence that the attorney for the state, in reply to the argument of defense counsel “about the quality of the State’s evidence,” pointed out that appellant’s counsel had offered no hint or explanation as to how or under what authority or right appellant would have possession of the check payable to Barbara H. Kenyon.
+It is now well settled that this court will not be bound by a certification of the trial judge of a conclusion of law or fact, where this court is in as favorable position as was the trial court to draw a proper conclusion. Free v. State, 165 Texas Cr. Rep. 374, 307 S.W. 2d 808, and cases cited; Pounds v. State, 128 Texas Cr. Rep. 519, 81 S.W. 2d 698; Taylor v. State, 156 Texas Cr. Rep. 452, 243 S.W. 2d 582.
+In order to be entitled to a reversal because the trial court certified error there must be no reasonable construction of the language used in the bill other than that reversible error was committed. Moore v. State, 154 Texas Cr. Rep. 417, 227 S.W. 2d 564.
+Assuming that the trial judge reached the conclusion indicated by the language of the bill and intentionally certified such conclusion (rather violent assumptions in view of the well recognized courage, ability and experience of the trial judge who declined to grant a new trial despite such conclusions) under the rule stated, this court is not bound by such certification of the trial judge.
+No evidence was offered to meet the prima facie effect of the state’s evidence that appellant cashed the check issued by her employer under the circumstances mentioned, but not delivered to the payee, with the forged endorsement thereon. The attorney for the state directed attention to this. How did she come into possession of the cheek with a forged endorsement thereon if she did not know it was forged?
+If she acquired the check in some manner consistent with her innocence, without knowledge that it was forged, it does not follow that her counsel could explain or furnish evidence as to how she came into such possession only by calling his client as a witness.
+The rule is well settled that to constitute a reference to the failure of the defendant to testify the complained of remarks must be held to have had reference to the defendant and not to the absence of testimony other than that of the defendant. Byers v. State, 166 Texas Cr. Rep. 34, 310 S.W. 2d 331; French v. State, 162 Texas Cr. Rep. 48, 284 S.W. 2d 359; Alford v. State, 158 Texas Cr. Rep. 311, 255 S.W. 2d 519. It is not sufficient that the language might be construed as an indirect allusion to the defendant’s failure to testify. Hart v. State, 163 Texas Cr. Rep. 472, 293 S.W. 2d 659.
+In Smith v. State, 131 Texas Cr. Rep. 322, 98 S.W. 2d 806, cited in the majority opinion, it was shown in the bill of exception and noted in the opinion that Smith, the defendant, was the only person who could have given an explanation of his possession of the stolen pistol. There is no such showing here.
+As to the certification that the remarks were prejudicial, attention is directed to the fact that the minimum punishment was assessed.
+The concurring opinion completely overlooks the evidence showing that the check bearing the forged endorsement was issued upon a false voucher or claim for which appellant was responsible.
+The state did not rely only upon evidence based upon comparison of handwriting. In fact, excluding the testimony of the handwriting expert, the evidence is sufficient to sustain the conviction for passing the forged check.
+I respectfully dissent.
