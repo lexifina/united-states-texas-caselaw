@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2434"
+decided: "1913-04-30"
+citations: ["70 Tex. Crim. 292"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charley Jackson v. The State."]
+source_url: "https://static.case.law/tex-crim/70/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2380416
+cites_cases: ["62 Texas Crim. Rep., 47", "63 Texas Crim. Rep., 483"]
+---
+
+# Jackson v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of assault with intent to murder, his punishment being assessed at three years confinement in the penitentiary.
+The contentions of appellant, in the motion for new trial as well as Eis assignments of error, are all based upon the failure of the court to charge the issue of aggravated assault and the insufficiency of the evidence to support the conviction. These matters can not be considered in the absence of the statement of facts. Appellant has filed a brief in which it is contended the evidence suggested the issues he assigns as error, and refers to the evidence in support of his contention. In the absence of the evidence this court is not in position to review the questions presented.
+The judgment, therefore, will be affirmed.
+Affirmed.
+
+## Rehearing (DAVIDSON, Presiding Judge.)
+
+ON REHEARING.
+May 28, 1913.
+DAVIDSON, Presiding Judge.
+At a former day of the term, the judgment herein was affirmed, the statement of facts not being included in the record. Appellant files a motion for rehearing, claiming he was deprived of a statement of facts and, therefore, the judgment should be reversed. Court adjourned on the 4th of January. On the 1st of March an order was granted extending the time of filing statement thirty days. The affidavit was made by appellant of his inability to pay for the statement of facts, requesting an order of the court compelling the stenographer to file a transcript of the evidence with the clerk. This was refused because the court says appellant had employed counsel and they should look after that matter. Of course, counsel are not required to pay stenographers’ costs out of their fee. The court held that this state of facts did not require him to enter an order requiring the stenographer to make out a statement of facts under the pauper’s affidavit. We are of opinion the court was not in error. Section 5 of the Act of the Thirty-second Legislature, page 264, provides, that when an appeal from a judgment is perfected the official shorthand reporter shall transcribe the testimony and other proceedings recorded by him in the case in the form of questions arid answers, certifying that such transcript is true and correct, and file same in the office of the clerk of the court within such reasonable time as may be fixed by written order of the court. This transcript shall be made in duplicate for which the stenographer shall be paid the sum of fifteen cents per hundred words for the original copy, and no charge for the duplicate, the fees to be paid by the party ordering same on delivery, and the amount paid shall be taxed as costs. Section 14 of the same Act provides, in felony cases the stenographer shall keep an accurate record of the proceedings of the trial as provided for in civil cases, and should an appeal be prosecuted in any judgment of conviction, whenever the State and defendant can not agree as to the testimony of any witness, then in such event so much of the transcript of the official shorthand reporter’s report with reference to the disputed fact or facts shall be inserted in the statement of facts as may be necessary to show what the witness testified in regard to the matter and shall constitute a part of the statement of facts, and same shall apply also to the preparation of bills of exception, etc., provided that in all cases where the court is required to and does appoint an attorney to represent the defendant in criminal action, that the official shorthand reporter shall be required to furnish the attorney for said defendant if convicted and where an appeal is prosecuted, with a transcript of his notes as provided in section 5 of this Act, for which said service he shall be paid bv the State of Texas upon certificate of the district judge one-half of the rate provided for in civil cases. It would seem under the proviso above mentioned that the Legislature provided that when an attorney has been appointed to represent the accused in a criminal case, the court is required to order the stenographer to furnish a statement of facts. Appellant was represented by employed counsel. We are of opinion this showing is not sufficient under the previous ruling of this court construing this part of the statute when looked to in the light of section 8 of the Act. Bazanno v. State, 62 Texas Crim. Rep., 47; Peddy v. State, 63 Texas Crim. Rep., 483. There was no attempt on the part of appellant to make up a statement of facts from their memory of the evidence. In fact, there was no attempt to have a statement of facts except the request of counsel to compel the stenographer to write out one. There is no attempt to show why a statement of facts was not made up by counsel, nor is there any showing that they were unable to do so. We are of opinion- we would not be justified in holding that under the showing that appellant was deprived of a statement of facts through no fault on his part. Before a reversal can be demanded for this reason there should be some showing of the inability of appellant to secure a statement of facts otherwise than by simply a request of the court to compel the stenographer to 'file such statement. So far as the showing made is concerned appellant may have been able to have had the evidence in the record.
+The motion for rehearing is therefore overruled.
+Overruled.
