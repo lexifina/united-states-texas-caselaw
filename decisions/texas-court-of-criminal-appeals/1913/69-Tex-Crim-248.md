@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2234"
+decided: "1913-01-29"
+citations: ["69 Tex. Crim. 248"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Maxwell v. State."]
+source_url: "https://static.case.law/tex-crim/69/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4660950
+cites_cases: ["60 Texas Crim. Rep., 608"]
+---
+
+# Maxwell v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was prosecuted, charged with murder in the second degree.
+The Assistant Attorney-General has moved to strike out the statement of facts. The term of court at which appellant was tried adjourned on the 23rd day of July, 1912, while the statement of facts was not filed with the district clerk until the 5th day of November, 1912,—105 days after the adjournment of court. The stenographers’ Act of 1911 (Chap. 119, page 264, Session Acts) authorizes the court to extend the time for filing statement of facts and bills of exception, but provides that the same shall not be so extended as to delay the filing of the record in the Appellate Court within the time prescribed by law. The law and rules of the Supreme Court provide that the transcript must be filed in the Court of Civil Appeals within ninety days from adjournment. While in the code of Criminal Procedure there is no time fixed for filing the transcript in this court, yet, the Code provides that upon the adjournment of court the clerk shall immediately make out and forward the transcript to this court, and that transcripts in criminal cases shall he made out before the transcript in civil cases; so, under no construction can it be held that the Legislature intended to grant more than ninety days in which to file a statement of facts in the trial court, and the motion of the Assistant Attorney-General is sustained.
+The statement of facts being stricken from the record there are several grounds in the motion for new trial it will be unnecessary to pass on, as we could not do so intelligently without the evidence being considered. Especially is this true of the grounds in the motion for new trial in regard to the misconduct of the jury. The evidence heard on these grounds, not being filed until one hundred five days after the adjournment of court, could in no event be considered. (Probest vs. The State, 60 Texas Crim. Rep., 608.)
+There is a complaint in a bill of exceptions to the argument of the county attorney. In approving the bill the court states: “The defendant and Lillie Maxwell were separately indicted for the murder of Jim Baker. Lillie Maxwell was tried first and convicted. Then came on for trial the John Maxwell case and the defendant proved the conviction of Lillie Maxwell and introduced all of the evidence obtainable which in any way tended to show that Lillie Maxwell did the actual killing.
+“In their argument to the jury counsel for the defendant contended that both Lillie Maxwell and defendant could not be guilty; that only the one who actually did the killing could be convicted; that by its verdict, the jury in the Lillie Maxwell case had found that Lillie Maxwell was the one that actually did the killing; that if the other jury had have thought that John Maxwell did the killing they would not have convicted Lillie Maxwell; that as Lillie had been convicted this jury ought to acquit this defendant.
+“Replying to argument of counsel for defendant the county attorney called the attention of the jury to the law of principals in crime; that it was the theory of the State and the evidence showed beyond a reasonable doubt that defendant and Lillie Maxwell were acting together in the commission of the offense, and were principals, and that under the law of principals it did not matter which one did the actual killing. That the argument of counsel for the defendant to the effect that the conviction of Lillie Maxwell showed.that Lillie actually did the killing, and therefore was the only one who could be convicted was not well founded and was a wrong conclusion to draw from that conviction, because the jury in that case was instructed by the court on the law of principals and therefore the verdict in that case does not conclusively show that the jury in that case found that Lillie actually did the killing, as they could have convicted, in that case if they believed that John Maxwell did the killing, but that Lillie was acting with him under such circumstances as to make her a principal. Then the county attorney followed this argument by saying that the jury in the Lillie Maxwell case had performed its duty, and now the county attorney was asking the jury to do its duty.
+“The defendant objected to the remarks of the county attorney and requested the court to instruct the jury not to consider same, and the court instructed the jury, and the defendant made no further objection and did not further except. The county attorney explained to the court and jury that he was only replying to the argument of counsel for the defendant, and withdrew the remarks complained of and asked the jury not to consider same for any purpose.” As thus qualified, the bill presents no error. If the remarks of the county attorney were but a legitimate reply to argument of counsel for defendant on an issue he injected into the case there is no ground for complaint, even if the court had not instructed the jury not to consider them. Especially is this true under such circumstances where the remarks are withdrawn and the court instructs them not to consider them.
+The other complaints in the motion relate to the charge of the court and the refusal to give special charges requested. In the absence of a statement of facts the rule is if the charge as given is applicable to any state of facts provable under the indictment, the presumption will be indulged that the court charged the law and all the law called for under the testimony.
+Judgment affirmed.
+Affirmed.
