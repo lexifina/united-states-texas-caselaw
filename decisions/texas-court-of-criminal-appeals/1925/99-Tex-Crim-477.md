@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "8665"
+decided: "1925-02-25"
+citations: ["99 Tex. Crim. 477", "270 S.W. 165"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jack Davis v. The State."]
+source_url: "https://static.case.law/tex-crim/99/cases/0509-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5092297
+cites_cases: ["197 S. W. 185", "197 S. W. 192", "225 S. W. 177", "225 S. W. 55", "225 S. W. Rep. 177", "225 S. W. Rep. 55", "81 Tex. Cr. R. 529", "81 Tex. Cr. R. 545", "81 Texas Crim. Rep. 529", "81 Texas Crim. Rep. 545", "88 Tex. Cr. R. 87", "88 Tex. Cr. R. 98"]
+---
+
+# Davis v. State
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+The offense is burglary; punishment fixed at confinement in the penitentiary for a period of two years.
+Morton, the owner of the premises, testified that his house was entered and certain property removed therefrom. Noel, an accomplice, testified that he received from the appellant certain property belonging to Morton and which was identified by him as having been solen from the burglarized premises. Appellant, at the time of the arrest, had in his possession property which was also identified as part of the stolen goods. There were other circumstances tending to connect the appellant with the commission of the offense.
+A reversal is sought upon the error of the court in admitting in evidence the confession of the appellant. It appears that appellant while under arrest and in jail was brought in custody of an officer to the grand jury which was in session and there admitted the commission of the offense. His testimony was not reduced to writing, but was verbal and proved by the foreman of the grand jury upon the trial of the case. Objection to the testimony was made and a bill of exceptions reserved to its receipt. Qualifying the bill, however, the trial court said in substance that at the time the testimony was offered in evidence, he was not informed that the confession had been obtained while the appellant was under arrest and no objection had been urged against it upon that ground; that he did not know that the' testimony was of that character. On the motion for new trial, appellant sought to prove and offered witnesses who would have testified that he was under arrest, was taken from the jail to the grand jury and there made the statement showing his guilt. Under the bill of exceptions taken at the time, as qualified, there was no fact within the knowledge of the court or objection addressed to the bill which would render his action in receiving it erroneous. The procedure which the record reflects, that is, the taking of a witness before the grand jury while he is under arrest and obtaining from him a verbal confession not in compliance with the statute is a practice which this court would not by any means sanction, and in the present ease, if there was not other evidence warranting the conviction, or if there was testimony justifying an acquittal, this court would'feel called upon to reverse the case because of the error to the trial court in refusing to receive proof upon the motion for new trial which would have demonstrated that the confession which was introduced in evidence against the appellant was illegal and was not admissible. The fact that the confession was made before the grand jury does not necessarily render it admissible when it is not in writing as required by the statute, Art. 810, C. C. P. See Oliver v. State, 81 Texas Crim. Rep. 529; Dover v. State, 81 Texas Crim. Rep. 545; Mayzone v. State, 225 S. W. Rep. 55; Williams v. State, 225 S. W. Rep. 177.
+Taking note of the fact that in the present ease there was no affirmative defensive theory and the evidence of the State, independent of the confession, being sufficient to establish the guilt of the appellant and the lowest penalty having been assessed by the jury, we are constrained to hold that we are not warranted in reversing the judgment because of the receipt in evidence of the testimony improperly admitted.
+The judgment is affirmed.
+Affirmed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+—
+Vigorous complaint appears in appellant’s motion of what is deemed the illegal reception of appellant’s confession. If there was any question in the record of appellant’s guilt, from all the other evidence beside the confession, or if he had not been represented upon the trial by an attorney, or if the attention of the trial court, at the time the confession was introduced, had been called by any sort of an objection suggesting those matters urged on the motion for new trial, same might be more persuasive to this court; but on the facts it was shown that the property that came out of the alleged burglarized house was found in appellant’s possession, and part of it apparently on his person, shortly after the burglary, which alone would support the conclusion of guilt. An accomplice testified to appellant’s delivery into his possession of other of the property that came out of the burglarized house. Another witucss testified that on the night of the alleged burglary he conveyed appellant to the neighborhood of the premises burglarized. It further appears from the record that when appellant went before the grand jury and made the statements in regard to his guilt, no suggestion was made to the grand jurors of the fact that he was under arrest or in jail, nor does it appear that when this testimony was offered upon the trial of this case, it was called to the attention of the trial judge that he was in jail or under arrest.
+It is so well settled by the decisions of the courts, and with such apparent reason and justice, that one who is on trial may not sit by and permit procedure to take place, and thus take chances upon an acquittal under the facts before the court and in that manner of trial, and then come later, after he has been convicted, ■ and assert that he should have taken other legal steps, or should have made certain exceptions, or should have presented an objection. To hold otherwise than as we have universally held in regard to procedure of this kind, would necessarily be an exceedingly dangerous innovation and would open the door for interminable contention along these lines. It appears without dispute that this appellant had his day in court, — that he and his attorney sat there in the presence of the court and heard the grand jurors testify to the fact that he came before the grand jury apparently voluntarily and said he wanted to make a statement, and that he then admitted his guilt and said that he burglarized the house, and burglarized it by himself. The attention of the trial judge was not called in any way to the fact that at the time such statements were made he was under arrest. How could the court sustain an objection that was not made? How can the trial judge or this court consistently hold that one may indulge in such procedure and then for the first time in the motion for new trial set up the fact that he was under arrest at the time the alleged confession was made ?
+The motion for rehearing will be overruled.
+Overruled.
