@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,003"
+decided: "1957-05-29"
+citations: ["165 Tex. Crim. 91"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Reynolds C. Reyna v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611297
+cites_cases: ["107 Texas Cr. Rep. 477", "296 S.W. 1095"]
+---
+
+# Reyna v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is possession of heroin; the punishment, 10 years.
+Officer Tucker of the Narcotic Division of the Houston Police Department testified, in the absence of the jury, on the issue of the validity of the search warrant, that on the day in question, while acting undercover, he purchased two “caps” of heroin from the appellant; that he then made an affidavit for a search warrant to search the appellant’s home.
+In the presence of the jury, he testified that he and his fellow officers, armed with a search warrant, went to the house where the appellant resided, met the appellant in front, informed him of the purpose of their visit, handed him the search warrant, and entered the appellant’s bedroom. He stated that the appellant said, “I know you will find it anyway so I might as well go ahead and show it to you,” and then took him to the head of his bed, where he pointed out a matchbox under the mattress and on top of the bed slat. In the matchbox, he found five capsules and one paper of alleged narcotics. At this juncture, the appellant told the officers that there was no use in their looking any further because that was all he had.
+Officer Miller corroborated a portion of Tucker’s testimony.
+It was shown by the testimony of an expert that four of the capsules and the paper contained heroin.
+The appellant did not testify in his own behalf and offered only one witness on the question of his age.
+Appellant in his brief relies upon a number of cases which relate to an insufficient search warrant, but he fails to point out the invalidity of the warrant in the case at bar. We have examined the same and find it sufficient under the holding of this court in Chapin v. State, 107 Texas Cr. Rep. 477, 296 S.W. 1095, and Davis v. State, No. 29,044 (this day decided, page 12, of this volume).
+Appellant further contends that the evidence shows that he was under the age of 17 years. Appellant’s own witness testified that he was born on September 14, 1939, which would make him more than 17 years old at the time of the trial.
+Finding the evidence sufficient to support the conviction and and no reversible error appearing, the judgment of the trial court is affirmed.
