@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,795"
+decided: "1952-04-30"
+citations: ["157 Tex. Crim. 446"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Raymond H. Shatto v. State."]
+source_url: "https://static.case.law/tex-crim/157/cases/0446-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2571924
+cites_cases: ["227 S. W. 483", "88 Texas Crim. Rep. 447"]
+---
+
+# Shatto v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is swindling; the punishment, two years.
+The case was submitted to the jury on the fourth count of the indictment, which alleged, in substance, that the appellant, by means of false representations, induced one Weber, acting for the Charlotte State Bank, to deliver to him $2600, with intent to appropriate the same, the false pretense being that appellant was the full and lawful owner of a 1950 Cadillac automobile which was fully paid for and free and clear of all liens, when in fact the said automobile was not free of all liens, and appellant knew that such representations were false.
+It was established that, at the time appellant gave the chattel mortgage to the bank, there was an outstanding and unpaid lien against the automobile in the approximate sum of $2613.
+Appellant has attacked the sufficiency of the evidence to support the conviction.
+State’s Exhibit No. 1 was a chattel mortgage on a printed form generally employed by banks in agricultural communities. By its terms, it gave the Charlotte State Bank, of Charlotte, Texas, a chattel mortgage on a “1950 Caddalic De Vel Tudor Sedan” to secure the payment of a $2600 demand note. The mortgage, by its terms, contains this clause:
+“That Mortgagor is the full and lawful owner of said property, that the same is fully paid for and is free and clear of any and all liens and encumbrances whatsoever, and that the Mortgagor has perfect right to give this first mortgage upon the same * *
+and was signed by the appellant.
+The banker Weber was a very reluctant witness for the state, having before the trial made a financial settlement with appellant; but, viewed in the light favorable to the prosecution, we find the following from his testimony:
+“Q. Did he represent to you that he had a right to execute a mortgage, a first mortgage on the car? A. Yes, sir.
+“Q. What understanding did you have with him with reference to whether or not this was a first or second or other mortgage on the car? A. My understanding was that when the title came back we would have it changed and show a lien on the statement of title.
+“Q. And that this would be a first lien? A. Yes, sir.” and further
+“Q. Up to that time (relating to the discovery of the existence of the other lien) he had had the automobile and you hadn’t thought much about whether there was any other liens or anything else out on it. A. No, I thought the car was clear.”
+Appellant contends that, since the mortgage described above did not comply with the terms of Section 42 of Article 1436, Vernon’s Ann. P. C., Certificate of Title Act, evidence of the same would be insufficient to support a conviction. It will be noted, from the terms of the act, that it deals with the validity of a lien as to third parties without actual notice. In this connection, attention is directed to the following from our decision in Escue v. State, 88 Texas Crim. Rep. 447, 227 S. W. 483, to-wit:
+“Objection was also made to the introduction of the mortgage given by appellant on said property, the ground of said objection being that the description of the property in the mortgage was not sufficiently definite to identify the particular animals therein described. It is not necessary that the description of the property be such as would make out a flawless contract. If the mortgage, as given, was relied upon and accepted by the injured party, and did in fact induce him to part with his property, and thus accomplish the object intended, the substantial requirements of the law would be met.”
+There are no formal bills of exception and none are indexed in the statement of facts.
+Believing the evidence to be sufficient to support the conviction, the judgment of the trial court is affirmed.
