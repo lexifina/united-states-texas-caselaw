@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,246"
+decided: "1959-01-07"
+citations: ["167 Tex. Crim. 164"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clifford Allen McCarty v. The State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0164-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8547545
+cites_cases: ["148 Texas Cr. Rep. 100", "168 Texas Cr. Rep. 659", "184 S.W. 2d 625", "296 S.W. 2d 764"]
+---
+
+# McCarty v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for murder with malice; the punishment, life imprisonment.
+The state’s testimony shows that on the night of the homo-cide the deceased was playing in a band at a night club on the Jacksboro highway near the city of Fort Worth. At the conclusion of the dancing around midnight, the deceased and Jack McCarty, a brother of the appellant, engaged in a fist fight on the dance floor. Witnesses called by the state testified that they saw no knife or anything in the hands of either combatant. While the fight was in progress appellant intervened and first cut the deceased in the back with a knife. Several spectators tried to stop the fight but were prevented when appellant would turn on them with the knife. During the fight appellant said he “was going to cut the deceased’s privates” and began cutting him around the thighs. After the fighting ceased and the deceased was on the floor, appellant, as he was leaving the scene, reached down and again cut the deceased over the eye.
+The deceased was carried from the scene to a hospital with a stab wound of the right chest, two stab wounds in the left thigh and one on the forehead and pronounced dead at 1:15 A.M. It was shown that the cause of death of the deceased was the knife wound in the chest.
+As a witness in his own behalf appellant admitted cutting the deceased on the back but denied cutting him in the chest or above the eye. Appellant testified that he entered the fight to aid his brother when his brother hollered “Cliff get him off of me — he’s cutting me”; that he saw a knife in the deceased’s hand, was scared and cut him to get him off of his brother but did not intend to kill him.
+The court, in his charge, to which no objections were made, submitted to the jury the issue of appellant’s guilt of both murder with and without malice and aggravated assault and charged the jury on the appellant’s right to defend his brother against both real and apparent danger of death or the infliction of serious bodily injury by the deceased as viewed from the appellant’s standpoint at the time.
+The jury chose to accept the testimony of the state’s witnesses and reject that of the appellant and we find the evidence sufficient to sustain the verdict.
+No brief has been filed on behalf of the appellant.
+One formal bill of exception appears in the record which presents appellant’s objection to certain jury argument of state’s counsel.
+The bill reflects that in his closing argument to the jury, counsel for the state said:
+“Yes, I think you have a right in considering the punishment that might be meted out, you have a right to consider the life the family life, the past of the man killed, I think you have a right to do that, I think if you were faced with a man whose record could be smeared all over the wall that you might consider that in the punishment that should be assessed, I think you have * * * that right too.”
+The appellant’s objection to the argument was by the court properly sustained and the jury instructed not to consider the same but appellant’s motion for a mistrial was overruled.
+It is apparent from the bill and the court’s qualification thereto that state’s counsel was attempting to tell the jury that they could consider the deceased’s past in fixing the punishment to be assessed against appellant.
+It is the rule that injury from improper remarks of counsel is ordinarily obviated when withdrawn by the court and the jury instructed to disregard the same. It is only when the argument in such cases is obviously prejudicial that reversal of the conviction is called for. Woodland v. State, 148 Texas Cr. Rep. 100, 184 S.W. 2d 625, and Weatherly v. State, 168 Texas Cr. Rep. 659, 296 S.W. 2d 764.
+The argument complained of in the instant case violated no mandatory statute and was not so obviously prejudicial that its effect upon the jury could not be cured by the court’s instruction; hence no reversible error is shown.
+We have examined the informal bills of exception appearing in the statement of facts and they do not reflect reversible error.
+The hospital records of the admission, treatment, and death of the deceased were sufficiently identified by the custodian of such records, and were admissible in evidence under the provision of Art. 3737e, Vernon’s Ann. R.C.S. over appellant’s objection that they were hearsay.
+The judgment is affirmed.
+Opinion approved by the Court.
