@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "17751"
+decided: "1935-12-11"
+citations: ["130 Tex. Crim. 9", "91 S.W.2d 713"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Loyd Booth v. The State."]
+source_url: "https://static.case.law/tex-crim/130/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5244403
+cites_cases: ["129 S.W. 611", "154 S. W., 996", "154 S.W. 996", "20 S. W., 1106", "20 S.W. 1106", "60 Tex.Cr.R. 20", "60 Texas Crim. Rep., 20", "69 Tex.Cr.R. 437", "69 Texas Crim. Rep., 437"]
+---
+
+# Booth v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+Conviction is for theft of property over the value of fifty dollars, punishment being assessed at two years in the penitentiary.
+In the first count of the indictment appellant was charged with the theft of a “two row lister” and of a “set of three horse eveners” from S. R. Koeninger. In the second count it was charged that appellant fraudulently received said property from a person unknown to the grand jury. The first count only was submitted to the jury.
+No bills of exception are brought forward. The only complaint is that the evidence does not support the conviction for theft.
+The owner of' the property, S. R. Koeninger, was farming on land situated in Hall County. On the afternoon of the 18th of March, 1934, the stolen property was left in Koeninger’s field about five hundred yards from the highway. The next morning the property was gone. Tracks about where the property was taken from showed that the lister had been pushed west over the railroad to Highway No. 5 that runs from Memphis to Newlin. On the 27th of March Mr. Wilson, a deputy sheriff of Hall County, notified Koeninger that the officer thought he knew where the stolen property was, and Koeninger went with him and other officers to the premises which appellant was farming in Foard County where the stolen property was found in appellant’s possession. He was using it at the time. Both the lister and evener had been painted green, which was not the color of either of them when stolen. They were positively identified by Koeninger as his property. About five o’clock in the afternoon of the day before the lister and evener were taken J. D. Bice, a neighbor of Koeninger, saw near Koeninger’s premises a strange truck with a green bed, and a new end-gate. On the night of the same day a son of J. D. Bice was traveling on Highway No. 5 coming from Memphis, and on said highway alongside Koeninger’s farm he saw a truck standing still. The truck had green sides, and a new, unpainted end-gate. In the early part of the year 1934 Mrs. Hill had been at the home of appellant’s father near Goodnight, at which time appellant was driving a truck with a new rear end-gate. When Wilson and Koeninger approached appellant in the field he was questioned about the stolen property. Wilson’s version of what appellant said is as follows:
+“I asked him where he got the lister and he said he got it at Hollis, Oklahoma. I believe he said he got it from two boys — no, he first told me he had had it two or three years; he bought it at Hollis and had it on a farm down here at Childress; carried it to Iowa Park with him. Then he said he bought it off of two boys at Hollis and gave me some names but I haven’t got the names. I asked him did he know it was a hot lister and he said yes. He said that he had had it about two weeks. I asked him how come him to send his truck after ■it and I believe he said he let the boys have the truck to go and get it, and that he bought it from two boys at Hollis. He first said he had had it two or three years and used it in farming in Childress County. I believe he said at Windy Valley; then he said he carried it to Iowa Park but that he didn’t farm there; that he was working for an ice company; that he came back and said he bought it from two boys out of Hollis. * * * I say I don’t think he made that statement. He told me that he bought it at Hollis, and worked it on a Childress farhi and took it to Iowa Park; that he had used it four years, I think he said. He said he used it four years. Yes, I said a moment ago that he said he used it two or three years. He told me that he bought it at Hollis three or four years before. He didn’t say anything about Quanah.”
+Upon the trial appellant testified that he was in Arp in East Texas at the time the property was stolen; that he had taken a load of cots to the oil field for Mr. Crawford and did not return until the 21st of March; that on the 22d of March he bought the lister and evener in Quanah, Texas, from two men whom he did not know; that they had the property on a truck and helped him unload it from their truck to his; and that the property was painted green when he bought it, and that he paid $25.00 for it, a part of which he borrowed from his uncle, J. B. Hoover. The evidence of appellant was supported by that of Crawford and Hoover, the latter claiming to have loaned appellant five dollars, and that he returned with appellant to his home, he taking the property with him, which witness and appellant claimed he did not have when they came to Qüanah that day.
+Appellant insists that the evidence does not support the conviction for theft. The jury was instructed that if they found that appellant had purchased the property, or if they entertained a reasonable doubt thereof, to acquit appellant. A proper charge on alibi was also submitted. The jury refused to accept the evidence of appellant and his witnesses as true. This was a matter solely for the jury.
+From Branch’s Ann. Texas P. C., Sec, 2464, page 1332, we quote:
+“When defendant was found in possesson of property recently stolen and his explanations of his possession are conflicting, the judgment will not be reversed on the facts on appeal.”
+The text supported by Von Emons v. State, 20 S. W., 1106; Stephens v. State, 69 Texas Crim. Rep., 437, 154 S. W., 996. We quote further from said Section 2464, as follows:
+“Proof of possession of property recently stolen will sustain a conviction for theft if there are circumstances in evidence which authorize the jury to disbelieve the explanation 'of such possession, and when such conviction is approved by the trial judge whose duty it is to set it aside if not satisfied from the evidence that defendant is guilty as charged.”
+Many cases are cited supporting the text, among them being Roberts v. State, 60 Texas Crim. Rep., 20, in which Judge Davidson in the opinion on rehearing very clearly shows why this court should not undertake to place itself in the jury’s place in determining the credibility of witnesses.
+Believing the evidence which was accepted as true by the jury sustains the verdict, the judgment will be affirmed.
+Affirmed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+In his motion for rehearing appellant again urges the insufficience of the testimony, and insists that we did not fully consider the testimony of Mr. Crawford, who supported appellant’s claim of alibi.
+The case falls clearly within the holding of many authorities that possession of recently stolen property, unexplained to the satisfaction of the jury, is sufficient to warrant conviction of such possessor for the theft of such property. False explanations of such possession, made when he is first found with the property, have apparently much weight against the accused. We have carefully analyzed the facts, which show that appellant had a truck with certain peculiarities. Such a truck was seen near the place of the alleged theft on the night thereof. Appellant lived in Foard County. The lister in question was stolen in Hall County, some sixty or seventy miles from appellant’s home. It was taken on the night of March 19th. When found in possession of the lister a little more than a week later, two witnesses swore that appellant said he had owned the lister four or five years; that when same was examined, paint scraped away and marks of identification revealed, — appellant .then said he had only had it about two weeks'; that he got it at Hollis, Oklahoma. On the trial appellant swore that he bought it from two strangers on March 22nd in Hardeman County. The jury were the exclusive judges of the credibility of the witnesses, and did not have to accept as true the testimony of appellant’s alibi witness Crawford. Appellant claimed to have been at Arp, Texas, on the night of the alleged theft, but brought no witnesses from Arp to swear that he was there at that time.
+The motion for rehearing is overruled.
+Overruled.
