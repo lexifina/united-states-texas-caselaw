@@ -1,0 +1,42 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,529"
+decided: "1960-03-09"
+citations: ["169 Tex. Crim. 164"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lewis Garland Wortham v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0164-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12132784
+cites_cases: ["154 Tex. Cr. R. 8", "216 S. W. 2d 228", "224 S.W. 2d 228"]
+---
+
+# Wortham v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is under Art. 802b V.A.P.C. for the felony offense of driving while intoxicated; the punishment, 12 months in jail and a fine of $100.
+The evidence was undisputed that on the day in question the appellant, while driving his automobile upon a public street in the city of Amarillo, drove into the yard of a Mrs. Irene Morgan and struck a fence. The collision occurred in the forenoon and at the time two young children were riding in the automobile with appellant. After striking the fence appellant backed out of the yard, drove away, and was later arrested around 2:30 P.M. at the home of Mrs. Ruth Sweeney. Witnesses were called by the state who had observed appellant either at the time of the collision or after he was placed under arrest and, based upon their observation of him, testified that in their opinion he was intoxicated at the time they saw him. Among the witnesses called was Mrs. Sweeney who testified that on the day in question appellant left her home around 10:45 A.M. with her two children and when he returned to her home he was intoxicated. Mrs. Sweeney testified that appellant had been at home for approximately 45 minutes before the officers arrived and that during such time he had nothing to drink.
+Proof was made by the state and appellant admitted that he had been previously convicted of the misdemeanor offense of drunk driving, as alleged in the indictment.
+As a witness in his own behalf, appellant admitted driving his automobile on the occasion in question but denied that at such time he was intoxicated. Appellant denied that he had anything to drink before the collision but testified that he and Mrs. Sweeney did drink some whisky after he returned to her house, and admitted that he was under the influence of intoxicating liquor when arrested.
+The record contains six formal bill of exception. Notice of appeal was given and the bills were filed after the effective date of the recent amendment of Art. 760d V.A.C.C.P. The court refused to approve the bills and appellant excepted to the court’s action but took no further action in the matter.
+Art. 760d V.A.C.C.P. as presently amended reads in part as follows:
+“A defendant in a criminal prosecution shall have ninety (90) days after the giving of notice of appeal within which to prepare and file his bills of exception with the trial judge; and thereafter the trial judge may have until one hundred (100) days have elapsed after notice of appeal was given within which to consider and act on the same.
+“A filing by the defendant of his bills of exception with the clerk of the court shall constitute a filing of the bills with the trial court, within the meaning of that term as here used: The clerk of the court will immediately call the trial judge’s attention to the filing of the bills of exception.
+“Unless the trial court refuses to approve the bills of exception within the time above specified, the bills of exception shall be considered as approved by the trial court and no other approval thereof is necessary.
+“If the trial judge refuses to approve the bills of exception, he shall so note, and state thereon his reason or reasons for refusal, and return the bills to the clerk of the court, who shall note on the bills of exception the date and time the bills were returned to him by the trial judge.
+“The clerk of the court shall immediately notify the defendant or his counsel that the trial judge has refused the bills of exception.
+“If the defendant agrees to the reasons assigned by the trial judge for refusing to approve the bills of exception, he may note such fact on the bills of exception, in which event the bills of exception will stand approved with the reasons of the trial judge as a part of and qualification to the bills of exception.
+“In the event the defendant does not accept the trial court’s reasons for refusing to approve the bills of exception, then the defendant or the trial judge shall have fifteen days time from and after the date the trial court returned the refused bills of exception to the clerk of the court within which to prepare and file bystanders’ bills of exception.”
+Prior to the amendment of Art. 760d, supra, a trial judge was authorized by Art. 667 V.A.C.C.P. to sign bills of exception in criminal cases “under the rules prescribed in Civil suits.” These rules were found in Rule 372 of Vernon’s Ann. Texas Rules of Civil Procedure. Under such rules a trial judge was required to prepare and file his own bill of exception in a cause upon refusing to approve a bill of exception presented to him. This was recognized in criminal cases. Holland v. State, 152 Tex. Cr. Rep. 552, 216 S. W. 2d 228. The right of the accused to resort to bystanders’ bills was also recognized. Howell v. State, 154 Tex. Cr. R. 8, 224 S.W. 2d 228. The recent amendment of Art. 760d V.A.C.C.P. prescribes the procedure for filing and approving bills of exception in Criminal Cases. In the amendment no provision is made for a trial judge to file his own bill of exception in a case and no necessity exists for such a bill. The amendment as written clearly provides that if dissatisfied with the court’s reasons for not approving his bills of exception, the defendant, without waiting for the court to prepare a bill of exception in place of the refused bill, must resort to bystanders’ bills or he will have none. Bystanders’ bills may likewise be filed in support of the court’s position. This we understand to be the meaning of the references in the statute to the trial judge as well as the defendant having 15 days within which to prepare and file bystanders’ bills of exception.
+The rule heretofore followed by this court that an exception to the court’s qualification of a bill destroyed the qualification and left the bill for consideration, as though approved without qualification, has been abrogated by the above quoted statute.
+By the provisions of Art. 760d V.A.C.C.P., when appellant did not accept the trial court’s reasons for refusing to approve the bill then appellant had fifteen days from the time the court returned the refused bills to the clerk to prepare and file bystanders’ bills of exception. No bystanders’ bills of exception are shown in the record.
+Under the record, appellant’s bills of exception as filed and presented to the court cannot be considered.
+We have examined the informal bills of exception and find no error which would warrant reversal.
+We cannot agree that the record shows as a matter of law that Mrs. Ruth Sweeney, who testified against him, was appellant’s wife. At most, the witness was shown to have lived with appellant for three years and both of them had falsely represented to their families that they “went to Clovis and got married.” Both appellant and the witness, who was married to one Sweeney at the time of the trial, testified that appellant was the father of her two children but had never been married to her.
+Appellant, under examination by his attorney, testified that he had supported the children in the past, had given them money and bought clothes for them, and visited with them, but that Tom Sweeney was supporting them at the time of the trial.
+In view of this testimony, the trial court did not err in overruling appellant’s objection to the question propounded to him on cross-examination: “Why are you not paying for the support of those kids now?” to which he answered: “Well, I haven’t got any money now.”
+The judgment is affirmed.
