@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,892"
+decided: "1955-12-07"
+citations: ["162 Tex. Crim. 384"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Augustine Acosta v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2464551
+cites_cases: ["249 S. W. 2d 612", "261 S.W. 2d 722"]
+---
+
+# Acosta v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the unlawful sale of beer in a dry area, with a prior conviction for an offense of like character alleged for enhancement; the punishment, 18 months in jail and a fine of $500.00.
+Liquor control inspector Wilson and city policeman Foster testified that they drove up to a residence in the Latin-American section of the city of Lubbock on the night in question and a girl about 14 years old walked up to their automobile. They told her they wanted two quarts of beer; she turned to the appellant, who was at the front door, and he instructed the girl that “they are alright;” whereupon she instructed them to drive into the driveway. The appellant went around the back of the house and returned with two quarts of Schlitz beer, which he sold them for two dollars. Wilson notified the appellant that he was under arrest, but the appellant fled. Wilson caught the appellant as he entered the lighted kitchen and pulled him out. The girl and another Latin-American woman pulled the officers loose from the appellant, and he finally effected his escape. Appellant was arrested some three weeks later.
+Appellant, his wife and their relatives and friends, testified that it was one Perfecto Hernandez who made the sale of beer to and escaped from the officers and that the appellant was in Midland on the day in question.
+The jury resolved the issue of alibi against the appellant, and the evidence supports their verdict.
+The sole question presented for review is the failure of the trial court to grant appellant’s motion for new trial based upon alleged newly discovered evidence. Appellant’s motion for new trial was sworn to by the appellant before the attorney who represented him on the trial and on the motion and cannot be considered. Ferguson v. State, 159 Tex. Cr. Rep. 169, 261 S.W. 2d 722.
+We observe, however, that the court qualified the bill by certifying that no subpoena was issued for the missing witness Perfecto Hernandez prior to the trial, that no motion for continuance was filed prior to the trial setting forth the absence of the witness, and that at the trial several witnesses testified that it was Perfecto Hernandez instead of the appellant who made the sale involved in this, prosecution. There was a complete lack of diligence shown. Gephart v. State 157 Tex. Cr. Rep. 414, 249 S. W. 2d 612, is authority for the rule that an accused cannot hold back a witness to insure a new trial if the verdict goes against him.
+Finding no reversible error, the judgment of the trial court is affirmed.
