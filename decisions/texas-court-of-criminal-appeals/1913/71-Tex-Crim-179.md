@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2547"
+decided: "1913-06-27"
+citations: ["71 Tex. Crim. 179"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. L. Law v. The State."]
+source_url: "https://static.case.law/tex-crim/71/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2381932
+cites_cases: ["138 S. W. Rep., 615", "154 S. W. Rep., 222", "62 Texas Crim. Rep., 611", "93 S. W. Rep., 555"]
+---
+
+# Law v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was indicted by the grand jury of Dickens County charged with theft of cattle; the venue was changed to Motley County, appellant convicted, and his punishment assessed at two years confinement in the penitentiary.
+There are no bills of exception in the record, and but one question presented in the motion for new trial, and that is the court erred in failing to charge on circumstantial evidence. John Southworth testified that on March 16th, the date alleged in the indictment, he was stationed on a hill in the Matador Land and Cattle Company ranch on the watch; that he had a pair of field glasses, and late in the evening he saw appellant and Ballard come from Ballard’s enclosure (adjoining the Matador ranch) into the Matador ranch, and saw them cut out a yearling, rope it, and drive it from the Matador ranch through the fence into Ballard’s pasture, and drive it to a certain point, near where the next day it was . seen a beef had been butchered, finding the feet, etc., on the ground, and the hide nearby; the Matador cattle were branded in two places; the hide when found had cuts in it where the Matador brands should have been if the beef was a Matador animal. It is thus seen this is positive testimony that appellant and Ballard were seen to go inside of the Matador pasture, rope and drive an animal therefrom, but South-worth at the point where he was situated could not see the marks and brands on the animal. Appellant introduced testimony that on several occasions animals from adjoining pastures had gotten into the Matador pasture, and he insists that although there is positive testimony that appellant and Ballard drove an animal from the Matador pasture, yet, the proof that this animal so driven belonged to the Matador Land and-Cattle Company is purely circumstantial, and, therefore, the court erred in not charging on circumstantial evidence. We thoroughly agree with the rule of law as announced in Hunt v. State, 7 Texas Crim. App., 212, and Barr v. State, 10 Texas Crim. App., 507, cited by appellant, wherein it is held that where the proof of guilt depends alone on circumstantial evidence the court should submit that issue in his charge to the jury. But is this a case depending wholly on circumstantial evidence F Two parties are seen to go into another’s pasture, rope a jrearling and drive it out into the pasture of one of them, and near where it was seen driven to, an animal is slaughtered. Both men are recognized at the time they are seen to rope and drive the animal off the premises of the Matador Company. Ho explanation is offered by the record of why they went into the pasture and drove this animal out, if they did do so,—all the testimony offered in this connection was that cattle from adjoining pastures sometimes got in this pasture—no testimony that the animal they took on this occasion belonged to either appellant or Ballard. Appellant was seen in possession next morning of a slaughtered yearling beef, and in the wagon was a hide branded bar N, which is appellant’s brand. There is testimony that it was a fresh hide, and testimony that it was not a fresh hide, but bore evidence that the animal from which it had been taken had been killed a number of days. It is this testimony that appellant apparently thinks raises the issue that it was not an animal belonging to the Matador Company taken the day before, yet there is no testimony that any cattle belonging to appellant were then or had ever been in the pasture of the Matador Company. To illustrate, if a dozen persons have watches in a house, a man is seen to go in the house and come out bringing a watch in his band, and a certain one of the watches is shown to be missing, would not these facts place appellant in such position that it would be unnecessary to charge on circumstantial evidence? The only missing animal this record discloses is a calf of a cow shown positively to belong to the Matador Company. We do not think the facts and circumstances in this case called for and demanded a charge on circumstantial evidence, but if so, as the court instructed the jury that if they believed the animal driven out of the Matador pasture (alleged to have been stolen) was the property of appellant, or they had a reasonable doubt of that fact to acquit him, the error was not such as to call for a reversal of the case. Branch’s Grim. Law, see. 203. For a fuller statement of the facts see Ballard v. State, this day decided.
+[Rehearing denied October 22, 1913.—Reporter.]
+The judgment is affirmed.
+Affirmed.
