@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "14271"
+decided: "1931-06-03"
+citations: ["118 Tex. Crim. 307", "40 S.W.2d 97"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mrs. Effie Reed v. The State."]
+source_url: "https://static.case.law/tex-crim/118/cases/0307-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5190435
+cites_cases: ["194 S. W. 590", "194 S. W., 590", "236 S. W. 100", "236 S. W., 100", "81 Tex. Cr. R. 54", "81 Texas Crim. Rep., 54", "90 Tex. Cr. R. 552", "90 Texas Crim. Rep., 552"]
+---
+
+# Reed v. State
+
+## Majority (CALHOUN, Judge.)
+
+CALHOUN, Judge.
+The conviction is for the possession of intoxicating liquor for the purpose of sale; punishment, one year in the penitentiary.
+The only question presented for review is the sufficiency of the evidence to support the conviction.
+The witness E. W. Rochelle was an accomplice and the court instructed the jury that he must be corroborated. His testimony was substantially as follows: That he knew the appellant and had known her about three years; that he and appellant leased a small farm in Hood county ostensibly for the purpose of placing an old man thereon to make a crop, but really for the purpose of manufacturing intoxicating liquor; that stills were erected in the house and on the premises and Rochelle was placed in charge thereof; that he had a helper, a boy by the name of Hurhes, and an old man by the name of McMehon. Rochelle testified that the appellant was paying him at the rate of $50 a week in whisky for his services. He testified that several hundred gallons of whisky were made and that appellant hauled all of it to Fort Worth. He further testified that sometime prior to the raid by the officers he and appellant had discovered that in all probability they would be raided and had removed all the whisky from the premises and had dismantled the stills. He also testified that the appellant visited said premises almost daily while they were making the liquor.
+Appellant did not testify nor offer any evidence.
+Appellant insists that the corpus delicti was established alone by the testimony of Rochelle, who was an accomplice, her contention being that it was not shown by testimony other than that of the accomplice that she possessed intoxicating liquor for the purpose of sale. Under the terms of the statute an accused cannot be convicted upon the testimony of an accomplice unless there be corroborative evidence which in and of itself tends to connect the accused with the commission of the crime and the corroboration is not sufficient if it merely shows that a crime has been committed. Article 718, C. C. P. The conviction cannot be sustained unless (a) the accomplice’s testimony of the corpus delicti is corroborated, and (b) there is other testimony tending to connect the appellant with the commission of the offense. Townsend v. State, 90 Texas Crim. Rep., 552, 236 S. W., 100, and authorities cited. The corroboration may be either by circumstances or by positive testimony. Pope v. State, 81 Texas Crim. Rep., 54, 194 S. W., 590. It is impracticable to lay down any rule as to the precise amount of evidence which is requisite to sustain the accomplice’s account identifying the defendant as one of the criminals. What appears to be required under the law is that there should be some fact or facts deposed to, independently or altogether, of the evidence of the accomplice, which taken by itself leads to the inference not only that a crime has been committed, but that the accused is implicated in it as charged.
+Considering the corroborative evidence, it is shown that the witness A. S. Nabors testified that he rented the place in question to the witness Rochelle and appellant jointly because they stated that they wanted to put an old gentleman on a little place somewhere and that this place just suited them; that they went out and looked at it with him before renting it.
+The witness, H. P. Nimmo, testified that he had seen the appellant and the witness Rochelle together on several occasions; that he visited the place where the alleged still was located on one occasion at the solicitation of the appellant and the witness Rochelle; that they were accompanied by a man by the name of Smith, who ran a gin at Cresson. He testified that the appellant and the witness Rochelle weren’t exactly worried, but that they were nervous; that he had seen the appellant on different occasions come through Cresson going in the direction of Fort Worth and then back out in the direction in which the leased property was and that she was driving a Chevrolet coupe. To the same effect was the testimony of the witness L. Smith. He also testified that he had pointed out the sheriff to Rochelle.
+The witness, Dan Magill, testified that his business was that of a line walker for the Lone Star Gas Company; that he knew the. place in controversy; that his duties as gas line walker carried him by that place during the month of February, 1929, about sixty feet south of the house; that someone lived in the house during the month of February, 1929, and that he had seen the witness Rochelle at the place; that he saw the appellant there; that during that time he had seen the appellant there quite often and that he had seen her leave there driving a Chevrolet coupe a number of times; that on one or two occasions the witness Rochelle left with her; that he passed there every day except on Sunday; that he smelled whisky or whisky mash when he passed that place or was near the place; that he saw some barrels there which were being washed ; that one time when he came by he met the appellant and she told him that there was some whisky across the road, some aged whisky and some raw whisky; that she told him if he wanted a drink to go over there and get it; that he went over there and it was there where she said it was, and he took a drink and that it was whisky; that when he went over to the place where she told him the whisky was, he found a half-gallon of red whisky and about a quart of white whisky and that he took a drink of same.
+Sheriff E. A. Lambert testified that under a search warrant he searched the premises which had been occupied by the witness Rochelle and others; that he found there fifty-three barrels that were empty and found 150 pounds of sugar and about a pound and a half of yeast, one pressure tank, one gasoline pressure tank, a burner, a copper coil, “I call it a ‘worm’ made in a zinc tub,” in a zinc container; that in the back room there was a furnace; that there was nothing on this furnace; that there was a cellar in the yard and that a pipe was running from the inside of the house out to the cellar; that the cellar was fourteen, fifteen or sixteen inches deep in w’hat he called mash, whisky mash, just grain and old sour mash, which looked like it had been dumped into this cellar. He testified that the equipment that he found there could have been used in the manufacture of whisky; that he didn’t find any whisky and that there was not anyone on the premises.
+Our conclusion is that the combined and cumulative evidence furnished by the non-accomplice witness was sufficient to meet the requirement of the statute and that the evidence was sufficient to establish the corpus delicti.
+The judgment is affirmed.
+A ffirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+There can be no question but that an accomplice witness can be sufficiently corroborated by circumstances. This is uniformly held by all the authorities. Nor can this court, or any court, lay down any hard and fast rule as to the amount of such corroboration. To be sufficient it need only to measure up to the statutory requirement that it tend to connect the defendant with the commission of the offense. We are not impressed by a review of the facts in this case with the idea that the circumstances relied upon by the state to corroborate the accomplice witness, are not sufficient for that purpose. The contrary is true.
+The motion for rehearing will be overruled.
+Overruled.
