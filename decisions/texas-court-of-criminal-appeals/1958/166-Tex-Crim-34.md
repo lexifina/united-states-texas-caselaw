@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,290"
+decided: "1958-02-05"
+citations: ["166 Tex. Crim. 34"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Manny Byers v. State"]
+source_url: "https://static.case.law/tex-crim/166/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2620020
+cites_cases: ["39 S.W. 2d 891"]
+---
+
+# Byers v. State
+
+## Rehearing (WOODLEY, Judge.)
+
+ON STATE’S MOTION FOR REHEARING
+WOODLEY, Judge.
+The offense is the unlawful possession of marihuana; the punishment, five years.
+The original opinion reversed this conviction upon the theory that the person executing the search warrant was not authorized to do so. That opinion is withdrawn upon authority of our holding to the contrary in Glaze v. State, No. 29,343, 165 Tex. Cr. Rep. 626, and Art. 326K-6 V.C.S., Sec. 1, therein cited.
+O. E. Henson, investigator for the district attorney’s office, and Gus Zgourides, assistant district attorney of Galveston County, went to a house in Galveston with a search warrant obtained upon affidavit of Henson.
+The warrant described the house by street and number and as the living quarters of Rosetta Megress, and recited that the affidavit upon which it was issued alleged that it was a place where among other things narcotics were unlawfully possessed. The warrant directed and authorized the search of said house for such narcotics and the arrest of Rosetta Megress and any other person found in unlawful possession thereof.
+Having driven by the house on several occasions in the earlier part of the night without seeing any light or evidence that the occupant was at home, the officers, seeing a light, stopped across the street from the house about two o’clock A.M.
+Upon bringing the car to a stop, the officers heard an object strike the car which proved to be a dirk or knife some six or seven inches in length. They saw someone standing at the alley corner and pursued this person as he fled but failed to catch him. They could not identify this person or say whether it was a man or a woman that fled.
+After abandoning the chase, the officers went to the house and knocked on the door. Before they were admitted they heard a clicking noise as if a gun was being loaded and saw appellant at a window with a shotgun in his hand pointed toward them.
+In response to their statement that they were from the district attorney’s office, appellant admitted them into the house and the officers took the shotgun from him and unloaded it.
+Appellant was in his underwear in the bedroom or middle room of the house, and before the warrant was read to him, told the officers that he lived there and that Rosetta Megress was his common-law wife.
+A search of the bedroom resulted in the finding of four marihuana cigarettes. These cigarettes were found in a large pasteboard box among the blankets and quilts with which it was filled. The box was at the foot of the bed on which appellant was reclining. Appellant thereafter clothed himself from the men’s clothing that was in the room.
+Appellant did not testify or offer testimony in his behalf.
+We find the evidence sufficient to sustain the conviction and will discuss the contentions raised by formal bills of exception not disposed by our holding in Glaze v. State, supra.
+Bill No. 2 complains of the argument of the district attorney in which he recited what he said was proof that appellant was in control of the house, with the further statement “and it has not been denied by anyone.”
+We are unable to agree that such remark constituted an indirect reference to appellant’s failure to testify.
+If he was not in control of the house, as the state contended, he could have met the state’s proof by testimony of the landlord or, so far as this record shows, the testimony of his common law wife.
+Art. 710 C.C.P. prohibiting comments as to the defendant’s failure to testify is not transgressed by argument of the attorney for the state which the jury may reasonably apply to the absence of other testimony. Cope v. State, 118 Texas Cr. R. 232, 39 S.W. 2d 891.
+Bill 3 relates to the remark in the state’s opening argument: “These witnesses, Mr. Henson and Mr. Zgourides, who were employed as investigator and Assistant District Attorney under the former District Attorney, Marsene Johnson, told you what they found and did, and we have no control over them and I guarantee you that they are telling the truth.”
+The trial judge instructed the jury to disregard the italicized remark and the bill complains that his motion for mistrial was overruled..
+We do not regard the remark of a prejudicial nature such as could not be removed by the court’s instruction to the jury to disregard it.
+For like reason, the argument “these narcotics men are the cause of murders, robberies and other crimes” is not ground for reversal, Bill No. 4 certifying that the objection to it was sustained and the jury instructed to disregard it.
+Bill No. 5 complains of the ruling of the trial judge in admitting the evidence relating to the knife or dagger being thrown; and Bill 6, the admission of the evidence as to what appellant said to the officers just prior to the search.
+The evidence referred to in these bills was a part of the transaction upon which the state relied and was relevant, if not upon the question of guilt, upon the legality of the search, which was questioned at the trial. It was admissible under the so called res gestae rule.
+The judgment is affirmed.
