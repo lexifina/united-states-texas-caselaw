@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "4067"
+decided: "1908-01-29"
+citations: ["52 Tex. Crim. 424"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. T. Southerland v. The State."]
+source_url: "https://static.case.law/tex-crim/52/cases/0424-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4562119
+cites_cases: ["35 Texas Crim. Rep., 183", "37 Texas Crim. Rep., 77", "97 S. W. Rep., 483"]
+---
+
+# Southerland v. State
+
+## Majority (RAMSEY, Judge.)
+
+RAMSEY, Judge.
+Appellant was charged with selling intoxicating liquors in Fannin County, in violation of the local option law, and was convicted.
+The affidavit and information, we think, under the cases of Key v. State, 37 Texas Crim. Rep., 77, and Stephens v. State, 97 S. W. Rep., 483, are good.
+There are a number of exceptions and questions raised by the record, but we deem it necessary to do no more than discuss one question, aptly-presented by proper bill, and arising on the whole case, both in the evidence and on the charge of the court. The complaint in the case charged appellant with a sale of intoxicating liquor to one S. L. Price, on the 31st day of January, 1906. Defendant interposed, among other things, a plea of former acquittal of the offense here charged against him. On the trial the witness Price testified to two sales by defendant, one of one quart of whisky on January 31, 1906, and the other on February 3, 1906, of three quarts of whisky. In this condition of the record the State, through its county attorney, elected to prosecute for the sale of the three quarts of whisky on February 3, 1906. An information against appellant, alleging a sale of intoxicating liquors to the witness Price on February 3, 1906, and a judgment of acquittal bearing date October 10, 1906, were offered by appellant. E. L. Agnew, then county attorney of Fannin County, testified that on trial of defendant in cause Ho. 6079, the witness Price testified that he bought a quart of whisky of appellant on January 31, 1906, and also that he bought three quarts of whisky of appellant on February 3, 1906. Touching this matter, Mr. Agnew said he (appellant) testified fully about both transactions. The State did not elect upon which transaction it would rely for a conviction. It was not asked to elect. “I was really trying him for the one quart sale made January 31, 1906.” To meet the proof of former acquittal, the State offered in evidence the judgment of conviction in cause Ho. 6078, dated April 5, 1906, wherein a verdict of guilty was returned, and a judgment of conviction entered against appellant. This last judgment was offered after the argument had closed, and was objected to for this reason; and because, as stated in their bill, this judgment could not be considered by the jury as evidence against defendant, and was not admissible for any purpose at any timo, and could serve no lawful purpose in the case. The court overruled the objection and permitted the judgment to be read in evidence. The court qualifies the bill with the explanation that the evidence was admitted on the part of the State to meet the issue of former acquittal raised by defendant. We quote further the qualifying statement of the trial court: "It was permitted for the purpose of enlightening the jury as to the disposition of case charging sale here prosecuted for; and at the time it was admitted, the court expected State would introduce mandate of Court of Criminal Appeals reversing and remanding cause on account of defective information, and also verbal testimony showing that the appeal in cause Ho. 6078 was pending in Court of Criminal Appeals at the time defendant was found not guilty in cause Ho. 6079, and that the sale prosecuted in this cause (the one on this appeal) was the same as the one alleged in cause Ho. 6078.” In this connection it should be stated that the number of this cause, as appears from the record on this appeal,-is 6527. It is doubtful, under the decision in the case of Williams v. State, 35 Texas Crim. Rep., 183, whether this evidence should have been admitted at this stage of the proceeding. There was no evidence at all connecting the conviction introduced in evidence against appellant with the case here charged against him. It needs no citation of authority to sustain the proposition that the admission of unrelated judgments of conviction against a defendant for matters other than that of which he stands charged are without warrant and should never be admitted. For this error the case must be reversed and the cause remanded.
+There is some confusion and obscurity in the record, but as we view it, in view of the testimony of the then county attorney, that proof of the sales on both January 31, 1906, and February 3, 1906, to the witness Price, was fully testified to by him, and no election required to be made by the county attorney as to which one of the acts or sales to be relied upon, that a general judgment of acquittal should bar further prosecution. As there is some doubt in our minds, however, as to just what the facts are, we do not feel called on definitely to decide this point.
+For the errors pointed out, the judgment is reversed and the cause is remanded.
+Reversed and remanded.
