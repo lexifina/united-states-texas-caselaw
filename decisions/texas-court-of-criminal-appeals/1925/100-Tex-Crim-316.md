@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9203"
+decided: "1925-06-10"
+citations: ["100 Tex. Crim. 316", "273 S.W. 862"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joe Sullivan v. The State."]
+source_url: "https://static.case.law/tex-crim/100/cases/0316-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5095537
+cites_cases: ["20 Tex. App. 255", "218 S. W. 1056", "262 S. W. 85", "86 Tex. Cr. R. 646", "97 Tex. Cr. R. 455"]
+---
+
+# Sullivan v. State
+
+## Majority (BAKER, Judge. —)
+
+BAKER, Judge. —
+The appellant was indicted, tried and convicted in the district court of Cass County for burglary and his punishment assessed at five years in the penitentiary.
+Appellant complains in bill of exceptions No. 2 to the court ”s-charge on accomplices; while said charge is not as specific ay it should be and upon another trial of this case should be drawn so as to eliminate any objection thereto, yet under Article 743, Vernon’s C. C. P., we would be unauthorized to reverse this ease on the court’s charge unless it was shown from the entire record that same was calculated to injure the rights of the defendant, which in this instance we are of the opinion that no such prejudical error is shown.
+There is also complaint urged in this court as to the sufficiency of the corroboration of the accomplice, and in fact the sufficiency of all the testimony to warrant a conviction in this case, but owing to the disposition we have made of the case.it is not necessary for us to discuss this question at this time.
+In bill of exceptions No. 1, complaint is made to the action of the district attorney in interrogating the State’s witness Mrs. Mary Brannon, and statements of the district attorney and the court pertaining thereto. The district attorney introduced for the State, Flint Brannon evidently for the purpose of attempting to prove the defendant’s connection with the alleged offense, and upon objection of appellant and proof that he was an ex-convict, he was stood aside; then the district attorney placed the said witness’ wife upon the stand and attempted by her to supply' the desired evidence of said ex-convict, to which said testimony the record discloses the appellant through his counsel objected and, the district attorney remarked in the presence of the jury, “Yes, of course, it can be waived.” to which remark of the district attorney, the court replied in the presence of the jury, “Yes, of course it can be waived,” to all of which the record discloses the appellant excepted. This bill discloses that prior to the above and foregoing matters complained of that the State had placed upon the stand one Flint Brannon, husband of Mary Brannon, and proposed to use him as a witness in its behalf relative to the burglary in question against the appellant, and upon the objection of the appellant through his counsel, and showing that said Flint Brannon was an ex-convict, the court refused to permit him to testify. It is contended by the appellant that the actions of the district attorney in asking said questions and having the said witness Mrs. Mary Brannon to make such answers was nothing more nor less than a reproduction of the excluded testimony of the said convict witness which was greatly aggravated by the district attorney and the court both stating and agreeing that it was such a matter as could be waived by the appellant’s counsel. We are of the opinion that said contentions made by the appellant and the objections urged, are well taken. And it should not be allowed in any court of justice to permit the State in said manner to supply the testimony of an incompetent witness, and then in addition thereto take the position before the jury that the matter could be waived and in effect impressing the jury that the appellant’s counsel by objection was improperly withholding evidence from the jury which were entitled to. Unquestionably under the law, the proposed witness Flint Brannon was not qualified to testify and the appellant’s counsel unquestionably had the right to urge that objection and we think it was highly prejudicial to the rights of the defendant for the State to have attempted in the manner it did in this instance to show to the jury what the incompetent witness would have testified to through his wife and then for the court, and the district attorney, to inform the jury that it was a matter that could be waived. There is no question but what it could be waived, as well as nearly any other procedure in a felony ease except a trial by a jury, yet the appellant had the lawful right to object to it without jeopardizing the rights of his client in any manner and he not only had such lawful right but it was his sworn duty to protect his client’s rights in such instance and urge such objection and we believe the action of the court and district attorney were clearly erroneous in this particular. We are cited by the appellant to Rosa v. State, 218 S. W. 1056 and Ballard v. State, 262 S. W. 85, both of which we think are in point as well as many other cases that could be cited in support thereof.
+In the Ballard case, supra, by Presiding Judge Morrow, in discussing the actions of the district attorney in stating what he could prove by a witness if the appellant’s counsel would agree, cites Branch’s Ann. P. C., Section 364 as follows:
+“It is improper for the State’s counsel to get before the jury in argument a fact which he would not be entitled to prove and the effect of which is damaging to the defendant.”
+And in citing Stephens case, quotes as follows:
+“It is improper for State’s counsel in arguing the case to, the jury to state what he could have proved had not the defendant objected,” citing many authorities on said proposition and in said case. We believe that the case under discussion by Presiding Judge Morrow was not as damaging to the defendant as the instant case.
+For the reasons above mentioned, we are of the opinion that the judgment of the trial court should reversed.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
