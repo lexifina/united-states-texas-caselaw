@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,515"
+decided: "1953-06-17"
+citations: ["158 Tex. Crim. 623"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Reese W. Moseley v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0623-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2478961
+cites_cases: ["145 Tex. Cr. R. 34", "165 S. W. 2d 744"]
+---
+
+# Moseley v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is assault with intent to murder; the punishment, three years.
+Appellant and the injured party had been married, had raised three children, and had been divorced three years prior to the assault in question. On the night charged in the indictment, appellant went to a drive-in theatre, where he found the injured party seated in an automobile with a Mr. Mitchamore. Appellant approached the automobile on the side on which Mitchamore was seated and made an effort to cut him with a knife. Mitchamore and the injured party got out of the automobile on the opposite side, and Mitchamore went to get an officer. Appellant came around the automobile and cut his former wife across the face and, after hitting her in the stomach with his fist, left in pursuit of Mitchamore.
+The above facts seem to be undisputed.
+Mitchamore testified that when appellant approached his automobile he had announced, “I am going to kill you, you s.o.b., for breaking up my home.”
+The injured party testified that when the appellant got around the automobile he and Mitchamore stood facing each other for a moment; that Mitchamore then turned and ran; that she stepped forward, saying, “Don’t, Reese”; that appellant said, “I will cut your throat” or “I will cut you all to pieces” and “slashed” at her throat; that she ducked her head and was cut on the face. She testified further that she was hit in the stomach with his fist; that she lost consciousness; and that when she came to she heard appellant telling the arresting officer that Mitchamore was out with his wife.
+The wound, though requiring twelve stitches and leaving a permanent scar, presented no danger of causing death, and the weapon was a pocket knife with a blade “about two inches long.”
+Appellant, testifying in his own behalf, admitted the facts set forth early in this opinion, but denied that he had made any threat to the injured party and said that he cut and hit his former wife, “because she jumped in front of me and I was trying to get to him.”
+Officer Walsh testified that a knife such as described by the evidence, when used by the accused as the evidence showed he used it on the injured party, would be calculated to cause death or serious bodily injury.
+It is upon these facts that conviction rests, and the appellant challenges their sufficiency.
+Appellant relies upon the relatively recent case of Ammann v. State, 145 Tex. Cr. R. 34, 165 S. W. 2d 744, in which the question now before us is thoroughly discussed.
+As in that case, the question here presented is not without difficulty.
+In the Ammann case, there was no testimony that the weapon in the manner used was capable of producing death, and the cut was across the ribs. In the case at bar, the appellant, according to the state’s testimony, tried to cut the throat of the injured party, and the state offered the foregoing testimony of Officer Walsh as to the weapon used.
+In the Ammann case, the statement made by the appellant after the attack was, “I came over to do it and I done it” or “I came up here to stab him and I stabbed him.” In the case at bar, the statement of the appellant made before the attack was, “I will cut your throat” or “I will cut you all to pieces.”
+In the Ammann case, both participants were men, and the issue of self-defense was strongly raised. In the case at bar, the injured party was a female, and the issue of self-defense is not in the case.
+After careful consideration, we have concluded that the evidence supports the conviction.
+Appellant complains because the prosecutor went outside the record in propounding a hypothetical question.
+The witness testified that the knife blade was “about two inches long.” In phrasing his question, the prosecutor used the expression, “and a blade from two to two and a half inches long.”
+The prosecutor evidently had in mind the testimony of the injured party given on the examining trial and read into the record by the accused, in which she had described the blade as two or two and one-half inches long. While not original evidence, it may be considered on the question of good faith of the prosecutor, and we think the variation not such as would call for a reversal of this cause.
+Finding no reversible error, the judgment of the trial court is affirmed.
