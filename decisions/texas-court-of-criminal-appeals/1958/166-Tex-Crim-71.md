@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,500"
+decided: "1958-02-12"
+citations: ["166 Tex. Crim. 71"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Susie Bonice Rubens v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2618099
+cites_cases: ["160 Texas Cr. Rep. 548", "161 Texas Cr. Rep. 571", "163 Texas Cr. Rep. 441", "163 Texas Cr. Rep. 499", "272 S.W. 2d 524", "279 S.W. 2d 344", "293 S.W. 2d 775", "293 S.W. 2d 781"]
+---
+
+# Rubens v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for the unlawful possession of policy paraphernalia in violation of Sec. 2 of Art. 642c, Vernon’s A.P.C.; the punishment, 30 days in jail and a fine of $250.
+Officer Bond testified that when he and Officers Cook and Jones entered a frame building through an open door, the appellant was standing behind a small counter; that after they told her they had a search warrant for the building she gave him some policy plays and a brown paper sack which contained a policy book, policy hit slips and a policy record book. She also gave them some money she said she had collected while writing policy. He further testified the paraphernalia which the appellant delivered to him was designed and adaptable for use in connection with a policy game.
+The written statement of appellant, except that portion which she claims refers to a separate oifense, was introduced in evidence by the state without objection and in which she admits that she was in possession of policy plays, a policy book, a policy record book and some policy money; and that she did not have it for evidence purposes.
+Appellant did not testify or offer any evidence in her behalf.
+The evidence is sufficient to support the conviction.
+Appellant challenges the validity of the search warrant on the ground that the affidavit therefor was defective and did not authorize its issuance.
+There is no evidence that the appellant owned, occupied or controlled the building in question. That portion of appellant’s voluntary statement introduced by the state without objection shows that she had just walked into an old shack in the 7400 block of Avenue P., when the officers arrived. It further shows that she lived at 1010 Gillette Street. Appellant has not shown herself authorized to object to the search. The right to object that a search was illegal is a privilege to be exercised only by the one in lawful possession of the premises searched. Therefore, appellant is not in position to complain of the validity of the search warrant. Paige v. State, 161 Texas Cr. Rep. 571, 279 S.W. 2d 344.
+Appellant complains of the refusal of the court to allow her to testify for the limited purpose of showing the involuntary character of the written statement introduced in evidence by the state.
+When the accused takes the stand he become a witness for all purposes and is subject to the same rules as any other witness, hence the court’s refusal does not show error. 44 Texas Juris., p. 1176, Sec. 165; 1 Branch, 2 Ed., p. 170, Sec. 168; Gonzales v. State, 160 Texas Cr. Rep. 548, 272 S.W. 2d 524; Tyler v. State, 163 Texas Cr. Rep. 441, 293 S.W. 2d 775; Robinson v. State, 163 Texas Cr. Rep. 499, 293 S.W. 2d 781.
+It is insisted that the court erred in admitting in evidence the following portion of appellant’s written statement:
+“About two weeks ago I was arrested by Houston Police Department Vice Squad Officers in the 7400 block of Avenue P. I quit writing policy for a couple of days after I got caught but I started up again writing in Book #9 for the T & L Policy Co.” over her objection that it related to a separate offense from the one for which she was on trial.
+Other portions of her written statement admitted without objection show that the appellant had been writing policy for a month except for five days when she was told not to pick up any? bets.
+It is evident that the arrest was for writing policy which occurred during the month she admitted she had been writing policy. We perceive no reversible error in refusing to exclude that portion of the written statement complained of in view of the admission of other portions of the statement without objection, showing that she had been writing policy during the month.
+Finding no reversible error, the judgment is affirmed.
+Opinion approved by the Court.
