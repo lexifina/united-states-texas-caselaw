@@ -1,0 +1,21 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "870"
+decided: "1896-01-15"
+citations: ["35 Tex. Crim. 365"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harry Jinks v. The State."]
+source_url: "https://static.case.law/tex-crim/35/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 158532
+---
+
+# Jinks v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant was convicted of murder in the first degree, and his punishment assessed at confinement in the penitentiary for life. Appellant moved the court to continue the case to procure the testimony of an absent witness. The motion was overruled, but there was no bill of exception reserved to the ruling of the court. But one bill of exception appears in the record, which was reserved to the ruling of the court in regard to the testimony of Maggie May. Appellant objected to this testimony, but the court admitted it, and he reserved his bill of exception. Maggie May swore “that she was passing along one of the streets of Galveston, and met the defendant in company with other parties, and they insulted her; that she cried, and reported the occurrence to an officer, Avho arrested the parties, the defendant being one of them.” She also testified “that the deceased was engaged to be married to her; that their marriage Avas to take place on the death of her mother; that she told the deceased that she had been insulted-,” etc. Counsel for appellant objected to this testimony because it was immaterial, prejudicial to the defendant, and because the State had failed to show by any testimony that the defendant knew of the relationship existing between the deceased and Miss Maggie May. We are of opinion that the testimony was inadmissible, because there is no proof to show that the appellant was aware of the relationship existing between Maggie May and the deceased. But concede its inadmissibility; should the judgment be reversed? The answer to this question depends upon the nature of the case; that is, the probable effect that it could have had upon the jury, viewed in the light of all the testimony in the case. “Where evidence of an important fact, material and pertinent to thé issue,though additional to other facts legally in evidence, is erroneously admitted, the conviction should be set aside.” McWilliams v. State, 44 Texas, 116. But, while this is the rule, reason would suggest an exception thereto. If the incompetent evidence could not have affected the case, there would be no reason in reversing the judgment because of its admission. And we mean, by “affecting the case,” that it could not have induced the jury to believe a fact which was necessary to support the conviction, or induced the jury to inflict a higher or severer punishment than was awarded, then the judgment should not be reversed. Applying this exception, the facts of this case leave not a shadow of doubt regarding the guilt of the defendant of the offense for which be has been convicted, with the testimony of Miss Maggie May eliminated. That appellant shot and killed the deceased cannot be questioned; that he shot him under circumstances which establish a homicide upon express malice, is also evident, if murder upon express malice can be established by the positive proof of a number of witnesses. There is not a break in the testimony that is worthy of consideration; it all tending in the same direction, with the absolute certainty that appellant, with express malice, killed the deceased. No juror, with the least regard to his oath and the testimony in the case, could possibly have any sort of doubt as to the guilt of the appellant of murder in the first degree. This inadmissible testimony could not have had a feather’s weight in inducing the jury to believe any fact which was necessary to make a case of murder upon express malice. Again, it could not have prejudiced the appellant, because the jury gave him the lighter punishment. Under such a state of facts, while the testimony of Miss Maggie May may not have been admissible, we do not believe that the judgment should be reversed because of its admission by the court. We have given the record a careful examination and find no reversible error.
+Affirmed.
