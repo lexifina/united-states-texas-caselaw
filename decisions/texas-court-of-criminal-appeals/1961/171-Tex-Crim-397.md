@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,825"
+decided: "1961-11-15"
+citations: ["171 Tex. Crim. 397"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Cannon v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0397-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2637261
+---
+
+# Cannon v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for driving while intoxicated; the punishment, 3 days in jail and a fine of $250.
+Two highway patrolmen testified that they pursued the appellant after they saw him fail to observe a stop sign, while driving his pickup on a public highway, and that he twice drove over the center line to his left hand side of the highway before he stopped about one mile beyond the stop sign; that they smelled the odor of alcohol on his breath; that his eyes were bloodshot and glassy. When asked if he had been drinking, ne replied that “he had consumed all that he had,” but did not state when this had occurred. They further testified that they knew he had previously suffered a disability in his legs, yet at the time this occurred, they said that he was more than usually unsteady while walking. They also expressed the opinion that he was intoxicated.
+Sam Harrison testified that he observed the appellant shortly after his arrest and expressed the opinion that he was intoxicated.
+The appellant did not testify or offer any evidence in his behalf.
+Appellant complains of the admission of Officer Keffer’s opinion, that the appellant could have walked a line if he had not been intoxicated, over his objection that the witness was not qualified, and that the question called for pure speculation.
+The evidence shows that the officers had known the appellant for several years, and that he had previously suffered leg injuries and was unsteady to a “certain extent” while walking. Officer Keffer testified, without objection, that at the scene the appellant “suggested that he (appellant) walk a line and he picked out a tire track that ran along the shoulder of the highway and attempted to walk down this track.” * * * and “his feet became entangled and he nearly fell. So, he laughed and said we should find another line.”
+There was evidence before the jury of appellant’s ability to walk prior to his arrest in this case, and at the time in question, hence the admission of the officer’s opinion in view of the record was not reversible error.
+The judgment is affirmed.
+Opinion approved by the Court.
