@@ -1,0 +1,42 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,820"
+decided: "1960-04-13"
+citations: ["169 Tex. Crim. 559"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Winston Prince v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0559-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12148491
+cites_cases: ["109 So. 371", "128 S.W. 139", "172 A.L.R., 945", "21 Ala. App. 466", "211 P. 329", "226 S.C. 257", "256 Ala. 5", "333 S.W. 2d 158", "334 S.W. 2d 159", "45 A.L.R. (2d) 1085", "59 Tex. Cr. R. 208"]
+---
+
+# Prince v. State
+
+## Majority (WOODLEY, Judge BELCHER, Judge)
+
+WOODLEY, Judge
+The offense is burglary of a private residence at night with intent to commit rape; the punishment, enhanced by two prior convictions for felonies less than capital, life.
+The transcript shows that appellant has been enlarged upon recognizance on appeal.
+The punishment having been assessed at confinement in the penitentiary for life, and appellant not being in custody, this court is without jurisdiction to entertain the appeal.
+Art. 815 C.C.P. provides that one appealing from a felony conviction with punishment assessed at 15 years or less, by entering into recognizance, shall have the right to remain on bail while such appeal is pending.
+Prior to the enactment of the statute now Art. 815 C.C.P. this court could not entertain the appeal in a felony case unless the appellant was in custody. Jordan v. State, 59 Tex. Cr. R. 208, 128 S.W. 139.
+As applied to appeals from felony convictions with punishment assessed at more than 15 years this rule is unchanged.
+Under the holding cited, appellant’s status is equivalent to that of an escapee, and the state’s motion to dismiss the appeal is well taken. Art. 824 V.A.C.C.P.
+The appeal is dismissed.
+ON MOTION TO REINSTATE APPEAL
+BELCHER, Judge
+The offense is burglary of a private residence at night with intent to commit rape; the punishment, enhanced by two prior convictions for felonies less than capital, life.
+By supplemental transcript appellant has now perfected the record on appeal and the appeal is reinstated and will be considered on the merits.
+The testimony of the state shows that Billy Ray Andrews, his wife, Ella Mae, and their three children occupied an apartment. In the absence of Billy Ray, the appellant about 10 P.M., July 18, 1959, went to the front door of the Andrews apartment but was unable to get in because the door was locked, and Mrs. Andrews was scared and would not let him enter. Appellant then went to the back door of the apartment, reached through a hole in the screen and unlocked the screen door and without consent entered the apartment. He immediately turned the lights off, threw Mrs. Andrews down on the floor and then tried to remove her clothing but he was unable to because she was fighting. Then the baby began “hollering” and crying and the appellant left by the front door. Mrs. Andrews while testifying identified the appellant as the person who entered the apartment and attacked her.
+The state offered proof showing the two prior convictions alleged and the appellant while testifying in his own behalf admitted that he was the same person so convicted.
+Appellant testifying in his own behalf denied entering the Andrews apartment as alleged and also denied assaulting Mrs. Andrews. He testified that he was at a cafe and a friend’s house which were in the neighborhood of the Andrews apartment about the time alleged. He called several witnesses whose testimony supported his testimony as to his whereabouts at the time in question.
+Appellant contends that the trial judge erred in permitting Billy Ray Andrews to act as interpreter in the taking of the testimony of his wife Ella Mae Andrews when she appeared as a witness because of the closeness of their relationship.
+Billy Ray Andrews testified that he and Ella Mae were married and had been living in Snyder seven or eight years; that Ella Mae was a deaf mute; that he knew the language people used in talking with their hands; and that he and Ella Mae used the sign language in talking with each other.
+There is no showing that the interpreter was not capable; that the interpretations made were incorrect or distorted, or that his actions injured the rights of the appellant.
+It is concluded that the trial judge did not abuse his discretion in permitting Billy Ray Andrews to act as interpreter in the taking of the testimony of Ella Mae Andrews. 44 Tex. Jur., 1095, Sec. 18; 1 Branch (2ed), 325, Sec. 282; 21 C.J.S., Courts, Sec. 141; 172 A.L.R., 945; Peoples Nat. Bank of Green-ville v. Manos Bros. Inc., 226 S.C. 257, 45 A.L.R. (2d) 1085. The convictions were affirmed in the following cases in which the husband acted as interpreter for his wife, the mother for the prosecutrix, and the brother for his sister. Claycomb v. State, 211 P. 329; Almon v. State, 21 Ala. App. 466, 109 So. 371; Burgess v. State 256 Ala. 5, 53 So. (2) 568.
+Appellant’s formal bills of exception in the record show that they were refused by the trial judge when presented for approval. No bystanders bill are shown in the record therefore under 760d, V.A.C.C.P., the complaints in the bills refused by the court cannot be considered Wortham v. State, 169 Tex. Cr. Rep. 164, 333 S.W. 2d 158; Willie v. State, 169 Tex. Cr. Rep. 393, 334 S.W. 2d 159.
+The evidence is sufficient to support the conviction and no error appearing the judgment is affirmed.
+Opinion approved by the Court.
