@@ -1,0 +1,49 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "17830"
+decided: "1936-01-15"
+citations: ["130 Tex. Crim. 501", "94 S.W.2d 1161"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. B. Armistead v. The State."]
+source_url: "https://static.case.law/tex-crim/130/cases/0501-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5245985
+cites_cases: ["103 Tex.Cr.R. 94", "103 Texas Crim. Rep., 94", "117 S. W., 135", "117 S.W. 134", "121 Tex.Cr.R. 511", "121 Texas Crim. Rep., 511", "17 Tex.App. 267", "198 S.W. 946", "21 L.R.A.(N.S.) 878", "217 S. W., 154", "217 S.W. 154", "249 S. W., 849", "249 S.W. 849", "280 S. W., 777", "280 S.W. 777", "50 S.W.(2d) 284", "55 Tex.Cr.R. 435", "55 Texas Crim. Rep., 435", "56 S. W., 622", "56 S.W. 622", "82 Tex.Cr.R. 377", "82 Texas Crim. Rep., 377", "83 S. W. (2d) 992", "83 S.W.(2d) 992", "86 Tex.Cr.R. 455", "86 Texas Crim. Rep., 455", "94 Tex.Cr.R. 114"]
+---
+
+# Armistead v. State
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+The offense is rape; penalty assessed at confinement in the penitentiary for life.
+The prosecutrix, Deveme Armistead, is the daughter of the appellant. At the time of the commission of the alleged offense she was a little more than nine years of age and was living with her father and mother. She was attending school and was in the second grade. Testifying for the State on direct examination, she charged the appellant with having had sexual relations with her while they were alone on an oil lease near the town of Wink. However, upon cross-examination by the appellant she testified that she had sworn falsely and said that her father had been guilty of no improper conduct towards her. She assigned as a reason for having charged appellant with the assault upon her the fact that she had become angry with him because he was spending all of his money for whisky and often became drunk. Suffice it to say that upon her redirect examination by the District Attorney she maintained that appellant was guilty of no misconduct towards her and that she had sworn falsely against him upon her direct examination. In connection with her retraction of the testimony which she had given against the appellant, she charged that several boys, who she was unable to name, had been having sexual relations with her prior to the time she visited the oil lease with the appellant.
+The physicians, who examined the prosecutrix after she had reported that appellant had assaulted her, testified that her female organ indicated that she had been having sexual relations for some time. They also expressed the opinion that she had recently had sexual intercourse, basing such opinion upon the fact that semen was found in her vagina. They were unable to determine definitely how long it had been since she had had connection with a male. Again, they testified that her female organ was enlarged to the extent that two fingers could be. inserted into the vagina.
+That the testimony in the present case, including the retraction of the prosecuting witness, is insufficient to support the conviction is supported by many precedents. Among them are Gazley v. State, 17 Texas App., 267; Petty v. State, 249 S. W., 849; Galaviz v. State, 82 Texas Crim. Rep., 377.
+In the case of Blair v. State, 56 S. W., 622, in which the facts were similar to those in the present instance, this court said:
+“The testimony of the prosecutrix in the first instance is in favor of the theory of the State. Then immediately she denies in toto the truthfulness of this statement, and states that appellant did not have carnal intercourse with her at any time. This leaves the record before us in such condition that we cannot permit the verdict to stand without other proof on the question of penetration, which is an absolutely essential requisite to all prosecutions for rape.”
+See Stevens v. State, 121 Texas Crim. Rep., 511; Dodson v. State, 83 S. W. (2d) 992, and cases cited there. Many other opinions of this court are in accord with the above.
+The judgment of the District Court is reversed and the cause remanded.
+Reversed and remanded.
+
+## Rehearing (HAWKINS, Judge.)
+
+ON STATE’S MOTION FOR REHEARING.
+HAWKINS, Judge.
+There is a slight error in our original opinion where it is stated that on direct examination prosecutrix gave evidence favorable to the State but changed her testimony on cross-examination. In fact she did not change her testimony on cross-examination, but the next morning she was called back to the witness stand by appellant and she then retracted all of the criminative evidence given by her theretofore against appellant.
+In its motion for rehearing the State urges that evidence introduced by the State supports the child’s testimony first given in favor of the State, in that it shows non-access of any male person save appellant to the child within the period of four or five hours prior to the time the doctors examined her, said doctors having testified that the spermatozoa found in her privates could have been emitted there within such time.
+Giving full effect to the State’ argument we still find ourselves in such uncertainty of mind from the entire record that we cannot reconcile it with our duty to permit the conviction to stand.
+The child’s evidence in some respects fails to stand up both when testifying for the State and against it. In her testimony given in the first instance she affirmed that her father had intercourse with her four times within a period of forty minutes. As said by one of the doctors who testified, that would be abnormal. It staggers credulity and is not supported by human experience. On the other hand, when she retracted her former testimony and swore positively that her father never had intercourse with her at all on the night of January 1st, she also asserted that no man or boy had intercourse with her on that night or day, and had not since before Christmas, which was in positive contradiction to the presence of live spermatozoa in her person. One of the attorneys who had been appointed by the court to represent appellant testified that when he and his co-counsel in the mother’s presence had talked to the child on the morning of the second day of the trial and before she was called back to the witness stand, she then told them appellant had done nothing to her but that a boy had had intercourse with her on the evening or night of January 1st.
+In addition to the authorities cited originally we refer to others. We quote the following from 18 Texas Jur., Sec. 308:
+“* * * Always it must be remembered that the guilt and innocence of the accused are not the only alternatives — the evidence may be such that, while it does not leave the accused free from the suspicion of guilt, it is still short of that required to establish the fact of his guilt beyond reasonable doubt. He is then entitled to a verdict of acquittal, just as he would be if the jury were clearly convinced of his innocence. * * *”
+We quote from Smith v. State, 86 Texas Crim. Rep., 455, 217 S. W., 154, a rape case:
+“* * * A witness may be contradicted by other witnesses, and yet be telling the truth, and be believed; but when the witness deliberately and under oath admits that, in relation to the very matters about which she is now testifying, she testified not long since directly to the opposite and contradictory of her testimony in the instant case, one is not only unable to decide which is true, but doubt is engendered as to the truth of either statement. * * *”
+In Railsback v. State, 103 Texas Crim. Rep., 94, 280 S. W., 777, it is said:
+“* * * Up cross-examination, this witness repudiated all of this testimony and swore that he did not see the appellant give any whisky to any one, and did not see him with any whisky; but that he saw some whisky in the car, which belonged to Hamm, Summers, and himself. This witness, also on cross-examination, testified that he did not give appellant a cent of money. In fact he swore both ways on the main point relied upon by the State for conviction in this case."
+The opinion then proceeds with a quotation from Hill v. State, 55 Texas Crim. Rep., 435, 117 S. W., 135, as follows:
+“* * * We are unwilling to sanction a judgment upon a record of this character. The accomplice had sworn positively both ways, and in his latter statement, that he had committed perjury in placing appellant at the scene of the theft, and that the truth is appellant was not there. This evidence comes in entirely too questionable shape to form the basis for the incarceration of men in the penitentiary. * * *”
+Our conscience does not permit us to let a judgment of conviction stand upon a record containing the contradiction found here.
+Believing our original opinion properly disposed of the case the State’s motion for rehearing is overruled.
+Overrvled.
