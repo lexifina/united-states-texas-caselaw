@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,590"
+decided: "1956-11-21"
+citations: ["164 Tex. Crim. 158"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Edward Connaughton v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2608914
+cites_cases: ["159 Texas Cr. Rep. 492", "265 S.W. 2d 86"]
+---
+
+# Connaughton v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for robbery; the punishment, thirty years in the penitentiary.
+D. L. Hicks, assistant manager of Cabell’s Minit Market, testified that the appellant came into the market, exhibited a pistol, commanded that he give him the “greenbacks” in the cash register which he did because he was in fear of serious bodily injury and his life; that the appellant then ran from the store and got into a car, and that he notified the police and gave them a description of the appellant and the car. He also testified that a check of the cash register showed that the appellant had taken $95.
+Police Officer Boyd testified that he and Police Officer Kosan while on patrol heard the description broadcast on the radio; that about five minutes later while they were stopped at a signal light they saw appellant’s car stopped there also; that when they attempted to arrest him, he sped away and they gave chase. He further testified that very shortly after appellant lost control of his car which jumped an embankment and collided with a tree; that appellant jumped out of his car and began running; that after calling to him three or four times to stop without avail, he fired one shot at appellant which struck and stopped him. He testified that he then searched the appellant and found $96.
+The .testimony of Officer Kosan corroborated that of Officer Boyd, and in addition he testified that he searched the appellant’s automobile and took a pistol from the floorboard on the right front side.
+Appellant did not testify or offer any evidence in his behalf.
+We find the evidence sufficient to sustain the jury’s verdict.
+Appellant’s complaint of the argument to the jury by the state’s attorney, wherein he stated that the automobile which appellant was driving at the time of his arrest was stolen, cannot be sustained as there appears in the record testimony without objection that it was stolen.
+Appellant insists that the trial court erred in overruling his motion for a new trial.
+It was alleged in the motion that the appellant had prior to the trial accepted an offer made by the district attorney of fifteen years in this case and three other cases, all sentences to run concurrently, and that his acceptance created a binding obligation which should have been carried out by the district attorney in the interest of fair play and justice.
+Appellant’s affidavit in support of the motion recites that about the first of February, 1956, an assistant district attorney offered him fifteen years in the instant case and three other cases all sentences to run concurrently, if he would agree to plead guilty; that about February 23, 1956, he informed his court-appointed attorney of the offer and advised him that he would accept the offer but for him to negotiate for a more favorable settlement. It further recites that he accepted the state’s offer on March 21 and prior to the trial on that date.
+The affidavit of appellant’s court-appointed attorney corroborates that of the appellant. It also recites that during' the selection of the jury the offer was accepted and that such acceptance was made known to the state’s attorney at least five times before the close of the argument to the jury but that the state’s attorney ignored such offers.
+The state by controverting affidavit joined issue with the appellant upon the truth of the causes set forth in his motion for a new trial.
+The court certified in the bill that the appellant entered a plea of not guilty and persisted in said plea.
+The affidavit of the appellant recites that the offer of the state’s attorney to him was made on the condition that he would plead guilty. The record shows that he entered a plea of not guilty and the court so certified in the bill of exception.
+The court, upon the evidence offered, did not abuse his discretion in overruling the motion for a new trial. Art. 757, Vernon’s Ann. C.C.P.; Berry v. State, 159 Texas Cr. Rep. 492, 265 S.W. 2d 86.
+The judgment is affirmed.
+Opinion approved by the Court.
