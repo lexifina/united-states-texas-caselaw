@@ -1,0 +1,52 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "24730"
+decided: "1950-04-05"
+citations: ["155 Tex. Crim. 76", "228 S.W.2d 856"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lloyd D. Chadd v. State."]
+source_url: "https://static.case.law/tex-crim/155/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2582625
+cites_cases: ["139 Tex. Cr. R. 655", "141 S.W. 2d 947"]
+---
+
+# Chadd v. State
+
+## Majority (BEAUCHAMP, Judge. DAVIDSON, Judge.)
+
+BEAUCHAMP, Judge.
+The record in this case contains no caption showing when the term of court began and when it ended.
+The court’s charge to the jury states that defendant was indicted for the offense of bigamy, but the record contains no copy of the indictment.
+We have no jurisdiction of the case and the appeal is accordingly dismissed.
+ON MOTION FOR WRIT OF CERTIORARI.
+DAVIDSON, Judge.
+On April 5, 1950, at the present term of this court, we dismissed the appeal in this case because of a defect in the caption to the transcript — that is, the failure to show the date of the convening and adjournment of the term of court at which the conviction was had.
+No motion for rehearing and for reinstatement of the appeal having been filed within fifteen days, the mandate of the court was duly issued evidencing the dismissal of the appeal.
+On May 5, 1950, appellant filed in this court his application seeking to have this court, by writ of certiorari, order and direct the clerk of the trial court to prepare and send to this court a proper transcript of the record of the case, as required by law.
+The state, through its state’s attorney before this court, resists the granting of the relief prayed for because, among other reasons, (a) as the time for filing a motion for rehearing has expired and mandate has been issued, the judgment dismissing the appeal has become final, and (b) “said ‘motion for certiorari’ is wholly insufficient to invoke the action of the Court of Criminal Appeals. . . the writ of certiorari is a harsh writ and should only be invoked and granted in cases where a clear showing as to the need thereof is made; . . . the Clerk of the District Court of Armstrong County, Texas, should not be subjected to the harsh process of certiorari on an ex parte petition therefor, which is not sworn to ... in any event, certiorari should not command said Clerk to put in the record papers which are neither named nor described in the petition for certiorari, but are merely referred to by the unsworn allegation that ‘the record does not contain all the existing filed papers in this cause.’ ”
+In its final analysis, then, the state seeks to defeat the appellant’s appeal and his right to have his conviction reviewed upon appeal because of a defect in the caption to the transcript, a defect which is no event could relate to or affect substantial rights.
+It becomes material to ascertain whose duty it was to have a transcript of the record upon appeal properly prepared and forwarded to this court.
+The answer lies in the express provisions of Arts. 822 and 841, C. C. P., as amended, which read as follows:
+(Art. 822) “Appeal prosecuted immediately
+“An appeal may be prosecuted immediately to the Court of Criminal Appeals, and and the clerk shall without delay make out and forward the record to the Court of Criminal Appeals.”
+(Art. 841) “Clerk to prepare transcript
+“The Clerk of a Court from which an appeal is taken shall prepare as soon as practicable, a transcript in duplicate, in every case in which an appeal has been taken, which shall contain all the proceedings had in the case and conform to the rules governing transcripts in civil cases, the copy of such transcript to be filed in the trial court with the original papers in the case, and the original to be forwarded to the Clerk of the Court of Criminal Appeals as provided in Article 843 of the Code of Criminal Procedure of the State of Texas, 1925. Provided the Clerk shall not charge for the extra copy.”
+Under these statutes it is the duty of the clerk of the trial court to “make out and forward the record to the Court of Criminal Appeals,” and to “prepare. ... a transcript. ... in every case in which an appeal has been taken.”
+Therefore, it was the duty of the clerk of the trial court to prepare a transcript, in the instant appeal, showing the date of the convening and closing of the term of court at which the conviction was had, or, if court was still in session, to so state in the caption.
+In any event, appellant cannot be held responsible for the defect in the caption, nor may his right of appeal be defeated or abridged because of that defect.
+A defective caption is properly correctable by a writ of certiorari. Hodge v. State, 139 Tex. Cr. R. 655, 141 S.W. 2d 947.
+The motion for the writ of certiorari is granted and the clerk of the trial court is directed to forward to this court a complete transcript of the record in the case, including a proper caption.
+Upon compliance with this order, the appeal will be reinstated.
+Pending final determination of the appeal in this case, any effort to enforce the judgment and sentence appealed from is hereby restrained.
+A certified copy of this order will be sufficient to constitute the writ of certiorari to the clerk of the trial court.
+Opinion approved by the court.
+
+## On the merits (GRAVES, Judge.)
+
+ON THE MERITS.
+GRAVES, Judge.
+Heretofore in this cause this court issued its writ of certiorari requiring the district clerk to prepare and forward a transcript of the record in this case of all proceedings had in the trial court. This has now been done, and we find such proceedings to be regular in all things. No statement of facts has been filed herein.
+No error appearing in the record, the judgment is affirmed.
