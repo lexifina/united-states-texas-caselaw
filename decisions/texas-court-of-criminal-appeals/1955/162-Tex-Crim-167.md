@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,746"
+decided: "1955-11-02"
+citations: ["162 Tex. Crim. 167"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gus W. Rea, Jr. v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461309
+---
+
+# Rea v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a drunken-driving case; the punishment, a fine of $150.
+The offense was alleged to have been committed on May 28, 1953, which was prior to the effective date of the amendment to Art. 802, P.C., making confinement in jail a part of the penalty.
+Appellant elected to be tried under the statute as it existed at the time of the alleged offense which authorized a punishment of a fine only.
+A traffic officer of the city of Corpus Christi saw appellant “run” a red light in his automobile. The officer pursued and stopped him. Each party got out of his automobile, and as they approached each other appellant asked the officer “what happened.” The officer replied, “You ran a red light.” Appellant said “he didn’t think he did.”
+The officer testified that from the acts and conduct of the appellant he was intoxicated at that time and under the influence of intoxicating liquor. Another traffic officer then present also testified as to appellant’s intoxication at the time.
+It would serve no useful purpose to here detail the facts showing the difficulty which arose in connection with appellant’s being ultimately placed in jail.
+Appellant denied that he was intoxicated, and testified that he was first told that he was charged with being intoxicated when he was at police headquarters and that he immediately told the officers he was not drunk. In connection with that denial, he testified that he inquired of one of the officers if he had “what is called a drunkometer.” Upon an affirmative reply, appellant demanded that he “be given a test.” Upon being told the machine was broken, appellant asked that a doctor be called to determine if he were drunk. This request does not appear to have been complied with, as appellant was immediately thereafter placed in jail.
+Appellant’s wife, who was with him at the time the officers “pulled” them “over,” corroborated his testimony that he was not intoxicated.
+It was within the province of the jury to accept the testimony of the state’s witnesses and reject that of the appellant.
+In his brief, appellant contends that the trial court permitted the state to impeach him upon immaterial matters.
+The statement of facts reflects that the jury was retired when the state questioned appellant as to whether he had made certain statements. The trial court sustained appellant’s objection, the jury returned to- the court room, and the state at that time made no effort to get before the jury the facts developed in their absence.
+Later, the state was permitted, over appellant’s objection and in the presence of the jury, to interrogate him as to some of the matters gone into during the jury’s absence, chief of which was that some six months after the alleged offense appellant had made some derogatory remarks concerning one of the arresting officers and made known his animosity and ill-feeling toward that witness.
+When the state offered the impeaching testimony — that is, that appellant had made the derogatory remarks and expressed-animosity and ill-feeling toward that witness — the jury was again retired and the witness interrogated at length, during which time appellant registered his objections to the testimony.
+Upon the jury’s return to the court room the witness testified to the impeaching facts before the jury.
+There is an entire absence in this record of any objection having been made to that testimony when it was offered before the jury. As it is here presented, the testimony went before the jury without objection. Obviously, appellant was under the burden of objecting to the testimony when it was offered before the jury, unless he had been advised by the trial court that no further objection would be required than that registered in the jury’s absence.
+The conclusion is reached that the question as to the admissibility of the impeaching testimony is not before us.
+The judgment is affirmed.
