@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,253"
+decided: "1953-02-18"
+citations: ["158 Tex. Crim. 276"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Beverly Mackey v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0276-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477216
+cites_cases: ["120 Tex. Cr. R. 39", "123 Tex. Cr. R. 238", "128 S.W. (2d) 36", "137 Tex. Cr. R. 164", "155 Tex. Cr. R. 521", "157 Tex. Cr. R. 556", "202 S.W. 734", "236 S.W. (2d) 801", "251 S.W. (2d) 401", "47 S.W. 2d 320", "58 S.W. 2d 113", "83 Tex. Cr. R. 275"]
+---
+
+# Mackey v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+Appellant was charged in the County Court at Law No. 2 of Harris County with wilfully and negligently operating an automobile and while so engaged “did then and there commit an aggravated assault in and upon Frances H. Tillery by wilfully and with negligence colliding with an automobile, which said automobile was then and there occupied by the said Frances H. Tillery, then and there and thereby causing injury less than death to the person of the said Frances H. Tillery” etc. Upon conviction his punishment was assessed at a fine of $100.00.
+Appellant objected to the complaint and information herein because of the charge in the conjunctive of “wilfully and with negligence.” This matter has long since been settled by the holding that such an allegation is proper according to the circumstances that surround the incident under investigation.
+In Schultz v. State, 137 Tex. Cr. R. 164, 128 S.W. (2d) 36, this court said:
+“The complaint being based upon the proposition that the statute provides that one is guilty of an aggravated assault who ‘collides with or causes injury,’ etc. (Vernon’s Ann. P.C., art. 1149), the offending portion of the complaint and information being the use of the word ‘and’ in the place of the word ‘or’; that is, the pleading being in the conjunctive and the statute being in the disjunctive, that the same charges no offense against the law. We are referred, to the case of Tarver v. State, 83 Tex. Cr. R. 275, 202 S.W. 734, as an authority for such proposition. In our opinion that case does not warrant such a reference. It does hold that the proper pleadings demanded that there should have been an allegation that the accused should have been charged with either wilfully colliding with the injured party, or with gross negligence colliding with such party, but it goes further and holds that either or both of such allegations would have been proper, but in the Tarver case neither allegation was found in the pleading. That case goes still further and says: ‘We have a rule, however, that where the statutory words are not followed in the pleading, that those employed must be of equal or greater significance than those employed in the statute.’
+“We have heretofore held that an information and complaint in this exact language was correct in the case of Young v. State, 120 Tex. Cr. R. 39, 47 S.W. 2d 320. See also Huff v. State, 123 Tex. Cr. R. 238, 58 S.W. 2d 113, and cases there cited.”
+It will be noted from the above quotation that for many years it has been our holding that both negligence and wilfulness may be charged in the same count of the information and that proof of either one of which would be sufficient to uphold a conviction.
+We think it follows as a general doctrine, long recognized by this court, that in an excess of caution the pleader may plead conjunctively the methods set forth in the statute in describing the act in question. See cases cited in the opinion from which we have just quoted.
+Again, complaint is made because it is not shown at what point within Harris County, Texas, this collision occurred. We find no merit in this contention. It is shown that this collision occurred upon the part of the appellant in the County of Harris and State of Texas. Surely, it would not be expected to give the exact geographical point in that county at which the appellant was charged with having violated the law.
+Furthermore, it seems that appellant objected to the fact that it was shown that the injured party suffered an injury. Appellant was charged with the commission of an aggravated assault. Therefore, if his automobile struck the one in which the injured party was riding and thereby caused injury to her body, the same would be material to show whether or not an aggravated assault had been committed. See Atkinson v. State, 157 Tex. Cr. R. 556, 251 S.W. (2d) 401.
+We are cited to the case of Nichols v. State, 155 Tex. Cr. R. 521, 236 S.W. (2d) 801, but we do not think this case is in point herein.
+We see no error set forth in the record and no reason why this cause should be reversed.
+The judgment is therefore affirmed.
