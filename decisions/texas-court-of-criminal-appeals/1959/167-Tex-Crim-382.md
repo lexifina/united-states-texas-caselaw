@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,385"
+decided: "1959-02-11"
+citations: ["167 Tex. Crim. 382"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["F. L. Johnson v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8549747
+cites_cases: ["164 Texas Cr. Rep. 194", "297 S.W. 2d 953"]
+---
+
+# Johnson v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The offense is driving while intoxicated; the punishment, three days in jail and a fine of $50.
+The evidence was undisputed that on the occasion in question the appellant drove his automobile upon a public highway in Taylor County.
+Highway Patrolman E. J. Terrell testified that after he had observed the appellant’s automobile weaving across the center line of the highway and skid into a ditch he went to the automobile and found appellant on the floor board bleeding from a cut on the head; that he arrested appellant, carried him to a hospital in the city of Abilene for treatment of his injuries and from the hospital took him to jail. The officer further testified that on such occasion appellant had a strong odor of alcohol about his person and expressed his opinion that appellant was intoxicated.
+As a witness in his own behalf appellant admitted having taken a drink of whiskey some two hours before the accident but denied that he was intoxicated.
+Dr. Sherwood C. Lynn, called as a witness by the state, testified on direct examination that he treated the appellant at the hospital for his injury but that he could not say he was intoxicated.
+Upon being further questioned on re-direct examination by state’s counsel as to whether he had a personal opinion as to appellant’s intoxication, Dr. Lynn was permitted, over appellant’s objection, to testify as follows: “We have the * * * I know the nurses were discussing it, and I heard what they were discussing.” “Some thought that he was drunk. And in fact, they wanted to write that down, and I said, ‘No, we can’t give that opinion.’ So, I said, T cannot write that down.’ There was that discussion. As I say, even at the time, I was not * *
+Appellant objected to the testimony on the ground that it was hearsay. The state insists that since the discussion and statements testified to by Dr. Lynn were shown to have occurred in the presence of appellant such testimony was admissible under the rule which provides that where a statement is made in the presence of an accused which calls for a reply on his part, his silence or acquiescence may be shown as a confession of the truth of the statement.
+While the rule relied upon by the state be correct it cannot be given application in the present case because the evidence shows that appellant was under arrest at the time the statements were made in his presence at the hospital.
+Recently in De Lira v. State, 164 Texas Cr. Rep. 194, 297 S.W. 2d 953, we said:
+“The rule is well founded that if appellant was under arrest at the time the statement was alleged to have been made, his silence cannot be used against him as a confession of the truth of the statements made in his presence by anybody. Branch’s P.C., Sec. 87, p. 91, 2nd Edition.”
+The testimony of Dr. Lynn as to the discussion and statements of the nurses at the hospital should not have been admitted over appellant’s objection and in view of the conflict in the evidence on the issue of appellant’s intoxication we are unable to say that its admission was not harmful to the appellant.
+For the error pointed out, the judgment is reversed and the cause remanded.
+Opinion approved by the Court.
