@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,690"
+decided: "1959-04-15"
+citations: ["168 Tex. Crim. 145"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte John Tyler Lyles."]
+source_url: "https://static.case.law/tex-crim/168/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2625534
+cites_cases: ["140 Texas Cr. Rep. 107", "140 Texas Cr. Rep. 251", "143 S.W. 2d 386", "143 Texas Cr. Rep. 556", "144 S.W. 2d 581", "159 S.W. 2d 881", "162 Texas Cr. Rep. 112", "163 Texas Cr. Rep. 322", "164 Texas Cr. Rep. 358", "164 Texas Cr. Rep., 308", "164 Texas Cr. Rep., 385", "166 Texas Cr. Rep. 326", "282 S.W. 2d 219", "290 S.W. 2d 904", "298 S.W. 2d 838", "299 S.W. 2d 128", "314 S.W. 2d 93", "350 U.S. 1002"]
+---
+
+# Ex parte Lyles
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Relator and his brother, James Whittaker Lyles, were separately indicted for burglarizing a house belonging to Joe D. Thompson and were separately indicted for theft of a safe and $412.50 from Joe D. Thompson.
+James Whittaker Lyles pleaded guilty béfore the court on April 25, 1956, and was sentenced.
+Relator’s cases were called on June 19, 1956, and he pleaded guilty and waived a jury trial. Being informed by the trial judge that it was necessary that he hear proof or evidence, relator and his counsel agreed that the state re-introduce into evidence the testimony heard by the court in the causes against James Whittaker Lyles. The reproduced evidence consisted of statements read to the court in the April 25th trial-after "it was stipulated and agreed by the defendant James Whittaker Lyles and his attorney that the grand jury testimony' of witnesses and offense reports of the Houston Police Officer could be used in evidence, and “that if Mr. Joe D. Thompson, the complainant were here, he would testify * * *” followed by a full statement of his ownership of the building and the safe and money, and the breaking and entry, and appropriation of the safe and money without his consent.
+The state also offered in evidence relator’s confession.
+We held in Franklin v. State, 140 Texas Cr. Rep. 251, 144 S.W. 2d 581, that the confession of the defendant is not alone sufficient to support a conviction upon his plea of guilty to a felony without a jury.
+The contention advanced is that the stipulated evidence of Joe D. Thompson is hearsay and is without probative value, hence the trial judge was without jurisdiction to enter judgment and sentence relator, upon his plea of guilty supported alone by his confession.
+The contention that the statement of the complaining witness introduced without objection and upon agreement of relator and his counsel is without probative value is contrary to the majority holding in Ex Parte Clark, 164 Texas Cr. Rep., 385 299 S.W. 2d 128; Ex Parte Bruinsma, 164 Texas Cr. Rep., 308, 298 S.W. 2d 838; Ex Parte Slaughter, 163 Texas Cr. Rep. 322, 290 S.W. 2d 904.
+We have concluded, however, that the question presented constitutes an ■ attack upon the judgment ■ based upon the insufficiency of the evidence, which “can never be raised collaterally by habeas corpus, but must be raised on appeal.” Ex Parte Wingfield, 162 Texas Cr. Rep. 112, 282 S.W. 2d 219, certiorari denied 350 U.S. 1002.
+We are mot unmindful of the fact that we have considered the question of the admissibility of statements of absent witnesses -introduced by agreement of the defendant - without objection, and the probative value of such statements, in Ex Parte cases such as Ex Parte Bruinsma, 164 Texas Cr. Rep. 358, 298 S.W. 2d 838; Ex Parte Clark, 164 Texas Cr. Rep. 385, 299 S.W. 2d 128; Ex Parte Keener, 166 Texas Cr. Rep. 326, 314 S.W. 2d 93.
+The distinction between a collateral attack upon the conviction on a plea of guilty before the court because no evidence was introduced, and a similar attack upon the judgment upon the contention that the evidence introduced and upon which the trial judge based his judgment was insufficient to show the guilt of the defendant,, was pointed out by Judge Davidson in his dissent in Ex Parte Keener, 166 Texas Cr. Rep. 326, 314, S.W. 2d 93, supra. The latter we hold may be raised by appeal only.
+The sufficiency of the evidence is inquired into upon appeal in every case. If not sufficient to sustain the conviction, this court will reverse and remand the case for another trial.
+Where, however, there is no appeal or where the record on appeal is not timely filed or properly certified and the conviction becomes final the defendant’s right to complain of the insufficiency of the evidence is lost.
+This is the rule where the defendant throughout insists that he is innocent and has pleaded not guilty.
+It would be a strange doctrine to say that one who confesses to the crime and pleads guilty before the court, and waives a jury trial, should be afforded a remedy denied to one who asserts his innocence throughout.
+In this connection we direct attention to Broyles v. State, 143 Texas Cr. Rep. 556, 159 S.W. 2d 881, where we held that there was no requirement that the evidence produced at the trial before the court on a plea of guilty be perpetuated.
+We re-affirm our holding in Spivey v. State, 140 Texas Cr. Rep. 107, 143 S.W. 2d 386:
+“* * * that in every case where the defendant enters a plea of guilty to the court that the State is required to introduce evidence showing the guilt of the defendant, and if the State fails in this respect the defendant is entitled to a new trial. Therefore, upon an appeal from such conviction the accused is entitled to a statement of facts in order to demonstrate to this court the State’s failure in having complied with the law.”
+We hold that the judgment may not be collaterally attacked upon the ground that the evidence introduced and which formed the basis of the judgment was insufficient.
+The application for writ of habeas corpus is dismissed.
