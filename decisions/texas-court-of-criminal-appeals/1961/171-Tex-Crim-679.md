@@ -1,0 +1,46 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,947"
+decided: "1961-12-13"
+citations: ["171 Tex. Crim. 679"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Beverly Ann Simmons v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0679-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2636681
+cites_cases: ["334 S.W. 2d 816"]
+---
+
+# Simmons v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+After a plea of not guilty before the court, a jury being waived, the appellant was convicted for the unlawful possession of a dangerous drug (Art. 726d V.A.P.C.); the punishment, 30 days in jail.
+Officer Herring testified that on November 27, 1960, he stopped the appellant, Beverly Ann Simmons, after having observed her driving an automobile “hap-hazardly” along a public road, and he expressed the opinion that she was either intoxicated or under the influence of some type of drug at that time, and that he did not detect any odor of alcohol about her.
+The jail matron testified that on November 27, 1960, she searched the appellant, who appeared to be intoxicated, and found two prescription bottles in her brassiere, one bottle containing red capsules and the other containing white tablets. She delivered these to Officer Herring.
+Officer Herring testified that the jail matron, after searching the appellant, delivered two bottles to him, one containing ten red capsules and the other, fifteen white tablets. He delivered these to Chemist McDonald for analysis.
+Chemist McDonald, testifying at the trial, identified two bottles that Officer Herring had delivered to him on November 27, 1960. He testified that one of the bottles contained 15 tablets of Miltown, and that an analysis of each of the 10 capsules in the other bottle revealed that each capsule contained secobarbital, a derivative of barbituric acid.
+The testimony of a physician shows that about 7 or 8 P.M., on November 26, 1960, he received a telephone call at his home from a person for a prescription, specifically requesting seconal and Miltown, and the said person stated that they were for her mother, Mrs. Mertice Pettaway. This name caused him to think that thé mother was one of his patients, and he called a pharmacist and directed him to fill the prescriptions for 20 capsules of seconal and 15 tablets of Miltown for Mertice Pettaway. The person calling said that she would pick up the prescriptions at the pharmacy. A later check - of his records by the physician showed that he had prescribed the same types of drugs for a patient named Attaway, but that she was a woman in her early fifties who had no children.
+While testifying, the pharmacist identified the prescription bottles as'those he used November 26, 1960, in filling two prescriptions, one for Secobarbital and the other for Miltown, that a physician gave him by telephone for Mrs. Mertice Pettaway. He further testified that the bottles exhibited to him at the trial bore the labels he had placed on them showing that they were for Mrs. Mertice Pettaway, with the physician’s name thereon that had telephoned him. He testified that the red capsules in one of the bottles contained Secobarbital, and that they were delivered to a person at the pharmacy, but he did not know the person.
+Proof was offered that seconal and secobarbital are the same thing.
+The appellant did not testify or offer any evidence.
+It is concluded that the facts and circumstances in evidence are sufficient to warrant the conviction of the appellant for the unlawful possession of secobarbital, a dangerous drug.
+The contentions that the state failed to prove the corpus delicti of the offense and also that it failed to make out a prima facie case of illegal possession of secobarbital cannot be sustained.
+The evidence of the state showing that the appellant possessed the secobarbital was sufficient to show that the possession was unlawful. If the possession was legal on any ground, the burden was on the appellant to so show. This she failed to do. Waite v. State, 334 S.W. 2d 816.
+The judgment is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (WOODLEY, Presiding Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING
+WOODLEY, Presiding Judge.
+We were in error in our conclusion that appellant’s possession of the 10 capsules containing secobarbital or seconal was sufficient to show a violation of Art. 726d V.A.P.C.
+Section 3(d) of Art. 726d declares the possession of a barbiturate by any person to be unlawful “unless such person obtained the drug under the specific provision of Section 3 (a) (1) and (2) of this Act and possesses the drug in the container in which it was delivered to him by the pharmacist or practitioner selling or dispensing the same; and any other possession of a barbiturate * * * shall be prima facie evidence of illegal possession.”
+The undisputed evidence shows that appellant obtained the capsules containing a barbiturate under the specific provisions of Section 3(a) (1) of Art. 726d, that is: the drug was delivered by a pharmacist; upon an original prescription; in a container bearing the name and address of the pharmacy from which it was delivered; the date filled; the number of the prescription; the name of the physician who prescribed the drug; and the name and address of the patient (defined in the act as the individual for whom a dangerous drug is prescribed, or to whom administered).
+Under the provisions of Art. 726d V.A.P.C. “any other possession of a barbiturate” would be prima facie evidence of illegal possession but, having been obtained “under the specific provision of Section 3 (a) (1) of the Act”, possession of the drug in the container in which it was delivered to her by the pharmacist, was not such possession of a dangerous drug as is made unlawful by said Art. 726d V.A.P.C.
+We find no basis for holding that the possession of the drug was unlawful because the prescription therefor was obtained by appellant through a telephone call; or because the physician believed that he was prescribing for a patient for whom he had prescribed similar drugs several years before; or because the drug was prescribed for appellant’s mother; or because appellant may have taken some of the capsules or may have been under the influence of such drug at the time of her arrest. If the evidence in these regards shows an offense, it is not the offense alleged in the information, namely, the unlawful possession of a dangerous drug. There was no evidence showing any false pretense or false representation by appellant in obtaining the secobarbital or the prescription therefor.
+The responsibility for any irregularity or mistake on the part of the physician, in prescribing the drug, or the pharmacist in delivering it, does not rest upon appellant. Art. 726d V.A.P.C., upon which this prosecution rests, states that its purpose is to regulate and control the handling, sale and distribution of dangerous drugs as therein defined, and places upon manufacturers, wholesalers, licensed compounders of prescriptions, and persons prescribing dangerous drugs, “a basic responsibility for preventing the improper distribution of such drugs to the extent that such drugs are produced, handled, sold, or prescribed by them.” Art. 726d, Sec. 1, V.A.P.C.
+The evidence being insufficient to show the unlawful possession of a dangerous drug, appellant’s motion for rehearing is granted, the order of affirmance set aside, and the judgment is reversed and the cause remanded.
