@@ -1,0 +1,49 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,730"
+decided: "1957-01-30"
+citations: ["164 Tex. Crim. 208"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Luther E. Jones Et Al."]
+source_url: "https://static.case.law/tex-crim/164/cases/0208-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2608589
+cites_cases: ["110 Texas Cr. Rep. 579", "163 Texas Cr. Rep. 475", "255 S.W. 1097", "267 S.W. 2d 426", "294 S.W. 2d 111", "9 S.W. 2d 733", "96 S.W. 650"]
+---
+
+# Ex parte Jones
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+Our prior opinion in this matter is reported as Ex parte Jones, 163 Texas Cr. Rep. 475, 294 S.W. 2d 111. Following the issuance of the mandate in said cause, relators were arrested and imprisoned by the sheriff of Duval County. They, then, in accordance with our holding in said original opinion, made application to the supreme court of this state for writ of habeas corpus; however, said court refused leave to file the same, and they again applied to this court for relief. We granted the writ and allowed bail pending appeal.
+In November, 1955, the judge of the 79th Judicial District Court had caused to be issued a calendar for the business of his court in the year of 1956. On such calendar, the month of August was shown as “vacation.”
+On December 2, 1955, there was filed in said court a petition in which the county attorney became a party to an action to remove the county judge, alleging certain misconduct in office. Such petition was not heard on its merits but was reset from time to time and finally passed indefinitely on June 4,1956.
+On August 3, 1956, one of the relators, Gohmert, called the judge’s wife, told her that he wanted to speak to the judge, and inquired when they were leaving on their vacation. The record does not disclose what the judge’s wife told Gohmert about when she and the judge planned to leave, if at all. It is shown that the judge left the following morning at 11:00 A.M. without calling Gohmert and without hearing further from him.
+On August 6 at 9:00 A.M., an election contest was filed in the 79th District Court by relator Carrillo. Relator Jones was present, and the deputy district clerk told Jones that the judge was in Mexico. Thereafter, at 9:30 A.M., twelve of the lawyers who practiced in the 79th District, five of whom are these relators, met in the district courtroom and elected relator Gohmert as special judge.
+Following this, the special judge set the election contest case for August 13.
+During the course of the afternoon and after notice that the regular judge was on his way back to his district, the special judge heard and granted an amended petition to suspend the county judge from office. Such amended petition, by operation of law, abandoned the grounds originally plead and set forth an alleged illegal act on the part of the county judge which had taken place since the filing of the original petition. The judgment of contempt finds that the relators other than Gohmert “aided and abetted” him in entering said order. It finds that relator Jones presented the petition to the special judge but does not find that the other relators did anything other than that they were merely a part of a “preconceived plan” to remove the county judge from office.
+At 7:55 P.M. on August 6, the regular judge arrived in his courtroom and set aside the order of the special judge suspending the county judge. The following day, the regular judge changed the setting on the election contest case from August 13 to August 20 and instructed the district attorney to prepare presentments against all the lawyers for contempt. Such was done; the hearing was had; five of the lawyers involved were held to have acted contemptuously of the court, and their punishment was assessed at 72 hours’ confinement in the county jail.
+In view of the amendment of Article V, Section 7, of the Constitution of Texas in 1949, the enactment of Article 199-79, V.A.C.S., and the amendment of Article 1919, V.A.C.S., in 1915, under authority thereof whereby continuous terms of court were provided during which the judge of the district is authorized to hold as many sessions as is deemed expedient for the dispatch of business, we have concluded that the relators were not authorized under Articles 1887-1893, V.A.C.S., to elect a special judge because no session of court had been ordered by the judge. Longoria v. Longoria, 267 S.W. 2d 426.
+As in that case, the situation here is similar to that which existed before the advent of continuous terms where the regular judge would call a special term of court and then fail or be unable to attend such special term.
+We hold, also, that Article 13.30, Vernon’s Texas Election Code, does not authorize the practicing attorneys to call a special term or session of court. In McAllen v. Raphael, 96 S.W. 650, we find the following language: “The judge, and no one else, had power to create the special term.” The regular judge or a district judge sent to the district by the presiding judge of an administrative district (Article 200a, Section 6, V.A.C.S.) alone have power to call a special term or session. We are not here concerned with the authority of a judge of another district sitting in exchange under the authority of Article V, Section 11, of the Constitution and Article 1916, V.A.C.S.
+The court was not in session, and the judge of the district ■had not deemed it proper or expedient that a session be held at the time in question; and the election of a special judge at such time was not authorized for that reason. We hold then that the special judge was without jurisdiction or power to preside over the district court of Duval County and that his election and all orders, judgments and proceedings had before him are void.
+Prior to the case at bar, the conduct of these attorneys which are here held to be in contempt of court had never been held to be contemptuous in this, or, so far as we are able to determine, in any other jurisdiction.
+The legality of their acts in electing a special judge to try the election contest in the absence of the regular judge under the authority of Articles 1887-1893, V.A.C.S., has caused the members of this court considerable concern, as will be seen from the concurring opinion herein. Be that as it may, it only serves to demonstrate that relators, as lawyers, believed that the election of a special judge was authorized by the statutes. If they had been correct in their interpretation of this open question of law and we had held that the special judge had been lawfully elected, then we would have been forced to the conclusion that the relators had the right to present, and the special judge had the right to hear, the amended petition for removal of the county judge. It must be borne in mind that the regular judge had made no orders in that cause other than to pass it indefinitely. It was, therefore, on the docket of said court and subject to call by a special judge, who, if properly elected, would have become judge for all purposes.
+In Herring v. Houston Natl. Exch. Bank, 255 S.W. 1097, the Supreme Court of this state said, “The power to punish for contempt will be exercised with great caution, and only as a preservative, and not as a vindictive measure * * * .”
+From 17 C.J.S., Section 57, page 68, we quote the following:
+“The power to punish for contempt should be used sparingly, with caution, deliberation, and due regard to constitutional rights; it should be exercised only when necessary to prevent actual, direct obstruction of, or interference with, the administration of justice.”
+In Ex parte Vogler, 110 Texas Cr. Rep. 579, 9 S.W. 2d 733, this court cited with approval from 13 Corpus Juris, page 5, as follows: “It is the policy of the law not to extend the proceeding for constructive contempt to cases not coming within the established rules.”
+We have concluded that, since the conduct of relators complained of occurred in the absence of the regular judge and since their void acts became moot that evening when the regular judge returned to his district, their acts did not obstruct the administration of justice and that we should not affirm this judgment holding them in contempt.
+The relators are ordered discharged.
+
+## Concurrence (DAVIDSON, Judge.)
+
+CONCURRING OPINION
+DAVIDSON, Judge.
+I concur in the order discharging relators,- but I do not agree that the election of the special judge was not authorized and was therefore void.
+When the judge of a district court absents himself, during term time, from the court and leaves the territorial limits of the judicial district of which the court is a part, he has failed “to hold the court,” within the meaning of Art. 1887, R.C.S., authorizing the election of a special judge in that event. That is exactly what happened here, and, in my opinion, the special election was authorized.
+If the regular judge can defeat the right of lawyers to elect a special judge by an order or orders setting a calendar or calling sessions of the court during term time, he can completely nullify the statute authorizing the election of a special judge.
+As I understand the holding in the case of Longoria v. Longoria, cited in the majority opinion, the regular judge may not so nullify the statute.
