@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "10325"
+decided: "1926-10-13"
+citations: ["105 Tex. Crim. 212", "287 S.W. 250"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. G. Ainsworth v. The State."]
+source_url: "https://static.case.law/tex-crim/105/cases/0212-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5129533
+cites_cases: ["100 Tex. Cr. R. 592", "101 Tex. Cr. R. 639", "101 Tex. Cr. R. 82", "102 Tex. Cr. R. 648", "242 S. W 218", "242 S. W. 218", "262 S. W. 766", "269 S. W. 111", "272 S. W. 175", "274 S. W. 151", "276 S. W. 929", "279 S. W. 460", "279 S. W. 466", "281 S. W. 573", "34 S. W. 617", "35 Tex. Cr. R. 494", "35 Tex. Crim. Rep. 494", "92 Tex. Cr. R. 147", "97 Tex. Cr. R. 501", "99 Tex. Cr. R. 218"]
+---
+
+# Ainsworth v. State
+
+## Majority (BAKER, Judge.)
+
+BAKER, Judge.
+The appellant was convicted in the District Court of Taylor County for the offense of embezzlement, and his punishment assessed at two years in the penitentiary.
+The record discloses that the appellant was charged with embezzling about $150.00 in money, the property of the Ralph Paint & Paper Company, on or about the 15th day of March, 1925. ' The record further discloses that the appellant was conducting a collection agency in the city of Abilene, and that the above company placed in his hands for collection certain accounts, including one against A. J. Freeman; that the appellant collected the Freeman account, but failed to remit the proceeds thereof and used same in the transaction of his business. The appellant defended upon the ground that it was his custom, when he made partial collection of an account, to withhold settlement with the owner thereof until all of the account had been collected; that the collection from Freeman was in installments, and that about that time he had serious sickness in his family and had to leave to go to the hospital, which necessitated his absence from the city of Abilene for many months; that he had never refused to pay the account and had no intention of defrauding the prosecuting witnesses, but had not seen any member of said company until after he was arrested and brought back from Oklahoma. This is a sufficient statement for the discussion in this opinion.
+The record discloses seven bills of exception. Bill No. 1 complains of the refusal of the court to instruct a verdict of acquittal on the ground that no part of said money was ever in the possession or control of the Ralph Paint & Paper Company, and therefore the act alleged would not constitute embezzlement. We are of the opinion that there is no merit in this contention.
+Bill No. 2 is in question and answer form, and under Art. 760 of the C. C. P. and the decisions of this court, we are unauthorized to consider same. Robbins v. State, 272 S. W. 175; Williams v. State, 279 S. W. 466. Many other authorities could be cited if necessary.
+In bill No. 3 complaint is made to the action of the court in permitting the state to introduce in evidence a check for the sum of $129.19, the objection being that same was not endorsed, was immaterial, and the appellant was charged with embezzlement in the sum of $150, an amount larger than said check. This bill, as presented, shows no error.
+Bill of exception No. 4 complains of the action of the court in permitting the state to show that appellant’s account was overdrawn at the bank, upon the ground that it was immaterial and irrelevant. This bill, as presented, shows no error, and the objection would go more to the weight than to the admissibility of the testimony.
+Complaint is made in bill No. 6 to the action of the court in permitting the state to show that the prosecuting witness, Ralph, was named S. L. Ralph, Jr., the objection being that the indictment charged “S. L. Ralph,” whereupon the court remarked that he would hold as a matter of law “that this Junior business was immaterial since the witness’ father, S. L. Ralph, was dead.” Appellant contends that said remark of the court was prejudicial to the appellant. We are nuable to agree with this contention. See Branch’s Ann. P. C., Sec. 461, citing Steinberger v. State, 35 Tex. Crim. Rep. 494, and other authorities.
+Bill of exception No. 7 raises a more serious question, wherein the complaint is to the effect that the jury, while deliberating upon their .verdict, discussed matters which were not in evidence and, in effect, received statements and declarations from certain jurors concerning the appellant and involving other and different transactions. This bill discloses that after the jury had retired and had taken two or three ballots that evening, standing four for acquittal and eight for conviction, one of the jurors by the name of Burket stated* some of his experiences with the appellant over some collections for him or his firm; and another one of the jurors, a Mr. Briley, stated some trouble his company had with appellant, to the effect that the appellant came in and got a car to try out, with the intention of buying it if it suited him, and that they heard no more from him for a week or so, at the end of which time he wrote them from Breckenridge. Some of the jurors testified to the effect that there were other matters discussed as to other collections made by the appellant beside the one charged in the indictment, and it appears from the bill that the jury had been unable to agree on a verdict until after said conversations were had; then the jurors who were for acquittal agreed to a verdict of guilty. The attorneys for this court have confessed error on this bill of exception, and after a careful examination of same we concur in their conclusion. Brewer v. State, 262 S. W. 766; Hanks v. State, 269 S. W. 111; Hughes v. State, 274 S. W. 151; Brown v. State, 242 S. W 218; Brown v State, 276 S. W. 929.
+For the errors above discussed, we are of the opinion that the judgment of the trial court should be reversed and remanded, and it is accordingly so ordered.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal . Appeals and approved by the Court.
