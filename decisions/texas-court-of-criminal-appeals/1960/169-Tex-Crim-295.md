@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,538"
+decided: "1960-02-24"
+citations: ["169 Tex. Crim. 295"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. A. Evans v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0295-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12139803
+cites_cases: ["230 S. W. 2d 808", "265 S. W. 2d 600", "267 S. W. 2d 415"]
+---
+
+# Evans v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The information was in three counts, only two of which were submitted to the jury, charging sale of beer in a dry area and possession of beer for the purpose of sale in a dry area; the punishment, 12 months in jail and a fine of $1,650.00. This prosecution was before the effective date of Article 408a, V.A.C.C.P.
+The jury assessed appellant’s punishment under count one at 12 months in jail and a fine of $650.00, and in count three at 12 months in jail and a fine of $1,000.00. The trial court, however, in his judgment made no effort to cumulate the jail sentences, and we construe the same to assess the total punishment at 12 months in jail and a fine of $1,650.00. McCurdy v. State, 159 Tex. Cr. Rep. 477, 265 S. W. 2d 600, and Bristow v. State, 160 Tex. Cr. Rep. 111, 267 S. W. 2d 415.
+Inspector Monk of the Texas Liquor Control Board, while operating undercover on November 12, went to a place known as the Workmen’s Club east of the city of Abilene and, posing as a truck driver, paid appellant $10.00 as a membership fee and $2.10 for six “chits,” one of which he surrendered to appellant for a can of beer. This is the transaction covered by count one of the information which charged the unlawful sale of beer in a dry area. On November 19, Monk again returned to the club, gave appellant a “chit” for another beer and participated in the raid conducted by a number of officers in which a huge quantity of beer was seized. This is the transaction covered by count three which charged the unlawful possession of beer for the purpose of sale in a dry area.
+Appellant did not testify in his own behalf, but called other witnesses who testified that the Workmen’s Club was restricted to members only, that the beer which was served belonged to the members, and that the “service charge” was for cooling and serving the beer. The jury rejected this defense, and we find the evidence sufficient to support the conviction.
+Appellant’s brief is principally addressed to the question of the cumulation of the jail sentences, which we have above decided. He next contends that the court erred in permitting the witness Monk to testify that on November 17 he went to the same place and gave appellant still another “chit” for a bottle of beer. At the time of the introduction of such testimony and in his charge, the court was careful to instruct the jury that they might consider the evidence as to the November 17 transaction, if at all, only on the question of the intent of appellant in possessing the beer which was seized on November 19. In Morrison v. State, 155 Tex. Cr. Rep. 106, 230 S. W. 2d 808, this court said:
+“ * * * in a prosecution for the possession of intoxicating liquor for the purpose of sale, proof of sales made by the accused at a time not too remote is admissible as throwing light upon the purpose for which the liquor was possessed.”
+By bills of exception Nos. 5 and 6, complaint is made as to argument. The court qualified each bill and certified that the remarks of the prosecutor were in reply to remarks made by defense counsel and set forth the portion of defense counsel’s argument to which he referred. Appellant accepted such bill as qualified, and we agree with the court’s qualification.
+Finding no reversible error, the judgment of the trial court is affirmed.
