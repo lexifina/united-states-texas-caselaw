@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "13352"
+decided: "1931-02-04"
+citations: ["117 Tex. Crim. 164", "36 S.W.2d 504"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lee Custer v. The State."]
+source_url: "https://static.case.law/tex-crim/117/cases/0164-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5186141
+cites_cases: ["109 Tex. Cr. R. 11", "109 Tex. Cr. R. 629", "109 Texas Crim. Rep., 11", "109 Texas Crim. Rep., 629", "11 S. W. (2d) 318", "11 S.W.(2d) 318", "110 Tex. Cr. R. 478", "110 Texas Crim. Rep., 478", "111 Tex. Cr. R. 58", "111 Texas Crim. Rep., 58", "112 Tex. Cr. R. 119", "112 Texas Crim. Rep., 119", "115 Texas Crim. Rep., 644", "14 S. W. (2d) 280", "14 S.W.(2d) 280", "2 S. W. (2d) 453", "2 S.W.(2d) 453", "269 U. S. 20", "269 U. S., 20", "28 S. W. (2d) 556", "28 S.W.(2d) 556", "51 A. L. R. 409", "51 A. L. R., 409", "6 S. W. (2d) 762", "6 S.W.(2d) 762", "9 S. W. (2d) 352", "9 S.W.(2d) 352"]
+---
+
+# Custer v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+— Conviction is for possessing intoxicating liquor for the purpose of sale, punishment being three years in the penitentiary.
+The State’s main witnesses were W. M. Miller, Chief of Police of the City of Cisco, and A. D. Bryan, a policeman of said city. Their evidence as to discovering whisky in appellant’s house was objected to upon the ground that it was obtained by the officers “forcibly” entering appellant’s private residence without a search warrant, and in violation of the Constitution and laws of this State and of the Constitution of the United States. We are of opinion that the question raised by the objection passes out of the case on the facts. Miller and Bryan went to appellant’s house for the purpose of talking to one Oglesby whom they thought was there. Miller says he wished to talk to appellant also. It is expressly stated by Miller that they “did not go down there to search the residence” of appellant. There is no suggestion in the record that the officers had any knowledge or information that there was whisky in the house. When they got there Miller knocked on the front door. It was opened by Joe Custer, a brother of appellant. The two officers went in and while talking to Joe some unusual noise occurred in the house. Miller described it as a “lumbering around in the house;” Bryan said “it sounded like a cyclone * * * it sounded like glass breaking.” What the officers did even after they heard the noise can not be characterized as a search. The inference is fair that everybody in the house, save appellant, was moved by curiosity to discover what was causing the noise. Miller said “someone opened the middle door and I walked back into the kitchen and that whisky was poured all over the floor.” Appellant was standing there with a hatchet or handaxe in his hand amid the broken glass of six or seven jars which he had broken. When Miller discovered the situation he mopped up half a gallon of whisky with a towel and wrung it out in a jar. Everybody seems to have been drawn to the kitchen by the noise. Appellant’s wife was there. Joe Custer was there and Bryan was there when Miller discovered the situation, or came in immediately. When the noise occurred he went out of the front door, around the house, and came into the kitchen through an open screen door. We cannot regard these facts as showing an invasion of appellant’s house in violation of the mandates of the Constitution of this State (Const., Art."1, Section 9), or of the United States. (Const. Amend. 4). The officers were in no sense trespassers; they were in the house by permission of appellant’s brother, and without any purpose to search or pry into the appellant’s affairs. Upon hearing the disturbance, Miller, as any other person under similar circumstances would likely have done, walked through an open door into the kitchen where appellant was surrounded by broken containers and flowing whisky. The provisions of Art. 212, Code Crim. Proc., 1925, expressly authorize arrest without a warrant when a felony is committed in the view of the arresting officer. Of course, this statute would not be operative if the officers had been trespassers, engaged in an unauthorized search. Upon the facts this case is more similar to those in Traylor v. State, 111 Texas Crim. Rep., 58, 11 S. W. (2d) 318, than any other to which our attention is directed. The principle is recognized in Hall v. State, 109 Texas Crim. Rep., 629, 6 S. W. (2d) 762; Steverson v. State, 109 Texas Crim. Rep., 11, .2 S. W. (2d) 453; Greenwood v. State, 110 Texas Crim. Rep., 478, 9 S. W. (2d) 352; Banks v. State, 112 Texas Crim. Rep., 119, 14 S. W. (2d) 280; Hayes v. State, 115 Texas Crim. Rep., 644, 28 S. W. (2d) 556; Agnello v. United States, 269 U. S., 20, 46 S. Ct., 4, 70 L. Ed., 145, 51 A. L. R., 409.
+The judgment is affirmed.
+Affirmed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+— There is no dispute in this record of any fact issue. The officers did not go to appellant’s house to make search thereof for anything. Their business there was for another purpose and with another party. After entering same, and after the occurrence of the crashing noise in an adjoining room set out in the original opinion, each officer entered said adjoining room through an opened door, as testified to by each. What was then seen and smelled assured them that appellant was committing a felony in their view. Their duty was plain. They could not discharge the duty imposed by the situation otherwise than by arresting appellant and initiating proceedings against him. In his interesting and able motion herein, appellant cites Steverson v. State, 109 Texas Crim. Rep., 11, 2 S. W. (2d) 453, 454. We quote from the opinion in that case: “If without unlawful- acts on their part things described in Art. 690, P. C., came to view of the officers from which it was apparent that a felony was being committed in their presence then a seizure without a warrant of the things being used to violate the law would be authorized. Under proper circumstances this course is authorized by Art. 690, P. C., Art. 212, C. C. P., and has been sanctioned under the decisions of this court and the Supreme Court of the United States in many cases.” Authorities are cited.
+We think the acts of the officers, deemed by appellant to offend against our search and seizure laws in this case, to be strictly within the rule above laid down. We find nothing in any of the other cases cited in the motion holding a contrary view.
+The motion for rehearing will be overruled.
+Overruled.
