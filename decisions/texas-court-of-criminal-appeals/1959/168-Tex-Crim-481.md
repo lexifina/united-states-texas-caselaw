@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,093"
+decided: "1959-11-25"
+citations: ["168 Tex. Crim. 481"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Juan Guajardo Rodriguez v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2621296
+cites_cases: ["109 Texas Cr. Rep. 307", "4 S.W. 2d 54"]
+---
+
+# Rodriguez v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for the possession of marijuana, with punishment assessed at eighteen years in the penitentiary.
+Officers apprehended appellant driving- his car, a search of which resulted in their finding marijuana cigarettes therein.
+A passenger was in the car with the appellant.
+Testifying as a witness, appellant denied any connection with or knowledge of the cigarettes prior to the time they were found by the officers. He testified that it was his passenger who had the cigarettes and that they belonged to him (the passenger) .
+The passenger denied that he had the cigarettes and testified to facts showing that it was the appellant who had them.
+The defensive issue was submitted to and rejected by the jury.
+Appellant insists that the search of the automobile by the officers was unlawful, and that proof of the result of the search was therefore inadmissible.
+Having testified to and admitted the presence of the cigarettes in his automobile, appellant waived any objection to the search of the car. McLaughlin v. State, 109 Texas Cr. Rep. 307, 4 S.W. 2d 54.
+The judgment is affirmed.
