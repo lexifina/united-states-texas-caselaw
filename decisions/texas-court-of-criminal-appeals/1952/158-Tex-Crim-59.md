@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,960"
+decided: "1952-10-29"
+citations: ["158 Tex. Crim. 59"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shelby Glenn v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2481132
+cites_cases: ["156 Tex. Cr. R. 419", "243 S. W. 2d 31"]
+---
+
+# Glenn v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for the unlawful possession of beer for the purpose of sale in a dry area, with punishment assessed at a fine of $500 and six months in jail.
+Agents of the Texas Liquor Control Board, under and by virtue of a search warrant, searched the private residence of the appellant and found therein twenty-five twelve-ounce cans of beer and other items such as empty cans .and a book or books which the state contended were relevant to the issue as to the purpose for which the beer was possessed.
+Exceptions were duly reserved to the receipt in evidence of the testimony as to the result of the search because, among other things, the search warrant was invalid, being based upon an affidavit not sufficient and valid because of an insufficient description of the premises to be searched. The description of such premises was set out in the affidavit for search warrant, as follows:
+“A certain private dwelling, located in Lubbock County, Texas, described as (a) Being a residence located at 222 Ave. U. In Lubbock, Lubbock County, Texas together with all automobiles outbuildings and premises pertaining thereto . . .”
+There was no allegation as to the occupancy of the premises to be searched, that is, the name or description of the owner or person in charge thereof, nor was there an allegation that same was unknown.
+In Wood v. State, 156 Tex. Cr. R. 419, 243 S. W. 2d 31, we held that under the express provisions of Art. 666-20, Vernon’s Penal Code, the affidavit for a search warrant to search for intoxicating liquor must set “forth the name or description of the owner or person in charge of the premises to be searched,” or state “that his name and description are unknown . . .”
+The instant affidavit does not comply with this mandate of the statute and the search warrant issued thereon. The search of the residence of appellant thereunder was without authority of law.
+This conclusion renders unnecessary a discussion of the other questions presented.
+For the error pointed out, the judgment is reversed and the cause is remanded.
+Opinion approved by the court.
