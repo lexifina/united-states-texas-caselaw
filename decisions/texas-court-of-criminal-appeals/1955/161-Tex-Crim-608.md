@@ -1,0 +1,88 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,522"
+decided: "1955-04-20"
+citations: ["161 Tex. Crim. 608"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James McMorries v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0608-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2464439
+cites_cases: ["111 S.W. 2d 723", "112 S.W. 2d 720", "130 Texas Cr. Rep. 78", "133 Texas Cr. Rep. 544", "134 S.W. 2d 470", "154 Texas Cr. Rep. 5", "156 Texas Cr. Rep. 360", "220 S.W. 1101", "224 S.W. 2d 260", "242 S.W. 2d 371", "277 S.W. 625", "35 S.W. 386", "48 S.W. 2d 296", "58 S.W. 2d 530", "62 S.W. 2d 146", "92 S.W. 2d 458"]
+---
+
+# McMorries v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+This conviction is for the offense of felony theft by false pretext; the punishment, five years in the penitentiary.
+The trial was had in Nolan County on a change of venue from Martin County.
+The state’s evidence shows that on May 26, 1954, appellant was county judge of Martin County and had been serving continuously as such officer since January 1, 1949; that as county judge he was also ex officio county school superintendent during the same period of time, and that the resigned as such officer on June 6, 1954.
+It was shown that the Grady Independent School District No. 905, commonly known as the Grady Consolidated Elementary District No. 905, was located in Martin County and was being operated as a common school district because of the number of its scholastics, and that its records were kept in the office of the county judge; that the First National Bank of Stanton, Martin County, Texas, was the depository for the funds of said school district; that the trustees thereof paid its financial obligations by issuing vouchers by which they authorized the county judge, as ex officio county school superintendent, to issue checks on the school’s depository fund in said bank to pay the accounts which they had approved.
+It was further shown that appellant operated a dry cleaning business in Stanton known as the Western Cleaners and, on December 7, 1953, purchased merchandise for his said business in the amount of $175.40 from the Southwest Fixture Company in Dallas; that on May 26, 1954, appellant issued and signed a check on the “Local Fund — Grady Consolidated Elementary of District No. 905” in the First National Bank of Stanton, with the notation thereon “Merchandise for school,” which he forwarded by mail to the Southwest Fixture Company, with a slip of paper attached to the check containing the following notation “I have let one of my schools have these fixtures, please credit my account, I am sorry for this delay. (Signed) James Mc-Morries”; that no voucher was issued or other authority given by said trustees for the purchase or payment of said merchandise; that said check was actually paid to Southwest Fixture Company out of said school’s funds by said depository bank in payment for the merchandise previously purchased by appellant for his own personal use.
+The evidence shows that all local tax funds belonging to the school district were deposited by its tax collector and the Texas Education Agency directly in the bank depository for said school and did not come into or pass through the hands of the trustees or the county judge — ex officio county school superintendent.
+Appellant, while testifying in his own behalf, admitted that he purchased and received the merchandise in question for his personal use and wrote said check to pay for said merchandise, and also wrote the note which he attached to the check, and mailed both to the Southwest Fixture Company with the intent that the note and the notation on the check cause it to be presented for payment and that the notation on the check be relied upon by the bank in paying it. He further stated that the money which paid this check was on deposit in the First National Bank of Stanton and belonged to the local fund of the Grady Independent School District; and that the trustees of said school did not at any time issue a voucher for the payment of said merchandise or in any manner authorize payment of the check here in question.
+By Bill of Exception No. 1, appellant contends that the court erred in submitting to the jury the issue of his guilt of theft by false pretext under Count No. 1 of the indictment. Appellant insists that the evidence shows he was in lawful possession of the school funds in his official capacity and that the court should have submitted under Count No. 3 of the indictment the offense of misapplication of funds as defined under Arts. 95 and 97, V.A.P.C.
+We find no statute authorizing appellant to act as the fiscal agent for said school district or to receive in his official capacity money belonging to said school district. The evidence shows that appellant was not empowered by said trustees to receive or hold any money for said school, or to write checks upon school funds in the bank depository without a voucher authorizing that the account be paid. Thus, the school funds were not in possession of appellant and, in the absence of his possession of such funds, he could not have been guilty of any offense defined by Arts. 95 and 97, supra. Warswick v. State, 36 Texas Cr. R. 63, 35 S.W. 386; Art. 2763, V.A.C.S.; Art. 2763a, V.A.C.S.; Art. 2832, V.A.C.S.
+Appellant contends that there is a fatal variance between the allegations in the indictment and the proof in that the evidence fails to show that he obtained any money as alleged in the indictment because the credit received on his account is incorporeal in its nature and could not be subject to theft.
+The evidence shows that the appellant obtained the money of the school district by a false pretext, designed and directed by him, through the use of the check, payable to his creditor and drawn on said school fund, by which he obtained and appropriated money belonging to the school district to his own use and benefit by the payment of his personal debt. We conclude that there is no fatal variance between the allegations in the indictment and the proof as to the property obtained from the school district and appropriated by appellant to his use and benefit. Berdell v. State, 87 Texas Cr. R. 310, 220 S.W. 1101; Wimer v. State, 120 Texas Cr. R. 576, 48 S.W. 2d 296; White v. State, 123 Texas Cr. R. 282, 58 S.W. 2d 530; Conner v. State, 133 Texas Cr. R. 429, 111 S.W. 2d 723.
+By Bill of Exception No. 2, appellant complains of the state being allowed to prove on cross-examination of the witness Dyer that he was a member of the grand jury that indicted appellant and that he had seen the check on which this case is based, over his objection that it was in violation of the statutes prohibiting the disclosure of evidence before a grand jury, and was prejudicial and inflammatory.
+This bill does not show that the witness saw the check in the grand jury room, or that he disclosed any matter in his testimony that occurred in the grand jury room. We perceive no error in this bill.
+By Bill of Exception No. 3, appellant contends that it was error to allow the state to prove by its witness Miles that appellant owed the school district $875, over his objection that such testimony was prejudicial, inflammatory and had no connection with the offense here charged and, by Bill No. 4, he further urges error because the state was allowed to prove by appellant, on cross-examination, after he had testified in his own defense, that he had drawn “two months salary far in advance of the time the same was due and converted the same to his own use” over his objection that the same was prejudicial, inflammatory and had no bearing on the present case.
+Appellant testified that the school district was in debt to him for certain services that he had rendered and that the check upon which this prosecution is based was intended by him to be in payment for such services which he thought would be approved by said school board.
+Under the facts here shown, the testimony as to the financial obligations between the appellant and the school district was admissible to rebut his evidence that the county was indebted to him as well as to show fraudulent intent. Sherman v. State, 124 Texas Cr. R. 273, 62 S.W. 2d 146.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the Court.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+There are so many reasons why this conviction should not be affirmed, I hardly know where to begin my dissent. I will start with the indictment which, upon its face, is fundamentally and fatally defective.
+The indictment upon which this conviction rests purports to charge felony theft, under Art. 1410, Vernon’s P.C. In order that there might be no question, I copy the indictment in full, as follows:
+“IN THE NAME AND BY AUTHORITY OF THE STATE OF TEXAS:
+“THE GRAND JURORS, for the County of Martin, State aforesaid, duly organized as such at the June Term, A. D. 1954, of the District Court of the 118th Judicial District for said County, upon their oaths in said Court present that James Mc-Morries on or about the 26th day of May, A. D. 1954, and anterior to the presentment of this Indictment, in the County of Martin and State of Texas, did then and there unlawfully and fraudulently take $175.40 in lawful money of the United States, of the value of $175.40, the same being the corporeal personal property of the Trustees for Grady Consolidated Independent School District No. 905, a body politic and corporate in law, same being generally known as Grady Consolidated Elementary School District, from the possession of the said school district, without the consent of the said school district, with the intent to deprive the said school district of the value thereof, and with the intent to appropriate it to the use and benefit of him, the said James McMorries.”
+Now what does that indictment charge? It charges that appellant stole $175.40 by fraudulently taking that sum of money from the possession of the Grady Consolidated Independent School District which was the “corporeal personal property of the Trustees” for that district, without the consent of the district.
+The trustees were alleged to be the owners of the money which was stolen from the school district without the consent of the school district. There is no allegation that the ownershro of the money by the trustees was for the school district, nor is there an allegation that the possession of the money by the school district was for the owners thereof. The school district was never alleged to be the owner of the money.
+As the indictment reads, then, it alleges that appellant stole the money from the school district which belonged to the trustees of the district. In any event, there is an entire absence of any allegation that the money was taken without the consent of the owner.
+Such an indictment is fatally defective because it omits that essential element of the crime of theft. Branch’s P.C., Sec. 2451.
+If the trustees owned the money as alleged, then, to be valid, the indictment must allege that it was taken without the consent of the trustees. If the money belonged to and was taken from the school district, there would have to be some allegation to that effect.
+The indictment, upon its face, does not charge the crime of theft. The judgment of conviction, therefore, does not rest upon a valid indictment.
+The state claims that the crime of theft, as charged in the indictment, was committed by appellant because of facts showing that he, as county judge and ex officio county school superintendent, drew and signed a check for $175.40, as county superintendent, against the funds of the Grady Independent School District on deposit with the First National Bank of Stanton, Texas, the depository of the funds of the county and school district.
+That check was made payable and delivered by appellant to a fixture company in payment of his personal and pre-existing indebtedness in that amount to that company.
+The depository bank paid the check and charged it against the funds of the school district.
+It is by these facts the state claims that appellant has been here legally convicted of the crime of theft by false pretext under the indictment in this case.
+Before looking to the legal effect of the claimed facts, it becomes material to ascertain what the state proved or did not prove to support its case.
+Firstly: The indictment alleged that appellant stole $175.40 “in lawful money of the United States,” which meant legal tender coins or legal tender currency of the United States (Cousins v. State, 154 Texas Cr. Rep. 5, 224 S.W. 2d 260). There is no proof, here, that appellant stole money, as alleged. The facts wholly fail to support that allegation of the indictment.
+Secondly: The indictment charged the taking of “corporeal personal property.” The property stolen was incorporeal and intangible, being a fund on deposit with a bank, or bank credit. In Bourland v. State, 133 Texas Cr. Rep. 544, 112 S.W. 2d 720, it was held that stock in a corporation was not corporeal personal property and not subject to theft. Equally so would be a bank deposit. See Mayse v. State, 156 Texas Cr. Rep. 360, 242 S.W. 2d 371, holding that a check is not money.
+The proof does not meet the allegation of the indictment that corporeal personal property was stolen.
+The foregoing errors are sufficient to require the reversal of this case. But these errors are insignificant in comparison with the following:
+The check by which it is claimed the theft was consummated was introduced in evidence by the state, and reads as follows:
+“STATE’S EXHIBIT NO. 1.
+No. 1349
+“THE FIRST NATIONAL BANK
+“STANTON, TEXAS 5-26 1954 88-722
+1123
+“PAY TO THE ORDER OF S. W. F. CO. $175.40 “One Hundred Seventy Five and 40/100 ----Dollars
+“This check is in full settlement of account as shown hereon. Acceptance by endorsement constitutes receipt in full.
+CHARGE TO LOCAL FUND GRADY CONSOLIDATED ELEMENTARY OF DIST. NO. 905.
+“MARTIN COUNTY SCHOOL FUND
+“By (Signed) James McMorries County, Supt.”
+“Written at the end of said check: ‘Merchandise for school’
+“In the upper lefthand corner in pencil: ‘Western Cleaners’
+“ENDORSED: ‘Pay to the order of MERCANTILA NATIONAL BANK AT DALLAS, For Deposit Only SOUTHWEST FIXTURE CO. INC.’ ”
+Attached to the check when it was received by the fixture company was the following notation:
+“STATE’S EXHIBIT NO. 3
+“ T have let one of my schools have these fixtures, please credit my account, I am sorry for this delay.
+“ ‘(Signed) James McMorries’”
+Upon its face, the check shows to be an order from the Martin County School Fund, acting by and through the county superintendent, to the First National Bank of Stanton, Texas, to pay $175.40 from the funds of the Martin County School Fund and charge that amount to the “Local Fund Grady Consolidated Elementary of Dist. No. 905.” So the practical effect of the check, then, is that Martin County School Fund ordered the bank to pay $175.40 from its funds on deposit with the bank. In paying that check, the bank did so from funds of the Martin County School Fund.
+Where, or how, or from whom Martin County School Fund was to be reimbursed for the payment is entirely secondary and a matter affecting only the Martin County School Fund and its funds. Certainly the check was not an order from the school district, or any one acting or purporting to act for it, to the bank to pay any money from funds of the school district on deposit with the bank.
+Obviously, therefore, the check was paid from the funds of the Martin County School Fund. If appellant stole anything by the check it was from the Martin County School Fund.
+This brings us to a consideration of the question as to whether the check could lawfully authorize the payment of funds belonging to the Martin County School Fund or of the school district.
+Being the depository, the bank was charged with notice that a county school superintendent has no authority to draw from the depository funds belonging to a county or school district. Custom or usage cannot change the law or confer upon the county superintendent authority to withdraw funds from a county or school depository. If the school district had $175.40 of its funds with the bank as depository and it is only by reason of the check here involved that it has lost that fund, then that amount is still in the bank, for this check could not have the legal effect of withdrawing that fund. Reynolds v. State, 130 Texas Cr. Rep. 78, 92 S.W. 2d 458; State v. Tyler County State Bank, et al, 277 S.W. 625; New Amsterdam Casualty Co. v. First National Bank of Gilmer, Texas, et al, 134 S.W. 2d 470.
+The purpose of the depository law and the requirements necessary to withdraw public funds from a depository was to prevent the occurrence of instances such as here presented— that is, the honoring of checks, drafts, or vouchers drawn against such funds without authority and compliance with the conditions precedent to a valid withdrawal.
+Appellant has not stolen or converted to his own use any money or funds of the school district.
+I dissent from the affirmance of his conviction.
