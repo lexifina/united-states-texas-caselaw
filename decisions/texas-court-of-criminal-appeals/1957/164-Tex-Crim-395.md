@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,726"
+decided: "1957-01-30"
+citations: ["164 Tex. Crim. 395"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bobby Lott v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0395-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2612428
+cites_cases: ["104 Texas Cr. Rep. 619", "149 Texas Cr. Rep. 294", "160 Texas Cr. Rep. 646", "161 Texas Cr. Rep. 384", "162 Texas Cr. Rep. 85", "193 S.W. 2d 527", "261 S.W. 773", "274 S.W. 2d 408", "277 S.W. 2d 107", "282 S.W. 2d 224", "286 S.W. 214", "97 Texas Cr. Rep. 390"]
+---
+
+# Lott v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The appellant was tried under an indictment charging assault with intent to murder, and the jury found him guilty of aggravated assault and assessed his punishment at two years’ confinement in the county jail.
+The record is voluminous and will be summarized.
+The injured party, an airman from Carswell Air Force Base, sustained four or more serious knife wounds at the hands of the appellant while in the men’s restroom at the Do and Don’t Lounge in the city of Fort Worth.
+The injured party and his companions testified that the assault was unprovoked and was of a brutal nature, and the appellant and his companion fled the scene.
+The appellant did not testify but offered some of his companions who stated that prior to the assault the injured party had tried to talk to the appellant’s lady friend and that the injured party was the aggressor after the parties arrived in the restroom.
+There was a great deal of evidence relating to efforts on the part of the appellant to persuade the injured party to drop the prosecution.
+The jury resolved the conflict in the evidence against the appellant, and the evidence amply supports its verdict.
+We shall discuss the bills of exception advanced in the appellant’s brief.
+The motion for instructed verdict was predicated upon a variance in names. The indictment alleged the assaulted party to be “Billy Walker.” When called as a witness, he stated that his name was “Billie J. Walker.” The words “Billy” and “Billie” are idem sonans. Pierce v. State, 160 Texas Cr. Rep. 646, 274 S.W. 2d 408, and Raven v. State, 149 Texas Cr. Rep. 294, 193 S.W. 2d 527. The addition of a middle initial does not create a variance. Brown v. State, 162 Texas Cr. Rep. 85, 282 S.W. 2d 224, and cases there cited. See also Branch’s Ann. P.C. (2nd Ed.) Vol. 1, Sec. 482, p. 469, and cases cited under Article 401, V.A.C.C.P. The cases cited by the appellant relate to a variance in the first name, which did not meet the test of idem sonans.
+Bills of Exception Nos. 2 and 3 recite that the prosecutor in his argument referred to the appellant as a “thug” and a “butcher.”
+The number and severity of the wounds inflicted upon the person of the unarmed injured party would certainly authorize the prosecutor to refer to the appellant as a “butcher.”
+At least one of the appellant’s companions and defense witnesses was shown to be an ex-convict, while another was shown to have been armed with a pistol on the occasion in question. There was no evidence that would indicate that the appellant was engaged in any gainful employment. The evidence places him around bars during normal working hours, and much of the language attributed to the appellant and his companions is in the vernacular of the underworld.
+We have concluded that in view-of the evidence, the use of the words mentioned did not constitute reversible error. Gray v. State, 161 Texas Cr. Rep. 384, 277 S.W. 2d 107, and Marshall v. State, 104 Texas Cr. Rep. 619; 286 S.W. 214.
+Bill of Exception No. 4 complains of the following occurrence :
+“* * * after arguments by both State and defense and while the jury was deliberating the Court being on the bench allowed a Bailiff of the Court to present a knife to the jury upon their request and the defendant having not been present in the court, said Court being in recess, to which the defendant had no opportunity to object, his having not been in the courtroom at the time of the transaction * * * .”
+The court qualified the bill with this recitation: “* * * said knife having been previously admitted in evidence as Exhibit #1.”
+In Bell v. State, 97 Texas Cr. Rep. 390, 261 S.W. 773, this court had before it a parallel situation to that set forth above. In that case, we said:
+“In his motion for new trial appellant sets up misconduct of the jury. If the things testified to as such misconduct be given their full legal effect, we would not think same amounted to misconduct and certainly not misconduct on the part of the jury. A map or diagram of the scene of the killing was introduced in evidence, as was also the pistol used by the deceased. Both of these articles were left in the courtroom when the jury retired to deliberate, and at some time during their deliberations they sent for said articles which were delivered to them. It is alleged that this was done in the absence of the defendant. We do not think the fact that a deputy sheriff got them and carried them to the jury or that they were handed to the deputy sheriff by some one else, would make of this action any misconduct. It has been often held that the taking of demonstrative evidence by the jury in their retirement constitutes no reversible error in itself, and the fact that the jury requested some officer of the court to bring said articles to their jury room would seem to us no more objectionable than if they themselves had gone in a body to the courtroom and had secured said articles and taken them to the jury room. There is no claim but that both articles were in evidence; nor is it claimed that any improper use was made of either in the jury room.”
+Finding no reversible error, the judgment of the trial court is affirmed.
