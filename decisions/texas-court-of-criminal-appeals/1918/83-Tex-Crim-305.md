@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "4974"
+decided: "1918-04-24"
+citations: ["83 Tex. Crim. 305", "203 S.W. 49"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Mizell v. The State."]
+source_url: "https://static.case.law/tex-crim/83/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4762422
+cites_cases: ["1 Blackf. (Ind.) 37", "1 Blackf. (Ind.), 37", "102 Va. 927", "105 Mo. App. 333", "108 S. W. 651", "108 S. W. Rep., 651", "112 N. W. 606", "112 N. W. Rep., 606", "130 Ala. 92", "133 S. W. 251", "133 S. W. Rep., 251", "134 Am. St. Rep. 357", "136 S. W. 45", "136 S. W. Rep., 45", "152 U. S. 539", "153 U. S., 539", "167 S. W. 40", "167 S. W. Rep., 40", "169 S. W. 899", "169 S. W. Rep., 899", "170 U. S. 402", "170 U. S., 402", "197 S. W. 300", "197 S. W. Rep., 300", "23 South. 854", "243 Ill. 208", "30 Colo. 298", "30 Colo., 298", "30 So. Rep., 474", "30 South. 474", "35 Texas Crim. Rep., 174", "40 Fla. 203", "40 Fla., 203", "46 S. E. 789", "46 S. E. Rep., 789", "46 Tex. Cr. R. 100", "49 Tex. Cr. R. 435", "49 Texas Crim. Rep., 435", "53 Tex. Cr. R, 6", "53 Texas Crim. Rep., 6", "58 So. Rep., 49", "58 South. 49", "60 Tex. Cr. R. 631", "60 Texas Crim. Rep., 631", "60 Texas Crim. Rep., 681", "61 Tex. Cr. R. 611", "61 Texas Crim. Rep., 611", "63 Fla. 12", "63 Ind. 376", "63 Ind., 376", "70 Ind. 247", "70 Ind. 317", "70 Ind., 247", "70 Ind., 317", "70 Pac. 417", "70 S. W. 264", "70 S. W. Rep., 264", "74 Tex. Cr. R. 40", "74 Texas Crim. Rep., 46", "75 Tex. Cr. R. 22", "75 Texas Crim. Rep., 22", "79 Neb. 309", "79 S. W. 301", "79 S. W. 992", "79 S. W. Rep., 301", "79 S. W. Rep., 990", "82 Ind. 228", "82 Ind., 228", "90 N. E. 731", "90 N. E. Rep., 731", "93 S. W. 742", "93 S. W. Rep., 742", "96 Mo. App. 347"]
+---
+
+# Mizell v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+This conviction was for incest. The history of the case and the questions involved for decision may he ^ briefly stated as follows: An indictment was preferred against appellant containing two counts, one for rape and the other for incest. There was a trial before a jury on both counts, the jury convicting under the count ¡ charging rape. From this conviction an appeal was prosecuted, and this court reversed the judgment, the case being reported in 197 S. W. Rep., 300. In that trial both counts were submitted to the jury by the charge of the court, and the jury specifically found for the State on the count charging rape. Hpon the last trial the count as to rape was dismissed, j and appellant was tried upon the incest count.
+The contention was in the trial court and is here urged that on the first trial appellant was acquitted of the incest by the conviction for the ' rape under the circumstances already stated. This proposition is sound under all of our authorities. There is a kindred proposition that may I also be asserted, that where an indictment contains two counts and the appellant had plead to the indictment containing the two counts, and ! after such plea and empanelment of the jury either is dismissed or abandoned by the State, and he is tried upon the remaining count or . counts, as to those dismissed he can not be again tried. There are a great number of authorities hearing upon this proposition. See Elliott v. State, 49 Texas Crim. Rep., 435. In that case the defendant was ¡ convicted upon an indictment charging rape in one count and incest in another, the conviction being for rape. The second count having been < ignored, the said indictment could not be used to predicate a subsequent i prosecution for incest. That case is in line with the authorities on the question. See also Betts v. State, 60 Texas Crim. Rep., 681, 133 S. W. Rep., 251; Millner v. State, 75 Texas Crim. Rep., 22, 169 S. W. Rep., 899: Hewitt v. State, 74 Texas Crim. Rep., 46, 167 S. W. Rep., 40; Elliott v. State, 49 Texas Crim. Rep., 435, 93 S. W. Rep., 742; Parks v. State, 79 S. W. Rep., 301; Davis v. State, 61 Texas Crim. Rep., 611, 136 S. W. Rep., 45; Hooten v. State, 53 Texas Crim. Rep., 6, 108 S. W. Rep., 651; Jolly v. United States, 170 U. S., 402; Dealy v. United States, 153 U. S., 539; Cox v. State, 58 So. Rep., 49; People v. Weil, 90 N. E. Rep., 731; Ford v. State, 112 N. W. Rep., 606; State v. McAnally, 79 S. W. Rep., 990; State v. Maurer, 70 S. W. Rep., 264; Parrish v. State, 30 So. Rep., 474; Smith v. State, 40 Fla., 203; Morris v. State, 1 Blackf. (Ind.), 37; Short v. State, 63 Ind., 376; Dickerson v. State, 70 Ind., 247; Lamphier v. State, 70 Ind., 317; Stewart v. Commonwealth, 28 Crat., 950; Bigcraft v. People, 30 Colo., 298; Beaty v. State, 82 Ind., 228; Johnson v. Commonwealth, 46 S. E. Rep., 789.
+It is not the purpose of this opinion to go any further into a review of this question. Appellant’s position is correct. Under the first trial of the case appellant was acquitted of the charge of incest. The conviction for the rape under the peculiar facts and circumstances of this, case was an acquittal of the incest as the jury passed upon both necessarily in order to reach a conclusion in their verdict on the first trial.
+The judgment will be reversed and the cause remanded.
+Reversed and remanded.
+PRENDERGAST, Judge, absent.
