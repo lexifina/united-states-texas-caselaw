@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,598"
+decided: "1955-05-11"
+citations: ["161 Tex. Crim. 454"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nathaniel Clough v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0454-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2465519
+cites_cases: ["215 S.W. 2d 344", "42 S.W. 2d 421"]
+---
+
+# Clough v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Under an indicment charging murder with malice, appellant was convicted of murder without malice and his punishment assessed at confinement in the penitentiary for five years.
+The appellant, twenty years of age, and the deceased and others all of teen-age went to a party. Appellant, not invited to the party, went along with Barryman, who was.
+A dispute arose between Bracken, nephew of appellant, and James Coleman, the deceased.
+The state’s testimony shows that appellant shot the deceased through the head with a small-caliber pistol which Bracken handed to him while the dispute or trouble was in progress.
+Appellant admitted having fired the shot but contended that he did so only to scare the deceased, with no intent to kill, and because the deceased and others who had joined the group were advancing upon him.
+The issues arising under the facts touching a killing in self-defense were pertinently submitted by the trial court to the jury.
+We are in accord with the contention of the state that the facts warrant the jury’s conclusion of guilt. Appellant’s contention to the contrary is overruled.
+After his arrest, appellant was interrogated by the officers, during which interrogation and conversation he told them where the pistol with which the killing had been committed might be found. Appellant objected to this testimony because it was made while he was under arrest and without compliance with the provisions of Art. 727, C.C.P.
+We note that appellant testified that he delivered to the officers the gun with which he admitted having shot the deceased.
+Having testified to facts to which he was objecting, appellant cannot be heard to complain. Johnson v. State, 118 Texas Cr. R. 293, 42 S.W. 2d 421.
+Complaint is made of the action of the court in permitting the state to call in rebuttal a witness to the killing, over appellant’s objection that the witness should have been called to testify upon the presentation of the state’s case in chief.
+This was a matter addressed to the discretion of the trial court. Gallegos v. State, 152 Texas Cr. R. 508, 215 S.W. 2d 344; 42 Texas Jur. 98, Sec. 72. No abuse of that discretion is here shown.
+Inasmuch as appellant preserved no exceptions or objections to the charge of the court, we are not authorized to consider his contention that a charge of specific intent to kill should have been given.
+Finding no reversible error, the judgment is affirmed.
