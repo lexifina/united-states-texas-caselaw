@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,783"
+decided: "1961-02-15"
+citations: ["170 Tex. Crim. 570"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Billy E. Parker v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0570-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2627454
+cites_cases: ["165 Tex. Cr. R. 441", "308 S.W. 2d 29", "336 S.W. 2d 431"]
+---
+
+# Parker v. State
+
+## Majority (BELCHER, Judge)
+
+BELCHER, Judge
+The prior opinion is withdrawn.
+This is a conviction for unlawfully passing a worthless check, a misdemeanor with punishment assessed at 10 days in jail and a fine of $25. On a former appeal of this case it was affirmed as shown by the opinion reported in Tex. Cr. Rep. 6, 336 S.W. 2d 431.
+By entry of judgment nunc pro tunc the original judgment has been reformed to correctly reflect that the appellant plead not guilty in the trial court rather than guilty. It is from this reformed judgment that appellant prosecutes this appeal.
+Appellant again contends that the evidence is insufficient to support the conviction and also that a material variance exists between the proof and the allegations contained in the information.
+The information alleges that, in exchange for $7 cash, the appellant, with fraudulent intent, gave the injured party a $17 check drawn on his bank account knowing at the time that he had insufficient funds in the account to pay the check and that the check was returned unpaid for that reason.
+The proof shows that the appellant first gave the injured party a check for $7 and received in return a ring and $2 in cash. A short time later, the appellant returned stating that he wanted a second ring and an additional $5 cash. Appellant then drew a check for $17, gave it to the injured party, his original check for $7 was destroyed and the injured party gave him another ring and $5 cash.
+The assistant cashier at appellant’s bank testified that he had care and control of the bank’s customer deposit records and that the $17 check was presented for payment in due course and was returned unpaid because of insufficient funds in the appellant’s account.
+On direct examination the injured party testified that the appellant received 2 rings and $7 cash for the $17 check and on cross-examination he stated in effect that appellant received $5.
+The averment in the information that appellant rceived $7 in exchange for the check is not descriptive of the offense charged and proof of the receipt of $5 is sufficient to support the allegation. No variance is presented. Malazzo v. State, 165 Tex. Cr. R. 441, 308 S.W. 2d 29.
+Finding the evidence sufficient to support the conviction, the judgment is affirmed.
+Opinion approved by the Court.
