@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "6053"
+decided: "1921-01-12"
+citations: ["88 Tex. Crim. 346", "227 S.W. 301"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Welch v. The State."]
+source_url: "https://static.case.law/tex-crim/88/cases/0346-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4800387
+cites_cases: ["166 S. W. Rep., 1150", "180 S. W. 1089", "56 Texas Crim. Rep., 360", "78 Tex. Cr. R. 158", "78 Texas Crim. Rep., 158"]
+---
+
+# Welch v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was indicted for perjury. The verdict grew out of a murder trial in which he testified for the defendant. There was another witness named Miller who testified in the murder trial to the same facts substantially, if not exactly. It seems from the record that Miller was also indicted for perjury. During his trial appellant offered Miller as a witness, but on objection of the State, he was not permitted to testify, the assigned reason being that he was indicted for the same offense, or for a matter growing out of the same offense. Substantially, this phase of the case may be thus stated: Both witnesses, Miller and appellant, testified that on Sunday evening, before the homicide the following Friday, they met a party named Shirley and had a conversation with him with reference to finding the skin and other remnants of a hog that had been butchered in Shirley’s field. Shirley stated the deceased had been killing hogs and throwing the offal in his field so as to cast suspicion upon' him; that he was tired' of it and purposed to kill him, and that he had with him at the time a new automatic shotgun. The testimony is only substantially stated. Upon this testimony perjury was assigned, and, of course, in order to convict appellant it must be shown that no such conversation or matters occurred as assigned for perjury and as testified on the trial of the homicide case. We are of opinion that the court was in error in refusing to permit the witness Miller to testify. It was not shown that they had acted together in forming a conspiracy to commit perjury, or had agreed among themselves to commit perjury, but the case stands so that each witness, Miller and defendant, testified to the facts and the conversation having occurred as stated. Miller, therefore, was a competent witness. Independent of "a conspiracy to commit perjury and manufacture testimony of a material nature, the fact that two witnesses testify substantially to the same facts and are indicted for perjury, would not render one of them not a witness for the other. In order to avoid this, if it could be avoided at all, there must be shown collusion and an agreement among them to fabricate testimony and produce it before the jury, and that it was false. This question came for review in Clayton v. State, 78 Texas Crim. Rep., 158, where the rule was laid down as above announced. This quotation is made from the opinion of Judge Harper in the above case: “That two or more witnesses were indicted for perjury on account of their testimony in a given case, would not render them incompetent, unless it was contended they had entered into a conspiracy to do so, and they had been so indicted. An indictment does not render a person incompetent as a witness, unless the witness is charged with being an accomplice, accessory or principal in the commission of an offense for which the person is on trial. Art. 791, C. C. P. Secker v. State, 28 Texas Crim. App., 479; Gray v. State, 24 Texas Crim. App., 611; Anderson v. State, 56 Texas Crim. Rep., 360, is strictly in point.” It would be useless to discuss this matter further in view of these decisions.. Appellant was entitled to have the testimony of the witness Miller before the jury.
+There is some question raised with reference to the charge of the court in not fully submitting the issue of perjury. The indictment does not set out different averments in charging the perjury in regard to the different statements, but does allege in solido. When this is the condition of the charging part of the indictment the court must fully charge that all the facts alleged must be shown to be false else there could be no conviction for perjury. Having alleged it in solido and that all the testimony alleged to be false was in fact false, the State must so prove it in order to secure a conviction, and the court’s charge must conform literally to the allegations in the indictment. This is mentioned in passing so that upon another trial any criticism along that line may be avoided.
+The matters with reference to the alleged errors in regard to overruling the application for continuance and the misconduct of the jury will not be reviewed. These may not occur upon another trial as here indicated, and the questions may not arise at all.
+The judgment will be reversed and the cause remanded.
+Reversed and remanded.
