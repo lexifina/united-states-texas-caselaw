@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Texas"
+docket: "XV"
+decided: "1843-06"
+citations: ["1 Dallam 523"]
+reporter: "dallam"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Kent, Administrator, etc., v. Alfred Kelso, Sheriff, etc."]
+source_url: "https://static.case.law/dallam/1/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12189683
+---
+
+# Kent v. Kelso
+
+## Majority (BAYLOR, Justice.)
+
+BAYLOR, Justice.
+Joseph Kent, administrator of the estate of Andrew Kent, deceased, filed his petition in the court below, alleging that by virtue of a decree of the probate court for Gonzales County he offered for sale, on the 6th day of October, A. D. 1840, on a credit of six months, a certain parcel of land belonging to the estate of the said Andrew Kent, deceased, containing 800 acres, being a part of the headright league of the said Kent, deceased, situated in the county of Gonzales. At which sale one Miles Dick became the purchaser thereof, and gave his bond with James B. Patrick as his security for the purchase money. That upon default of payment of the amount secured by said bond, the said administrator was entitled by virtue of the statute in such cases made and provided, as well as by the tenor, effect and condition of said bond, to sue out an execution from the probate court for Gonzales County, and by virtue of said execution to sell the property of the said Dicks, or that of his security, for cash to the highest bidder without ap-praisement. But thereafter, in August, A. D. 1840, upon default of the payment of the sum of money secured by the bond, the said administrator obtained from the probate court for Gonzales County an execution, directed to the sheriff of said county, commanding him that of the goods and chattels, lands and tenements, of the said Dicks, and his security Patrick, he levy and sell sufficient thereof to satisfy the amount of said bond, together with the interest and costs thereon. The said administrator further alleges that Alfred Kelso, the sheriff of said county refused to sell the prperty of the defendants, Dicks and Patrick, without appraisement, and prayed the court below for a mandamus to compel him to do so, or show cause why he had failed to make the money on said execution; that the sheriff be cited to appear, etc. At the next term of the district court for Gonzales County, the sheriff came into open court and acknowledged service of the process. Whereupon the court rendered the following judgment and decree: “Came the parties, by their attorneys, and the defendant having, by indorsement on the petition, admitted the grant, issuance and service of the alternative mandamus prayed for and now in court, declaring his inability to know his duty in regard to the sale mentioned in the petition, without the instruction of the court, and submitting in all things to the order and decree of the court in the premises, it is therefore ordered and decreed by the court, that he make sale of the property, by the petitioner in the case mentioned in the petition, for cash, to the highest bidder, without appraisement,” etc. From which judgment and decree the said Miles Dicks, one of the defendants in the execution, prayed an appeal, and seeks to reverse it here on various grounds—the first of which we deem it necessary only to notice, as that will in our judgment be decisive of the case. It is objected by Dicks that the execution mentioned in the petition for a mandamus improperly issued from the probate court, that court having no jurisdiction over the subject matter; but that the district court is the proper tribunal to resort to for judgment and execution, and to that court only, which has exclusive original jurisdiction in the premises. We think the objection well taken, there being no law conferring jurisdiction on the probate court in such cases. It is well settled that consent of parties can not give jurisdiction. The execution in this instance was a mere nullity, having emanated from a court which had no jurisdiction over the subject matter. It must therefore be quashed, the judgment and decree of the court below annulled, set aside and reversed.
+Reversed.
