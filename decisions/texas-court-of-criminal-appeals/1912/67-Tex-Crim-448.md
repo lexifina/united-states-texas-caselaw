@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1621"
+decided: "1912-06-26"
+citations: ["67 Tex. Crim. 448"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marcellus Penton v. The State."]
+source_url: "https://static.case.law/tex-crim/67/cases/0448-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4640033
+cites_cases: ["132 S. W. Rep., 941", "37 Texas Crim. Rep., 500", "60 S. W. Rep., 48", "69 S. W. Rep., 159"]
+---
+
+# Penton v. State
+
+## Majority (HARPER, Judge.—Appellant)
+
+HARPER, Judge.—Appellant
+was indicted for murder, but having been tried once before and found guilty of manslaughter only, on this trial the court submitted only the issue of manslaughter, and he was found guilty, and his punishment assessed at three years confinement in the penitentiary.
+The first ground in the motion complains that the court erred in failing to charge on aggravated assault, as the instrument with which deceased was killed was an axe. Every case must be decided on the facts of that case, and under the evidence we do not think it called for a charge on aggravated assault. Charlie Sims testified that deceased’s wife came running in the room exclaiming: "Lordy! them men stood out there and let that man kill my husband,” when he went out by the fire, and when he got there deceased was lying on the ground on his face, and defendant was standing over him with an axe in his hand, and just as he ran up, defendant struck deceased in the head, exclaiming, “Damn you, I will kill you and pay for it.” Deceased’s brains were running out of his head. Defendant testified that he picked up an axe and struck deceased with it; that he struck him three times, knocking deceased down at the first blow. His testimony would present a case of self-defense, but he testifies to no fact or circumstance that would indicate he did not intend to kill deceased when he struck the blows with the axe, and under such circumstances a charge on aggravated assault was not called for, and it was not necessary for the court to define or give the meaning of the words “deadly weapon.”
+The only bill of exceptions in the record complains that while J. E. Lyles was testifying, appellant proposed to prove by him that he got to the body a few minutes after the killing and heard someone say: “If you had let me have the pistol' I could have gotten him.” Defendant had fled at this time, and deceased was lying on the ground dead. So neither one of them could have used the language. The witness would have also testified he did not know who used the language. As there is no suggestion in the record that anyone else was engaged in the difficulty other than defendant and deceased, and this remark was made by someone else subsequent to the difficulty, there was no error in the ruling of the court.
+The charge on self-defense did not shift the burden of proof, and neither did it submit the grounds of self-defensé in the conjunctive. The court charged the jury: “If deceased had done' some act, which alone, or by words accompanying the act,” etc. The word “or” is used where “and” is used in the authorities cited by appellant as sustaining his contention. Three of the special charges requested by appellant weré given, and these in connection with the court’s main charge presented every phase of self-defense raised by the evidence, and if there had been any slight error in the court’s charge on self-defense, the special charges given would and did cure it.
+The testimony of the witnesses Charlie Sims, Cappie Sims, and Mollie Eisher as to the difficulty in the house between appellant and deceased, went in without objection, and the refusal of special charge Ho. 2 presents no error. The evidence was admissible as tending to show the motive for the killing, and the court in special charge Ho. 1 given at appellant’s request, properly limited the purpose of the testimony, and it was unnecessary to give any additional instruction in regard thereto.
+The evidence is conflicting as to defendant’s right of self-defense on the occasion, but the great weight of the testimony seems to be there was no ■ shooting until after deceased had been stricken down, and this issue, as raised by the testimony, was fairly and fully submitted by the court in his charge and the special charges given.
+The judgment is affirmed.
+Affirmed.
