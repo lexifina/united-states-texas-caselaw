@@ -1,0 +1,22 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "814"
+decided: "1897-03-03"
+citations: ["37 Tex. Crim. 257"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["O. A. Eylar v. The State."]
+source_url: "https://static.case.law/tex-crim/37/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 161337
+cites_cases: ["31 Tex. Crim. Rep., 517"]
+---
+
+# Eylar v. State
+
+## Majority (HENDERSON, Judge.)
+
+HENDERSON, Judge.
+Appellant was convicted of a misdemeanor, and his punishment assessed at a fine of §75, and he prosecutes this appeal. He insists that' the' indictment in this case is insufficient upon which to predicate a conviction, and that his motion to quash ought to have been sustained. The indictment, as to the charging part, is as follows: “That O. A. Bylar, on or about the 29th day of March, 1895, and anterior to the presentment of this indictment, in the county of Navarro and State of Texas, did then and there unlawfully rent to J. H. Rogers a house and rooms thereof for the purpose of being used as a place for playing games with cards, dice, and dominoes, and dealing and exhibiting faro, monte, vingtetun, rouge et noir, roulette, A. B. C., chuck-a-luck, keno, pool, rondo, and other games inhibited by law,” etc. In the first place, it is contended that this indictment fails to charge the venue of the offense. By reference to the allegation of venue, it will, be seen that there is no question that the rental contract was made in Navarro County, but, as we understand it, this is not the offense inhibited by the statute. The house rented must be situated in the county where the prosecution is instituted. If appellant made a rental contract for such a house in Navarro County, and the house was situated in another county of this State, the venue of the case would be in the county where the house was situated, not hi the county where the contract was made. We are of opinion that the indictment should have alleged that the house rented was in the county where the prosecution was instituted. We are not attempting to prescribe a form for the indictment. If it sufficiently appears from the indictment that the house is situated in the county where the prosecution is commenced, so far as this question is concerned it would be sufficient. The indictment in this case does not show this. The allegation of venue ought to appear as a distinct averment, and there should be no question about this. We do not believe that the allegation that the rental contract is alleged to have occurred in Navarro County is sufficient to show that the house was situated in that county. In our opinion, the indictment does not sufficiently charge the venue of this offense. It is also insisted that the indictment is defective, because it does not show on its face that the alleged games were in violation of the statutory law of this State. As to the allegation that said house was rented for the purpose of being used as a place for playing games with cards, it is not shown in that connection that said house was any one of the houses inhibited by the statute for playing at games with cards, and the same can be said as to the dice and dominoes. And furthermore, as to' these two latter, games, it is not averred that said house was not a private residence. With reference to dealing and exhibiting banking and table games, said charge in the indictment does not allege that they were so kept, dealt, or exhibited for the purpose of gaming. This is an indictment for renting a house for the purpose of playing certain games prohibited by the statute, and enough must be charged in connection with the game alleged to show that said game was an unlawful game. In this indictment none of the games stated are shown by allegation to be unlawful. See, Wallace v. State, 12 Tex. Crim. App., 479; Tummins v. State, 18 Tex. Crim. App., 13; Bacchus v. State, 18 Tex. Crim. App., 15; Borders v. State, 24 Tex. Crim. App., 333. There are other assignments of error in the record, but, in the view we have taken of the assignments as to the validity of the indictment, it is not necessary to discuss them. Because the indictment is insufficient, the motion to quash the same should have been sustained, and the judgment of the lower court is accordingly reversed, and the cause ordered dismissed.
+Reversed and Ordered Dismissed.
