@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "20,653"
+decided: "1939-12-06"
+citations: ["138 Tex. Crim. 283"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pete Riley v. The State."]
+source_url: "https://static.case.law/tex-crim/138/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5273433
+cites_cases: ["128 S. W. (2d) 807", "231 S. W. 763", "231 S. W. 769", "232 S. W. 319", "89 Tex. Cr. R. 402", "89 Tex. Cr. R. 478", "89 Tex. Cr. R. 493"]
+---
+
+# Riley v. State
+
+## Majority (HAWKINS, Presiding Judge.)
+
+HAWKINS, Presiding Judge.
+Conviction is for robbery, punishment being five years in the penitentiary.
+This case has been before us under No. 20,431 on our court docket and is reported in 128 S. W. (2d) 807.
+Appellant was convicted at the November term, 1938, of the District Court of Potter County. His motion for new trial was overruled on the last day of the term, and appellant gave notice of appeal to the Court of Criminal Appeals. The trial court adjourned for the term without sentence having been pronounced against appellant. At the January term, 1939, of said court sentence was pronounced against appellant, but at that time the jurisdiction of this court had attached. It became necessary to dismiss the former appeal because of no sentence, the one attempted to be pronounced being inoperative.
+After the mandate of this court ordering the dismissal reached the trial court the judge thereof on June 17, 1939, again passed sentence upon appellant, directing punishment as assessed in the judgment of conviction at the November term, 1938, of said court.
+On July 6, 1939, appellant filed his affidavit stating that he still desired to appeal his case and that he “is unable to pay the cost of appeal or to give security therefor, and is unable to pay for the statement of facts in such case nor the transcript therein, nor to give security therefor.” On July 18th, 1939, the trial court made an order relating to appellant’s affidavit as follows: “And the Court having heard and considered the same, finds that defendant has heretofore been furnished a statement of facts and a transcript upon a former affidavit, that there has been no additional testimony in the case since former statement of facts was so furnished to the defendant, and that it would be a vain and useless thing to require the official court reporter to prepare and furnish a second statement of facts that would be an exact duplicate of the one heretofore furnished. The Court further finds that it could serve no useful purpose to require the clerk of the court to prepare and furnish defendant another transcript complete in this case, which would be for the most part an exact duplicate of the one heretofore furnished. The Court does find that defendant is entitled to have the clerk of this court prepare and furnish to him a supplemental transcript containing all pleadings, motions, orders, judgments, sentence, and other proceedings had in this case not included in said original transcript, without his being required to pay for the same or to give security therefor, as provided by law in such cases; and it is hereby ordered by the Court that it be so done.”
+With the record in the present case in the condition indicated appellant insists that he is entitled to have the judgment of conviction reversed because he has been deprived of a statement of facts, further insisting that the present case is an entirely different case than the one which was before us in our court docket No. 20431, and that we have no right to refer to that case for the facts. He relies upon 4 Tex. Jur. p. 402, Sec. 271, and the authorities there cited as supporting his position, and especially upon Searcy v. State, 89 Tex. Cr. R. 478, 232 S. W. 319 Theilepapa v. State, 89 Tex. Cr. R. 493, 231 S. W. 769, and Patterson v. State, 89 Tex. Cr. R. 402, 231 S. W. 763. An examination of these cases reveals that they have reference to different cases in fact. Not so here. While the docket number in this court is different, the trial court number is the same, and the certificate of the trial judge and the entire record show the cases to be the same, and reflect only different phases of procedure in the same prosecution. Of course, appellant is not to blame because the trial term at which he was convicted adjourned without sentence being pronounced, nor is he to blame because the trial court undertook to sentence him at a time when jurisdiction had been lost to the trial court by a pending appeal to this court. On the other hand, appellant, is to blame for prosecuting a premature appeal before sentence had been pronounced, thereby aiding in confusion of the record. If we should accede to appellant’s present contention that no reference whatever may be had to the record before us in No. 20,431 he would find himself embarrassed by the absence of any notice of appeal from the sentence which was finally legally pronounced against him.
+So far as we know there is no precedent to guide us in the present situation. We have concluded that it would be unfair both to the State and to appellant not to consider a statement of facts which has not only the approval of the trial court and district attorney, but the approval also of appellant’s counsel, in view of the trial judge’s recital that no “additional testimony” is in the record not reflected by said statement of facts.
+The facts leave no room for doubt that appellant and a companion robbed the injured party of $27.00 in money and a wrist watch. The jury was warranted under the facts in discarding as fantastic appellant’s claim that his companion won the money and watch from the injured party in a card game.
+The judgment is affirmed.
+
+## Rehearing (CHRISTIAN, Judge.)
+
+ON APPELANT’S MOTION FOR REHEARING.
+CHRISTIAN, Judge.
+After carefully re-examining the record in the light of appellant’s motion for rehearing, we are constrained to adhere to the conclusion expressed in the original opinion.
+The motion for rehearing is overruled.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
