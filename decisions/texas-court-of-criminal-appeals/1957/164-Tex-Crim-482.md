@@ -1,0 +1,65 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,868"
+decided: "1957-03-06"
+citations: ["164 Tex. Crim. 482"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Hale v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0482-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2609910
+cites_cases: ["100 S.W. 375", "103 Texas Cr. Rep. 426", "127 Texas Cr. Rep. 55", "149 Texas Cr. Rep. 294", "156 Texas Cr. Rep. 218", "157 Texas Cr. Rep. 150", "157 Texas Cr. Rep. 266", "160 Texas Cr. Rep. 646", "188 S.W. 983", "193 S.W. 2d 527", "2 S.W. 631", "234 S.W. 541", "240 S.W. 2d 297", "247 S.W. 2d 400", "248 S.W. 2d 479", "274 S.W. 2d 408", "289 S.W. 49", "36 Texas Cr. Rep. 385", "37 S.W. 429", "75 S.W. 2d 116", "80 Texas Cr. Rep. 82", "90 Texas Cr. Rep. 329"]
+---
+
+# Hale v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is assault with intent to rape; punishment, ten years.
+The 49-year-old appellant and his family resided near the home of the 6-yeár-old prosecutrix in a rural section of Van Zandt County.
+According to the prosecutrix’ parents, on the night in question the appellant came to their home, secured their consent to take the prosecutrix to his home to spend the night so that his wife might give her a hairdo and fit her with a dress for a school event on the day following.
+The appellant, testifying in his own behalf, stated that he was intoxicated on the occasion in question, admitted that he left the prosecutrix’ home with her that night and that when he woke up the following morning he was at his home alone with the little girl. The appellant’s wife testified that she and her children did not spend the night at their home becáuse she was afraid of the appellant when he was intoxicated.
+Both the appellant and his wife testified that he had sustained an injury sometime prior to the occasion in question and that he had been unable to perform an act of intercourse since and, further, that he was not able to have an act of intercourse while he was drinking.
+We now return to the state’s case in chief. Prosecutrix’ father testified that he went to the appellant’s home the following morning and found prosecutrix crying, that he carried her home, and she reported to him immediately that the appellant had hurt her, indicating the area of her vagina and rectum, and that he had done so with “his old thing.” '
+Prosecutrix’ grandmother was summoned, found the child crying, examined her vagina and rectum, found the vagina to be torn, the entire area of the vagina and rectum to be sore, noticed that the child walked “spraddle-legged,” which was entirely different from the way the child had walked on the day preceding.
+The officers were called, and the child was carried to Dr. Marsh for examination. We quote from his testimony as follows :
+“So far as the vulva of the so-called female private parts, it was red, inflamed and the areas inside the lips appeared to have some excorotion; there was a watery, bloody discharge from the vaginal orifice. So far as the" rectum was concerned, it gave the appearance of having been stretched beyond the usual capacity. The normal muscles which causes it to close was not in adequate tone. The rectum was slightly agape, without being held open. Radiating from the area of the rectum around the peritoneum — in other words, the area between the vagina and the rectum — was radiating, technically speaking, striae.
+“Q. What is striae — what does that mean?
+“A. Striae, or markings produced where the skin is stretched beyond the usual capacity or limitation, similar to the markings you see on a pregnant woman’s abdomen when it becomes so stretched.”
+He further expressed the opinion that it would be highly impossible for a grown male to penetrate the vagina of a girl of that age with sexual organ but that the rectum of a child of that age has more capacity of dilating than does the vaginal opening, and the injuries to the rectum were inflicted by some object as large as a male organ. He stated further that he secured a smear but was unable to satisfactorily establish the presence of male sperm.
+The prosecutrix was not called as a witness.
+The appellant called Dr. Turner, who stated that he had examined the child on the day in question and was unable to find any evidence that she had been raped. The state rebutted his testimony with evidence that Dr. Turner’s examination had been hurriedly made.
+The evidence will be more fully stated in discussing the contentions set forth in the appellant’s brief.
+It is first contended that the court erred in permitting the prosecutrix’ father to recount the outcry made by the child when he got her from the appellant’s home the following morning.
+Recently, in Haley v. State, 157 Texas Cr. Rep. 150, 247 S.W. 2d 400, we had occasion to discuss the admissibility of the outcry of a little girl made soon after she left the presence of the accused. We have concluded that the Haley case is here controling and supports the correctness of the trial court’s ruling.
+Next it is contended that the testimony of Dr. Marsh as to the condition of the prosecutrix’ rectum was not admissible because the indictment in this case was for assault with intent to rape and not sodomy.
+In Sims v. State, 156 Texas Cr. Rep. 218, 240 S.W. 2d 297, a rape case, we held admissible evidence that the accused shot the injured female after he had raped her. We said:
+“It has so many times been held that all of the facts and circumstances surrounding the commission of the offense are admissible as circumstances, not only of guilt but of the intent and nature of the crime, that the jury may consider same not only on the question of guilt, but in determining the punishment to be meted out therefor. Surely citation of authorities on this subject is not necessary, but we refer particularly to Myers v. State, 103 Texas Cr. Rep. 426, 289 S.W. 49; Grimmett v. State, 22 Texas App. 36, 2 S.W. 631; Grace v. State, 90 Texas Cr. Rep. 329, 234 S.W. 541; and Smith v. State, 80 Texas Cr. Rep. 82, 188 S.W. 983.”
+Appellant further contends that the court erred in failing to charge the jury on the law of circumstantial evidence.
+Reliance is had upon Sanders v. State, 127 Texas Cr. Rep. 55, 75 S.W. 2d 116. We call attention at the outset that the Sanders case was a rape case, while, in the case at bar, the jury found the appellant guilty of assault with intent to rape. The Sanders case was reversed, among other reasons, because penetration was not shown beyond a reasonable doubt. If penetration had been shown in the case at bar, then the offense would have been rape and not assault with intent to rape. In Allen v. State, 36 Texas Cr. Rep. 385, 37 S.W. 429, we said:
+“Where the entry is not actually effected, but there is an endeavor to penetrate by the use of force, this is sufficient to constitute the act an assault with intent to rape. In this case, we think the evidence establishes beyond a reasonable doubt, if the defendant in fact did not penetrate the private parts of the prosecutrix with his male organ, that he made the effort to do so. This is evidenced by the irritation and soreness of the parts of the child, testified to by the mother and the physicians, and also by the fact that the defendant communicated to her a venereal disease.
+“Appellant asked a charge on circumstantial evidence, which the court refused to give, and he now assigns this as error. We think the evidence in this case is of a positive character. At least, the facts and circumstances of the case are of such a character as to place the defendant in such close proximity and juxtaposition to the main fact as to render a charge on circumstantial evidence unnecessary.”
+We have concluded that the Allen case is here controlling and that the court did not err in refusing to charge as requested. The testimony of the doctor, plus the outcry of the little girl, abundantly supports the conclusion that the appellant attempted to have an act of intercourse with the prosecutrix and, when he failed in this effort, then committed an act of sodomy upon her.
+Appellant’s last complaint lies in the court’s failure to charge on aggravated assault.
+In Daywood v. State, 157 Texas Cr. Rep. 266, 248 S.W. 2d 479, a fondling case wherein the court’s failure to charge on aggravated assault was assigned as error, we said:
+“At this juncture, it will be noted that, merely because a lesser offense is included with the proof of a greater offense, a charge on the lesser is not required unless there is testimony raising the issue that the appellant, if guilty at all, is guilty only of a lesser offense included in the greater offense charged.”
+We find no evidence in this case which would indicate that the appellant, if guilty at all, is guilty only of aggravated assault.
+Appellant contends that error was reflected by the following question propounded to the appellant in cross-examination: “As a matter of fact you were convicted of the aggravated assault upon Paul Climber (the prosecutrix’ father) with a rifle * *
+The court sustained the objection, the question was not answered, the court instructed the jury not to consider the question but declined the appellant’s motion for a mistrial.
+In order to determine if the asking of the question was proper, we must examine the appellant’s testimony on direct examination by his own counsel. He was first asked his name, age, marital status, and education and was then asked if he knew Climer and if he had had any trouble with him. Upon receiving an affirmative reply, he was then asked if they were both armed at the time and where the fight had occurred and was then asked about the facts in the case at bar. On cross-examination, he was interrogated further about the same fight mentioned in his direct testimony, and the question set forth above was propounded.
+Without doubt, the question was proper since the appellant had brought up the subject of their prior fight and the state had the right to question him fully concerning the same.
+In oral argument before this court, the appellant raises the question of a variance between the indictment and the proof. The indictment charged the,last name of the prosecutrix as being “Climberthe proof showed it to be “Climer.”
+Recently, in Pierce v. State, 160 Texas Cr. Rep. 646, 274 S.W. 2d 408 we held that “Barber” and “Barba” were idem sonans and cited as authority Raven v. State, 149 Texas Cr. Rep. 294, 193 S.W. 2d 527, in which the names “Zoder” and “Zoda” were held not to constitute a variance. See also Gafford v. State, 100 S.W. 375.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment of the trial court is affirmed.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+It is my opinion that this is a case resting upon circumstantial evidence.
+There was no direct evidence showing appellant guilty, as charged.
+The charge on circumstantial evidence should have been given.
+I respectfully dissent.
