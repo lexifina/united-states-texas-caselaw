@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "23487"
+decided: "1946-12-18"
+citations: ["149 Tex. Crim. 619", "198 S.W.2d 268"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. B. Henderson v. The State."]
+source_url: "https://static.case.law/tex-crim/149/cases/0619-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2603872
+---
+
+# Henderson v. State
+
+## Majority (GRAVES, Judge.)
+
+GRAVES, Judge.
+Appellant, a negro man with a family, was charged with the murder of Nellie Greenwood, a negro school girl of the age of 16 years, and upon his trial he was awarded the death penalty.
+He appeals.
+The facts produced show that on April 29, 1946, this girl left home in the morning to take the school bus to Navasota, and again took the bus in the afternoon for her ride home. She got off the bus at about 4:15 P. M. She had with her a brown jacket. She was next seen in the late afternoon in company with appellant, who had a shotgun in his hand and was walking along with the deceased in a southerly direction. Some 30 or 40 minutes thereafter a witness heard the report of a gun in the direction these parties had been going. On the next morning this girl’s dead body was found some distance down the road where she was last seen walking, her face having been “shot off.” She was examined by a physician who testified that her private parts gave evidence of having been lately penetrated and torn; and her jaw giving evidence of having been broken prior to the shot in the face, which produced instant death.
+Appellant was arrested by the officers, and after questioning he was taken to where the body was found. He showed them where a pool of blood was located, it being covered with sand. He also showed the officers where the girl’s jacket was. He further directed the officers to where the gun was and the empty shell also.
+It was shown by a ballistic expert that the empty shell was fired from the right barrel of a .20-gauge double-barreled shotgun, the same one shown to the officers, and by analysts that appellant’s trousers and the deceased’s dress and torn clothing had a similar type “A” blood on them.
+Appellant, when first approached relative to this girl’s death, claimed that he saw her get into a car with a negro man. He described the man and car minutely but soon retracted this statement and directed the officers as above outlined.
+Appellant took the witness stand on his trial and testified that as he was walking along with the girl, the gun being in his left hand, he changed it over to his right hand. The deceased asked him if it was loaded and he said, “No.” She then hit the gun and it went off, and he immediately “took off.” He strenuously denied that he raped the girl at any time or that he struck her, but finally went home, changed his bloody pants, and put the gun away where the sheriff got it. He claimed that he had the gun to hunt with.
+The trial judge gave a comprehensive charge on murder with and without malice, as well as upon an accidental killing, and we find no objections thereto in the record.
+We find a motion for a continuance in the record because of the inability of appellant’s wife to be present at this trial because of the near approach of her expected confinement in child birth. The matters expected to be proven by his wife, as shown in such motion, were that appellant, on the night of this alleged killing, “developed a sick headache and went to their home, that he spent the night after this alleged offense at home and slept with her, that the condition of his mind just before and just after the alleged offense was not normal, that he had no malice for N. Greenwood, and that he had no ammunition for any gun.” In the light of appellant’s testimony given upon this trial, any pertinent testimony by the wife, as above outlined, would not have been proffered, that relating to his lack of ammunition being doubtless recognized by him as untrue.
+Appellant also complains because, as he alleges, there was a person present in the grand jury room during its deliberations on his indictment who was not a member thereof, one W. S. Brown, and he, therefore, moved the court to quash the indictment herein as having been found by an unlawful grand jury. It is shown by the evidence on the hearing of this motion to quash that one, W. S. Brown, the father of the questioned grand juror, had a son, W. S. Brown, Jr., who used the suffix “Jr.” during his father’s life; that the father was now deceased, and sometimes Mr. Brown was called W. S. Brown, as he appeared on the grand jury roll, and sometimes as W. S. Brown, Jr., but that they were one and the same person.
+Again, it is claimed that the grand jury was composed of thirteen persons, this contention appearing in the following manner: It was shown that this killing took place after the grand jury had been impaneled by the court and discharged for the term; that upon the happening of this homicide the trial court ordered the grand jury for that term to reassemble during such term; that four of the original grand jurors not appearing, the court completed the panel by impaneling four other qualified grand jurors who sat in the deliberations relative to this indictment. This procedure is authorized by the provisions of Article 372, C. C. P. We confess ourselves at a loss to see where the thirteenth juror appeared, there being four absent and four new ones impaneled, which would seem to leave the panel at the number of twelve, as provided by law.
+We think the bloody clothing of both the appellant and the deceased were admissible herein, not only to show the probable rape of the deceased, but also to show the improbability of his story of an accidental killing and his immediate flight, as was also the pool of blood some distance away from where the girl’s dead body was found.
+It is suggested that these matters inflamed the minds of the jury. True it is that there was blood on the garments. There is usually such where blood has been spilled, but where such garments can serve to illustrate what happened at the time of the commission of the offense, the fact of the presence of blood thereon does not preclude their introduction. Branch’s Ann. Tex. P. C., p. 1031, sec. 1855.
+The physician testified that the deceased’s jaw was broken before her death; that she had been raped and her hymen ruptured. The sheriff testified that the deceased’s pants were torn in the crotch, that her pocketbook, a wrap, a pencil, her hand case, and other belongings were found along the road, and evidence of something having been dragged from where the first blood was shown to where the body was found.
+That appellant committed this offense is shown by all the evidence. The trial court submitted to the jury the appellant’s defense of an accidental killing, and the jury saw fit to disbelieve that portion of the testimony and award the penalty of death to this negro man for killing this negro girl.
+We see no error shown in this trial, and the judgment is therefore affirmed.
