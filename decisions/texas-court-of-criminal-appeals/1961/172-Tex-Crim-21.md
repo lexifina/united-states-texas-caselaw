@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,977"
+decided: "1961-12-13"
+citations: ["172 Tex. Crim. 21"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morgan Carter Baker v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0021-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2636093
+cites_cases: ["159 Texas Cr. Rep. 396", "264 S.W. 2d 432"]
+---
+
+# Baker v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+Tried under an indictment alleging a subsequent offense of driving while intoxicated, appellant was convicted of the misdemeanor offense and the jury assessed his punishment at 90 days in jail and a fine of $100.00.
+The evidence from the standpoint of the state shows that appellant drove his automobile into the rear of a truck. The driver of the truck and his passenger talked to and observed appellant and testified that, in their opinion, he was intoxicated.
+William G. Sanders, accident investigator for the city of Houston, responded to a call and found appellant leaning on his automobile; found an empty pint and a half-full half-pint bottle of Vodka, and a cold practically empty can of beer in the automobile. Officer Sanders testified that from his observation of appellant, his appearance and manner of walking and talking, he formed the opinion that appellant was intoxicated.
+Appellant was taken to a hospital where a blood sample was drawn. An analysis of such blood was made by Robert F. Crawford, chemist and toxicologist, who testified that it contained twenty hundredths of one percent alcohol by weight, and that, based upon his studies and research, there was no doubt that a person with that blood-alcohol content would definitely be intoxicated.
+At the close of the state’s evidence the court ruled that the state had failed to establish the prior misdemeanor offense alleged, and that the trial would proceed on the primary offense, a misdemeanor.
+Appellant testified that the minute he saw the truck “I slapped on my brakes. When I did my foot slipped off the brake onto the foot feed ... it caused a greater momentum and I hit the truck.”
+Appellant testified that he did not have any beer cans in the car; that the empty Vodka bottle was not from that day; that he did drink some out of the other bottle that the officer took from the car, “drank four jiggers”; that he bought the half-pint bottle of Vodka about 9 A.M. “as soon as the liquor store opened”; that he felt like he had “the reasonable normal use” of his physical and mental faculties at the time of the accident.
+Appellant and his wife testified that at the time of the accident he was under treatment for a nervous condition and was taking three different kinds of medicine under the prescription of a doctor.
+The first ground relied on for reversal is the refusal of a requested charge to the effect that if the jury believed from the evidence that appellant had lost the normal use of his physical and mental faculties while operating a motor vehicle, on the' occasion in question, but that such loss was not occasioned by the use of intoxicants by him, but by other causes, they should acquit.
+The court, in his charge, required the jury to find, before they could convict, that appellant was intoxicated, as that term was defined in the charge, and defined intoxication as meaning that a person does not have the normal use of his physical and mental faculties by reason of the use of intoxicating liquor.
+We do not agree that the testimony of appellant and his wife raised an affirmative defense that he lost the normal use of his physical and mental faculties by some cause other than the use of intoxicants. Humphrey v. State, 159 Texas Cr. Rep. 396, 264 S.W. 2d 432.
+The remaining claim of error relates to the statement by the trial judge in connection with his ruling that the state had failed to prove the prior misdemeanor conviction alleged in the indictment.
+Appellant argues that the court’s reference to “any previous conviction” clearly conveyed to the jury the court’s opinion that appellant had been previously convicted of some offense and that the court had formed such opinion from the evidence the jury had heard.
+Officer Sanders testified that appellant told him “he had been convicted before of driving while intoxicated a good many years back.”
+Certain instruments had been offered by the state in an effort to prove the allegation of the indictment that appellant was convicted April 27, 1953, under the name Marvin Carter Baker, in Calhoun County, Texas, for driving while intoxicated. The court admitted the documents in evidence, but after the state rested, without appellant being identified as the defendant in the Calhoun County case, withdrew the documents from the jury and instructed the jury not to consider them, and ordered the trial to continue on the misdemeanor offense, and only the misdemeanor offense was submitted.
+We see no error in the court’s instruction. If there was error in the matter it was the withdrawal of the documents and the reduction of the offense to a misdemeanor before the close of the evidence, which was favorable to the appellant.
+The evidence is sufficient to sustain the conviction and no reversible error appears.
+The judgment is affirmed.
