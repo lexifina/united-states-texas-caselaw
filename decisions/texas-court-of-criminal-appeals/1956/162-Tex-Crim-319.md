@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,915"
+decided: "1956-01-04"
+citations: ["162 Tex. Crim. 319"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ben Bitela v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462862
+cites_cases: ["12 S.W. 591", "138 S. W. 708", "15 S.W. 821", "174 S.W. 2d 974", "286 S.W. 1102", "31 S.W. 2d 818", "78 S.W. 930", "87 S.W. 2d 719"]
+---
+
+# Bitela v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the sale of gin in a dry area, with a prior conviction for an offense of like character alleged for enhancement; the punishment, 6 months in jail and a fine of $400.00.
+Inspectors Dibrell and Dunlap of the Texas Liquor Control Board testified that they went to the appellant’s cafe in the city of Lubbock and purchased one-half pint of gin from the appellant but that since they were working undercover they did not arrest the appellant at that time.
+Appellant, his wife, and two other witnesses testified that the appellant was not in Lubbock but was in Amarillo at the time the officers testified they bought the gin from him.
+The jury resolved the issue of alibi against the appellant, and we find the evidence sufficient to support their verdict.
+Bill of Exception No. 1 complains of the sustaining of the state’s challenge for cause to a certain prospective juror. As qualified, the bill reflects that the appellant was not forced to take a juror which he did not want. This court has held that for an accused to show injury resulting from the sustaining to a challenge by the state, he must show that he was forced to accept an objectionable juror. Giebel v. State, 28 Texas App. 151, 12 S.W. 591; Hash v. State, 105 Texas Cr. R. 78, 286 S.W. 1102; Luttrell v. State, 116 Texas Cr. R. 277, 31 S.W. 2d 818; Hill v. State, 129 Texas Cr. R. 451, 87 S.W. 2d 719.
+Bill of Exception No. 2 complains that the court’s charge repeated the charges against him so frequently that it gave the jury the impression that the court considered the appellant guilty. The appellant cites the following cases: Bonner v. State, 29 Texas Cr. R. 223, 15 S.W. 821; Perrin v. State, 45 Texas Cr. R. 560, 78 S.W. 930; Newton v. State, 62 Texas Cr. R. 622, 138 S. W. 708; Walker v. State, 146 Texas Cr. R. 321, 174 S.W. 2d 974.
+In none of the cases cited is the objectionable portion of the charge set forth. In each of the cases the court had already found reversible error before they began their discussion of the frequent repetition of a principle of law in the court’s charge, which means that none of the cases was reversed upon that question alone.
+We have examined the charge carefully and cannot agree with the appellant’s contention.
+Bill of Exception No. 3 complains of that portion of the court’s charge in which the possible punishment was given to the jury. The court told the jury that if they found the appellant guilty of the primary offense they might set his punishment at not less than $200.00 nor more than $2,000.00 or by confinement in jail for a term not exceeding two years or both such fine and imprisonment.
+Article 666-41, V.A.P.C., sets the penalty for a first offender against the liquor laws at not less than $100.00 nor more than $1,000.00 or not more than one year in jail or both.
+Article 61, V.A.P.C., provides for double the punishment upon a subsequent conviction for the same misdemeanor offense.
+The fact that the appellant stipulated and testified that he was the same individual who had been convicted in the prior case alleged for enhancement differentiates this case from the one upon which the appellant relies and removes any question as to the correctness of the court’s charge.
+Finding no reversible error, the judgment of the trial court is affirmed.
