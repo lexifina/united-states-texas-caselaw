@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,528"
+decided: "1958-02-12"
+citations: ["165 Tex. Crim. 575"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donald Sommers v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2612510
+cites_cases: ["101 S.W. 2d 267", "120 Texas Cr. Rep. 605", "131 Texas Cr. Rep. 613", "158 Texas Cr. Rep. 544", "163 Texas Cr. Rep. 30", "163 Texas Cr. Rep. 315", "163 Texas Cr. Rep. 38", "258 S.W. 2d 91", "288 S.W. 2d 116", "291 S.W. 2d 321", "292 S.W. 2d 108", "49 S.W. 2d 798"]
+---
+
+# Sommers v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for robbery with firearms; the punishment, 20 years in the penitentiary.
+William A. Nixon, the injured party, was a night manager of a service station in the city of San Antonio. On the night in question, while Nixon was on duty, an automobile drove into the station, two men got out, one with a pistol in his hand who said, “This is a hold-up,” and then fired one shot with the pistol. After Nixon and two other men who were in the station were told to face the wall, Nixon, with the gun stuck in his back was forced to open the cash register and the two men took a $100 check and $367 in money therefrom. After putting the money in their pockets and forcing Nixon and his two companions into a restroom the two men left.
+The man with the gun was known to Nixon, the injured party, as Richard Mulkey and was later identified by him as one of the men who committed the robbery. Appellant was identified by Nixon in jail several days after the robbery as the man who participated in the robbery with Mulkey and also positively identified by him at the trial.
+The appellant was also identified by the witness, Charles Sherwood, one of the two men present at the station with Nixon on the night in question, as one of the participants in the robbery.
+Robert G. Keene, upon being called as a witness by the state, testified that on the night in question appellant told him about the robbery, and asked him to drive the automobile. That he agreed and at appellant’s direction drove the automobile in which appellant, Mulkey, and a man by the name of Burton Harris went to the service station to commit the robbery. That after the robbery he drove the automobile to his home, got out, and later appellant brought a sack of change to his house which he stated was supposed to contain the witness’ part.
+Appellant did not testify but called Richard Mulkey as a witness to testify in his behalf.
+The court refused to permit Mulkey to testify upon objection by the state that he was a co-principal and co-indictee of appellant and therefore incompetent to testify in his behalf, under Art. 711, V.A.C.C.P.
+The record shows that the witness Mulkey had been charged and convicted of the same offense for which appellant was on trial and at the time he was tendered as a witness was serving a term in the penitentiary under such conviction.
+Under the provision of Art. 711, supra, the witness Mulkey was incompetent to testify in behalf of appellant and the court did not err in refusing to permit him to testify. Hermosillo v. State, 120 Texas Cr. Rep. 605, 49 S.W. 2d 798 and Freyre v. State, 163 Texas Cr. Rep. 315, 291 S.W. 2d 321.
+By Bills of Exception Nos. 1 and 2, appellant complains of certain testimony given by the state’s witness Charles Sherwood. The record reflects that appellant made no objection to the testimony complained of, therefore the two bills present nothing for review. Thompson v. State, 158 Texas Cr. Rep. 544, 258 S.W. 2d 91 and Young v. State, 163 Texas Cr. Rep. 30, 288 S.W. 2d 116.
+Bills of Exception Nos. 4 and 5 relate to jury argument of state’s counsel.
+Appellant insists that the argument complained of in Bill No. 4 constituted an indirect allusion to his failure to testify. The bill as qualified by the court certifies that after appellant’s counsel had argued that appellant was not present at the scene during the commission of the offense, state’s counsel stated to the jury in substance “that all the state’s witnesses with one exception (Enochs) including Charles Sherwood, Robert G. Keene and William Nixon, had testified that the defendant was there and present at the commission of the offense and that the only person who had stated .that the defendant was not present ■ at the scene of the crime had been the defendant’s attorney in his argument to the jury * * *.”
+We do not construe such argument as constituting an indirect allusion to appellant’s failure to testify but merely a statement based upon the facts and evidence before the jury.
+Bill of Exception No. 5, as qualified by the court, presents appellant’s complaint to the action of state’s counsel in his closing argument to the jury in stating in substance that anyone, after considering the facts, could conclude that appellant was following or pursuing the profession of a highjacker.
+It is clear that state’s counsel was basing such argument upon the evidence and the statement complained of was a reasonable deduction therefrom. Hence the bill of exception does not present reversible error. Rambo v. State, 131 Texas Cr. Rep. 613, 101 S.W. 2d 267 and Miller v. State, 163 Texas Cr. Rep. 38, 292 S.W. 2d 108.
+We find the evidence sufficient to support the conviction and overrule appellant’s contention that the evidence was insufficient to corroborate the tesitmony of the accomplice witness, Robert G. Keene, as required under the instructions of the court in his charge.
+The judgment is affirmed.
+Opinion approved by the Court.
