@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,009"
+decided: "1952-11-05"
+citations: ["157 Tex. Crim. 640"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Earl Wallace Tingley v. State."]
+source_url: "https://static.case.law/tex-crim/157/cases/0640-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2570466
+cites_cases: ["248 S. W. 2d 942"]
+---
+
+# Tingley v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is driving while intoxicated; the punishment, 120 days in jail.
+Bill of Exception No. 4 recites that certain prejudicial argument was made by the state’s counsel; that appellant objected thereto and requested the court to instruct the jury to disregard said argument, but that he was deprived of a ruling by the court because the trial judge was absent from the courtroom when the argument was made and, upon his return to the courtroom, declined to rule on the objection and request. The trial court qualified such bill as follows:
+“The Court cannot certify that the argument of the Assistant District Attorney as complained of above was, or was not, made for the reason stated in this bill; that the Court had for the moment stepped into an adjoining office and did not hear the statement made as alleged.”
+It is apparent from the bill of exception as qualified that the trial judge absented himself from the courtroom during the trial and thereby placed himself in a position where he could not hear what transpired; further, that during his absence the argument for the state continued; that appellant’s counsel considered a remark of the state’s attorney to be improper and desired to object thereto and have the jury instructed to disregard the remark; and, finally, that appellant was deprived of a ruling on his objection and motion because of the absence of the trial judge.
+Recently, in Gasway v. State, (page 647, this volume), 248 S. W. 2d 942, it was alleged that the judge had gone to sleep during the interrogation of a witness. The statement of facts in that case gave us an accurate picture of everything that occurred during the moment of inattentiveness, and we found therefrom that nothing had transpired that would cause injury to appellant.
+Here, however, we conclude that the accused has been deprived of a valuable right to have an impartial arbiter present to rule on his objections and that the cause must be reversed because of such deprivation.
+Judgment reversed and cause remanded.
