@@ -1,0 +1,48 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,008"
+decided: "1952-11-12"
+citations: ["158 Tex. Crim. 262"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roy George DeHay v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0262-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2483028
+---
+
+# DeHay v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+The count in the information upon which this conviction rests charges, in effect, that appellant did, for the sum of $50, treat and offer to treat Jewel Jefferson for a disease or disorder without having first registered in the office of the district clerk his license to practice medicine. The punishment assessed is a fine of $500 and 30 days in jail.
+The information follows that set forth in Willson’s Criminal Forms, Sec. 338, and is deemed sufficient to charge the unlawful practice of medicine as prohibited by Arts. 739 and 741, Vernon’s P. C.
+The alleged injured party, a pregnant woman, went to the office of appellant for examination and treatment. Appellant made a physical examination, including examination of the blood and a check of the blood pressure. At that time she made arrangements with him to attend her at the birth of her child at an agreed fee of $50 for his services, upon which she paid him at that time the sum of $5. About two weeks later she visited appellant at his office. At that time he made another examination, in the course of which he gave her a “shot” with a hypodermic needle, and prescribed a diet for her. From that time until the birth of her baby, she made some six or seven visits to appellant’s office and fully paid him the sum agreed upon. Appellant was not present at the birth of the baby, being unable, on account of weather conditions, to reach the patient in time. He did, however, arrive a short time after the birth of the child, severed the umbilical cord and, as the witness said, “cleaned the baby up and myself.”
+There was evidence that appellant had treated another woman for a disease and disorder, and had held himself out to others as a practitioner of medicine.
+The foregoing facts are undisputed, and are sufficient to show that appellant was a practitioner of medicine as alleged in the information and as defined by Art. 741, Vernon’s P. C., as amended.
+Appellant stresses the fact that the state did not prove that he had not registered in the office of the district clerk of Dallas County his license to practice medicine, as charged in the information.
+To sustain this allegation, the state proved by a deputy district clerk that he had made a search and examination of the records of that office, and especially the medical register from 1910 to the present, to ascertain whether appellant had filed in said office his license to practice medicine. The witness testified that over the period of time mentioned there was no record of appellant’s having filed in said office a license to practice medicine.
+This testimony is deemed sufficient to constitute prima facie evidence of the fact that appellant had not filed a license to practice medicine in Dallas County, as charged. Appellant’s contrary contention is overruled.
+Appellant complained of the testimony of the deputy district clerk that the records of the office did not show the filing of the license, insisting by such complaint that, under the best evidence rule, the records, themselves, should be introduced in evidence.
+The proof to which appellant objected was negative in character — that is, that there was no record of the filing of such license. Obviously, therefore, the best evidence rule as to the contents of records and documents could have no application, because the proof does not embrace any fact that would be shown by the records or books. 18 Tex. Jur., Evidence, Sec. 242, p. 373.
+There was evidence to the effect that appellant was a duly licensed doctor of naturopathy.
+Complaint is made of the refusal by the trial court to permit appellant, in that connection, to show that he held himself out to the general public as a practitioner of naturopathy.
+Whether appellant was or was not a licensed practitioner of naturopathy as provided by Chap. 480, Acts Regular Session of the 51st Legislature in 1949, and appearing as Art. 4590d, Vernon’s R. C. S., is immaterial to any issue in the case. Furthermore, such act does not provide a defense to the instant accusation, for, by the express provisions of Sec. 18 of the act, a license to practice naturopathy does not authorize the practice of medicine thereunder.
+The reference above made is not to be construed as recognition of the validity of the naturopathy act. That question is not before us.
+No reversible error appearing, the judgment is affirmed.
+Opinion approved by the court.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON appellant's motion for rehearing.
+WOODLEY, Judge.
+It is now insisted that the state failed to prove that appellant resided in Dallas County on the date of the offense, as alleged in the information.
+We have again examined the record and, in this regard, find the following:
+Justice of the Peace W. E. Richburg testified that on the occasion he was asked to hold an inquest over a dead body “around the corner” from where appellant lived, he examined the body and then went to appellant’s home where he had a conversation with appellant, in which appellant represented himself as being a medical doctor. This was some six weeks prior to February 15, 1951. The place of this conversation was also identified as “Hawes Court” and as “Hawes Court, off of Hines Boulevard.”
+E. L. Croslin, Supervisor for the Southwestern Bell Telephone Company in Dallas, testified that at the time of the trial appellant had two telephones in Dallas, Dallas County, one of which was located at 1812 Hawes Court. It is shown that appellant’s office was located in Dallas.
+Mrs. Sims testified that she first saw appellant some three months before the birth of her son on February 15, 1951, having visited him for medical treatment in connection with her pregnancy. She paid the fee of $50.00 in installments, beginning on this occasion, and returned at two week intervals thereafter for examination and care.
+In the absence of testimony to the contrary, we find the evidence sufficient to sustain a finding by the jury that appellant was a resident of Dallas County on or about February 15, 1951, as alleged in the complaint and information.
+We remain convinced as to the sufficiency of the evidence and of the complaint and information as against the other grounds of attack discussed in our original opinion.
+Appellant’s motion for rehearing is overruled.
