@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "12075"
+decided: "1929-02-20"
+citations: ["112 Tex. Crim. 586", "18 S.W.2d 657"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joe Justice v. The State."]
+source_url: "https://static.case.law/tex-crim/112/cases/0586-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5165615
+cites_cases: ["11 S. W. (2d) 321", "11 S.W.(2d) 321", "111 S. W. 741", "126 S. W. 1142", "131 S. W. 542", "137 S. W. 1141", "137 S. W. 1145", "137 S. W. 1146", "18 S. W. 90", "240 S. W. 538", "29 S. W. 264", "30 Tex. App. 502", "30 Tex. Cr. R. 502", "34 Tex. Cr. R. 86", "54 Tex. Cr. R. 21", "59 Tex. Cr. R. 23", "60 Tex. Cr. R. 236", "62 Tex. Cr. R. 336", "62 Tex. Cr. R. 402", "62 Tex. Cr. R. 428", "91 Tex. Cr. R. 507"]
+---
+
+# Justice v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+— Conviction is for possessing intoxicating liquor for the purpose of sale, punishment being one year in the penitentiary.
+Acting under a search warrant officers found four pints of whiskey buried under a small fruit tree eight or ten steps from appellant’s house. The written confession of appellant was put in evidence in which he admitted having bought and buried the whiskey.
+The regularity and sufficiency of the search warrant and affidavit upon which it issued is not challenged. By bill of exception number one appellant complains at the reception of the evidence as to the result of the search. It is,stated in the bill — as ground of objection only — that the officers failed to exhibit the search warrant to appellant or to notify him in any way that the search was by virtue of such instrument. There is no certificate of fact in the bill that the officers failed to do these things. The question thus sought to be raised is not properly before us. (See Branch’s Ann. Tex. P. C., Sec.'209.) However, we take notice of Art. 319, C. C. P. upon which the objection was apparently based. Said article reads:
+“The officer shall, upon going to the place ordered to be searched, or before seizing any property for which he is ordered to make search, give notice of his purpose to the person who has charge of, or is an inmate of, the place, or who has possession of the property described in the warrant.”’
+An officer ought to give notice of his purpose as directed by said article, both for his own protection and in fairness to the party whose premises are to be searched. A failure to give such notice would frequently throw light upon and determine the legality or otherwise of the conduct of all parties at the time of the search, but this phase of the question is not in the present case. ^ A failure to give the notice provided in the article quoted would not, in our opinion, render the search illegal and therefore would not result in the rejection of the evidence obtained as a result thereof.
+Upon the trial appellant denied that the whiskey belonged to him and that he buried it. In other words, he repudiated his confession. He claimed that he was not given proper warning and was coerced into signing the confession by being told that he would not be allowed to make bond until he did sign it. Upon' the .predicate laid by the state the court committed no error in admitting the confession in evidence. An issue, however, having been made with reference to the circumstances under which it was obtained the court told the jury that the confession could not be used by them unless they believed from the evidence beyond a reasonable doubt that it was freely made by appellant without compulsion or persuasion after he had been warned as the law required. The court complied with precedents in the respect mentioned. Sparks v. State, 34 Tex. Cr. R. 86, 29 S. W. 264. Many other cases are collated under Sec. 75, Branch’s Ann. Tex. P. C.
+A new trial was sought upon the alleged ground of newly discovered evidence. The motion for new trial was not sworn to. This is necessary when a motion is based upon newly discovered evidence. Walker v. State, 91 Tex. Cr. R. 507, 240 S. W. 538; Vawter v. State, 11 S. W. (2d) 321. See Branch’s Ann. Tex. P. C., Secs. 193— 195, for collation of further authorities. The bill bringing forward complaint at the action of the court in overruling the motion for new trial bears a qualification by the trial judge to the effect that the witness whose evidence was claimed to be newly discovered was subpoenaed by appellant, his name called by appellant’s attorney, was present during the trial, was placed under the rule with other witnesses, and was not used by appellant. There is no showing that any exception existed to the rule that ordinarily newly discovered evidence can not be claimed from a witness present at the trial. Fisher v. State, 30 Tex. Cr. R. 502, and other cases collated under Sec. 204, Branch’s Ann. Tex. P. C.
+Bill of exception number three presents no error.
+The judgment is affirmed.
+Affirmed.
+
+## Rehearing (HAWKINS, Judge.)
+
+ON MOTION FOR REHEARING.
+HAWKINS, Judge.
+— In his motion for rehearing appellant calls attention to a matter not adverted to in our original opinion. The point now presented was not briefed by appellant on original submission, hence it escaped notice. Article 727 C. C. P. provides that a confession made by an accused while in jail or in custody may not be used in evidence unless it is made in writing under certain formalities, one of which is that the “written statement shall show that he has been warned by the person to whom the same is made.” The written confession here introduced recites that appellant made his voluntary statement to the county attorney (naming him) “after being warned, etc.,” but is silent as to the party from whom the warning was received. While the bill of exception bringing forward complaint for admitting the confession in evidence does not contain as one of the reasons for excluding it a specific objection that the party giving the warning is not named in the confession itself, yet the bill does show that one objection urged to the confession was that appellant “had never been properly warned as to the consequences of his signing the confession.” In view of the specific requirements of the statute as to the requisites of the warning necessary to be shown on the face of the written confession such objection is deemed sufficient to have directed the trial court’s attention to the defect therein. In passing upon a confession exactly like the one in the present case Judge Ramsay said in Robertson v. State, 54 Tex. Cr. R. 21, 111 S. W. 741:
+“Whatever may be thought of the wisdom of the act of the last Legislature in respect to confessions, it is certain that the Legislature intended that, before any confession of one in jail or in confinement should be admitted, such instrument should contain within itself evidence that the person making same had been warned by the person to whom same was made that he did not have to make any statement at all, and that any statement so made could be used in evidence against him on his trial for the offense concerning which the confession is therein made.” To the same effect will be found Henzen v. State, 62 Tex. Cr. R. 336, 137 S. W. 1141; Burton v. State, 62 Tex. Cr. R. 402, 137 S. W. 1145; Ayers v. State, 62 Tex. Cr. R. 428, 137 S. W. 1146; Boyman v. State, 59 Tex. Cr. R. 23, 126 S. W. 1142; Jenkins v. State, 60 Tex. Cr. R. 236, 131 S. W. 542.
+It is the duty of this court to give effect to the statute in question although it involves the necessity of granting the motion for rehearing, setting aside the former judgment of affirmance and directing a reversal of the judgment of the trial court and remanding the case for a new trial, all of which is hereby ordered.
+Reversed and remanded.
