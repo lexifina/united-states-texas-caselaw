@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2509"
+decided: "1913-06-04"
+citations: ["70 Tex. Crim. 594"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Scotland Anderson v. The State."]
+source_url: "https://static.case.law/tex-crim/70/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2379822
+---
+
+# Anderson v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of robbery with firearms, his punishment being assessed at fifty years confinement in the penitentiary.
+There are several questions raised with reference to what appellant terms a motion to quash the indictment. These are based upon the allegations that the court failed to enter the order appointing the grand jury, commissioners who selected the" jury that returned the indictment, and that the court failed to have the minutes read in open court, and failed to sign the same in open court on the following day after said appointment; and further, that the court failed to quash the indictment for the reason that defendant proved to the court that the grand jury commissioners, as aforesaid, never procured the last assessment roll of the county for the purpose of selecting the persons to compose the grand jury who indicted defendant, and that by reason of such fact defendant was discriminated against by reason of all the grand jurymen being white men and this defendant a negro, and that said persons so selected were prejudiced against this defendant by reason of his being a negro; and because the court refused to quash the indictment for the reason that the defendant proved to the court that the court at the time delivered the list containing the names of the grand jurymen so selected as aforesaid and that were in an envelope at the time that in delivering the same to the cleric of the court the court failed to swear each and every one of said clerks, and instead only administered to one of them the “affidavit” required by law, towit, George Harris, who was a deputy clerk, and that there were four other clerks of this court besides George Harris; and because the court at the time of swearing the said grand jurors failed to administer to each of them separately the affidavit required by law but instead administered to them collectively said “affidavit,” which defendant alleges is contrary to law; and further that the court erred in administering the “affidavit” required by law to be administered to the bailiffs of grand juries, i"n that the court administered to theta collectively instead of singly the oath required by law to be so administered. Again he says the court erroneously -refused to quash the indictment for the reason that the court failed to swear the witnesses that appeared before said grand jury and testified against defendant, and that said witnesses were not under oath at the time of so testifying, by reason of the foreman of the grand jury being incapacitated by law from administering oaths; that said grand jury foreman received no power or authority to administer oaths under the laws of the State of Texas by reason of being foreman of said grand jury. Again, he urges the court committed error in refusing to quash the special venire ordered in this case for the reason that the court failed to swear each and every one of said deputies in compliance with the Revised Statutes, said violation being wrought by reason of the sheriff of Tarrant County having several of his deputies to serve the summons on said veniremen and at said time the deputies were not sworn in compliance with the above statute. It is also claimed the verdict is contrary to the law and the evidence.
+There is no motion to quash the indictment contained in the transcript, but there is an order overruling a motion to quash. The matters above set forth are taken from appellant’s motion for new trial. The record is before us without a statement of facts or bills of exception. In order to have taken advantage of the matters of fact alleged in the motion for new trial, if they were matters of fact and occurred as alleged, it was necessary to perpetuate such matters in bills of exceptions so this court would understand how the matters occurred. It is unnecessary to go into a discussion of the questions further than as stated.
+Finding no reversible error in the record the judgment is affirmed.
+Affirmed.
