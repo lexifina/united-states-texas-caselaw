@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,822"
+decided: "1959-06-24"
+citations: ["168 Tex. Crim. 260"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Leroy E. Happner v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0260-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2619141
+cites_cases: ["155 Texas Cr. Rep. 503", "157 Texas Cr. Rep. 414", "159 Texas Cr. Rep. 613", "160 Texas Cr. Rep. 42", "161 Texas Cr. Rep. 171", "163 Texas Cr. Rep. 214", "164 Texas Cr. Rep. 563", "165 Texas Cr. Rep. 140", "165 Texas Cr. Rep. 303", "166 Texas Cr. Rep. 15", "166 Texas Cr. Rep. 340", "236 S.W. 2d 820", "249 S.W. 2d 612", "266 S.W. 2d 147", "267 S.W. 2d 419", "275 S.W. 2d 652", "289 S.W. 2d 926", "301 S.W. 2d 103", "305 S.W. 2d 366", "306 S.W. 2d 355", "313 S.W. 2d 609", "317 S.W. 2d 740"]
+---
+
+# Happner v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for incest; the punishment, four years.
+In July, 1946, when the prosecutrix was three years of age her mother and father were divorced, and her custody was awarded to her mother, who, in the same month and year married her ex-husband’s brother, an uncle of the prosecutrix. The uncle then also became her step-father.
+The prosecutrix testified that she lived in the home of her mother and stepfather; that she thought of him as her father and he treated her as his daughter until he began having intercourse with her when she was about eleven years of age; and that he had been having intercourse with her at least once each week for over a year before the last act of intercourse about June 14, 1958, at which time she was fifteen years of age. She further testified that when a girl friend visited with her overnight they occupied the same bed, and that appellant came to the bed that night and there had intercourse with her.
+The testimony of the friend who had spent the night with the prosecutrix corroborated her testimony that appellant had intercourse with her that night.
+Appellant’s written statement was introduced in evidence in which he admitted committing the act here charged in or about June 14, 1958, and that he had been having sexual intercourse with the prosecutrix for about a year.
+Appellant did not testify but called the brother of the witness who testified that she had spent the night with the prose-cutrix and he testified that he had had sexual intercourse with the prosecutrix. He further called two witnesses who testified that his (appellant’s) general reputation as a peaceable and law abiding citizen was good, and another witness who testified that the prosecutrix’ general reputation for truth and veracity was bad.
+The voluntary character of appellant’s written statement introduced- by the state was submitted by the court in its charge to the jury. , •
+The court also charged the jury that if they found that the offense charged was committed then the prosecutrix was an accomplice witness as a matter of law, and that they could not convict upon her testimony unless there was testimony outside of her testimony tending to connect appellant with the commission of the offense charged.
+The evidence is sufficient to support the verdict of the jury.
+Appellant contends that the trial court erred in admitting the testimony of prior acts of intercourse between the parties, and strenuously insists that the court erred in admitting the testimony of the acts of intercourse by appellant with the pros-ecutrix when she was eleven years of age. because such acts were barred by the statute of limitations, and therefore inadmissible.
+Appellant cites many cases which support his contention.
+All cases holding such testimony inadmissible were expressly overruled in Johns. v. State, 155 Texas Cr. Rep. 503, 236 S.W. 2d 820. There we said:
+“In matters of incest or rape under the age of consent, it is often of importance to show the attitude between them and the relative size, age and strength of the parties, and if possible, to show how one in a position demanding care and guidance of a related person, has failed in such duty and has adopted an unnatural attitude relative thereto, and by fondling or otherwise, evidences a desire for sexual gratification toward such child or relative. We therefore think that where any such acts become material to thus show them they are admissible. That the previous sexual conduct with this girl prior to the charge and since she was a 10-year-old child was admissible herein. Any cases holding to the contrary will be overruled without setting forth the same herein.”
+“Bill No. 9 complains of such showing as being three years previous to the instant one, well beyond the bar of the statute of limitations, and therefore inadmissible. Under what we have herein said, such previous acts had value in showing the attitude of appellant toward this girl as being lustful, and calculated to lead her into a life of wantonness rather than the attitude of protection demanded of him towards this child of his deceased wife.”
+In Lozano v. State, 159 Texas Cr. Rep. 613, 266 S.W. 2d 147, the rule in the Johns case, supra, was applied in a fondling case. The Lozano case reads in part as follows :
+“The other cases cited by appellant are prior to our holding in Johns v. State, 155 Texas Cr. Rep. 503, 236 S.W. 2d 820. In that case we overruled our prior holdings and said that in cases involving incest and rape under the age of consent acts other than the one charged in the indictment were admissible as evidencing the probability of the charged act and the unnaturalness of the accused’s attitude toward the victim of his lust. * * * We see no reason why this rule should not apply with equal reason to fondling cases.”
+Since the Johns case, the holding therein has been consistently followed by this court: Gephart v. State, 157 Texas Cr. Rep. 414, 249 S.W. 2d 612; Head v. State, 160 Texas Cr. Rep. 42, 267 S.W. 2d 419; Earwood v. State, 161 Texas Cr. Rep. 171, 275 S.W. 2d 652; Ball v. State, 163 Texas Cr. Rep. 214, 289 S.W. 2d 926; Miller v. State, 164 Texas Cr. Rep. 563, 301 S.W. 2d 103; Bates v. State, 165 Texas Cr. Rep. 140, 305 S.W. 2d 366; Simmons v. State, 166 Texas Cr. Rep. 15, 317 S.W. 2d 740.
+The complaint of the absence of proof of venue cannot be sustained because the record fails to show that upon the trial of the case the accused challenged the sufficiency of the evidence to show venue. Art. 847, Vernon’s Ann. C.C.P.; Masters v. State, 165 Texas Cr. Rep. 303, 306 S.W. 2d 355; Bell v. State, 166 Texas Cr. Rep. 340, 313 S.W. 2d 609.
+The judgment is affirmed.
+Opinion approved by the Court.
