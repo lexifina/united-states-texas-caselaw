@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "24558"
+decided: "1950-12-25"
+citations: ["154 Tex. Crim. 237"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ernest Leonard Werley v. State."]
+source_url: "https://static.case.law/tex-crim/154/cases/0237-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2586750
+---
+
+# Werley v. State
+
+## Majority (BEAUCHAMP, Judge.)
+
+BEAUCHAMP, Judge.
+The conviction is for aggravated assault, with a fine of $150.00 and one month in jail.
+It is alleged that appellant drove and operated a motor vehicle on a public highway and committed aggravated assault upon the person named by willfully and with negligence colliding with and causing injury to such person. When called into court, appellant pleaded guilty before the court without a jury. There is no statement of facts showing what evidence was had upon the trial and no bills of exception. The judgment recites that he announced ready for trial and pleaded guilty; that the court admonished him of the consequences of his plea and the judgment was entered accordingly. The judgment also recites that the defendant requested the consent of the court permitting him to waive trial by jury. It also contains the “sentence”. This was unnecessary in a misdemeanor case, but we cannot say that it would be harmful and no question is raised about it.
+The trial and judgment were had on July 18th. Two days thereafter a very lengthy motion for new trial was filed making a large number of complaints which appellant contends constitute fundamental error. In reply to this the state filed its contest in due form, expressly denying in specific terms each and every allegation made in the motion. Evidence was heard and a rather lengthy statement of facts, taken only on the motion for new trial, is found in the record. There is at least evidence to support the judgment of the court in finding against each and every contention which appellant presented. This finding is, under the statements of facts as we view it, conclusive. We have no power to say that the judge decided against the weight of the evidence, any more than we would have to say that a jury found against the most reasonable evidence of a case and in favor of that which was weaker.
+The foregoing summary of the record clearly states the case from our viewpoint and leaves nothing further for our discussion. It is not necessary to discuss what the law is under a state of facts which the court has impliedly, by his judgment on a motion for new trial, found to be incorrect. The very able brief will not, under the circumstances, aid us.
+We find no error in the record and the judgment of the trial court is affirmed.
