@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,483"
+decided: "1962-03-28"
+citations: ["172 Tex. Crim. 192"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emmett Raymond Diamond v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2636398
+cites_cases: ["163 Texas Cr. Rep. 645", "295 S.W. 2d 210"]
+---
+
+# Diamond v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is driving while intoxicated, as a second offender, a felony; the punishment, ten days in jail and a fine of $100-00.
+The witness Parker testified that as he was returning to Houston on the day in question he overtook a truck but was unable to pass it because the truck was being driven back and forth across the center stripe, causing automobiles to leave the paved portion of the highway; that one of the automobiles which they met was a highway patrol car which made a U turn and brought the truck driven by appellant to a stop. He stated that he remained at the scene long enough to see the officers place appellant in the patrol car and that he observed appellant’s pants were wet “up in the front between his legs”, and stated that the manner of appellant’s driving caused him to reach the conclusion that he was intoxicated.
+Highway patrolmen Smith and Wilson testified that they brought the truck which appellant was driving to a halt after seeing it cross the center stripe several times; that when appellant got out he staggered as he walked, was unsteady on his feet when he tried to stand, smelled of alcoholic beverages, that his eyes were red, and he told them that he and three other fellows had had a pint of whiskey and some beer, and delivered to them his driver’s license No. 4892470, and they expressed the opinion that appellant was intoxicated. Officer Wilson testified that he drove appellant’s truck to a place for storage and noticed no mechanical defects.
+Hearing Officer Devorski of the Department of Public Safety • testified from the driving records of the department that Emmett Ray Diamond, the holder of operator’s license No. 4892470, was convicted on September 26, 1955, in Polk County for the offense of driving while intoxicated.
+Appellant’s niece and two brothers testified that they were with appellant on the day in question, that no whiskey was consumed but that appellant did drink about two beers, and that his trousers were wet because they had been working out of doors following a rain, and denied that appellant was intoxicated. Appellant, testifying in his own behalf, substantiated this testimony and stated that the steering mechanism of his truck was defective. The records in the Polk County conviction alleged in the indictment were introduced in evidence. Appellant called mechanic Brooken, who testified that there was a defect in the steering mechanism of appellant’s truck and that he repaired the same.
+The jury resolved the conflict in the evidence against appellant; we find it sufficient to support a conviction, and shall discuss the contentions in the order presented in appellant’s brief.
+Prior to the trial, appellant moved the court to instruct the witness to refrain from expressing the opinion that appellant had apparently urinated in his trousers. The court instructed the witnesses not to express an opinion unless they were qualified. During the trial, one of the arresting officers testified, in answer to a question as to what factors caused him to conclude that appellant was intoxicated, that appellant had apparently urinated in his trousers. The court sustained the objection and instructed the jury not to consider the conclusion of the officer. Appellant asked for no further ruling and therefore is in no position to complain.
+This Court has heretofore in Hurst v. State, 163 Texas Cr. Rep. 645, 295 S.W. 2d 210, enumerated such type of evidence as tending to show intoxication, and we find no merit in appellant’s complaint.
+Appellant next contends that the State failed to prove that he was the same person as the one alleged to have been formerly convicted of the misdemeanor offense in Polk County. Officer Devorski’s testimony was probably not sufficient to sustain such allegation, but the State, on cross - examination of appellant’s brother, elicited the information that appellant had admitted to him that he had been convicted of driving while intoxicated once before, and from appellant that he had had beer but no choice on the Livingston trial as he had no legal advice. We may take judicial knowledge of the fact that Livingston is the county seat of Polk County. Though far from perfect, we have concluded that this evidence was sufficient to establish his identity in connection with the former misdemeanor conviction.
+No reversible error appearing, the judgment is affirmed.
