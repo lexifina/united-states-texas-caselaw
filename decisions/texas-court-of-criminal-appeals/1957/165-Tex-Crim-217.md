@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,986"
+decided: "1957-06-05"
+citations: ["165 Tex. Crim. 217"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter Earl Dillon v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0217-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2616421
+cites_cases: ["164 Texas Cr. Rep. 137", "296 S.W. 2d 781"]
+---
+
+# Dillon v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+The judgment in this case shows that after the appellant, upon his plea of not guilty, “waived a trial by jury, and submitted the decision of the cause to the Court,” he was convicted of the offense of driving an automobile upon a public highway while intoxicated and assessed a fine of $50 and ten days in jail by the court.
+By motion for new trial, appellant claims that he did not waive trial by jury but requested a jury trial.
+Evidence was heard by the trial court upon the allegation of the motion, and is brought here in a statement of the facts so introduced.
+The state challenges consideration of the question sought to be presented, as well the statement of facts, because the motion for new trial was not sworn to by the appellant and was therefore no proper pleading1 raising the question before the court. The case of Williams v. State, 164 Texas Cr. Rep. 137, 296 S.W. 2d 781, is cited in support of the state’s contention.
+That case and the cases cited therein preclude consideration of the question upon the unverified motion, and sustain the state’s contention.
+The judgment is affirmed.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING
+WOODLEY, Judge.
+Under the authorities cited in our original opinion, his motion for new trial not being verified, appellant is in no position to complain of the overruling of his motion for new trial.
+This court is not without authority to determine from the record whether or not the trial court had jurisdiction to try the case and enter the judgment appealed from.
+Article I, Sections 10 and 15, of the Constitution of Texas, accord to one accused of crime the right of a trial by jury. This right may be waived in a misdemeanor case. Art. 11 C.C.P. Under the constitutional provisions and the statute, a jury trial is mandatory unless the right thereto is waived.
+Appellant was called before the court on January 7, 1957; the information was read to him and he entered a plea of not guilty. His right to choose whether to be tried before the court or to have a jury was explained to him and he made known, at least to the county attorney, that he desired a jury.
+The trial court advised him to secure counsel and reset the case for January 25.
+Prior to this date the county attorney sent a telegram requesting that appellant advise the name of his attorney and whether he wanted a jury trial. He received no reply and appellant denied receiving the message.
+When he again appeared before the court on January 25, appellant had employed no counsel and said he was ready. He was not then asked as to whether he desired a jury, or if he waived a jury, and without further mention of his request for a jury trial made on January 7th, the court heard the testimony of witnesses offered by the state.
+It is clear that when this hearing of testimony began appellant had not waived a jury, but had requested a jury trial.
+Appellant having requested a jury trial when the case was called on January 7th, the court was without jurisdiction to proceed to try him without a jury unless and until he withdrew his request and waived a jury trial.
+There is no evidence that he ever withdrew his request or waived a jury trial unless it be the fact that he sat throughout the proceeding, cross-examined the state’s witnesses, and said nothing about the absence of a jury until the court advised him that he was finding him guilty and assessing a fine of $50 and 10 days in jail. Upon this announcement appellant protested that he had not waived a jury and he understood that the proceedings before the court were preliminary and a jury trial would follow.
+It is true that after appellant secured counsel and the court had heard the evidence in support of his motion for new -trial, a judgment was prepared and entered reciting that appellant had waived a trial by jury and submitted the decision of the cause to the court. The facts adduced at the hearing refute this recitation of the judgment and the trial judge did not testify.
+The court being without jurisdiction to conduct the trial without a jury after appellant’s request therefor, the state is in no position to rely upon the silence or conduct of appellant during such proceedings nor upon the recitation of the judgment prepared after appellant had complained that he had been denied a jury trial.
+Appellant’s motion for rehearing is granted, the order of affirmance is set aside, and the judgment is now reversed and the cause remanded for trial by jury.
