@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "17468"
+decided: "1935-04-03"
+citations: ["128 Tex. Crim. 287", "81 S.W.2d 93"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joe Luce v. The State."]
+source_url: "https://static.case.law/tex-crim/128/cases/0287-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5255197
+cites_cases: ["127 S. W. 549", "59 Tex. Cr. R. 6", "59 Texas Crim. Rep., 6"]
+---
+
+# Luce v. State
+
+## Majority (KRUEGER, Judge.)
+
+KRUEGER, Judge.
+The appellant was tried and convicted of the offense of burglary, and his punishment was assessed at confinement in the State penitentiary for a term of two years.
+The only contention which appellant makes before this court is that the testimony does not justify his conviction. The State’s testimony shows that John Thedford had constructed a cabin on a Ford chassis in which he lived at Big Eddy on the Neches River in Henderson County; that on or about the 25th day of March he was arrested and placed in jail at Henderson, where he remained until the 12th day of August, 1934: At the time of his arrest by Charlie Fields he gave the key to his cabin to Fields with the request that he, Fields, lock the door, which Fields did. He gave no one permission to enter his cabin and take therefrom any of the personal property. About the 7th day of August Fields noticed that the cabin was open, that the padlock and chain on the door was broken and all the personal property had been removed therefrom. Fields did not know whether the cabin was open prior to the 7th day of August, the date of the alleged offense. We quote from his testimony as follows: “I went there and looked in because I saw the door open when I passed by there. I know it was locked when I left it locked. The first time I saw the door open I stopped, looked in and saw the stuff was gone. A day or two later I found it at Perry Davidson’s home. Joe Luce, the defendant, was arrested and he made a statement either the same day or a day or two later. It was several days before I got the stuff that I found the cabin had been broken open.”
+A. B. Pittman testified as follows: “I had occasion to pass by that cabin after John Thedford was placed in jail and before Luce was arrested. The first evening that I passed after Thedford was put in jail the cabin was locked up and then I went back down there the next evening and it was unlocked. I reckon it was somewhere along in August.”
+The appellant testified in his own behalf that he left Perry Davidson’s home about sundown on August 7th in a wagon to go to the cabin, two and one-half miles away; that when he arrived there the door to it was open and he walked in, took two quilts, mattress and two pillows, which he carried to Davidson’s home. The length of time required to go from Davidson’s home to the cabin, nor at what time appellant arrived there is not shown. It appears from the record that there was a stove, table, and chairs in the cabin, but by whom or when said articles were taken is not disclosed by the record. A number of witnesses testified for appellant that -they had on several occasions prior to the 7th day of August noticed the door of the cabin open. It also appears from the record that on the 4th day of July there were quite a number of people attending a picnic at or near the cabin and that some of the persons entered the cabin and topk a table and chairs from the same and used them.
+The indictment charged ordinary burglary. It is our opinion that the cabin was John Thedford’s private residence, and if appellant arrived at the same thirty minutes after sundown and entered it by force, he would be guilty of the offense of burglary of a private residence at nighttime and could not be convicted under an indictment charging ordinary burglary. If the door was open and the appellant entered the cabin through the open door and fraudulently took some personal property therefrom with the intent to deprive the owner of the value of same and to appropriate it to the use and benefit of him, the said appellant, he would not be guilty of burglary but of theft. One of the State’s .witnesses testified that after Thedford had been placed in jail he was down at Big Eddy and saw that the door of the cabin was closed and the next day when he went back the door to it was open. This was some time in August, but the witness fails to state whether this was prior or subsequent to the 7th day of August. Neither does he state that the household articles were still in the cabin or had already been removed. If the articles were still in the cabin, then there is no doubt that the door was opened and the lock .had been broken from the door prior to the time that appellant entered the same and took the articles therefrom. Just why none of the persons attending the picnic on the 4th day of July were called as witnesses to show that the door of the cabin was closed or that the table and chairs were not taken from it and used is not disclosed by the record. The uncertainty and general weakness of the testimony is such that we do not feel justified in permitting the judgment to be affirmed when upon another trial the doubtful and uncertain facts may be more fully and definitely established. See Green v. State, 59 Texas Crim. Rep., 6.
+The judgment of the trial court will therefore be reversed and the cause remanded.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
