@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,829"
+decided: "1961-06-07"
+citations: ["171 Tex. Crim. 305"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Guadalupe Vasquez v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2634916
+---
+
+# Vasquez v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is the unlawful possession of marihuana, a narcotic drug; the punishment, 20 years.
+Sheriff Mayfield and three of his deputies searched an apartment house occupied by appellant and his wife and their son-in-law, Frank Gonzales and his family, about 10:30 P.M., and found 66 grams of marihuana in the pocket of a pair of greasy overalls.
+The overalls belonged to appellant who, at the time of the search, was in bed in the room adjacent to the closet where the overalls were found. A billfold containing papers identifying appellant, such as his Social Security card, was found in the same pocket.
+The marihuana was wrapped in paper and was in a paper sack “mashed down kinda flat where it had been in the pants pocket there” * * * the papers “are greasy, the same as the overalls are, too, like it wasn’t put in there the last five minutes.”
+According to the state’s witnesses, they were directed to the apartment by the owner who had rented it to Frank Gonzales, and made the search with Gonzales’ consent.
+Appellant and his witnesses, including Frank Gonzales, testified that the officers said if he didn’t open the door they would kick it down, and they entered without his consent.
+Appellant testified that the officers found his overalls in a closet. He further testified that when he pulled them off there was nothing in the pocket except his billfold; that the package of marihuana introduced in evidence was not in the overalls, was not his and he had never seen it before the trial.
+Frank Gonzales and other occupants of the apartment denied any knowledge of the marihuana being in the apartment.
+The issues made by the testimony were submitted to the jury and were resolved against appellant.
+The case was submitted to the jury as one of circumstantial evidence. Viewed in the light most favorable to the state, the evidence is deemed sufficient to sustain the jury’s verdict.
+The record contains no formal bills of exception and there were no objections to the charge and no requested charges.
+No brief has been filed in appellant’s behalf pointing out any error calling for reversal and we have found none.
+The judgment is affirmed.
