@@ -1,0 +1,73 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,871"
+decided: "1957-04-17"
+citations: ["164 Tex. Crim. 502"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Beard v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0502-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2609701
+cites_cases: ["110 Texas Cr. Rep. 456", "120 S.W. 2d 1054", "127 S.W. 2d 902", "135 Texas Cr. Rep. 399", "137 S.W. 2d 768", "137 Texas Cr. Rep. 18", "138 Texas Cr. Rep. 526", "156 Texas Cr. Rep. 187", "163 Texas Cr. Rep. 101", "163 Texas Cr. Rep. 13", "239 S.W. 2d 396", "288 S.W. 2d 775", "289 S.W. 2d 249", "39 Texas Cr. Rep. 3", "43 S.W. 983", "44 S.W. 832", "7 S.W. 2d 530"]
+---
+
+# Beard v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for unlawfully selling beer in a dry area; the punishment, six months in jail and a fine of $500.
+The agreed statement of facts shows that proof was made by the state that on or about the date alleged the appellant did sell to Ronald Gresham in Anderson County the intoxicating beverage described in the complaint and information. It was further shown that for the purpose of proving that Anderson County was a dry area the state offered in evidence a petition for a prohibition election filed with the commissioners’ court of Anderson County on June 16, 1913, an order entered by the court calling the election on July 3, 1913, an order entered on July 14, 1913, by the commissioners’ court declaring the results of the election as against prohibition and a judgment entered in the district court of Anderson County on July 14, 1913, in an election contest proceeding styled “George A. Wright, et al. v. J. J. Strickland” declaring the result of the election as being in favor of prohibition and ordering that the sale of intoxicating liquor in Anderson County be prohibited from and after July 11, 1915.
+Appellant questions the sufficiency of the evidence to show that Anderson County was a dry area.
+It is first insisted that the evidence is insufficient because the information alleged the number of the cause in which the judgment in the election contest was rendered and the agreed statement of facts does not show the number.
+The judgment introduced in evidence by the state is shown in the agreed statement of facts and in verbatim the same as alleged and set out in the information. While the number is not shown, the judgment as introduced together with the other evidence is sufficient to sustain the jury’s finding that Anderson County was a dry area as alleged.
+We overrule appellant’s contention that the judgment in the election contest relied upon by the state to prove the dry status of the county was ineffective for such purpose because the district court was without power or authority to render such a judgment. In Brooks v. State, 138 Texas Cr. Rep. 526, 137 S.W. 2d 768, this same judgment was relied upon by the state and held sufficient by this court to show that Anderson County was a dry area.
+Appellant next insists that the case should be reversed because the order overruling his motion for new trial shows that he was not present when the motion was heard, considered and overruled by the court.
+Except in the matter of fundamental error, it is essential to authorize review that rulings of the trial court and objections and exceptions thereto and questions of practice and procedure be brought up by bills of exception. See 4 Texas Jur. 204, 205, Appeal and Error-Criminal Cases, Sec. 146. That the defendant was not present when his motion for new trial was acted upon is not error which may be preserved by informal bill of exception under Art. 760e or 759a V.A.C.C.P.
+The objection that a part of the trial proceeded in the absence of the defendant, to be reviewed on appeal, must be preserved by a bill of exception, Cassius v. State, 110 Texas Cr. Rep. 456, 7 S.W. 2d 530; 4 Texas Jur. 219, Sec. 157.
+Had appellant complained in the trial court or there questioned the validity of the court’s action in hearing and overruling his motion for new trial in his absence, the trial court would have had the opportunity to set aside his order and rehear the motion in appellant’s presence. Krautz v. State, 4 Texas Ct. App. 534; Berkley v. State, 4 Texas Ct. App. 122; Garcia v. State, 5 Texas Ct. App 377.
+The recitation in the court’s order that no right or privilege guaranteed by the Constitution and laws of the United States or of the State of Texas was waived by the appellant did not relieve appellant of the necessity of reserving a bill of exception in order to preserve for review by this court the action of the trial court in hearing and overruling the motion for new trial in his absence.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment is affirmed.
+Opinion approved by the Court.
+
+## Concurrence (WOODLEY, Judge.)
+
+CONCURRING OPINION
+WOODLEY, Judge.
+The case of Johnson v. State, 163 Texas Cr. Rep. 101, 289 S.W. 2d 249, recently decided, controls the question of appellant’s absence at the time his motion for new trial was heard and determined. There, as here, the conviction was for a misdemeanor and the question was not raised in the trial court by bill of exception, but was shown in the order overruling the motion for new trial.
+Phillips v. State, 163 Texas Cr. Rep. 13, 288 S.W. 2d 775, cited by appellant, on the other hand, was a felony conviction. Phillips who was necessarily in custody pending the filing and disposition of his motion for new trial, complained by bill of exception which recited that he was in jail and did not waive his right to be present, and the trial court failed to rehear the motion for new trial, but pronounced sentence.
+A motion for new trial cannot be made a substitute for or take the place of a bill of exception.
+The taking of a bill of exception to the overruling of a motion for new trial or the recording of an exception in the order overruling it verifies only the fact that the- motion was presented to the court and overruled by him and that appellant excepted to that action of the court. 4 Texas Jur., p. 206, Sec. 148; Tindol v. State, 156 Texas Cr. Rep. 187, 239 S.W. 2d 396; Fowler v. State, 135 Texas Cr. Rep. 399, 120 S.W. 2d 1054.
+The first of the nine grounds named in Art. 753 C.C.P. for the granting of a new trial is that the defendant has been tried in his absence.
+A mere statement in a motion for new trial that the file mark on the information was improperly changed is not sufficient to bring the error before this court. Moss v. State, 39 Texas Cr. Rep. 3, 43 S.W. 983, rehearing overruled, 44 S.W. 832.
+Under many authorities the right of the defendant to be present at all times during his trial is one that he may waive. If his presence may be waived, his absence is not such fundamental error as may be complained of for the first time in this court.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+Art. 580, C.C.P., requires that in all prosecutions for a felony or a misdemeanor when the punishment or any part thereof is imprisonment in jail “the defendant must be personally present at the trial.”
+The hearing of the motion for new trial is a part of the trial, within the meaning of the statute. Phillips v. State, 163 Texas Cr. Rep. 13, 288 S.W. 2d 775.
+This record affirmatively reflects that appellant was not present when his motion for new trial was presented and acted upon and that he did not waive his right to be present at that time.
+The order of the trial court overruling appellant’s amended motion for a new trial reads as follows:
+“On this the 7th day of November, 1956, came on regularly and at a time prescribed by law and fixed by the Court to be heard the defendant’s first amended original motion for a new trial; the State and the defendant appeared solely by their attorneys, Joe R. Carroll, County Attorney of Anderson County, Texas, for the state and C. S. Farmer and E. T. McCain, Jr., for the defendant; no right or privilege guaranteed, allowed or granted by the constitution and laws of the United States of America or the constitution and ¡or law of the State of Texas was waived by either the State and the defendant, or either of them; said first amended original motion for a new trial was at the time prescribed by laws presented to the court for its determination and the court after hearing said motion for a new trial and argument of counsel and after having duly considered said motion for a new trial is of the opinion, and so finds that said motion should be in all things denied and refused and overruled. [Emphasis, supplied.]
+“It is, therefore, ordered, adjudged and decreed by the court that the defendant’s first amended original motion for a new trial be, and the same is hereby, in all things denied and overruled, to which action and ruling of the court the defendant by and through his counsel, C. S. Farmer and E. T. McCain, Jr., then and there in open court seasonably and at the time and in the manner prescribed by law duly and legally excepted and gave notice of appeal to the court of Criminal Appeals of the State of Texas, which exception and notice of appeal is here now entered of record as required by law.”
+To me, it is apparent that such order affirmatively reflects (a) that appellant was not personally present when his motion for a new trial was presented and acted upon by the trial court; (b) that he did not waive his right to be present at that time; and (c) that his counsel, who were present at the hearing of the motion, duly excepted to the trial court’s action in overruling the motion.
+The conclusion is, to my mind, inescapable that this record affirmatively reflects that a direct, positive, and unequivocal mandate of the legislature was violated and disregarded by the trial court, in the violation of which the appellant was deprived —without fault, waiver, or negligence on his part — of a valuable right. See Henderson v. State, 137 Texas Cr. Rep. 18, 127 S.W. 2d 902; Phillips v. State, 163 Texas Cr. Rep. 13, 288 S.W. 2d 775 (supra).
+My brethren do not suggest to the contrary, but acquiesce, agree, and affirm the trial court’s action — not because the appellant was deprived of a valuable right conferred by statute, but because his counsel did not, in addition to the exception reserved and pointed out in the order overruling the motion for new trial, also file and present an independent bill of exception to the very matter covered by the order overruling the motion for new trial.
+A bill of exception could have added nothing which was not reflected by the order of the court and the certificates contained therein, for the trial court certified that appellant was not present when his motion for new trial was acted upon and had not waived his right to be present. A bill of exception could have reflected nothing more.
+So then, the error here shown is apparent from the record in the case. In the commission of that error appellant was deprived of a right made mandatory by the legislature of this state. The error, therefore, was fundamental, and no bill of exception was required to warrant a review by this court.
+In addition, Art. 667, Vernon’s C.C.P., expressly authorizes consideration of the question here presented, for it is there provided:
+“Where the matter about which complaint is made and the trial court’s ruling thereon reasonably appear from any formal or informal bill of exception, same shall be considered upon appeal, regardless of whether or not the bill of exception is multifarious or relates to more than one subject, complaint, or objection.”
+Surely the exception reserved in the order overruling the motion for a new trial and the facts certified therein constituted, at least, an informal bill of exception which, under the facts mentioned, was entitled to be considered by this court.
+My brethren justify the affirmance of this conviction in the face of the positive disregard of the statutory mandate, by saying:
+“Had appellant complained in the trial court or there questioned the validity of the court’s action in hearing and overruling his motion for new trial in his absence, the trial court would have had the opportunity to set aside his order and rehear the motion in appellant’s presence.”
+Surely my brethren cannot be serious in that statement, for, if appellant had been present to question the validity of hearing the motion in his absence, he was then present for the hearing and the mandate of the statute had been complied with.
+So, appellant is held liable for not personally calling attention to the fact that he was not present when the court heard the motion for new trial.
+Appellant’s personal presence being required when his motion for new trial was heard, he alone, could waive that requirement. His counsel could not do so for him.
+In addition to the direct certificate of the trial court that appellant did not waive his right to be present at the hearing, I call attention to the further fact that there is not the least intimation from this record that appellant voluntarily absented himself from court or that he knew or had prior notice that the motion for new trial was to be heard at the time.
+So long as the legislature has declared that a defendant must be personally present at his trial, under certain conditions, it is the duty of the courts to obey and carry out that declaration.
+If the courts may — as here shown — openly violate and disobey that statute, then all other statutes may be equally disobeyed, and we have left only law by judicial decree.
+I respectfully dissent.
