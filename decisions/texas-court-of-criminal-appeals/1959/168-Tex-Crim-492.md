@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,060"
+decided: "1959-12-02"
+citations: ["168 Tex. Crim. 492"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Hammett Upchurch v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2621626
+---
+
+# Upchurch v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is negligent homicide of the second degree; the punishment, a fine of $250.
+The unlawful act which the complaint and information charged was that appellant was unlawfully driving and operating a motor vehicle on a public highway “not having in his immediate possession a valid operator’s license authorizing him to so drive and operate such motor vehicle, as required by law.”
+Art. 6687b V.A.C.S., Sec. 2(b), provides “Any person holding a valid chauffeur’s or commercial operator’s license hereunder need not procure an operator’s license.”
+Sec. 13 of Art. 6687b V.A.C.S. provides that every licensee shall have his operator’s, commercial operator’s or chauffeur’s license in his immediate possession at all times when operating a motor vehicle.
+There is no allegation or proof that appellant had been issued an operator’s license or that he had not been issued an operator’s, commercial operator’s or a chauffeur’s license.
+It was not unlawful for appellant to drive a motor vehicle on the highway without having in his immediate possession an operator’s license, if he had a chauffeur’s or commercial operator’s license.
+It follows that the information is insufficient to charge the offense of negligent homicide in the second degree.
+We further observe that evidence to the effect that appellant produced an operator’s license issued to another, at the hospital, did not necessarily establish that he did not have in his immediate possession at the time of the accident a license authorizing him to drive a motor vehicle on the highway.
+The judgment is reversed and the prosecution is ordered dismissed.
