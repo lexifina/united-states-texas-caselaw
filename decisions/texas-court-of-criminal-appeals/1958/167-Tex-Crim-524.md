@@ -1,0 +1,63 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,488"
+decided: "1958-03-18"
+citations: ["167 Tex. Crim. 524"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richard Thelton Davis v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0524-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8551559
+cites_cases: ["109 Texas Cr. Rep. 26", "124 S.W. 2d 349", "124 S.W. 2d 379", "136 Texas Cr. Rep. 159", "136 Texas Cr. Rep. 160", "155 Texas Cr. Rep. 261", "155 Texas Cr. Rep. 560", "159 Texas Cr. Rep. 234", "159 Texas Cr. Rep. 65", "166 Texas Cr. Rep. 577", "2 S.W. 2d 442", "233 S.W. 2d 856", "237 S.W. 2d 317", "261 S.W. 2d 335", "262 S.W. 2d 722", "316 S.W. 2d 742"]
+---
+
+# Davis v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The indictment charged the offense of robbery of R. C. Craig-by assault and violence, and in a separate count alleged the burglary with intent to commit theft of a house belonging to R. C. Craig.
+Both counts contained further allegations of two prior convictions of felonies less than capital successively committed in New Mexico,-in May 1954 for grand larceny, and in November 1955 for breaking and'entering in the nighttime with intent to commit larceny.
+Both counts were submitted to the jury with instructions not to consider the burglary count if the defendant was found guilty of the charge of robbery.
+The jury found appellant guilty of robbery and found that he had been twice previously convicted of felonies less than capital, as charged, and the court pursuant to Art. 63 P.C. entered judgment ordering that appellant be confined in the penitentiary for life.
+Briefly stated, the evidence shows that appellant, a white man, and Charles Everett Banks, a Negro, an accomplice witness for the state, came to El Paso accompanied by two Negro women for the purpose of burglarizing.
+Having gained entrance into the Mills Building during the night by removing a window pane, and into a loan company’s offices on the 5th floor, the doors of which were closed and locked, appellant was busily engaged in breaking into or stripping the loan company safe, Banks keeping watch, when R. C. Craig, the night watchman, appeared.
+Craig, who the evidence shows had control and custody of the building and the offices during the night, was confronted with a pistol by Banks, was threatened with death and his hands were bound behind his back while the job of breaking into the 500 pound iron and cement safe was completed and some $2300 taken therefrom.
+Appellant and Banks left with the money, except for some checks and coins found scattered on the office floor, leaving Craig in a supply closet tied to a conduit.
+In an exchange of courtesies, Craig, whose hands were still bound behind him, was permitted to sit on a stool in this closet and was tied to the conduit so that he could “get loose pretty quick” but not “right away.” Craig told appellant which of his keys to use to get out the back gate, and appellant and Banks promised to leave the keys there, and did.
+Both appellant and Banks were positively identified by Craig, the night watchman.
+Appellant complains that the court should have sustained his motion to require the district attorney to elect upon which count of the indictment the state would rely.
+Burglary with intent to commit theft and robbery are offenses of the same nature. Ex parte Ranels, 155 Texas Cr. Rep. 560, 237 S.W. 2d 317; Farris v. State, 155 Texas Cr. Rep. 261, 233 S.W. 2d 856; Branch’s Ann. P.C. 2d Ed., Sec. 698.
+The offenses arose out of the same act or transaction, and the evidence would support a conviction under either count. Under such facts the state is not required to elect. McKinnon v. State, 159 Texas Cr. Rep. 65, 261 S.W. 2d 335; Branch’s Ann. P.C. 2d Ed., Sec. 464.
+The state’s proof in support of the allegation of prior convictions consisted of certified copies of the pleadings, judgments, and sentences, together with certified copies of commitments with attached photographs and fingerprints, and certificate as to the laws of New Mexico relating to the crimes charged. Also the testimony of a fingerprint expert based upon comparison of such prints with appellant’s fingerprints taken by him, showing that the prints were those of the same person, and testimony that the photographs appeared to be of appellant.
+Such manner of proving prior convictions alleged for enhancement has been held sufficient, in the absence of any testimony to the contrary. See Stockwell v. State, 166 Texas Cr. Rep. 577, 316 S.W. 2d 742, and cases there cited.
+Other grounds advanced for reversal by appellant’s earnest counsel have been considered and are overruled.
+The evidence is sufficient to sustain the conviction and we find no reversible error.
+The judgment is affirmed.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+(dissenting).
+More constitutional guarantees go, here. With the affirmance of this case goes the constitutional guarantee, both state and federal, which preserves to one upon trial in a criminal case the right to be confronted by the witnesses against him (Art. 1, Sec. 19, Const, of Texas, and the Sixth and Fourteenth Amendments to the Federal Constitution).
+When such guarantee is destroyed, hearsay evidence is raised to the status of legitimate testimony by and through which men may be tried and condemned and deprived of their life and liberty.
+In this case this appellant has been assessed imprisonment for life in the penitentiary of this state, not because he committed the crime of robbery, as charged, but because he had been twice convicted of felonies in and under the laws of the State of New Mexico.
+That appellant was so convicted the state relies solely and alone upon hearsay testimony. Thus hearsay testimony no longer is without probative value but has now been recognized as a medium by and through which facts are thereby established.
+The indictment in this case alleged that on May 12, 1954, Richard Thelton Davis was convicted in San Juan County, New Mexico, of grand larceny, a felony under the laws of that state. The indictment also alleged that on November 7, 1955, Richard Thelton Davis was convicted in Santa Fe County, New Mexico, of “the crime of Breaking and Entering in the Nighttime with Intent to Commit Larceny * * * ,” a felony. That those convictions were prior to the primary offense in point of time of commission of the offenses as well as the time of the instant conviction was properly alleged.
+To sustain those allegations it was incumbent upon the state not only to show the prior convictions and that they were for felonies but also to identify the appellant as being the person who was so charged, tried, and convicted in the State of New Mexico. Garza v. State, 159 Texas Cr. Rep. 234, 262 S.W. 2d 722; Angus v. State, 136 Texas Cr. Rep. 159, 124 S.W. 2d 349; Berthrong v. State, 136 Texas Cr. Rep. 160, 124 S.W. 2d 379; Walthall v. State, 109 Texas Cr. Rep. 26, 2 S.W. 2d 442.
+As was said in the Walthall case, it was imperative that the state establish the identity of the accused as the person who had been convicted prior to the instant conviction. This rule was followed in the Berthrong case, where the prior conviction was alleged to have occurred in another state.
+It was the burden of the state, first, to show the final convictions and then to identify the appellant as the convict.
+To prove the prior convictions, the state introduced copies of the pleadings, judgments, and sentences which appear to bear the certificate of certain officers of the state of New Mexico. No witness testified as to the authenticity of those instruments or that the persons certifying' thereto were in fact authorized to do so. The instruments were established solely and alone upon hearsay testimony and by force of their own allegations.
+To identify the appellant as the alleged convict the state offered in evidence the ex parte certificate — not affidavit — of the warden on the penitentiary of the State of New Mexico, who attached to that certificate what he said was a photograph, fingerprint record, and commitment papers of Richard Thelton Davis, who he certified was “a person heretofore committed to said penal institution and who served a term of imprisonment therein.” The warden further certified:
+“* * * I have compared the foregoing and attached copies with their respective originals now on file in my office and each thereof contains, and is, a full, true and correct transcript and copy from its said original.”
+Not one witness testified that the photograph and fingerprint records were, in fact, those of the appellant in this case.
+All that the warden of the penitentiary certified was that the instruments to which he certified were on file in his office.
+With the fingerprint record, the state produced a witness who testified that from a comparison of the known fingerprint of the appellant with the copy certified by the warden he was able to say that the certified copy was a copy of a fingerprint that had been made by the appellant.
+. Thus, by the rankest sort of hearsay testimony, this appellant is condemned to life imprisonment in the state penitentiary when without that hearsay testimony such punishment could not have been inflicted.
+I am reminded of a decision of the Supreme Court of the United States delivered March 2, 1959, in the case of New York v. O’Neill. In that case, the validity of a Florida statute was sustained which was entitled “Uniform Law to Secure the Attendance of Witnesses from Within or Without a State in Criminal Proceedings.” That statute provides a procedure whereby witnesses found or residing in one state may be extradited or required to be present as a witness in a court of another state. In the opinion it is pointed out that such statute operates only between states which have enacted it or similar legislation to compel witnesses to travel or to testify in sister states.
+In 1951, Texas enacted the “ ‘Uniform Act to Secure the Attendance of Witnesses from Without the State in Criminal Proceedings,’ ” appearing as Art. 486a, Vernon’s C.C.P.
+If this appellant’s prior convictions and identity can be lawfully shown as was here done, then any other material fact in a criminal case may be shown by hearsay testimony, also.
+Thus is the right to be confronted by the witnesses against him no longer guaranteed to one upon trial in this state for his life and liberty.
+I respectfully dissent.
