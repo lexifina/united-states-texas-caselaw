@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,976"
+decided: "1958-10-22"
+citations: ["166 Tex. Crim. 561"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eddie Fletcher v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2616259
+cites_cases: ["160 Texas Cr. Rep. 239", "161 Texas Cr. Rep. 620", "268 S.W. 2d 154", "273 S.W. 2d 623"]
+---
+
+# Fletcher v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is murder without malice under Article 802c, V.A.P.C., with two prior convictions alleged for enhancement; the punishment, life.
+The state’s evidence amply established the appellant’s intoxication on the night in question and that while driving his automobile, in which were found numerous bottles of intoxicants, he passed a stop sign and ran into the side of an automobile occupied by the deceased, thus causing her death. The appellant did not testify in his own behalf and only produced evidence that since the collision other and additional warning signs had been erected at the intersection where the accident occurred. The prior convictions were established.
+The. sole question presented for review is the failure of the trial court to instruct a verdict of not guilty on the grounds that there was no showing of a causal connection between the appellant’s intoxication and the collision which resulted in the death of the deceased. The facts will be more fully discussed in the light of this contention.
+It should be observed at the outset that the existence or nonexistence of such causal connection is normally a question for the jury’s determination under an appropriate charge. The trial court in the instant case gave a charge in almost the same language as was approved by this court in Smith v. State, 161 Texas Cr. Rep. 620, 273 S.W. 2d 623, and which appears as Section 1505.1 in 3 Branch’s Annotated Penal Code, 2nd Edition, at page 512. See also Yarborough v. State, 160 Texas Cr. Rep. 239, 268 S.W. 2d 154.
+We return to the facts and appellant’s contention. The road was straight, and there were no obstructions to a proper view of the approaching intersection and stop sign. Appellant evidently either saw or had previous knowledge of the stop sign and the intersection and realized the circumstances under which he was approaching them too late because the skid marks from his tires extended well over a hundred feet from the intersection and 165 feet from the point of impact. The collision caused the motor of the appellant’s automobile to be severed from the frame, completely demolished the automobile in which the deceased was riding; the first traveled more than fifty feet, and the second almost a hundred, from the point of impact and came to rest upside down. And yet the appellant would have this court hold as a matter of law that there was an entire absence of any showing that the appellant’s intoxication was a causative factor in the collision and death. To do so would be to agree with the appellant that a sober man could as easily have had this accident as one under the influence of intoxicants. This we decline to do.
+The judgment is affirmed.
