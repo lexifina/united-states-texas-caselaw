@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,742"
+decided: "1959-05-13"
+citations: ["168 Tex. Crim. 220"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elmer Lacy v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0220-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2621567
+cites_cases: ["160 Texas Cr. Rep. 387", "161 Texas Cr. Rep. 124", "167 Texas Cr. Rep. 605", "271 S.W. 2d 643", "275 S.W. 2d 677", "321 S.W. 2d 877", "37 Texas Cr. Rep. 433", "38 Texas Cr. Rep. 121", "41 S.W. 624"]
+---
+
+# Lacy v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is driving while intoxicated; the punishment, 3 days in jail and a fine of $125.00.
+The Mayor of Turkey, Texas, after closing his store on the night in question, drove over to Quitaque where he was arrested by the sheriff and his deputies. According to the officers, appellant was intoxicated and admitted to them that he had had too much to drink. According to the appellant, he had had only two drinks, was not intoxicated, and made no such admission. The jury resolved this conflict in the evidence against the appellant; we find the evidence sufficient to sustain the conviction, and will discuss the contentions advanced by brief and argument.
+He first objected to the jury list because it contained thirteen names. If appellant sought to complain of the inclusion of this additional name, he should have done so by a motion to quash the panel and preserved the same by a formal bill of exception or by a separate statement of facts, as required by Articles 760e and Section 6 of 759a, V.A.C.C.P. This has not been done in the case at bar, and nothing is presented for review. However, we find no error in drawing and listing the names of all of the members of the jury panel.
+He next complains that he was not permitted to examine the panel “each one separately in the absence of each other.” Recently, in Templin v. State, 167 Texas Cr. Rep. 605, 321 S.W. 2d 877, we passed upon a similar contention, and there held that we were aware of no reason why the accused might not have examined the panel collectively as well as in the absence of each other, as the accused had requested. Nothing appears in this record to differentiate the case at bar from Templin. If such reason did exist, the appellant should have brought the matter forward in a formal bill of exception, which he has not done.
+Appellant complains of the overruling of his motion for continuance. There is no motion for new trial and no affidavit showing what the absent witness would have testified to if he had been present. No error is shown. Parsons v. State, 160 Texas Cr. Rep. 387, 271 S.W. 2d 643.
+His last contention is that the court erred in overruling his motion to suppress the evidence concerning the finding of an additional unopened fifth of whisky in the appellant’s automobile. This court does not recognize motions to suppress. Dominguez v. State, 161 Texas Cr. Rep. 124, 275 S.W. 2d 677. When the whiskey was offered in evidence, it was admitted without objection. We are aware of no rule nor have we been cited any which would render this evidence inadmissible.
+Finding no reversible error, the judgment of the trial court is affirmed.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON MOTION FOR REHEARING
+WOODLEY, Judge.
+Art. 628 C.C.P. provides:
+“The clerk shall draw from the box, in the presence of the court, the names of twenty-four jurors, if in the district court, or so many as there may be, if there is a less number in the box; and the names of twelve jurors, if in the county court, or so many as there may be, if there be a less number in-the box, and write the names as drawn upon two slips of «paper and deliver one slip to the State’s counsel and the other to the defendant or his attorney.”
+Appellant objected because more than 12 names were drawn from the box and placed on the list presented to him. He cites as authority for his claim for reversal on this bill three early cases construing this provision.
+Burfey v. State, 3 Texas App. 519, where the defendant requested that 27 names be placed on the list, and the Court of Appeals stated that they knew of no law which authorized the defendant to demand or the court on his own motion to require that more than 24 be drawn except in capital cases.
+Jones v. State, 3 Texas App. 575, where the same point was raised and the Burfey holding was approved.
+Jones v. State, 37 Texas Cr. Rep. 433, 35 S. W.975, where the court held the bill of exception insufficient to raise complaint because 26 jurors were drawn instead of 24 as the statute provides.
+In Bratt v. State, 38 Texas Cr. Rep. 121, 41 S.W. 624, the list furnished the defendant had 30 names, but 3 were taken off, and he complained. In overruling the complaint, this court said:
+“The law only allowed him 24, and he had 3 more than he was entitled to choose from, of which he certainly cannot complain.”
+Appellant’s motion for rehearing is overruled.
