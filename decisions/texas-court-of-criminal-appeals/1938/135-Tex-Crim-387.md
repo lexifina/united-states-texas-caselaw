@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "19839"
+decided: "1938-10-26"
+citations: ["135 Tex. Crim. 387", "120 S.W.2d 597"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Paul W. Moyers v. The State."]
+source_url: "https://static.case.law/tex-crim/135/cases/0387-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5224228
+---
+
+# Moyers v. State
+
+## Majority (Krueger, Judge.)
+
+Krueger, Judge.
+The offense is automobile theft; the punishment, confinement in the State Penitentiary for a term of five years.
+By bill of exception number one, appellant complains of the introduction in evidence of his written confession. His contention is that the confession was obtained from him by officers under threats and duress. The testimony shows that when the officers were taking him from Richmond to Houston, he told them that he had stolen the automobile. Upon reaching Houston, they took him to the police station where, after he was given the statutory warning, he made a written confession of his guilt. According to his own testimony, no force, threats or abuse of any kind was resorted to by the officers to obtain the confession. Under these circumstances the confession was clearly admissible against him. At the trial, he repudiated his confession and contended that he purchased the alleged stolen car from William Pope.
+By bill number two, appellant complains of certain remarks made by the district attorney in his closing argument to the jury. In this argument, the attorney remarked that he had, on several occasions, told juries that in his opinion the accused on trial was innocent and should be acquitted. That he recalled that he had done so in a recent rape case, stating that the alleged injured female made several contradictory statements and he asked the jury to acquit the defendant. The court qualified the bill and stated that the argument complained of was made in reply to argument of defendant’s counsel. Moreover, the court sustained appellant’s objection to the argument and told the jury not to consider it for any purpose. Under these circumstances, it is our opinion that the bill fails to reflect reversible error. A defendant is not entitled to complain of improper argument of State’s counsel occasioned and justified by the argument of his own counsel. See Branch’s Ann. P. C., Section 363 and cases cited.
+Appellant next complains of the court’s action in overruling his motion for a new trial based on newly discovered evidence. It is averred in said motion that on the day following his conviction, one Mart Wren came to the office of appellant’s counsel and stated that he was acquainted with William Pope, the person from whom appellant claimed he purchased the alleged stolen automobile. Was this newly discovered evidence as he claimed? We do not think so. Appellant testified that Dick Rat-cliff, M. Rand, Frank Tice .and C. Jackson, all knew William Pope and no doubt he could have proved the same facts by them; yet he had no process issued for any of them. Moreover, we do not regard the alleged newly discovered evidence as material. Mr. Wren may have known Pope and may have had him employed at some time. Even so, it would fail to establish any defense or support appellant’s contention that he purchased the automobile in question from Pope. All that Wren’s testimony would have amounted to would have been that he knew Pope and this could have been proved by the other parties named by appellant.
+Finding no reversible error in the record, the judgment of the trial court is affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
