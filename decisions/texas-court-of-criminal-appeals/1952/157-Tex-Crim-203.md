@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,831"
+decided: "1952-04-23"
+citations: ["157 Tex. Crim. 203"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Edward Francis Goodale."]
+source_url: "https://static.case.law/tex-crim/157/cases/0203-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2569997
+---
+
+# Ex parte Goodale
+
+## Majority (BEAUCHAMP, Judge.)
+
+BEAUCHAMP, Judge.
+An original application was filed by relator in this court under Article 119, Code of Criminal Procedure, seeking to secure his release from further confinement in the state penitentiary.
+The application disclosed that he had been convicted in two cases in Harris County; that, thereafter, he was out of confinement on parole and was arrested and convicted in four cases in Dallas County. The questions of fact raised by this application were referred to the Honorable Henry King, District Judge, Dallas County, who appointed Mr. Frank Ivey, an attorney of that city, to represent relator in conducting an examination of the records and securing other evidence to answer the questions presented to this court. Mr. Ivey filed a supplemental petition in this court enlarging on the matters set out in the original petition. Copies of the various judgments against him were introduced in the record and evidence taken as to the time he was held in jail in Dallas County.
+It is shown that relator came to the Dallas County Jail on March 13, 1943, with four charges lodged against him; that he was tried and convicted in each of the four cases on May 15, 1945. Two days thereafter he was picked up by an authority from the penitentiary and transferred to Huntsville. It is shown that when the- charges were lodged against him in Dallas County in 1943 his parole was revoked by the Governor and he was held in the jail until the date of his trial by reason of the two sentences against him from Harris County.
+The contention in this application is that relator is entitled to credit on his time in the two cases from Harris County from the time of the revocation of the parole in 1943 until he returned to the penitentiary on May 17, 1945. It is shown that he has not been allowed credit for such period.
+It is our conclusion that he was, during that period of time, serving under the two sentences from Harris County and that he should be so credited. It appears that when he is credited with this time he will have served in excess of the total of eighteen years, from the date he began serving in the two cases from Harris County, and that he should be discharged.
+It is now the order of this court that the warden of the State Penitentiary release him from further confinement in so far as he is being held under the following judgments and sentences against him: Cause No. 44096, of date October 21, 1937, and No. 44092, of date November 9,1937, Harris County, Texas; and Cause Nos. 8807-B, 8808-B, 8809-B and 381-B, each dated May 15, 1945, in the District Court of Dallas County, Texas. This order shall have no effect as to any other convictions for which he may be held in confinement.
