@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2445"
+decided: "1913-05-07"
+citations: ["70 Tex. Crim. 434"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ada Young v. The State."]
+source_url: "https://static.case.law/tex-crim/70/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2378900
+cites_cases: ["150 S. W. Rep., 893", "40 Texas Crim. Rep., 48", "62 Texas Crim. Rep., 73"]
+---
+
+# Young v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+Appellant was convicted of perjury, and her punishment fixed at two years in the penitentiary.
+The indictment properly charged that in a certain case in court she testified: “I know Mr. Alvis when I see him. He shot once with a pistol in the direction of Mr. Oaks, my husband, and Tom Longwood and did not drop his pistol but carried it away with him, and was four or five steps away from them at the time he shot. He shot one time.”
+The indictment further charges that in said case and trial wherein she is charged with giving said testimony, it then and there became and was a material inquiry whether or not said Ada Young was present at the time and place of the difficulty in which said Oaks was assaulted and whether or not said Alvis, a witness for the State, did then and there have a pistol upon his person, and whether or not the said Alvis did then and there fire and discharge said pistol. That in truth and in fact the said Ada Young was not immediately present at the time and place of the difficulty in which said Oaks was assaulted, and the said Alvis did not then and there have a pistol and did not then and there fire or discharge the same. • That all of said statement so made by the said Ada Young was wilfully and deliberately false and she knew the same to be false when she made it.
+The court gave a full, complete and apt charge in the case. He charged that the material part of the statement alleged in the indictment to be whether or not said Ada Young was present at the time and place of the difficulty in which said Oaks was assaulted and whether or not the said Alvis, a witness, etc., did then and there have a pistol upon his person, and whether or not the said Alvis did then and there fire and discharge said pistol.
+The court, besides requiring the jury to believe beyond a reasonable doubt all of the facts alleged in the indictment to be true before they could convict, also charged that they had to believe beyond a reasonable doubt that said statement of Ada Young is false and untrue in this: That the said Ada Young was not immediately present at the time and place of the difficulty in which the said -Oaks was assaulted and the said Alvis, the witness aforesaid, did not then and there have a pistol and did not then and there fire or discharge the same, before they could convict appellant.
+[Rehearing denied May 28, 1913.—Reporter.]
+There is but one contention in this case. It is raised and presented in several ways,—and that is appellant’s claim that the said false statements were in solido and the court did not require the jury to believe, as a necessary part of said false statements, this sentence in the testimony of said Ada Young: “I know Mr. Alvis when I see him.”
+Appellant cites several cases to the effect that where a false statement is alleged to be made in solido that it is necessary to prove all of it. The proposition he makes is correct, but in our opinion it has no application in this case. The indictment was clearly so drawn as to present separate and distinct allegations upon material false testimony and it distinctly traversed them and the court correctly submitted them. It was not necessary nor proper to submit and require the jury to believe that it was necessary to prove the falsity of the said single sentence above quoted. Robertson v. State, 150 S. W. Rep., 893; Sisk v. State, 28 Texas Crim. App., 432; Washington v. State, 23 Texas Crim. App., 336; Jackson v. State, 15 Texas Crim. App., 579; Donohoe v. State, 14 Texas Crim. App., 638; Terry v. State, 62 Texas Crim. Rep., 73.
+The judgment is affirmed.
+Affirmed.
