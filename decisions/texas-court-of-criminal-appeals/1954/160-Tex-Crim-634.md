@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,100"
+decided: "1954-11-03"
+citations: ["160 Tex. Crim. 634"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William R. Fisher v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469490
+---
+
+# Fisher v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is an attempt to persuade a female child under the age of 14 years to enter a motor vehicle for the purpose of committing an aggravated assault upon such child; the punishment, two years in jail.
+This is the first prosecution to reach this court under Article 535b, V.A.P.C., entitled “Enticing child for immoral purposes or for committing assault,” enacted by the 51st Legislature in 1950. The definition of the offense as found in the statute is as follows:
+“It shall be unlawful for any person with lascivious intent to entice, allure, persuade, or invite, or attempt to entice, allure, persuade or invite, any child under fourteen (14) years of age to enter any vehicle, room, house, office or other place for the purpose of proposing to such child the performance of an act of sexual intercourse or an act which constitutes the offense of sodomy or for the purpose of proposing the fondling or feeling of the sexual or genital parts of such child or the breast of such child, if the child be a female, or for the purpose of committing an aggravated assault on such child, or for the purpose of proposing that such child fondle or feel the sexual or genital parts of such person.”
+We have examined the authorities of several of the other states who have a statute similar to the one here under consideration but have been able to find little help therefrom.
+There are no bills of exception in the record, and the sole question presented is the sufficiency of the evidence to show that the appellant had a lascivious intent at the time he invited her into his automobile.
+It was shown that Don Tomas Sanchez School in the city of Laredo is situated in a relatively sparsely built up section of the city some four blocks south of Saunders Street, which is a thoroughfare leading from the city to the Air Force Base. None of the streets around the school are paved, and they are rough and infrequently traveled. One officer who had the school under surveillance counted only twelve automobiles pass in a period of three days.
+Josefina Cruz, age 13 on the day charged in the indictment, testified that as she returned to school at noon, and while a block and a half away from it, she was accosted by this appellant, who was driving away from the school and who drove his automobile across on his left side of the street to where she was and stopped. She stated that he asked her, “Do you want a ride?” and when she declined he then said, “Do you want a dollar to ride with me?” which last question she did not answer but continued on to school, and she stated that the incident frightened her. She further testified that she had seen the appellant driving around the school on other occasions.
+Irene Flores, also age 13, was permitted to testify without objection that a week following the incident upon which this prosecution is based, as she returned to school after lunch, appellant drove his automobile over on her side of the street and asked her, “Do you want a lift?” and when she declined he said, “Oh come on, baby”; and she said that the incident frightened her. Neither of the girls knew the appellant.
+The testimony of the Flores girl was in a measure corroborated by the testimony of Gloria Bueno and Elma Perez.
+It was further shown, without objection, that several of the students gave the school principal the number of appellant’s automobile which they had seen in the vicinity of the school. It was also shown that he had received numerous complaints from girls and some from their parents to the effect that someone had been offering them rides and that such complaints had involved only girls and that he received no further complaints from the children after the appellant’s arrest.
+Appellant’s confession recites, “About 4 or 5 weeks ago, I stopped for the first time at this school and asked some of the children if they wanted to go riding with me in my car, but none would go with me. I offered them money whenever I would ask them to go riding with me.”
+Testifying in his own behalf, the appellant, a 30-year old sergeant in the Air Force, testified that he lived in the city and went back and forth to the Air Base in his automobile. He stated that he did not remember offering a ride to any of the witnesses who had testified and denied that he ever said, “Come on, baby, get in the car.” He stated, however, that he was in the habit of giving rides to children and that he usually offered them money when they refused to ride with him. He admitted that he had tried to pick up several girls in the vicinity of the Tomas Sanchez School but that all of them had turned him down and that some of the times when they had refused he had offered them money. He stated that he had learned to befriend children in his youth and during his service in China, Korea and India but denied that he had ever molested any child. Several witnesses testified that the appellant had the reputation of being generous and that his reputation was good as to sexual normality. He does not, however, give a plausible explanation of why he was frequently in the vicinity of the school.
+Our decision in this case has been fraught with considerable difficulty, but after careful consideration we have decided that the jury was authorized from the facts heretofore stated to conclude that the invitation to enter appellant’s automobile was made with a lascivious intent and for an immoral purpose, which is the gravament of the act charged.
+The judgment is affirmed.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON APPELLANT’S motion for rehearing
+WOODLEY, Judge.
+Count one of the indictment, upon which the case was submitted to the jury, alleged that appellant did invite Josefina Cruz, a female under 14 years of age, to enter an automobile being driven by appellant, with lascivious intent and for the purpose of committing an aggravated assault upon said child. We were in error in our original opinion wherein we referred to the offense as “an attempt to persuade” the child. We should have said “inviting a female child under 14 to enter a motor vehicle, etc.”
+The case was submitted to the jury under a charge on circumstantial evidence, and the jury was instructed to acquit unless they found beyond a reasonable doubt that appellant had a lascivious intent and intent to commit an aggravated assault upon the child at the time.
+The evidence is without dispute that appellant invited the child to enter the automobile he was driving. It is true that he testified that he had no recollection of having invited Josefina Cruz, but he admitted that he had offered rides to school girls in the vicinity of the Tomas Sanchez School and, after being “turned down,” had offered some of them money. But appellant denied that he had any lascivious intent or intent to commit an assault upon any of such children.
+Viewing the evidence in the light most favorable to the state, which it is our duty to do in passing upon the sufficiency of the evidence to sustain the jury’s verdict, we remain convinced that it is sufficient to support a finding that appellant acted with lascivious intent and intent to commit an assault upon and to pervert and degrade the female child Josefina Cruz. The jury was not bound to accept appellant’s denial of such intent.
+Appellant’s motion for rehearing is overruled.
