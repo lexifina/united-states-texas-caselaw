@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "415"
+decided: "1894-04-18"
+citations: ["33 Tex. Crim. 173"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges all present and concurring."]
+parties: ["Pink Daugherty v. The State."]
+source_url: "https://static.case.law/tex-crim/33/cases/0173-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11273058
+cites_cases: ["10 Ga., 46", "10 Ga., 83", "10 Ga., 85", "18 Ga., 383", "19 Ga., 586", "21 Ga., 6", "37 la., 166"]
+---
+
+# Daugherty v. State
+
+## Majority (HUBT, Presiding- Judge.)
+
+HUBT, Presiding- Judge.
+This is a conviction for theft of over $20. When the case was called- for trial on the 9th day of November the State announced “ready,” and Norman G. Kittrell, an attorney of the court, stated that he did not represent the defendant, but that, on account of the sickness of J. J. Dotson, defendant’s counsel, the case should be continued. William Watson stated that he had been requested by Dotson to represent him in the case, but had not been connected with the case nor employed therein. The court announced that he would postpone the case to 1 p. m., and that unless other ground for continuance was shown the case would be tried. When the court reassembled, the defendant presented an application for a continuance on account of the illness of his counsel, Dotson; stating that Dotson had been employed by him, and had represented him since shortly after the examining trial; that he had no other counsel; that Dotson had been in attendance on the court, and would have been present to represent defendant, but for the reason that on the night of November 7th he was stricken by disease, and was still confined to his bed, and unable to attend court; that defendant is poor, and unable to employ other counsel; that he had paid Dotson, and that he had tried to get counsel, but failed. It further appears by bill of exception, that shortly after Dotson was stricken with disease the brother of defendant endeavored to secure the services of Kittrell; but as he could not give security the latter did not consider himself retained in the case. He did not know the witnesses nor the facts. Kittrell, in his statement made in connection with the application for continuance, stated that from imbecility or other cause defendant appeared to have no conception of what witnesses were needed, and did not appear to know who his witnesses were. He could make no intelligent statement of bis case. The court overruled the application, and thereupon Kittrell and Watson declined to appear as counsel in the case. In allowing the bill of exceptions the trial judge states, that “defendant’s witnesses were all present, and, the court feeling competent to see that none of defendant’s rights should he prejudiced, and all of the defenses fully presented in the trial, and believing that the application for continuance was made purely for delay, I overruled the same.” “If a defendant in an ordinary felony case is entitled to a continuance on account of sickness and absence of his counsel, what shall be done in the case of the same character where he is unable from the beginning to employ counsel"?” The case was tried with no counsel appearing for the defendant, and resulted in his conviction. In connection with the motion for new trial Watson states, that after the refusal of the continuance he conferred with defendant, but found him in such a mental condition as to be unable to give any information about the case. He did not. consider defendant to be in such a condition mentally as to be a fit subject of a criminal prosecution. “After I had decided not to represent defendant further, it was explained to him by Judge Kittrell that we had decided not to represent him, as it was best for him, and he concurred in this decision.”
+We are of opinion that the continuance should have been granted. The case is not one where the accused is unable to secure the services of counsel; nor is it a case where the accused does not desire counsel. He had retained counsel who was familiar with his case, and prepared to properly present it to the court and jury; and without fault upon the part of either defendant or his counsel, he was prevented from having the benefit of his counsel and advice. When a continuance is sought on account of the absence of witnesses, the statute provides under what circumstances the same shall be granted. When a continuance is sought on other grounds, the granting of the same is within the sound discretion of the court. Code Crim. Proc., art. 557; Willson’s Crim. Stats., sec. 2181. The bill of rights provides, that “in all criminal prosecutions the accused shall have the right of being heard by himself or counsel or both.” The right thus secured is invaluable. The appearance of counsel in a criminal case to speak upon the law to the court, upon the facts to the jury, to see that improper or illegal testimony is excluded, and to cross-examine the witnesses, is not an idle ceremony; and the denial of this right ought to be cause for reversal, the accused not being at fault.
+The judgment is reversed and cause remanded.
+Reversed and remanded.
+Judges all present and concurring.
