@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,642"
+decided: "1955-06-08"
+citations: ["161 Tex. Crim. 626"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Andrew James Dixon v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0626-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2466015
+cites_cases: ["123 S.W. 2d 354"]
+---
+
+# Dixon v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for driving a motor vehicle upon a public road while intoxicated; the punishment, 60 days in jail and a fine of $250.00.
+The information filed March 26, 1953, alleged that the offense was committed “on or about the 24th day of March, 1943,” whereas the complaint alleged the date of the offense as on or about March 24, 1953.
+The variance, as well as the fact that the date alleged in the information was beyond the period of limitation, is fatal to the information. Art. 415 V.A.C.C.P.; Bayless v. State, 136 Texas Cr. R. 1, 123 S.W. 2d 354; Branch’s Ann. P.C., Sec. 435, p. 230; Art. 414(6) V.A.C.C.P.; Branch’s Ann. P.C., Sec. 436, p. 230.
+Because of the early adjournment of the term of this court and in view of the possibility that the date 1943 be shown to be an error in the preparation of the transcript rather than in the information itself, other errors will be discussed.
+There is no serious question of appellant’s guilt of the offense charged. In fact, the record shows that appellant’s counsel sought only to secure for him the minimum punishment, which was at the time of the offense a fine of $50.00.
+The evidence showed that no collision occurred and no physical injury was inflicted or property damage done. It is shown, however, that appellant was intoxicated and drove his automobile from one side to the other on the highway upon which he was driving.
+In support of his effort to obtain leniency at the hands of the jury, appellant offered a number of witnesses who testified to his good reputation for truth and veracity, as a peaceful and law-abiding citizen, and for sobriety.
+These witnesses were closely cross-examined, but the state was able to show no fact which would destroy their testimony and no witness testified that the reputation of the appellant in either particular was bad.
+After a number of other character witnesses had testified, appellant offered the witness Dell Jones who, on direct examination, testified that he knew appellant’s general reputation in the community in which he lived for being a peaceful, law abiding citizen, for truth and veracity and for sobriety, and that it was good.
+The witness Dell Jones was then asked by appellant’s counsel: “Have you ever heard any person say anything bad about Andy Dixon’s reputation for truth or veracity or for being a peaceful law-abiding citizen or for sobriety? Have you ever heard any remarks to indicate that it was not good?"
+Counsel for the state objected to this question as improper, irrelevant and immaterial, and in connection with such objection the following occurred.
+“Mr. Casteldine: * * * It’s based on what other people have said as to his reputation being good. Of course, we’re not allowed to prove that he’s got a bad reputation and we are not allowed to go - - even to go in to it, even ask one question about it.
+“Mr. Martin: We object to those remarks as not the law at all.
+“Mr. Castledine: Yes, it is, your Honor.
+“Mr. Martin: Excuse me.
+“Mr. Castledine: If I attempted to ask one question about his bad reputation this Court would declare a mistrial.
+“Mr. Martin: You through. All right, sit down. I object to his remarks as a misstatement of the law. That when the defendant puts his character and reputation in issue it opens the door wide open for the State to ask any questions he wants to. Now I have asked my question and . . .
+“The Court: I sustain the objection, Mr. Martin, you may have your bill.
+“Mr. Martin: Thank you very much. Note our exception. You may have the witness.”
+The statement of the attorney for the prosecution was of course incorrect and improper, and in effect conveyed to the jury the suggestion that appellant’s reputation in the particulars mentioned, notwithstanding the testimony of his character witnesses to the contrary, was bad; that witnesses were available to so show, but the law would not permit the state to offer the evidence.
+The improper remarks, under the record here, are not such as may have been cured by instruction to the jury to disregard, and they call for reversal.
+There are other bills which are claimed to show undue prejudice against appellant in the matter of punishment assessed, including remarks in argument; evidence heard in the presence of the jury panel in regard to the effort of the state to obtain a forfeiture of appellant’s appearance bond; and interrogation of a character witness as to the Chamber of Commerce, of which he was a member, having made investigation, invited in speakers in an effort to eliminate or cut down drunk driving in the county.
+These last matters, we trust, will not arise at another trial, and we need not here determine whether reversible error is shown thereby.
+The judgment is reversed and the cause remanded.
