@@ -1,0 +1,45 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,823"
+decided: "1957-02-06"
+citations: ["164 Tex. Crim. 421"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dalton Tommy Atkinson v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0421-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611610
+cites_cases: ["118 Texas Cr. Rep. 136", "118 Texas Cr. Rep. 608", "163 Texas Cr. Rep. 36", "163 Texas Cr. Rep. 576", "288 S.W. 2d 508", "294 S.W. 2d 401", "39 S.W. 2d 42", "39 S.W. 2d 43"]
+---
+
+# Atkinson v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the possession of gambling paraphernalia, as denounced by Article 630, V.A.P.C.; the punishment, 90 days in jail.
+In view of our disposition of this case, a recitation of the •facts will not be deemed necessary.
+Omitting the formal parts, the indictment reads as follows: “* * * did then and there knowingly permit gambling paraphernalia to remain on premises there situate and then and there under his control.”
+It will be readily apparent from an examination of the statute in question that this indictment does not charge a violation of the law because the gravamen of the offense denounced by the statute is that the gambling equipment is “to be used for gaming purposes.” Any other interpretation of the law would make every householder who allows a deck of cards to remain in his home guilty under the act. Such was clearly not the intent of the legislature.
+Attention is directed to Willson’s Criminal Forms, 6th Ed., Section 847, page 194, which cites Abraham v. State, 118 Texas Cr. Rep. 136, 39 S.W. 2d 42, and France v. State, 118 Texas Cr. Rep. 608, 39 S.W. 2d 43.
+The judgment of the trial court is reversed and the prosecution ordered dismissed.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON STATE’S MOTION FOR REHEARING
+WOODLEY, Judge.
+The state does not contend that the indictment is sufficient, but challenges the jurisdiction of this court to hear and determine the appeal.
+The contention is that no valid notice of appeal was given during the term at which the motion for new trial was overruled.
+Relying upon the provision of Art. 755 V.A.C.C.P. and citing Mahan v. State, 163 Texas Cr. Rep. 36, 288 S.W. 2d 508, and DeHay v. State, 163 Texas Cr. Rep. 576, 294 S.W. 2d 401, the state contends that appellant’s motion for new trial was overruled by operation of law on July 19, 1956, during the June term of court, the motion having been filed on June 28, 1956, and no notice of appeal being given during said June term.
+If this was all the record showed, the Mahan case would support the state’s position.
+The record further shows, however, that the - motion was presented to the trial judge who set it for hearing during the succeeding August term and that during that term an amended motion for new trial was filed with leave of the court and was timely heard and overruled and notice of appeal given.
+Had the amended motion for new trial not been timely presented and acted upon by the trial court, then the case of DeHay v. State, supra, would support the state’s position.
+The precise question here presented was not passed on in either of the cited cases and is:
+Where a motion for new trial is filed and is not presented to the trial court and acted upon within the time allowed by Art. 755 V.A.C.C.P., is the trial court thereafter without authority to grant appellant leave to file an amended motion for new trial ?
+Art. 755 V.A.C.C.P. provides “A motion for new trial shall be filed within ten (10) days after conviction as evidenced by the verdict of the jury, and may be amended by leave of the court at any time before it is acted on within twenty (20) days after it is filed. Such motion shall be presented to the court within ten (10) days after the filing of the original or amended motion, and shall be determined by the court within twenty (20) days after the filing of the original or amended motion, but for good cause shown the time for filing or amending may be extended by the court, but shall not delay the filing of the record on appeal.”
+Art. 755 further provides that a motion for new trial may be filed after the expiration of the term at which the conviction resulted, either during a new term of court or in vacation.
+We have concluded that the above statute, and especially the italicized portions, cannot be construed as depriving the trial court of control during the term of judgments rendered at such term, and of the authority to hear and determine an amended motion for new trial filed with his leave.
+The fact that the amended motion for new trial was filed with leave of the court, and that the amended motion was timely presented and overruled, distinguishes this case from the Mahan and De Hay cases, supra.
+Notice of appeal given in open court when the amended motion was heard and overruled, six days after it was filed with leave of the court, conferred jurisdiction of the appeal on this court, appellant having entered into proper recognizance on appeal on that day.
+The state’s motion for rehearing is overruled.
