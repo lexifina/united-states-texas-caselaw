@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,534"
+decided: "1960-11-30"
+citations: ["170 Tex. Crim. 290"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Loice Dennis Hilliard v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2628591
+---
+
+# Hilliard v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for the possession of marihuana; the punishment, four years.
+When Immigration Officer Blakeney asked the appellant about his citizenship and also what he had in his hand, the appellant made no reply but suddenly ran as Blakeney grabbed for him and Officers DeBruhr and McCleary soon apprehended him. Officer Blakeney testified that appellant had something clutched in the cup of his left hand which was protruding from each side; and after running a short distance, the appellant stopped and appeared to drop something while shaking a handkerchief.
+Officer DeBruhr, McCleary, and Shaw testified they saw the appellant run a short distance, stop, and begin shaking a handkerchief causing something to fall to the ground which was shown to be six cigarettes which Officer DeBruhr picked up.
+On cross-examination, Officer Shaw testified that the appellant told him and Officer DeBruhr that:
+“I’m not going to take the rap alone. * * * The other two fellows have marihuana too.”
+The testimony shows that the appellant had two companions who had immediately preceded him as they passed through United States Customs from Mexico.
+Proof was offered that each of the six cigarettes contained marihuana.
+The appellant did not testify or offer any evidence in his behalf.
+Appellant contends that the trial court erred in permitting the introduction of the cigarettes into evidence over his objection that there was no chain of evidence showing that the six cigarettes picked up at the scene of appellant’s arrest were the same cigarettes as those introduced in evidence.
+He urges that there was a break in the chain of custody when Officer DeBruhr handed the cigarettes to Officer McCleary so he could telephone the police because Officer McCleary was not called to testify that the cigarettes he returned to DeBruhr were the same DeBruhr gave him when he left to use the telephone. Officer DeBruhr testified that he and Officer McCleary had taken appellant inside the United States Customs building where he gave McCleary the cigarettes and he had them in his hand standing there with the appellant when he went to the telephone and that McCIeary handed them back to him when he returned. This contention is overruled.
+Another break in the chain of custody is urged because the mailing clerk was not called to show that she took the package to the post office.
+Officer Murray testified that he prepared the cigarettes; packed, and wrapped them for shipment to the laboratory. Offiicer Moran, while testifying, identified the package as the one he marked for identification and gave to the mailing clerk for mailing, The package identified by Murray and Moran was also identified by the chemist as the one received by mail at the laboratory. The chemist testified that he opened the package and it contained an envelope with cigarettes enclosed therein which he identified as those he received in the mail; and that an analysis showed that the cigarettes contained marihuana. Officer De-Bruhr, while testifying, identified the six cigarettes as being the same ones he picked up from the ground as they bore the initials he and McCIeary placed on them. He also identified the envelope containing the cigarettes by his initials. While testifying, Officer Cuellar identified an envelope into which he had seen Officer DeBruhr place some cigarettes and after it was sealed he placed the date and his initials on it.
+The evidence is sufficient to identify the cigarettes and warrants their admission in evidence.
+It is insisted that the trial court erred in refusing a motion for a verdict of not guilty because of a vital conflict in the testimony of two state’s witnesses in that one witness said that when the cigarettes were dropped they scattered over a two foot area and the other witness said they were in a bunch with a string tied around them.
+The jury are the exclusive judges of the credibility of the witnesses and the weight to be given to their testimony. The testimony is not to be rejected because of contradictions and it is not thereby destroyed as a matter of law. Art. 657, V.A.C.C.P.; 18 Tex. Jur. 423, Sec. 301.
+The evidence is sufficient to support the conviction and no error appearing, the judgment is affirmed.
+Opinion approved by the Court.
