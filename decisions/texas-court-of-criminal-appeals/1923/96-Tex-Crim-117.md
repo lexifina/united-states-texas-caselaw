@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "7322"
+decided: "1923-12-05"
+citations: ["96 Tex. Crim. 117"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arthur Bird v. The State."]
+source_url: "https://static.case.law/tex-crim/96/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5071767
+cites_cases: ["63 Texas Crim. Rep., 429", "71 S. W. Rep., 284"]
+---
+
+# Bird v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+— Appellant Appellant was convicted in the Criminal District Court of Williamson county of selling intoxicating liquor, and his punishment fixed at one year in the penitentiary.
+The evidence seems to amply support the verdict. According to the State’s ease three young men went to appellant’s house and bought from him a half gallon of whisky and some wine for which they paid $8.00. The liquor was intoxicating. On behalf of appellant there was no testimony introduced denying that given by the State-witnesses.
+Appellant complains that he was denied the privilege of asking State witness Wininger if he was not charged with assault to rob in 1909. It is made to appear from the bill of exceptions that when the question was asked the jury were retired and in the jury’s absence the witness stated to the court that a complaint had been filed against him in 1909 for assault to rob but that it had never progressed beyond the justice court; that the grand jury had met and adjourned and no indictment had ever been returned against him. Mr. Branch cites a number of cases on page 101 of his Annotated P. C. sustaining the proposition that where a party is charged with felony by complaint only and sufficient time has elapsed for indictment and none has been presented, proof that such complaint was made against him is not admissible to impeach him. We do not think the trial court erred in not instructing’ the jury that the witness Wininger was an accomplice. Our statute expressly exempts ■ he purchaser of liquor from being deemed an accomplice. We .urther observe that there was no exception to the court’s charge on this ground and no special charge asked. However, if such had been the case it would not have been necessary for the court to so aharge, under our present statute.
+Finding no error in the record, the judgment will be affirmed.
+Affirmed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON rehearing,
+December 5, 1923.
+LATTIMORE, Judge.
+— It It is urged by appellant that he had two similar cases on appeal and that in some manner the briefs prepared and presented by him became confused and that the questions raised by him on his appeal in this case were not fully considered by us in our original opinion. We have again carefully reviewed the various complaints in the light of appellant’s original brief and the argument set forth in his motion for rehearing.
+In the indictment it was charged that appellant sold spirituous and vinous liquor capable of producing intoxication. The State witnesses testified that appellant sold whisky and wine. It was not error for the court in his charge to instruct the jury that if they believed from the evidence that the appellant sold spiritous or vinous liquors as charged in the indictment, they should convict. The testimony showed that both the whisky and wine bought from appellant were capable of producing intoxication. An analysis of the wine in question showed it to contain more than ten per cent of alcohol.
+Questions propounded to State witness Burson referring to the details of specific violations of the law sought from said witness, were properly objected to as having no place in the record. Authorities need not be cited to show that it was improper to attempt to impeach a witness by proving specific violations of the law. In our original opinion we discussed the fact that appellant was properly refused permission to prove against State witness Wininger that in 1909 he had been arrested for assault with intent to rob. It is now further complained that the court refused to permit the appellant to ask said witness if it was not true that during the trial of the case of the State of Texas v. Denson at the January Term 1922 of the Honorable Criminal District Court trying this case, said witness was a witness for the State and during that trial was asked if he had not been arrested charged with assault with intent to rob in the justice court of precinct No. 1 of Williamson County, Texas, and if he had not then denied having been so arrested. When this testimony was offered on the instant trial it was objected to by the State as being an attempt to impeach the witness or attack his credit with reference to an immaterial matter, the alleged arrest for robbery having taken place, if at all, at a time too remote to affect the credibility óf said witness, it having taken place more than thirteen years prior to the time of this trial. We think the learned trial judge correct in refusing to permit the witness to be interrogated with regard to his alleged false testimony on this point given at the January Term. One who asks a witness a question in reference to a matter that is immaterial or'which is inadmissible for the purpose sought, does so at his peril and would seem to be bound by the answer of the witness. We have no doubt of the inadmissibility of evidence as to the arrest of said witness on the charge of robbery. It was clearly too remote and related to an arrest in the justice court which was never followed up by any indictment. This being true, even if said witness had been asked during the trial of Denson in January relative to an arrest for said robbery, and had denied it,— proof of such fact would not be competent or admissible for the purpose of impeachment, the matter upon which the witness’ former answer was based, being immaterial and irrelevant.
+We do not perceive the materiality of the testimony sought on cross-examination from State witness Wininger relative to whether he had testified on the Denson trial that his drinking corn whisky then was his first venture in that direction. That appellant might be able now to prove that prior to the time he testified in the Denson case, witness had in fact imbibed whisky, would not seem to be proof of a matter material or relevant to any issue involved in this case.
+It is well settled that one may not be impeached or his credit affected by proof of the commission of a misdemeanor by him which does not involve moral turpitude, and there was no error in refusing to permit appellant to cross-examine State witness Burson relative to his coming to town with some liquor in his possession and raising Cain at a certain house for which he was arrested and fined. The testimony is further obnoxious to the rule forbidding details of specific offenses when offered for the purpose of impeachment.
+It was immaterial that the witness Wininger was sent by the sheriff out to the home of appellant on the occasion of the alleged sale of liquor.
+Appellant complains in this motion for rehearing of the failure and refusal of the court to instruct the jury as to the law of accomplice testimony as applicable to two witnesses who went out to appellant’s place with John Wininger on the occasion of the purchase by the latter of the whisky and wine from appellant. If there was anything in the contention, and we do not think there is, it could not be raised at this time because no exception to the court’s charge was presented on this ground.
+Being unable to agree with any of the contentions of appellant, the motion for rehearing will be overruled.
+Overruled.
