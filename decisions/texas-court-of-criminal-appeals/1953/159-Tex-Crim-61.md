@@ -1,0 +1,49 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,516"
+decided: "1953-06-27"
+citations: ["159 Tex. Crim. 61"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harry W. McCutcheon v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2473037
+cites_cases: ["148 Tex. Cr. R. 645", "187 S.W. 2d 559"]
+---
+
+# McCutcheon v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The appeal is from a conviction for burglary, the jury having assessed the punishment at 10 years in the penitentiary.
+The state’s proof established the breaking and entry of a prescription laboratory in Houston, from which the safe containing a quantity of narcotics was removed. The safe was found where it was thrown after the knob had been “knocked” and much of the contents had been removed.
+Appellant’s confession was introduced in evidence without objection, after it was shown by the testimony of the officer to whom it was purportedly made that the statutory warning had been given as shown in the statement.
+According to the confession, appellant and one John Allen Fredericks committed the burglary and “stashed” the narcotics in the dog house in the rear of the house at 1115 Wakefield, where the narcotics were found and the parties were arrested.
+After the confession had been read to the jury, on cross-examination of the officer to whom the confession was made, appellant proved that the home where the narcotics were found was occupied by Fredericks and one Margaret Robeson, referred to as Fredericks’ common-law wife, and that all three of the parties present at the house were arrested, the intention of the officer then being to file charges upon each of them for the burglary and also “a narcotics charge.”
+The officer testified that no inducement was offered, and it was the suggestion of appellant and Fredericks that they admit the offense so that Margaret Robeson would not be implicated. He also testified that he told appellant that if he would sign the statement “nothing would be filed against Margaret Robeson; that she would go free, even though it was found in her house.”
+The officer explained, however, that if appellant and Fredericks admitted the offense, “why naturally, we would file only oh the ones that were connected with it. - - - If they admitted the offense, why, naturally, she wouldn’t have nothing to do with it.” ' ■ ■ "
+Appellant thereafter moved the court to withdraw the confession from the jury because it was involuntary and was procured by the officer “by his promise to the defendant that if he would make said statement that the officers would not file any charge against Margaret Robeson, and would in consideration of the defendant signing said statement release Margaret Robeson from jail; . . .”
+The motion was overruled and exception was reserved.
+Appellant did not testify, and there is no evidence to the effect that he relied upon any promise or made the statement because of any promise made to him.
+Appellant did not establish as an undisputed fact that the confession was procured by promise or that it was involuntary, and did not complain that the issue of the voluntary character of the confession should have been submitted to the jury.
+After the verdict appellant filed his motion for new trial within the ten days allowed by law, and thereafter sought permission of the court to file an amended motion for new trial, which he designates also as a “direct petition for review of his conviction.”
+The trial court declined to grant leave for the filing of the amended motion.
+By bill of exception appellant complains that he was not permitted to allege for the first time after the verdict and to then prove that the confession was involuntary because of the additional promise of the officer that, if appellant would confess to the burglary in question, no charges of possession of the narcotics found at the place of arrest would be filed against him, and that appellant relied upon and was induced by such promise in making and signing the confession.
+Appellant concedes that under the procedure provided for the trial, disposition and appeal of criminal cases in this state, the trial court did not abuse his discretion in declining to permit the filing of an amended motion for new trial.
+It is appellant’s contention, however, that this court should determine whether appellant was deprived of his constitutional rights under the rule referred to in Newman v. State, 148 Tex. Cr. R. 645, 187 S.W. 2d 559.
+The evidence sought to be offered in support of the allegation of the amended motion was in no sense newly discovered. The facts as to the confession were of necessity known to appellant, but he exercised his right to remain silent at the trial. Such facts were known to the officer to whom the confession was made, and he was questioned at length in regard thereto. He was asked as to his intention to file charges in connection with the narcotics, as well as for the burglary, and as to the claimed promises that no charge would be filed against Margaret Robeson.
+If appellant desired to question the officer regarding a further claimed promise not to prosecute for possession of the narcotics, if appellant would confess to the burglary, he had the opportunity to do so at the trial. And if he cared to testify that he made and signed the confession because of the promise and inducement that no charge would be filed against the woman, or no narcotics charge would be filed against him, he was in possession of the facts and had the opportunity to testify thereto on the trial.
+Having elected to forego the opportunity of attacking the confession in the trial as involuntary, because of the claimed promises and inducement, the trial court did not err in declining to permit the amended motion to be filed and to hear testimony thereon.
+The evidence heard at the trial sustains the admissibility of the confession and, at most, the evidence upon the allegation of the motion ,for new trial would but present an issue as to the voluntary character of the confession such as would require its submission to the jury and therefore came too late.
+The judgment is affirmed.
+
+## Rehearing (MORRISON, Judge.)
+
+ON MOTION FOR REHEARING.
+MORRISON, Judge.
+In our original opinion we stated but did not discuss the fact that the appellant made no request that the question of the voluntary nature of the confession be submitted to the jury. Some confessions are inadmissible as a matter of law. This is not such a case.. If the accused felt that the confession, to the introduction of which he had offered no objection, had been secured from him by means of some inducement, it then became his duty to indicate to the trial court his desire that the jury pass upon this question. That is one of the functions of the jury, and the appellant should have availed himself of their services in this regard.
+We will certainly not say as a matter of law that the mere inference that an officer may have lead the accused to believe that if he confessed no case would be filed against the common law wife of his alleged confederate rendered the confession inadmissible.
+Remaining convinced that we properly disposed of this cause originally, appellant’s motion for rehearing is overruled.
