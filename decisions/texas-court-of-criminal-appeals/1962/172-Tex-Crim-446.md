@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,684"
+decided: "1962-06-13"
+citations: ["172 Tex. Crim. 446"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Margaret Renty v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0446-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2640737
+---
+
+# Renty v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Upon waiver of a jury, the appellant was convicted for the offense of giving a check in the sum of $35 without sufficient funds and with the intent to defraud; the punishment, sixty days in jail.
+Mrs. Rae Mooney testified that on December 31, 1959, she was employed as a cashier for J. Weingarten Incorporated. On that date the $35 check, which is the basis of this case, was presented to her. As agent of her employer she cashed the check after placing her mark of identification on the check and making a photograph of both the check and of the person presenting it.
+The photograph showing both the check and the person presenting it, and the $35 check itself were introduced in evidence. These exhibits and the appellant were before the trial judge.
+Mrs. Mooney, while testifying, expressed the opinion that the accused was the same person who presented the check and for whom she cashed it. She also identified the check by her mark of identification.
+The proof shows that said check was presented in the due course of business to the named bank and was returned unpaid because the account was closed at all times here in question.
+The appellant did not testify or offer any evidence, and no brief has been filed on her behalf.
+There are no formal bills of exception, and an examination of the informal bills shows no error.
+The evidence is sufficient to support the conviction, and therefore the judgment is affirmed.
+Opinion approved by the Court.
