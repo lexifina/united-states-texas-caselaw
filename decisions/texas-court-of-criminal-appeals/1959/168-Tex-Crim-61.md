@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,738"
+decided: "1959-04-29"
+citations: ["168 Tex. Crim. 61"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Robert Frank Miller."]
+source_url: "https://static.case.law/tex-crim/168/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2620431
+cites_cases: ["163 Texas Cr. Rep. 283", "290 S.W. 2d 673"]
+---
+
+# Ex parte Miller
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+This is an original application for writ of habeas corpus brought by relator seeking his release from the Texas Prison System.
+Relator was on August 8, 1957, convicted upon a plea of guilty in Cause No. 4176 in the District Court of Jasper County for the offense of theft, and his punishment assessed at three years. He questions the effectiveness of that portion of the Jasper County sentence which attempts to cumulate it with additional sentences. It reads as follows:
+“And the defendant, Robert Frank Miller, having previously been convicted of the offense of burglary in the District Court of Jefferson County, and now being confined in the state penitentiary for the offense of burglary and serving a sentence of five years; it is further considered, ordered, and adjudged that the punishment herein adjudged against the said defendant Robert Frank Miller shall begin when the said judgment and sentence on the preceding conviction shall have ceased to operate.”
+We have concluded that this case is on all fours with Ex parte Hamilton, 163 Texas Cr. Rep. 283, 290 S.W. 2d 673. When we take judicial knowledge that there is more than one district court in Jefferson County, then the above order incorporates only the term of years assessed in the prior case. The correct designation of the court, the number of the case and the date of the prior conviction are absent.
+We have been furnished with a certificate of the Texas Prison System showing that relator now has credit for more than five years in the penitentiary. Further, the certificate shows that relator has completed the three-year sentence from Jasper County.
+In the absence of a valid order of cumulation, it has now been made to appear that the relator has served both sentences.
+The relief prayed for is granted, and the relator is ordered discharged.
