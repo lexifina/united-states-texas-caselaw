@@ -1,0 +1,52 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,318"
+decided: "1953-03-25"
+citations: ["158 Tex. Crim. 651"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. G. Long v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0651-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2478687
+cites_cases: ["235 S. W. 576", "90 Tex. Cr. R. 459"]
+---
+
+# Long v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+Appellant was charged with the unlawful possession of intoxicating liquor for the purpose of sale in Crosby County, a dry area. Upon his trial therefor he was found guilty and assessed a fine of $800.00 and 60 days in jail, and he appeals therefrom.
+The testimony shows that a 19-year-old Negro boy named Earl Grant lived at a place under the control of Mr. Loyd Park-hill in Crosby County, Texas, and was employed by him. Some few months prior to the trial this Negro boy met Mr. Long, the appellant, who was nicknamed Mr. Chubby, and was kindly treated by him at his gas station in Crosby County. Appellant had made arrangements with this witness to keep some whisky for him at this Negro’s house. On October 5, 1952, the witness had a quantity of whisky there which seems to have been under the control of and claimed by the appellant. However, this whisky was not brought to the place by the appellant but by another party, and appellant asked the Negro to keep the whisky for him which he did, and he claimed that appellant had four loads of whisky stored there on the date set forth in the information. This whisky was brought in at different times and contained about 20 lugs, a lug consisting of 6 pint bottles of whisky. Eventually, the Negro moved a portion of this whisky to another place near a lake. Appellant came to the house and took whisky therefrom until the same was moved. Sometimes he would take a case, sometimes a lug, and sometimes two lugs. The whisky was Old Quaker, Stillbrook and White Swan. The witness had drunk part of it and said it was whisky. He was paid $8.00 in cash and given a little gas and a little oil. That is all he got for keeping this whisky.
+The wife of the witness Earl Grant testified that appellant got some of this whisky from her house; that the appellant did not bring that liquor out there.
+The third witness was Mr. Loyd Parkhill, the landlord of of this Negro, Earl Grant. He testified as follows:
+“I know the defendant in this case. I had a conversation with the defendant on or about the 5th day of October. I saw him about three different times. Well, when I drove up he was leaving and met me and got out of his car and said, ‘Loyd, I did not put this here,’ and I said, ‘It’s yours, isn’t it?’ and he said, ‘Yes, but it’s supposed to go to Slaton and not supposed to be sold here,’ and I said, T don’t care whose it is, just keep it off my place and leave my Negroes alone.’ ”
+Appellant placed no witnesses upon the stand, and the above is practically all of the state’s case.
+Appellant has many bills of exception in the record, the first one being because of the fact that after both sides had closed and before the jurors were leaving for their noon-day meal and while they were still in the jury box, the court verbally instructed them as follows:
+“Gentlemen of the Jury: A trial of any man is a serious thing and a man is being tried and his liberty is at stake and it’s a serious thing all the way through, and I hope every one of you will take it as serious and not permit anything to happen or any remark to be made that make the court feel that a mistrial should be declared; so be meticulous that you do not discuss the case with anybody, by any chance remark; that you do not discuss the evidence with anybody until you have reconvened here at 1:30. The Sheriff will go with you and keep the jury together until we reconvene at 1:30.”
+Appellant immediately moved for a mistrial upon the giving of this oral instruction to the jury, claiming that the remarks of the court were so prejudicial as to require a mistrial, and asked the court to discharge the jury because of these remarks, that is, in telling the jury in substance to take this case as a serious matter. We think the court had a right to protect the sanctity of the trial and to keep the jury from any misconduct that they might inadvertently fall into without the intent to do so. We see no objection to the court telling the jury not to discuss his matter with anybody or let anyone discuss the matter with them until the charge had been read and the case had been turned over to them for final decision.
+Appellant complains of Paragraph 6 of the court’s charge which reads as follows:
+“You are further charged that possession, as the same is hereinabove defined, need not be exclusive in a single person; that two or more persons may be co-possessors of liquor for the purpose of sale.”
+In lieu thereof appellant offered a special charge which, among other things, contains the following sentence: “Possession need not be exclusively in one person; it may be in two or more.” We find ourselves unable to see any serious difference between the paragraph of the charge first above quoted and the Defendant’s Requested Charge No. 2 from which the second quotation above is taken.
+Objection is also made to Paragraph 5 of the court’s charge which reads as follows:
+“The word ‘possession’ is defined to you to mean that the defendant was exercising care, control and management over said whiskey.”
+We think the charge on possession was sufficiently clear therein.
+Appellant also requested that the court direct the state’s attorney to elect between which transaction he expected to convict the appellant herein, that is, which one of the separate loads of whisky brought to this Negro’s place he intended to rely upon for a conviction herein. The whole transaction itself is not one involving the sale of alcoholic liquor but the charge is for the possession thereof for the purpose of sale; and the mere fact that there was more than one load of whisky brought to this Negro’s place would be but a circumstance to show that this whisky was being stored there; and each bottle, while it may not have been utilized for the purpose of securing a conviction, nevertheless, the whole transaction taken together might be utilized but for one purpose and that was the offense of having whisky in his possession for the purpose of sale. We think it would have been useless, as well as idle, to say that the state would have to elect as to which bottle out of the 20 lugs of whisky found there that the appellant intended to sell. We think that taking all of these circumstances together would evidence the fact that such whiskey was kept for the purpose of sale regardless of its quantity, and such finds support in the statement of the appellant made to Mr. Parkhill which is quoted above. Under the circumstances, we think that the testimony is amply sufficient to show that appellant possessed more than one quart of whisky for the purpose of sale in a dry area.
+No errors having been reflected by the record, the judgment of the trial court is affirmed.
+
+## Rehearing (MORRISON, Judge.)
+
+ON MOTION FOR REHEARING.
+MORRISON, Judge.
+Appellant directs our attention to the fact that he reserved proper exception to paragraph V of the charge as being on the weight of the evidence and urges that the overruling of this exception and the refusal of his requested charge on the subject constitute reversible error.
+Conceding, for instant purposes, that the charge was subject to the objection urged; that is, that it was upon the weight of the evidence in that it assumed as a fact possession by appellant of the whiskey in question, the question nevertheless remains as to whether such a charge requires a reversal of the case.
+As we view the evidence, the appellant is relegated to the position before this court, and was before the trial court, that the facts as testified to by the witnesses did not show that he was, as a matter of law, in possession of the whiskey in question. If the testimony of the witnesses be true, we hold that the same shows without dispute that the appellant possessed the whiskey. Without arbitrarily disbelieving the state’s witnesses, a finding that appellant possessed the whiskey was inescapable; whether he possessed it for the purpose of sale in a dry area was another issue. In view of this, we conclude that Article 666, C. C. P., was enacted by the legislature to meet just such a situation as we have here presented. The error in the charge here could have no effect upon the jury in deciding the issue not in dispute.
+In Maier v. State, 90 Tex. Cr. R. 459, 235 S. W. 576, we said:
+“The facts constituting the elements of the offense and its commission by the appellant were testified to by witnesses. They were not controverted by any testimony. No discrediting facts were introduced or suggested which would authorize the jury to disregard the testimony. Without arbitrarily disbelieving the evidence, a conviction was a necessary result. No change was suggested with reference to the charge which would or could, in our judgment, have affected the jury’s assessment of the punishment .... on the contrary, it seems manifest that such irregularities as are complained of, granting the technical accuracy of them, could have produced no result prejudicial to the appellant.”
+Had there been a disputed fact issue as to his possession of the whiskey, the charge as given would probably have constituted reversible error.
+We do not construe the evidence as showing four or more distinct lots of whiskey to have been possessed by appellant.
+It is true that the evidence shows that there were four loads delivered and that appellant removed a portion thereof at different times. It is not shown, however, that all of the whiskey from prior deliveries was taken away before other whiskey was delivered to Grant’s home. The state was, therefore, not required to elect as to what particular whiskey out of the four loads they relied upon as having been possessed by appellant for the purpose of sale.
+Other bills of exception have again been examined, and we remain convinced that no error is shown which calls for reversal.
+Appellant’s motion for rehearing is overruled.
