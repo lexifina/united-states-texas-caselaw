@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,888"
+decided: "1956-01-04"
+citations: ["162 Tex. Crim. 323"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emerson Y. C. Ford v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0323-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2464277
+---
+
+# Ford v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for the unlawful possession of a narcotic drug; the punishment, two> years in the penitentiary.
+According to the state’s evidence, city officers, E. L. Kennedy and H. M. Gray, accompanied by two other officers, acting under a search warrant, went to Apartment 4, at 2815 Palm Street, in the city of Houston, to search for narcotics.
+Upon the arrival of the officers, the appellant and four others were present in the apartment. As Officers Kennedy and Gray entered, the appellant, who was standing in the living room, dropped from his left hand to the floor a one-dollar bill which had been folded several times and wadded up. Officer Gray picked up the bill, and upon being examined by the two officers, it was found to contain a brownish type of powder scattered over the surface. They also found thirty-one capsules on a coffee table near where the appellant was standing. Officer Kennedy testified that these capsules contained a brownish powder which resembled heroin, and that he also observed that the appellant had a smear of brown powder on his lips.
+The evidence further shows that Gray turned the one-dollar bill over to Officer Kennedy, and, after it had been initialed and tagged by the officers present, Kennedy placed the bill in a sealed envelope on which he made the following notation: “3/8/55; 2815 Palm, Apt. 4; found at 8:25 P.M.; one dollar bill with loose powdered substance in it, and the name Emerson Ford, negro male, and his name E. L. Kennedy.” He then placed the envelope in a locked box at the police station for examination by chemist McDonald of the police department. It is further shown that the door to the box had two locks and that chemist McDonald had the key to one lock and the captain of the narcotics division had the key to the other lock; that on the following day the two men unlocked the box and McDonald secured the sealed envelope and made a chemical examination of the substance on the one-dollar bill which he took from the envelope and that the examination disclosed that the substance was heroin.
+Appellant denied having possessed the heroin on the occasion in question, and in explanation of his possession of the one-dollar bill, testified that on such occasion he was the driver of a taxicab and had taken a passenger to the apartment; that he had gone inside to get a drink of water while waiting for the passenger to change his clothes, and when he heard someone scream, he grabbed the one-dollar bill from the coffee table to get his taxi fare and that he dropped the bill when he saw the officers enter with pistols. He further denied that he knew there were any narcotics in the apartment and testified that he did not use narcotics in any form.
+Appellant questions the sufficiency of the evidence and insists that the state failed to identify the envelope and the one-dollar bill which were the subject of chemist McDonald’s testimony as being the same envelope and bill that Officer Kennedy testified he put in the lock box at the police station.
+An examination of the record reflects that before chemist McDonald testified, the envelope containing the one-dollar bill had been exhibited to Officers Kennedy and Gray for identification. The envelope was identified by Kennedy as the same one which he had placed in the locked box at the police station. He also identified the one-dollar bill which he removed from the envelope as being the same bill that fell from appellant’s hand when the officers entered the apartment. Officer Gray identified the one-dollar bill taken from the envelope as being the same one that appellant had dropped on the floor and the same bill that he had turned over to Officer Kennedy.
+From the testimony of Chemist McDonald relative to his identification of the envelope and the one-dollar bill contained therein, which he testified he removed from the locked box, we quote:
+“Q. I will ask you to look at that envelope there before you on the witness stand, and tell the jury whether or not you have seen that before? A. Yes, sir, I have.
+“Q. When did you see it before? A. I first saw it on the 9th of March of this year.
+“Q. Where did you see it on that date? A. I saw it when I removed it from a locked cabinet over in the Police Station Building.
+❖ * *
+“Q. After you got that envelope — What was the condition of that envelope when you first saw it? A. At that time it was sealed all in one piece.
+“Q. When you got it what did you do? A. I opened it and removed the contents, and made an examination of the contents.
+“Q. What did you find the contents to be? A. I found a one dollar inside a small piece of cellophane; and wrapped in that one dollar bill was some very light brown powder.
+“Q. Take that contents out of there, please sir. A. (Witness complied.)
+“Q. Is that the same dollar bill that was in there when you first opened up the nevelope? A. Yes, sir, it is.”
+We think the envelope, containing the one-dollar bill which Chemist McDonald testified he took from the locked box, was sufficiently identified as the same envelope and bill which Officer Kennedy testified he had placed in the box. The record shows that before Chemist McDonald testified, an envelope containing a one-dollar bill had been exhibited to Officer Kennedy in the presence of the court and jury and that he identified it as being the same envelope which he had placed in the locked box. Both Officers Kennedy and Gray, upon removing the one-dollar bill from the envelope, identified it as being the same bill that was in the appellant’s possession.
+Under this state of the record, it is apparent that Chemist McDonald, in identifying the envelope and the one-dollar bill contained therein as the one he had removed from the locked box, when exhibited to him, was referring to the same envelope and one-dollar bill which had been previously exhibited to, and identified by, the witness Kennedy as the envelope and one-dollar bill that he had placed in the locked box.
+The jury chose to accept the state’s version of the testimony and rejected appellant’s explanation of his possession of the one-dollar bill, and we find the evidence sufficient to support their verdict.
+The judgment is affirmed.
+Opinion approved by the Court.
