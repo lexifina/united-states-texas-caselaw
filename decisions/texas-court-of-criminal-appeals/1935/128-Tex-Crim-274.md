@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "17282"
+decided: "1935-03-06"
+citations: ["128 Tex. Crim. 274", "80 S.W.2d 977"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. Holland v. The State."]
+source_url: "https://static.case.law/tex-crim/128/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5253848
+---
+
+# Holland v. State
+
+## Majority (MORROW, Presidng Judge.)
+
+MORROW, Presidng Judge.
+The offense is theft; penalty assessed at confinement in the penitentiary for three years and two days.
+In the indictment Paul Ryan and R. Holland are charged with the theft of certain tool boxes and tools described in detail in the indictment of the total value of six hundred dollars.
+D. E. Klinger testified that in December, 1930, the property was left in his care and that a few weeks later it was missed. It was removed without his consent. The property was dicovered in Ward County about two and one-half years later. Some of the property found in Ward County was in the possession of Paul Ryan.
+Underwood testified that in the latter part of December, 1980, he assisted the appellant in loading property on a truck or conveyance. According to the witness, he was told by appellant (whom he did not know at the time) that he was commissioned to move the property for the owner, and that he was unable to handle it alone.
+Walker testified that he had been told by appellant that he hauled the property away. The witness also stated that he understood at the time that appellant was working for Ryan.
+Guelette testified that he and others found the property in Ward County; that he was acquainted with appellant; that in a conversation with appellant with reference to the tools he said that he hauled them from a vacant lot in the town of Andrews to Paul Ryan’s lease in Ward County. When inquiry was first made of the appellant he said that he did not remember hauling anything. Later, in the conversation appellant admitted hauling the tool boxes from the vacant lot in the town of Andrews to Ryan’s lease in Ward County. This conversation took place in 1933. Appellant said he hauled the tools about Christmas time in 1930.
+.< Appellant testified that he was in the trucking business; that in December, 1930, he was living at Pyote. He came to Andrews County at the request of Paul Ryan, who came to appellant and said he wanted to hire a man to haul some stuff and offered to pay $35.00 for doing so. Appellant objected to the amount and finally agreed upon $50.00. Ryan gave appellant the location and description of the property which he found in accord with the directions given by Ryan. Appellant got a man to assist him in loading part of the property. He was not acquainted with the man at the time but later learned that his name was Underwood. Appellant did not know to whom the tools belonged; that Ryan said something about their belonging to him. At the time he hauled the tools appellant knew of no owner other than Ryan. After taking the tools to Ryan’s lease, he heard nothing more of them except that he was stopped on the road by Ryan who asked if any inquiry had been made about the tools. Appellant asked why, and Ryan said: “Well, they was hot.” Appellant then complained to Ryan for not having given him this information before. Appellant claimed that at the time he hauled the property he did not know it was stolen; that his only compensation was the agreed price for his services in hauling it. He assumed that Ryan owned the tools and had no other information upon the subject. He denied any knowledge of the fact that the property was stolen and denied, ever making any declaration to that effect.
+Appellant’s wife testified that she heard the agreement made between appellant and Ryan touching the price and bargain for hauling the property; that after the agreement to do so, appellant made the trip on the following day.
+There are exceptions to the court’s charge. We think the. exception to the fifth paragraph of the court’s charge upon the-ground that there was no evidence of any collusion or common, interest between Ryan and appellant was properly denied.
+Paragraph 5 of the court’s charge embraced the law of principle. The criticism of the charge is that there was no-evidence upon which to found a charge upon that subject.
+Paragraph 8 of the court’s charge reads as follows: “You. are further instructed that if you believe from the evidence that the defendant was employed by Paul Ryan to take the property described in the first count of the indictment, if he did, and that the defendant acting in such employment did so-take the said property, if he did, you will acquit the defendant, unless you further find and believe from the evidence beyond a reasonable doubt that the said Paul Ryan in taking said property, if he did, did so take the same, if he did, with a. fraudulent intent to steal the same, and that the defendant, knew of such fraudulent intent of the said Paul Ryan.”
+The above charge is criticised in Paragraph 2 of the exceptions to the court’s charge which we reproduce as follows:. “Defendant excepts to the latter part of paragraph 8 of said-charge, beginning with the word unless in the sixth line of said, paragraph for the reasons (1) same is confusing. (2) It does, not properly state the law. (4) It raises a question not raised by any evidence in the case. (5) It would permit the jury to-find a verdict of guilty solely from speculation without any evidence to support such finding. (6) It is a charge on the weight, of the evidence.”
+The criticisms of the charge are not regarded as tenable.
+The evidence is deemed to present a question of fact for the: jury.
+The judgment is affirmed.
+Affirmed.
+
+## Rehearing (HAWKINS, Judge.)
+
+ON MOTION FOR REHEARING.
+HAWKINS, Judge.
+Appellant predicates his motion for-rehearing upon a renewed contention that the evidence fails to. support the jury’s finding that he was guilty of a fraudulent taking of the property alleged to have been stolen.
+It is true that the testimony of appellant and that of other witnesses was to the effect that appellant took the property believing at the time it belonged to Ryan, and was not informed to the contrary until told by Ryan some weeks later that it was “hot.” The State controverted appellant’s theory by the testimony of Underwood whose assistance appellant secured in loading the property. Underwood testified that appellant told him he had been sent for the property by Klinger and Rollins. This was not true, and was in direct conflict with appellant’s claim on the trial that he thought Ryan was the owner. A careful re-examination of the entire statement of facts leaves no doubt in our minds as to the sufficiency of the facts to support the conviction.
+The motion for rehearing is overruled.
+Overruled.
