@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,974"
+decided: "1956-02-08"
+citations: ["162 Tex. Crim. 467"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Evaristo Brito v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2463255
+cites_cases: ["153 Tex. Cr. R. 454", "221 S. W. (2d) 241", "279 S. W. (2d) 104"]
+---
+
+# Brito v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Appellant was convicted under the provisions of Article 483, V. A. P. C., which make it unlawful for one to carry on or about his person “a knife manufactured or sold for the purpose of offense or defense” and assessed punishment at six months’ confinement in jail.
+This is appellant’s second conviction under the facts relied upon by the state, the first conviction having been reversed and the prosecution ordered dismissed because of the insufficiency of the information to charge an offense. Brito v. State, 279 S. W. (2d) 104.
+Appellant insists that the evidence is insufficient to support the conviction because the state failed to prove that the knife taken from his person was manufactured or sold for the purpose of offense or defense.
+The state’s evidence shows that the knife in question was taken from the appellant by certain city officers upon his arrest at a restaurant in the city of Midland.
+In discharge of the burden of proving the purpose for which the knife was manufactured or sold, the state offered the testimony of officer Jack Fillyaw, who was one of the officers who arrested the appellant and took the knife from his person. When asked to give his opinion as to whether the knife was a knife which is sold or manufactured for the purpose of offense and defense, he stated, “In my opinion the place where he had the knife and the location and the circumstances surrounding the place and all, it would be for the purpose of offense and defense.” Officer Fillyaw admitted that he did not know who manufactured or sold the knife and did not personally know that it was manufactured for the purpose of offense and defense, but expressed his opinion that it was manufactured for such purpose.
+The state’s witness, W. E. Sullins, who was the operator of a sporting goods, loan and pawn shop, when asked to give his opinion as to whether or not the knife or that type of knife was sold or manufactured for the purpose of offense and defense, stated, “Basically I think this type knife is manufactured for the purpose of hunting and fishing. Naturally, it could be used for offense or defense.” The witness testified that he did not know who sold or manufactured the knife; that it was either a cheap Mexican product or handmade; that it was not a knife that was used as a pocket knife, and that it was a “hunting and fishing knife” that was made for the cutting of some type animal, fish or fowl.
+The knife in question is before us in the record as a state’s exhibit and is a single edge, straight, one-bladed knife which will not close, seven inches long, with a blade 3y¡> inches in length.
+We are of the opinion that the state failed to prove the essential element of the offense charged that the knife was manufactured or sold for the purpose of offense or defense. Under the state’s testimony it is shown that the knife was a hunting and fishing knife and the type of knife which is manufactured for that purpose. Proof that a knife was manufactured and sold for such, a purpose falls short of proof that the knife was manufactured or sold for the purpose of offense or defense.
+The state having failed to discharge the burden of proving the purpose for which the knife was manufactured or sold, as alleged in the information, calls for a reversal of the case. Ramirez v. State, 153 Tex. Cr. R. 454, 221 S. W. (2d) 241.
+Because of the insufficiency of the evidence to support the conviction, the judgment is reversed and the cause is remanded.
+Opinion approved by the court.
