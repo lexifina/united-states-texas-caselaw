@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,547"
+decided: "1958-02-19"
+citations: ["166 Tex. Crim. 92"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Robert Voss v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2619590
+---
+
+# Voss v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Upon his plea of guilty before the court without a jury, appellant was convicted under the fourth count of the indictment of the felony offense of unlawfully and knowingly using and permitting property to be used in connection with bookmaking in violation of Art. 652a, Sec. 4, V.A.P.C., and his punishment assessed at confinement in the county jail for 30 days and a fine of $250.00.
+Appellant’s sole contention is that upon the hearing of his plea the state failed to prove the corpus delicti and therefore did not introduce evidence sufficient to show his guilt as required by Art. 12, V.A.P.C.
+Upon the hearing the state called city of Houston Officers W. E. Cobb and A. J. Burke who testified that on August 17, 1956, they went to a certain address at 2525 South Shepherd with a search warrant. That when they entered the premises the appellant was present and they proceeded to search the place. That in the search certain slips of paper were found in the appellant’s right front trouser pocket and underneath a counter near where he was standing and a Chicago Turf Bulletin, dated August 17, 1956, was also found on the premises.
+Officer Burke testified that, based upon his experience in investigating bookmaking over a period of two and a half years, he was familiar with betting slips and the meaning of different symbols thereon. He testified that he had examined the slips of paper taken from the appellant and from the premises and that the symbols appearing thereon indicated they were bet slips on certain horse races.
+Appellant’s written confession was introduced in evidence in which he stated that he was the sole owner of the River Oaks Cleaners located at 2525 South Shepherd in the city of Houston and admitted that he had been taking bets on horse races for two years and that the slips which Officer Burke took from his pant’s pocket were bets on various races that he had taken over the telephone at his place that day.
+It was stipulated that in 1948 appellant executed a lease for the premises in question and that the records in the county clerk’s office showed that on September 1, 1948, a J. Robert Voss executed an assumed name certificate for River Oaks Cleaners, 2525 South Shepherd Drive.
+Charles Anthony Dicker, Jr., upon being called as a witness by the state, testified that he was employd by the appellant as a delivery boy at the River Oaks Cleaners located at 2525 South Shepherd Drive and was so employed on August 17, 1956. He further testified that on one occasion he overheard a telephone conversation which appellant had relative to a horse race in New Orleans and that he had seen appellant write on slips of paper and put them in his pocket.
+We find the evidence introduced by the state sufficient to establish the corpus delicti and to show the appellant’s guilt; therefore, his contention is overruled.
+The judgment is affirmed.
+Opinion approved by the Court.
