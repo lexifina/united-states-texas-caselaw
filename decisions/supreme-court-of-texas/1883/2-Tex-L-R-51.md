@@ -1,0 +1,39 @@
+---
+court: "Supreme Court of Texas"
+decided: "1883-05"
+citations: ["2 Tex. L. R. 51"]
+reporter: "tex-l-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. J. & L. B. HARRIS vs. BENNET MUSGROVE."]
+source_url: "https://static.case.law/tex-l-r/2/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2056520
+cites_cases: ["4 McCord, 241"]
+---
+
+# Harris v. Musgrove
+
+## Majority (Delaney, J.)
+
+Opinion by
+Delaney, J.
+There are eight assignments of error, but it will not be necessary to notice them all.
+The first is that the court erred in giving to the defendant the opening and conclusion upon the trial.
+No objection to this ruling having been made below, we need not consider it here.
+The second is that the court erred in the charge that when a contract is made with a minor, either party may disavow the contract when the minor attains his majority.
+In this we think the court erred.
+The rule of law is stated in 1st Parsons on Contracts, p. 329, as follows : “The disability of infancy is the personal privilege of the infant himself; and none but himself or his legal representative can take advantage of it. Therefore, other parties who contract with an infant are bound by it, although it be voidable by him.
+„ Were it otherwise, this disability might be of no advantage to him; but the reverse.”
+The third assignment presents an error. If the jury believe from the evidence 'that, after the sale of the stock to the defendant by Walter Harris, he or his lather, by using or appropriating the same, exhausted said stock of cattle, you will find for the defendant.
+If the father had appropriated the cattle this would not have absolved the defendant unless the appropriation was made by the direction or with the consent of the son.
+If the son, after he became of full age, had unequivocally assented and claimed the ownership of the stock, thus preventing the defendant from taking possession, this would have amounted to a disavowal of the contract and would have released the defendant. It is held that when an infant who has purchased property, disposes of it after coming of age, this must be regarded as a confirmation of the contract.: (Cheshire vs. Barnett, 4 McCord, 241; 1 Parsons, 321-2.) So when an infant has sold property, and afterwards reclaims it, this would be regarded as a disavowal of the‘contraot, and he must restore the purchase money. (Parsons supra.)
+It seems that an infant may disaffirm a sale of personal property before he attains his majority, though the rule is otherwise as to real estate. (Cummings vs. Powell; 8 T., 80.)
+But the authorities assert that the acts of ownership, to amount to a disavowal of the previous sale must be distinct and unequivocal. Now, the only act of Walter Harris which bears any semblance of such a claim, was his putting into a herd of his father, thirteen cattle having the brand which he had sold to the defendant. But the defendant testifies that Walter Harris agreed at the time when the note was given, to collect out of his (defendant’s) stock the cattle which were to be given in payment of the note. And Walter Harris testifies that he did promise so to collect the cattle if he could. This act of his therefore, standing alone, could hardly be called an unequivocal assertion of title to the whole ground.
+We do not wish to comment on the evidence. It is complicating and some portions of it are to us unintelligible.
+But we may properly remark that the defendant appears to have executed the note with his eyes open. He knew that he was dealing with a minor. He appears to have bought the stock as they ran upon the range, trusting to his own knowledge of their value and relying upon his ability to collect them. It is not enough for him to show that he has not collected the cattle, or that he has derived no benefit from them.
+He should show, either that his vendor had no title to the stock, or that vendor or some other person for whose conduct the vendor is responsible, has done some act since the sale, which has put it out of his power, without any fault or neglect on his part, to get the benefit of his purchase.
+The seventh assignment is that the court erred in rendering judgment against L. B. Harris — he being only a formal party.
+We incline to the opinion that if the defendant was entitled to the judgment at all, it was correctly rendered against L. B. Harris. The latter, although only a formal party, was nevertheless before the court, and the evidence showed that he received the benefit of the credit which was placed upon the note.
+Our opinion is that the judgment should be reversed and the cause remanded.
+Adopted.
