@@ -1,0 +1,48 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,970"
+decided: "1954-04-28"
+citations: ["160 Tex. Crim. 244"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joe Billingslea v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469613
+cites_cases: ["119 S.W. 2d 1047", "135 Texas Cr. Rep. 298", "157 Texas Cr. Rep. 114", "157 Texas Cr. Rep. 244", "159 Texas Cr. Rep. 491", "247 S.W. 2d 112", "248 S.W. 2d 488", "265 S.W. 2d 600"]
+---
+
+# Billingslea v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is the possession of whisky for the purpose of sale in a dry area, with a prior conviction alleged to enhance the punishment; the punishment, a fine of $2,000.00.
+No statement of facts accompanies the record.
+Complaint is made for the first time in this court that the information is not based on a valid complaint because the complaint itself is fatally defective and void. The complaint purports to be the affidavit of E. Dean Fuller; it is signed “E. Dean Fuller”; but when the officer came to affix his jurat he did so as follows:
+“Sworn to and subscribed before me by Dan A. Bills this the 29 day of August, A. D. 1953.
+(C. V. Flanary, Jr.), Assistant
+County Attorney, Lamar County,
+Texas.”
+The information is regular and states that it is based upon the affidavit of E. Dean Fuller.
+This is a matter of form and not of substance and could have been amended had it been called to the trial court's attention in time. Hampton v. State, 157 Texas Cr. Rep. 244, 248 S.W. 2d 488, and Chapman v. State, 135 Texas Cr. Rep. 298, 119 S.W. 2d 1047.
+In order to properly present this question for review, appellant must show that he proceeded in accordance with the controlling statutes in the court below. Howard v. State, 157 Texas Cr. Rep. 114, 247 S.W. 2d 112.
+Article 505, C. C. P., provides, in part:
+“On the part of the defendant, the following are the only pleadings: * * *
+“3. An exception to the indictment or information for some matter of form or substance.”
+Article 513, C. C. P., provides:
+“All motions to set aside an indictment or information and all special pleas and exceptions shall be in writing.”
+We find no written motion to quash the information in the record.
+Article 523, C. C. P., provides:
+“The court, at its discretion, may hear and determine such motions and exceptions at any time before a trial has been entered upon, but not afterward.”
+Finding no reversible error, the judgment of the trial court is affirmed.
+
+## Rehearing (MORRISON, Judge.)
+
+ON MOTION FOR REHEARING
+MORRISON, Judge.
+Appellant calls our attention on rehearing to the fact that the information was filed on August 28, 1953, while the supporting complaint was not sworn to until the following day.
+It follows that the complaint was not in existence when the information was presented on August 28, 1953.
+Recently, in Baker v. State, 159 Texas Cr. Rep. 491, 265 S.W. 2d 600, we reversed a cause from the same county for the same defect.
+Appellant’s motion for rehearing is granted, the judgment of affirmance is set aside, and the judgment is now reversed and the cause remanded.
