@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1828"
+decided: "1912-10-23"
+citations: ["67 Tex. Crim. 588"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Irving v. The State."]
+source_url: "https://static.case.law/tex-crim/67/cases/0588-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4644722
+cites_cases: ["142 S. W. Rep., 533", "144 S. W., 257", "33 Texas Crim. Rep., 577", "33 Texas Crim. Rep., 619", "34 Texas Crim. Rep., 481", "46 Texas Crim. Rep., 540", "63 Texas Crim. Rep., 216"]
+---
+
+# Irving v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+—Appellant was tried and convicted of murder in the second degree and given the lowest penalty.
+In view of the fact that we reverse and remand the case and that another trial may be had, we will not discuss the evidence in the case. We also deem it unnecessary to take up and discuss all of the questions presented by appellant. Some of the questions, doubtless will not arise on another trial.
+It was shown that in the examining trial a witness, Will Perry, testified therein in the presence of appellant and that he crossed him at the time. Since then Perry has died. The record shows that what he testified to on that hearing was .substantially proven up and introduced on this hearing. His evidence was admissible. Robertson v. State, 63 Texas Crim. Rep., 216, 142 S. W. Rep., 533.
+The evidence shows that the appellant at about the time charged in the indictment shot deceased in the stomach. The extent of the wound is nowhere shown. The testimony shows that at the time of the trial the deceased was dead. When he died is nowhere shown. Only by inference is it shown that the appellant’s shot may have killed him. On another trial this question- should not be left to such inference. The time of his death and the cause of it should be shown.
+The evidence in the case clearly raises self-defense by appellant. The court submitted self-defense, but gave as a part of the law of self-defense, a charge on provoking the difficulty by appellant and an abandonment thereof and stated in the charge that he gave this as a part of the law of self-defense. Appellant properly complains that the evidence does not raise the question, of provoking or abancloning the difficulty and that the court erred in giving such a charge as a part of the law of self-defense. We have carefully gone over the evidence repeatedly and in our opinion the evidence did not raise the question of the appellant provoking the difficulty. Even where the evidence does not raise the question of provoking the ' difficulty and the court charges thereon, it by no means necessarily presents reversible error. Each case must depend upon the evidence and circumstances thereof (Kinney v. State, 144 S. W., 257, and authorities cited); but in this case the court’s charge on self-defense was so interwoven and connected with his charge thereon, and by the very charge of the court made a necessary part thereof, that, in our opinion, it does present reversible error. Thomas v.. State, 34 Texas Crim. Rep., 481; Milrainey v. State, 33 Texas Crim. Rep., 577; Gilcrease v. State, 33 Texas Crim. Rep., 619; McMahon v. State, 46 Texas Crim. Rep., 540, and a great many other cases unnecessary to cite.
+The appellant has many other complaints to other portions of the court’s charge, and insisting that his special charges should have been given. In our opinion none of appellant’s special charges should have been given and his criticisms of the various portions of the court’s charge, other than on the subject of provoking the difficulty and an abandonment thereof, do not present reversible error. On another trial of the case, the court in charging upon self-defense can ■ adjust it to the evidence then introduced.
+For the error above pointed out, the judgment will be reversed and the cause remanded.
+Reversed and remanded.
