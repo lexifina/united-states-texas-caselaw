@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,351"
+decided: "1956-05-30"
+citations: ["163 Tex. Crim. 421"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joe Peachlin v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0421-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461698
+cites_cases: ["148 Tex. Cr. R. 445", "188 S.W. 2d 393", "284 S.W. 2d 723"]
+---
+
+# Peachlin v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for the sale of whiskey in a dry area with two prior convictions for offenses of like character alleged for enhancement of the penalty; the punishment, two years in jail and a fine of $1,000.
+The testimony of two inspectors for the Texas Liquor Control Board shows that the appellant on September 13, 1955, in Delta County, Texas, sold to one of said inspectors a half pint of whiskey for $2.50.
+It was stipulated that Delta County was a dry area.
+Proof was offered of the two prior convictions alleged and the appellant was identified as the same person named in each of said former judgments of conviction.
+Appellant did not testify or offer any testimony in his behalf.
+We find the evidence sufficient to support the conviction.
+Appellant contends that the complaint and information should be quashed on the ground that their allegations are insufficient to give him notice of the particular prior convictions relied on for enhancement purposes.
+The complaint and information herein alleged the date, the cause number, the nature of the offense, and the court wherein the prior convictions were had. After charging the primary offense, they further alleged that the first prior conviction on September 9, 1953, was for an offense committed prior to the commission of the offense alleged in the second prior conviction of December 3, 1953. It was further alleged that the September, 1953, conviction had become final prior to the commission of the offense which resulted in the December, 1953 conviction and that both of said prior convictions had become final prior to the commission of the primary offense.
+The allegations of said complaint and information sufficiently apprise the accused of the identity of the prior convictions relied on by the state. Broughton v. State, 148 Tex. Cr. R. 445, 188 S.W. 2d 393; Lane v. State 162 Tex. Cr. Rep. 305, 284 S.W. 2d 723.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the Court.
