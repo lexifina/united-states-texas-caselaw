@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,713"
+decided: "1953-11-04"
+citations: ["159 Tex. Crim. 235"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Leroy Goss."]
+source_url: "https://static.case.law/tex-crim/159/cases/0235-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2476395
+cites_cases: ["170 S.W. 2d 226", "172 S.W. 2d 336", "172 S.W. 2d 344", "174 S.W. 2d 493", "184 S.W. 2d 286", "205 S.W. 2d 588", "206 S.W. 2d 250", "225 S.W. 2d 833", "228 S.W. 2d 864", "239 S.W. 2d 628", "243 S.W. 2d 833"]
+---
+
+# Ex parte Goss
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Relator Leroy Goss seeks discharge from the Texas State Penitentiary where he has served more than five years of a life sentence for robbery with firearms.
+Under the law as set forth in Ex Parte Erwin, 145 Tex. Cr. Rep. 504, 170 S.W. 2d 226, he is entitled to his discharge because the statute does not authorize the punishment of imprisonment for life for robbery with firearms.
+The holding in Ex parte Erwin has been followed in a number of later cases, including Ex parte O’Dare, 146 Tex. Cr. Rep. 162, 172 S.W. 2d 336; Ex parte Wheat, 172 S.W. 2d 344; Daugherty v. State, 146 Tex. Cr. Rep. 303, 174 S.W. 2d 493; Ex parte Whitten, 151 Tex. Cr. Rep. 169, 205 S.W. 2d 588; Ex parte Geisling, 243 S.W. 2d 833.
+To the same effect is Cuellar v. State, 151 Tex. Cr. Rep. 176, 206 S.W. 2d 250, where the offense was burglary of a private residence at night.
+Life imprisonment is authorized for a number of offenses: ordinary robbery (Art. 1408 P.C.); murder (Art. 1257 V. A. P. C.) ; rape (Art. 1189 P.C.) ; treason (Art. 84 P. C.) ; burning of the capítol building, state officfe building or the executive mansion, (Art. 1315 P.C.) ; destroying an unborn child (Art. 1195 P.C.) ; and the recently enacted statute fixing the punishment for a third conviction for sale, etc., of a narcotic (Art. 725b V.A.P.C.). The latter act authorizes punishment of confinement in the penitentiary for “not less than 10 years nor more than life.”
+Other statutes authorize punishment for an unlimited term, but do not specify life imprisonment. Attempt to rape (Art. 1190 P.C.) and assault with intent to rape (Art. 1162 P.C.) are each punishable by confinement in the penitentiary “for any term of years not less than two.”
+For burglary of a private residence, (Art. 1391 P.C.) the confinement is “for any term not less than five years.” Art. 1408 P.C. fixes punishment for robbery with firearms at death or confinement in the penitentiary “for any term not less than five years.”
+Under the suggested construction life imprisonment would be authorized under all statutes which do not fix a limit to the term of imprisonment, though some specifically provide for such punishment and others do not. Such a construction would give no meaning to that portion of the statutes which specifically provide for .life imprisonment.
+The legislature has met and adjourned a .number. of times since this court has construed Art. 1408 P.C. as not authorizing the assessment of life imprisonment for robbery with firearms, and they have not seen fit to amend the statute. Such construetion had been placed on the robbery with firearms statute long before relator’s trial.
+The state urges that though the relator is entitled to discharge from the penitentiary, he should be returned to Dallas County to again stand trial for the offense charged, as in the case of Ex parte Traxler, 147 Tex. Cr. Rep. 661, 184 S.W. 2d 286, Ex Parte East, 154 Tex. Cr. Rep. 123, 225 S.W. 2d 833, Ex parte Hannen, 155 Tex. Cr. Rep. 10, 228 S.W. 2d 864, and Ex parte Adkins, 239 S.W. 2d 628.
+The distinction lies in the fact that in the cases just mentioned the court held the judgment void, there being no verdict or other order assessing any definite punishment upon which a valid judgment and sentence might be pronounced, whereas in the cases first cited, wherein the facts appear to be identical to those before us, this court held that the judgment was not void but was excessive and as to the punishment in excess of the minimum was void.
+Under the authorities mentioned and for the reason stated the writ is granted and relator is ordered discharged from the penitentiary in so far as the life sentence for robbery with firearms is concerned.
+
+## Dissent (MORRISON, Judge)
+
+MORRISON, Judge
+(Dissenting).
+This is the first case to reach this court since I have been a member thereof in which a prisoner has been discharged under the rule in the Erwin case, and I cannot bring myself to agree with the rule therein enunciated. I agree with that portion of the majority opinion in which it is reiterated that one who has served the minimum term is entitled to discharge if the maximum term is in excess of the punishment authorized by law.
+I think this court was wrong in Daugherty v. State, 146 Tex. Cr. Rep. 303, 174 S. W. 2d 493, when it declined to follow the Bailey case.
+In Bailey v. U. S., 74 Fed. 2d 451, the Circuit Court of Appeals for the Tenth Circuit had before it practically the identical question as is here presented. There the court said:
+“It is our opinion that Congress did not use the phrase ‘term of years’ in the technical sense attributable to it when applied to estate in lands. Life being of limited duration and death being certain, a sentence for life is definite and certain. It is tantamount to a sentence for a definite term of years greater than the possible life span of the person sentenced.”
+This case was followed by the Circuit Court for the Ninth Circuit in Bates v. Johnson, 111 Fed. 2d 966, and in the later case of Carter v. Johnson, 145 Fed. 2d 882.
+I respectfully enter my dissent.
