@@ -1,0 +1,55 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,007"
+decided: "1960-11-09"
+citations: ["170 Tex. Crim. 323"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Francisco Castaneda v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0323-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2630472
+cites_cases: ["266 S.W. 2d 171", "272 SW2d 901", "293 S.W. 2d 775", "303 S.W. 2d 384", "310 S.W. 2d 70"]
+---
+
+# Castaneda v. State
+
+## Rehearing (BELCHER, Judge.)
+
+ON MOTION FOR REHEARING
+BELCHER, Judge.
+The offense is murder without malice under Art. 802c, V.A. P.C.; the punishment, five years.
+The prior opinion reversing this case on the ground of jury misconduct is withdrawn. Our attention has now been directed to the fact that no exception to the action of the trial court in overruling the amended motion for a new trial appears in the record. There are no formal bills of exception.
+In order to present certain claims of error by an informal bill of exception, Art. 760e, V.A.C.C.P., must be complied with. Said article reads as folows:
+All motions for change of venue, motion for new trial based on jury misconduct or that the jury received new evidence during deliberations, exceptions to the indictment or information, motion to set aside an indictment or information, motions to quash a venire or jury panel, or motions for continuance together with an answer thereto, the court’s order thereon showing defendant’s exception to the ruling, together with a Statement of Facts where facts were adduced in connection therewith shall constitute the defendant’s Bill of Exception, and no formal Bill of Exception need be prepared and filed. * * *.”
+Since the enactment of Art. 760e, supra, in 1951, this court in construing this statute has consistently held that it authorizes a review of a claim of error in the overruling of a motion named in the statute only where, in addition to the motion, the court’s order thereon and the exception to the ruling are properly shown in the record. Perry v. State, 160 Tex. Cr. Rep. 80, 266 S.W. 2d 171; Pierson v. State, 160 Tex. Cr. Rep. 567, 272 SW2d 901; Tyler v. State, 164 Tex. Cr. Rep. 441, 293 S.W. 2d 775;' Dominguez v. State, 164 Tex. Cr. Rep. 571, 303 S.W. 2d 384; Johnson v. State, 165 Tex. Cr. Rep. 563, 310 S.W. 2d 70; 5 Tex. Jur. 2d, Sec. 58, p. 104, Sec. 64, p. 112.
+In the absence of an exception as required by Art. 760e, supra, this claim of error cannot be appraised.
+On the trial, it was stipulated that appellant’s automobile struck Albert and Claude Goins (the deceaseds named in the indictment) while he was operating it upon a public highway and that they died immediately thereafter as a direct and proximate result of said collision; and that appellant had been drinking some beer prior to the collision.
+The testimony of the sheriff, two highway patrolmen, and a layman shows that they observed the appellant shortly after the collision and each expressed the opinion that he was intoxicated.
+The appellant, while testifying, admitted that he was driving his automobile upon a public highway at the time and place alleged. He further testified that immediately before the collision, he was following a truck which suddenly swerved to its left and he went straight ahead and his car hit something but he did not see or know what it struck. Appellant testified he had drunk 5 to 8 beers and was feeling good but that he was not intoxicated. He called several witnesses who testified that they saw him shortly before the collision and that he was not drunk.
+The jury resolved the issues of fact against appellant and the evidence is sufficient to sustain its verdict.
+It is contended that the trial court erred in refusing to require Highway Patrolman Langford to furnish the appellant a copy of the accident report he testified he had made. The testimony shows that the witness had an instrument in his possession while on the stand which was described by him as “partly” a copy of the report; that it was some “scratch work.” Counsel for appellant asked the witness to show him the instrument in his possession while on the stand which the witness refused. Appellant at no time requested the court to direct the witness to show him this particular instrument. The witness’ testimony further shows that he made an accident report but that he did not have the original nor a copy of it with him and that a copy of the original report was in his office. On further examination of the witness by appellant’s counsel about the report, the witness asked what information was required and appellant’s counsel replied, “We will get back to that,” but did not pursue the matter further. In this, no error is presented.
+It is concluded that error is not shown in the witness’ refusal to show the appellant the “scratch work” he had while on the stand because appellant made no request of the court to direct him to do so.
+The state’s motion for rehearing is granted and the judgment is affirmed.
+Opinion approved by the Court.
+
+## Concurrence (WOODLEY, Judge,)
+
+WOODLEY, Judge,
+Concurring.
+I concur in the opinion prepared by Commissioner Belcher, but would add the following.
+If the question were before us, the facts do not show that the trial judge abused his discretion, but show that he resolved a disputed fact issue and found no jury misconduct.
+Appellant’s motion alleged that a new trial should be granted : “Because of the misconduct of the jury in failing to follow the instructions of the court in its charge and in giving purported law by the foreman of said jury to the rest of the jury and leading them into channels of error in conflict with the laws of the State of Texas, the charge of the court and in violation of the fundamental rights of the defendants, including both statutory and constitutional law. See affidavit hereto attached, marked Exhibit A, and made a part of this motion * * * .”
+Exhibit A is the affidavit of Mrs. Crain, one of the jurors, in which she averred “The foreman of the jury made the statement that the judge had the right and power to suspend the sentence. We of the jury panel believed him and therefore voted for a conviction in this case. I believe he should have a new trial herein because of the misleading statement of the foreman as herein set out.”
+The evidence heard on the motion for new trial was to the effect that a question arose in the jury room which resulted in an inquiry to the trial judge as to whether, if a sentence was given, the judge could reduce that sentence to a shorter term or a suspended sentence.
+The court informed the jury in writing that he could not answer the question at the time and instructed the jurors to follow the charge.
+There was ample evidence that all of the jurors understood that the court referred them back to the charge, and there was no further discussion on the question of the court’s authority to suspend sentence after the note was sent to the judge.
+Foreman Cooper testified that no one ever made a positive statement that he knew one way or the other. It was just a question.
+The trial judge was warranted in concluding from this evidence that the jury foreman did not give “purported” law to the jury and lead them into channels of error in conflict with the law and the court’s charge, as claimed by appellant in his motion for new trial.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+(dissenting).
+To the affirmance of this conviction I respectfully enter my dissent.
