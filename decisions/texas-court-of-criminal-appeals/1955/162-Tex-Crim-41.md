@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,557"
+decided: "1955-06-08"
+citations: ["162 Tex. Crim. 41"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harold Leo Roberts v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461651
+cites_cases: ["148 S.W. 328", "16 S.W. 2d 1065", "215 S.W. 454", "223 S.W. 2d 625", "235 S.W. 888", "266 S. W. 2d 124"]
+---
+
+# Roberts v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+The jury convicted appellant of murder with malice and assessed his punishment at death, from which conviction he appeals to this court.
+In view of the disposition we make of this appeal, a statement of the facts of the tragedy is not deemed necessary.
+The wife of the appellant and mother of the child (the deceased), as a witness for the appellant, gave material testimony in his behalf. Her testimony was to the effect that the kicking of the child by the appellant was done accidentally as the child crawled between them when appellant was attempting to kick her (the wife). The witness denied that appellant intentionally kicked the child at any time. She accounted for the bruises on the child by saying that she stepped on her while she (the wife) and her husband were fussing and fighting.
+The wife’s testimony exonerated appellant of a malicious killing of his child.
+Upon cross-examination, the state interrogated the witness as to the statements she made before the grand jury during the investigation of this case by that body.
+In rebuttal, the state was permitted to introduce the testimony of a member of the grand jury that the wife testified before it to facts contradictory of and at variance with her testimony upon the trial of the case, which testimony before the grand jury tended to corroborate the state’s case and to show that appellant committed and was guilty of the offense charged.
+To all these matters appellant objected in that the state was making the wife a witness against him, her husband.
+Art. 714, C.C.P., reads as follows:
+“Husband or wife as witness. Neither husband nor wife shall, in any case, testify as to communications made by one to the other, while married; nor shall they, after the marriage relation ceases, be made witnesses as" to any such communication made while the marriage relation existed, except in a case where one or the other is prosecuted for an offense; and a declaration or communication made by the wife to the husband, or by the husband to the wife, goes to extenuate or justify an offense for which either is on trial. The husband and wife may, in all criminal actions, be witnesses for each other; but they shall in no case testify against each other except in a criminal prosecution for an offense committed by one against the other.”
+By that statute the state is prohibited from using the wife as a witness against her husband, ex'cept for the purpose mentioned.
+The state cannot call a wife before a grand jury, compel her to testify, and use that testimony to impeach her when she testifies as a witness in behalf of her husband upon his trial for an offense other than one committed against her. Cochran v. State, 112 Texas Cr. R. 390, 16 S.W. 2d 1065; Watt v. State, 90 Texas Cr. R. 447, 235 S.W. 888; Doggett v. State, 86 Texas Cr. R. 98, 215 S.W. 454; Johnson v. State, 66 Texas Cr. R. 586, 148 S.W. 328.
+The evidence of the member of the grand jury was that that body “had Mrs. Roberts (wife of the appellant) come in and talk to the grand jury” about this case. Without anything further being shown, this is sufficient to establish the fact that her appearance before the grand jury was other than voluntary on her part.
+Still another serious question is presented. The appellant was under arrest and in custody of the peace officers when he was in Austin for the purpose of undergoing the lie detector test. His oral statements made in connection therewith which constituted or tended to constitute an admission of guilt, and which were also corroborative of a written confession, should not have been received in evidence. Art. 727, C.C.P., prohibits the admission of oral confessions except in those cases enumerated in the statute.
+The conclusion is inescapable that, because of the admission of the wife’s testimony before the grand jury and the admission of the oral confession, the judgment must be reversed.
+In view of another trial, we observe that the issues arising under the facts are deemed sufficient to authorize the receipt in evidence of the photographs of the body of the deceased chid. Ray v. State, 160 Texas Cr. R. 112, 266 S. W. 2d 124; Gibson v. State, 153 Texas Cr. R. 582, 223 S.W. 2d 625.
+For the errors pointed out, the judgment of the trial court is reversed and the cause is remanded.
