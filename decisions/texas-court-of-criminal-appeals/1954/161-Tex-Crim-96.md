@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,229"
+decided: "1954-12-08"
+citations: ["161 Tex. Crim. 96"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ivan F. Robbins v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2463976
+cites_cases: ["160 Texas Cr. Rep., 582", "265 S.W. 2d 108", "272 S.W. 2d 886"]
+---
+
+# Robbins v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+This is a conviction for the unlawful possession of a narcotic drug, to-wit, morphine; the punishment, eight years in the penitentiary. A former conviction for said offense was reversed by this court in Robbins v. State, 159 Texas Cr. R. 481, 265 S.W. 2d 108.
+Milton S. Hooper, Federal Narcotics Officer, testified that on June 16, 1953, he contacted appellant about the purchase of some morphine; that immediately thereafter, appellant delivered to him a tube which bore a label with morphine sulphate written on it and which contained one tablet, stating that he had sixty tablets; and that appellant later delivered to him sixty tablets for sixty dollars.
+It was further shown by a chemist that these sixty tablets in question contained morphine sulphate.
+Appellant, while testifying in his own behalf, denied having possession of morphine sulphate at any time and further stated that if a sale was made to Officer Hooper, it was consummated with another person before he appeared.
+The jury resolved the issues of fact against appellant and we find the evidence sufficient to support the verdict of the jury.
+Appellant, in his motion for a new trial, contends that the court erred in failing to charge the jury that the evidence of extraneous offenses and convictions of the appellant could be considered by them only for the purpose of impeachment.
+No objections were made to the charge before it was read to the jury, and the first complaint about the charge was made upon motion for a new trial.
+The defendant is required to present his objections to the charge in writing, distinctly specifying each ground of objection, before it is read to the jury, and having here failed to do so his right to object is waived. Art. 658, Vernon’s Ann. C.C.P.; May v. State, No. 27,108 decided October 27, 1954, 160 Texas Cr. Rep., 582, 272 S.W. 2d 886.
+Appellant complains of a question directed to him by the district attorney while he was testifying relative to a shooting that occurred about November 9, 1953, on the ground that no offense was involved and it was asked for the purpose of inflaming the minds of the jurors.
+The record reveals that the event inquired about was for the purpose of fixing the date on which appellant made a statement to the officers concerning the charge in this case, and it further shows that appellant explained to the jury the shooting which did not incriminate him. We perceive no error in this complaint.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the court.
