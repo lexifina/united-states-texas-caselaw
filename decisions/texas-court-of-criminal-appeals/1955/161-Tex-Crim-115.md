@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,393"
+decided: "1955-02-16"
+citations: ["161 Tex. Crim. 115"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pearl Smith v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2465242
+cites_cases: ["112 S.W. 2d 465", "133 Texas Cr. Rep. 527", "146 Texas Cr. Rep. 606", "153 Texas Cr. Rep. 270", "177 S.W. 2d 269", "183 S.W. 145", "219 S.W. 2d 86", "79 Texas Cr. Rep. 87"]
+---
+
+# Smith v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the possession of whiskey and beer for the purpose of sale in a dry area; the punishment, six months in jail and a fine of $200.00.
+The state’s evidence shows that certain officers went to the home of Ezell Clerkley, located in Wheeler County, and upon searching the premises found four one-half pints of whiskey in the house, three cases of beer buried in some cotton seed in a granary, and one case of beer under the granary.
+Clerkley, as a witness for the state, testified that the beer and whiskey seized by the officers were not his but belonged to the appellant, that appellant had been paying him five dollars per week for keeping beer and whiskey for her, that he had been keeping beer and whiskey for the appellant for about a year and “knew he was keeping it for the purpose of sale,” that about every other day or night appellant would make a trip to his place to pick up “her stuff” and would put it under the hood of the car. The witness testified that he did not know the whiskey was in the house or who put it there.
+Sheriff Bus Dorman identified the beer and whisky seized in the search and testified that the four boxes each contained twenty-four cans of beer and described the beer as three cases of Schlitz and one case of Coors beer.
+The evidence shows that appellant did not live on the premises searched and was not present at the time of the search.
+Appellant denied that the whiskey and beer belonged to her and testified that she never did leave any whiskey or beer with Clerkley or pay him any money to keep whiskey or beer for her.
+Appellant insists that the evidence is insufficient to support the finding of the jury that she possessed the whiskey and beer in question and that the same was possessed for the purpose of sale.
+The term “possessed” or “possession,” as used in prosecution for possessing liquor for the purpose of sale in a dry area, means the care, custody and control thereof, Wilson v. State, 153 Texas Cr. Rep. 270, 219 S.W. 2d 86, or, as stated in Huggins v. State, 146 Texas Cr. Rep. 606, 177 S.W. 2d 269, the “care, control and management” of the liquor.
+There is no evidence which shows when or by whom the whiskey and beer seized by the officers had been placed on the premises of the state’s witness, and the evidence fails to show that appellant had ever exercised any care, custody or control of the same.
+Article 666-23(a), V.A.P.C., which authorizes a conviction upon the uncorroborated evidence of an accomplice, does not control the diposition of this case because Clerkley did not testify that the appellant brought the beer and whiskey to him, had ever seen it or had ever exercised any care, control or management over the same.
+We conclude that the evidence is insufficient to support the jury verdict finding that appellant possessed the beer and whiskey in question.
+The judgment is reversed and the cause remanded.
+
+## Dissent (WOODLEY, Judge,)
+
+WOODLEY, Judge,
+dissenting.
+Ezell Clerkley was found in possession of beer and whiskey in a dry area. He testified that it was being kept for the purpose of sale and that it belonged to appellant who was paying him to keep it for her.
+That Ezell Clerkley was guilty of the offense of possessing whiskey and beer for the purpose of sale, and therefore an accomplice witness, is beyond question. He was found in possession of the beer and whiskey and admitted his participation in its keeping for the purpose of sale.
+If Clerkley’s testimony is to be believed, and the jury evidently chose to accept it as true, appellant was guilty as a principal in the commission of the offense because she owned the beer; was paying Clerkley to keep it for her, and was visiting the place to pick it up almost daily.
+The offense being a misdemeanor, it is immaterial that she was not present at the commission of the offense. Branch’s Ann. P.C., Sec. 699; Stone v. State, 133 Texas Cr. Rep. 527, 112 S.W. 2d 465; McAlister v. State, 79 Texas Cr. Rep. 87, 183 S.W. 145.
+Art. 666-23 (a) V.A.P.C. provides that conviction for the offense here charged may be had upon the uncorroborated evidence of an accomplice.
+The testimony of the accomplice witness Clerkley being alone sufficient under the statute, I am unable to agree that the conviction should be reversed for insufficiency of the evidence.
