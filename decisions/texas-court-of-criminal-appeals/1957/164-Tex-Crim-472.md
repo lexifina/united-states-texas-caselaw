@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,926"
+decided: "1957-04-10"
+citations: ["164 Tex. Crim. 472"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carnes Fielding Addington v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610747
+---
+
+# Addington v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for burglary; the punishment, two years in the penitentiary.
+The evidence shows that one or more persons by force unlawfully entered the building of the Security State Bank in Wingate, Texas, and had moved a safe from the vault to the sidewalk where a car and trailer were parked.
+Appellant challenges the sufficiency of the evidence to support the conviction.
+Raymond Dunn testified that he arrived at his grocery store and locker plant which he operated in Wingate about 4:30 A.M., April 14, 1956, and that he did not notice at that time anything unusual around the bank building which was located across a vacant lot 90 feet to the south. He further testified that about 5:20 A.M. while in the office of the store he heard “running,” and upon going to the door he saw a man whom he did not know and could not identify running across the vacant lot toward the front of the bank where a 1955 red Mercury with a light top was parked in front of the bank; that he went to his office for a gun, returned to the door, and then saw that the car which had been in front of the bank was gone, but he saw a trailer drawn by a car travelling north; that he then saw a safe on the porch of the bank, telephoned the banker and then telephoned the sheriff at 5:27 A.M.
+Leroy Adams, butcher at Dunn’s Grocery and Locker Plant, testified that about 5:30 A.M., April 14, when he was coming to the store he saw a man whom he could not identify. The man was running toward the bank and to a 1955 red Mercury with a white top and a two-wheel, flat-bed trailer. The Mercury in front of the bank was headed north, and the man entered on the driver’s side while it was moving and drove away in a northerly direction. Mr. Adams testified that the car’s exhaust made an unusual sound. He further testified that about 6 P.M. that day he saw in the possession of Deputy Sheriff Wilson in Wingate a 1955 red Mercury with a white top which in his opinion made the same unusual sound and was the same car he had seen in front of the bank about 5:30 A.M. that day.
+Proof by the state shows that a two-wheel, flat-bed trailer Was stolen from a farm and it was found on April 14 a short distance north of Wingate.
+Deputy Sheriff Bratcher, Sweetwater, Texas, testified that after receiving a telephone call on April 14, he went in his car which bore exempt license plates to Maryneal, which is located about 25 miles north of Wingate, where he began looking for a 1955 red Mercury with a white top; that about 6:15 or 6:30 A.M. he saw a car of that description traveling about 35 miles per hour coming from the south; that he attempted to stop it by flagging, but after it slowed down and came within 20 or 30 feet of him the driver “looked me and my car over” and instantly accelerated the speed of his car. He testified that he pursued it but after traveling at the rate of 110 miles per hour lie lost sight of it in a cloud of dust when it turned onto a dirt road; that it was a 1955 red Mercury with a white top and he saw only one person in the car who was not the appellant, and that he was unable to get the license number of the car. He further testified that while with a deputy sheriff from Runnels County later in the day on April 14 he saw a car and a man which he recognized as the same car and its driver he had attempted to stop about 6:15 A.M. that day at Maryneal.
+Police Officer Shackleford of Colorado City testified that after listening to a radio broadcast of a robbery about 7 A.M. on April 14, 1956, he parked his car which had a police sign on it on the highway east of Colorado City, and soon thereafter he saw a car coming from the south, and that when the car was about 3/4 of a mile from him it turned around in a low place in the road. He testified that he pursued the car which had a white top with two persons in it at a speed of about 90 miles per hour for about four miles when the car turned onto the side of the road and created a cloud of dust; that he saw a man leave the car from the right hand side and go into some brush; that he followed the man into the brush where he arrested him, and that he is the appellant in this case. He further testified that he placed the appellant in his car and continued his pursuit of the car but was unable to overtake it, and then returned to Colorado City with the appellant.
+Sheriff Raines of Garza County testified that he apprehended a man driving a two-tone Mercury bearing license No. BJ-3388 on April 14 and later that day delivered the driver and the Mercury to Ranger Renfro and Sergeant Faulk in Slaton. It was shown that the car was delivered shortly thereafter to Deputy Sheriff Wilson of Runnels County and Ranger Rohatsch. At the time the car was delivered to Wilson and Rohatsch it contained an assortment of tools and some rubber gloves. No trailer hitch was on the rear bumper — however, there were some marks on it, but it was not shown how they were placed there.
+The testimony shows that some metal filings were removed from the lower right end of a bumper that had been scratched which was on the front of a red Mercury with a light top which Deputy Sheriff Wilson had brought to the jail yard in Ballinger on April 14. It was further shown that some metal filings or particles were removed from the concrete curb in front of the Wingate Bank.
+J. D. Chastain, chemist for the Texas Department of Public Safety, testified that he made an analysis of the filings submitted to him as coming from the curb on the sidewalk and those from the bumper and that in his opinion they were of the same metallic content.
+Appellant did not testify or offer any testimony in his behalf.
+Although there are many strong circumstances that raise a suspicion that the appellant participated in the commission of the offense charged, yet the record fails to show by legal and competent evidence beyond a reasonable doubt the guilt of the appellant in his case.
+The evidence being insufficient to authorize a conviction, the judgment of the trial court is reversed and the cause remanded.
+Opinion approved by the Court.
