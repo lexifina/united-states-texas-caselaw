@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,044"
+decided: "1961-03-01"
+citations: ["171 Tex. Crim. 77"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hilario A. Jiminez v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2636119
+---
+
+# Jiminez v. State
+
+## Majority (WOODLEY, Presiding Judge)
+
+WOODLEY, Presiding Judge
+The offense is aggravated assault on a police officer; the punishment, one year in jail.
+Wayne Pierce, the complaining witness, testified that he was a police officer for the city of Amarillo on active duty; that he was on patrol in the portion of the city from Fillmore to the Air Base on Northeast 8th, and made a call to Ethel’s Danceland, a tavern, after midnight and arrested one Robert Martinez for being drunk in the place which was crowded.
+Officer Pierce testified that he also arrested one Bosque outside and took the two to the patrol car. Martinez then escaped.
+After handcuffing Bosque in the patrol car, Pierce went after Martinez and recaptured him. He again escaped, after kicking Officer Pierce in the groin, but was taken into custody and subdued by Clint Murdock, who ran a place across the street, and turned over to Officer Pierce.
+Martinez resisted but was taken to the police car. While Officer Pierce was holding him with a “full Nelson,” waiting for help to arrive, he was kicked in the back and hit in the back of the head several times by unidentified persons of the 25 or 30 who were present. He immediately released Martinez and, as he started to get up, was kicked in the side of the head by appellant.
+Officer Pierce was positive in his identification of appellant as the man who had kicked him. He had seen him previously-
+Clint Murdock testified that appellant “kept agitating it on” —“kept milling around and wanting to know what everybody was doing over there and trying to help the policeman for.” He did not see appellant strike or kick the officer, but testified that he told the officers to arrest him —“he just kept agitating it, and he tried to push me around a little bit.”
+Appellant’s first contention is that, if guilty of any offense, it was that of opposing an officer who is lawfully arresting another for misdemeanor (Art. 339 V.A.P.C.), or the offense of aiding one charged with a misdemeanor to escape from an officer (Art. 330 V.A.P.C.), neither of which authorize a jail term as punishment.
+The state had the right to elect to prosecute appellant under Art. 1147(1) V.A.P.C. which, in its present form, was enacted in 1955. We do not agree that said statute is in irreconcilable conflict with Article 330 or 339 V.A.P.C. If so, Art. 1147 (1) V.A-P.C. could not be deemed to have been repealed by these previously enacted articles.
+The evidence is sufficient to show that the arrest of Martinez was made and the assault was committed in the city of Amarillo. Officer Pierce testified that he was on active or regular duty with the Amarillo Police Department; that he rode the strip “Northeast 8th from Fillmore to the Air Base”; that he was on patrol “in that portion of the city”; that he had occasion “on that early Sunday morning to make a call to Ethel’s Danceland”; that the transaction took place in that immediate area in Potter County, Texas.
+On cross-examination, Officer Pierce testified that the police car was fifty or seventy-five yards “from the front door of Ethel’s Danceland, out next to the highway.”
+“Q. Now, so the jury will know right where that is, that is on the other side of the underpass going to the airport, isn’t it? A. Yes, sir.”
+Deeming the evidence sufficient to show that the arrest was made in the city, we need not consider whether or not a city policeman who arrests one found drunk in a public place outside the city is acting in the discharge of his official duties.
+We find the evidence sufficient to sustain a finding by the jury that appellant had knowledge that Officer Pierce was an officer discharging an official duty.
+Officer Pierce testified that the people standing there saw him hold Martinez in the proximity of the police car properly marked and designated, and he was in uniform.
+The witness Murdock testified that appellant “kept milling around and wanting to know what everybody was doing over there and trying to help the policeman for.”
+The evidence is sufficient to sustain the conviction and we find no reversible error.
+The judgment is affirmed.
