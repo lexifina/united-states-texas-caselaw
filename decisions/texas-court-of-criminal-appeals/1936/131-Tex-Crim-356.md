@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "18636"
+decided: "1936-12-02"
+citations: ["131 Tex. Crim. 356"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. L. Flippen v. The State."]
+source_url: "https://static.case.law/tex-crim/131/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5243493
+---
+
+# Flippen v. State
+
+## Majority (CHRISTIAN, Judge.)
+
+CHRISTIAN, Judge.
+The offense is theft of property over the value of $50; the punishment, confinement in the penitentiary for two years.
+The property alleged to have been stolen was 2,500 pounds of Sudan grass seed of the value of $250. C. M. Forbus testified that.he lost 35 sacks of Sudan seed from his premises on the night of April 16, 1935. He testified, further, that said seed weighed 3,500 pounds. Said property was never recovered by him. According to the testimony of the State, shortly after the alleged theft appellant sold 35 sacks of Sudan seed in Fort Worth. There was testimony to the effect that truck tracks were discovered near the premises of Mr. Forbus, which corresponded with tracks made by appellant’s truck. Appellant sold the Sudan seed under an assumed name.
+Appellant did not testify, but introduced witnesses' whose testimony raised the issue of alibi.
+We pretermit discussion of the sufficiency of the evidence.
+It appears from appellant’s second application for a continuance that his wife was ill and unable to appear and testify as a witness in his behalf. It is shown that, if present, she would testify that appellant spent the entire night with her in the home of Mrs. Lee Orville Lewis on the date of the alleged theft. It is further shown that she was the only person, except appellant, who could testify as to the whereabouts of appellant from 10 p. m. on the date of the alleged theft until daylight the following morning. In short, in the light of the evidence of the State, the testimony of appellant’s wife would, if believed, have exonerated him, as he could not have committed the offense of theft as charged in the indictment. It was shown in the testimony heard by the court that the wife of appellant was confined to her bed and that she required an operation. However, physicians who examined her under the instructions of the court declared that she had no temperature on the date the case was called for trial. These physicians were of the opinion that she would be able to appear and testify, but were of the further opinion she would probably be highly excited. The physician in whose sanitarium appellant’s wife had been for several weeks expressed the opinion that her presence in court would not aggravate the disease from which she was suffering. He said, however, that if she took the stand she would “be a sick woman testifying on this stand.” He said she was highly nervous and excitable. Again, he testified: “There is no doubt in my mind but I feel positive she has some trouble and that she is sick and should be in bed and should have an operation, but I think it would be possible for her to appear in court and be here for a reasonable length of time.”
+We think the application for continuance should have been granted. The condition of appellant’s wife was such that appellant, if he had the proper regard for her health, could not be expected to take the responsibility of having her brought into court to testify in his behalf. Her testimony was material and it can not be said, in the light of the record, that it is not probable that an acquittal will follow if she is present upon another trial and gives the testimony set forth in the application for continuance.
+On another trial the proof should be pointed to the effect that the property alleged to have been stolen was Sudan grass seed.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
