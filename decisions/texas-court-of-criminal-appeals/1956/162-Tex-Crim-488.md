@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,053"
+decided: "1956-02-22"
+citations: ["162 Tex. Crim. 488"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter William Kite v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0488-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462535
+cites_cases: ["148 Tex. Cr. R. 445", "160 Tex. Cr. R. 211", "160 Tex. Cr. R. 23", "188 S. W. 2d 393", "266 S. W. 2d 167", "268 S. W. 2d 142"]
+---
+
+# Kite v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for the felony offense of drunken driving as denounced by Art. 802b, Vernon’s Ann. P.C., and the punishment was assessed at eighteen months in jail.
+Appellant moved to quash the indictment on the ground that the prior conviction, therein charged, of driving a motor vehicle while intoxicated, did not allege that it was for an offense which occurred upon a public highway.
+The primary offense charged that the appellant on July 24, 1954, drove a motor vehicle, while intoxicated, upon a public highway. It was further alleged that the appellant on July 29, 1952, in Cause No. 3723, “entitled the State of Texas versus Walter William Kite,” in the county court of Uvalde County, Texas, was convicted of the “offense of driving a motor vehicle while intoxicated,” which conviction became final prior to the primary offense herein charged. It was also alleged that said Cause No. 3723 was legally pending in said county court and that said court had jurisdiction of said cause.
+The prior conviction is not required to be alleged with the same certainty as the offense charged in the original complaint and information. The felony offense denounced by Art. 802b, Vernon’s Ann. P.C., was sufficiently alleged in the indictment and the court did not err in overruling appellant’s motion to quash. Broughton v. State, 148 Tex. Cr. R. 445, 188 S. W. 2d 393; Whiddon v. State, 160 Tex. Cr. R. 23, 266 S. W. 2d 167; Cotner v. State, 160 Tex. Cr. R. 211, 268 S. W. 2d 142.
+The prior conviction for driving a motor vehicle upon a public highway while intoxicated was properly shown and appellant was identified as the same person named in said previous judgment of conviction.
+There is no dispute in the evidence but that the appellant drove a motor vehicle upon a public highway in Val Verde County. Two highway patrolmen testified that appellant was intoxicated at the time and place in question. Appellant, while testifying in his own behalf, admitted drinking some beer and whiskey, but stated that he was not intoxicated. The jury resolved the issue of intoxication against appellant, and we find the evidence sufficient to sustain the conviction.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the court.
