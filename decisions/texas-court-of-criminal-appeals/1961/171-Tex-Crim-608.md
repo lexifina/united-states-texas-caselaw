@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,962"
+decided: "1961-11-29"
+citations: ["171 Tex. Crim. 608"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carl R. Jones v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0608-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2630361
+cites_cases: ["113 S.W. 2d 895", "193 S.W. 2d 687", "224 S. W. 2d 228", "229 S.W. 2d 791", "234 S.W. 406", "247 S.W. 2d 400", "285 S.W. 2d 726"]
+---
+
+# Jones v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is robbery; the punishment, 20 years.
+W. H. Warlick and his wife were seated at different places in their rural store on the night in question when appellant entered and approached Mrs. Warlick at the cash register with a .45 caliber pistol in his hand, told her it was a holdup and that he wanted the money. When Mr. Warlick called out to their son Lewis, another man entered the store, armed with a smaller caliber pistol, and said, “Be quiet before I blow you half in two.” Appellant repeated the warning. Appellant and his companion marched the Warlicks to the back of the store, where they were required to lie on the floor and their hands and legs were taped up to prevent movement. On the way to the rear of the store, Warlick observed appellant open the cash register and take out the money. While they were lying on the floor, the Warlicks heard the noise of glass rattling, coming from where they displayed pocket knives and Admiral watches. When they liberated themselves, they found their cash register empty, approximately twenty dollars was missing from a cigar box which they kept under the counter, and that all their Admiral watches and pocket knives were gone. The police at Kilgore were notified. Earlier in the day, Warlick had observed appellant in an old model large, dark green automobile. The Warlicks picked appellant and his companion out of a police lineup the following day.
+Within minutes after the robbery, the constable arrived upon the scene and, after talking to witnesses, broadcast the description of the automobile in which appellant was traveling.
+Later that night, the Shreveport, Louisiana, sheriff’s department received information to be on the lookout for a 1949 model, green Buick bearing a California license plate. When such an automobile was spotted on the east side of the city parked at a filling station, further inquiries were made by means of the police radio, and appellant and his companion were apprehended. A search of the Buick revealed two pistols, several Admiral watches, and various pocket knives.
+Appellant did not testify or offer any evidence in his own behalf.
+The War licks were positive in their identification of appellant, and we find the evidence sufficient to support the conviction. We shall discuss the contentions in the order advanced by brief and in argument.
+The indictment alleged that “money of the United States of the sum of forty dollars” was taken by means of the robbery. Appellant contends that the State has failed to support such allegation. While Warlick testified that all the “money” was taken from the cash register, he did testify further that “twenty or twenty five dollars . . in cash, money of the United States” was taken from the cash box. Howell v. State, 154 Tex. Cr. Rep. 8, 224 S. W. 2d 228, and the cases there cited are authority for the rule that “proof that less money of the same character was taken than that alleged is not a variance.” The fact that the court charged in the terms of the indictment would not affect this rule.
+By bill of exception appellant complains of the action of the trial court in sustaining the State’s challenge for cause of venireman Woodall, who said he was hard of hearing. The bill reflects that the careful trial court conducted an experiment from which he concluded that Woodall’s statement was correct and then excused him. Bitela v. State, 162 Tex. Cr. Rep. 319, 285 S.W. 2d 726, and the cases there cited are authority for the rule that “for an accused to show injury resulting from the sustaining of a challenge by the state, he must show that he was forced to accept an objectionable juror.” There is no such showing in the case at bar, and no reversible error appears.
+Appellant next complains of the evidence concerning the search of appellant’s person and that of the automobile. According to the bill, in the absence of the jury on the issue of probable cause, the court heard testimony from the deputy sheriff from Louisiana who made the arrest that he had information that a felony warrant of arrest had been issued for appellant and his companion: He testified before the jury, apparently without objection (the statement of facts is in narrative form), that he had learned the description of the automobile and its occupants from a regular police radio broadcast. This is exactly the type of information which this Court held in Vaughn v. State, 134 Tex. Cr. Rep. 97, 113 S.W. 2d 895, and Beeland v. State, 149 Tex. Cr. Rep. 272, 193 S.W. 2d 687, was sufficient to authorize an arrest without a warrant under Article 215, V.A.C.C.P. The original arrest being lawful, the subsequent search of the automobile was authorized. Constant v. State, 155 Tex. Cr. Rep. 6, 229 S.W. 2d 791.
+During an examination of the injured party, he stated that he would know appellant’s companion in the robbery if he saw him again. When the companion was brought to the door of the courtroom for identification, appellant objected, and now contends that this was error because the companion was only 17 years old. In Haley v. State, 157 Tex. Cr. Rep. 150, 247 S.W. 2d 400, we held it not error to bring the injured child to the courtroom door so that she might be seen by the jury.
+The next bill relates to argument. Warlick testified that when appellant entered the store and made the demand for the money he had so placed himself that both he and his wife would be in appellant’s line of fire. In his argument, the prosecutor observed that this looked like the action of an old hand at the job. We have concluded that this was a reasonable deduction from the evidence and does not constitute reversible error.
+At another time in his argument, the prosecutor said:
+“The testimony shows that the defendant said, ‘If he makes a move blow him in two,’ and don’t you know, if Mr. Warlick had moved a finger we wouldn’t be trying the defendant for robbery, we would be trying him for murder.”
+The objection to such argument was that it was inflammatory and the prosecutor replied that it was so intended. In Thompson v. State, 234 S.W. 406, this Court held it not reversible error for the prosecutor to argue that the accused had prepared for murder to effect the robbery where the facts, such as we have before us here, authorized such a conclusion.
+Finding no reversible error, the judgment of the trial court is affirmed.
