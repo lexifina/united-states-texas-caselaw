@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3905"
+decided: "1908-06-24"
+citations: ["54 Tex. Crim. 113"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte H. L. Johnson v. The State."]
+source_url: "https://static.case.law/tex-crim/54/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 182584
+---
+
+# Ex parte Johnson v. State
+
+## Majority (DAVID SOB", Presiding Judge.)
+
+DAVID SOB", Presiding Judge.
+This is an original application for a writ of habeas corpus.
+The facts show that there was a suit pending in Bexar County in which Dupree was plaintiff, and John Schuhmacher, August Loessein, sheriff of Fayette County, Levi Johnson, and H. L. Johnson (applicant), were defendants. That on the 4th day of May a commission to take the depositions of applicant was issued out of the County Court of Bexar County, directed to the clerk or any officer authorized to take depositions in Fayette County. That the depositions of applicant were sought by means of this commission. A copy of the interrogatories was not served upon applicant, but the commission was in proper form, and was placed in the hands of L. D. Brown, a notary public of Fayette County; that the notary public caused applicant to be brought before him for the purpose of answering the interrogatories propounded and attached to the commission. Upon being brought before the notary applicant refused to answer, whereupon the notary fined him $10 and committed him to jail for three days. This occurred on the 4th of May, 1908. On the 7th of the same month the notary ordered applicant again brought before him. The second time he refused to answer, and was again fined $10 and committed to jail for three days. This process of bringing applicant before the notary and his refusal to answer, and fining and imprisoning process, were repeated on the 9th of May, on the 11th of May, on the 14th of May, on the 16th of May, and on the 19th of May. Applicant is in custody of the sheriff declining to answer. This is the substance and a brief statement of the facts. The application recites the further fact that the depositions of applicant were sought by his codefendant, Loessein, sheriff of Fayette County.
+Applicant’s contention is that the notary public has no power or authority, under the circumstances detailed, to punish recusant witnesses for contempt, and his action is, therefore, illegal and void.
+As applicable to the question involved, we quote the several articles of the Revised Civil Statutes, as follows: Article 2292: “The deposition of either party to a suit who is a competent witness therein may be taken in his own behalf in the same manner and with like effect with the depositions of other witnesses.” Article 2293: “Either party to a suit may examine the opposing party as a witness, upon interrogatories filed in the cause, and shall have the same process to obtain his testimony as in the case of any other witness, and his examination shall be conducted and his testimony received in the same manner and according to the same rules which apply in the case of any other witness, subject to the provisions of the succeeding articles of this chapter.” Article 2294: “It shall not be necessary to give notice of the filing of the interrogatories or to serve a copy thereof on the adverse party before a commission shall issue to take the answer thereto, nor shall it be any objection to the interrogatories that they are leading in their character.” Article 2297: “If the party interrogated refuses to answer, the officer executing the commission shall certify such refusal, and any interrogatory which the party refuses to answer, or which he answers evasively, shall be taken as confessed.”
+It will be observed from the facts in the case that applicant was a party to the suit, whose depositions were sought by a codefendant, and was treated as an adverse or opposing party by the codefendant who sought his testimony. The power to fine for contempt, under the circumstances of this case, was not extended to the notary public, nor sought to be extended by the legislative department. It would seem, therefore, that the applicant is to be classed as a witness of the opposing party. This being true, the notary public had no authority to fine for contempt, for the Legislature never sought to confer such authority upon a notary public under the circumstances. It does provide, in case of a refusal to answer, that the interrogatory which the party refuses to answer, or to one which he answers evasively, shall be taken as confessed. So, under this phase of the statute, there is no authority on the part of a notary public to punish for contempt. We, therefore, hold that the act of the notary public imposing a fine and incarcerating applicant in jail was without authority and void, and applicant is discharged from custody. Applicant will pay costs of this proceeding.
+Discharged.
