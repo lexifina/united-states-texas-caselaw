@@ -1,0 +1,48 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,540"
+decided: "1959-04-08"
+citations: ["167 Tex. Crim. 621"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. Von Brown v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0621-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8552608
+cites_cases: ["115 S.W. 597", "218 S.W. 491", "55 Texas Cr. Rep. 164", "86 Texas Cr. Rep. 559"]
+---
+
+# Brown v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant was convicted and assessed a term of five years in the penitentiary for assault with a prohibited weapon, the indictment alleging that while unlawfully carrying on and about his person a pistol he did, with said pistol, wilfully commit an assault upon Jack Revill.
+The evidence from the state’s standpoint was that Jack Revill and W. B. Frazier, Detectives of the Dallas Police De-partmént, on September 3, 1958, were seated in an unmarked Ford automobile on a public street in a colored residential area in South Dallas shortly after midnight; that a third officer was in the area at their direction.
+A Cadillac automobile, being driven in reverse, approached and the two officers ducked their heads so they could not be seen and the Cadillac passed and stopped.
+Appellant suddenly appeared at the right door of the officers’ car and pointing a pistol at Revill said “Get out of the car with your hands up or I’ll kill you.” Both Revill and Frazier complied with the order.
+Lt. Frazier showed appellant his badge and card identifying him as a police officer, as both he and Revill had stated, and appellant “reluctantly” re-holstered the pistol and then surrendered it to Lt. Frazier and was taken to jail.
+The court in his charge gave the usual definition of assault and battery and instructed the jury that the law provides that if any person shall wilfully commit an assault or an assault and battery upon another with a pistol while the same is being carried unlawfully by the person committing the assault he shall be deemed guilty of an assault with a prohibited weapon and, upon conviction, shall be punished by fine not to exceed $200, or by imprisonment in jail not to exceed two years, or by confinement in the penitentiary for not more than five years.
+“Wilfully” was defined as meaning that the act was committed voluntarily, intentionally and purposely as distinguished from an act done carelessly, thoughtlessly, heedlessly or inadvertently. This defined the word wilfully as used in common parlance.
+Wilfully when used in a penal statute means more. It means with evil intent or legal malice, or without reasonable ground for believing the act to be lawful. Thomas v. State, 14 Cr. App. 200; Shubert v. State, 16 Cr. App. 645; Caldwell v. State, 55 Texas Cr. Rep. 164, 115 S.W. 597 (malicious mischief); 45 Words and Phrases 207. It includes evil intent and malice as well as set purpose and design. Mercado v. State, 86 Texas Cr. Rep. 559, 218 S.W. 491.
+The charge instructed the jury that the state must prove to the jury’s satisfaction that the pistol was being unlawfully carried by the defendant at the time of the assault and in that connection instructed the jury “that it is unlawful for any person to carry on or about his person any pistol.”
+Applying the law so given, the court authorized a conviction upon findings by the jury beyond a reasonable doubt that appellant, with a pistol, “the same being a prohibited weapon, as above defined,” wilfully committed an assault upon Revill and that the pistol was then being unlawfully carried by appellant on or about his person.
+Except for the “unless you so find beyond a reasonable doubt you shall acquit * * *” the charge submitted no defense to the charge that the pistol was carried unlawfully or to the charge that the assault by pointing the pistol was wilful.
+Appellant, a Negro minister, admitted that he pointed a pistol into the car and ordered the occupants to get out with their hands raised, but denied that he added “or I’ll kill you.”
+His testimony, supported in part by other evidence was: He was the pastor of the Lighter Church of Prayer, which was located in the next block from the car in which he found Officers Revill and Frazier; that he conducted services on the night in question; that a number of threats had been made by unknown parties leaving K.K.K. cards under the door of the church, and the Community House directly across the street “got burned” in May, and the Board of Trustees of the church authorized him to buy a pistol.
+Appellant had in his possession some $5000 which he was taking to the bank the next morning to pay a church debt.
+After services on the night in question appellant and Grady Anderson, who drove the church’s Cadillac, remained for a while and appellant called the police who came and took into custody a man who was crawling behind a car in a private driveway. Appellant reported this man as “a prowler.” When he first saw this man he was closing the door of the church’s Cadillac parked at the church.
+The man appellant believed to be a prowler is a white man, as are Officers Revill and Frazier.
+The patrolmen who responded to appellant’s call approached the “prowler” with their pistols drawn and handcuffed him and took him away.
+Shortly thereafter, as he was preparing to leave the church with the $5000, to go to his room at a hotel, appellant “saw a white fellow duck down ’neath the hood” of the car a block away and “thought he was a companion to the prowler that I had just called the officers out on and they had carried away.”
+Appellant testified that he then “went into the church and got the pistol out of the drawer” and got in the Cadillac. He told his driver, Anderson, “Let’s go back there and see if that’s not the companion of that prowler they just carried away.”
+Anderson backed the Cadillac past the Ford car, which had no markings. Appellant testified that he could see no one in the Ford, “they was laying down on the seat;” that he got out after passing, opened the door of the Ford and pointing the pistol told them to get out of the car with their hands up.
+Appellant was not aware of the fact that the “prowler” was in fact an undercover officer who was in the vicinity under orders of Officers Revill and Frazier, or that the unmarked Ford automobile a block away was an official car and the white man he saw “duck down ’neath the hood” or his companion were officers.
+He testified that the “prowler” was “fooling with” the church’s Cadillac parked at the church and was “pushing the door closed to the car;” that while waiting for the police to arrive in response to his call he saw the “prowler” go across the street and duck down in some bushes.
+Appellant pointed out the “prowler” who was stooped behind an automobile parked in a private driveway across the street from the church and the patrolmen took him away in handcuffs without advising or giving appellant any reason to believe that the man was an officer.
+Appellant testified that when he saw the man duck down ’neath the hood of the Ford he went back into the church and got the pistol and went to investigate, to see if he was a companion of the “prowler.”
+He was correct in his suspicion that the occupants of the car and the man he called the police to arrest were companions, but learned for the first time after he drew his pistol and ordered the occupants of the Ford to get out with their hands raised that these companions were not intent upon harming him or the church, or taking the $5000, but were officers engaged in the performance of their duties in enforcing the law.
+Appellant objected and excepted to the charge and to the court’s definition of the term wilfully.
+The evidence set out above demonstrates that the court’s failure to require a finding by the jury that, in pointing the pistol at Jack Revill and ordering him out of the car with his hands raised, appellant acted with evil intent or malice as well as with a set purpose and design, deprived appellant of his defense and hence of a fair and impartial trial.
+The judgment is reversed and the cause remanded.
