@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,526"
+decided: "1961-06-14"
+citations: ["171 Tex. Crim. 248"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mamie Price v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2637952
+cites_cases: ["159 Tex. Cr. R. 432", "264 S.W. 2d 734"]
+---
+
+# Price v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for unlawfully possessing beer in a dry area for the purpose of sale; the punishment, a fine of $500.
+Proof was offered by the state that, on the date alleged, Liquor Board Agent Otis Harrison and Deputy Sheriff John Halbert, after having secured a search warrant, went to appellant’s cafe in the city of San Augustine to search for intoxicating liquors. In the search a quantity of beer was found.
+Upon the trial, it was stipulated that the search warrant was invalid and an issue was made as to whether the search was with consent of the appellant. The two officers testified that the search was made with appellant’s consent.
+The court, in his charge, instructed the jury that the search of appellant’s premises was illegal unless appellant gave her permission thereto, and, further instructed the jury that unless they found and believed from the evidence beyond a reasonable doubt that appellant gave to the officers her permission to search the premises or if they had a reasonable doubt thereof they would acquit her.
+Bill of Exception No. 2 certifies that while the witness Otis Harrison was testifying on direct examination “the defendant objected to any testimony being admitted concerning the search of defendant’s premises by said officer in that no predicate had been laid for such testimony and the trial judge stated: ‘Well, he is an authority on the subject,’ * * * referring to said witness Harrison to which remark defendant objected as an improper comment by the court, vouching for the witness in the presence of the jury and comment on the evidence which was overruled by the court, to which decision of the court the defendant then excepted * * *."
+The court’s comment shown in the bill was clearly in violation of Art. 707, V.A.C.C.P., which provides:
+“In ruling upon the admissibility of evidence, the judge shall not discuss or comment upon the weight of the same or its bearing in the case, but shall simply decide whether or not it is admissible; nor shall he, at any stage of the proceedings previous to the return of a verdict, make any remark calculated to convey to the jury his opinion of the case.”
+The court by his comment vouched for the credibility of the witness Harrison and bolstered his testimony. The witness, in addition to giving other testimony damaging to appellant, swore positively that appellant consented to the search. Such- testimony was upon a material issue in the case. Under the record, the court’s comment was clearly pre judical to appellant and calls for a reversal of the conviction. See: 42 Tex. Jur. 193, sec. 149; McCool v. State, 159 Tex. Cr. R. 432, 264 S.W. 2d 734.
+For the error, pointed out, the judgment is reversed and the cause is remanded.
+Opinion approved by the Court.
+
+## Dissent (WOODLEY, Presiding Judge)
+
+WOODLEY, Presiding Judge
+(dissenting).
+I do not agree that the court’s reference to Agent Harrison as “an authority on the subject” warrants reversal.
+The remark was made in ruling upon the objection to any testimony as to anything done or said in appellant’s cafe unless a proper predicate was laid. The objection that the comment vouched for the witness “in the presence of the jury” will not suffice as a certification that the remark was heard by the jury or was in fact made in the jury’s presence.
+If there was any harm to appellant in the court’s remark, it was incumbent upon appellant to request an instruction from the court to the jury to disregard it. If appellant considered the harm such as could not be removed by any instruction, he should have moved the court to declare a mistrial.
