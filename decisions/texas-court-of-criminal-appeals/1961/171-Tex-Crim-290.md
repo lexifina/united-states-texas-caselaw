@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,542"
+decided: "1961-06-21"
+citations: ["171 Tex. Crim. 290"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eugene Victor Bailey v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2631320
+cites_cases: ["201 S.W. 2d 816", "205 S.W. 2d 47", "273 S.W. 2d 623", "274 S.W. 2d 839", "284 S.W. 2d 359", "314 S.W. 2d 605", "345 S.W. 2d 754"]
+---
+
+# Bailey v. State
+
+## Majority (McDONALD, Judge.)
+
+McDONALD, Judge.
+Appellant was convicted in the county court of Van Zandt Countjr for driving a motor vehicle on a public road, while intoxicated. His punishment was assessed at a fine of $100 and confinement in jail for thirty days.
+The witness Saxton testified that on the night of July 4, while at home, he heard a noise which sounded like a “car collision” and went to investigate, and that he observed an automobile sitting “crossways” about four or five feet from the pavement on the road running from Grand Saline to Alba, and the appellant lying on the ground on the driver’s side about eight feet from the automobile. He testified that he searched the immediate area and found no other person, and that he remained at the scene until the ambulance came for appellant.
+Dr. Cosby, who treated appellant after arrival at the hospital, testified that “there was some evidence that he had been drinking.”
+The witness M. E. Bailey (shown to be no relation to appellant) testified that he was riding with Police Chief Pat Heddin on the night in question and that when they drove out the Alba Road they “found a car turned over in the ditch and a man lying about eight or ten feet from it.” He identified appellant as the man, and stated that, upon being asked if anyone was with him, appellant replied, “I was by myself.” The witness expressed the opinion that from what appellant said, his conduct, and the “way he smelled” appellant was “drunk.” The witness further testified that “a piece of a bottle” of what he believed was gin was taken out of the automobile.
+Highway patrolman Tidwell testified that he went to the scene and found that an automobile had turned over “more than one time” and that he then went to the hospital, where he saw appellant. The witness expressed the opinion that from the way appellant “smelled” and from the way he acted appellant was “drunk.” The witness then testified that he assisted in taking appellant to jail.
+Patrolman Johnson, Tidwell’s partner, corroborated his testimony.
+Jailer Morris testified that in his opinion appellant was “drunk” when he was brought to jail.
+Appellant did not testify in his own behalf, but called his wife, who testified that they had come from Dallas to Grand Saline for a visit on the day in question and that when she last saw appellant that night she “wouldn’t say that he had been drinking or that he had,” that she didn’t know, but that she knew “he wasn’t drunk.”
+The. jury resolved such conflict as there was in the evidence against the appellant, and we find the evidence sufficient to support the conviction. See: Jarnigan v. State, 345 S.W. 2d 754, and the cases therein cited.
+We shall discuss the matters presented by the bills of exception and which are urged in the brief:
+Appellant requested that the jury be instructed to acquit if they had a reasonable doubt as to whether appellant was rational at the time he made the statement to the witness Bailey. To have granted such request would be to have singled out certain testimony and commented upon its weight, as has been denounced by this court in DeLeon v. State, 150 Tex. Cr. Rep. 391, 201 S.W. 2d 816, and Burnet v. State, 150 Tex. Cr. Rep. 575, 205 S.W. 2d 47. See, also, Note 276 under Art. 658, V.A.C.C.P.
+Appellant next contends that the court erred in failing to charge on the law of circumstantial evidence. Recently, in Monroe v. State, 166 Tex. Cr. Rep. 459, 314 S.W. 2d 605, the witness Monk testified that the man driving the Ford automobile involved in a collision with another car was the sole occupant thereof and that, following the collision, he saw this man “ ‘flying through the air’ ” and falling to the shoulder of the highway, where he lay motionless until the officers arrived. The officers testified that this man lying on the ground was the accused, and this court held that the charge on circumstantial evidence was not required. See, also, Cave v. State, 161 Tex. Cr. Rep. 107, 274 S.W. 2d 839, and Smith v. State, 161 Tex. Cr. Rep. 620, 273 S.W. 2d 623. We have concluded that, under the facts, the requested charge in the instant case was not required.
+By bill of exception No. 4, appellant complains of that portion of the prosecutor’s argument in which he said:
+“ ‘If there had been someone else in the car with the defendant, Judge Fletcher [appellant’s attorney] would have had him here.’ ”
+We are cited no authority, and know of none, which would hold such argument to be a reference to appellant’s failure to testify, or to be reversible error.
+Bill of exception No. 5, which was approved by the court, complains of the following argument:
+“ ‘The statement by the witness, M. E. Bailey, that the Defendant before he was arrested told him that there was no one in the car with him at the time of the collision and that M. E. Bailey, the witness, communicated this fact to Pat Heddin, the officer, and that it was undisputed that M. E. Bailey did communicate that information to the officer.’ ”
+This court has held that for argument to violate Art. 710, V.A.C.C.P., it must be such as can not reasonably be applied to the failure of the accused to produce testimony other than his own. See: French v. State, 162 Tex. Cr. Rep. 48, 284 S.W. 2d 359, and cases there cited.
+It is obvious from the argument set forth above that Officer Heddin, as well as appellant, might have disputed the testimony of the witness Bailey. Hence, no reversible error appears.
+Appellant’s last complaint is that the prosecutor went outside the record when he stated that Dr. Cosby released appellant to the officers so that he might be taken to jail.
+Dr. Cosby testified that he treated appellant at the hospital, and Patrolman Johnson testified that he received permission at the hospital to bring appellant to jail.
+These facts, we have concluded, justified the complained-of argument.
+Finding no reversible error, the judgment of the trial court is affirmed.
