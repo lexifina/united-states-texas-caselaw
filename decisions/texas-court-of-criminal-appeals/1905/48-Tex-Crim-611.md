@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3142"
+decided: "1905-11-15"
+citations: ["48 Tex. Crim. 611"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Will Tyler v. The State."]
+source_url: "https://static.case.law/tex-crim/48/cases/0611-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 178771
+---
+
+# Tyler v. State
+
+## Majority (HENDERSON, Judge.)
+
+HENDERSON, Judge.
+Appellant was convicted^ of murder in the second degree, and his punishment assessed at confinement in the penitentiary for a term of five years; hence this appeal.
+The charge of the court is criticised in the motion for new trial. We have examined the same, in connection with the criticisms, and in our opinion, it is a proper charge applicable to every phase of the case. It presented murder in the first degree, murder in the second degree, manslaughter and self-defense. It is exceedingly doubtful whether manslaughter is in the ease; and if self-defense is in the case, the evidence is very meager on that subject. Still appellant had the benefit of both manslaughter and self-defense. So far as manslaughter is concerned, if deceased uttered any slanderous remarks about the wife of appellant they were made, according to the testimony, in appellant’s presence. He did not resent the same at the time, but left and went to a neighbor’s house, procured a gun, loaded it with buck shot shells, returned and killed deceased, who was still sitting where appellant left him in a chair on the gallery. This was not a first meeting; but, as stated, appellant was given the benefit of the charge on manslaughter.
+On the subject of self-defense, the court instructed the jury, among other things, that appellant had the right, if deceased used slanderous language, concerning his wife, to make him leave said premises; and if deceased refused to do so, to use all lawful means under such circumstances to make him leave, and to use such force as to him at the time appeared reasonable and necessary, and no more, to accomplish said purpose: “And if you further believe that at such time while endeavoring to force deceased to leave such premises, the deceased, Tom Vickers, was malting an attack on defendant as aforesaid, you will find the defendant not guilty.” How the evidence shows that deceased was a guest at said house and the owner, Mrs. Brown, gave him the right to be there, and we doubt exceedingly if appellant had the right to make him leave. But, as stated before, the court gave appellant this right, and he certainly cannot complain. ' •
+The charge of the court to the effect that the provocation to reduce to manslaughter must have been extended by deceased, and that appellant must have acted on the provocation at the time, was responsive to the testimony. If there is any insult in the case in regard to the wife of appellant, it was made by deceased direct to appellant. Appellant did not slay him at the time, which under the statute and authorities, would reduce to manslaughter; and so, as stated, there was no manslaughter in the case: yet the jury were authorized under the charge to find him guilty of manslaughter.
+The charge on circumstantial evidence was not required. There is nothing in appellant’s motion for new trial on the ground of newly discovered evidence. There is no affidavit by Brewer, whom it is alleged will testify on another trial, that he heard deceased make disparaging remarks about the wife of appellant. The affidavit is made by one Bortis, that he heard Brewer make the remarks. Brewer’s affidavit should have been procured, or some good reason shown why it was not. As presented the matter is purely hearsay. Nor is it shown that appellant knew of this disparaging remark. Appellant urges in the motion “that he knew nothing about the testimony of said witness until late yesterday, and it was impossible for him to locate said witness by the time this motion is set for hearing.” Appellant should have further shown that he requested the court to postpone the hearing a reasonable time in order to procure said witnesses.
+Appellant also asked a new trial because of the alleged prejudice of one of the jurors, to wit: P. H. Wolf. To verify this he attaches the affidavit of one J. H. Donahoe. He states that juror. Wolf told him that appellant ought to have about twenty-five years for killing deceased. It is doubtful, as shown in the application, that the same is presented in such shape as to show that Wolf in his examination on voir dire stated he had no prejudice against appellant, and had not expressed any. But concede that this is shown, it occurs to us that the affidavit of Donahoe is not full enough to show such prejudice or ill feeling. The fact that neither manslaughter nor self-defense is in the case, and the further fact that he was convicted of murder in the second degree, and only received five years (the lowest punishment) would certainly not indicate any prejudice by the jury against him. We do not believe that the application and the affidavit thereto attached, is sufficiently full on this ground of the motion. There being no error in the record, the judgment is affirmed.
+Affirmed.
