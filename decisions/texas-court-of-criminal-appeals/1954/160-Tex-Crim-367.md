@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,275"
+decided: "1954-10-13"
+citations: ["160 Tex. Crim. 367"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte George Outlaw"]
+source_url: "https://static.case.law/tex-crim/160/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2471219
+cites_cases: ["131 Texas Cr. Rep. 273", "140 Texas Cr. Rep. 288", "144 S.W. 2d 886", "145 Texas Cr. Rep. 582", "159 Texas Cr. Rep. 49", "170 S.W. 2d 731", "261 S.W. 2d 322", "98 S.W. 2d 191"]
+---
+
+# Ex parte Outlaw
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant is held in custody by the sheriff of Harris County, Texas, to answer an indictment charging him with felony theft after two previous convictions for felonies less than capital.
+Bond having been set in the sum of $10,000, appellant made his application to Hon. Langston King, District Judge, for a reduction of bail, alleging his ability to make bond in the sum of $500.
+At the hearing the state rested after offering in evidence the indictment, appellant having testified that he was unable to make a $10,000 bond but, perhaps, could make one in the sum of $500.
+Judge King ordered that the bond be reduced and set at $5,000, from which order notice of appeal was given.
+Thereafter appellant filed a motion to further reduce said bail, alleging that neither he nor his attorney had been able to procure bail in the amount of $5,000. He again prayed that the bond be reduced to $500, or that he be released on his own recognizance. If any evidence was heard upon this motion it is not shown in the record. It is shown, however, that Judge King endorsed the motion “Refused.”
+The motion, though sworn to, was but a pleading and did not prove the allegations therein. Ex Parte Bowers, 131 Texas Cr. Rep. 273, 98 S.W. 2d 191; Ex Parte Ambrose, 145 Texas Cr. Rep. 582, 170 S.W. 2d 731.
+But even though said motion be sufficient to show an unsuccessful effort on the part of appellant to make bond in the sum of $5,000, we are unable to agree that bond in that amount is unreasonable and excessive.
+As appellant points out, Art. 281 C.C.P. sets forth the rules which govern the exercise of discretion by the judge or officer in determining the amount of bail to be required, one of which includes the circumstances under which the offense was committed. It does not follow that in every case wherein a reduction of bond is sought the state is required to offer proof as to the facts surrounding the commission of the offense.
+The contention of appellant that the state is required to offer evidence as to the commission of the offense is answered in Ex parte Davis, 159 Texas Cr. Rep. 49, 261 S.W. 2d 322, and Ex parte Cascio, 140 Texas Cr. Rep. 288, 144 S.W. 2d 886.
+Five thousand dollar bail, in a case charging felony theft after two previous convictions for felonies less than capital, is not as a matter of law unreasonable or excessive.
+The judgment is affirmed.
