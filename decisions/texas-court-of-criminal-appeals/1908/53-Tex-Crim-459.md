@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3638"
+decided: "1908-05-13"
+citations: ["53 Tex. Crim. 459"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Lackey v. The State."]
+source_url: "https://static.case.law/tex-crim/53/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4567945
+cites_cases: ["23 Texas Crim. Rep., 291", "4 S. W. Rep., 890", "4 S. W. Rep., 891", "41 Texas Crim. Rep., 413", "49 S. W. Rep., 376", "50 S. W. Rep., 1015"]
+---
+
+# Lackey v. State
+
+## Majority (RAMSEY, Judge.')
+
+RAMSEY, Judge.'
+On the 27th day of May, 1907, one James Meek filed an affidavit before John E. Brown, county attorney of McCulloch County, Texas, charging appellant with an aggravated assault committed by striking him, the said Meek, with a deadly weapon. Said assault being charged to have been made on or about the 29th day of December, 1907. On the same day Brown, the county attorney filed his information based on this affidavit, against appellant charging him with an aggravated assault which was alleged to have been committed on or about the 29th day of December, 1906.
+1. A motion was made io quash the information and affidavit for the reason, among other things, that there was a variance between the affidavit which alleged the offense to have been committed on December 29, 1907, and the information alleging the offense to have been committed on the 29th day of December, 1906. This motion was acted on by the court on July 6, 1907; the exceptions were overruled to which ruling, as evidenced by the judgment of the court, the appelI ant then and there excepted. That there is a variance of a year in the date of the alleged offense, the record demonstrates. It has been held since the organization of this court (Davis v. State, 2 Texas Crim. App., 184) that the affidavit and complaint should form and become not only a part of the information but a most important and fundamental part of it. Again, it is held in the above case that “If the information must be based upon the affidavit, then the offense stated in the information must be characterized by and correspond with that as stated in the affidavit. Any other construction, it appears to us, would be senseless.” Again, it has been expressly held in this State that where the date in the information does not correspond with the date in the complaint as to the time when the offense charged was committed, there is a fatal variance. Taylor v. State, 50 S. W. Rep., 1015; McKinney v. State, 41 Texas Crim. Rep., 413; 49 S. W. Rep., 376; Hoerr v. State, 4 Texas Crim. App., 75; Huff v. State, 23 Texas Crim. Rep., 291; 4 S. W. Rep., 891; Williamson v. State, 5 Texas Crim. App., 485. In the case of Taylor v. State, 50 S. W. Rep., 1015, it appears that the complaint alleges the offense to have occurred on the 7th day of November, 1896, and the information charges it to have been committed on the 1st day of November, 1896. In this state of the record the court uses this language: “Where the prosecution is begun by complaint and information, the allegation as to the date of the commission of the offense must be the same in both pleadings, and a variance in this respect will be fatal. See Hoerr v. State, 4 Texas Crim. App., 75; Williamson v. State, 5 Texas Crim. App., 485; Collins v. State, 5 Texas Crim. App., 37; Hawthorne v. State, 6 Texas Crim. App., 562.” Some suggestion is made in the brief filed by the State that in as much as the affidavit was filed in May, 1907, that the allegation of the commission of the offense in December, 1907, is an impossible date, and therefore manifestly and evidently a clerical error. This much may be conceded, but if conceded, we are not at liberty to assume and presume that the date intended to be alleged was 1906, and not 1905, or some other date. We think where the rights of a citizen are at stake, before he could be called to answer on the merits, a valid charge should' be filed against him; that the burden and duty rests upon the State to prefer such charge in such clear and intelligible language and with reference to such fixed and uniform date as to leave out speculation and guess-work in the construction of such charges. With the view we have taken of the complaint, it becomes unnecessary to consider and discuss the remaining questions. Holding that there is a fatal variance between the complaint and information, it only remains for us to reverse' and dismiss the cause, which is here done.
+Reversed and dismissed.
