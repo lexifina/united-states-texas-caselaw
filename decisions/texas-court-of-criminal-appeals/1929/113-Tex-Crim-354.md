@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "12853"
+decided: "1929-12-11"
+citations: ["113 Tex. Crim. 354", "22 S.W.2d 662"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dee Thomas v. The State."]
+source_url: "https://static.case.law/tex-crim/113/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5786618
+cites_cases: ["13 Tex. App. 669", "13 Tex. Cr. R. 669", "160 S. W. 381", "71 Tex. Cr. R. 480"]
+---
+
+# Thomas v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+Conviction is for theft of an automobile, punishment being two years in the penitentiary.
+The court did not charge on circumstantial evidence. A specific written objection directed the court’s attention to such omission. We have carefully examined the evidence and fail to find any fact which takes the case out of the rule invoked by appellant. The car was stolen on Thursday,-February 23d. The owner says the last time he saw the car it was “parked close to the Stone Fort Bank,” in the City of Nacogdoches. About two weeks later the owner recovered his car at Paris, Texas. So far as the state’s evidence is concerned the first time appellant was seen in connection with the stolen car was at the home of Henry Robinson where, according to the latter’s testimony, appellant appeared in a car with another party and appellant told Robinson he had been working on the car they were driving and borrowed Robinson’s “car numbers” to use on the car in question, promising to return them. This was about fourteen miles from Nacogdoches where the car was stolen. This witness testified that appellant told him that the car belonged to another man. The officer who arrested appellant about two weeks later in the city of Paris testified that when he told appellant he was wanted for stealing a car appellant denied having stolen any car and said that Joe Whitefield had driven the car to Paris. Appellant did not testify but his brother gave evidence to the effect that he. saw appellant talking to a party at a drug store in Nacogdoches on the Saturday afternoon that the car was stolen and heard the party tell appellant he had a car, and when appellant said he was figuring on leaving to find work this party invited appellant to go with him, and appellant accepted the invitation; that later in the afternoon the party drove up in a car in front of the court house and appellant got in the car and left with him. The mother of appellant testified that on Saturday night appellant came to her home in a car with another party whose name appellant said was Whiteside and appellant informed her that he was going with Whiteside to see if he could get work; that appellant obtained his clothes and left in the car with the other man. Appellant’s father gave like testimony. Evidence was introduced through a lady who lived at Paris that on Sunday, February 24th, appellant and another man arrived in Paris in the car in question, the other man driving at the time; that she had tried to borrow the car from appellant to use and appellant declined to let her have it giving as his reason that the car did not belong to him. We fail to find in the testimony detailed anything which would take the case out of the rule of circumstantial evidence. It is clear that the state was relying upon possession by appellant of recently stolen property. Mr. Branch states the rule very correctly in the following language:
+“In cases of theft proof of the possession of property recently stolen which is unexplained, or proof of such possession explained, when the explanation does not admit the taking of the property from the person in whom possession is laid, is but a circumstance, and if there is no direct evidence of such taking a charge on circumstantial evidence is required.”
+Many authorities will be found cited by Mr. Branch under the foregoing quotation in Sec. 2478, Branch’s Ann, Tex. P. C., among them being Montgomery v. State, 13 Tex. Cr. R. 669; Stewart v. State, 160 S. W. 381.
+It being necessary to reverse the judgment for'failure to charge on circumstantial evidence it is not necessary to discuss some of the questions presented. The denial of the continuance is one of them.
+The court had very properly excluded hearsay evidence sought to be elicited from an officer (bill number two). This ruling of the court was referred to in argument by the district attorney as having been brought about by objection from counsel for appellant, thereby preventing proof of the hearsay statement. This argument ought not to have occurred. It doubtless will not happen again. The same may be said of the district attorney’s conduct regarding the witness Robinson (bill number four) where said attorney in the presence of the jury told.the sheriff to take charge of the witness until a complaint could be filed against him for perjury. The court promptly and properly instructed the jury to disregard the remark. The necessity for the court’s action should not have arisen.
+Appellant requested a special charge which would have told the jury in substance that if another person stole the car and after it was stolen that appellant accompanied the thief -in said car from Nacogdoches to Paris, even knowing it was a stolen car that they could not convict appellant for the theft of thé car. This special charge was refused, it evidently being the opinion of the learned trial judge that he had sufficiently covered that point in his charge upon the converse of principals. We are inclined to the view that ® upon another trial if the facts are the same the jury should be pertinently given to understand that the requested charge is the law.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
