@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,814"
+decided: "1952-04-16"
+citations: ["157 Tex. Crim. 197"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Hurdle Smith v. State."]
+source_url: "https://static.case.law/tex-crim/157/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2573303
+cites_cases: ["151 Tex. Cr. R. 102", "156 Tex. Cr. R. 461", "205 S. W. (2d) 586", "243 S. W. (2d) 834"]
+---
+
+# Smith v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is receiving and concealing stolen property; the punishment, two years.
+The accomplice thief, Schafer, testified that he was employed as a ranch hand for one Kirk; that, on April 11, he took two baby calves belonging to his employer, without his consent, and carried them to appellant’s pens in the town of Glazier; that, after penning them, he went to the house of the appellant with whom he had been trading for some time, and asked appellant to go and open his store and sell him some groceries, it then being shortly after dark. Schafer further testified that, after they arrived at the store, he told appellant that he had unloaded the calves at his pen and wanted to sell them; that appellant said he would look at them the next morning; that the following morning he returned, and. he then told appellant that one of the calves was his and that he had gotten the other from his grandfather; that they finally agreed upon a price of $75.00 for the two, and appellant gave him a check in that sum, marking the same, “For calves.” There was further testimony from Schafer to the effect that he was at that time on a horse trade and needed $15.00 additional in order to close the same; that he secured this sum from appellant by means of a check marked, “For Loan.” Schafer also testified that the appellant’s pens consisted of a city block in the town of Glazier, one block from a through highway, with a dirt road running around the same and enclosed by a barbed wire fence; “that you could see cattle in (there) for 2 or 3 blocks”; that he had pointed out the two calves in question to the officers at such pens on July the seventh, and that they were then restored to the owner. Schafer testified that he was familiar with livestock values, that, at the time he sold them for $75.00 he had “thought they were worth a little more than that, but I didn’t argue.”
+The evidence relating to the identity of the two calves recovered as being the ones stolen was very meager. Schafer answered, in part, “I didn’t know * * * whether or not they were the same calves I hauled down there in April, I couldn’t swear to it positively, and I don’t know.”
+The owner of the calves did not reside on the ranch from which they were stolen and, in testifying about the identity of the calves which were returned to his ranch, said:
+“Not having seen them, I couldn’t say the calves I saw in July were the same calves this boy took in April, of my own knowledge, because I didn’t stay there. I don’t know whether I had ever seen the calves before in my life until in July * * * I didn’t know what these two calves were, or what they looked like that this boy took off my place in April, 1951, because I didn’t see them. I didn’t know what they looked like until they brought them back.”
+Kirk placed a value of $75.00 each on those returned.
+The state offered the testimony of Schafer’s brother and another, who stated that they had branded two calves in the pen in question with appellant’s brand during the latter part of May or the early part of June.
+Peace officers testified that, in the course of their investigations during the month of July, they called upon appellant to show them his cancelled checks, which he did; and, among them in their regular place, they found the two checks above described; that appellant told the officers that he had given one of the checks to Schafer in purchase of the two calves, which were still in his pen. The officers further testified that they recovered two calves from appellant’s pen and returned them to the ranch where Schafer had been employed. They valued the calves so returned at $65.00 to $70.00 each. The officers described the pen where the calves had been kept as being surrounded by a barbed wire fence, with a road around it, and said “So far as concealing calves in a place like that, it would be impossible to conceal them * * *.”
+Appellant, testifying in his own behalf, corroborated the State’s witnesses in every detail, adding that he had known Schafer all his life and had no reason to doubt Schafer’s statement to him that one of the calves had belonged to him and one he had gotten from his grandfather, who was Sam Schafer. Appellant testified that his pens, where he kept the calves, were located one block from the highway, one block from the railway, and open to the public and used by the public at all times for their convenience in storing cattle. Appellant testified that he had bought the calves to go with a cow he had in order to keep from milking her, and that he had refused to pay any more for the calves because he did not know how they would work out with the cow.
+It will be noted, from the above, that there is an absence of corroboration of Schafer’s testimony to the effect that he had stolen the calves found in appellant’s possession.
+Recently, in Carpenter v. State, 156 Tex. Cr. R. 461, 243 S. W. (2d) 834, we had occasion to reverse a conviction for receiving and concealing stolen property; there, we said, “Moreover, Gilley was an accomplice witness and there is an utter absence of any corroborating testimony that the tires he said he sold and delivered to appellant were, in fact stolen tires.”
+No corroboration is supplied by the owner’s testimony that Schafer had told him of the theft. Recently, in Curry v. State, 151 Tex. Cr. R. 102, 205 S. W. (2d) 586, we cited with approval from Texas Jurisprudence as follows:
+“An accomplice witness cannot corroborate himself or furnish corroboration of his testimony by a statement to a third person who testifies thereto.”
+The evidence of concealment is totally absent. The calves were kept in a pen in town visible to the public for about 2% months.
+We further note that the evidence fails to show that appellant knew the calves to have been stolen at the time he received them.
+Appellant had known Schafer all his life and testified he had no reason to doubt Schafer’s statement to him, admitted by Schafer, that one of the calves was his and that he had gotten the other from his grandfather. Here, we have no testimony from the thief that the receiver knew the property to have been stolen.
+Because the evidence is insufficient to support the conviction, the judgment is reversed and the cause remanded.
