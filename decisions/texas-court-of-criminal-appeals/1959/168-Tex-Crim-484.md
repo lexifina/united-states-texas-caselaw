@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,095"
+decided: "1959-11-25"
+citations: ["168 Tex. Crim. 484"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alfredo Valdez v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2622816
+cites_cases: ["166 Texas Cr. Rep. 584", "316 S.W. 2d 741"]
+---
+
+# Valdez v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Upon a plea of guilty before the court to the charge of drunken driving, appellant was found guilty and assessed the minimum punishment.
+Motion for new trial was filed alleging that the “verdict is contrary to the law and the evidence in the case.”
+An amended motion signed by counsel for appellant was thereafter filed which contained the additional allegation that at the time the charges were read to him appellant made it known that he was not guilty of the offense charged and that in pleading guilty he was not advised and did not know that he was pleading guilty to drunk driving.
+Evidence was heard on the motion which raised such issue as to the plea, but there was evidence to the contrary.
+In any event, the motion for new trial was not verified or supported by affidavit and was insufficient as a pleading to present the question. See Thomas v. State, 166 Texas Cr. Rep. 584, 316 S.W. 2d 741, and cases cited.
+The judgment is affirmed.
