@@ -1,0 +1,53 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,311"
+decided: "1954-12-08"
+citations: ["161 Tex. Crim. 89"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Earl Rice v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2465606
+cites_cases: ["159 Texas Cr. Rep. 29", "261 S.W. 2d 161"]
+---
+
+# Rice v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+Appellant was charged by complaint and information with driving a motor vehicle, to-wit, a truck, on a public highway while intoxicated and under the influence of intoxicating liquor, and his penalty was assessed at a fine of $50.00 and confinement in the county jail for three days.
+Formal Bill of Exception No. 2 complains of the action of the district attorney in asking the state’s witness, Charles Beardsley, the following question:
+“State whether or not the tables relative to the amount of alcohol in the blood stream that you have testified to as necessary to produce intoxication is recognized as correct and approved by the American Medical Association, the Federal Bureau of Investigation and the State Highway Department of Texas?”
+This question was objected to as hearsay and designed to bolster the credibility of the witness before his credibility is attacked, etc. The objection was overruled and the witness was permitted to answer:
+“Yes, it is approved and recognized by the American Medical Association, Federal Bureau of Investigation and the State Highway Department of Texas.”
+We are unable to tell from the bill what the tables were nor what the answer of the witness was relative to what was shown in the tables. Evidently this question was based upon the opinion of this court in Jones v. State, 159 Texas Cr. Rep. 29, 261 S.W. 2d 161. As to whether or not this testimony falls within the category set forth in the Jones case, supra, we are unable to tell in the absence of the statement of facts. This bill is therefore overruled.
+Bill No. 3 is an objection to the testimony of the Texas Highway Patrolman, who testified:
+“Earl Rice was intoxicated when I arrested him on the State Highway 82 on the 9th day of May, 1954.”
+This testimony was objected to on the ground that the same was not in proper form and was not a matter that could be testified to as a fact, but was a mere matter of the opinion of the witness. Of course, it was evidently understood by the witness, as well as the jury, that the statement could only mean to give the opinion of the witness as to the appellant’s intoxication.
+Bill No. 4 is an objection to the argument of the assistant county attorney when he made the following statement:
+“You, gentlemen of the jury, are now the only law enforcement in Lamar County against drunken driving.”
+The statement only meant that the matter of this appellant’s punishment passed out of the hands of the lawyers and rested finally in the hands of the jury who had the right under the facts and circumstances to render a verdict as to the guilt or innocence of the defendant. We can see no injury that can be predicated upon this isolated portion of the argument.
+Bill No. 6 also relates to the argument of the assistant county attorney in which he used the following statement:
+“The test used in this case is accepted by the American Medical Association, the Federal Bureau of Investigation and the Texas Highway Department.”
+We think this remark is controlled by what we said relative to Bill of Exception No. 2.
+Bill No. 7 relates to the objection to the argument of the county attorney during the course of which he said:
+“Are you going to say to these officers that you are not going to believe them when they hold up their hand and swear that he was intoxicated?”
+We cannot say that this was an unfair argument, especially in the absence of the evidence as to what the officers had actually testified to on the trial.
+Bill No. 8 relates to the argument of the county attorney as follows:
+“Earl Rice was exposed to it. It is reasonable to assume he was intoxicated.”
+This bill is qualified by the court as follows:
+“The argument of the County Attorney objected to in this Bill was based on the defendant’s own admission that he drank intoxicating liquor the night before he was arrested and had taken one drink on the morning of the day that he was arrested in the evening. The arresting officers testified that defendant was intoxicated, that he had the smell of liquor on his breath, that he staggered when he walked and otherwise had the appearance of being intoxicated.”
+Under the record before us no error is perceived. The judgment is therefore affirmed.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON appellant’s motion for rehearing
+WOODLEY, Judge.
+Our disposition of Appellant’s Bill of Exception No. 3 is supported by McCormick and Ray’s Texas Law of Evidence, p. 823, Sec. 646, which reads “Any one who has had an opportunity to observe the acts or conduct of a person on a particular occasion may state whether he was drunk or sober. He may also express his opinion as to the extent of such intoxication.”
+See also Underhill’s Criminal Evidence, 3rd Ed., par. 278.
+Though we are inclined to agree with appellant’s counsel that his objection should have been sustained, in the absence of a statement of facts, the error is not of such a flagrant and prejudicial character as would call for reversal.
+For a like reason, together with the fact that the minimum punishment was assessed, we cannot agree that the bills which complain of argument show reversible error.
+Appellant’s motion for rehearing is overruled.
