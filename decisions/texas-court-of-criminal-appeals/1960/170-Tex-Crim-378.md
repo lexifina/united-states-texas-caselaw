@@ -1,0 +1,45 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,517"
+decided: "1960-11-23"
+citations: ["170 Tex. Crim. 378"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ricardo Alvear v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0378-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2624476
+cites_cases: ["107 Tex. Cr. R. 134", "119 Tex. Cr. R. 59", "164 Tex. Cr. R. 663", "235 S. W. 580", "295 S. W. 608", "302 S. W. 2d 414", "46 S. W. 2d 998", "90 Tex. Cr. R. 374"]
+---
+
+# Alvear v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is burglary of a private residence at night with intent to commit rape; the punishment, 5 years.
+The state’s evidence, including the testimony of the woman named in the indictment, the arresting officers and the confession of the appellant, shows that on the night alleged appellant and a companion entered the private residence occupied by the woman named in the indictment, and both succeeded in having intercourse with the woman over her protest and despite her outcries and resistance.
+The evidence further shows that entry into the house was effected by cutting a screen, and that neither appellant nor his companion knew who the woman was they found alone in the house and ravished.
+No brief has been filed in appellant’s behalf.
+There are two formal bills of exception. The first complains that upon request of the jury the testimony of the two arresting officers were read to the jury.
+The bill shows that counsel took several positions in regard to this testimony being reproduced, at one time requesting that it be read. We see no error in the matter. If so, there is no showing of injury or prejudice.
+The second bill complains of the opening argument of counsel for the state wherein counsel stated: “ * * * this lady was in her monthly period, she stated so, she said that the man did not pull off his pants, that this man was found walking away from the house with blood on his pants, it is uncontradicted, ladies and gentlemen * * * .”
+It is contended that such remarks constitute a reference to the defendant’s failure to testify. ■
+We do not understand that only by his own testimony could the statement that appellant was found walking away from the scene of the burglary and rape with blood on his pants have been contradicted. All of the witnesses so testified, appellant so stated in his confession, and the pants were introduced in evidence.
+The language used might be construed as an implied or indirect allusion to the failure of the accused to testify, but to come within the prohibition of the statute, the implication must be a necessary one; that is, one that cannot reasonably be applied to the failure of the accused to produce other testimony than his own. Where there is other evidence, or the absence of other evidence, to which remarks may reasonably have been applied by the jury, the statute is not transgressed. Boone v. State, 90 Tex. Cr. R. 374, 235 S. W. 580.
+The judgment is affirmed.
+
+## Rehearing (DICE, Judge.)
+
+ON APPELLANT’S motion for rehearing
+DICE, Judge.
+In his motion for rehearing, appellant challenges the sufficiency of the evidence to sustain his convicton.
+He first contends that the evidence is insufficient to establish his identity as the guilty party because the prosecutrix was unable to positively identify him at the trial and only testified that he looked like, and was about the same size as, the man who entered her apartment and ravished her. While the prosecutrix did so testify, appellant overlooks the fact that in his confession, which was introduced in evidence, he admitted breaking and entering the house on the night in question and ravishing the prosecutrix. Appellant was positively identified by the arresting officers at the trial as the person they arrested on the night in question as he was walking out of the yard at prosecutrix’ house. It was further shown, without objection, that at the time of his arrest, appellant was identified by the prosecutrix to the officers as the man wRo raped Rer. SucR facts clearly distinguisR this case from that of Alexander v. State, 164 Tex. Cr. R. 663, 302 S. W. 2d 414, relied upon by appellant.
+He next contends that if the evidence is sufficient to establish his identity, it fails to show that at the time he entered the house he did so with intent to commit rape. A review of the evidence, and particularly appellant’s written confession in which he stated that before breaking and entering the house “I decided to look in one of the houses there and try to find another girl to have intercourse with,” is clearly sufficient to support the finding that appellant entered the house with intent to commit rape and by force and threats to have carnal knowledge of the prosecuting witness.
+Appellant also complains of the court’s failure to charge on circumstantial evidence.
+There being direct evidence showing that appellant was the person who entered the house and comitted the crime, a charge on circumstantial evidence was not required. Davis v. State, 107 Tex. Cr. R. 134, 295 S. W. 608 and Chaney v. State, 119 Tex. Cr. R. 59, 46 S. W. 2d 998.
+We find no error in the court’s refusal of appellant’s requested charge on intent at the time of entry. The court instructed the jury that before they would be warranted in finding a verdict of guilty they must be satisfied from the evidence beyond a reasonable doubt “that the entry was made with the intent to commit the offense of rape.” Such was a sufficient instruction under the evidence.
+We have again considered appellant’s remaining contentions which were disposed of in our opinion on original submission and remain convinced that no reversible error is shown.
+The motion is overruled.
+Opinion approved by the Court.
