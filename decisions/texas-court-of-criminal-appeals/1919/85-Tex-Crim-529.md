@@ -1,0 +1,56 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "5169"
+decided: "1919-06-25"
+citations: ["85 Tex. Crim. 529"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ike Ellis v. The State."]
+source_url: "https://static.case.law/tex-crim/85/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4777121
+cites_cases: ["11 S. W. Rep., 929", "141 S. W. Rep., 93", "204 S. W. Rep., 113", "71 Texas Crim. Rep., 111", "72 Texas Crim. Rep., 71", "76 Texas Crim. Rep., 235"]
+---
+
+# Ellis v. State
+
+## Majority (PRENDERGAST, Judge.—This LATTIMORE, Judge.)
+
+PRENDERGAST, Judge.—This
+appeal is from a conviction for the offense of murder, with fifteen years in the penitentiary assessed as a punishment.
+There is no statement of facts with the record. However, there is with the papers an application for a mandamus timely filed asking this court to compel the official court reporter, J. E. McGinnis, who was the stenographic reporter and as such took down the testimony upon the trial to make out a statement of all evidence introduced as required by the statute: In addition’to the petition for the mandamus itself the record clearly shows, that appellant in the proper time and in the proper way made his motion before the District .Court seeking to have the Judge to command the reporter to make out the proper report of the testimony of the case, which the court refused and to which he excepted at the time.
+The petition before the district judge, as well as the petition for mandamus to this court, and to the proof is strictly and completely in accordance with the statute arid with the opinion of this court in Ex parte Fread, 204 S. W. Rep., 113. In accordance with the opinion of this court in that case, the clerk of this court will enter an order directing and requiring that said Mr McGinnis prepare a transcript of his notes of all the testimony introduced on, the trial and to file the same with the clerk of the District Court where the case was tried within fifteen clays from the date of the service of this order upon' him.
+Further consideration of the case on its merits will be postponed for a reasonable length of time to await the filing in the court below of a statement of facts.
+Mandamus granted requiring the stenographer to prepare and file u transcript of all testimony heard on the trial of this cause.
+Mandamus granted.
+LATTIMORE, Judge.
+In this case appellant was convicted of murder in the District Court of Potter County and his punishment fixed at fifteen years in the penitentiary.
+An inception of this record shows that this cause was tried in court below before the Hon. Hugh L. Umphres, Judge, and all'the orders on motions, bills of exceptions, etc., are signed by him, as well as the charge. We find in the record what purports to be a statement of facts signed by counsel for appellant and apparently by the district attorney and certified as correct by Henry S. Bishop, Judge of the District Court of Potter County, Texas. Under what appears to be an unbroken line of decisions of this court, we are not at liberty to consider a statement of facts so authenticated. It is uniformly held that a statement of facts must be approved by the judge before when the ease was tried. Graham v. State, 10 Texas Crim. App., 684; Richardson v. State, 71 Texas Crim. Rep., 111, Porter v. State, 72 Texas Crim. Rep., 71.
+Appellant reserved four bills of exceptions none of which present error which we can consider in the present condition of the record. Three of the bills of exceptions are to matters left out of the court’s charge or the refusal of the court to give a special charge instructing the jury to return a verdict of not guilty; these matters we cannot decide in the absence of a statement of facts.
+We have examined the appellant’s motion for new trial and find that his first ground of complaint is that the second count in the indictment upon which the State elected to prosecute, is defective in that it lacks the formal heading, and matters necessary to make the same legal. This question is well settled against appellant’s contention, as the formal parts pertaining to the first count, when such count is abandoned will apply to the' second count.
+The claim of newly discovered evidence set up in the motion, is not properly sustained by affidavits or evidence before the trial court. The ground that the trial court erred in refusing special charges raises matters which cannot be reviewed in the absence of a statement of facts. Nor can the objection that the judgment is contrary to the evidence be reviewed for the same reason.
+Finding no error in the record, the judgment of the lower court is affirmed.
+Affirmed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+on beheabing,
+May 28, 1919.
+LATTIMORE, Judge.
+This case was affirmed at a former day of this term, the statement of facts not being considered because same had not been approved by the judge before whom the case was tried. This defect having now been remedied the case is again before use and considered in the light of all the facts as shown by said statement.
+There were no exceptions taken to the court’s charge on the trial and but four bills of exceptions appear in the record, the first of which refers wholly to a question pertaining to the statement of facts which has no bearing upon the merits of the ease. The second and third bills of exceptions relate to the matter of the court’s refusal to peremptorily instruct the jury to return a verdict of acquittal. There was no error in refusing to so charge. The fourth bill of exceptions complains that the court refused to give a special charge requested by counsel for the appellant, on circumstantial evidence. We observe that said charge is merely an abstract statement of the law of circumstantial evidence without any applieation or attempted application of the same to the facts in this case. For this reason it migtit have been refused. However, we shall further observe that under the facts stated in the record, the gist of which appears in the opinion, there was no reason for a charge on circumstantial evidence.
+Fred Parker, a negro nicknamed “Slim,” the husband of Fay Parker and the son-in-law of Ruth Elliott, was killed on the night of April 7, 1918, in Amarillo, Texas. Ruth Elliott, the mother-in-law of the deceased, occupied some rooms opening out on an alley down which there was a path to a nearby colored restaurant kept by one Moore. On the night of the alleged homicide the wife of deceásed, Fay Parker, Riith Elliott, Rena Wheeler and appellant were together in a room of Ruth Elliott, between 9:30 and 10 o’clock. The deceased came to the door and called his wife out and walked a little way with her and after the conversation, she went on and he- returned to the room and knocked on the door and was admitted by Ruth Elliott. At once after the door was opened, deceased asked appellant what he was doing hanging around his wife and appellant replied that he was not hanging around deceased’s wife and thereupon deceased called him a damn liar, and appellant shot. There were three eyewitnesses in the room at the time. Ruth Elliot, the mother-in-law of deceased says she does not know how many shots were fired but she only heard one; that she was very badly scared; that same was fired immediately after deceased called appellant a damn liar and that deceased had his hand back under his coat at the time it was fired. She further states that appellant just raised up from the trunk where he was sitting by the witness Rena Wheeler, and shot. The trunk was across the room from the door. The witness Rena Wheeler testified that as soon as deceased asked appellant what he was hanging around his wife for, that appellant shot and that when he shot, deceased turned and walked out of the door and appellant walked to the door and shot again. She also stated that appellant was across the room from the door when he shot. She testified to no hostile demonstration of any character on the part of deceased and states that he did not run at appellant but just walked in.
+Sam Smith, the remaining eyewitness, stated that deceased never did come inside the door but that he was standing in the door when he addressed the remark to appellant and when appellant shot, and that there were several shots, he did not remember how many. He said that deceased disappeared from the door. No one saw deceased any more that night but the next morning his body was found about 230 or 240 feet from the back door of Ruth Elliott’s house and not far from the path leading to Moore’s restaurant. Blood was discovered on the ground between Ruth Elliott’s house and the body; When found the body had been dead for a number of hours, one witness stated eight or ten hours. There were two bullet holes on the body; one through the hand and one enterng the shoulder and going practically through. A small pocket knife closed was found in the pocket of the deceased. Witness Rena Wheeler also testified that after appellant fired he remarked: “That’s the first skinner I ever missed,” and that Sam Smith said that he believed that he had hit him. These witnesses in detailing the transaction spoke of when Ike shot Slim, etc.
+There is no suggestion in the record of the fact that deceased came to his death from any other cause than by the pistol shots fired by appellant.
+There being no complaint of the court’s charge and the facts being substantially as detailed, we think there is no reversible error in the record and the judgment of the trial court will be affirmed.
+Affirmed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+OÍST EEHEAB1NG.
+June 25, 1919.
+LATTIMORE, Judge.
+This appellant has filed a motion for rehearing which this court has carefully considered. Appellant again insists that this is a case of circumstantial evidence but this court confesses its inability to comprehend the basis for such contention. Three witnesses were present at the time appellant shot at deceased and a number of witnesses testified that shortly thereafter the body of deceased was found dead a short distance away as a result of a pistol shot. It is true that no one of said witnesses testified that they saw the bullet strike the deceased" and only one of them testified that he thought deceased was struck, some of the others said they did not think he was. It was in the night-time, deceased was at the door and appellant fired at him with his pistol point blank and then, according to one of the witnesses walked to the door and aS deceased moved away shot at him again and the body of deceased was found a little while thereafter a short distance away from the scene of the shooting. We are wholly unable to comprehend how any element of circumstantial evidence enters into the case. Appellant reviews the testimony of the witnesses with a view of convincing this court of the error of its former holding but as stated, we are unable to agree with the contention.
+The other errors mentioned in the motion for rehearing have been carefully considered and we think the court correctly decided the case in the original opinion and the motion will be overruled.
+Overruled.
