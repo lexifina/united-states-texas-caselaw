@@ -1,0 +1,54 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,626"
+decided: "1955-06-15"
+citations: ["162 Tex. Crim. 107"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles William Robbins v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0107-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461529
+cites_cases: ["229 S.W. 2d 376"]
+---
+
+# Robbins v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The offense is murder with malice; the punishment, fifty years in the penitentiary.
+The state’s evidence shows that appellant, age 19 and married, and several teenage boys met at the home of Mrs. Ruth Craig about 9:30 P.M. on July 3, 1954, and there, with Patti Jetton and Pat Craig, both age 13, ate, drank some beer, gin and whisky, played a record player and danced. Mrs. Craig left the house about 10 P.M., stating that she would return in about an hour, but did not return until about 2 o’clock the following morning.
+When appellant arrived at the Craig home that night he took a .410 double-barreled shotgun from his automobile, which he placed in the dining room.
+After Mrs. Craig left, about 1:30 A.M., July 4, Karl Hormann, Charles Kenyon (the deceased), and Tim Kuykendall approached the house where Pat Craig, who was in the yard, told them that her mother and “Madge” were not there and requested them to leave.
+At this time, appellant obtained the gun, met them at the door and fired the gun into the flower bed just outside the door, and then left through the back door with the shotgun. Appellant then saw a boy running from deceased’s automobile toward the house with “some object” in his hand and, failing to stop him by calling, fired the gun in front of him and some pellets struck the boy.
+Appellant then reloaded the gun and, as he entered the front screen porch, called to the deceased who was standing by the living room door with his back to him and, as the deceased was turning, appellant shot him in the back mortally wounding him. Appellant told Hermann, who was nearby, to stay where he was or he would get what Kenyon had gotten. At this time, appellant said “I’ve got to go somewhere and think,” and then left the Craig home. This was before the officers had arrived.
+From the appellant’s standpoint, the testimony shows that when Mrs. Craig left the house she asked appellant to take charge of the place and see that no uninvited person came in the house; that when Hermann and Kenyon arrived, who were strangers to appellant and not invited, he met them at the door, asked them to leave and fired the gun into the flower bed; that they proceeded into the house where appellant again talked with them and then left through the back door with the shotgun. Upon going to the front screen door, he heard Pat Craig scream, and saw deceased standing by the living room door holding her arm and he demanded that deceased leave her alone. The deceased, who had his back to appellant, while turning toward him said “I’ll cut your throat” and, as appellant was moving back, his knees struck a couch which caused the gun to be accidentally discharged and the bullet struck the deceased. At this time, appellant said “I didn’t mean to do it.”
+On cross-examination, appellant made it clear that his defense was that the killing was the result of the accidental discharge of the gun, and that he did not intentionally shoot the deceased in defense either of himself, of Pat Craig, or in defending the home.
+The court, in his charge, submitted self-defense, defense of another, defense of property, and accidental shooting, all of which the jury resolved against appellant.
+Appellant challenges the sufficiency of the evidence to sustain his conviction for the offense of murder with malice.
+The evidence herein shows, from the state’s standpoint, that the shotgun was not accidentally fired but that appellant shot the deceased in the back, at close range, under facts and circumstances which were wanton, reckless and unjustified and authorized a finding by the jury that the killing was with malice. Morse v. State, 154 Texas Cr. R. 561, 229 S.W. 2d 376.
+Appellant contends that the state was allowed to impeach its own witness, Patti Jetton, on re-direct examination without having laid a proper predicate.
+The record shows that Patti Jetton, while on cross-examination, testified that Mrs. Craig, upon leaving home about 10 P.M., placed the house in charge of the appellant. These facts had not been disclosed to state’s counsel until they were brought out on cross-examination. On re-direct examination, the state pleaded surprise and asked permission to cross-examine her as to contradictory statements about such matter before the grand jury. Said witness answered that she did tell the grand jury of such facts as related on cross-examination, and the state did not thereafter offer any testimony to contradict the same, therefore we are unable to here perceive any error.
+Appellant complains of that portion of the state’s argument to the jury wherein the state’s attorney referred to Pat Craig as “living in a house of debauchery.”
+The court promptly sustained appellant’s objection thereto although no reasons were given and, upon request, instructed the jury to disregard such statement, but declined to grant appellant’^ motion for a mistrial, to which he excepted.
+Considering the trial court’s prompt action in response to appellant’s objection and request, together with the facts and circumstances shown to have occurred at this unchaperoned party in the early morning hours, attended by young married men whose wives were not present, two teenage girls and other teenage boys, along with the presence and use of intoxicating liquors, we conclude that no reversible error is here shown.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the court.
+
+## Rehearing (MORRISON, Presiding Judge.)
+
+ON MOTION FOR REHEARING
+MORRISON, Presiding Judge.
+We are indebted to counsel for appellant for a scholarly brief and a forceful argument.
+On original submission we did not discuss Appellant’s Bill of Exception No. 3. We shall do so now. While testifying in his own behalf, the appellant told the jury that he was married, had a child, and was living with his family. He stated that on the night of the homicide his wife had told him that she had made arrangements to go to the show with her sister, and he told her that he was going over to the Craig house to eat steaks. He was then asked on cross-examination if his wife had not sued him for divorce during the month following the homicide. His objection was sustained, and the jury was instructed to disregard the unanswered question; but appellant’s motion for a mistrial was overruled. He was then asked nine separate questions about a two-weeks’ period of time following the homicide when he and his wife had lived separately. Appellant objected to the first three, and his objections were overruled. He was then asked the remaining six questions, and no objections were interposed. The appellant’s counsel then interposed a general objection to the “questions and answers that have been asked the witness” and asserted that the purpose of the questions was to convey to the jury the inference that the appellant and his wife had separated over the tragedy. The state then objected to counsel’s statement about the inference, and the court sustained this last objection. The court then stated “and I am going to sustain the objection to some of those questions, but you haven’t broken it down, Mr. Martin, as to which ones you are objecting to.”
+Counsel then stated that he was objecting to all the evidence, and the court overruled this blanket objection. This was followed by argument between counsel about what the witness’ answer had been; then four more questions of the same nature were propounded the witness, and finally a general objection was interposed and sustained, and the court told the jury “disregard those questions then, gentlemen.”
+It thus appears that the trial court entertained some doubt as to the wisdom of some of his prior rulings and called upon counsel to assist him in rectifying his mistakes. Patient counsel should, under such circumstances, have assisted the court and pointed out to him the objectionable matter which he wished withdrawn from the jury’s consideration.
+In view of the appellant’s testimony, which was calculated to leave the jury with the impression that his visit to the Craig house had been with the consent of his wife and that she had ratified such consent by remaining with him following the homicide, we would be loathe to reverse this conviction because the state was permitted to prove that she did in fact leave him for a two-week period some time after the night in question.
+It is urged that we reconsider our holding that the facts are sufficient to support the conviction for murder with malice.
+Appellant points out that all the positive evidence on the subject would indicate that the appellant was left in charge of the Craig house and that the deceased and his companion were uninvited guests who were in the act of “crashing the party” at the time the deceased was killed.
+We pointed out in our original opinion that when the appellant was cross-examined by the state he denied that he killed the deceased in protection of the Craig home and emphatically stated that he did not intentionally fire the weapon but that the same was discharged accidentally when he backed into a chaise-longue. Thus, at the close of appellant’s testimony, the jury was relegated to a choice between the state’s theory that the killing had been done with malice and the defendant’s theory that it was entirely the result of an accident.
+After careful review of the entire record, we believe, from the facts that the appellant went around the house, approached the deceased from the rear, and shot him in the back, together with appellant’s flight from the scene of the homicide and other facts in evidence, that the jury was authorized to conclude that he was prompted in such act by malice aforethought.
+We regret that our original opinion mentioned gin as one of the beverages consumed at the Craig home on the night in question. The record would support the conclusion that the party “crashers” brought some gin with them but the same was not shown to have been drunk at the Craig home.
+Remaining convinced that we properly disposed of this cause originally, the appellant’s motion for rehearing is overruled.
