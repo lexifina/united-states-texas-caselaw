@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9013"
+decided: "1926-01-20"
+citations: ["103 Tex. Crim. 35", "279 S.W. 837"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Doc Brown v. The State."]
+source_url: "https://static.case.law/tex-crim/103/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5115408
+cites_cases: ["204 S. W. 430", "209 S. W. 747", "210 S. W. 215", "210 S. W. Rep. 215", "224 S. W. 1100", "224 S. W. Rep. 100", "225 S. W. 529", "225 S. W. Rep. 529", "231 S. W. 391", "231 S. W. Rep. 391", "234 S. W. 671", "244 S. W. 525", "244 S. W. Rep. 525", "263 S. W. 1057", "263 S. W. Rep. 1057", "3 A. L. R. 1096", "84 Tex. Cr. R. 6", "84 Tex. Crim. Rep. 6", "85 Tex. Cr. R. 11", "85 Tex. Cr. R. 52", "85 Tex. Crim. Rep. 11", "88 Tex. Cr. R. 256", "88 Tex. Cr. R. 42", "89 Tex. Cr. R. 393", "90 Tex. Cr. R. 320", "92 Tex. Cr. R. 443", "92 Texas Crim. Rep. 443", "98 Tex. Cr. R. 4", "98 Tex. Crim. Rep. 4"]
+---
+
+# Brown v. State
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+— The offense is negligent homicide; punishment fixed at confinement' in the county jail for a period of three months.
+The transaction upon which the prosecution is based was a collision in which the automobile driven by the appellant collided with a truck which was standing upon the highway. Two girls were in the car driven by the appellant. One of these was his sister, Alice Brown; the other was Miss Dollie Wilson, the deceased.
+Paragraphs 2 and 4 of the court’s charge present the state’s case. They are respectively as follows:
+“You are charged that the law of this state, applying to this case is, that every person who shall operate any motor vehicle on the public highways of this state, shall drive same in a careful and prudent manner, and at a rate of speed not greater than is reasonable and proper, having due regard for the traffic and use of the highway, and no person shall operate or drive any motor vehicle at such a rate of speed as to endanger the life or limb of any person or the safety of any property, and the law further provides that it shall be unlawful in any event to drive a motor vehicle at a rate of speed greater than thirty-five miles per hour, and you are charged that the operation of a motor vehicle not in accordance with the law, as herein given you, constitutes a violation of the law.”
+“Now, bearing in mind the foregoing instructions, if you believe that in the County of Martin and the State of Texas, on or about the 26th day of January, 1924,.the defendant was opérating a motor vehicle in an unlawful manner, as that term has been hereinbefore defined to you, and that as a result of negligence, in the operation of such motor vehicle, he caused the death of Dollie Wilson, you will find him guilty and assess his punishment at a fine not to exceed the sum of three thousand dollars, or by imprisonment in the county jail not exceeding three years.”
+According to the evidence, the driver of a Ford truck in which he was hauling a pair of mules, was stopped on the road and while standing there, the appellant drove his car into the rear end of the truck. Prenlena Pena, the driver of the truck, testified that the appellant’s car was traveling “much fast”. A state’s witness who drove into the highway upon which the collision occurred from a by-road and who was traveling upon the highway at the rate of about fifteen or eighteen miles an hour, testified that the appellant’s car was going faster than that in which the witness was riding. The highway was eighteen feet wide. With the truck standing in the road, there was about eight feet of road in which to pass. The truck was standing about eighty feet from a curve and was not visible from the direction in which the appellant approached until after his car had passed the point of the curve a sufficient distance for the lights to reveal the presence of the truck. There was testimony that it would have been impossible for one driving a Studebaker car of the weight of the one in which the appellant was travelling and at the speed he was going, to have stopped the car and prevented the collision after passing the curve. Appellant testified that he was traveling at the rate of about eighteen or twenty miles an hour; that the lights were burning but that there was no tail light upon the truck. Both the appellant and his sister testified that efforts were made to avoid the accident after rounding the curve.
+Appellant requested an instruction in substance that as a predicate for conviction, the jury must find that he was driving his car at a rate of speed in excess of thirty-five miles per hour and that there was apparent danger of killing or causing the death of Dollie Wilson which could have been avoided by prudence after the danger arose. See Hoffman v. State, 85 Tex. Crim. Rep. 11; Worley v. State, 231 S. W. Rep. 391; Gribble v. State, 210 S. W. Rep. 215; Haynes v. State, 224 S. W. Rep. 100; 84 Tex. Crim. Rep. 6; Steen v. State, 225 S. W. Rep. 529; Hampton v. State, 244 S. W. Rep. 525, 92 Texas Crim. Rep. 443; Harr v. State, 263 S. W. Rep. 1057; 98 Tex. Crim. Rep. 4.
+We find no cogent evidence to the effect that the appellant, at the time of the collision, was traveling at a rate of speed of thirty-five miles per hour. This being true, there was no warrant for the submission of that issue to the jury. The charge is faulty in failing to state that there was apparent danger of death resulting from the unlawful act. See Steen v. State, 225 S. W. Rep. 529. For these reasons, a reversal of the judgment must result.
+We will add that it is quite doubtful whether that part of the charge which implies that the appellant might be guilty though he was not traveling at a rate of speed beyond thirty-five miles an hour would properly be the basis of a criminal prosecution. In other words, that part of Section 1, Chapter 155, Acts of the 38th Legislature, which attempts to declare as a penal offense in these words:
+“Every person operating or driving a motor or other vehicle upon the public highways of this state, shall operate or drive same in a careful and prudent manner, and any person violating any provision of this section shall be deemed guilty of a misdemeanor,”
+Such act, which attempts to denounce a penal offense, is of such an indefinite nature as renders it extremely doubtful whether it complies with the law demanding a certain degree of certainty in the definition of offenses. See Art. 3 of the Penal Code; also Parroccini v. State, 234 S. W. Rep. 671.
+For the reasons stated, the judgment is reversed and the cause remanded.
+Reversed and remanded.
