@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,972"
+decided: "1961-02-15"
+citations: ["171 Tex. Crim. 30"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James E. Daniel v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2634025
+cites_cases: ["230 S W. 997", "24 S. W. 2d 52", "275 S. W. 1052", "91 S. W. 583"]
+---
+
+# Daniel v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is murder; the punishment, 12 years.
+The sole question presented for review is whether the court erred in charging on mutual combat. The evidence will be stated with this question in mind. The homicide occurred in the street outside a beer drinking establishment. Both appellant and deceased were armed with pocket knives of the same size. Both struck at each other. Deceased’s blow failed to reach its mark while appellant’s did.
+Appellant did not testify, but in his oral confession, which was admitted without objection, he stated that he cut deceased because “he didn’t like the way he was talking.” In his written confession, he recited that, while in the beer joint, he engaged in a game of pool with deceased, whom he did not know; that deceased got mad and started cursing; that the proprieter asked him to leave and deceased went outside; that “just a short time later” he went outside; that deceased started cursing and “saying things to me.” It continues:
+“I told him I didn’t know anything about him or didn’t give a damn about him. That’s when I come off the porch at Hill’s. He had his knife in his hand, and I told him, ‘I’ve been f— up and I don’t care if I get f— up.’ That’s when I went to him and he hit me in the back and I hit him in the chest with my knife. I guess he didn’t get a chance to hit me with his knife cause I wasn’t cut. * * * ”
+The witness Hill testified that after deceased got outside “he cursed them all and invited them outside,” “invited them to come out and fight if they wanted to fight,” and that the “whole gang of them went outside” after deceased said, “Any of you s. o. b.’s come out here and fight if you want to.”
+The witness Wyatt testified that he and appellant were friends; that he went to Hill’s place regularly; that deceased was an “outsider”; that deceased started cursing in the place, saying “I will whip everyone of you s. o. b.’s if you come outside”; and that he, Johnny Stamps and appellant followed deceased outside and stood on the porch. He stated that deceased stepped forward with a knife in his hand and appellant jumped off the porch and hit deceased in the chest; that he (Wyatt) was armed with a bottle, which he later used to hit deceased in the head; and that Stamps was armed with a board. He said that deceased “challenged all of us” and that appellant was the first one to hit him.
+Stamps testified that deceased cursed him inside the place, which fiiade him mad, and that he was “going to get him if he could”; that he armed' himself with a board and went outside with the other two, but that he did not get a chance to use the board; but that appellant who was armed with a knife did get to deceased and that Wyatt hit him with a bottle. He testified that when deceased invited them out to fight appellant said he “was on his way.”
+We have concluded that when appellant accepted deceased’s invitation to come outside and fight by saying that he was on his way this constituted the “agreement to engage in combat” which is required by Reese v. State, 49 Tex. Cr. Rep. 242, 91 S. W. 583, and Carson v. State, 89 Tex. Cr. Rep. 342, 230 S W. 997, relied upon by appellant.
+While appellant’s confession standing alone, as deceased’s dying declaration did in Stroud v. State, 113 Tex. Cr. Rep. 621, 24 S. W. 2d 52, might not have raised the issue of mutual combat, we have concluded that the other testimony before us clearly does.
+The court in the case at bar did charge on the law of self defense and on murder without malice. Appellant’s objection to the charge did not point out or call the court’s attention to the defect which this Court discussed in Talamantes v. State, 101 Tex. Cr. Rep. 407, 275 S. W. 1052, and he may not now for the first time urge the same as grounds for reversal.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment is affirmed.
