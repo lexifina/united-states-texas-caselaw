@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,908"
+decided: "1956-01-11"
+citations: ["162 Tex. Crim. 493"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George William Clark v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0493-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2465425
+cites_cases: ["150 Tex. Cr. R. 331", "155 Tex. Cr. R. 1", "157 Tex. Cr. R. 134", "158 Tex. Cr. R. 119", "200 S. W. 2d 1017", "229 S. W. 2d 813", "247 S. W. 2d 262", "253 S. W. 2d 426", "268 S. W. 2d 172", "285 S. W. 2d 723", "39 Tex. Cr. R. 549", "47 S. W. 464"]
+---
+
+# Clark v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant was charged by indictment with assault with intent to murder with malice, the indictment alleging that on or about July 15, 1954, he did “voluntarily and with malice aforethought make an assault in and upon Hurn Mitchell.”
+The jury rejected appellant’s defense of alibi and his plea for suspension of sentence; found him guilty of assault with intent to murder with malice and assessed his punishment at three years’ confinement in the penitentiary.
+Appellant cites a number of murder cases in support of his contention that the indictment is fatally defective because it fails to allege the manner or means or instrument used.
+Numerous decisions are to be found which hold that the indictment in an assault with intent to murder case need not allege the means used, among which are: State v. William Croft, 15 Texas Reports 575; Mathis v. State, 39 Tex. Cr. R. 549, 47 S. W. 464; Grady v. State, 150 Tex. Cr. R. 331, 200 S. W. 2d 1017; Williams v. State, No. 27872, (page 403 this volume). 285 S. W. 2d 723. See also Branch’s Ann. P. C., p. 946, Sec. 1623.
+The next point advanced is that the indictment charges the assault to have been made on one “Hurn” Mitchell whereas the proof shows that the complainant was “Huren” Mitchell. The variance is claimed to be fatal.
+The statement of facts shows that the complaining witness gave his name as “Huren” Mitchell.
+Appellant’s trial counsel does not appear to have used the given name of the prosecuting witness, >and at no time during the trial was the witness called upon to spell his name. When the attorney for the state used the given name it appears several times as “Hurn” and later as “Huren.”
+The first witness called by the state was Dr. Glen Leland, physician. He testified that on the day in question he was called to the emergency room at Parkland Hospital to receive a patient whose name he learned was “Hurn” Mitchell. He was asked by counsel for the state to describe to the jury the wound or injury “Hurn” Mitchell had, and he answered: “He had a recent bullet wound; the point of entry was in the chest under the left arm, the bullet went on through and was just under the skin here (indicating) — the bullet had traveled through his chest.”
+Later in his examination he was asked by the same counsel for the state: “At the time you treated ‘Hurn’ Mitchell was he coughing up blood?” and he answered that he was.
+He was further asked by the same counsel for the state: “Now, doctor, did you see this complainant ‘Hurn’ Mitchell at a later time?” and he answered that he did and followed up the treatment.
+Thereafter, throughout the statement of facts, when the same counsel for the state referred to or addressed the complainant, the statement of facts shows the name spelled “Huren” rather than “Hurn” Mitchell.
+The complaining witness testified that he was shot through the chest by appellant and that he was treated for such wound by Dr. Leland at Parkland Hospital on the night in question and a number of times thereafter.
+No question was raised regarding the name of the injured party until after the trial when in his amended motion for new trial, filed by his counsel on appeal, the variance was claimed.
+In answer to this motion for new trial the state filed a controverting affidavit, setting out that wherein the statement of facts showed the name of the complainant as spelled “Huren,” such was an error in typing on the part of the person or persons who reduced said testimony to writing. This was supported by affidavits of the complaining witness, attached and made a part of the state’s controversion of appellant’s motion for new trial, in which “Hurn” Mitchell states under oath that he was the injured party and the witness who testified at the trial of appellant; that his name was correctly spelled in the indictment and was “Hurn” Mitchell, and that he did not testify that his name was other than “Hurn” Mitchell and did not spell his name “Huren.”
+In view of the fact that the name of the injured party appears as Hurn as well as Huren Mitchell in the statement of facts; that no issue was requested or submitted concerning the name of the injured party, we conclude that the jury was warranted in finding that the assault was made upon Hurn Mitchell, the person named in the indictment and referred to in the court’s charge. We need not, therefore, determine whether or not the names Hurn and Huren are idem sonans.
+Points three and four in the appellant’s brief complain of omissions in the court’s charge. No objections were addressed to the charge before it was read to the jury and no special charges were requested, hence the errors of omission, if any, were waived. See Ashcraft v. State, 155 Tex. Cr. R. 1, 229 S. W. 2d 813; Cox v. State, 157 Tex. Cr. R. 134, 247 S. W. 2d 262; Pendell v. State, 158 Tex. Cr. R. 119, 253 S. W. 2d 426; Whitaker v. State, 160 Tex. Cr. Rep. 271, 268 S. W. 2d 172; 4 Tex. Jur., Secs. 44, 45 and 46, pages 68-74.
+We overrule the contention that the evidence is insufficient to show that the assault was committed with malice.
+The evidence, viewed from the state’s standpoint, shows that appellant, after a minor traffic collision between his pickup truck and Mitchell’s car, threatened Mitchell with a knife, said he was going to kill him, then seeing that Mitchell had a hammer with which to defend himself, went to his pickup and secured a pistol; he then returned to Mitchell’s car and fired three shots, one of which penetrated Mitchell’s body in the chest area.
+The evidence is sufficient to sustain the conviction and we find no reversible error.
+The judgment is affirmed.
