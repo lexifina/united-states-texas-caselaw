@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Texas"
+decided: "1884-05"
+citations: ["3 Tex. L. R. 16"]
+reporter: "tex-l-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM EICHOFF v. THOMAS A. TIDBALL, et al."]
+source_url: "https://static.case.law/tex-l-r/3/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2059407
+---
+
+# Eichoff v. Tidball
+
+## Majority (A. H. Willie, Chief Justice.)
+
+OPINION.
+The transcript does not disclose which of the grounds contained in the demurrer to the petition of appellant were sustained by the court below. Those relied upon here are : first, the instrument sued on is not one provided for by our statutes ; and, second, cannot be enforced as a common law bond.
+It is said, also, that it is not made payable as directed by the order authorizing it, but this is not borne out by the record. The order does not name the sheriff as the party who is to be made obligee of the bond. It merely requires that it shall be filed with that officer, and no person having been designated as payee, and William Eichofif being the party for whose security the obligation was to be executed, it was quite proper to make it payable to him.
+The instrument is, of course, not given in pursuance of any statute and must be sustained, if at all, as a common law obligation. The objections raised to it, as such, are : First, that it is not shown that the plaintiff consented to the execution of the bond ; second, that it was given to secure a right which the principal obligors were already entitled to enjoy, and hence, was exacted under coercion.
+The consent of the plaintiff, if required, was sufficiently given when the order for the bond was entered up. He must have been present in court at the time, either in person, or by attorney. It does not appear that he made any objection to the order, or the bond, at any subsequent period, but, on the contrary, ratified it by defending the proceedings prosecuted by the intervenors to get possesion of the money stayed in the hands of the sheriff by reason of the execution of the bond. Nor was the bond given to secure a right already possessed by the intervenors. It is true they had the right without bond to assert in a court of justice, any claim held by them, to the money in the hands of the sheriff, but they had no right to have the money withheld from the plaintiff till their claim could be determined. This would, in effect, be a seizure in advance of the property in controversy, and a detention of it from the person having the apparent ownership and present right of possession, and to deprive him of the use of it pending the controversy. The theory of the law is, that, in such cases, the defendant must be secured by bond, at least, against all such damages as will necessarily follow from a resort to so stringent a process.
+The proceeding in this case was not dissimilar to one by injunction, and that writ cannot, unless, perhaps, in a few exceptional cases, be obtained, either under our statutes, or according to the principles governing chancery courts, without first securing the opposite party against loss and damage, by a sufficient obligation.
+In the present case, the money in the hands of the sheriff was the proceeds of property attached at the suit of the appellant. The attachment lien had been foreclosed for his benefit, and be was entitled to the proceeds .of the property sold, in part satisfaction of his debt. But for the order of court and the bond given in pursuance of it, he would have received his money so soon as the property was sold. It was retained in the officers hands, in pursuance of the order and bond, for the benefit of the intervenors and to the damage of the appellant.
+All this occurred at the instance and request of the intervenors, and in no sense, therefore, can the bond be said to have been extorted from them by coercion or oppression.
+The- case is so clearly and widely different from that of Wooters v. Smith (56 Texas, 199) that it is unnecessary for us to draw the line of distinction between them.
+There was error, therefore, in the ruling of the court below, sustaining a demurrer to the petition upon the grounds taken in the brief of appellees.
+"We think, however, that the appellant is not entitled to recover damages to the extent claimed in his petition.
+We are not informed by the petition as to the nature of the claim set up by the intervenors to the money in the sheriffs’ hands. In the absence of averment that it was frivolous, or made for delay, we must presume that it was based upon some apparently reasonable claim of right. If so, the only damages to which the appellant could lay claim, were those naturally resulting to him from the money lying idle and unemployed during the time intervening between the date of its receipt by the sheriff and its payment to Eichoff. These would be satisfied by a recovery of the interest claimed in the petition, and this, we think, is the only item of damages prayed for, that the allegations of the petition as it now stands, entitle the appellant to recover. If he could, under any state of the case, recover attorney’s fees and traveling expenses, (which we do not by any means admit,) it does not appear that these were the. natural results of the bond, but he would have been subjected to the same expenses had the intervenors contested his right to the money, without detaining it in the officer’s hands, which they might have done without bond and security.
+The sureties cannot, therefore, be held liable for these damages. The case is a novel one, but assimilates itself, as we have stated, in some respects, to an injunction proceeding, and the plaintiff below should, in no event, recover more than interest, as stated, and the costs in the present case,
+The judgment is reveised and the cause remanded.
+A. H. Willie, Chief Justice.
