@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,992"
+decided: "1954-06-02"
+citations: ["160 Tex. Crim. 364"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Grady Martin v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2472324
+cites_cases: ["101 S.W. 2d 571", "108 Texas Cr. Rep. 655", "131 Texas Cr. Rep. 640", "159 Texas Cr. Rep. 257", "181 N. E. 603", "2 S.W. 2d 439", "262 S.W. 2d 401", "36 A.L.R. 828"]
+---
+
+# Martin v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is aggravated assault; the punishment, a fine of $100.00. The grounds of aggravation alleged were that the assault was committed with a deadly weapon, with premeditated design, and that serious bodily injury was inflicted.
+The trial was before the court without the intervention of a jury. The judgment is a general finding of guilty as charged.
+Appellant was the gatekeeper at the entrance to a girl’s camp. There seems to have been some dispute among the local residents as to whether the gate which he guarded was at the entrance to a public or a private road. At any rate, the injured party and his wife, enroute to a family party at a ranch beyond the gate, had failed to stop at appellant’s command. When they returned that night after the party they found the road blocked with a chain. The injured party attempted to remove the chain, and when he did the appellant hit him one blow on the head and one on the shoulder with a club, which necessitated his going to the hospital for treatment.
+Appellant did not testify, and no evidence was introduced in his behalf.
+We shall discuss appellant’s contentions in the order raised by able counsel in his brief.
+Bill of Exception No. 1 relates to the argument of the special prosecutor which was a direct reference to the appellant’s failure to testify in his own behalf.
+This is the second time, so far as we can ascertain, that this question has been before this court. In Widener v. State, 159 Texas Cr. Rep. 257, 262 S.W. 2d 401, we declined to discuss several bills of exception to indirect references to the accused’s failure to testify contained in the prosecutor’s argument before the court, saying that it would be presumed that the court ignored any improper argument.
+The state cites us People v. Corry, 181 N. E. 603, 36 A.L.R. 828. It would appear from the opinion in that cause that Illinois has a statute very similar to our Article 710, V.A.C.C.P. The argument complained of in that case was a direct reference to the failure of the accused to testify. The Supreme Court of Illinois said, in sustaining the conviction, that they would not presume that the trial court was influenced by the argument. The reason for such holdings is bottomed upon the presumption that a trial court did not consider anything that was improperly presented before him. We think that there is still another practical reason to be considered. If the court had granted the motion for mistrial, there would be no reason why the same judge could not immediately start over in the retrial of the cause. Having heard the evidence and the argument once would not disqualify him, (assuming that no jury was demanded) from again passing on the facts, as it would a juror. To require a judge to go through such a fruitless gesture would be without reason. In the case at bar the trial court qualified appellant’s bill by certifying that he disregarded the argument and did not consider it for any purpose. We think that we should accept the court’s qualification and hold no reversible error reflected by the bill.
+Appellant next complains that the state was permitted to reopen its case and prove venue.
+Article 643, V.A.C.C.P., provides:
+“The (trial) court shall allow testimony to be introduced at any time before the argument of a cause is concluded, if it appears that it is necessary to a due administration of justice.”
+This court has held that this statute authorized a court to permit the state to reopen after a motion for instructed verdict and after the charge had been presented to the accused. Tarver v. State, 108 Texas Cr. Rep. 655, 2 S.W. 2d 439, and Fullbright v. State, 131 Texas Cr. Rep. 640, 101 S.W. 2d 571.
+Appellant attacks the sufficiency of the evidence to support the conviction and limits his discussion to the evidence as to the seriousness of the injury.
+We find, however, that Dr. Gregg, in answering a hypothetical question concerning the weapon, based upon the evidence, said that a club, six or seven pounds in weight with rough and jagged surface which had been held in two hands raised above the head and used to strike a heavy blow to the head of the person assaulted, would be reasonably calculated to inflict wounds which would give apprehension of danger to life.
+We think the court might have also based his judgment on the count charging that the assault was committed with premediated design and by use of means calculated to inflict great bodily injury.
+The appellant was shown to have been angered at the injured party’s failure to stop at the gate earlier in the day and sometime before the assault stated, “Well I’m going to wait here all night... if it takes all night and I’m going to get him when he comes out.”
+Finding no reversible error, the judgment of the trial court is affirmed.
