@@ -1,0 +1,90 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,357"
+decided: "1959-03-11"
+citations: ["168 Tex. Crim. 18"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willie Martinez v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2621254
+cites_cases: ["131 Texas Cr. Rep. 218", "144 S.W. 620", "157 S.W. 483", "167 Texas Cr. Rep. 289", "319 S.W. 2d 720", "49 Texas Cr. Rep. 185", "65 Texas Cr. Rep. 437", "70 Texas Cr. Rep. 498", "91 S.W. 795", "97 S.W. 2d 233"]
+---
+
+# Martinez v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for murder; the punishment, twenty-five years.
+The testimony of the state shows that appellant shot the deceased at least three times with a pistol, once in the left leg and twice in the left side of the back with one of the bullets going six or eight inches straight into the body and that such wound caused the death of the deceased.
+Appellant testifying in his own behalf admitted shooting the deceased with a pistol, but says the deceased was walking toward him with an open knife in his hand and his arm raised, then the deceased saw his gun and as he turned was shot by the appellant.
+Appellant contends that the trial court erred in overruling his motion for a special venire.
+The trial was held after the effective date of the amendment to Art. 601-A, Vernon’s Ann. C.C.P., in 1957. See also Arts. 2094 and 2095, Vernon’s Ann. C.S. No reason is shown why the trial court did not have authority by virtue of the above statutes to overrule said motion. Johnson v. State, No. 30,162, 167 Texas Cr. Rep. 289, 319 S.W. 2d 720.
+Appellant further contends that the court erred in refusing to charge the jury that if the death of the deceased was brought about by the independent act of another and not by the means and in the manner alleged to find him not guilty.
+The indictment alleged that appellant killed the deceased by shooting him with a gun.
+Appellant, deceased, and one Moseley were playing poker, when the deceased suddenly arose, grabbed the money on the table, opened his knife, charged Moseley with being unfair and advanced toward him. Moseley ran into the kitchen, picked up a “coke bottle,” threw and hit the deceased with it but testified he didn’t know where.
+Mary Leonard testified that when the deceased advanced, Moseley pulled a pistol from his pocket, hit the deceased on the head with it, and the deceased said nothing and acted like he was dizzy as he walked from the room.
+T. J. Jamison, after testifying to his training and experience as an undertaker, stated that his examination of the deceased’s body revealed a bullet hole in the left leg, a bullet lodged in the forearm, and two bullet holes in the left side of the back. He was unable to probe one of the two holes, but did probe the one which entered under the left arm and went straight across six or eight inches to the right side, and that in his opinion it caused deceased’s death. On cross-examination he testified that there was a fresh wound slightly oozing blood across the top of the head; that it appeared to have been done with a blunt instrument and “I wouldn’t say it would be too heavy a blow.” He further testified that no autopsy was performed; that it was possible to fracture a person’s skull by striking it with a “coke bottle;” and that he couldn’t say that the deceased didn’t have a brain hemorrhage.
+The evidence fails to raise the issue that the independent act or acts of Moseley by the use of a pistol or a “coke bottle” as a club caused the death of the deceased.
+It is insisted that the trial court erred in failing to charge the jury upon the law of reasonable doubt as applicable to murder with malice and murder without malice.
+The court in its charge instructed the jury that if it found beyond a reasonable doubt that the appellant killed the deceased, yet, if it believed that he had no malice aforethought, “or if you have a reasonable doubt that he was so prompted, or did so act with his malice aforethought, then you will assess' the defendant’s punishment at confinement in the penitentiary for' not less than two nor more than five years; but if you have a reasonable doubt of the defendant’s guilt of murder, you will acquit him of that offense.”
+The instruction as given is not commended, yet, the charge sufficiently instructed the jury upon the law of reasonable doubt as applicable in considering appellant’s guilt of murder with or without malice. Art. 666, Vernon’s Ann. P.C.
+Appellant contends that the court’s charge placed upon him the burden of proving self-defense beyond a reasonable doubt.
+In connection with the submission of the state’s case requiring the jury to find beyond a reasonable doubt that the appellant killed the deceased with a gun, and with the specific intent to kill and with malice aforethought, the court required the jury to “further find and believe beyond a reasonable doubt that such killing, if any, was not in his own proper self-defense, as self-defense is herein defined, * *
+The instruction complained of which is above quoted is not subject to the criticism made because it distinctly places the burden of proof on the state.
+Following the above instruction the court fairly and adequately charged the jury on self-defense both as to real and apparent danger.
+Error is urged because the court failed to charge on the presumption from the use of a deadly weapon by the deceased.
+The attack relied upon by the appellant was not that with a deadly weapon, per se, or a weapon shown to be such by the mode and manner of its use. Hence, the facts did not warrant an application of the presumption arising by reason of Art. 1223, Vernon’s Ann. P.C.
+In Green v. State, 131 Texas Cr. Rep. 218, 97 S.W. 2d 233, we said:
+“Appellant also excepted to the court’s charge for its failure to submit the proposition of law embodied in article 1223, P.C. We have carefully examined the testimony for evidence from which a jury might have been justified in concluding that deceased was killed to prevent murder with a deadly weapon, but have failed to find same. As above indicated, many witnesses testified that deceased had nothing in his hands when he was shot. Appellant swore that deceased had a knife in his hand, and other witnesses support the proposition that at the time of the shooting, and shortly before same, deceased did have a knife. Appellant swore that deceased cut him just above his belt and on the arm, and was coming at him with the knife when he shot deceased four times and killed him. He gives no description of the knife referred to. The doctor who treated him for his alleged injuries testified that he found a slight abrasion above appellant’s waistline and another on his arm; that he did not sew them up because they were not such places as required being sewed up. We have carefully gone through the record in an effort to find any testimony that the knife, claimed by appellant to have been in the hands of deceased and to have been used by him in an actual or threatened attack upon appellant immediately preceding the killing, was a deadly weapon, or one whose use would have been calculated to produce death, and have not found such testimony. The facts surrounding the killing were witnessed and detailed by many witnesses, only two of whom claimed to have seen deceased with a knife, appellant and his son-in-law John Ethridge, neither of whom undertake to describe the knife claimed to have been seen by him. No witness gave any testimony from which the deadly character of the knife, if any was used, could be reasonably inferred. Ethridge said deceased cut him with a knife in the neck before this killing, but he did not see the knife nor state how deep was the cut. The doctor who attended Ethridge said he saw scratches on Ethridge’s body, and a three or four inch cut on his neck, which latter he sewed up with one running stitch. He said nothing about the depth of the cut, nor the apparent size of the instrument inflicting it. Appellant said that deceased had struck at him with a knife and cut him on the stomach and on the arm, and was coming toward him with the knife at the time he shot him. Appellant did not undertake to describe the knife in any particular, and the doctor who attended appellant, as above indicated, testified that the only cut wounds of any kind he saw upon appellant was a slight abrasion on the stomach and one on the arm, neither of which was of sufficient depth to require treatment. Under these facts we see no duty upon the trial court to give in charge the provisions of article 1223, P.C.”
+In the following cases the deceased was advancing on the defendant with a knife which was not described, and it was held that no error was shown because the court failed to charge on the presumption from the use of a deadly weapon by the deceased ; Goodman v. State, 49 Texas Cr. Rep. 185, 91 S.W. 795; Reagan v. State, 70 Texas Cr. Rep. 498, 157 S.W. 483. See also: 4 Branch’s Ann. P.C. 2d 414, Sec. 2097.
+The other contentions presented have been carefully considered and no reversible error is shown.
+The evidence is sufficient to sustain the conviction and no reversible error appearing the judgment is affirmed.
+Opinion approved by the Court.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+(dissenting).
+My dissenting opinion in Johnson v. State, No. 30,162, 167 Texas Cr. Rep. 289, 319 S.W. 2d 720, is applicable to my conviction, here, that the trial court erred in refusing to grant this appellant’s request for a special venire.
+To hold that in some counties the defendant in a capital felony case has the right to demand a special venire — while in other counties a defendant charged with the same character of offense may not demand a special venire — but the trial court may grant or refuse the request at his whim, idea, notion, or caprice, and with or without any reason assigned, is rank discrimination.
+Such is exactly what my brethren hold when they approve and affirm the denial to this appellant of a special venire.
+In this case the issue of self-defense arose and the trial court submitted it from the actual as well as the apparent attack of the deceased. The trial court refused, however, to submit to the jury, in connection with the charge upon self-defense, the provisions of Art. 1223, P.C., which reads as follows:
+“Presumption from weapon of deceased
+“When the homicide takes place to prevent murder, maiming, disfiguring or castration, if the weapon or means used by the party attempting or committing such murder, maiming, disfiguring or castration are such as would have been calculated to produce that result, it is to be presumed that the person so using them designed to inflict the injury.”
+A proper exception was reserved to the trial court’s failure to instruct the jury in accordance with that statute.
+My brethren sustain the trial court’s action upon the theory that the facts were not sufficient to invoke the provisions of that statute. In other words they say that the evidence was insufficient to raise the issue that the instrument, in the manner in which the deceased used it, was calculated to seriously injure.
+To that conclusion I do not agree, and therefore enter my dissent.
+In common parlance, Art. 1223, P.C., means nothing more or less than that where the facts raise the issue of self-defense in a murder case and in connection with and as a part of that defense there is evidence that the deceased was making an attack upon the defendant with a weapon or by means calculated, in the manner used, to kill or inflict serious bodily injury upon the defendant the law presumes that the deceased intended to do that very thing.
+The benefit to the defendant of having the jury instructed in accordance with the statute, when applicable, can not be denied or underestimated.
+The evidence reflects that the deceased made two attacks with a knife. The first was upon Moseley, which he repelled by hitting deceased in the head with a pistol. The knife used by the deceased in that attack was described by Moseley as having a blade “about that long (indicating),” which deceased opened when “he took it out of his pocket.” Stevenson, a witness to the attack upon Moseley, described the knife as follows:
+“It was an ordinary knife with a blade * *' * It looked like a pocket knife with a blade * * * It was a * * * pocket knife blade.”
+Green, also a witness to the assault upon Moseley, testified as follows:
+[“Q. How big a knife was that?] A. Oh, I don’t know something like that (indicating), just a little bone handle knife.”
+Upon cross-examinaton by the state the witness testifed:
+[“Q. What kind of knife was that?] A. I wouldn’t know the make of it, but it was an ivory colored bone handle knife, about like that.”
+Appellant’s defense was to the effect that after deceased had been struck the blow in the head by Moseley he (the deceased) followed appellant out of the building and attacked him with a knife. As to that attack, appellant testified:
+[“Q. Now, Willie, what is the next thing that happened after that?] A. Well, I walked on out the door and Robert Hastings followed me out the door.
+[“Q. Well, how did you know he was following you?] A. I didn’t know it until I beared [sic] him stumbling off the steps.
+[“Q. All right, and what did you do when you heard that noise behind you?] A. Well, he was just pretty close on me, four or five feet, and when I looked around he had his knife in his hand like that (indicating) and I * * *
+[“Q. When you looked around Robert Hastings had the knife in his hand like that?] A. Yes, sir.
+[“Q. Was he coming toward you?] A. Yes, sir.
+[“Q. And what did you do, Willie?] A. Well, I just reached in my pocket and pulled out a gun, and by the time I got in this position, that’s when he turned, I shot.
+[“Q. Willie, at the time you saw that man coming at you with that knife upraised, did you feel that you had to shoot in order to protect your own life?] A. Y"es, sir, I sure did. I thought it was my life or his’n [sic], I didn’t know just which one it was. I was scared to death.”
+In the light of this testimony, the trial court recognized that self-defense from the actual attack of the deceased was raised, and fully instructed the jury in accordance with the law relative thereto. As stated, he refused to charge the presumption arising by reason of Art. 1223, P.C.
+The witness Leonard, whose testimony the state relied upon heavily to sustain its contention of an unjustified killing, admitted witnessing the attack by the deceased upon Moseley but testified that the instrument deceased had in his hand was a “grey and silver fountain pen.” The witness testified to finding the fountain pen “laying beside him [the deceased] after he had fell [sic].”
+The state placed the fountain pen in evidence.
+By the above testimony, the state admitted that deceased had some character of instrument or means of inflicting injury in his possession.
+The case of Williams v. State, 65 Texas Cr. Rep. 437, 144 S.W. 620, is directly in point. There it was held that the presumption arising from Art. 1223, P.C., was raised by testimony that the deceased was advancing upon the accused with a knife. No further description of the knife was given.
+In my opinion, the applicable law is correctly stated in Branch’s P.C., 2d Edition, Vol. 4, Sec. 2097, at page 415, as follows:
+“The presumption of law arising in favor of the accused by virtue of an art. 1223 of the Penal Code may extend to almost any character of weapon which was used by the deceased, so long as it is shown that an attack or threatened attack was being made upon the defendant and that, from the size and manner of its use, the weapon in question may have been a deadly one.”
+The only reason my brethren appear to assign for their holding is that the knife was not minutely described — that is, described as to the size and length of the knife or blade.
+In the first instance, the testimony shows that the jury had before them the opinion of the witness who “indicated” the length of the blade. There is nothing to show that appellant or his witness could have given a detailed description of the knife. It was never in their possession. It was a knife with the blade open and drawn by the deceased as he advanced upon the appellant.
+To my mind, it is a strange and unfounded doctrine to say that, as a matter of law, one can not inflict upon another a serious bodily injury with a knife — any kind of knife. Yet that is what my brethren here hold.
+There is a further and more compelling reason why the knife as here used should be recognized as a weapon which, in the manner used, is calculated to produce death or serious bodily injury: I call attention to the fact that in 1955 the legislature of this state amended the aggravated assault statute, Art. 1147, Vernon’s P.C., so as to provide that it is aggravated assault for one to assault another with a “knife” (any kind, size, or character) under circumstances not amounting to an intent to murder or maim. That statute also says that it is aggravated assault for one to assault another with a deadly weapon under circumstances not amounting to an intent to murder or maim.
+So the legislature, by statute, has declared that a knife used in making an assault is a deadly weapon.
+There is no excuse or reason, therefore, for not giving the appellant the benefit of that which the law gave to him under Art. 1223 P.C. The trial court’s refusal to do so was error.
+I dissent.
