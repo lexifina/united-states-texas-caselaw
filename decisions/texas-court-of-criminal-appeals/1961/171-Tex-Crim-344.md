@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,818"
+decided: "1961-10-25"
+citations: ["171 Tex. Crim. 344"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walker T. Anders v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2631789
+cites_cases: ["158 Tex. Cr. R. 145", "159 Tex. Cr. R. 535", "165 Tex. Cr. R. 432", "167 Tex. Cr. R. 7", "253 S.W. 2d 1002", "265 S.W. 2d 811", "308 S.W. 2d 40", "317 S.W. 2d 212", "332 S.W. 2d 736", "335 S.W. 2d 612"]
+---
+
+# Anders v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is felony theft by false pretext; the punishment, two years.
+The indictment alleged the fraudulent taking of an automobile of a value in excess of $50, from the possession of the owner, without his consent, with the intent to deprive the owner of its value and to appropriate it to his own use and benefit.
+The record contains no statement of facts.
+The sole contention on appeal is that the indictment is fatally defective in that it attempts to allege theft by false pretext and fails to allege that the defendant did appropriate the automobile. We do not agree.
+The indictment is in the ordinary form for charging felony theft, and alleged that the automobile was taken without the owner’s consent. It is well settled that a conviction for theft by false pretext can be had upon such an indictment. 41-A Tex. Jur. 149, Sec. 158; Branch’s Ann. P.C. 2d, Vol. 5, Sec. 2680, page 126 ; Gibbs v. State, 158 Tex. Cr. R. 145, 253 S.W. 2d 1002; Redding v. State, 159 Tex. Cr. R. 535, 265 S.W. 2d 811; King v. State, 165 Tex. Cr. R. 432, 308 S.W. 2d 40; Mount v. State, 167 Tex. Cr. R. 7, 317 S.W. 2d 212; Richardson v. State, 332 S.W. 2d 736; Dinsmore v. State, 335 S.W. 2d 612.
+The judgment is affirmed.
