@@ -1,0 +1,58 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,797"
+decided: "1954-03-03"
+citations: ["160 Tex. Crim. 67"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. P. Young v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468695
+cites_cases: ["121 S.W. 370", "225 S.W. 2d 850", "240 S.W. 2d 443", "255 S.W. 2d 215", "58 S.W. 2d 131"]
+---
+
+# Young v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+In wet areas where the sale of beer is authorized, it is made unlawful by the statute law of this state (Art. 667-10, Vernon’s P.C.) for any person to sell or offer beer for sale on Sunday, between the hours of 1:00 o’clock, a.m., and 1:00 o’clock, p.m.
+By the same statute, it is also made unlawful to sell beer on any day other than Sunday before 7:00 o’clock, a.m., which makes unlawful the sale of beer on such days after the preceding midnight and before 7:00 o’clock, a.m.
+The penalty fixed for a violation of said statute is a fine of not less than One Hundred ($100.00) Dollars and not more than One Thousand ($1,000.00) Dollars, or by imprisonment in the county jail for not more than one year, or by both such fine and imprisonment. Arts. 667-26 and 666-41, Vernon’s P.C.
+It is not made unlawful by said statute to sell beer on Sunday between 1:00 o’clock, p.m., and midnight.
+By ordinance, the city of McGregor, in McLennan County, prohibited the sale of beer on Sunday during the time mentioned in the statute and, in addition, the remainder of the day. In other words, it is made unlawful by the ordinance to sell beer in McGregor for twenty-three of the twenty-four hours of Sunday. The one hour in which it is not unlawful, under the ordinance, to sell beer is that from midnight Saturday to 1:00 o’clock, a.m., on the Sunday following.
+The ordinance also makes it unlawful, as does the statute mentioned, for one to sell beer on Monday before 7:00 o’clock, a.m.
+The penalty provided for a violation of the ordinance is not less than >$25.00 nor more than $200.00.
+The emergency clause of the ordinance reflects that it was the purpose thereof to prohibit the sale of beer on Sunday for the twenty-three-hour period mentioned.
+The city of McGregor is a wet area within the meaning of the Texas Liquor Control Act, and appellant is licensed to sell beer in that area.
+Appellant was charged, by complaint in the corporation court of the city of McGregor, with a violation of the ordinance — that is, that he, as such licensee, sold beer in that city at 5:00 o’clock, p.m., on Sunday. A trial in corporation court resulted in a conviction, with a fine of $25.00 being assessed. The case was appealed to the county court of McLennan County, where appellant was again convicted, with punishment assessed at a fine of $150.00. From this conviction, the appeal was perfected to this court.
+It is insisted that the ordinance is void because it is in conflict with the state law, in that it prescribes a different and lesser punishment than that fixed by the state law for the same unlawful act.
+If the ordinance be so construed, there is no question but that it is void for the reason stated. Ex parte Watson, 154 Texas Cr. R. 167, 225 S.W. 2d 850; Ex parte Seals, 158 Texas Cr. R. 329, 255 S.W. 2d 215; 30 Texas Jur., Sec. 168, at p. 305; Branch’s P.C., Sec. 416, p. 224.
+The state recognizes the correctness of the rule stated, but insists that it is not here applicable, because the particular offense for which the appellant stands here convicted is not made unlawful by the statute law of this state — that is, the sale of beer on Sunday at 5:00 o’clock, p.m., but is authorized and recognized as lawful under state law.
+There is no question but that the certain provisions of the ordinance are void for the reason stated, because it does fix a different punishment for selling beer on Sunday between 1:00 o’clock, a.m., and 1:00 o’clock, p.m., and on Monday before 7:00 o’clock, a.m., than that prescribed and prohibited by state law for the same acts.
+■ ■ So then, the question arises as to whether the city of McGregor was authorized by ordinance to make it unlawful for the holder of a license to sell beer in that city between 1:00 o’clock, p.m., and midnight on Sunday.
+The legislature has delegated to certain cities the power to regulate the sale of beer within such cities, by that part of Art. 667-10-1/2, Vernon’s P.C., which reads as follows:
+“All incorporated cities and towns are hereby authorized to regulate the sale of beer within the corporate limits of such cities and towns by charter amendment or ordinance and may thereby prescribe the opening and closing hours for such sales; such cities and towns may also designate certain zones in the residential section or sections of said cities and towns where such regulations for opening and closing hours for the sale of beer shall be observed or where such sales may be prohibited. All incorporated cities and towns are hereby authorized in adopting charter amendments or ordinances to distinguish between retailers selling beer for consumption on the premises where sold and those retailers, manufacturers, or distributors selling not for consumption on the premises where sold, and to provide for separate and distinct regulations. Nothing herein shall authorize any incorporated town or city to extend by ordinance or charter the hours of sale as fixed by State law.”
+It is by virtue of this statute that the state insists that the city of McGregor was authorized to pass the instant ordinance and, by that ordinance, to make it unlawful for a licensee to sell beer in that city at 5:00 o’clock, p.m., on Sunday.
+It will be noted that the statute authorizes the cities therein mentioned to “prescribe the opening and closing hours for such sales.” The only limitation upon that power is that they do not “extend by ordinance or charter the hours of sale as fixed by State law.” There is no limitation upon the power of those cities to curtail or shorten the “hours of sale as fixed by State law.” Not having limited the cities in their power to curtail the hours of sale, the conclusion is inevitable that such power was accorded.
+In Moore v. McCarver, et al, 240 S.W. 2d 443, the power of a city to prohibit the sale of beer in a particular area is recognized finder-the authority conferred by Art. 667-10-1/2, Vernon’s P.C.
+We are constrained to agree that the ordinance, in so far as it prohibits the sale of beer at 5:00 o’clock, p.m., on Sunday, is authorized by the statute mentioned.
+This brings us to a determination as to whether the savings clause of the ordinance will preserve as valid that provision of. the ordinance which makes unlawful the sale of beer on Sunday which is not made unlawful by state law, notwithstanding the invalid portions of the ordinance.
+The general rules of construction touching the question will be found in 9 Texas Jur., Constitutional Law, Secs. 55 and 56. The cases relative thereto are collated in 34 Texas Digest, Statutes, Key 64.
+For instant purposes, the rule which appears to be sufficient here is that if the unconstitutional or void portion of any statute be stricken out and that which remains is complete in itself and capable of being executed in accordance with the apparent legislative intent, wholly independent of that which is rejected, the statute must be sustained. Oates vs. State, 56 Texas Cr. R. 571, 121 S.W. 370; Ex parte Sanders, 123 Texas Cr. R. 265, 58 S.W. 2d 131.
+Under the rule stated, we would not be authorized to strike down the valid portion of the ordinance prohibiting the sale of beer from 1:00 o’clock, p.m., to midnight on Sunday.
+Appellant’s having been convicted of an offense denounced as a crime by a valid ordinance and no reversible error appearing, the judgment is affirmed.
+Opinion approved by the court.
+
+## Rehearing (DAVIDSON, Judge.)
+
+ON APPELLANT’S motion for rehearing
+DAVIDSON, Judge.
+Appellant challenges the correctness of our conclusion that the ordinance is valid in so far as it makes unlawful the sale of beer from 1:00 o’clock, p.m., until midnight on Sunday. He contends that there is no specific provision of the ordinance to that effect, and that such conclusion rests only upon the fact that the period of time involved happened to be within that time covered generally by the ordinance.
+■ It is insisted, therefore, that it is impossible to preserve out of the ordinance any specific provision as valid without rewriting or amendng the ordinance to so provide. In other words, to conclude as we did originally, appellant insists that there must, of necessity, be substituted in the ordinance the terms ‘T :00 o’clock, ip.m.,” for “,1:00 o’clock, a.m.,” and “midnight” for “7:00 o’clock, a.m., on Monday,” thereby rewriting the ordinance so as to create the specific offense for which appellant stands here convicted.
+:■ Our Constitution (Texas), Art. 2, Sec. 1, in distributing the powers of government, prohibits courts, under the guise of construing a statute, from creating, rewriting, or amending a statute, or creating an offense. 39 Texas Jur., Statutes, Sec. 89, p. 162; 50 Am. Jur., Statutes, Sec. 28, p. 212.
+1 Upon further consideration of the validity of the ordinance, wé are constrained to agree that the entire ordinance must be held invalid and that to preserve therein as an unlawful act the offense here charged would do violence to the rule of construction stated and would constitute judicial legislation as prohibited by the Constitution.
+Accordingly, appellant’s motion for rehearing is granted, the judgment of affirmance is set aside, and the cause is now reversed and the prosecution ordered dismissed.
+Opinion approved by the court.
