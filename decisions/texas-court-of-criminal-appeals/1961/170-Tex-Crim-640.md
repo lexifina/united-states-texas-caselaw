@@ -1,0 +1,48 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,503"
+decided: "1961-02-08"
+citations: ["170 Tex. Crim. 640"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jesse Enos Ray v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0640-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2627070
+cites_cases: ["156 Tex. Cr. R. 144", "240 S.W. 2d 310"]
+---
+
+# Ray v. State
+
+## Majority (WOODLEY, Presiding Judge)
+
+WOODLEY, Presiding Judge
+Our prior opinion is withdrawn.
+The offense is driving a motor vehicle upon a public highway while intoxicated; the punishment 60 days in jail and a fine of $300.
+The undisputed evidence shows that appellant was driving an automobile upon a public highway and was involved in a collision with another automobile.
+The driver of the other car testified that he smelled “the heavy odor of beer in the car” but that he could not conscientiously judge whether appellant was intoxicated.
+Mrs. Haynes witnessed the collision and observed appellant sitting in the automobile he was driving. She testified that his eyes were rather glassy looking; that she had seen many intoxicated persons and that from seeing his eyes and how he sat in the car, and seeing him being helped into the ambulance later on, expressed the opinion that appellant was highly intoxicated.
+Mrs Hill witnessed the collision and testified that appellant, as he sat behind the wheel after the collision, “was just kind of in a stupor or daze * * * . He was uncooperative. He wouldn’tlet me look at him. He didn’t want to raise his head.” His nose was bleeding. He kept saying “Leave ‘me alone.’ ”
+Mrs Hill testified that she had seen people that she knew were drunk before, and her opinion was that appellant “was dead drunk.”
+Thomas J. Hill, who also witnessed the accident, testified that it appeared to him that appellant had been drinking. “He wasn’t walking too good,” he might have been dazed.
+Dr. Gibbons testified that on May 9,1959, the day in question, he was Resident Physician in the Emergency Room at Parkland Memorial Hospital; that a book was kept in the Emergency Room showing the names of people who came in and other information regarding blood samples for alcohol test, which was an official record of the hospital.
+From the entries he made in said record, Dr. Gibbons testified that he drew blood from Jesse E. Ray on May 9, 1959, with his permission; that boric acid was used to clean the arm rather than alcohol, and that he signed the record.
+Dr. Martin Mason, Director of the Dallas City-County Griminal Investigation Laboratory, a chemist for about 30 yeaíá who had tested and analyzed thousands of blood specimens to determine their alcohol content, testified that he took a blood sample from the lock box in the Emergency Laboratory at Parkland Hospital on Monday, May 11th, 1959, about 9 A.M.; that the blood was in a test tube with a rubber stopper around which was a police department blood alcohol report form indicating that the blood was drawn by Dr. Gibbons in the hospital on May 9,1959, at 6:55 P.M., from Jesse Enos Ray, in the presence of an officer; that an analysis of the blood showed an alcohol concentration of .209 per cent. He also testified that any individual attaining a concentration of alcohol in his blood as high as a tenth per cent will become under the influence of alcohol.
+On cross-examination he testified that the figure almost uniformly employed, above which prosecution occurs, and below which it may or may not occur, is .150.
+Appellant, as a witness in his own behalf, gave his version of the collision and testified that he was not intoxicated. He testified that he went to the Silver Dollar Bar, which-he owned at the time, after lunch and remained there until a few minutes after 5 P.M., and while there he and his wife drank three beers; that he and his wife were going home, accompanied by Odell Harris; that-after the collision the car he was driving ended up against the curb; that he did not get out because his wife was “hurt pretty bad” and his hand was “busted open between my index finger and my thumb and I was bleeding at the nose.” that he told his wife “we would just sit in the car until the ambulance came.”
+Appellant further testified that he and his wife were taken to Parkland Hospital where she was laid on. a stretcher, in the Emergency Room; that later a policeman, nurse and doctor came up and “asked me if I wanted to take a blood test * * * I said yes” *** and that the doctor extracted blood from his left arm after washing if with what smelled like alcohol. He soon thereafter left the hospital, and about midnight had his hand sewed up at St. Paul’s Hospital.
+On cross-examination appellant testified that he wanted to take the test to decide whether or not he was drunk, and told them at Parkland Hospital he wanted to take a blood test, and that he thought the test would prove he was innocent.
+Appellant called as witness his wife and Odell Harris, but neither was asked to express an opinion, or testify as to his condition of sobriety or intoxication. He called Mrs. Herring, who testified that she went to the scene of the collision and talked to appellant and his wife; that she smelled no odor of beer and did not think appellant was drunk.
+Appellant contends that the court erred in permitting Dr. Mason to testify concerning the blood sample and its analysis and to give his opinion based thereon. The objection was that the state had not proved up the chain of custody of the blood sample analyzed; had failed to lay a predicate for the admissibility of such testimony and that anything Dr. Mason testified to regarding the sample would be hearsay.
+What appellant conceives to be the missing proof is how the blood taken from appellant’s arm got from the Emergency Room, where it was extracted, to the locked box in the Emergency Labratory some 30 or 40 féet away.
+The specimen which was analyzed after being taken from the locked box by Dr. Mason was identified by the paper wrapped about the container which contained information corresponding to the hospital records from which Dr. Gibbons testified, and which became a part of the records of the hospital, which Dr. Mason exhibited to counsel at the trial and from which he testified.
+The report showed to have been signed by Police Officer Morris who, according to the report, was present when the blood was extracted by Dr. Gibbons in the Emergency Room. Morris was shown to have subsequently retired and moved to Indiana.
+In view of appellant’s testimony and the testimony of Dr. Gibbons, we overrule appellant’s contention that the admission of Dr. Mason’s testimony was reversible error.
+In this connection we direct attention to the fact that the blood was extracted in the Emergency Room from appellant who desired a test, and was taken from the locked box in the Emergency Labratory some 30 or 40 feet from where it was extracted and tested. It was identified by the report attached thereto which contained information corresponding with the other hospital records, of which it became a part, as blood of Jesse E. Ray.
+In the effort to comply with appellant’s objection that a proper predicate had not been laid for Dr. Mason’s testimony, the report attached to the tube containing the blood sample analyzed was read by Dr. Mason in the jury’s absence.
+When Dr. Mason was asked to read it before the jury appellant’s objection: “I would like to have a predicate laid for this” was sustained. Dr. Mason was then further examined and thereafter was permitted to read to the jury the information that was contained on the outside of the specimen, over the objection: “Your Honor, again I would like to object to the improper predicate being laid and hearsay testimony.”
+As has been stated, the report identified the blood as that extracted from Jesse Enos Ray by Dr. Gibbons, as appellant testified and as Dr. Gibbons testified.
+The only content of the report which could be said to contradict appellant and sustain Dr. Gibbons and the record he made and testified from is that relating to the antiseptic used to cleanse the arm. In view of the amount of alcohol found in the blood, had alcohol been used to cleanse it would not have affected the doctor’s conclusion that the result showed intoxication, hence would not warrant reversal. Even so, the objection was levelled at the whole report and did not point out the apparent corroboration on the disputed issue. As has been stated, the report was used only for the purpose of identifying the blood sample.
+Brown v. State, 156 Tex. Cr. R. 144, 240 S.W. 2d 310, relied on by appellant, may be distinguished. In that case the officer saw blood extracted from Brown, who had been taken to the hospital for that purpose. The blood sample was sent to Austin by a physician who found it in the refrigerator and mailed it to Austin for analysis. The doctor was not present when the blood was drawn and testified that all he knew about the blood was what he had been told. No hospital records were offered. There was no locked receptacle to safeguard blood samples, and the sample was identified only by the name N. Brown, the defendant being Nauflet Brown, who did not testify.
+The evidence being sufficient to sustain the coftviction and no reversible error appearing, the judgment is affirmed and appellant motion for rehearing is overruled.
