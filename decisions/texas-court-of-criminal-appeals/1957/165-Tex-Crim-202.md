@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,095"
+decided: "1957-06-19"
+citations: ["165 Tex. Crim. 202"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richard Lee Williams v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611755
+cites_cases: ["139 Texas Cr. Rep. 332", "140 S.W. 2d 449", "162 Texas Cr. Rep. 124", "164 Texas Cr. Rep. 262", "282 S.W. 2d 877", "298 S.W. 2d 577", "45 Texas Cr. Rep. 117", "74 S.W. 310"]
+---
+
+# Williams v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The appeal is from a conviction for the misdemeanor offense of driving while intoxicated; the punishment, three days in jail and a fine of $50.
+An issue was made as to whether appellant was drunk when arrested while operating an automobile on a public highway, but there is sufficient evidence to sustain the jury’s finding that he was. Three officers described his movements and appearance and expressed the opinion that he was under the influence of intoxicating liquor and that he was drunk.
+The complaint and information alleged that appellant operated a motor vehicle upon a public highway “while intoxicated or under the influence of intoxicating liquor,” and the court in his charge authorized the jury to convict upon a finding that he so drove while he “was then and there intoxicated or under the influence of intoxicating liquor.”
+Appellant attacked the information and the charge in the trial court and here argues his contention that the allegation being in the disjunctive, the information and the charge are erroneous.
+In the recent case of Sumner v. State, 164 Texas Cr. Rep. 262, 298 S.W. 2d 577, we held that “intoxicated” and “under the influence of intoxicating liquor” were synonymous. See also Foster v. State, 162 Texas Cr. Rep. 124, 282 S.W. 2d 877.
+The terms being synonymous, the fact that they were alleged in the disjunctive is not error. 23 Texas Jur., p. 627, Sec. 28; Branch’s Ann. P.C., Sec. 523; Thomas v. State, 18 Crim. App. 213; Hofheintz v. State, 45 Texas Cr. Rep. 117, 74 S.W. 310.
+Appellant cites Brown v. State, 139 Texas Cr. Rep. 332, 140 S.W. 2d 449.
+The holding in the Brown case was that the allegation that the accused drove “while intoxicated and while under the influence of intoxicating liquor” was not duplicitous but was proper.
+It does not follow that a pleading which alleges “intoxicated or under the influence of intoxicating liquor” is fatally defective. Insofar as the Brown case may be understood to so hold, it is overruled.
+Appellant’s next complaint relates to the following.
+The witness Talbert Crow, the arresting officer, testified on direct examination that at the time of the arrest appellant’s breath smelled strongly of alcohol; that his tongue was thick; that he staggered and was, in his opinion, intoxicated.
+On cross-examination he testified that appellant was “a little too drunk to be driving an automobile” but “He didn’t pass out.” He was thereafter, on cross-examination, asked: “Q. Did you take him out to the hospital, give him a blood test to determine whether he was intoxicated or not?” to which the witness answered: “We asked him if he would like a blood test, and he refused.”
+Appellant moved for mistrial and argues for reversal because of the overruling of such motion and because of the court’s failure to withdraw the answer from the jury in his charge.
+As we understand the record, the trial judge orally instructed the jury to disregard the answer.
+Even had he not done so, appellant’s question called for such an answer if it was true.
+Appellant having gone into the matter and having, sought to show that the officer had failed to take him to the hospital for a blood test, the officer’s response that he offered to do so and he refused was not ground for mistrial, and the trial court did not err in refusing to withdraw it by his written charge.
+The remaining claim of error is addressed to the sufficiency of the verdict of the jury, which reads: “We, the jury, find the Defendant Guilty. If guilty, his punishment shall be 3 days in jail, and a fine of $50. Elmer D. Gooch, Foreman of the Jury.”
+The rule is that verdicts should receive a liberal rather than a strict construction, and if the finding • of the jury can be reasonably ascertained, the verdict should be held good as to form. Branch’s Ann. P.C., 2d Ed., Sec. 666, and cases cited.
+Applying the rule stated, we think that it may be reasonably ascertained from the verdict that the jury found appellant guilty and assessed the minimum punishment.
+No reversible error appearing, the judgment is affirmed.
