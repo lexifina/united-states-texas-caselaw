@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,012"
+decided: "1952-11-12"
+citations: ["158 Tex. Crim. 145"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jack Gibbs v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2478838
+cites_cases: ["118 Tex. Cr. R. 628", "126 S.W. 268", "143 Tex. Cr. R. 521", "144 Tex. Cr. R. 392", "158 S.W. 2d 796", "162 S.W. 2d 980", "37 S.W. 2d 1024", "58 Tex. Cr. R. 407"]
+---
+
+# Gibbs v. State
+
+## Majority (BEAUCHAMP, Judge.)
+
+BEAUCHAMP, Judge.
+Appellant was given a sentence of ten years in the penitentiary by a jury verdict on a charge of cattle theft.
+The indictment in the case contains four counts, the first charging appellant with the theft of 53 head of cattle belonging to Tommie Howard. The second count charges theft of 53 head of cattle belonging to L. H. Turner. The third charges the theft of 50 head of cattle belonging to Tommie Howard, and the fourth charges the theft of 50 head of cattle belonging to L. H. Turner.
+No evidence was introduced by appellant in the case and the facts presented by the state are to the effect that appellant purchased 54 head of cattle from a commission company in Palo Pinto County on the 22nd day of September, 1951, for which he gave a check on a Wichita Falls bank, in the amount of $8,442.87. The check was accepted and, thereafter, the cattle were taken by appellant and moved to another county. The conviction is on the fourth count in the indictment charging theft.
+It is the contention in this appeal that the prosecution should have been for swindling by giving a check on a bank in which he had insufficient funds. Four propositions of law are presented in appellant’s brief, three of which are dependent upon appellant’s contention that the prosecution should have been for swindling. The fourth complains of the closing argument of the prosecution, based on the contention that it was a reference to the failure of the defendant to testify.
+On the question of the alleged error in prosecuting appellant for theft instead of swindling, appellant refers to 39 Tex. Jur. p. 1088; DeBlanc v. State, 118 Tex. Cr. R. 628, 37 S.W. 2d 1024; and Johnson v. State, 144 Tex. Cr. R. 392, 162 S.W. 2d 980. These cases are discussed in the brief but we are unable to follow the reasoning therein. To the contrary, we think that each citation is authority, for the state’s position that, the evidence having shown swindling by check under circumstances that would authorize the prosecution for theft, it was the duty of the state to prosecute for the latter. The DeBlanc case, an opinion by Judge Morrow, makes this quite clear. The Johnson case, following the DeBlanc case, was under a little different state of facts and, while following the reasoning of the De-Blanc case, the facts are not such as to make it a spotted horse case, with the same spots, to the full extent that the DeBlanc case is.
+The opinion in the DeBlanc case is a lengthy one and is quite exhaustive on the subject which is the controlling question in the instant case. A long line of authorities are listed and discussed. It is said that where facts are such as would warrant prosecution on either swindling or theft, the indictment should be for theft, citing Articles 1413, 1545 and 1549, Vernon’s Ann. P.C. It was further emphasized that prosecution should be for swindling only where the facts would not sustain conviction for theft, or conviction under some other provision of the penal code penalizing fraudulent acquisition of property. We do not know how to make it clearer or more emphatic but we do commend the DeBlanc opinion as being very clear and exhaustive on the subject. It will be followed in this case.
+The argument complained of is: “It would have been a good thing for Gibbs or his counsel to have brought out anything about the check.” The trial court declined to approve this bill as presented to him but attached thereto his qualification referring to the statement of facts and, directing attention to page 22 thereof, he says that during the oral argument to the jury one of the defendant’s attorneys stated: “What became of the check Gibbs got for the cattle he sold in Mineral Wells: This money could have been applied on this sale.”
+The trial court viewed the state’s argument as being in reply to the quoted argument by defense counsel. The bill was accepted with that qualification and appellant is bound by it.
+No reversible error is presented by the record and the judgment of the trial court is affirmed.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON appellant’s motion for rehearing.
+WOODLEY, Judge.
+Appellant suggests that, if our original disposition of his appeal stands, we make it “clear that the offense of swindling by check can be tried under a straight theft indictment.”
+It is well settled that the offense of theft by false pretext defined in Art. 1413 P.C. may be prosecuted under an indictment charging theft. See McCain v. State, 143 Tex. Cr. R. 521, 158 S.W. 2d 796, Berg v. State, 2 Tex. Appeals 148; Hawkins v. State, 58 Tex. Cr. R. 407, 126 S.W. 268.
+Any question as to the effect of our holding in DeBlanc v. State, cited in our original opinion, should be resolved by reference to Article 1549 P.C. as amended by Acts of the 48th Legislature, (1943) p. 362, Ch. 240, Sec. 1 (Art 1549 Vernon’s Ann. P.C.) which reads as follows:
+“Where property, money, or other articles of value enumerated in the definition of swindling, are obtained in such manner that the acquisition thereof constitutes both swindling and some other offense, the party thus offending shall be amendable to prosecution at the state’s election for swindling or for such other offense committed by him by the unlawful acquisition of said property in such manner.”
+The evidence being deemed sufficient to sustain conviction for theft by false pretext, it is immaterial that prosecution might have been successfully maintained for swindling.
+The motion for rehearing is overruled.
