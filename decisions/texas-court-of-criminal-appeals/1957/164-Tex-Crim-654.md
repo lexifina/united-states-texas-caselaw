@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,047"
+decided: "1957-05-22"
+citations: ["164 Tex. Crim. 654"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D. E. Richardson v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0654-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611505
+---
+
+# Richardson v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is passing as true a forged instrument in writing; the punishment, five years.
+The instrument alleged to be forged was offered by the state as Exhibit 1. It is a check on Houston National Bank for the sum of $2,225.00, the payee being D. E. Richardson, the appellant.
+The check purports to have been drawn by “Professional Construction Corp. by S. J. Wilburn,” is numbered 351 and contains the words “Payment in full.”
+This check was presented by appellant with his endorsement thereon to Margaret Summers, on her first day as a teller at Houston National Bank, and after a vice president of the bank had identified appellant and had “okayed” the check, Mrs. Summers cashed it and delivered to appellant $2,225.00.
+Appellant testified in his own behalf and admitted cashing the check, but claimed that it was delivered to him by S. J. Wilburn, that he cashed it as an accommodation to S. J. Wilburn and delivered the proceeds thereof to S. J. Wilburn.
+Mr. Wilburn testified that the check was not signed by him or with his authority, and that he first learned of its existence after he had received his bank statement and had gone to the bank to ascertain if there had been a mistake in the bank balance.
+He positively denied that he delivered the check to appellant, or received the proceeds thereof.
+Two checks which Mr. Wilburn had given appellant earlier the same month were offered in evidence and a witness, whose qualification as an expert in such matters was stipulated, testified that the signature on State’s Exhibit No. 1 was, in his opinion, not signed by the same person who signed these two checks, and was a “simulated forgery.”
+There was evidence to the effect that Wilburn and appellant had been close friends and that appellant had access to Wilburn’s office, and therefore the opportunity of securing the check bearing the number 351 from the back of a book of checks printed for “Professional Construction Corp.” and to the typewriter and check writer in such office. The expert witness testified that he had examined samples of checks from the office of Mr. Wilburn and compared them with State’s Exhibit 1 and in his opinion the same typewriter and the same check writer were used in their making.
+The evidence is sufficient to sustain the jury’s findings.
+No brief has been filed on appellant’s behalf.
+There is one bill of exception. It complains of the overruling of appellant’s motion for continuance wherein it was alleged that he had employed counsel two days before and that he had not had time to prepare “in that no process had been issued for any witnesses.”
+The bill of exception shows that appellant had been at liberty under bond since July 27; had known since the latter part of December that his case had been set for January 9th, and “was more or less leaning toward” and “figured at the proper time I could secure Mr. Heidingsfelder” and that he contacted and made arrangement with Mr. Heidingsfelder (who represented him at the trial) on January 7th.
+The bill of exception shows no abuse of discretion on the part of the trial court in overruling the motion for continuance.
+The judgment is affirmed.
