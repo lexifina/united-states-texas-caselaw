@@ -1,0 +1,59 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,674"
+decided: "1957-01-02"
+citations: ["164 Tex. Crim. 335"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gordon Vernie Mock v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610247
+cites_cases: ["1 S.W. 448", "126 S.W. 2d 493", "136 Texas Cr. Rep. 487", "15 S.W. 814", "152 S.W. 912", "154 Texas Cr. Rep. 273", "161 Texas Cr. Rep. 330", "21 Texas Cr. Rep. 457", "226 S.W. 2d 872", "277 S.W. 2d 111", "29 Texas Cr. Rep. 217", "38 Texas Cr. Rep. 81", "39 Texas Cr. Rep. 625", "41 S.W. 620", "48 S.W. 70", "68 Texas Cr. Rep. 584"]
+---
+
+# Mock v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant was charged by indictment with assault with intent to murder with malice.
+The judgment rendered against him recites in its heading: “Indicted for assault with intent to murder but on motion by the State reduced to aggravated assault, a misdemeanor.”
+The judgment then recites that appellant, in open court, pleaded guilty to the charge contained in the indictment and that no jury was demanded; that the court heard the indictment read, the defendant’s plea of guilty thereto, and the evidence submitted; that the court found appellant guilty of aggravated assault and assessed his punishment at one year in jail.
+The appeal from this judgment raises the question of whether or not the district court lost jurisdiction when the offense was reduced to aggravated assault.
+The allegations of an indictment showing the offense charged to be a felony confer jurisdiction in the case upon the district court. Such jurisdiction is not lost when the facts fail to sustain the felony charge, the district court retaining jurisdiction until final termination of the case. Robles v. State, 38 Texas Cr. Ren. 81, 41 S.W. 620; Nance v. State, 21 Texas Cr. Rep. 457, 1 S.W. 448; Hughes v. State, 68 Texas Cr. Rep. 584, 152 S.W. 912.
+We see no valid distinction between an accusation reduced by agreement between the attorneys representing the state and the accused and one reduced by the facts proved or by acquittal of the felony charge by reason of a misdemeanor verdict and judgment afterwards set aside.
+The state being satisfied to prosecute only for the lesser included offense of aggravated assault, thereby reducing the charge to a misdemeanor, and the defendant not desiring a jury trial upon that charge, but electing to plead guilty before the court to the offense of aggravated assault, the district court was not without jurisdiction to entertain the plea, hear the evidence if evidence was offered, and render judgment.
+The plea of guilty being to a misdemeanor offense, Art. 10a V.A.C.C.P., relating to waiver of jury and plea of guilty in felonies less than capital, is not applicable.
+The same may be said as to the remaining complaint that appellant was not admonished of the consequences of his plea of guilty, for Arts. 501 and 517 C.C.P. apply only where the offense is a felony. Berliner v. State, 6 Texas App. 181; Johnson v. State, 39 Texas Cr. Rep. 625, 48 S.W. 70; Scott v. State, 29 Texas Cr. Rep. 217, 15 S.W. 814. However, the record on appellant’s motion for new trial contains a statement by the trial judge that the admonition required by Art. 501 C.C.P. in a felony case was given appellant before he pleaded guilty to aggravated assault.
+The judgment is affirmed.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+The indictment charged the appellant with assault with intent to murder Dorothy Jean Nixon.
+Upon his plea of not guilty to that accusation, appellant went to trial before a jury.
+The prosecutrix had testified to the alleged assault.
+Near the conclusion of prosecutrix’ testimony, appellant changed his plea of not guilty to that of guilty.
+Thereupon, state’s counsel advised the trial court that the state was waiving the felony count of the indictment and that appellant was pleading guilty before the court to the misdemeanor offense of aggravated assault.
+After the empaneled jury had been discharged, the trial court adjudged appellant, upon a plea of guilty, guilty of aggravated assault and assessed his punishment at one year in jail, which was the punishment recommended for appellant by state’s counsel.
+If I correctly understand it, appellant’s attack upon the judgment is threefold: (a) If appellant pleaded guilty to the felony charged in the indictment, it was necessary that the constituent elements of Art. 10a, Vernon’s C.C.P., be shown to have been complied with; and (b) if appellant did not plead guilty to the felony offense charged in the indictment but did plead guilty to the misdemeanor offense of aggravated assault, the trial court, being a district court, was without jurisdiction to receive or entertain such plea or enter judgment thereon; and (c) if the state did, in fact, dismiss and abandon the felony charged in the indictment and reduced the offense charged to that of a misdemeanor, the district court lost jurisdiction.
+The facts which have been stated heretofore are taken chiefly from the statement of the trial court as it appears in the statement of facts developed upon the hearing of appellant’s motion for a new trial.
+In addition thereto, attention is called to the judgment which the trial court entered herein, which reads as follows:
+“THIS DAY this cause was called for trial, and the State appeared by her District Attorney, and the Defendant Gordon Vernie Mock appeared in person and by Counsel and both parties announced ready for trial and Defendant Gordon Vernie Mock in open Court, pleaded guilty to the charge contained in the indictment herein, and No Jury having been demanded. The court who having heard the indictment read and the Defendant’s plea of guilty thereto, and having heard the evidence submitted the Defendant being present (sic). The Court finds the Defendant guilty of aggravated Assault and assesses the Punishment at one year in the Harris County Jail.
+“It is therefore considered, ordered and adjudged by the Court that the State of Texas do have and recover of the Defendant the said One year Jail (sic), and all costs of this prosecution and execution may issue against the property of the said Defendant for the amount of said costs; and the said Defendant being now present in Court, be committed to the custody of the Sheriff, who shall forthwith confine him in jail of this Harris County for a period of One year and until said costs are fully paid.”
+According to that judgment, the plea of guilty was entered to the “charge contained in the indictment,” which was that of a felony.
+The misdemeanor offense of aggravated assault was not expressly alleged by the indictment. That offense was provable under the felony accusation because it was an offense included within the offense of assault with intent to murder. Arts. 55 and 695, C.C.P.; Williams v. State, 136 Texas Cr. Rep. 487, 126 S.W. 2d 493.
+It must be remembered that the averments of the indictment determine the question of jurisdiction, and where the indictment charges a felony and a misdemeanor in separate counts the acquittal of the felony ends the jurisdiction of the district court. Robles v. State, 38 Texas Cr. Rep. 81, 41 S.W. 620.
+There appears no escape from the conclusion that the only accusation against appellant which conferred jurisdiction upon the district court was that of a felony and it was to that accusation, alone, that appellant plead guilty.
+It follows that the provisions of Art. 10a, Vernon’s C.C.P., should have been complied with. This was not done. The failure to comply with the provisions of that article renders the judgment void. Ex parte Kelley, 161 Texas Cr. Rep. 330, 277 S.W. 2d 111; Thompson v. State, 154 Texas Cr. Rep. 273, 226 S.W. 2d 872.
+If, for the sake of argument, it be conceded that appellant did not plead guilty to the felony offense but did plead guilty to the misdemeanor offense included therein, the district court was without jurisdiction to entertain such plea because of a want of jurisdiction to entertain an accusation of a misdemeanor. The only accusation against appellant of which the district court had jurisdiction was that of a felony. It was to that offense, alone, that a plea of guilty could have been entered. A plea to any other offense would not have been within the jurisdiction of the court to receive or accept.
+In their brief, state’s counsel assert that the state abandoned the felony feature of the indictment and thereby reduced the offense to a misdemeanor. The record bears out that assertion. So then when the state abandoned the felony feature of the indictment it took from the district court jurisdiction to further entertain any proceeding under the indictment.
+We do not have, here, a case where certain elements of an offense are abandoned without changing or reducing the grade of offense.
+The jurisdiction of a court to hear and determine a cause is fundamental; without jurisdiction, a court cannot act.
+If the district court never lost jurisdiction of this case, then why not require that the mandate of Art. 10a, Vernon’s C.C.P., be followed?
+If the district court accepted a plea of guilty to a misdemeanor accusation, would not that judgment be void for the want of jurisdiction?
+It makes no difference which horn of the dilemma the state may choose. The judgment against this appellant is absolutely void.
+I respectfully enter my dissent to the action of my brethren in here sustaining an absolutely void judgment.
