@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "871"
+decided: "1910-12-07"
+citations: ["60 Tex. Crim. 509"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. Malone v. The State."]
+source_url: "https://static.case.law/tex-crim/60/cases/0509-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4587836
+cites_cases: ["28 Texas Crim. Rep., 355", "38 Texas Crim. Rep., 58", "54 Texas Crim. Rep., 64", "55 Texas Crim. Rep., 15"]
+---
+
+# Malone v. State
+
+## Majority (RAMSEY, Judge.)
+
+RAMSEY, Judge.
+This appeal is prosecuted from a conviction had in the Criminal District Court of Galveston County at the May term of this year, wherein appellant was found guilty of assault with intent to murder, and his punishment assessed at confinement in the penitentiary for a period of two years.
+Appellant is an adult, and the victim of his assault, one James T. Brown, was a young boy about 13 years of age. We gather from the evidence that a funeral procession was at the date of the assault passing along the public streets in Galveston under the direction of the Knights of Pythias Lodge, and that appellant was marshal on the occasion. The young boy and his companion, Alford Scott, testified that as Brown attempted to cross- the street there was as much space between the front carriage and the men walking as the width of a street, and that as he undertook to cross through the procession someone said, “There goes one of them now; get him,” and that thereupon appellant turned around, stepped back and stabbed him with his sword, knocking him from his bicycle; that he crawled out to one side and went over and sat on the edge of the curbing, when a man picked up his bicycle and threw it towards a ditch; that he gave appellant no cause to stab him. That when the procession was returning he came back near the place where he was hurt and identified appellant. He also testifies that he did not know appellant, and had never seen him before the day in question. According to the testimony of Dr. Gammon, who examined young Brown, he found a small puncture wound one-fourth to one-half of an inch deep on his left thigh about one-half inch long; that this wound was caused by a sharp pointed instrument, and could not have been done, as he believed, by a bicycle. Appellant testified in his own behalf, and produced a number of witnesses whose testimony was to the effect in substance that young Brown, as the procession was passing by, was riding on his bicycle at a rapid rate, coming from towards tile north and almost immediately in front of a team of horses; that the driver jerked the horses around as quick as he could and the young boy ran into appellant, and as he did so fell off of his wheel, crawled out and ran off on the south side when appellant picked up the wheel and laid it to one side. They are all positive in their statement that appellant did not appear to strike the little boy with his sword. Appellant in his own behalf emphasizes and enlarges upon this statement, and disclaims any purpose or intent to strike Brown at all, or that he did strike him. His evidence clearly raises the issue that if he struck Brown with his sword, he did not mean to do it. The court submitted the issue of assault with intent to murder, and also instructed the jury that if the injury to Brown was inflicted by appellant, yet if it was unintentionally or accidentally so inflicted, or if they had a reasonable doubt on this issue, they would find appellant not guilty.
+Complaint is made of the charge of the court in that it did not submit the issue of aggravated assault arising under the eighth ground of article 610 of the Penal Code, to the effect that when an assault is committed with a deadly weapon under circumstances not amounting to intent to murder or maim, that the offense is an aggravated assault. - In view of the suddenness of the encounter, the utter lack of motive, and the facts rebutting any intention on the part of appellant to kill this young boy, it seems clear to us that this charge should have been given. Again, if the assault was purposely made and not accidentally, in view of the fact that appellant was an adult male and Brown a minor, the assault would, under that clause of the statute, be aggravated. We think, therefore, that the case must be reversed for the failure of the court to charge on the issue of aggravated assault.
+The judgment is reversed and the cause is remanded.
+Reversed and remanded.
