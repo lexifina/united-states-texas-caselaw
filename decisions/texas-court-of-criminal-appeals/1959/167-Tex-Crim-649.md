@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,498"
+decided: "1959-03-04"
+citations: ["167 Tex. Crim. 649"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Durwood E. Pelton v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0649-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8552922
+cites_cases: ["126 S.W. 2d 977", "136 Texas Cr. Rep. 590", "152 Texas Cr. Rep. 309", "152 Texas Cr. Rep. 569", "152 Texas Cr. Rep. 612", "160 Texas Cr. Rep. 12", "213 S.W. 2d 689", "216 S.W. 2d 192", "216 S.W. 2d 213", "266 S.W. 2d 124"]
+---
+
+# Pelton v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is murder; the punishment, 35 years.
+There is little conflict in the evidence, and it will be summarized. The appellant and the deceased had a business transaction involving $35.00 and some furniture on the day charged in the indictment, and the appellant felt that he had been defrauded. That night he saw the deceased leave a tavern,, demanded the return of his money, and when the deceased stated that he did not have it the appellant assaulted him. According to his confession, he hit the deceased three or four times with his fist, and while the deceased was on the ground, kicked him an unknown number of times in the face with his right foot. The deceased was then picked up and put in an automobile; the appellant got in the back seat with him, ¿nd the automobile was driven around the city for approximately thirty minutes, during which time, according to the state’s witnesses, the appellant continued to beat the deceased. The confession. further recites that they finally found a place “to dump him off” near a warehouse in the industrial district. State’s witnesses testified that the appellant pulled the deceased out of the automobile, kicked and beat him some more, and they then drove away, leaving the deceased lying on the ground, where he was found the next morning in the snow.
+The autopsy showed that the deceased’s death was the result of a number of factors. There was damage to his brain which caused him to lose consciousness. His jaw was broken in three places, which cause an unusual tension on the throat muscles. The blows which he had received caused a swelling of the tissue of his windpipe, and as a result of all three he died from the loss of air. When arrested the next morning, there was blood on the appellant’s shirt, pants and shoes.
+The facts will be discussed more fully in connection with the contentions advanced in the appellant’s brief.
+He first contends that the court erred in admitting the confession. The appellant was arrested at 8:30 in the morning, and the lengthy confession was signed within two hours thereafter. According to the bill, the officer talked to the appellant twenty minutes before “the defendant gave the statement.” In his brief, the appellant states that he was carried to the morgue and shown the body of the deceased prior to the signing of the confession. In his testimony, the appellant says that this trip was made after he signed the confession and because he kept insisting that the deceased was not dead. There is ample evidence that the confession was freely and voluntarily given, and the appellant merely claims that he signed the same because he was told to and that he did not read it, and yet his signature appears on each page.
+Bill of Exception No. 2 complains of the action of the court in permitting the state to plead surprise and prove the contents of a statement which had been made by the witness Maxey. In connection with this bill, the writer deems it sufficient to observe that the procedure which was employed was as near perfect as the writer has observed. When the witness did not testify as expected, the jury was withdrawn, and state’s counsel testified fully as to his prior conversations with the witness and demonstrated that he was in fact surprised. The witness was then questioned from his former statement and admitted that the statement was correct.
+Bill of Exception No. 8 complains of the failure of the court to grant an instructed verdict at the conclusion of the state’s evidence and need not be discussed.
+Bill of Exception No. 4 complains of the failure of the court to “reduce the accusation from murder with malice to murder without malice.” We are cited no authority in support of this contention nor are we aware of any. A death penalty conviction was affirmed in Northern v. State, 152 Texas Cr. Rep. 569, 216 S.W. 2d 192, where it was shown that the accused kicked the deceased around the head with his foot. See also Ray v. State, 160 Texas Cr. Rep. 12, 266 S.W. 2d 124; Phillips v. State, 152 Texas Cr. Rep. 612, 216 S.W. 2d 213, and cases there cited.
+Bill of Exception No. 5 complains that the court permitted the state to re-open its case through the witness Castillon when he was called by the defense. When the witness testified for the the state in making out its case in chief and was tendered to the defense, counsel announced, “I have no questions at this time.” Later, when presenting his defense, Castillon was recalled by appellant and asked to identify a certain receipt. Following this, he was questioned by the state concerning some of his original testimony. The effect of the court’s ruling in permitting such questions at that time was to permit the state to re-open its case, which this court has consistently held that the court might do at any time prior to the completion of the argument, and no error is shown by the bill. See Article 643, V.A.C.C.P., and case there cited.
+Bills of Exception Nos. 6 and 7 relate to the same matter discussed in connection with Bill No. 4 and need not be discussed separately.
+Bill of Exception No 8 complains of the court’s charge on the law of principals. The qualification certifies that such charge was given at the appellant’s request, and no error is presented by the bill.
+Bill of Exception No. 9 complains of that portion of the court’s charge in which he instructed the jury that they must acquit the appellant of murder unless they found that in striking, kicking and stamping the deceased the appellant intended to kill him. His objection was that such instruction did not contain the word “specific” before the phrase “intent to kill.” Recently, in Martin v. State, 152 Texas Cr. Rep. 309, 213 S.W. 2d 689, we held that the word “specific” need not precede the phrase in question.
+A charge similar to the one before us here was approved in Wilson v. State, 136 Texas Cr. Rep. 590, 126 S.W. 2d 977.
+What we have just said disposes of appellant’s contentions presented by his bills numbered 10, 11 and 12.
+By Bill of Exception No. 13, he complains of the failure of the court to charge on the law of circumstantial evidence. We have concluded that the testimony of the witnesses Leon Maxey and Dr. Hausmann take this case out of the circumstantial evidence rule. There was no testimony to support appellant’s contention that the court should have charged on accident.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment is affirmed.
