@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,709"
+decided: "1957-01-02"
+citations: ["164 Tex. Crim. 313"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Howard Waldon Quale"]
+source_url: "https://static.case.law/tex-crim/164/cases/0313-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610632
+cites_cases: ["156 Texas Cr. Rep. 355", "242 S.W. 2d 384", "283 S.W. 2d 50"]
+---
+
+# Ex parte Quale
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant sought release by habeas corpus to prevent his extradition to the state of Colorado. The writ was granted and the appeal is from the order of the district judge, entered after hearing, remanding him to custody to be returned to Colorado.
+The sheriff attached to his return a copy of the Executive Warrant of the Governor of Texas, which was offered in evidence.
+No question is raised but that appellant is the person for whose arrest and extradition the Governor’s warrant was issued.
+Appellant questions the sufficiency of the evidence to identify him as the Howard Waldon Quale charged by the authorities in Colorado with conducting a confidence game.
+To escape extradition on the Executive Warrant of the Governor of this State, ordering his arrest and extradition, it was incumbent upon appellant to show that he was not in fact the person wanted in the demanding state. Ex parte McMillan, 156 Texas Cr. Rep. 355, 242 S.W. 2d 384; Ex parte Fuqua, 162 Texas Cr. App. 126, 283 S.W. 2d 50.
+All of the testimony on the question of appellant’s identity was to the effect that he was the person who was charged in Colorado with the offense of “Confidence Game,” and appellant did not discharge his burden of proving the contrary, nor did he offer any evidence to that effect.
+It is contended that in view of the fact that there is no offense known to the laws of Texas as “confidence game” it must be presumed that there is no such offense in the state of Colorado.
+There appears in the record, marked Defendant’s Exhibit A, copy of the Executive Warrant and the moving papers considered by the Governor in issuing it.
+Among these papers we find reference to certain statutes of the state of Colorado, and what purports to be true copies thereof, among which we find the following:
+“Chapter 40, Article 10, Section 1, Colorado Revised Statutes, 1953, reads:
+“ ‘Every person who shall obtain, or attempt to obtain from any other person or persons, any money or property by means of or by use of brace faro, or any false or bogus checks or by any other means, instrument or device, commonly called confidence games, shall be liable to indictment, and on conviction shall be punished by imprisonment in the penitentiary for any term not less than one year, nor more than twenty years.’
+“Chapter 40, Article 10, Section 2, Colorado Revised Statutes, 1953, reads:
+“ Tn every indictment under Chapter 40, Article 10, Section 2, Colorado Revised Statutes of 1953, it shall be deemed and held a sufficient description of the offense to charge that the accused did, on, etc., unlawfully and feloniously obtain, or attempt to obtain (as the case may be), from A. B. (here insert the name or names of the persons defrauded or attempted to be defrauded), his, her or their money (or property, in the case it be not money), his, her or their property, by means and by use of the confidence game.’ ”
+“Chapter 39, Article 4, Section 1, Colorado Revised Statutes, 1953, reads:
+“ ‘The several courts of this state shall have, and may exercise the same power and jurisdiction to hear, try and determine prosecutions, upon information for crimes, misdemeanors and offenses to issue writs and process and do all other acts therein as in cases of like prosecution under indictment.’ ”
+The complaint and information and affidavit appearing among these supporting papers are in all respects in accordance with the requirements of the Uniform Criminal Extradition Act of this State (Art. 1008a V.A.C.C.P.), and show that appellant is substantially charged with having committed in that state the crime defined by the statutes of Colorado quoted above.
+The judgment is affirmed.
