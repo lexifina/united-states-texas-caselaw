@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,833"
+decided: "1956-02-15"
+citations: ["163 Tex. Crim. 14"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. D. Schoenbeck v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461844
+cites_cases: ["141 Tex. Cr. R. 468", "149 S. W. 2d 968", "159 Tex. Cr. R. 535", "160 Tex. Cr. R. 49", "265 S. W. 2d 811", "266 S. W. 2d 880"]
+---
+
+# Schoenbeck v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+The former opinion delivered in this case is withdrawn and the following substituted therefor:
+This is a conviction for theft, with punishment assessed at two years in the penitentiary.
+This case was submitted to the jury upon the theory of theft by false pretext, as denounced by Art. 1413, P. C., which reads as follows:
+“The taking must be wrongful, so1 that if the property came into the possession of the person accused of theft by lawful means, the subsequent appropriation of it is not theft, but if the taking, though originally lawful, was obtained by any false pretext, or with any intent to deprive the owner of the value thereof, and appropriate the property to the use and benefit of the person taking, and the same is so appropriated, the offense of theft is complete.”
+It will be noted that, under that statute, the offense is not complete until the property has been appropriated by the accused to his own use and benefit. The intent to appropriate the property does not suffice. Black, et al, v. State, 141 Tex. Cr. R. 468, 149 S. W. 2d 968; Massey v. State, 160 Tex. Cr. R. 49, 266 S. W. 2d 880; Redding v. State, 159 Tex. Cr. R. 535, 265 S. W. 2d 811.
+In submitting this case to the jury, the trial court failed to incorporate in his charge the requirement that, in order to convict, the property taken must be appropriated by the accused to his own use and benefit.
+Under the charge as given, the jury were instructed that an intent on the part of the accused to appropriate the property was all that was necessary in order to convict. Such charge was error, under the authorities above cited.
+Proper exceptions pointing out the error appear to have been reserved.
+For the error in the charge, as pointed out, the appellant’s motion for rehearing is granted, the judgment of affirmance is set aside, and the judgment is now reversed and the cause is remanded.
