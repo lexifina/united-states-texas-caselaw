@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,686"
+decided: "1957-01-09"
+citations: ["164 Tex. Crim. 105"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Jones v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2609263
+---
+
+# Jones v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the possession of marijuana; the punishment, 3 years.
+Kenneth Decker, agent of the narcotics division of the Texas Department of Public Safety, testified that he worked undercover in the city of Abilene for some time prior to and following the date charged in the indictment. He stated that he posed as an underworld character, gambled, and drank with the appellant, and bought marijuana from others in his presence with money furnished him by his division and by the city of Abilene, and that, finally, on January 26 the appellant, who was shining his shoes, asked him if he was “looking for grass.” He stated that he answered in the affirmative and indicated that he was in the' market for five “sticks;” whereupon, the appellant reached in his pocket and delivered five cigarettes to him and that he, in turn, delivered $5.00 to the appellant. The appellant was arrested sometime later.
+Expert evidence' was introduced to the effect that the cigarettes contained marijuana.
+The appellant did not testify or offer any evidence in his own behalf.
+The sole question presented for review is whether or not Decker was an accomplice so as to preclude his testimony from being sufficient to support the conviction since the repeal of Section 24(a) of Article 725b, V.A.P.C.
+In Lundy v. State, No. 28,534 (this day decided), (page 111, this volume) we passed upon the identical question. In the Lundy case, the state’s only witness was a secretary for the narcotics division of the Houston Police Department, who occasionally did undercover work for the officers of that division and used money furnished by them. The Lundy case is here controlling.
+The defense of entrapment is not raised by the evidence, and it is sufficient to support the conviction.
+The judgment is affirmed.
