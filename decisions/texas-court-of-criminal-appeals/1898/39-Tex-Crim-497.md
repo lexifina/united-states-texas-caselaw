@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1543"
+decided: "1898-06-25"
+citations: ["39 Tex. Crim. 497"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte George White."]
+source_url: "https://static.case.law/tex-crim/39/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4493434
+cites_cases: ["63 Fed. Rep., 249", "84 N. W. Rep., 354"]
+---
+
+# Ex parte White
+
+## Majority (HURT, Presiding Judge.)
+
+HURT, Presiding Judge.
+The Governor of this State issued the following warrant for the arrest of the relator, to be delivered to one C. W. Simmons, as agent appointed by the Governor of Kansas, to be taken to the State of Kansas, and there tried for forgery: “The State of Texas. To All and Singular the Sheriffs, Constables, and Other Civil Officers of Said State: Whereas, it has been made known to me by the Governor of the State of Kansas that George White stands charged by complaint before the proper authorities with the crime of forgery committed in said State, and that the said defendant has taken refuge in the State of Texas; and whereas, the said Governor, in pursuance of the Constitution and laws of the United States, has demanded of me that I cause the said fugitive to be arrested and delivered to C. .W. Simmons, who is, as is satisfactorily shown, duly authorized to receive him into custody and convey him back to said State; and whereas, said demand is accompanied by a copy of said complaint duly certified as authentic by the Governor of said State: How, therefore, I, 0. A. Culberson, Governor of Texas, by virtue of the authority vested in me by the Constitution and laws of this State and of the United States, do issue this, my warrant, commanding all sheriffs, constables, and other civil officers of this State, to arrest, and aid and assist in arresting, said fugitive, and to deliver him, when arrested, to the said agent, in order that he may be taken back to said State to be dealt with for said crime. In testimony whereof, I have hereto signed my name, and have caused the seal of State to be hereon impressed, at Austin, Texas, this 14th day of May, A. D. 1898. C. A. Culberson, Governor. By the Governor: Jno. H. Cullom, Acting Secretary of State.” [Seal of State of Texas.]
+The sheriff of Galveston County arrested relator by virtue of this warrant. Relator applied to Judge Gavin for the writ of habeas corpus, which was granted. Upon the trial the relator was remanded to the custody of the sheriff, and from this order relator appeals to this court.
+In answer to the writ of habeas corpus, the sheriff relied upon the Governor’s warrant as authority for holding appellant. The relator excepted to the warrant because it was not based upon either an affidavit or indictment. The law prescribes no form for this warrant, but, when the warrant issued in this case is inspected, it will be found to contain all that was necessary. It is very clearly ample authority for the sheriff to arrest appellant and deliver him to Simmons, the extradition agent. A distinction is sought to be made between complaint and affidavit. There is none. A complaint is an affidavit. The- demurrer to the return of the sheriff was properly overruled.
+The case should have been permitted to rest here, because the presumption obtained that the Governor of this State issued his warrant upon proper authority; that the requisition and the papers accompanying the same were in proper form, etc.,—in fact, that a case was presented to him -requiring the warrant, arrest, and extradition of relator. The State, however, introduced in evidence a certified copy of the requisition and all papers pertaining thereto. Counsel for relator objected to the introduction of these copies in evidence. If the objection had been sustained, tin, judge trying the cause should have remanded relator, because the warrant was sufficient, and because the presumption must have been that it was rightfully, and not improperly, issued. This being so, the burden was on relator to show that the warrant was not legally issued. This could have been done by introducing in evidence the requisition papers; and if, in fact, the Governor of Kansas had not complied with the law relating to this matter, appellant should have been discharged. But let us suppose that the certified copies of the requisition papers were admissible; relator could attack the regularity of the .proceedings, notwithstanding his objections to their admissibility in evidence. Row, if these copies were not admissible, relator should have been remanded. If they were, evidently the law pertaining to this proceeding has been strictly complied with. The requisition made upon the Governor of this State is in proper form, the papers accompanying same demonstrate that appellant was charged with forgery by an affidavit, and these papers are certified to as being authentic by the Governor of Kansas, as the law requires. The judgment is affirmed.
+Affirmed.
