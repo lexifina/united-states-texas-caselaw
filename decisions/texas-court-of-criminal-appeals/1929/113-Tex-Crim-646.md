@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "12641"
+decided: "1929-10-23"
+citations: ["113 Tex. Crim. 646"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Albert Shaw v. The State."]
+source_url: "https://static.case.law/tex-crim/113/cases/0646-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5785083
+cites_cases: ["267 S. W. 985", "298 S. W. 893", "99 Tex. Cr. R. 50"]
+---
+
+# Shaw v. State
+
+## Majority (CHRISTIAN, Judge. LATTIMORE, Judge.)
+
+CHRISTIAN, Judge.
+The offense is possession for sale of liquor containing in excess of one per cent of alcohol by volume; the punishment confinement in the penitentiary for one year..
+After the adjournment of the court, appellant filed an appeal bond, which was approved by the sheriff. The record does not disclose that the appeal bond was approved by the court trying the case. Article 818, C. C. P., requires that the appeal bond be approved by the sheriff and the court trying the case, or his successor in office. In the absence of a recognizance or appeal bond approved as the law requires, this court is without jurisdiction to pass on the merits of the case. Jones v. State, 99 Tex. Cr. R. 50, 267 S. W. 985; Gonzales v. State, 298 S. W. 893.
+The appeal is dismissed.
+Appeal dismissed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+ON MOTION TO REINSTATE APPEAL.
+LATTIMORE, Judge.
+This appeal was dismissed at a former term of this court for the reason that the appeal bond filed after the adjournment of the trial term did not show to have been approved by the proper authorities. Appellant asks for a certiorari, accompanying his petition by a duly certified copy of said appeal bond which shows that same was in fact approved by the sheriff and the district judge. Without going through the formality of requiring the issuance of a writ of certiorari, we have reinstated the appeal and considered the case upon its merits. The facts seem ample to support the judgment of conviction.
+Bills of exception Nos. 1 and 2 complain of the refusal of special charges, but in neither bill does the special charge therein referred to appear, and in such case it is impossible for us to determine the sufficiency of the complaint, the bill failing to make apparent by its own recitals, the error complained of. A bill of exceptions complaining of the refusal of a special charge should set out the charge referred to. An examination of said special charges, which appear elsewhere in the record without exception to their refusal, makes it plain that no error was committed in declining to give same.
+Bill of exceptions No. 3 complains of the overruling of an objection to questions asked of W. A. Pollard as to what he found in a house searched by him. The bill wholly fails to set out the testimony, if any thereafter given by said witness. The same thing is true of the complaints in bills of exception Nos. 8 and 9.
+Bills of exception Nos. 4 and 5 complain that testimony was given of the finding of a large quantity of liquor in the house that' was searched and claimed to be possessed by the accused, the exact ground being that only a portion of the liquor found was analyzed and shown to have an alcoholic content of more than one per cent by volume, and that it was error to receive testimony of the finding of the remainder of the liquor. We would not regard this as error, but in view of the fact that the jury gave to the accused the lowest penalty, and that this would have been the least punishment which could have been accorded if the testimony had referred only to the liquor that was actually analyzed, we will not discuss the supposed error in the introduction of the remainder.
+Appellant complains that he was not allowed to prove by the searching officer that two women who were found at the house searched, had paid fines for having home brew in their possession. The .record makes no suggestion as to when or where, or under what circumstances the fines referred to were paid, and we are at a loss to know how appellant could have been benefited by such .testimony.
+Bill of exceptions No. 7 falls in the same category as bills Nos. 8 and 9. A question was asked, objected to, and the objection overruled, but the bill.fails to show what the testimony of the witness was, if he gave any.
+Finding no error in the record, the judgment will be affirmed.
+Affirmed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+In his motion for rehearing for the first time appellant calls attention to the fact that while he is charged with possession for sale of liquor containing in excess of one per cent of alcohol by volume, in the court’s charge to the jury he told them that our statutes provide that the term “intoxicating liquor” shall include any potable liquor containing in excess of one per cent alcohol by volume; also that in said charge the. jury were told that wherever possession for the purpose of sale is made unlawful the possession of more than one quart of potable liquor containing in excess of one per cent of alcohol by volume, is prima facie evidence that said person possessed same for the purpose of sale, etc. Appellant contends in his motion that the giving of this charge was such misstatement of the law and in such violation of his rights as to make it fundamental error, and that therefore this case should be reversed for the giving of such charge, even though no exception was taken to same on this ground and said error was not complained of in the motion for new trial. Art. 658, C. C. P., provides in terms that in felony cases the judge shall deliver a written charge distinctly setting forth the law applicable to the case. Mr. Vernon cites hundreds of cases in his notes under said article of the statute supporting the proposition that by the expression “the law applicable to the case” is meant the law applicable to the case as made by the proof — the law applicable to the pleadings and the evidence.
+In the notes under Art. 666, 1925 Vernon’s Ann. C. C. P., appears the following statement, in substance, that if an error in the charge be not excepted to at the proper time during the trial, the conviction will not be disturbed unless it be an error of fundamental nature; this is, be a material misdirection of the law applicable to the case and be such affirmative error, or such error of omission as is calculated, under all the circumstances of the case, to injure the rights of the defendant, in which case the conviction should be set aside. Numerous authorities are cited in support of this proposition. Giving application to the principle announced, under the facts of the instant case we have the following: The accused was charged with possession for the purpose of sale liquor which contained more than one per cent of alcohol by volume, but which was not shown by proof to be intoxicating. We have held that in such case it is erroneous to give in charge to the jury the provisions of Art. 671, P. C., which authorizes a charge in an appropriate case to the effect that possession of more than a quart of intoxicating liquor may be taken as prima facie evidence of the fact that such possession is for the purpose of sale. Johnson v. State, 17 S. W. Rep. (2d) 1074; Leming v. State, 17 S. W. Rep. (2d) 1075. The giving of said charge in this case was not excepted to, nor was the proposition that giving same was erroneous, advanced in the motion for new trial.
+We are constrained to the view that the giving of the charge under the facts of this case was fundamentally erroneous. While appellant did not admit his possession of the potable liquor described in the indictment, the State’s testimony was sufficient to justify the jury in believing him in possession of same. No witness testified to any sale of liquor by appellant, and the inference of possession for sale rested solely upon the quantity of liquor possessed, aided by slight circumstances otherwise. It being then established by the State’s testimony that appellant possessed one hundred bottles of said potable liquor, a quantity considerably in excess of one quart, the court’s instruction to the jury that possession by the appellant of more than a quart of such liquor would be prima facie evidence of the fact that he possessed it for purposes of sale, appears to us to be a misstatement of the law of such materiality as to render it exceedingly probable that the rights of the accused were affected injuriously thereby. So believing, the motion for rehearing will be granted, the judgment of conviction set aside, and the judgment will now be reversed and the cause remanded.
+Reversed and remanded.
