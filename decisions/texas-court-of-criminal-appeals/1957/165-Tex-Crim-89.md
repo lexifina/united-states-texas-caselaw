@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,097"
+decided: "1957-06-26"
+citations: ["165 Tex. Crim. 89"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Choate Rawlings v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2614868
+---
+
+# Rawlings v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+This is an appeal from a misdemeanor conviction for driving a motor vehicle upon a public road while intoxicated, with punishment assessed at 30 days in jail and a fine of $500.
+The question of whether appellant was intoxicated when two Texas Highway Patrolmen observed him driving an automobile on a public highway and arrested him was closely contested.
+The arrest occurred about 6:30 P.M. and the arresting officers and a deputy sheriff, who first saw appellant between 7:15 and 8:45 P.M., expressed the opinion that he was intoxicated.
+Appellant admitted having consumed “two jiggers of alcohol” between 4:30 and 5:30 P.M., but denied that he was intoxicated when he was stopped by the officers. He supported his testimony with that of a number of witnesses who observed him, some between 8:30 and 10 P.M. and another who was with him from 4:30 to 5:30 P.M. These witnesses expressed the opinion that he was not intoxicated when they saw him.
+The motion for new trial alleged and the evidence offered on the hearing of the motion established the following undisputed facts.
+The jury first divided evenly on the question of guilt.
+While so divided, the juror Yeager stated in substance: “Based upon my personal experience, a man who is under the influence of alcohol will be sober in two or two and one-half hours.”
+One juror stated that he or she knew personally the deputy sheriff who testified for the state and that he was honest and could certainly be believed.
+A juror stated “The men who are highway patrolmen for the State of Texas are of the highest character, and we must rely upon them.”
+After receiving this and other information from their fellow jurors’ personal experience and knowledge as to matters which were not in evidence, the jury agreed upon a verdict of guilty and assessed the punishment mentioned.
+This undisputed evidence established receipt of other testimony by the jury after retiring to deliberate upon the case which, under the provisions of Art. 753(7) V.A.C.C.P., requires that a new trial be granted.
+The judgment is reversed and the cause remanded.
