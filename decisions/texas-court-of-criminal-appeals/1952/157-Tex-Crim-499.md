@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,844"
+decided: "1952-05-14"
+citations: ["157 Tex. Crim. 499"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dynashous Washington v. State."]
+source_url: "https://static.case.law/tex-crim/157/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2573250
+---
+
+# Washington v. State
+
+## Majority (BEAUCHAMP, Judge.)
+
+BEAUCHAMP, Judge.
+Appellant was assessed a penalty of twenty years in the penitentiary upon his conviction for murder with malice.
+We have no statement of facts in the record and the only bill of exception complains of the failure of the court to grant him the privilege of filing a motion for a new trial, setting up as grounds newly discovered evidence.
+This case was set for submission and counsel appeared in oral argument on the 23rd day of April, 1952, at which time counsel was given an extended period of one week in which to file his brief. None has been filed and we are not in position to discuss the question which he attempted to raise.
+The record shows that appellant was tried and the verdict rendered on the 5th day of November, 1951. On the 1st day of January, following, he was called before the court to be sentenced and at that time raised a question about his newly discovered evidence. On the 3rd day of January, 1952, 59 days after the verdict was rendered, he presented his motion for a new trial. It is indicated that he expects to prove by named witnesses, whose affidavits were attached, that several pistol shots were fired at him before the fatal shot by a shotgun. We have no indication, however, that an issue of self-defense was brought into the case at the trial and it is definitely shown that appellant did not, on the advice of his attorney, testify in his own behalf. We find no grounds for the contention that the trial court committed error in refusing to consider the motion for a new trial.
+The judgment of the trial court is affirmed.
