@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,817"
+decided: "1955-11-30"
+citations: ["162 Tex. Crim. 367"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Edward Riley v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2463273
+---
+
+# Riley v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Appellant was convicted of unlawfully selling whisky in a dry area, with three prior convictions for offenses of like character alleged to enhance the penalty, and assessed punishment of a fine of $1,000.00 and two years in jail.
+The state’s testimony shows that Sheriff Homer Whisnand gave one, Lee Roy Braley, a marked $5.00 bill with which to purchase some whisky. Braley then went out on the Lamesa Highway, some two miles from the town of Snyder in Scurry County, and purchased a pint of whisky from a man and in the transaction gave him the $5.00 bill in payment of the whisky. It is further shown that deputy sheriffs, William Love and Howard Gibbons, from a distance of four or five hundred yards, and with the use of field glasses, watched the transaction in which Braley purchased the whisky. Both deputy sheriffs identified the appellant as the person from whom Braley had made the purchase. Braley testified that the appellant was not the man from whom he purchased the whisky. The evidence further shows that upon the appellant’s arrest, a short time after the transaction, he had in his possession the $5.00 bill which had been marked by the sheriff.
+It was stipulated that Scurry County was a dry area on the date that the offense was alleged to have been committed.
+The state offered in evidence the informations and judgments entered in the three cases alleged in the information for enhancement purposes, showing that appellant had three times previously been convicted of an offense of like character, and it was stipulated by and between the parties that the appellant was one and the same person who was convicted in the three cases.
+Appellant contends that the second, third and fourth paragraphs of the information are fatally defective because in describing the three prior convictions the style of the cases was not alleged. This objection is raised for the first time on appeal, as appellant did not except to or file a motion to quash the information in the trial court, and also made no objection to the court’s charge which authorized the enhanced punishment in the event the jury found that appellant had been previously convicted of the three alleged prior offenses.
+An examination of the three paragraphs reflects that in charging the three prior convictions the name of the court, the date of the conviction, and the number of the cause in which the judgment was entered are alleged, together with a description of the offense.
+Although it is the better practice for the state’s pleading, in charging a prior conviction for enhancement purposes, to allege the style of the case in which the judgment of conviction was entered, the failure to so allege does not render the pleading fatally defective. This is especially true where no exception is reserved in the trial court because of such omission.
+Appellant next insists that the case should be reversed because of a fatal variance between the date of the prior conviction alleged in Paragraph 4 of the information and the proof. In such paragraph the date was alleged as September 9, 1952, and the judgment of conviction offered in evidence by the state was dated the 15th day of September, 1952.
+The record shows that after the state had introduced in evidence the informations and judgments in the three numbered causes, alleged in Paragraphs 2, 3 and 4 of the information in proof of the three prior convictions charged therein, the appellant stipulated that he was one and the same person who was convicted in said three causes. By such stipulation appellant admitted that he had three times been convicted of the offenses of like character alleged in the three numbered causes in the information. Under such stipulation and admission appellant, as a third offender, was subject to quadruple punishment under Article 61, V.A.P.C. Hence the state was not required to depend upon the prior conviction alleged in Paragraph 4, and the variance became immaterial.
+We have examined the information in the light of the appellant’s contention that it fails to allege that after the commission of the oldest offense in point of time he committed the next offense and was convicted therefor, and find that it sufficiently alleges that each prior subsequent conviction was for an offense committed after the proceeding conviction and that the previous convictions were prior to the commission of the primary offense alleged in the information.
+Finding the evidence sufficient to support the conviction, the judgment of the trial court is affirmed.
+Opinion approved by the court.
