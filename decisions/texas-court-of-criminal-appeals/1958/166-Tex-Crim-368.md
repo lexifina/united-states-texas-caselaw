@@ -1,0 +1,52 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,732"
+decided: "1958-06-11"
+citations: ["166 Tex. Crim. 368"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ethelbert Williams v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0368-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2618183
+cites_cases: ["107 Texas Cr. Rep. 266", "147 Texas Cr. Rep. 354", "160 Texas Cr. Rep. 302", "164 Texas Cr. Rep. 488", "180 S.W. 2d 928", "268 S.W. 661", "296 S.W. 296", "300 S.W. 2d 87"]
+---
+
+# Williams v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Upon a trial before the court without a jury, appellant was convicted of unlawfully possessing policy paraphernalia and his punishment assessed at confinement in jail for 45 days.
+The state’s testimony shows that around noon on the day in question Vice-Squad Officers Edgar G. Page and Tim McCormick, of the Houston Police Department, went to 3412 and 3414 Lamar Street in the city for the purpose of searching-the premises for gambling and policy paraphernalia. At such time the officers were armed with two search warrants, which authorized a search of the premises for gambling paraphernalia, that had been issued upon the affidavit of Officer Page. Upon their arrival, the officers first went to the address at 3414 Lamar and after exhibiting the search warrant to a woman at the door entered the house and proceeded to search the premises. In the search certain policy books, hit slips, rate cards and policy plays were found in the middle room of the house. During the search Officer Page proceeded to go to 3412 Lamar for the purpose of searching the premises at that address. Upon being admitted by a woman present, Officer Page proceeded to search the house and found some policy slips and money in one of the rooms. While making the search appellant entered and upon being asked by Officer Page if he had any policy paraphernalia, reached to his left leg and handed the officer some policy plays which were strapped to his leg and also a sack of money. Thereupon, appellant was placed under arrest and taken to the police station where he made a written statement to Officer McCormick around 2:50 o’clock P.M., after being duly warned, in which he stated he had been writing policy for about three weeks and admitted that the policy paraphernalia found by the officers at both addresses and that which was on his person belonged to him.
+It was shown by the testimony of Officer McCormick that all of the items found in the search and in appellant’s possession were designed and adaptable for use in connection with a policy game.
+Appellant did not testify or offer any evidence and no brief has been filed in his behalf.
+We find the evidence sufficient to support the judgment of conviction.
+Appellant excepted to the information in the trial court on the ground that it did not set forth the written instruments which formed the basis of the offense charged and did not describe the offense with sufficient particularity as to enable him to prepare his defense. While no exception is shown to the action of the court in overruling the exceptions we have examined the information and find the allegations therein sufficient to charge an offense. The failure to set out the written instruments that constituted the policy plays which the accused was charged with having possessed did not render the pleading insufficient to charge an offense. Cagle v. State, 147 Texas Cr. Rep. 354, 180 S.W. 2d 928.
+Appellant objected to the testimony showing the search of the premises on the ground that the search warrants were invalid because they were issued for the search of private residences upon the affidavit of only one person rather than upon the affidavit of two credible persons as required under the provisions of the Texas Liquor Control Act, Art. 666-20, V.A.P.C.
+The warrants in question did not authorize a search for intoxicating liquor but authorized a search for gambling paraphernalia. It is apparent that the warrants were not issued under the provisions of the Texas Liquor Control Act, Art. 666-20, supra, but were issued under Art. 633, V.A.P.C., of the gambling statutes which provides that a warrant to search for gambling paraphernalia may be issued upon “an affidavit .made by a reputable citizen.” The provisions of the Texas Liquor Control Act, Art. 666-20, supra, relate only to search warrants for intoxicating liquor and do not apply to search warrants issued under the gaming statute for gambling paraphernalia. Story v. State, 107 Texas Cr. Rep. 266, 296 S.W. 296. The search warrants issued upon the affidavit of one credible person in the instant case were valid and appellant’s objection to the testimony was properly overruled.
+Appellant objected to the introduction in evidence of his written statement on the ground that following his arrest he had not been immediately taken before a magistrate. We find no error in the action of the court in admitting the confession in evidence. The failure to take an accused forthwith before a magistrate does not in itself, standing alone, vitiate a confession. Sampson v. State, 160 Texas Cr. Rep. 302, 268 S.W. 661. There is nothing in the record to indicate that the failure to take appellant forthwith before a magistrate in any manner affected the voluntary nature of his confession.
+The other objections and exceptions appearing in the record have been considered and do not reflect error.
+The judgment is affirmed.
+Opinion approved by the Court.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+I have not changed my views from those set out in my concurring opinion in Helton v. State, 164 Texas Cr. Rep. 488, 300 S.W. 2d 87, to the effect that a warrant to search a private residence must be based upon the affidavit of two credible persons.
+The sole and only basis for requiring a search warrant to search one’s private residence is to furnish a procedure by and through which the search is made lawful and therefore not within the condemnation of the constitutional guarantee against unreasonable searches.
+It is the place, property, and residence that are to be searched which the Constitution protects. It is not the article or property that is searched for and sought to be found by the search that the Constitution protects from unreasonable search. Yet that is exactly what my brethren hold when they say that a search warrant to search one’s private residence for liquor must be based, in obedience to Art. 666-20, Vernon’s P.C., upon the affidavit of two credible persons but that in order to search the same private residence for any other property the search warrant could be issued upon the affidavit of but one credible person.
+Not only does such construction destroy and completely nullify the constitutional guarantee against the search of one’s residence but it also destroys the statute (Art. 666-20, Vernon’s P.C.) which requires the affidavit of two credible persons for a search warrant to issue to search for liquor.
+As pointed out in the Helton case, supra, the search warrant, there, authorized the search of the private residence for stolen property. The right to search for marijuana was nowhere mentioned therein. In executing the search warrant and searching the private residence thereunder, the officers found no stolen property but, instead, found some marijuana — which was the basis of the prosecution and conviction of Helton.
+If a search of a private residence for stolen property issued upon the affidavit of one person authorizes the search for, the finding, and the introduction in evidence of marijuana found in the residence, then such warrant would authorize the search for, the finding, and the introduction in evidence of intoxicating liquor found in the private residence at that time.
+Thus, the statutory requirement that a warrant to search a private residence for intoxicating liquor must be based upon the affidavit of two credible persons is and can be completely nullified.
+But there is a far more significant reason which supports my contention that all search warrants to search a private residence must now be based upon the affidavit of two credible persons. There is no place in our jurisprudence for discrimination between or conflicts in the statutes of this state. Here, the subject being dealt with is the search of one’s private residence. By one set of statutes the search of one’s private residence is authorized upon the affidavit of one credible person, while by another statute the search of that same private residence is authorized only upon the affidavit of two credible persons. Thus there is shown to be a direct conflict between the two statutes, with a different procedure prescribed as a condition precedent to the attainment of the same end.
+Where two statutes are in direct conflict as to the same subject, neither statute is valid and both must fall.
+On the other hand, if the two statutes can be reconciled then the construction which preserves the statutes rather than that which destroys should be adopted.
+To say, here, that a private residence may be lawfully searched upon the affidavit of one person destroys that statute which requires that such a search is authorized only upon the affidavit of two persons.
+The two stautes are in direct conflict upon the same subject, that subject being the lawfulness of a search of one’s private residence.
+On the other hand, to require the affidavit of two persons to search a private residence preserves both statutes and the constitutional guarantee against unreasonable search and seizure.
+The search warrant in this case was invalid and did not authorize the search of the private residence.
+I respectfully dissent.
