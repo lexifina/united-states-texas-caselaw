@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,135"
+decided: "1957-10-30"
+citations: ["165 Tex. Crim. 367"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Leaton Eugene Akin v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610813
+---
+
+# Akin v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Art. 6687b, Subsection 4 of Sec. 32, Vernon’s R.C.S., makes it unlawful for one to fail or refuse to surrender to the Texas Department of Public Safety, on demand, any operator’s, commercial operator’s, or chauffeur’s license which has been suspended, cancelled, or revoked, as provided by law.
+This is an appeal from a conviction for violating that statute, with punishment assessed at fifteen days’ confinement in jail and a fine of $100.
+It will be noted that the offense denounced by the statute is complete only when the Texas Department of Public Safety has first made demand that the license be surrendered.
+It follows, therefore, that for an information to charge a violation of that statute there must be an allegation that a demand was made for the surrender of the license.
+The instant information carries no such allegation, but charges only that the appellant did “ * * * * fail to return to the Department of Public Safety his Texas Operator’s License and registration after the same had been duly suspended by said Department.”
+Upon its face, the information does not charge a violation of the law and is therefore insufficient to support a conviction.
+What we have said here is not to be construed as a determination of the validity of the statute. That question is not reached or decided.
+For the reason stated, the conviction is reversed and the prosecution is ordered dismissed.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON state’s motion for rehearing
+WOODLEY, Judge.
+A re-examination of the record convinces us that the state was seeking to obtain a conviction under Art. 6701h, Sec. 31, V.C.S., with a jail term or fine, or both, as provided in Sec. 32 of said Art. 6701h V.C.S.
+The complaint and information nowhere disclose whether the license which appellant failed to return had been suspended by the Texas Department of Public Safety after a motor vehicle accident report under authority of Art. 6701h V.C.S., or had been suspended under authority of Art. 6687b V.C.S., Sec. 22 or 24. ,
+If such license had been suspended “as herein provided” (under Art. 6701h, Sec. 5) the punishment assessed against appellant being within the terms of Sec. 32 was authorized.
+On the other hand, if appellant’s operator’s license had been duly suspended under authority of Sections 22 or 24 of Art. 6687b V.C.S., then the punishment for failure to surrender such license is found in Section 44 of said article, which provides for a fine only, and the jail term assessed against appellant would not be authorized.
+Because the complaint and information fail to allege that appellant’s operator’s license had been suspended as provided in Art. 6701h, Sec. 5, V.C.S., they are fatally defective.
+The State’s motion for rehearing is overruled.
