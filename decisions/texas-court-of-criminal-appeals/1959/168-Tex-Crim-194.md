@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,692"
+decided: "1959-04-29"
+citations: ["168 Tex. Crim. 194"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Martinez Hernandez v. Stat."]
+source_url: "https://static.case.law/tex-crim/168/cases/0194-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2625696
+cites_cases: ["104 S.W. 2d 866", "132 Texas Cr. Rep. 438", "140 Texas Cr. Rep. 38", "142 Texas Cr. Rep. 194", "143 S.W. 2d 953", "152 S.W. 2d 342"]
+---
+
+# Hernandez v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The information was in three counts; count one charged the sale of beer in a dry area at 3:45 P.M. on October 12, 1958; count two charged the possession of beer in a dry area for the purpose of sale at 3:50 P.M. on October 12, 1958; count three charged that on October 12, 1958, the appellant “did then and there unlawfully maintain and operate a building and place where alcoholic beverages were stored, kept and sold in violation of the laws of the State of Texas; the maintenance and operation of said building and place being then and there a common nuisance, as that term is defined by the Texas Liquor Control Act.” Punishment was by the court assessed as follows: Count one, a fine of $200.00; count two, a fine of $100.00; and count three, ten days in jail and a fine of $400.00.
+The state’s evidence reflects that Texas Liquor Control Inspector Russell drove up to appellant’s home in the rural section of Lubbock County with Inspector Sparks concealed in the turtle of his automobile at 3:40 P.M. on the day in question, went to the back door alone and bought six cans of beer from the appellant for $3.00, returned to his automobile with the beer, got Sparks out of the turtle, and the two returned to the appellant’s home where they seized one can of beer which was iced in a container on the floor and several beer cans from the hands of those who were there assembled.
+In support of count three, the court admitted testimony of Inspector Hall that he had on prior occasions purchased liquor from the appellant at her home and, while there, observed other people drinking beer.
+Appellant, testifying in her own behalf, denied the sale to Russell, and she was corroborated by the testimony of several of those who were in her home on the day in question.
+Because of our disposition of this case, most of appellant’s contentions need not be discussed.
+We find the evidence sufficient to support the conviction under count one.
+We find the evidence insufficient to support the conviction under counts two and three and, in this connection, call attention to the fact that as to count three there was no proof or stipulation as to the dry status of the area. As to count two, the proof showed the possession of one can of beer which the purchaser of the other six said remained and several empty or partially empty beer cans in a private residence stipulated to be in a dry area. As to count three, the proof showed even less than the second count, because it was not alleged, proved or stipulated that this private residence was in a dry area.
+We express serious doubt as to the sufficiency of such count as set forth above. See Carr v. State, 132 Texas Cr. Rep. 438, 104 S.W. 2d 866; Commander v. State, 140 Texas Cr. Rep. 38, 143 S.W. 2d 953; and Lenox v. State, 142 Texas Cr. Rep. 194, 152 S.W. 2d 342.
+The judgment as to count one is affirmed; the judgments as to counts two and three are reversed, and the prosecution under count three is ordered dismissed.
+It is so ordered.
