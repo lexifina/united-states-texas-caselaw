@@ -1,0 +1,65 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "6339"
+decided: "1921-06-01"
+citations: ["89 Tex. Crim. 432", "231 S.W. 781"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Laura Gradington and Ora Jackson, alias Ora Jefferson."]
+source_url: "https://static.case.law/tex-crim/89/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4803923
+cites_cases: ["1 Stat. 302", "114 U. S. 642", "114 U. S., 642", "116 U. S. 80", "116 U. S., 80", "170 S. W. 1098", "170 S. W. Rep., 1098", "39 Tex. Cr. R. 497", "39 Texas Crim. Rep., 497", "46 S. W. 639", "75 Tex. Cr. R. 320", "75 Texas Crim. Rep., 320", "8 Am. St. Rep. 440"]
+---
+
+# Ex parte Gradington
+
+## Majority (HAWKINS,)
+
+HAWKINS,
+On March 30, 1921, relators filed an application for writ of habeas corpus before Honorable S. G. Tayloe, Judge of the 45th District Court, of Bexar County, Texas. The applications were in proper form and will not be set out in full. The applications were granted, and in response John W. Tobin, Sheriff of Bexar County, responded that 'he was holding the relators by virtue of an extradition warrant issued by the Governor of Texas, directing delivery of the parties to Robert B. Stubbs, agent of the State of Louisiana, to convey the relators back to that State for trial.
+Prior to the issuance of the extradition warrant an affidavit had been filed before a Justice of the Peace of Bexar County to the effect that the relators were fugitives from justice from the State of Louisiana, and they were held temporarily under this affidavit.
+The record seems to show that the hearing upon the application was begun on April 8, but was continued or postponed until a later date. At the time of the first hearing it is made to appear from the record that the requisition issued by the Governor of Louisiana recited that the relators were charged by “information” in the State of Louisiana, and that a certified copy of the information accompanied the requisition. The warrant of extradition issued by the Governor of the State of Texas upon that requisition followed the recital in the requisition, and recited that a copy of the information accompanies the requisition.
+We may infer that between the original hearing, which was begun on April 8, and the final hearing, that the Texas authorities holding the relators ascertained that a requisition could not be honored by the Governor of this State unless it was accompanied by a certified copy of an “indictment” or “affidavit” charging an offense against relators in the demanding State; and that the authorities sought from the Governor of Louisiana a new requisition on the Governor of Texas, accompanied by a certified copy of an affidavit, upon which new requisition the Governor of Texas issued a new extradition warrant, and the Sheriff of Bexar County, by an amended answer, set up the fact that he was holding the relators under the last extradition warrant which had been placed in his hands. Upon the final hearing of the matter on April 30 the relators were remanded to the custody of John W. Tobin, Sheriff of Bexar County, from which judgment they appealed to this court.
+There appears in the statement of facts upon the final hearing the following requisition from the Governor of Louisiana.
+EXHIBIT 'G’
+STATE OF LOUISIANA
+Executive Department
+The Governor of the State of Louisiana to the Governor of State of Texas: WHEREAS, Ora Jackson, alias Ora Jefferson and Laura Gradington (colored) stand charged in the Parish of Orleans in this State, with the crime of larceny from the person—by affidavit and it has been represented to me that they have fled from justice and have taken refuge in the State of Texas
+“And, WHEREAS, agreeably to the Constitution of the United States, and an Act of Congress passed February 12, 1793, I have made application to his Excellency the Governor of the State of Texas for the surrender of the said parties fugitive from justice, and have also, in pursuance of the powers vested in me by law appointed
+“ROBERT B. STUBBS, Agent on the part of the State of Louisiana, for the purpose of receiving the said parties from the constituted authorities of the said State of Texas whenever they shall have been surrendered in accordance with such application, and bringing them into this State to be dealt with according to law.
+“These are therefore to request and require all persons to permit the said ROBERT B. STUBBS, Agent, as aforesaid, to execute the trust imposed on him and to render all lawful and necessary assistance in the premises.
+“This State will not be responsible for any expense attending the execution of the Requisition for the arrest and delivery of fugitives from Justice.
+“IN TESTIMONY WHEREOF, I have hereunto set my hand and caused to be affixed the Great Seal of the State of Louisiana.
+WITNESS JOHN M. PARKER, Governor of our said State, at the City of Baton Rouge, this the 11th day of April in the year of our Lord, nineteen hundred and twenty one and of the Independence of the United States of America, the one hundred and forty-fifth and of the State of Louisiana one hundred and ninth. By the Governor.
+(SEAL) • John M. Parker.
+R. H. Flower. " -:
+Asst. Secretary of State.”
+And following that the extradition warrant issued by the Governor of the States of Texas, as follows:
+EXHIBIT £F’
+xn the name and .by the authority of THE STATE OF TEXAS Executive Department
+TO ALL AND SINGULAR THE SHERIFFS, CONSTABLES, AND OTHER CIVIL OFFICERS OF SAID STATE:
+“WHEREAS, it has been made known to me by the Governor of the State of Louisiana that Ora Jackson alias Ora Jefferson and Laura Gradington (colored) stand charged by affidavit before the proper authorities, with the crime of Larceney from the person committed in said State and that the said defendant have taken refuge in the State of Texas; and WHERAS, the said Governor, in pursuance of the Constitution and Laws of the United States, had demanded of me that I cause the said fugitives to be arrested and delivered to
+ROBERT B. STUBBS
+who is as is satisfactorily shown, duly authorized to receive them into custody and convey them back to said State; and WHEREAS, said demand is accompanied by copy of said affidavit duly certified as authentic by the Governor of said State.
+“NOW, THEREFORE, I, PAT M. NEFF, Governor of Texas, by virtue of the authority vested in me by the Constitution and Laws of this State, and the United States do issue this my WARRANT, commanding all Sheriffs, Constables, and other civil officers of this State, to arrest and aid and assist in arresting said fugitives and to deliver them when arrested to the said Agent.in order that they may be taken back to said State to be dealt with for said crime.
+“IN TESTIMONY WHEREOF, I have hereunto signed my name and have caused the Seal of State to be hereon impressed at Austin, Texas, this 14th day of April A. D. 1921.
+By the Governor,
+Pat M. Neep, Governor.
+S. T. Staple,
+(Seal) Secretary of State.”
+The affidavit which is required to accompany the requisition was not introduced in evidence, and the contention of relators before this court is that: because the record fails to show that the requisition was accompanied by a certified copy of the affidavit, that relators should be discharged.
+Under the Act of Congress on the subject of extradition it is absolutely necessary and is an essential prerequisite that the requisition paper be accompanied by a certified copy of the affidavit or indictment. That has long been the settled law, both by the decisions of this State and the United States. See Ex Parte Lewis, 75 Texas Crim. Rep., 320, 170 S. W. Rep., 1098; Roberts v. Reilley, 116 U. S., page 80, 6th Sup. Ct„ 291; 29 (L. Ed.), 544.
+While it is necessary that an authenticated copy of an affidavit or indictment accompany the requisition-, it does not follow by any means that relator should be discharged because the record in this case fails to show such certified affidavit. In the very case to which we are cited by relators—Roberts v. Reilley, supra, Justice Matthews, delivering the opinion for the Supreme Court of the United States, uses the following language:
+“It must appear, therefore, to the Governor of the State to whom such a demand is presented, before he can lawfully comply with it; first, that the person demanded is substantially charged with a crime against the laws of the State from whose justice he is alleged to have fled, by an indictment or an affidavit, certified as authentic by the Governor of the State- making the demand; and second, that the person demanded is a fugitive from the justice of the State the executive authority of which makes the demand.
+“The first of these prerequisites is a question of law and is always open upon the face of the papers to judicial inquiry, on an application for a discharge under a writ of habeas corpus,. The second is a question of fact, which the Governor of the State upon whom the demand is made must decide, upon such evidence as he may deem satisfactory. How far his decision may be reviewed judicially in proceedings in habeas corpus, or whether it is not conclusive, are questions not settled by harmonious judicial decisions, nor by any authoritative judgment of this court. It is conceded that the determination of the fact by the executive of the State in issuing his warrant of arrest, upon a demand made on that ground, whether the writ contains a recital of an express finding to that effect or not, must be regarded as sufficient to justify the removal until the presumption in its favor is overthrown by contrary proof. Ex parte Reggel, 114 U. S., 642 (ante, 250). Further than that it is not necessary to go in the present case.”
+In the instant case, an examination of the extradition warrant issued by the Governor of the State of Texas will disclose the following recital. “And, Whereas, said demand is accompanied by a copy of said affidavit, duly certified as authentic, by the Governor of said State.” What effect should be given by this court to the recital in the extradition warrant? Shall it be presumed that the recital of the Governor of the State of Texas that he had before him, accompanying the requisition, a certified copy of the affidavit charging relators with an offense in Louisiana speaks the.truth? or does such recital mean nothing? We are not without authority in our State to answer such question. In Ex Parte Stanley, 25 Texas Crim. App., page 377, this court, speaking through Judge Wilson, said:
+“In the case we are considering, the warrant recites, but does not set forth in full, the affidavit upon which it is issued. We have found no decision or authority which requires that the warrant should set forth the evidence in full, except the intimation referred to in Thornton’s case. The correct rule is, we think, laid down in Donohue’s case, 84 New York, 438, in a syllabus as follows: ‘Where the papers upon which a warrant of extradition is issued are witheld by the executive, the warrant itself can only be looked to for the evidence that the essential conditions of its issuance have been complied with, and it is sufficient if it recites what the law requires.’ ”
+Later on, we read the following in the same case:
+“We are of the opinion that the warrant is in substantial compliance with the statute. No form for such a warrant is prescribed by law, and when it shows upon its face, with reasonable certainty, as does the warrant in question, that the essential prerequisites to its issuance have been complied with, it must be held prima facie valid.”
+In Ex Parte White, 39 Texas Crim. Rep., 497, Judge Hurt, speaking for the court, after setting out the facts, used the following language:
+“The case should have been permitted to rest here, because the presumption obtained that the Governor of this State issued his warrant upon proper authority; that the requisition and the papers accompanying the same were in proper form, etc.,—in fact, that a case was presented to him requiring the warrant, arrest, and extradition of relator.”
+The presumption arising in favor of the legality of the extradition warrant issued by the Governor of the fugitive State is not a conclusive one, and a relator always has the right to go behind such presumption and prove, if he can, that the Governor was not in possession of the proper papers authorizing the issuance of the warrant, but in this case this was not done. The relator stands upon the proposition that in the absence of an affidavit this court should presume that no affidavit was in the hands of the Governor of the State, when the authorities just cited are directly to the contrary. The burden is upon the relator to show that the recitals in the extradition warrant were not true.
+The judgment of the trial court remanding the relators to the custody of the Sheriff of Bexar County, to be by him delivered to the agent of the State of Louisiana, is in all things affirmed.
+Affirmed.
