@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,779"
+decided: "1955-10-26"
+citations: ["162 Tex. Crim. 354"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Richard Frank McClung"]
+source_url: "https://static.case.law/tex-crim/162/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2463135
+cites_cases: ["252 S.W. 2d 935"]
+---
+
+# Ex parte McClung
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+This is an extradition case.
+Appellant sought his discharge by writ of habeas corpus filed in the district court of Eastland County, Texas. After a hearing, appellant was remanded to the custody of the sheriff of Eastland County for delivery to the agent of the state of Ohio, and from said order gave notice of appeal.
+The executive warrant of the Governor of this state, and the requisition and accompanying papers, which included the indictment, warrant and an affidavit as to the facts made before a magistrate, all duly certified and authenticated, were introduced in evidence.
+The alleged injured party testified that appellant was in the state of Ohio about the time in question and while he was there sold him an assignment of an oil and gas lease.
+Appellant testified in his own behalf and admitted being in the state of Ohio on or about the date in question, but denied making any sale or assignment of an oil and gas lease while in Ohio, and further testified that he was there for the purpose only of collecting money due him by the alleged injured party for an oil and gas transaction which had taken place in Kentucky.
+The disputed issue of whether the sale was made in Ohio or Kentucky was resolved against the appellant by the trial court and after a review of the record we find no abuse of discretion.
+Appellant challenges the sufficiency of the requisition from the demanding state to sustain the executive warrant because it does not demand that appellant be returned to Ohio. An examination of the requisition reveals that it requisitions the Governor of Texas for the apprehension of appellant as a fugitive from Ohio, and requests his delivery to the agent of the state of Ohio duly appointed to receive and convey appellant to Lucas County in said state. This we hold was a sufficient requisition.
+Appellant further contends that he should have been discharged because the extradition warrant relied upon does not name any offense with which he is charged in the demanding state.
+The extradition warrant recites that appellant is charged by indictment with the crime of violating Sec. 8624-25 of the General Code of Ohio, and it further recites that the demand is accompanied by an authenticated copy of the indictment. The indictment charges that appellant knowingly and intentionally sold in Ohio an assignment of an oil and gas lease on property located in Kentucky without the same having been registered in Ohio as provided by law. The endorsement on said indictment, signed by the foreman of the grand jury, recites that it was for a violation of Sec. 8624-25 of the General Code of Ohio. The offense with which the appellant was charged in the demanding state was sufficiently shown.
+Under the executive warrant of the Governor of this state, the requisition and accompanying papers, and the evidence, the trial court was authorized to conclude, as he did, and remand appellant for extradition. Delgado v. State, 158 Texas Cr. R. 52, 252 S.W. 2d 935.
+The judgment of the trial court is affirmed.
+Opinion approved by the court.
