@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "8858"
+decided: "1925-06-10"
+citations: ["101 Tex. Crim. 553"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hollis Parrot v. The State."]
+source_url: "https://static.case.law/tex-crim/101/cases/0553-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5105529
+cites_cases: ["157 S. W., 157", "204 S. W., 225", "31 Tex. Crim. Rep. 586", "70 Tex. Crim. Rep. 183", "83 Tex. Crim. Rep. 396"]
+---
+
+# Parrot v. State
+
+## Majority (BAKER, Judge.)
+
+BAKER, Judge.
+The appellant was indicted, tried and convicted in the district court of Nacogdoches County for assault with intent to murder Easom Wood and his punishment assessed at two years confinement in the penitentiary.
+• The evidence briefly stated shows the appellant and prosecuting witness were young men about eighteen or twenty years of age and together with two negroes were moving clay in wheel-barrows at a brick yard and that appellant reported to the manager of the brick yard that the prosecuting witness and one of the negroes were not doing their part of the work; and the manager reprimanded said parties and informed them that they would have to do. their part of the work they were then doing. Immediately thereafter, it is admitted by the prosecuting witness Eason Wood, that he remarked in the presence of appellant, “I would like to know who did it (referring to reporting them), whoever the Goddamned lying- son-of-abiteh was, I will whip him or he will whip me. ’ ’ The appellant contends that in addition to using said language, or similar language, he made the threat that he would kill said person. Within a few min- ■ utes thereafter, the appellant left the place where they were working and went about three-quarters of a mile and borrowed a single-barreled shotgun from the lady of ’the house and told her that he wanted same for purpose of killing a mad dog, and he immediately re- ■ turned to the brick yard and when within about fifty-seven feet of the prosecuting witness, Wood, he shot him with said gmi from the hips down to about the knees, with what the witness stated was number 4, “squirrel shot". The record further discloses that said shot penetrated the skin and were afterwards picked out of the body of said witness by the physician, and from said injuries the witness, Wood, was confined to his bed several days. This is a sufficient statement of the facts for the purpose of this opinion.
+The record further discloses that the appellant did not obtain the services o£ an attorney to represent him until after his conviction; he then employed counsel who prepared and filed a motion for a new trial, and perfected the appeal to this court.
+Appellant’s counsel in their brief, frankly admit that there are only two questions upon which they base their contention for reversal of this case. The first is based upon “newly discovered evidence" and in support of said motion for new trial they introduced testimony from one of the two negroes above mentioned who was working with the prosecuting witness and the appellant at the time of the shooting. This proposed testimony could not have fallen under any of the rules announced by this court as being newly discovered evidence for the reason that the appellant knew that this witness was there and saw him and by the slightest diligence, if he did not know, could have ascertained what this witness would have testified to, if anything, in his behalf. There was no error in the action of the court in refusing to grant the motion for new trial for this testimony.
+This leaves this court to the other and only question to consider and that is whether or not the testimony warrants the action of the jury in finding the defendant guilty of assault with intent to murder. The court in his charge submitted to the jury under appropriate instructions, the law applicable to assault with intent to murder and the jury in response thereto returned their verdict finding that defendant was guilty of said assault with intent to murder. If there was sufficient evidence authorizing such finding of the jury, this court would not be authorized to disturb same. AYe think the evidence in this case was sufficient for the jury to base their verdict upon. Hatton v. State, 31 Tex. Crim. Rep. 586; Luttrell v. State, 157 S. W., 157; 70 Tex. Crim. Rep. 183; Gillum v. State, 204 S. W., 225, 83 Tex. Crim. Rep. 396.
+In the Hatton ease, supra, Judge Hurt stated:
+“The evidence shows conclusively, that whether the shot used were sufficiently large to take the life of Johnson, appellant greatly desired and intended to do so. When in a case the question arises as to whether the accused intended to kill, the means used by him may be looked to. If a deadly weapon is used in a deadly manner, the inference is almost conclusive that he intended to kill; on the other hand, if the weapon was not a dangerous one, or was not used in a deadly manner, the intention must be established by other facts. But it would be a monstrous doctrine to hold, that because in fact the accused did not have the ability to kill, therefore he did not intend to kill. ’ ’
+In the Gillum case, supra, the facts are somewhat similar to the instant case, and Presiding Judge Davidson quotes the Hatton case, and further states:
+‘ ‘ The intent will be gathered from the facts, and there is sufficient evidence on this question to justify the jury to reach the conclusion that his purpose was to kill. * * * We think the factá are sufficient, and the jury was authorized under the evidence to convict of assault to murder or aggravated assault.”
+Prom the facts disclosed by the record of this case it is clearly shown that appellant used a deadly weapon in a deadly manner, and in view of the authorities above cited, we are of the opinion that the jury was authorized to return a verdict finding the defendant guilty of assault with intent to murder and this court is not authorized to disturb the verdict of the jury under such circumstances.
+We are therefore, of the opinion that the judgment of the trial court should be and the same is hereby affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+The motion is based on two grounds, one that we erred in what we said concerning the alleged newly discovered evidence; and the other being based on the insufficiency of the testimony. The record discloses that the shooting by appellant, which is the basis of the prosecution, took place when there were a number of men in the immediate vicinity. The alleged newly discovered witness was the nearest man to the parties and was well known to appellant. We can not engraft upon the practice in this State the proposition that because a man sees fit to defend himself that he shall not be held to the ordinary rule of diligence in his efforts to procure the presence of witnesses. No subpeona was issued for the alleged newly discovered witness, and apparently no effort made to obtain his testimony, notwithstanding, it is evident that its materiality must have been known to appellant.
+Nor are we able to agree with the contention made that the evidence does not support the judgment. The trial court told the jury that in order to convict they must not only believe that appellant made an assault upon Easom Wood, but that he hád the specific intent at the time of making such assault, if he did, to kill said Wood. The proof on behalf of the State showed that after Wood had made some statements which appellant constructed as insulting to him, he went away and procured a shotgun in which was a shell loaded with No. 4 shot and fired it point-blank at the injured party, at a distance some sixty or seventy-feet. The court having appropriately charged the jury, and they having concluded under the charge that this evidenced a present determination on the part of appellant to kill, we are not able to say that their judgment is not supported by the testimony, and the motion for rehearing will be overruled.
+Overruled.
