@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,484"
+decided: "1953-06-17"
+citations: ["158 Tex. Crim. 597"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Lum Wilson Boehme."]
+source_url: "https://static.case.law/tex-crim/158/cases/0597-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2480255
+cites_cases: ["146 Tex. Cr. R. 575", "147 Tex. Cr. R. 94", "153 Tex. Cr. R. 932", "176 S. W. 2d 951", "178 S. W. 2d 690", "223 S. W. 932", "245 S. W. 2d 704", "255 S. W. 2d 206"]
+---
+
+# Ex parte Boehme
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant here, relator in the court below, was under indictment in Criminal District Court No. 2 of Dallas County.
+Upon his separate trial, appellant was found insane at the time the offense charged was alleged to have been committed, as also insane at the time of the trial. Judgment in accordance with such finding was duly entered, as was the order of the judge of the county court of Dallas County committing appellant to the Terrell State Hospital at Terrell, Texas, for restraint and treatment.
+Appellant claims that he has now regained his sanity and is entitled to be discharged.
+In Ex parte Boehme, (Page 278, this volume ), 255 S. W. 2d 206, we held that the court having jurisdiction to try the issue of his present sanity was the Criminal District Court No. 2 of Dallas County, the court in which the criminal accusation was lodged and the court which rendered the judgment of insanity.
+In keeping with the holding in that case, appellant presented to the judge of the Criminal District Court No. 2 of Dallas County what he denominated an application “for a Hearing to determine his sanity as provided by Article 932a, Section 3, CCP, and in the alternative, as his Application for a Writ of Habeas Corpus.” Attached to the application were various instruments and documents upon which the application was predicated which need not be here detailed.
+Upon the application, the judge of the Criminal District Court No. 2 of Dallas County made the following order, viz.:
+“The Defendant’s Application requesting that the Court grant him a Hearing before a jury to determine his present mental status is hereby, in open Court, refused.”
+In connection therewith, the order states the reasons for refusing to grant the hearing.
+It is from that order that the appellant gave notice of appeal to this court.
+The jurisdiction of this court to entertain the appeal is presented.
+Treating the application as a petition for a hearing to determine appellant’s present insanity, this court does not have jurisdiction because same is not a criminal proceeding nor an appeal in a criminal case.
+Whether appellant is now sane involves a civil proceeding. Under the provisions of Art. V., Sec. 5, of the Constitution of this state, the appellate jurisdiction of this court is to criminal cases.
+Treating the application as a petition for the writ of habeas corpus, this court is without jurisdiction because no appeal is authorized from an order refusing the writ, which was the order the trial court here entered. Ex parte Nichols, 245 S. W. 2d 704; Ex parte Noble, 146 Tex. Cr. R. 575, 176 S. W. 2d 951; Ex parte Wade, 147 Tex. Cr. R. 94, 178 S. W. 2d 690; Ex parte Montgomery 153 Tex. Cr. R. 932, 223 S. W. 932.
+This court has authority to issue the writ of mandamus only to enforce its own jurisdiction (Art. V., Sec. 5, Texas Constitution). We would have no authority, therefore, by reversing the order of the trial court, to enforce a hearing upon the application.
+It is apparent that this court does not have jurisdiction of the appeal in this case.
+The appeal is dismissed.
+Opinion approved by the court.
+
+## Concurrence (MORRISON, Judge)
+
+MORRISON, Judge
+(Concurring).
+I agree with the disposition of this appeal, but find myself impelled to observe that in our original opinion we refused to pass upon the sufficiency of the notice from the superintendent of the hospital. We did not consider or refer to the affidavits of two psychiatrists stating that, in their opinion, the relator is now of sound mind. We may not pass upon them now, but the writer feels that our decision here should not prejudice relator’s right to make another application originally in this court, or by other authorized procedure to present his claim for right to trial on the affidavits of present sanity and to attack, if he so desires, the constitutionality of Section 3 of Article 932a, C. C. P., wherein a statement in writing by the superintendent of the hospital is required in order to obtain a trial on the question of whether the committed relator has become sane.
+Unfortunately, I cannot bring my brethren to agree with me.
