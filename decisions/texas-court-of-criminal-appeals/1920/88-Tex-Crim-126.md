@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "5862"
+decided: "1920-11-10"
+citations: ["88 Tex. Crim. 126"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. Holloway v. The State."]
+source_url: "https://static.case.law/tex-crim/88/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4799991
+cites_cases: ["41 Texas Crim. Rep., 185", "60 Texas Crim. Rep., 609"]
+---
+
+# Holloway v. State
+
+## Majority (MORROW, Judge.)
+
+MORROW, Judge.
+The indictment and. conviction were for assault with intent to murder, and punishment fixed at confinement in the penitentiary for two years.
+According to the State’s testimony, the appellant walked into the field where the injured party McCoy was at work. McCoy, as soon as he saw the appellant with a pistol, ran for his home, and was shot twice in the leg as he fled. His wounds were described by a physician. The appellant’s theory and testimony was to the effect that in approaching his home in an automobile, McCoy motioned to appellant to come to him, and on his doing so attempted to attack him with a pitchfork in his hands, and, failing to get over the fence, made a demonstration indicating an effort to draw a pistol.
+The issues of fact were submitted to the jury in a charge of which we find in the record no complaint. A new trial was sought upon the grounds that improper evidence was received. In the absence of bill of exceptions reserved to the action of the court, his rulings upon the admission of evidence cannot be reviewed. Vernon’s Texas Crim. Statutes, vol. 2, p. 535, note 15; C. C. P., Art. 744.
+Alleged newly discovered evidence is relied on as one of the grounds for a new trial. The failure to support the averments in motion for a new trial on this ground by the affidavits or testimony of the witnesses who know the newly discovered facts, or to account for the absence of such proof, renders it insufficient to overcome the presumption that in refusing to grant the new trial the judge did not abuse the discretion vested in him by the law. Vernon’s Texas Crim. Statutes, p. 806, not 13 and 14, and cases listed; Branch’s Annotated Texas Penal Code, sec. 197. Accompanying the statement of facts we find some evidence, apparently introduced in support of the motion. The statement of facts, however, was not filed until after the adjournment of the court for the term at which the ease was tried, and for that reason cannot be considered in support of the motion, as the law .requires that facts adduced upon issues raised on the hearing of a motion for a new trial shall be filed during the term. Black v. State, 41 Texas Crim. Rep., 185; Probest v. State, 60 Texas Crim. Rep., 609. If considered, however, we think the evidence would not authorize a reversal of the judgment.
+
+## Rehearing (MORROW, Judge.)
+
+on rehearing.
+November 10, 1920.
+The evidence is sufficient to support the verdict, and there being nothing presented for review showing that the trial was other than a legal one, we are constrained to affirm the judgment.
+Affirmed.
+MORROW, Judge.
+In the light of the appellant’s motion for rehearing, we have re-read and re-examined the record in this case. The reversal is sought in the main upon the receipt of evidence on the trial which it • is claimed here was improper and prejudicial. This claim relates particularly to some evidence touching improper conduct towards the wife of the injured party, who was also the daughter of the appellant. The record discloses that upon the trial of the ease, the. appellant was represented by experienced and skillful lawyers. We fail to find that either the appellant or his attorneys made any objection upon the trial of the case to the evidence now complained of, and we must assume that it was received without objection. Article 744, of the Code of Criminal Procedure, provides in substance that if one on trial is dissatisfied with any ruling of the trial judge, he shall embody it in a certified bill of exceptions; and on appeal it has been uniformly held that the receipt or exclusion of evidence would not have attention unless the statute relating to bill of exceptions was complied with. This court is called upon to pass, upon the correctness of the ruling of the trial court, and his ruling must be invoked upon the admission of evidence and preserved by bill of exceptions in order that this court may know the circumstances under which the evidence was introduced, the objections made to it, and determine whether the rulings made was prejudicial or otherwise. Vernon's Texas Grim. Statutes, vol. 2, p. 534, note 15, and cases cited. A motion for a new trial will not take the place of a bill of exceptions. Vernon’s Texas Grim. Statutes, vol. 2, p. 535, and' cases cited. The trial court must have opportunity to rule upon the objection to the evidence. These proceedings, as suggested by counsel who appears for the appellant on this appeal, are not mere technicalities. They are vital to the administration of justice. Where the evidence is shown by the statement of facts to have been sufficient to justify the verdict rendered, and the indictment complies with the law, all that one on appeal can rightfully demand is that the appellate court shall pass upon the correctness of the rulings made by the court below. The bill of exceptions is provided to the end that this court may be advised concerning the court’s rulings on the admission of evidence, and in the absence "of such a bill, either preserved according to the statute, or embodied in the statement of facts, this court cannot know that the trial judge’s decision was invoked, or that it was opposed to the wishes of the appellant.
+In view of the record, we must adhere to the judgment heretofore rendered, and overrule the appellant’s motion for a rehearing.
+Overruled.
