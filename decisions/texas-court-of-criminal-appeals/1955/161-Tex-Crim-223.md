@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,479"
+decided: "1955-03-16"
+citations: ["161 Tex. Crim. 223"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joe Hagler v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2466495
+cites_cases: ["131 S.W. 2d 962", "137 Texas Cr. Rep. 465"]
+---
+
+# Hagler v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is passing as true a forged instrument, with a prior conviction for an offense of like character alleged to enhance the punishment; the punishment, five years.
+Boggus, manager of the Piggly-Wiggly store in Ranger, testified that the appellant came to his store on the day in question, cashed a check in the sum of $29.75 drawn on the Strawn National Bank bearing the name of Billie Lou Kyle as maker, and that the check was returned to him unpaid. It was shown that the Strawn National Bank had no account in the name of Billie Lou Kyle and that such person was unknown in Strawn or Ranger.
+To show system, evidence was introduced that the appellant gave other checks drawn on the same bank at about the same time and that each of them bore the name of a fictitious maker.
+It was established that the appellant was the same individual who had been convicted of the offense of like character plead in the indictment.
+The appellant did not testify or offer any evidence in his own behalf.
+There are no bills of exception in the record.
+Appellant’s motion to quash the indictment alleges that no offense is stated therein because the primary paragraph does not conclude with the words “against the peace and dignity of the State.” We do find that the enhancement paragraph concludes with such an allegation. It is not necessary, nor is it good pleading, to make such a recitation more than once in an indictment, and the Constitution requires that it be at the conclusion. See Nabors v. State, 137 Texas Cr. Rep. 465, 131 S.W. 2d 962.
+The motion further alleges that the indictment is insufficient because it does not state whom the appellant intended to defraud.
+We quote from Branch’s Ann. P.C., section 1399, page 854:
+“Alleging intent to defraud. — It is not necessary to allege whom defendant intended to defraud. It is sufficient to allege, in the language of the statute, that the false instrument in writing was made without lawful authority and with intent to defraud.”
+Finding no reversible error, the judgment of the trial court is affirmed.
