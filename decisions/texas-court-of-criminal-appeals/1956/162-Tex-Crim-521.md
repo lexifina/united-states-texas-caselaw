@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,114"
+decided: "1956-03-07"
+citations: ["162 Tex. Crim. 521"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gordon Wayne Pigg v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462132
+cites_cases: ["213 S. W. 2d 844", "265 S. W. 2d 601"]
+---
+
+# Pigg v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is felony theft: the punishment, 2 years.
+A practically new 1955 Mercury automobile was taken from the home of its owner on the night charged in the indictment and recovered by the city marshal the following morning where it had been abandoned on a dirt road some three miles away. The radio and sun visors were gone, and in the words of the injured party, “anything that could be taken off was taken off.”
+One Martin testified for the state that he and the appellant pushed the Mercury automobile away from the home of the owner with the automobile that he was driving on that occasion but that when they tried to wire around the switch they were unable to do so and could not get: the motor started and that thereafter they stripped the automobile of its radio and other accessories. Martin stated that he and the appellant left town the following day and that he did not see the appellant for some time thereafter.
+Appellant’s confession, which corroborated Martin’s testimony, was introduced in evidence.
+The appellant, testifying in his own behalf, plead alibi and stated that when he made the confession to the district attorney he was talking about a 1953 Mercury in which he and Martin had left town the following day.
+Appellant’s parents and their employees supported the plea of alibi. The jury resolved the conflict in the evidence, and we find the evidence sufficient to support the conviction.
+The evidence will be more fully discussed in connection with the bills of exception.
+Bill of Exception No. 1 complains of the failure of the court to grant a mistrial when one of the jurors who had been sworn to try the case and after the injured party had testified told the court, with the consent of counsel, that he had casually known the injured party for several years, “that he only knew him when he saw him,” and that he had not disclosed such fact on voir dire examination because his poor eyesight had kept him from recognizing the injured party.
+It will be observed that the injured party had merely testified to the theft of the automobile and its subsequent recovery and had testified to no fact which would implicate the appellant.
+We have concluded that the fact that the juror knew the witness “only when he saw him” would not affect his verdict and was not grounds for a mistrial. In many rural districts the jury frequently know several of the witnesses.
+Bill of Exception No. 2 complains of the refusal of the court to give a requested charge which defined “reasonable doubt.”
+The court charged the jury on the presumption of innocence as set forth in Article 705, V.A.C.C.P.
+This court has held that such term need not be defined. Pierce v. State, 159 Tex. Cr. Rep. 504, 265 S. W. 2d 601.
+Bill of Exception No. 3 complains that during their deliberations the jury came into court and asked the judge if they might give the appellant a suspended sentence and that the court, over the objection of the appellant, instructed the foreman to return to the jury room, re-read the charge and consider their verdict.
+In Moore v. State, 152 Tex. Cr. Rep. 312, 213 S. W. 2d 844, we held that an instruction such as the one given here was not an additional instruction which should have been reduced to writing.
+Appellant further complains that there was no proof made as to the value of the 1955 Mercury automobile. The owner testified that he had paid $3100.00 for it less than one month before it was stolen, that he was a salesman and had traded automobiles a number of times, and that he “hoped” it had a reasonable value of over $50.00. Were the question of value more closely contested, we would probably require, and the state would probably have introduced, more evidence on the question, but under the state of the record before us we have concluded that the proof as to value was sufficient.
+Other contentions raised in appellant’s brief have been considered and are overruled.
+Finding no reversible error, the judgment of the trial court is affirmed.
