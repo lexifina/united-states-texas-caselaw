@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "72"
+decided: "1909-10-27"
+citations: ["57 Tex. Crim. 153"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. J. Eubanks v. The State."]
+source_url: "https://static.case.law/tex-crim/57/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2373324
+cites_cases: ["16 S. W. Rep., 756"]
+---
+
+# Eubanks v. State
+
+## Majority (RAMSEY, Judge.)
+
+RAMSEY, Judge.
+Appellant was indicted by the grand jury of Ellis County on November 28th of last year for the theft of twenty-six sacks, alleged to be the property of one J. J. McQuatters, of the value of $2.60, and in another count with the offense of fraudulently receiving stolen property.
+The testimony of the State includes circumstances sufficient, perhaps, to sustain the conviction if they stood alone. It was appellant’s contention that he bought these sacks from or through one Parson Frierson, a negro driver. This contention he supported by his own testimony as well as the evidence of Frank Tidwell. Appellant introduced testimony that he had borne and bore a good reputation as an honest and law-abiding citizen in the community in which he lived. The charge of the court defined theft substantially in the language of the statute, and submitted to the jury the offense of theft as such as well as the offense of fraudulently receiving and concealing stolen property, as well as the .issue of the voluntary return of stolen property.
+1. In this state of record appellant requested the court to give in charge the following special instruction: “You are further instructed that where, a person takes property under a claim of title he cannot be convicted" of "theft and if you believe that the defendant took the property under a claim_of title-you .must acquit him.” -This charge is not strictly accurate nor is this language wholly applicable .to the case at bar, but was-.sufficient, we think, to call the-attention of the court to his utter failure to • submit appellant’s, defense at all, and should, in substance at least, have been given. , ■..
+2. By bill of exceptions appellant complains of the following portion of the court’s charge: “How, if from the evidence you are satisfied beyond a reasonable doubt that the defendant L. J. Eubanks in the County of Ellis and State of Texas, at or about the time charged in the indictment fraudulently took from the possession of the sacks the property described in the indictment and that the sacks were the property of J. J. McQuatters, without the consent of the said J. J. McQuatters, with intent to deprive the owner of the value of the same and to appropriate it to the use or benefit of him, the said defendant, L. J. Eubanks, then you will find the defendant guilty,” etc. Except for the bill of exceptions, which was taken at the time, there might be some contention that we could assume that the charge of the court as copied in the record was a mere lapse of the pen, but this portion of the court’s charge was in terms excepted to, as the bill recites, before the jury had retired to consider their verdict, on the ground that same was meaningless, and that appellant could not take from the possession of the sacks, the theft of which he is charged, but the evidence must show that they were taken from the possession of some one, and the court gave the jury no opportunity to pass on the question as to whom the possession of the sacks was in or as to whose possession they were taken from. In all indictments for theft it is essential to aver the possession of the property stolen, and that it was taken from the possession of the owner or person holding for the owner, and in submitting the issue to the jury it is indispensable that the matter of possession be submitted, substantially, in the terms charged in the indictment. The charge of the court .hiere, of course, is wholly meaningless and defective in that the jury are not required to find that the property, if taken, was taken from the possession of the person as laid in the indictment.
+3. Again, appellant complains that the court erred in submitting the issue of voluntary return of stolen property. We think the court was in error in submitting this issue. Under the State’s case the issue raised was the fraudulent taking of the property or in other words that appellant was guilty of theft. By his testimony he, in substance, admitted the manual taking of the sacks but claimed that same was done under circumstances not imputing crime to him but in pursuance of purchase. The doctrine of voluntary return of stolen property implies of necessity that there had been, in the first place, a criminal taking. This charge was calculated to create the-belief in the minds of the jury that the original taking was wrongful, and must, of necessity, have been prejudicial to appellant. From the verdict of the jury, which assessed a fine of -one. dollar against appellant, without imprisonment, it is obvious that they found appellant guilty with reference to this paragraph of the court’s charge. On another trial the issues as here indicated should be clearly submitted to the jury, omitting any mention: of voluntary return of . stolen property under the evidence as here presented, see Schultz v. State, 30 Texas Crim. App., 94; 16 S. W. Rep., 756.
+For the errors pointed out the judgment is reversed and the cause is remanded.
+Reversed and remanded.
