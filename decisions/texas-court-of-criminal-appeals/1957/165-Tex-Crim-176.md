@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,093"
+decided: "1957-06-26"
+citations: ["165 Tex. Crim. 176"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Delbert E. Richards v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2612897
+cites_cases: ["114 Texas Cr. Rep. 494", "151 Texas Cr. Rep. 410", "156 Texas Cr. Rep. 253", "161 Texas Cr. Rep. 344", "162 Texas Cr. Rep. 342", "163 Texas Cr. Rep. 629", "208 S.W. 2d 376", "24 S.W. 2d 48", "240 S.W. 2d 783", "277 S.W. 2d 106", "285 S.W. 2d 233", "296 S.W. 2d 260"]
+---
+
+# Richards v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Upon a trial before the court without a jury, appellant was convicted of the misdemeanor offense of driving a motor vehicle upon a public highway while intoxicated and his punishment assessed at 3 days in jail and a fine of $50.
+The state’s testimony shows that on the date alleged the appellant drove his automobile on East Commerce Street in the city of San Antonio where certain city officers were operating a radar unit. After stopping, and cursing one of the officers stationed at the unit, appellant proceeded to drive away and was then apprehended by another officer working with the unit.
+Four of the officers who observed appellant after his. arrest, upon being called as witnesses by the state, testified that in their opinion the appellant was intoxicated at the time. Each officer described the appellant’s appearance following his arrest and, according to their testimony, appellant had the odor of alcohol on his breath, his eyes were bloodshot, his speech was incoherent and he was unsteady on his feet.
+It was further shown that appellant was given a Harger drunkometer test following his arrest, the result of which showed “.165 per cent blood alcohol.”
+As a witness in his own behalf, appellant admitted having driven his automobile on the occasion in question and having prior thereto consumed two or three beers but denied being intoxicated. He also called numerous character witnesses who testified to his good reputation.
+By Formal Bills of Exception Nos. 1 and 3 appellant insists that the court erred in overruling his motion to quash the complaint and information and motion in arrest of judgment on the ground that the complaint was not signed by a credible person.
+Appellant contends that because it was shown that Robert Hernandez, the person who signed the complaint, was not present at the time of appellant’s arrest and had no personal knowledge of the facts of the case, he would not have been a competent witness to testify to any fact in the case and therefore was not a credible person to sign the complaint.,
+The record reflects that Hernandez was a sergeant with the San Antonio Police Department and that he signed and based the complaint upon information he received from a booking slip and an officer’s report in the case. In Catchings v. State, 162 Texas Cr. Rep. 342, 285 S.W. 2d 233, we restated the rule that an information may be predicated upon a complaint or affidavit made upon information and belief and held that a secretary in a district attorney’s office whose complaint was. based upon information received through “an offense report” was a credible person authorized to make a valid complaint. Under the record, Hernandez was shown to be a credible person and authorized to make the complaint against appellant. Appellant’s further contention that the complaint was not properly sworn to by Sgt. Hernandez is not supported by the record and is overruled.
+Formal Bill of Exception No. 2 and informal Bill of Exception No. 4 present appellant’s complaint to the court’s action in sustaining the state’s objection to a question propounded by appellant to the state’s witness, Buckner, on his cross examination. The bills are deficient and present nothing for review in that they fail to show what the answer of the witness would have been. Adams v. State, 114 Texas Cr. Rep. 494, 24 S.W. 2d 48; King v. State, 151 Texas Cr. Rep. 410, 208 S.W. 2d 376 and Smith v. State, 156 Texas Cr. Rep. 253, 240 S.W. 2d 783.
+By Informal Bills of Exception Nos. 7, 9 and 11 appellant complains of the admission of certain testimony as to the making of the drunkometer test and the results thereof.
+We need not pass upon the bills as there is ample evidence to sustain the court’s judgment outside of the results of the test. The trial being before the court, we are to assume that he considered only the admissible evidence. Arnold v. State, 161 Texas Cr. Rep. 344, 277 S.W. 2d 106, and Tealer v. State, 163 Texas Cr. Rep. 629, 296 S.W. 2d 260. This presumption is amply supported by the record in the court’s statement overruling appellant’s motion for instructed verdict wherein he stated: “Disregarding the test whatsoever, even not giving the test any weight or consideration, there is still evidence in the record to sustain the state’s case * * * .”
+Finding the evidence sufficient to sustain the conviction and no reversible error appearing, the judgment is affirmed.
+Opinion approved by the Court.
