@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "918"
+decided: "1911-01-25"
+citations: ["61 Tex. Crim. 64"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willie Barlow v. The State."]
+source_url: "https://static.case.law/tex-crim/61/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4600898
+---
+
+# Barlow v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+—Appellant was indicted, tried and convicted of murder in the first degree, in the District Court of Tyler County, and sentenced to the penitentiary for life.
+It appears that one afternoon in April of last year deceased, who was an uncle of appellant, gave appellant, a boy seventeen years of age, a severe whipping with a mule whip, striking him a time or two over the head with a shingle, and “butted” him against a wall. • It also appears that appellant had gashes on his head and neck, one witness saying they were about one and one-half inches in length. Deceased was a man about forty years of age, and a very stout man, while the witnesses refer to appellant as a mere lad of a boy. It further appears that the next morning, while still smarting under the whipping, he stated he was going to take the gun and kill deceased. His brother took the gun away from him, and whipped him, and told him to let the gun alone. He finally got the gun and broke in a run to where deceased was at work, crying as he run, his father states, and after being there a few minutes shot and killed him. The appellant, testifying in his own behalf, said: “In regard to • this trouble, will say that Frank was in Uncle Cal’s wagon and I was trying to get Frank to quit meddling with me, and Frank told Uncle Cal, and he got Uncle Cal to whip me, and he beat me with a whip. He made these scars on my face there and on my head. I saw Uncle Cal the next morning. The reason I shot him the next morning was because he looked around, and I thought he was coming back at me and I shot him. He said ‘Whoa’ to his mules, and I was scared of him, and I thought he was coming towards me. I was afraid of him because he whipped me. I weigh 107 pounds. I went down there with the gun. I passed Uncle Cal when I went around to where Frank Parr was. I did not shoot him as I passed him. The reason I shot him was because he had stopped his horses and I thought he was coming back at me.”
+We have set out this much of the testimony to clearly understand the case. Appellant was indicted on the 28th of July and tried on the 17th of August. He filed his first application for a continuance on account of the absence of the witness Charlie Holland (among others). This witness is shown to have been summoned on the 10th of August. By this witness appellant states he expected to prove that Mr. Holland resides in the same community as appellant, and knows the natural and inherent qualities of the appellant, and knows his disposition and the state of his mind;-that appellant from his childhood has been weak-minded and an imbecile; and that facts expected to be proven by this witness will be a predicate upon which to introduce expert testimony showing appellant insane at the time of the shooting. That Holland is a white man and stands very high in the county.
+If the witness would have sworn to these facts it would have been very material, asxhe offered to introduce four physicians to testify as experts, laying the predicate for hypothetical questions, as he says he expected to prove the facts by this witness, all of whom it is stated would have answered, in answer to the hypothetical questions, that appellant was of unsound mind, if those facts were true. The court declined to permit the questions, as the facts had not been sworn to. This rendered the testimony of the witness Holland very material.
+The appellant also filed a motion requesting the court to charge, on murder in the second degree, as well as murder in the first degree. Under the facts, we think he should have done so. It is useless to discuss the other assignments, as the matters complained of will not likely occur on another trial.
+For the reasons above stated, the judgment is reversed and the cause is remanded.
+Reversed and remanded.
