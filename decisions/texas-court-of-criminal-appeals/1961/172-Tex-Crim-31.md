@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,973"
+decided: "1961-12-13"
+citations: ["172 Tex. Crim. 31"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kary Curtis Kimble, Jr. v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2635960
+cites_cases: ["156 Texas Cr. Rep. 655", "165 Texas Cr. Rep. 286", "166 Texas Cr. Rep. 496", "246 S.W. 2d 201", "306 S.W. 2d 715", "316 S.W. 2d 418", "38 Texas Cr. Rep. 681", "44 S.W. 989"]
+---
+
+# Kimble v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The offense is unlawfully carrying a pistol; the punishment, 30 days in jail.
+The state’s evidence shows that on the night in question Deputy Sheriffs Davis and Smolensky went to a night club and cafe to make a routine check. When they entered, appellant and a girl companion were seated at a table. After the officers had received information from a reliable source that appellant was carrying a pistol, they saw him reach under the table, pull out a “shiny object” and drop it into the girl’s purse which was on a chair beside her. Shortly thereafter, appellant and the girl left the club. The officers followed and when they got outside detained them. Upon being asked, appellant told the officers that he did not have a pistol. A search of his person did not disclose that he was carrying one. The officers then had the girl empty her purse upon the hood of a car. This disclosed that her purse contained a pistol. Thereupon, the girl began crying and stated that she did not know the pistol was in her purse. Appellant then stated, “Why don’t you officers let her go; she didn’t have anything to do with it. I put the gun in her purse.” Appellant further stated to the officers that the pistol belonged to his mother and that he was carrying it because some boys were after him. After the pistol was discovered appellant was arrested by the officers.
+Appellant did not testify or offer any evidence in his behalf.
+Appellant predicates his appeal upon two claimed errors.
+He first contends that the court committed reversible error in permitting Officer Davis to testify that he and his fellow officer had received information from a reliable source that appellant was carrying a pistol, over the objection that the same was hearsay. In the instant case evidence of the appellant’s oral statement and confession to the officers that he was carrying the pistol was before the jury without objection. In view of appellant’s oral confession of guilt, the admission of such hearsay evidence would not call for a reversal of the conviction. Killingsworth v. State, 165 Texas Cr. Rep. 286, 306 S.W. 2d 715.
+Appellant next insists that the evidence is insufficient to support the conviction because his statement was wholly uncorroborated by any admissible evidence. With such contention we do not agree. The testimony of Officer Davis that he observed appellant place the “shiny object” in the girl’s purse and proof that shortly thereafter the pistol was found in her purse together with the other facts and circumstances, excluding the hearsay information received by the officers, is sufficient to corroborate appellant’s confession that he was carrying the pistol under the rule stated in Kugadt v. State, 38 Texas Cr. Rep. 681, 44 S.W. 989. See also Fruechte v. State, 166 Texas Cr. Rep. 496, 316 S.W. 2d 418.
+The judgment is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (MORRISON, Judge.)
+
+ON MOTION FOR REHEARING
+MORRISON, Judge.
+Appellant takes issue with that portion of our original opinion in which we stated that appellant was not arrested until after the pistol was discovered. Regardless of when the arrest occurred, the statements made by appellant were made at the scene, were a part of the transaction and were admissible as part of the res gestae. In Clifton v. State, 156 Texas Cr. Rep. 655, 246 S.W. 2d 201, we pointed out that the res gestae rule was superior to and could not be limited by the rules relating to admissions after arrest.
+Remaining convinced that we properly disposed of this cause originally, appellant’s motion for rehearing is overruled.
