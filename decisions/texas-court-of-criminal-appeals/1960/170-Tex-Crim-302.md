@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,535"
+decided: "1960-11-30"
+citations: ["170 Tex. Crim. 302"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ernest R. Valero v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2625179
+cites_cases: ["292 S.W. 2d 114", "312 S.W. 2d 654"]
+---
+
+# Valero v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted of driving an automobile while his operator’s license was suspended and his punishment assessed at a fine of $200.
+After Officer Ussery observed the appellant operating an automobile upon a public highway without a state inspection sticker on the windshield, he stopped him and determined that the appellant had no license authorizing him to drive an automobile on a public highway.
+Patrolman Cowles of the Texas Department of Public Safety testified that he had before him the records pertaining to the operator’s license of the appellant and that said record reflected that it had been indefinitely suspended by the department effective October 29, 1959, and that it had been continuously suspended since that time. The record was introduced in evidence.
+Appellant did not testify or offer any evidence in his behalf.
+Appellant contends that the evidence is insufficient to sustain the conviction for the reason that the record of suspension involved was not proved to be that of the appellant, in that the record purported to relate to “Ernest Resendez Valero, Jr” instead than to “Ernest R. Valero.”
+Officer Ussery testified that the person he observed driving the automobile in question and the appellant were one and the same person. Appellant’s appearance bond, which was also admitted in evidence, shows that he signed the bond as “Ernest Resendez Valero, Jr.” The record of suspension contains an application for an operator’s license in the name of “Ernest Resendez Valero, Jr.” In the place provided in the same application for “usual signature of applicant,” the signature appears as “Ernest R. Valero, Jr;” and the application contains a description of the applicant. The jury had the opportunity to observe the appellant and to compare his appearance with that of the person described in the application.
+The evidence warrants the jury’s conclusion that the appellant is guilty as charged. Goolsby v. State, 166 Tex. Cr. Rep. 180, 312 S.W. 2d 654; Rice v. State, 163 Tex. Cr. Rep. 367, 292 S.W. 2d 114, and cases there cited.
+The judgment is affirmed.
+Opinion approved by the Court.
