@@ -1,0 +1,22 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "4148"
+decided: "1908-12-12"
+citations: ["55 Tex. Crim. 54"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. P. Nix v. The State."]
+source_url: "https://static.case.law/tex-crim/55/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4573199
+---
+
+# Nix v. State
+
+## Majority (RAMSEY, Judge.)
+
+RAMSEY, Judge.
+Appellant was tried in the District Court of Marion County on a charge of selling intoxicating liquors in said county in violation of the law. On trial he was convicted and his punishment assessed at a fine of $50 and confinement in the county jail for thirty days. There was no direct or positive evidence at all in the case that appellant sold the intoxicating liquor to the witness Cyrus Marshall.
+The evidence showed that Cyrus Marshall, a negro, obtained some liquor from appellant’s wife under circumstances from which a sale might reasonably be inferred and that such sale occurred on two different dates. The State also introduced a witness, another negro, Tom Rose, who testified in substance that some time after the first transaction with Cyrus Marshall that he obtained some whisky from Mrs. Fix under circumstances from which a sale might be inferred. The only evidence connecting appellant with these sales was the fact that on the date in question certain liquors were stored in his residence. This was explained by appellant on the ground that the property belonged to one Deadweyler and was stored in appellant’s house as an accommodation to Deadweyler. The further fact was shown that some time near the date of the sales above referred to on one occasion an interview took place between Cyrus Marshall and appellant which is thus stated by Marshall: “I went there once afterward. Mr. Fix was there when I went there after that. He was in the yard. I told Mr. Fix I wanted to get a little whisky or see if I could get any. He said he couldn’t sell none. I went on in the house. And I told him I had got some before and he said I never got any from him since the election. I never said any more to him. When I got in the house, I saw some half-pint bottles in there. There were 5 or 6 half-pint bottles—they were setting in the room where the barrels were. That was not very long after I had been there the first time—just a few days. I then laid a quarter down and got a half-pint. I then laid the quarter down on a table. The court: The table you laid the other on? A. Yes, sir. Eight next to the door; I just laid a quarter down and picked up a half-pint. I then went on out with it. I did not go out by where Mr. Nix was; I went out the other gate. He did not see me when I went in the house; yes, sir; he still remained out there in the yard. That was also at his residence in Marion County, Texas, Precinct number 3. I never did get that quarter back; no, sir; never asked for it. I never did get that half dollar back. Neither he nor Mrs. Nix gave me the money back. When I went there the second time they said nothing to me about the half dollar or about getting the whisky the other time. I did not see Mrs. Nix the second time.” In this condition of the record, complaint is made of the charge of the court in that it did not charge the law of circumstantial evidence. The charge of the court in the seventh paragraph, is as follows: “The burden is on the State, to prove, beyond a reasonable doubt, - that the defendant sold intoxicating liquor to Cyrus Marshall, but such sale may be proved by circumstances, satisfies 3'ou, beyond a reasonable doubt, that the sale of intoxicating liquor, was made by defendant to Cyrus Marshall.” This charge is complained of by appellant and was excepted to on the trial because it was not full enough and did not give in charge the law of circumstantial evidence and did not state to what extent and under what limitations and restrictions circumstances should be looked to, and left the jury free with this instruction to convict appellant if the circumstances satisfied them. We think, under the proof as made, that appellant’s guilt if established at all, which is left in great doubt, was only proven by circumstantial evidence and a correct charge on this subject should have been given to the jury. For this error the judgment of the court below is reversed and the cause is remanded.
+Reversed and remanded.
