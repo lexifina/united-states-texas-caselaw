@@ -1,0 +1,53 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,599"
+decided: "1958-02-05"
+citations: ["165 Tex. Crim. 536"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Nash J. Dowdle"]
+source_url: "https://static.case.law/tex-crim/165/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2613665
+cites_cases: ["110 Texas Cr. Rep. 579", "142 Texas Cr. Rep. 582", "153 S.W. 2d 628", "155 S.W. 2d 927", "68 Texas Cr. Rep. 443", "9 S.W. 2d 733"]
+---
+
+# Ex parte Dowdle
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Relator Dowdle, a Midland business man, was a juror in a capital felony case.
+During the trial, after the state had rested and the defendant was offering testimony, the trial judge received certain information and instructed the bailiff to communicate it to the juror Dowdle. The message received, the instruction to the bailiff, and his report to the court upon his return from the jury room, were taken down by the court reporter and read:
+“THE COURT: The Court has had communicated to it a message pertaining to one of the jurors, Mr. Nash Dowdle, that his wife is now in Dallas, that she left in the care of her three small children, ages one, two and three, a baby sitter, that her baby sitter has become ill and was forced to call her daughter to substitute for her this morning, being 11:00 o’clock A.M., that the daughter has informed the court that it is imperative that she leave at noon, in approximately an hour, because she has to take care of an elderly family herself. The Court being faced with that situation feels that the message should be communicated to Mr. Dowdle by the bailiff to determine if he knows of any other baby sitter that will substitute during this emergency situation.
+“THE COURT TO MR. STUBBLEFIELD: Mr. Stubblefield, you are instructed only to communicate this message to Mr. Dowdle and no other message.
+“MR. STUBBLEFIELD (returning) : I told him what you said and he said that due to the fact, I believe his mother-in-law and sister-in-law is out of town, he wants to go home.”
+The bailiff’s communication with relator in pursuance of the court’s instruction as shown by the bailiff’s testimony, was:
+“Q. And what message did you relay on to Mr. Dowdle, if you recall ? A. I asked him,-first, when I first went in the jury room if he knew of another baby sitter he could get to stay with his children and he said, ‘No, not offhand,’ something to that effect, and then, of course, wanted to know why I asked.
+“Q. Did you tell him what the court had told you to tell him? A. I told him that the court had sent me to tell him of the situation which had arisen out there at his home and * * *
+“Q. Did you tell him what situation? A. Yes.
+“Q. And what was that situation? A. The information that I had was that his original housekeeper and baby sitter was sick and that she had called in her daughter to take over her duties of taking care of Mr. Dowdle’s children while Mrs. Dowdle was in Dallas and that this younger maid was due to go to work at 12:00 o’clock noon that day. In other words, it was about an hour before she was due to go to work.
+“Q. And you did ask Mr. Dowdle if he knew of another sitter? A. That was the first thing.
+“Q. To go sit with his children. A. Yes.
+“Q. And what was Mr. Dowdle’s reply, if you recall? A. As near as I recall, he said he didn’t know of one or didn’t know of one offhand, something to that effect.
+“Q. Did he make any other remarks? A. Well, he wanted to know why I asked.
+“Q. I mean, did he make any other remarks about the reason why he wanted to go home? A. Well, he explained to me that his wife and his sister-in-law were both out of town and didn’t have any one to care for his children. They wouldn’t be available, that his wife and sister-in-law were out of town. He might have said his mother-in-law.
+“Q. Did he make any other statements that you recall? A. Yes, when I asked him what he wanted to do about it he said he wanted to go home.
+“Q. Wanted to go home. A. He said, T want to go home.’
+“Q. And what did you do then? A. I came back and reported it to the court what he had said.”
+Upon receiving the report of the bailiff, the trial judge declared a mistrial and discharged the jury.
+Being advised within a few minutes after the jury was discharged that relator had expressed a desire to see the football game being played that afternoon in Dallas, the trial judge called the Dowdle residence by telephone and was told that relator left for Dallas about 11:30.
+This proceeding was then instituted which resulted in the entry of an order finding relator in contempt of court and ordering him to jail for three days and to pay a fine of $100.
+This court granted writ of habeas corpus and relator was released on bond. The record is now before us, briefs have been filed and arguments presented.
+We agree with respondent’s contention that we are to determine whether there is evidence to show that the trial judge had authority in law to render the judgment of contempt, and have no right to substitute our findings for the findings of the trial judge upon conflicting evidence. Ex parte Shepherd, 68 Texas Cr. Rep. 443, 153 S.W. 2d 628.
+But the court cannot make contempt of that which is not contempt and if the facts, viewed in the light most favorable to the court’s findings, do not support the contempt judgment relator is entitled to release, Ex parte Vogler, 110 Texas Cr. Rep. 579, 9 S.W. 2d 733.
+That relator had a long cherished desire and had planned for months to attend the Notre Dame - S.M.U. football game in Dallas on December 7, 1957, is established and admitted. He so testified, as did fellow jurors who heard him so state.
+The actions of relator after his release from the jury were admissible as showing his intent at the time of the alleged contempt, but cannot alone constitute contempt. Nor can intent or purpose alone constitute contempt. Ex parte Bailey, 142 Texas Cr. Rep. 582, 155 S.W. 2d 927.
+The undisputed evidence is, however, that relator after being released stated that he had missed the football game and that he called the airport after he learned that a satisfactory substitute baby sitter had been located and had agreed to take care of his children.
+The trial judge concluded that there was no evidence that relator had a preconceived, premeditated plan to get off the jury and go to the football game. He concluded, however, that his primary concern was getting to the game, -as shown by his action in calling the airport within five minutes after the mistrial was declared.
+We note that the witnesses called by the respondent testified that it was a matter of luck that relator got on the plane which had been rented by a student whose interest was in flying time and not in destination.
+Primarily the statutes and perhaps the decisions of this court, which the able and conscientious judge was earnestly seeking to follow, explain why the trial judge did not himself communicate with the juror, and did not afford the juror an opportunity to learn the facts about the children and to use the remaining hour to locate another baby sitter.
+The facts shown by the record reveal that time alone would have relieved the necessity of excusing the jury and declaring a mistrial. A half hour or more remained after mistrial was ordered before the substitute sitter had to leave. Had inquiry been made after a short delay, the court would have learned that another satisfactory sitter had been located within that time.
+Be this as it may, the trial court’s finding that there was no evidence that it was a preconceived plan to enable relator to attend the football game, if not the undisputed evidence, precludes a finding that his statements to the bailiff which showed no fabrication constitute contempt.
+Relator is ordered discharged.
