@@ -1,0 +1,70 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,501"
+decided: "1953-06-24"
+citations: ["159 Tex. Crim. 72"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elmer Terry v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2473746
+---
+
+# Terry v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted for the offense of offering a bribe to a juror, and his punishment was assessed at two years in the penitentiary.
+George C. Choate, clerk of the district court of Howard County, Texas, testified that on February 23, 1952, the case of the State of Texas versus J. S. Rogers, No. 2748, was then pending on the docket of the district court of Howard County, Texas, and said cause was set for trial on March 3, 1952; he further testified that the records of his office revealed that on the 19th day of February, 1952, the jury list of those jurors who were to serve on March 3, 1952, was opened, that the name of L. M. Brooks appeared thereon, and that he was summoned to appear as a juror on said date.
+L. M. Brooks testified that he had known appellant, Elmer Terry, twelve or fifteen years, and appellant had traded at his store; he further testified that on or about the 23rd day of February, 1952, he received a telephone call from appellant saying “he had a good deal for me, to come out to see him;” that he went to the home of appellant, and was asked by appellant if he knew anything about the case of the Colorado City Hotel man, to which he replied “only what I have read in the papers,” then appellant said this man was a personal friend of his.
+In view of appellant’s insistence that the facts are insufficient to support the conviction, we will quote, in part, the testimony of the prosecuting witness, Brooks, verbatim, as follows:
+“A And that through his friendship it would be worth $250.00 to him if — I can’t remember the exact words whether —I just can’t remember the exact words “he used in the phrase there, and if I said them it would be strictly guessing.”
+********
+“Q What action on your part was to be worth $250.00? A Either a hanged jury or some other — I forget what term he used.
+“Q Some what? A Either to hang the jury or—
+“Q What was to be the effect of your action? Turn him loose? A That’s right.”
+******
+“Q * * * He told you it would be worth $250.00 to you to hang the jury or' acquit or words to that effect? A. Yes, sir.
+“Q That was out there at his house here in Big Spring, Howard County, Texas. A. Yes, sir.
+“Q He also informed you that you would be taken on the jury, or words to that effect. A. Yes, sir.
+“Q Up to that time you didn’t even know you were , on the jury panel? A No, sir.
+“Q And it was some six days later that you did receive a notice that you were on the jury panel. A That’s right.”
+Hi * * * * *
+On re-cross examination, the witness Brooks further testified:
+“Q The District Attorney asked you for the second time about that $250.00. You know Elmer Terry pretty well, don’t you? A Yes, sir.
+“Q Did he say he would pay you $250.00 or did he say it would be worth $250.00 to hang that jury or acquit Rogers? A I wouldn’t say for sure which it was.
+“Q Did he tell you directly or indirectly that J. S. Rogers would pay it? A No, he would pay it.
+“Q That he would pay it? A Yes, sir.”
+********
+“Q Didn’t you say, ‘Now, remember, Elmer, I haven’t seen you and you haven’t seen me?’ A That was his remark; not mine.
+“Q Didn’t you make that remark? A No, sir, he made that remark.
+“Q And he said ‘that he would pay it,’ pay the $250.00? A I. He said T.’
+“Q Sir? A According to the way I remember it, he said, T will.’
+“Q And according to your testimony he claimed to be a friend of J. S. Rogers. A Yes, sir.”
+Brooks further testified that on February 23rd appellant told him he would be on the jury panel, which he didn’t know at that time, but did receive a notice for jury service six days later. Brooks told appellant that he was not interested and left after being asked by appellant not to mention their conversation.
+Brooks also said that appellant came to his house while the grand jury was investigating the instant case and:
+“A He asked me if I had told them and I told him, ‘No.’
+“A And I told him it looked like I was going to have to.”
+“A And he said that if I did he would tell them it was a lie.”
+Appellant testified that on February 23, 1952, L. M. Brooks, in response to his telephone call, came to his home to repair a refrigerator which he bought from Brooks.
+Appellant denied that anything was said to Brooks about the J. S. Rogers case, denied offering any money to Brooks to bribe the jury and denied that he went to Brooks’ house and talked to him while the grand jury was in session. He said he did not know at that time that Brooks had been selected for jury service.
+Appellant testified that his brother, who lives in Mitchell County, told him before February 23rd that he was on the jury that first tried J. S. Rogers in Mitchell County.
+The evidence above set out sustains the conviction.
+Appellant contends that the court erred in overruling his motion for continuance, due to the absence of the witness J. S. Rogers, alleging that he had been duly summoned and, if present, would give testimony material to appellant’s defense.
+The record reflects that said motion is a subsequent application ; it is not shown that an attachment for said witness was requested or issued; no affidavit of the witness Rogers or other evidence stating what his testimony would be, if present, is found in the record. No abuse of discretion is shown in overruling the motion for continuance.
+Appellant further complains of the action of the court in permitting the state to ask appellant if it was not a fact that his brother was on the jury when J. S. Rogers was tried in Mitchell County, and in receiving his answer told he was.
+Appellant testified elsewhere, without objection, that his brother told him he was on the Rogers’ jury, hence no error is shown.
+Appellant contends that the court erred in refusing to submit his special requested instruction to the jury on the issue as to whether the witness L. M. Brooks was an accomplice.
+The court was correct in refusing this instruction in that there was no evidence raising such issue.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (GRAVES, Presiding Judge.)
+
+ON motion for rehearing.
+GRAVES, Presiding Judge.
+In his motion for rehearing, appellant complains because the original opinion in this matter makes no mention of the supplemental brief filed by him in which he called the court’s attention to the fact that two of the appellant’s character witnesses were asked by the district attorney if they knew anything about the appellant having been charged with other offenses prior to the present time. There seems to be no objection thereto disclosed by the record. Appellant complains of this as fundamental error and claims that the asking of such question should reverse this cause. We do not feel like extending the rule of fundamental error to such matter.
+The motion for rehearing is overruled.
