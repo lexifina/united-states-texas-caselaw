@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,486"
+decided: "1962-03-28"
+citations: ["172 Tex. Crim. 194"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Wm. Griffin v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0194-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2636424
+---
+
+# Griffin v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+Appellant was charged with the offense of defrauding with a worthless check, as a second offender. Proof was adduced as to the primary offense only, and of this the court found appellant guilty and assessed the punishment at a fine of $25.00.
+Jessie W. Clarke, manager of the Hospital T. V. and Radio Rental Service, testified that appellant, while confined in the North Houston Hospital, rented a television set from him; that appellant paid the $5.00 rental fee with a draft drawn on the “First City Natl., Houston, Texas”, and signed “C. W. Griffin, Amb. Service by Charles Wm. Griffin Special Acct”; that the draft was presented for payment in the regular course of business by the payee and refused by the bank, and that appellant was given notice by registered mail that the draft had been refused. He further testified that the television set, which was in the room occupied by appellant, would have been removed if appellant had not given the draft in payment for its use.
+Fred C. Hardy, custodian of the records of the First City National Bank of Houston, Texas, testified that he had made a careful search of the records of the bank and that such search revealed that there was no account in the name of C. W. Griffin Amb. Service or in the name of Charles Wm. Griffin Special Acct. and that appellant did not have an account in the bank on the date he issued the draft. He further testified that for a period of some two months prior to and in the months subsequent to the date in question appellant had no account in the bank.
+Appellant did not testify or offer any evidence in his behalf.
+We find the evidence sufficient to sustain the conviction. No formal bills of exception appear in the record, and no brief has been filed in appellant’s behalf.
+Finding no reversible error, the judgment is affirmed.
