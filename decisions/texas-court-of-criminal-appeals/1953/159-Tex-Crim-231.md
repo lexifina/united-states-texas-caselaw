@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,661"
+decided: "1953-12-09"
+citations: ["159 Tex. Crim. 231"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Floyd Daniel Morgan alias Junior Morgan v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477894
+cites_cases: ["238 S.W. 2d 200"]
+---
+
+# Morgan v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for aggravated assault upon a sheriff engaged in the performance of his official duties, the punishment six months in jail.
+Appellant was intoxicated on the streets of the town of Van, in Van Zandt County. Deputy Sheriff E. L. Smith attempted to arrest him at Dick Fowler’s filling station but appellant resisted arrest, cursed and said that he would not go with the officer. A telephone call was placed for the sheriff.
+When the sheriff arrived he saw appellant coming up the sidewalk “staggering drunk.” He got out of his car and told appellant he would have to take him to Canton, got him by the arm and went to the car. Appellant then said he was not going —that he had made his last trip to Canton, and was not going any more. They argued for several minutes and the sheriff “got hold of his arm.” Then appellant “grabbed ahold” of the sheriff with his hands and the sheriff “hit him over the head” with his gun, and appellant got the sheriff around the neck with his right arm in a manner demonstrated before the jury. He broke this hold when he heard the click of the pistol as the sheriff “snapped the safety off,” intending to shoot appellant “if he kept on fighting.”
+Other testimony is to the effect that appellant and the sheriff “had a struggle” which ended when the click of the safety was heard by appellant. Also there is testimony to the effect that in traveling to the county seat appellant invited the sheriff to get out of the car and fight, but the sheriff declined the invitation.
+It was established that .appellant knew that Clyde Elliott, the person he “struggled” with, was the sheriff of Van Zandt County at the time, and was informed that he was arresting him.
+There was a prior conviction alleged and proved.
+The arrest without warrant for drunkenness in a public place was lawful. See Cook v. State, 155 Tex. Cr. Rep. 580, 238 S.W. 2d 200.
+We are unable to agree that the evidence is insufficient to show that appellant made an assault on the sheriff in resisting the arrest, or that the trial court erred in refusing to submit to the jury the issue of self-defense against the use of excessive force by the sheriff in making the arrest.
+The act of appellant in “taking hold” of the sheriff’s arm after refusing to submit to arrest constituted an assault, and brought on the “struggle.”
+While we do not sanction the striking of a prisoner by the arresting officer with a pistol, the sheriff had the right and duty to make the arrest and to use all reasonable force necessary to overcome appellant’s resistance. This right is limited, however, by the rule that the officer can use violence only in his necessary self-defense. See Art. 241 V.A.C.C.P. and cases cited under Note 1.
+There is no testimony showing with what force the blow with the pistol was struck or that serious bodily injury resulted therefrom. Nor is there evidence to show that appellant was defending himself against excessive force or violence by the sheriff. As stated, appellant had assaulted the sheriff prior to being struck by the sheriff.
+Jury misconduct was alleged in the motion for new trial, and evidence was heard thereon. An issue of fact was raised by the evidence but we find no abuse of discretion on the part of the trial judge in reaching the conclusion that the jury did not discuss or consider the failure of the appellant to testify.
+It is contended that error is shown in that the court’s charge was prepared by the district attorney and not by the court. This contention is without merit. The trial judge adopted the charge and read it to the jury. It thereby became the charge of the court. If the charge as given be correct, it is immaterial who in fact prepared it.
+We find no error in the refusal of the requested charges.
+Appellant complains that he was not permitted to introduce in evidence a judgment of not guilty rendered upon a charge against him of driving an automobile while intoxicated, the offense allegedly occurring on the same day as the assault here charged.
+If the judgment was offered as proof that appellant was not drunk at the time of this arrest and assault, it was properly excluded. It is apparent that the jury’s finding in that case may have been upon many grounds other than their failure to find that the accused was intoxicated. We know of no theory upon which the evidence was admissible.
+We conclude that the evidence is sufficient to sustain the conviction and find no reversible error.
+The judgment is affirmed.
