@@ -1,0 +1,71 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,837"
+decided: "1952-05-14"
+citations: ["157 Tex. Crim. 458"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis Allala v. State."]
+source_url: "https://static.case.law/tex-crim/157/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2577231
+cites_cases: ["116 Tex. Cr. R. 432", "119 Tex. Cr. R. 455", "126 Tex. Cr. R. 402", "153 Tex. Cr. R. 481", "156 Tex. Cr. R. 327", "156 Tex. Cr. R. 492", "156 Tex. Cr. R. 493", "158 S. W. 537", "175 S. W. 1068", "221 S. W. (2d) 258", "232 S. W. 847", "236 S. W. 93", "240 S. W. (2d) 322", "242 S. W. (2d) 380", "244 S. W. (2d) 214", "248 S. W. (2d) 748", "25 S. W. 628", "34 S. W. 2d 863", "44 S. W. (2d) 694", "50 Tex. Cr. R. 234", "57 S. W. 648", "71 Tex. Cr. R. 108", "72 S. W. (2d) 249", "76 Tex. Cr. R. 504", "89 Tex. Cr. R. 577", "90 Tex. Cr. R. 560", "96 S. W. 23"]
+---
+
+# Allala v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is assault with intent to murder; the punishment, 5 years.
+The 370-page statement of facts may briefly be summarized by stating that the assault occurred at a tavern; the injured party testified that appellant and his brother made an unproyoked attack upon him, during the course of which appellant shot him in the stomach with a pistol; the appellant and his witnesses testified that the injured party was engaged in assaulting appellant with a knife at the time he was shot.
+The jury elected to accept the state’s version of the incident.
+We shall now discuss the questions raised by appellant in his brief.
+Bill of Exception No. 39 complains that appellant was asked, on cross-examination, if, immediately after the shot was fired and as he was leaving the injured party on his way back to his car, a bystander had said to him, “You shouldn’t have shot Manuel. I would have rather taken him home.” Appellant denied that such statement had been made.
+No error is shown by this bill, but we will discuss appellant’s contentions relating thereto, because we find that Bill of Exceptions No. 47 attempts to raise the same question arising from the testimony of the bystander himself.
+The subject of “Declarations by Bystanders” has often been discussed by this court, as will be seen from Branch’s Ann. P. C., Sec. 87, p. 56.
+The most recent expression of the rule may be found in Judge Beauchamp’s opinion in Tischmacher v. State, 153 Tex. Cr. R. 481, 221 S. W. (2d) 258. Therein, we said:
+“Appellant’s fifth ground for reversal, based on Bill of Exception No. 6, relates to the remark made by Bannister, as a bystander, at the time appellant attempted to strike Juanita Perry as she was pulling the deceased away from him. He made the remark in the presence of appellant and others: ‘It looks like he is going to kill her too.’ It appears that this remark made at the very time the act was committed is admissible under the rule of res gestae. It sprang spontaneously from and shed light on the transaction taking place, as reflected by the mind of the witness at the very time the attack was being made on Dooley which resulted in his death. It was so closely connected in time and place that it may be regarded as part of the very transaction and illustrates the feelings, motives and acts of appellant while he was stabbing his victim. It reflects the impression he was making on Bannister, as a bystander, and interprets the intention of appellant in making the attack on Dooley.”
+Appellant contends that the rule as set out by Judge Brooks in Ex parte Kennedy, 57 S. W. 648, should be given application here. There, we said, in effect, that before the state can prove declarations of a bystander, it must be clearly shown that the defendant understood himself to be accused and that the circumstances called for a reply.
+While this rule seems to have been enlarged somewhat through the years, we shall attempt to discuss this case in the light of what we said in the Kennedy case.
+The safest interpretation to be given any statement of a witness is the interpretation given it by those who heard the statement made.
+In the case at bar, the appellant evidently thought the statement of the bystander called for a reply, because, according to the testimony of the bystander, the appellant did reply thereto and denied the shooting.
+We conclude that no error is shown by the admission of this testimony. We note, in passing, that the objection interposed was insufficient.
+Appellant seeks to complain here of the statement made by the trial court in ruling on the objection interposed in Bill of Exception No. 39. No objection or exception appears to have been made to the statement of the court. The exception was to the ruling of the court and not to what the court said in making such ruling. We cannot bring ourselves to conclude that the statement of the court was a comment on the weight of the evidence. He merely gave his reasons as a matter of law for overruling the objection; further, this matter may not be raised by an informal bill.
+The court charged on the right of appellant to defend himself from actual danger. Appellant objected on the grounds that it did not charge on apparent danger.
+We must, first, examine the defensive evidence to determine if the issue of a shooting in self defense from apparent danger is raised thereby. Appellant testified that he was engaged in taking a drunken employee home from a tavern when the injured party sought to interfere therewith; that the injured party came at him with a “knife in his hand”; that he hit the injured party on the arm with a flashlight; that the injured party momentarily desisted; and appellant resumed his efforts to put his employee in the car. Appellant further testified that, while so engaged, someone* “hollered look out”; that he then saw the injured party “running at me with his knife like this and I shot.”
+We have reviewed the authorities and have concluded that the only logical rule to be gathered therefrom is that a charge on the appearance of danger is required only when the appellant relied upon the appearance of danger when he acted in his own self-defense. That is, if the danger had progressed from being an apparent danger to an actual or real danger, then no such charge is required.
+In 22 Tex. Juris., Sec. 287, pp. 1031-1082, we find the following :
+“An instruction as to the right to defend against apparent danger must be given whenever it is called for by the evidence. But it is not necessary to instruct as to apparent danger if the evidence does not raise the issue, as, for example, where it discloses only a real danger. Nor is it error to limit the right of defense to an actual attack if the evidence presents only the issue of an actual attack and no issue as to apparent danger.”
+In 22 Tex. Juris., Sec. 287, pp. 1931-32, we find the following :
+“It is not error to restrict the right of self defense to actual danger if the defensive theory is that deceased had his gun or pistol cocked and presented in a firing position, since this, if true, would be an attack. * * *
+“An advance to close quarters with a drawn knife is an attack, and if this is the defensive theory, it is not error to restrict the right of self defense to the theory that deceased had made an attack instead of charging on the theory that he was about to attack. * * *
+“It is not error to restrict the right of self defense to an actual attack if the only theory of self defense presented by the testimony is an actual attack, and the danger, if danger there was, was patent and real to the defendant.”
+In Cavil v. State, 25 S. W. 628, where the appellant had testified that deceased was holding him with his left hand and had a knife raised in his right hand, Judge Simkins said:
+“If the deceased had drawn his knife, and was threatening to strike defendant, as he states, there was no question of apparent danger, but it was real danger, and the charge was correct in this respect.”
+In Pinson v. State, 50 Tex. Cr. R. 234, 96 S. W. 23, where the evidence for the accused was that the deceased had raised his gun to a shooting position at the time he was shot by the appellant, Judge Davidson said:
+“If the defendant’s theory is correct, as made by his testimony * * *, then apparent danger was not in the case. It was a case of real danger.”
+In Rodriguez v. State, 71 Tex. Cr. R. 108, 158 S. W. 537, where the defendant testified that deceased had chased him some distance with a knife, we said that the issue of apparent danger was not raised, but, instead, the danger relied upon by the appellant was immediate, actual and pressing.
+The above decisions have been followed in Bankston v. State, 76 Tex. Cr. R. 504, 175 S. W. 1068; Jones v. State, 89 Tex. Cr. R. 577, 232 S. W. 847; and Mason v. State, 90 Tex. Cr. R. 560, 236 S. W. 93.
+The fact situation in the cases cited by appellant differentiate them from the above rule. In Privett v. State, 119 Tex. Cr. R. 455, 44 S. W. (2d) 694, the appellant testified that the deceased had his hand in his pocket, but that he did not know what he had in his hand. This defensive theory obviously raised the issue of apparent danger.
+In Sessums v. State, 126 Tex. Cr. R. 402, 72 S. W. (2d) 249, the appellant testified, “when he was coming at me, his right hand was in his right hand pocket.” This, too, illustrates an issue as to apparent danger.
+Appellant’s motion for new trial alleges jury misconduct occurring within the jury room. The same is sworn to by the appellant alone. This court has recently had occasion to pass upon the question of whose affidavit should be attached to the motion for new trial charging jury misconduct. In Ramirez v. State, 156 Tex. Cr. Rep. 262, 240 S. W. (2d) 322, we distinguished between jury misconduct which occurred within the jury room and that which occurred outside the jury room. There, we held that the affidavit of a juror or an officer in charge of the jury was not a requisite of the motion for new trial alleging jury misconduct which occurred outside the jury room.
+In Boone v. State, 156 Tex. Cr. R. 327, 242 S. W. (2d) 380, we held the rule to be that the affidavit must be made by some person in a position to know the facts.
+In Vowell v. State, 156 Tex. Cr. R. 493, 244 S. W. (2d) 214, wherein the jury misconduct alleged took place within the jury room, we held an affidavit of the juror to be essential.
+In Valdez v. State, No. 25,780, 156 Tex. Cr. R. 492, wherein the jury misconduct was alleged to have occurred within the jury room and the motion for new trial was sworn to by the appellant, we followed the holding in the Vowell case to the effect that the motion was insufficient as a pleading in that it was not supported by the requisite affidavit of a person who was in a position to know the facts, and that, where the court proceeded to hear evidence, his action in overruling the motion at any stage of the proceedings could not be assigned as error.
+In Jackson v. State, No. 25,803, (Page 323, this volume), 248 S. W. (2d) 748, the jury misconduct alleged occurred within the jury room. The trial court, there, declined to hear the testimony of the jurors on the ground that the motion was not sworn to by the appellant or his attorney. We reversed the conviction, calling the trial court’s attention to the fact that the motion was supported by the affidavit of the juror, which was requisite and sufficient.
+The reason for the rule lies in the fact that fishing expediditions are discouraged by requiring that the motion be supported by an affidavit of one who, under the allegations of the motion, was in a position to know the facts alleged in the motion.
+In line with the above holdings, we conclude here that the trial court’s action in overruling the motion for new trial cannot be assigned as error, because the motion itself was insufficient as a pleading.
+Finding no reversible error, the judgment of the trial court is affirmed.
+
+## Rehearing (BEAUCHAMP, Judge.)
+
+ON appellant’s motion for rehearing.
+BEAUCHAMP, Judge.
+In the original presentation of this case we were impressed with the contention that complaint was being made to the court’s charge on the ground that it did not submit the issue of apparent danger. That question was thoroughly discussed with the correct conclusion.
+As we understood the contention now presented, there is a further complaint that the charge given was too restrictive and reliance is had on Robidoux v. State, 116 Tex. Cr. R. 432, 34 S. W. 2d 863. Appellant says that the charge given in the instant case is almost identical with that given in the Robidoux case, for which a reversal was had.
+The complained of section of the charge in the Robidoux case reads as follows:
+“Now if you believe from the evidence, that the defendant, P. F. Robidoux, by striking and beating Wellits Moore with a blunt instrument, did kill the said Wellits Moore, and you further believe from the evidence that at the time of such killing, if any, the said Wellits Moore did make a pass or demonstration with a stick of wood that induced the defendant to believe, viewed by you from the defendant’s standpoint at the time, in the light of all the facts and circumstances in his, defendant’s knowledge, that he, the said Wellits Moore, was about to attack him, the defendant, * *
+Very clearly it is held that the charge is too restrictive in that it made the self-defense dependent upon whether or not the deceased “did make a pass or demonstration with a stick of wood.” This was to be viewed from the jury’s standpoint. No such charge is given in the instant case. The jury is instructed to consider the attack “as viewed from the standpoint of the defendant at the time, taking into consideration all of the facts and circumstances as they reasonably appeared to him, the defendant at the time, producing in his mind * * * a rational fear or expectation of death or serious bodily injury at the hands of said Manuel del Toro * *
+We have reconsidered the case in the light of the argument presented and are of the opinion that the correct conclusion was reached. The motion for rehearing is accordingly overruled.
