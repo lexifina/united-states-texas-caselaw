@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,569"
+decided: "1957-01-09"
+citations: ["164 Tex. Crim. 400"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ignacio Palacio v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2612722
+cites_cases: ["162 Texas Cr. Rep. 194", "163 Texas Cr. Rep. 619", "283 S.W. 2d 765", "294 S.W. 2d 822"]
+---
+
+# Palacio v. State
+
+## Majority (MORRISON, Presiding Judge. MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the possession of marijuana; the punishment, seven years.
+The record has now been perfected, and the order dismissing the appeal is set aside.
+Upon a former trial, this conviction was reversed because of the absence of probable cause to authorize the arrest and the incident search of the appellant’s automobile. Palacio v. State, 162 Texas Cr. Rep. 194, 283 S.W. 2d 765.
+Unlike the prior trial, facts were sufficiently developed to show that the officers were authorized to arrest the appellant because he was intoxicated in a public place and was driving while intoxicated. McEathron v. State, 163 Texas Cr. Rep. 619, 294 S.W. 2d 822, and cases there cited.
+There was an issue made at the trial as to whether or not the appellant was intoxicated; the trial court resolved the conflict in the evidence against the appellant, and a careful review of the record fails to reveal that he abused his discretion in admitting the marijuana in evidence.
+The legality of the arrest was and is the only serious question advanced by the appellant.
+Finding no reversible error, the judgment of the trial court is affirmed.
+ON STATE’S motion to reform sentence
+MORRISON, Presiding Judge.
+Our attention has now been directed to a variance between the judgment and the sentence.
+The verdict of the jury assessed the appellant’s punishment at seven years’ confinement in the penitentiary.
+The judgment followed the verdict and assessed his punishment at seven years.
+However, the sentence provided that he should serve not less than two nor more than five years.
+The sentence is now reformed so as to read that the appellant shall be confined in the penitentiary for not less than two nor more than seven years.
+It is so ordered.
