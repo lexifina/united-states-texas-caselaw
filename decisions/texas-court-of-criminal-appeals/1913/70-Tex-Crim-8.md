@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2169"
+decided: "1913-03-26"
+citations: ["70 Tex. Crim. 8"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jim Dawson v. The State."]
+source_url: "https://static.case.law/tex-crim/70/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2379842
+---
+
+# Dawson v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was indicted, charged with murder, and when tried he was convicted of manslaughter.
+The application for a continuance not being copied in the record, nor embraced in the bill of exceptions, we can not determine whether or not the court erred in overruling the motion.
+The evidence in this case shows that appellant and deceased were hauling gravel for Frank Williams, each of them having a separate wagon. The morning of the difficulty they had some words, but they parted without coming to blows; that afternoon they both drove to the gravel pit to load their wagons, when deceased remarked to appellant that it was a good time to settle their little trouble. Appellant exhibited a willingness to do so, and they fought, deceased finally getting appellant down, and was getting the best of the fight when appellant asked Mr. Williams to pull deceased off. Deceased got up, and then appellant got up, and they began'quarreling again, and after a war of words deceased knocked appellant down, knocking a knife out of his hands. Appellant again asked Williams to pull deceased off of him. They then engaged in another quarrel, and appellant told deceased he was not able to fight him with his fist, and when he came back to the gravel pit “to come back fixed,” deceased replying, “All right, I will be back.” They continued to talk and quarrel, when another fight ensued. In this third fight appellant cut deceased with a knife, from which wounds he died shortly.
+The court did not submit the issue of aggravated assault, although the appellant requested him to do so, presenting a special charge. Appellant testified he did not intend to kill deceased; that deceased was the larger and more robust man, weighing one hundred and seventy pounds, while he weighed only one hundred and thirty-five; that he cut him to keep him from beating him to death. We are not passing on whether or not the evidence would authorize the verdict that appellant was guilty of manslaughter, for clearly that offered by the State would do so, but the question presented is, did the evidence offered in behalf of defendant raise the issue of aggravated assault. Our Code provides that the instrument or means used are to be taken into consideration in judging the intent of the party offending, and if the instrument be one not likely to produce death, it is not to be presumed that death was designed, unless from the manner of its use such design evidently appears, and if a homicide occurs under the influence of sudden passion, by the use of means not calculated to produce death, such offender may be convicted Of any grade of assault. The instrument used in this case was a pocket-knife. The size of it is not shown, and there is no evidence that it was a deadly weapon, and we can not say that from the manner of its use the intent to kill is made evident, beyond question, and We are therefore of the opinion the court erred in failing and refusing to charge on aggravated assault. (Chap. 18, Eev. Code, and authorities there cited.)
+Again, no evidence was introduced that deceased had made any threats to or concerning appellant. A fight came up; deceased was the larger man, and was getting the best of the fight, when appellant cut him. This evidence did not authorize the State to introduce evidence that deceased’s general reputation as to being a peaceable, law-abiding man was good, and the court erred in admitting this testimony. (Branch’s Crim. Law, sec. 474.) In this case, from all the testimony, it appears that deceased was as ready and willing to fight as appellant, and entered into it as willingly.
+The other matters complained of present no error, but on account of the errors above noted, the judgment is reversed and the cause is remanded.
+Reversed and remanded.
