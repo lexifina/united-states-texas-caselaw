@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,309"
+decided: "1962-02-14"
+citations: ["172 Tex. Crim. 201"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lonnie Albert Johnson v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2640045
+cites_cases: ["171 Texas Cr. Rep. 136", "345 S.W. 2d 754"]
+---
+
+# Johnson v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is driving while intoxicated; the punishment, 30 days in jail and a fine of $100.00.
+Highway patrolman Crook testified that when he arrived upon the scene of the accident appellant was alone in an upturned automobile which had come to rest in a ditch. He stated that the banister of a nearby bridge was broken and “a two by six driven through defendant’s car that had come off this end of the bridge”; that all the doors of the automobile were locked and the windows . rolled up; that he broke one of the glasses, asked appellant if anyone was with him, and appellant replied that he was alone and had been driving. As Crook was helping appellant out of the ditch and onto the highway, appellant at first laughed but then used vile language and tried to fight him as he put him in the patrol car. Crook stated that appellant smelled strongly of intoxicants, staggered when he walked, and spoke in a slurred manner as if with a thick tongue, and expressed the opinion that he was intoxicated. Appellant was carried to the Pasadena Hospital, where a specimen of his blood was taken with his consent and mailed to the Department of Public Safety laboratory.
+Truck driver Quinn, who was with Officer Crook at the time he received a call, accompanied him to the scene, and corroborated the officer’s testimony.
+Chemist and toxicologist Byrd of the Department of Public Safety laboratory testified that he ran a test on the blood sample which was identified by Crook and found it to contain .24 per cent alcohol by weight, which was indicative of intoxication.
+Appellant did not testify or offer any evidence in his own behalf.
+We shall discuss the contentions advanced by appellant in his brief. He first contends that the court erred in permitting Officer Crook to testify that in his opinion the automobile had been in the position he found it between 30 and 45 minutes prior to his arrival. He stated that he had been a patrolman for five years, had had occasion to feel the hoods of automobiles in an effort to determine if an automobile had been driven recently, and, based upon the heat of the hood plus the fact that gasoline was still running out of the automobile, he formed his opinion. We conclude that the officer was qualified to express an opinion and can perceive of no injury to appellant from such testimony.
+Appellant complains of the testimony of Chemist Byrd on the grounds that there was no proof that the Fisher electrospectrophotometer which he used in running the test was accurate and in good working condition. The witness testified that he checked the instrument for accuracy each time before it was used and if any repairs were needed it would be returned to the Fisher Company for the same. We find no merit in appellant’s complaint.
+Appellant’s last complaint relates to the court’s failure to charge on the law of circumstantial evidence. Recently, in Jarnigan v. State, 171 Texas Cr. Rep. 136, 345 S.W. 2d 754, we had a similar contention. There, we said:
+“Williamson’s testimony that appellant was standing by the truck immediately after the collision, that the door was open, that no one else was nearby, plus appellant’s statement that the brakes had failed, were sufficient facts to constitute direct evidence that appellant had been the driver at the time of the collision.”
+The facts before us here are stronger than in Jarnigan.
+Finding no reversible error, the judgment of the trial court is affirmed.
