@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1163"
+decided: "1928-02-29"
+citations: ["110 Tex. Crim. 145"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. U. Stewart v. The State."]
+source_url: "https://static.case.law/tex-crim/110/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5156509
+cites_cases: ["86 Tex. Crim. Rep. 205", "87 Tex. Crim. Rep. 542"]
+---
+
+# Stewart v. State
+
+## Majority (MARTIN, Judge.)
+
+MARTIN, Judge.
+Appellant was charged by information with the theft of certain personal property, the information further alleging that he was under the age of seventeen years “which under the laws of the State of Texas constitutes him as a juvenile.” The verdict of the jury found him guilty as a delinquent child and assessed his punishment at “commitment to the Boys Training School at Gatesville, Texas, for an indeterminate period, not to exceed the time when he shall reach the age of twenty-one years.”
+A motion for continuance was made but the same is not brought forward by bill of exception. The point was attempted to be preserved by an order entered on the minutes containing a recital of the presentment of the motion and order refusing §ame and an exception to such order. This is not sufficient to present the question. Wilson v. State, 87 Tex. Crim. Rep. 542. Tippins v. State, 86 Tex. Crim. Rep. 205. Branch’s P. C., Sec. 304.
+It is claimed that the information is insufficient because there is no specific allegation that appellant was a delinquent child, but instead it was alleged that he was a juvenile. Art. 1084, C. C. P., requires the Court to transfer any case to the juvenile docket where he is satisfied from the evidence under an affidavit showing the age of accused to be under seventeen years of age of the truth of such matter. This article provides for a trial under this same indictment though the indictment does not contain an allegation as to his age. In other words, the provisions of Title 16, C. C. P., appear to provide and authorize a trial of an accused as a delinquent child on an ordinary indictment. The information in this case did in fact state the age of the accused and the Court would have been inhibited from trying the appellant as in ordinary criminal cases and was forced to try appellant as a delinquent child under the allegations of the indictment and we think same are sufficient.
+The appellant was ordered committed to the Boys Training School in Coryell County. The verdict found him guilty and assessed his punishment at confinement in the Boys Training School at Gates-ville. It is insisted that there is no such institution, the only one named by law being the State Juvenile Training School. It is held in Tippins v. State, 86 Tex. Crim. Rep. 205, that if proper place of confinement should not be designated in the judgment, same could be corrected on appeal. The rule is stated by Mr. Branch as follows: “When on appeal the court has the same data for the reforming or correction of the judgment as the trial court would have were the judgment reversed or the appeal dismissed, the judgment will be reformed and corrected on appeal.” Branch’s Penal Code, Section 668. There was no objection to the verdict as returned nor was any request filed asking the jury to confine appellant in or place him with any particular institution. The State Juvenile Training School is the only state penal institution provided by law for the confinement of boys under seventeen and we judicially know that same is located in Gatesville, Coryell County. The entire record shows that it was the State Juvenile Training School at Gatesville which was in the mind of the court and jury during the trial and to which they intended to commit appellant. The judgment and order of commitment will therefore be reformed in accordance with the plain intention of the jury and court.
+Finding no errors in the record, the judgment will be reformed in accordance with the above and as reformed will be affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+We have again reviewed the evidence in view of appellant’s motion and are of opinion that same is entirely sufficient. Following the loss of the car taken by appellant, it was found in his possession and witnesses were introduced who testified that he told them he had bought the car, and that the tools in it were his. When arrested appellant and some girls and a young man were in the car, and upon being asked whose car it was, appellant said it was his and that he had a bill of sale to it.
+Complaint is made in the motion of our failure to discuss the application for continuance. The absent witness would have testified to facts which were substantially given in evidence by the State witnesses, and we deem the action of the court in declining to continue the case, not erroneous.
+We are not in sympathy with the criticisms of our opinion based upon its failure to strictly construe the provisions of the delinquent child law. Said law was intended to be reformatory and remedial and for the benefit of youthful criminals, and we think its provisions should be construed liberally to carry out its purpose.
+The introduction of evidence after both sides have closed, is a matter within the discretion of the court, and we do not believe such discretion to have been abused in the instant case.
+The motion for rehearing will be overruled.
+Overruled.
