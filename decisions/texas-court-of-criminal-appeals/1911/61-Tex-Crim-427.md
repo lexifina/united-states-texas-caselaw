@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "998"
+decided: "1911-03-01"
+citations: ["61 Tex. Crim. 427"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bill King v. The State."]
+source_url: "https://static.case.law/tex-crim/61/cases/0427-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4602610
+---
+
+# King v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+—The only proposition submitted for reversal is the alleged insufficiency of the evidence. We are of opinion this is not well taken. The conviction was for assault.
+The record discloses that appellant called Hall into his cold drink stand, where trouble ensued between them, in which appellant drew his pistol on him and presented it. Hall backed out and left. This is the State’s case. This occurred on the 27th day of December. Appellant claimed that he had the pistol on the 24th of December in order to frighten some hoys away who had been throwing firecrackers at his cats; and he also states that the occasion he testifies about was the only one on which he had the pistol. The State in rebuttal introduced witnesses to show that the trouble he had with the boys about the cats occurred on the 24th and not the 27th of December. We are of opinion this evidence is sufficient under article 592 of the Penal Code, where this language is found: “But the use of any dangerous weapon or the semblance thereof in an angry, threatening manner with intent to alarm another and under circumstances calculated to effect that object comes within the meaning of an assault.”
+Being of the opinion that the evidence is sufficient to ju'stify the conviction, this judgment ought to be affirmed and it is so ordered.
+Affirmed.
