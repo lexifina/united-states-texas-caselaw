@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,289"
+decided: "1962-05-30"
+citations: ["172 Tex. Crim. 518"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morris S. Jean v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0518-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2637834
+cites_cases: ["163 Texas Cr. Rep. 367", "166 Texas Cr. Rep. 180", "292 S.W. 2d 114", "312 S.W. 2d 654", "340 S.W. 2d 492"]
+---
+
+# Jean v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is operating a motor vehicle upon a public highway while intoxicated, after having been convicted of the misdemeanor offense of driving while intoxicated; the punishment, 90 days in jail and a fine of $100.
+Chief Deputy Sheriff Raymond Spraberry testified, without objection, that he observed the appellant driving a pickup on a public highway in the City of Hamlin, in Jones County; that the pickup was weaving to one side and then the other; that he stopped appellant shortly after 10 o’clock P.M., observed him; talked with him and, from his conversation and actions, formed the opinion that appellant was under the influence of intoxicating liquor.
+The arresting officer also testified that he found some 19 bottles of beer in the pickup driven by appellant, and from his breath and actions he assumed that appellant drank the 5 bottles of beer missing from the 24 bottles case.
+A sample of blood taken from appellant at the hospital, shortly after his arrest, was shown to have been analyzed and found to have an alcohol content of 0.15 percent, and there was testimony that a person with that amount of alcohol in his blood is intoxicated. '■
+Records of the Driver and Vehicle Division of the Texas Department of Public Safety showing the issuance of a license to “Morris Sheppard Jean who is described as a white male, gray eyes, brown hair, 175 pounds, 5 feet 11 inches tall, born on June 7, 1912, and whose address is listed as Route 3, Hamlin, Texas” were introduced without objection. The number of such license corresponds with the number of the license which the arresting officer found on appellant’s person.
+The record of the Department of Public Safety introduced also shows that Morris Sheppard Jean was “convicted for driving while intoxicated in Cause No. 11658, County Court, Parker County, Texas, filed 1-8-57.”
+The complaint, information and judgment in said numbered cause, in the County Court of Parker County, were introduced.
+Appellant’s first ground for reversal relates to defects and irregularities in the county court judgment, one of which was that the judgment ordered that the defendant’s driver’s license be suspended for 12 months, whereas the statutes provide for an automatic suspension of 6 months. We do not deem the defects such as would render the judgment insufficient for use in charging a subsequent offense of driving while intoxicated.
+The jury had the opportunity to observe appellant and determine by comparison with the description in the record whether he was the same Morris S. Jean as the person previously convicted. Valero v. State, 170 Tex. Cr. Rep. 302, 340 S.W. 2d 492; Goolsby v. State, 166 Texas Cr. Rep. 180, 312 S.W. 2d 654; Rice v. State, 163 Texas Cr. Rep. 367, 292 S.W. 2d 114.
+The appellant was known in the community where he was tried. He called witnesses who saw him on the night in question and testified that they saw no evidence of his being intoxicated.
+The jury resolved the issue of appellant’s intoxication against him and found that he was the same person who was previously convicted as alleged in the indictment. We find the evidence sufficient to sustain the conviction.
+The judgment is affirmed.
