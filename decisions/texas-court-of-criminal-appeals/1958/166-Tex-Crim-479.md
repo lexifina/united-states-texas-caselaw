@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,952"
+decided: "1958-10-08"
+citations: ["166 Tex. Crim. 479"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ealem Bayless v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0479-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2619361
+cites_cases: ["147 Texas Cr. Rep. 62", "149 Texas Cr. Rep. 260", "178 S.W. 2d 274", "193 S.W. 2d 211"]
+---
+
+# Bayless v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is driving a motor vehicle upon a public highway while intoxicated; the punishment, three days in jail and a fine of $50.
+The evidence from the standpoint of the state is sufficient to sustain a finding that appellant was intoxicated when arrested by highway patrolmen who observed him driving an automobile on a three lane highway. The jury resolved against him the issue raised by testimony of appellant and his witnesses that he was not intoxicated.
+Reversal is sought upon two formal bills of exception, both complaining of the overruling of a challenge of a prospective juror for cause.
+The testimony of the two jurors on voir dire is made a part of each bill, and relates to the juror’s attitude toward the use of intoxicating liquor. It is appellant’s contention that the voir dire examination shows that the jurors were prejudiced, especially in regard to punishment, and his peremptory challenges should have been sustained.
+The bills of exception show that appellant exercised a peremptory challenge on said jurors and that he used all of his peremptory challenges. It is not shown that any juror who served was objectionable to appellant.
+In Salazar v. State, 149 Texas Cr. Rep. 260, 193 S.W. 2d 211, cited by appellant, the bill of exception revealed that the defendant was forced to accept a juror who, but for the erroneous overruling of a challenge for cause to another venireman, the defendant would have peremptorily challenged.
+Since Wolfe v. State, 147 Texas Cr. Rep. 62, 178 S.W. 2d 274, it has not been required that the defendant show why a juror accepted by him after his peremptory challenges had been exhausted was objectionable to him. However, neither Salazar v. State, supra, nor Wolfe v. State, supra, relieves the appellant of showing that he was forced to accept a juror who was objectionable to him.
+It not appearing that any juror served who appellant desired to excuse or challenge, or who was objectionable to him, the bill shows no error calling for reversal. Branch’s Ann. P.C., 2d Ed., Sec. 563;
+The judgment is affirmed.
