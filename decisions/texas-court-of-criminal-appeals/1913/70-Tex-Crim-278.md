@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2329"
+decided: "1913-04-02"
+citations: ["70 Tex. Crim. 278"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wesley Gibbs v. The State."]
+source_url: "https://static.case.law/tex-crim/70/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2382120
+cites_cases: ["127 S. W. Rep., 206", "129 S. W. Rep., 626", "132 S. W. Rep., 385", "133 S. W. Rep., 885", "42 Texas Crim. Rep., 542", "44 S. W. Rep., 152", "58 Texas Crim. Rep., 647", "59 Texas Crim. Rep., 511", "60 Texas Crim. Rep., 366", "61 Texas Crim. Rep., 34"]
+---
+
+# Gibbs v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of carrying on and about his person a pistol in violation of the law, the jury assessing his punishment at a fine of $100.
+There are several right- important questions in the case, based upon the statement of facts and bills of exception. These can not be considered, hoivever, inasmuch as they were filed-more than twenty days after the County Court had adjourned. The caption shows the court adjourned on the 12th of October. The bills of exception and statement of facts were filed on the 5th of November, or more than twenty days after the adjournment of the court. In this condition of the record the statement of facts and bills of exception can not be considered. In the absence of the evidence and bills of exception none of the matters presented for revision can be entertained or revised.
+As the record is presented the judgment will be affirmed and it is accordingly so ordered.
+Affirmed.
+
+## Rehearing (DAVIDSON, Presiding Judge.)
+
+ON REHEARING.
+April 30, 1913.
+DAVIDSON, Presiding Judge.
+On a former day of the term the judgment herein was affirmed without reference to the merits of the case, the statement of facts having been filed too late. The motion for rehearing shows the statement of facts was approved by' the attorneys upon both sides and handed to the county judge for his approval on the thirteenth day after court adjourned; that the judge promised to approve and file the facts within the time allowed, but thinking there was thirty days allowed for the purpose he postponed it and did not file same until the 5th of November, the court having adjourned previously on the 12th of October. The county attorney and the attorneys in the case make this appear to be correct, and that the failure to- get the statement of facts filed in time arose from no fault of the attorneys for appellant or the State. It having been approved, although out of time, as a correct statement of facts, we will consider the same as if filed within time. A different rule would apply if the appellant had been deprived of a statement of facts, but in this case the facts were approved as correct, and the only trouble was they were filed too late.
+The evidence shows substantially and in brief that appellant had rented what is called the “picnic grounds” from Mr. Sloan. The picnic grounds adjoined the home of appellant or place where he had been living for years,—a short strip of land a few feet in width intervening between his home place and the Sloan picnic grounds. The place where he had the pistol was about 200 to 300 yards from where the people were assembling for picnic purposes. The picnic ground for the occasion had been rented to and was controlled by appellant, as shown by all the testimony without contradiction. The State’s theory was that appellant had the pistol in a difficulty between himself and his brother on one side, and an officer named Collins on the other. The appellant’s testimony is that he had no pistol; carried none, and that when Collins and his brother got into a difficulty, that he, being informed of that fact, ran to where they were and took the pistol away from his brother, and by this means he had the pistol on his person. There is considerable amount of testimony pro and con in reference to this matter, but this is a sufficient statement of the case.
+If appellant had the premises rented for the day they were under his control. Premises, under the circumstances, are under the control of the accused whether it be permanent or temporary, and under such circumstances he has a right to have a pistol on the premises. It will be noted that he was not charged with carrying a pistol into an assembly, nor do the facts show that he carried it into an assembly, nor where people were assembled. It was two or three hundred yards away from where the people were assembling. If he took the pistol from his brother he was not guilty of carrying the pistol. If he carried the pistol on that part of the premises and not where people had assembled or were assembling, he still would not be responsible for violating the law. It is the law that a party can not carry a pistol into an assembly of people, although the premises belong to him. The statute interdicts all others except peace officers from carrying a pistol under such circumstances. The authorities on both propositions are well settled. So from neither standpoint do we believe this evidence justifies the conviction of this negro.
+There is another question in the case reserved by bill of exceptions to the ruling of the court in the admission of certain testimony. This bill shows that while the State’s witness Matthews was upon the stand he was asked the question by the county attorney, “What did you hear Will Gibbs' say about going to take a gun awáy from Mr. H. W. Collins?” Various objections were urged to this, among others, that defendant was not present and knew nothing about what Will Gibbs said, nor was there any conspiracy or acting together between defendant and Will Gibbs shown. The witness answered, “Will Gibbs said, ‘That white son of a bitch (meaning Collins, the deputy sheriff) pulled a gun on me a while ago, and I. am going down there to the picnic grounds and take it away from him.’” It is also recited as a fact defendant was not present at the time this statement was made. Defendant also moved to exclude the answer so made, because the statement was made by Will Gibbs in the absence of defendant, and there was nothing in the evidence to show that there had been any conspiracy between the defendant and his brother, Will Gibbs, to do any unlawful act, and the statements were highly prejudicial to the defendant in the trial before a white jury, the same being a declaration made by defendant’s brother regarding a white man, the defendánt and his brother both beingnegroes; and further, because the said statement was .irrelevant and immaterial, etc. We think this evidence ought not to have gone to the jury. It is shown appellant was not present, did not hear Will Gibbs make the statement, and, therefore, he is n"ot chargeable with it.
+There is another question raised to the ruling of the court refusing to continue the case. It is unnecessary to discuss this. . The witnesses can be obtained upon another trial. We are of opinion the motion for rehearing should be granted, the affirmance set aside, and the judgment reversed and cause remanded, and it is accordingly so ordered.
+Reversed and remanded.
