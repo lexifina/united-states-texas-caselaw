@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Texas"
+decided: "1860-10"
+citations: ["25 Supp. Tex. 343", "25 Tex. Supp. 343"]
+reporter: "tex"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["European-American Colonization Society v. J. C. Reed."]
+source_url: "https://static.case.law/tex/25-supp/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2151822
+cites_cases: ["14 Tex., 343", "15 Tex., 546", "20 Tex., 487"]
+---
+
+# European-American Colonization Society v. Reed
+
+## Majority (Wheeler, C. J.)
+
+Wheeler, C. J.
+—That the unappropriated public land within the limits of Peters’ colony was open to general location and appropriation by the holders of valid land certificates, when the plaintiff made his location, on the 26th of December, 1848, has been heretofore decided. (Stewart v. Crosby, 15 Tex., 546.)
+There can be no question that the plaintiff’s was a legal appropriation of the land, and that he is entitled to recover in this action, unless the land had been previously appropriated by Griffin, under whom the defendants claim, by virtue of the rights secured to him by law as a colonist in Peters’ colony. But, to give such right, actual settlement and cultivation were necessary, by the laws and contract of colonization, prior to the act of the 21st of January, 1850. (Crockett v. Robinson, 20 Tex., 487, 489; Myers v. Cockrill, 14 Tex., 343.)"
+Griffin had neither made a settlement nor any improvement upon the land. He had settled upon an adjoining section, and the law then confined him to one section-, to be surveyed in the form of a square. (Hart. Dig., Art. 2011.) It was not until the enactment of the law of the 21st of January, 1850, that provision was made for dividing a section between two settlers, -and the location of the residue of their respective claims upon other land; and the law then required them to find vacant land upon which to make their location. (Id. Art. 2232.) The land in question was not then vacant. There had been a legal appropriation of it by the plaintiff, and. it was effectually withdrawn from the claim of Griffin. It was not within his power, then, to appropriate it to his colonist claim or certificate. He had done no act which, by virtue of any law existing at the time, or prior to the plaintiff’s location, gave him any estate or interest in the land. He had no equity, on which any after-acquired right could operate by relation to invest him with the title. If he had subsequently acquired a patent, there was nothing upon which it could have relation back, so as to give it precedence to the right of the plaintiff. But he did not obtain a patent, or acquire any right or title whatever to the land here in question. There is no ground for the supposition that he acquired'it by a legislative grant. Neither the law of the 10th of February, 1852, nor that of the 8th of February, 1854, was intended to operate or did operate as a grant, to Griffin or his assignee, of the land in controversy. The object of the legislation manifestly was, not to grant titles to designated sections of land in particular, but to secure to the colonists the lands to which they then were, or might thereafter become, entitled; those which they had secured or should secure hy surveys “ duly made ” upon vacant land. Ro law had authorized them to make their surveys upon land which was not vacant. It was not the intention of the legislature, in their behalf, to give them such authority. The legislature contemplated no such injustice as the taking from one man that which he had lawfully acquired and giving it to another. They did not intend to take from those who had acquired the right to land, by said locations, the land they had thus secured, and give it to the colonists. There is nothing in the legislation upon the subject to give countenance to such a supposition; the contrary is manifest throughout. They are required to make their selections and locations upon vacant land. The question, therefore, does not arise in this case, whether it is within the legislative competency to divest the right of one, in order to confer the title upon another, if they were so disposed. They have manifested no such disposition in this instance. The defendants, manifestly have no title, legal or equitable, to the land in controversy.
+The charge of the court presented, as we conceive, truly the law of the case, and the verdict was manifestly correct. But the judgment does not follow the verdict. The jury found for the plaintiff $500 damages, and the judgment is for $550. This is. an error in the rendition of the judgment, for which it must be reversed; and such judgment must be here rendered as the court below ought to have rendered.
+Reversed and rendered accordingly.
