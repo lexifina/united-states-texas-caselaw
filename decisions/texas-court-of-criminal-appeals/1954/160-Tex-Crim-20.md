@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,896"
+decided: "1954-04-14"
+citations: ["160 Tex. Crim. 20"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harry O. Skaggs v. State."]
+source_url: "https://static.case.law/tex-crim/160/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468635
+cites_cases: ["114 S.W. 2d 555", "188 S.W. 2d 393", "252 S.W. 2d 933"]
+---
+
+# Skaggs v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for the felony offense of driving while intoxicated as defined in Art. 802b V.A.P.C.; the punishment, 10 days in jail.
+The indictment was attacked in the trial court by motions to quash, the contention being that there was no definite allegation that appellant had been previously convicted of the misdemeanor offense of driving a motor vehicle upon a public highway while intoxicated.
+After alleging that appellant, while intoxicated, drove an automobile upon a public road in Donley County on or about October 6, 1952, the indictment alleges: “and the Grand Jurors do further present that prior to the commission of the aforesaid offense by the said Harry O. Skaggs, to-wit; on the 15th day of August A.D. 1950 in the County Court of Donley County, Texas, and on the 28th day of February, 1952, in the District Court of Donley County, Texas, the said Harry 0. Skaggs was duly and legally convicted in said last named courts of an offense of like character as that hereinbefore charged against him in this cause, upon an information then legally pending in the County Court of Donley County, Texas, and upon an indictment then legally pending in the District Court of Donley County, Texas, and of which the said Courts had jurisdiction.”
+An essential ingredient of the felony offense defined in Art. 802b P.C. is that the accused committed the presently charged act after he had been convicted of the misdemeanor offense of driving a motor vehicle upon a public road or highway while intoxicated.
+Allegations as to prior convictions more definite than those in the above quoted portion of the indictment before us, where made for enhancement of punishment under Art. 61 P.C., have been held indefinite and insufficient, the allegation that the prior conviction was for an offense of like character being but a conclusion. Waltrip v. State, 134 Tex. Cr. Rep. 202, 114 S.W. 2d 555; Hawley v. State, 158 Tex. Cr. Rep. 61, 252 S.W. 2d 933.
+It is apparent that the requirement for certainty cannot be relaxed where, as here, the former conviction for a specifically named offense constitutes an essential element of the felony charged in the indictment.
+The indictment in Broughton v. State, 148 Tex. Cr. Rep. 445, 188 S.W. 2d 393, cited by the state, alleged that the defendant, prior to the commission of the act presently charged, was convicted on a stated date, and had been convicted in a named county court in a certain numbered cause “of the offense of driving and operating a motor vehicle upon a public street while intoxicated .... the same being an offense of like character and of the same nature as that heretofore charged against him in this cause . . . .”
+The holding that such allegation was not subject to the objection addressed to it in no way conflicts with our holding here. There is no allegation here that appellant had been previously convicted of driving a motor vehicle on a public road while intoxicated.
+The prior conviction in the district court was for a felony offense and resulted in a suspended sentence. It should not have been alleged. As to the prior conviction in the county court, the indictment should have set out the style and number of the case and alleged that the conviction was against appellant for the offense of driving a motor vehicle upon a public road while intoxicated.
+For the error in overruling the motions to quash that part of the indictment which attempted to allege prior convictions, the judgment is reversed and the cause remanded.
