@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9996"
+decided: "1926-03-10"
+citations: ["103 Tex. Crim. 447", "281 S.W. 872"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ellis Jarrett v. The State."]
+source_url: "https://static.case.law/tex-crim/103/cases/0447-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5115569
+---
+
+# Jarrett v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+Conviction is for unlawfully carrying a pistol, with punishment assessed at a fine of $100.
+The facts disclose that appellant and his wife had separated on account of some trouble or misunderstanding between them during the night of April 17, 1925. The next day appellant’s wife took her two small children and left them with a sister. On Sunday, the 19th of April, appellant went to where the children were, got them and was on the way to his own home with them. He was overtaken by two of his wife’s brothers. A difficulty occurred in which appellant was cut with a knife and one of the brothers shot with a pistol by appellant. It was for carrying the pistol upon this occasion that the prosecution was had.
+By his evidence substantially as follows appellant accounts for having the pistol: That one Sparks had previously told appellant that he (Sparks) desired to buy a pistol; that appellant had carried the pistol to Sparks’ house for the purpose of selling it, but Sparks concluded not to purchase; that as appellant did not intend to return home immediately, he •left the pistol with Sparks until some convenient time when appellant could get it; that on the morning in question he was at a small store near Sparks’ house and the latter told him he did not want to buy the pistol and asked appellant to take it home; that Sparks himself went to his (Sparks’) house, got the pistol and delivered it to appellant. This part of appellant’s testimony is borne out by the testimony of Sparks. Appellant says after getting the pistol he went by the house where his children had been left, got them and was on his way home when the altercation occurred which has been referred to.
+There is nothing in the record advising this court that the house at which appellant’s children were was not on a direct line between the point where he received the pistol from Sparks and appellant’s home. The names of certain streets are given, but this court has no knowledge of their relative location. There is nothing to rebut the contention that it would have been appropriate to charge upon the right of appellant to take the pistol from Sparks’ home to his own. The court gave no defensive instruction upon this point at all. The charge was excepted to for the omission and a special charge requested submitting such issue to the jury. In qualifying the bill the learned trial judge says that the evidence showed that appellant went to Sparks’ home and got the pistol about nine or nine-thirty o’clock in the morning, and that appellant lived in another part of town; that after getting the pistol from Sparks appellant placed it in his pocket and some time before twelve o’clock went to the place where his children had been left and had gone some seven or eight blocks with the children at the time the altercation occurred. The learned trial judge seems to have been under the impression that under these circumstances the court was relieved of the necessity of charging upon the right of appellant to take the pistol home. We think in this respect the court fell into error. The facts may have raised the issue whether appellant was unnecessarily deflecting from' his journey home, or whether he had been loitering about the streets with the pistol on his person before beginning the journey, but we think the evidence also raised the issue of a legitimate right to take the pistol from the proposed purchaser back to appellant’s home.
+The judgment must be reversed and the cause remanded.
+Reversed and remanded.
