@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,075"
+decided: "1961-03-01"
+citations: ["170 Tex. Crim. 621"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ed Workman v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0621-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2623287
+---
+
+# Workman v. State
+
+## Majority (WOODLEY, Presiding Judge)
+
+WOODLEY, Presiding Judge
+Appellant was tried in the County Court of Cochran County, before a special judge and a jury, upon complaint and information alleging that he committed an aggravated assault upon Raymond Kuykendall, a special deputy sheriff who was in the discharge of his official duties.
+Appellant sought to have the jury instructed to acquit if they found that Kuykendall was not a special deputy sheriff discharging his official duties, but the court submitted both aggravated assault and simple assault.
+The jury returned the following verdict: “Guility of simple assault, and we the jurors assess the defendant fine maximum Penalty.”
+The judgment rendered and entered recites that the following verdict was returned and entered: “We, the jury, find the defendant Ed Workman guilty, and assess a fine of $25.00 and Court cost of $58.30.”
+Following this verdict, the judgment from which this appeal is prosecuted recites:
+“It is therefore considered, ordered, and adjudged by the court that the defendant, Ed Workman, be immediately discharged from all further liability upon the charge for which he has herein been tried and that he go hence without day.”
+The judgment rendered in effect upheld appellant’s contention that he was entitled to acquittal if not found guilty of aggravated assault.
+In any event, the judgment appearing in the transcript is not a judgment of conviction from which an appeal may be taken to this court.
+The appeal is dismissed.
