@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,180"
+decided: "1960-10-05"
+citations: ["170 Tex. Crim. 21"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Tommy Higgins"]
+source_url: "https://static.case.law/tex-crim/170/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2626989
+---
+
+# Ex parte Higgins
+
+## Majority (MORRISON, Presiding Judge)
+
+MORRISON, Presiding Judge
+This is an appeal from an order of the 140th District Court of Lubbock County remanding relator to the custody of the sheriff of said county for delivery to an agent of the State of Kansas.
+The state introduced in evidence the executive warrant of the Governor of this state, and also the requisition and supporting papers of the Governor of the State of Kansas.
+From the papers accompanying the requisition, it appears that appellant was convicted on October 12, 1949, in the State of Kansas of two felony offenses of forgery, for one of which he was sentenced to serve twenty years in the penitentiary and for the other, four years; the sentences being ordered to run concurrently.
+Appellant was paroled, and the parole was revoked on April 18, 1953.
+It is by reason of the two prior convictions and the revocation of appellant’s parole that his extradition to the State of Kansas is sought.
+Under the provisions of Section 3 of Article 1008a, V.A.C.C.P., the Governor of this state is authorized to recognize a requisition and issue his executive warrant of extradition when the demand is accompanied “by a copy of a judgment of conviction or of a sentence imposed in execution thereof, together with a statement by the Executive Authority of the demanding state that the person claimed has escaped from confinement or has broken the terms of his bail, probation, or parole.”
+The papers accompanying the requisition of the Governor of Kansas which are duly authenticated by him include the two judgments of convictions rendered against appellant, together with copies of the parole granted to him and the subsequent order revoking the same which recites that appellant has violated the conditions of his parole.
+Such requisition and supporting papers were sufficient to authorize the issuance of the executive warrant by the Governor of this state authorizing appellant’s return to the State of Kansas.
+The judgment is affirmed.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+(dissenting).
+The governor of this' state is authorized to recognize a requisition and issue his executive warrant of extradition only in the following instances: (a) when the demand is accompanied by a copy of the indictment or by information supported by affidavit or by a copy of an affidavit made before a magistrate, together with any warrant issued thereupon; or (b) when the demand is accompanied by a copy of a judgment of conviction or of a sentence imposed in execution thereof, together with a statement by the executive authority of the demanding state that the person claimed has escaped from confinement or has broken the terms of his bail, probation, or parole. Sec. 3 of Art. 1008a, Vernon’s C.C.P.
+In the instant case the executive warrant fails to meet either of the statutory mandates.
+From the papers accompanying the requisition, it appears that appellant was convicted in the State of Kansas of two felonies, for one of which he was sentenced to serve twenty years. and the other for four years in the penitentiary, the sentences to run concurrently.
+Appellant was paroled, and the parole was revoked on April 18, 1958. The requisition was applied for, more than a year thereafter.
+Inasmuch as the parole was revoked, this cannot be a case involving any question as to appellant having broken the terms of or having violated his parole.
+Under this record, the right to extradite appellant exists only if he is an escapee from confinement. Such being true, under the mandate of Sec. 3 of Art. 1008a, Vernon’s C.C.P., the executive authority of the demanding state (the governor of the state of Kansas, here) must certify, by statement, that the appellant has escaped from confinement, in order to extradite him.
+No such statement by the Governor of the State of Kansas appears in the requisition and accompanying papers.
+Compliance with the mandatory provisions of the statutes of this state which directly control the question before this court ought not to be denied, as is here done.
+The judgment should he reversed and appellant ordered discharged.
+I dissent to the affirmance of this judgment.
