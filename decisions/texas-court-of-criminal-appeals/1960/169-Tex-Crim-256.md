@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,303"
+decided: "1960-02-17"
+citations: ["169 Tex. Crim. 256"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roosevelt Wiley v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0256-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12138170
+cites_cases: ["106 S. W. 2d 291", "20 Tex. App. 656", "242 S. W. 746", "291 S. W. 2d 320", "305 S. W. 2d 779", "316 S. W. 2d 757", "317 S. W. 2d 931", "321 S. W. 2d 585"]
+---
+
+# Wiley v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is murder; the punishment, death.
+We are met at the outset with two questions of jury misconduct. Nine members of the jury testified at the hearing on the motion. The only question before the jury at the time of the following occurrence was whether they should assess appellant’s punishment at life imprisonment or death. Some of the jurors remembered that they stood six to six, while others remembered that the vote stood nine for death and three for life, and one juror remembered that the vote was eleven to one. Be this as it may, they all agreed that some members of the jury were holding out for life imprisonment when the question was raised whether or not appellant would ever be eligible for parole if they assessed his punishment at life imprisonment and the probability of appellant getting out of prison and killing someone else.
+At this juncture, they sent this note to the judge: “Is it possible for us to sentence the defendant so that he can not be pardoned or paroled?” The judge’s answer properly was, “I have your question and under the law I am not permitted to answer.” After some further discussion, another note was sent to the judge, which he also declined to answer. At this point, one of the jurors handed a newspaper to the foreman and asked him as foreman to read aloud the following news story:
+“Houston (CP)—Tom Ainsworth, 40, convicted murderer from Cut ’n Shoot, celebrated the end of his parole Thursday night by buying a jug of gin and then killing a man.
+‘Clarence Whitehead 60, a Negro died early Friday after being stabbed 12 times in fight in a vacant lot.”
+Following this, all twelve jurors voted for the death penalty.
+Appellant in this case was a colored man, and the death was caused by cutting.
+The state relies principally upon Henderson v. State, 182 Tex. Cr. Rep. 596, 106 S. W. 2d 291, in which three opinions and one dissent were written. The majority of the court seems to have relied ultimately upon the fact that one of the two jurors who was shown to have changed his vote from life to death testified at the hearing on the motion for new trial that he heard nothing concerning the escape of the convict and the murder of the guard, and the other of the two, Mueller, was not called as a witness, plus the fact that Mueller was not shown to have been in the separate room when Bleimeyer made the statement concerning the escape. In the case at bar, those jurors who testified at the hearing and who had changed their vote stated that the news story was read in their presence. We must necessarily treat as dicta that portion of two of the opinions which discussed the testimony of the jurors that the new evidence about the escape and murder had no effect upon the verdict because it has been the holding of this court since Jack v. State, 20 Tex. App. 656, that a juror may not impeach or explain his or her verdict by showing the reasons for the conclusion reached. See Stokes v. State, 165 Tex. Cr. Rep. 269, 305 S. W. 2d 779; Bridges v. State, 166 Tex. Cr. Rep. 556, 316 S. W. 2d 757; Anaya v. State, 167 Tex. Cr. Rep. 509, 321 S. W. 2d 585; and Texas Digest, Crim. Law 757, and cases there annotated.
+Here, we have a jury, some members of which are concerned about appellant getting out of prison on parole and committing another murder if they give him a life sentence, and then a news story is read which confirms their fears because it recounts the happening of just such an eventuality.
+Juror Walker further testified that it was discussed a time or two during their deliberations that the defendant had not testified and it was “brought out” that in all probability the defendant did have a prior criminal record, otherwise he would have testified in his own behalf. The testimony of some of the other jurors to the effect that they did not remember such statement having been made is not sufficient rebuttal that such occurred. Gibbs v. State, 163 Tex. Cr. Rep. 370, 291 S. W. 2d 320.
+Upon another trial, the testimony of the different witnesses in the presence of the jury as to the reports they made to each other in the absence of appellant should be limited to the fact that they had a conversation, and the details of such conversations should be excluded as hearsay. Willman v. State, 92 Tex. Cr. Rep. 77, 242 S. W. 746.
+We further observe that appellant should be furnished copies of the two written statements of the witness McDale in the hands of the prosecution after McDale testified. Blum v. State, 166 Tex. Cr. Rep. 541, 317 S. W. 2d 931.
+For the errors pointed out, the judgment is reversed and the cause remanded.
