@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,305"
+decided: "1955-01-12"
+citations: ["161 Tex. Crim. 237"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clintell Lyons v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0237-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2467098
+---
+
+# Lyons v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is murder; the punishment, 30 years.
+The homicide occurred on a Dallas railway street car shortly before noon. One shot was fired; it entered the head of the deceased, a 28-year-old woman, one-half inch below the left eye and lodged near the surface approximately five inches above and behind her right ear. So far as this record discloses, none of the witnesses knew the appellant save his companion, who testified in his defense.
+The sole issue presented for our determination is whether the evidence is sufficient to support the jury’s finding that the shooting was intentional and actuated by malice. Appellant contends that the evidence shows this to have been an accidental shooting.
+We shall examine the testimony with this contention in mind.
+One Griddle testified that the appellant boarded the street car in company with a woman, took a seat immediately in front of him on the left side of the street car, and his companion took a seat behind them and on the opposite side of the street car; that the appellant pulled out a pistol and laid it on the lap of Morris White, who occupied the seat next to him, and asked White where his baby was. The record does not disclose to what the appellant was referring when he mentioned his “baby.” Griddle stated that White said, “Take that thing out of my lap,” and pushed the pistol back toward the appellant; that the appellant placed it in his lap again; that the appellant then transferred the pistol to his left hand, turned and looked back toward his woman companion; that the gun fired while it was in his hand and then fell to the floor. Griddle stated that the appellant ran to the front door of the street car but could not get out and returned to the rear door, where he left the street car.
+Morris Wkite testified that the appellant boarded the street car, took a seat beside him, said he was looking for his baby, pulled out a pistol and laid it on the witness’ lap; that he moved it away, and the appellant put it back; that he moved it again; that the appellant took the pistol in his left hand and “pulled it up and shot” while looking to the rear toward his woman companion and then “throwed it down.” White testified that he was the only person to whom appellant spoke after he boarded the street car.
+Troy Tucker testified that while riding the street car he heard an unusual noise, saw the appellant leave and followed him through several streets and alleys until he was able to locate an officer who placed the appellant under arrest.
+Officer Smart testified that he arrested the appellant, returned him to the street car, searched the same and found a pistol and a colored girl who had been shot.
+Appellant did not testify in his own behalf but offered his woman companion as a witness.
+Maricene Murphy testified that she was seated behind the woman who got shot and saw the appellant as he took his pistol from his pocket. She testified first, in answer to appellant’s counsel, that the pistol was dropped after it was fired and then later testified that the pistol was not in appellant’s hand at the time it went off but had fallen to the floor.
+On cross-examination she stated that she and the appellant had spent the night preceding the homicide together; that they had consumed whiskey and beer, and the appellant had mixed in a little wine; that the appellant fortified himself with a can of beer the following morning; that the appellant armed himself with his pistol, stating that he might have need for it; and that they had sallied forth. She denied that there had been any ill will between her and the appellant on the day in question.
+Appellant forcefully urges that the course of the bullet in the head of the deceased conclusively establishes that the pistol was on the floor at the time it was fired, which would establish an accidental killing. Were the human head a fixed target, there might be some weight to his argument. This record does not disclose, however, whether the deceased was awake or asleep at the time she was killed nor does it show in what position she was seated or in what position she was holding her head.
+It seems logical to us from the facts before us that the jury was authorized to disregard the testimony of appellant’s paramour that no ill will existed between them and to conclude that he fired at her with the intention of killing her.
+The judgment is affirmed.
