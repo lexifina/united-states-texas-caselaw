@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,486"
+decided: "1953-10-21"
+citations: ["159 Tex. Crim. 285"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Raymond Morales v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0285-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477012
+---
+
+# Morales v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+The offense is rape; the punishment, five years’ confinement in the penitentiary.
+This is a statutory rape case — that is, carnal knowledge of a female under the age of eighteen years, with or without consent, and not the wife of the accused. Art. 1183, P. C.
+The prosecutrix, fourteen years of age, testified to facts showing that appellant engaged in an act of sexual intercourse with her without her consent. The appellant denied the act of intercourse, but admitted that he was present and with prosecutrix at the time and place she says the act of intercourse occurred.
+In order to convict, it was not necessary for the state to show that the prosecutrix resisted.
+The facts are sufficient to support the conviction.
+The sufficiency of the evidence to support the conviction is the sole question presented for review.
+The judgment of the trial court is affirmed.
+Opinion approved by the court.
+
+## Rehearing (GRAVES, Presiding Judge.)
+
+ON MOTION FOR REHEARING.
+GRAVES, Presiding Judge.
+In his motion for rehearing the appellant suggests that he was not properly represented in the trial court because of the fact that the court appointed an inexperienced attorney to represent him. The statement of facts does not evidence any inexperience on the part of the appellant’s appointed attorney. In fact, he seems to have done the best he could under the circumstances.
+There is no denial upon the part of the appellant that he took Maria Castra, a girl fourteen years of age, in his pick-up, drove out on a lonely road to a secluded spot, and, according to the appellant, he attempted to have intercourse with her three times. According to her testimony, he penetrated her body. This he denied. This matter was passed upon by the jury and they found the appellant guilty of the rape of this child.
+Under the evidence presented, we think our opinion herein affirming this case is correct in all things.
+The motion for rehearing is therefore overruled.
