@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,081"
+decided: "1956-03-07"
+citations: ["163 Tex. Crim. 174"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rosa Cannon v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462832
+---
+
+# Cannon v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for murder with malice; the punishment, 10 years in the penitentiary.
+The testimony for the state shows that appellant went to a cafe operated by the deceased’s sister, inquired of her about the deceased, and after being informed that he was out of town, said that “If he did not straighten up with her that she was going to send him to the hospital or to the cemetery;” that deceased came later to the cafe where he and the appellant remained for sometime, and as they left the cafe the deceased knocked appellant down with his hand, and upon getting up, she grabbed him around the neck and cut him with a knife.
+Officer Tinsley testified that appellant told him that she cut the deceased because he would not pay the rent and some bills.
+It was shown that a stab wound in deceased’s neck caused his death.
+Appellant, while testifying, stated that she was living with the deceased as his common law wife; that on the night of the difficulty they had argued about his failure to pay the bills, and as they started out of the cafe to get his things so he could leave their house, the deceased knocked her down, that she then opened her knife, and as the deceased started to hit her again, she struck him with the knife but did not intend to kill him. She further testified that he had threatened her many times and that she was afraid of him.
+By Bill of Exception No. 1, appellant complains of the following remarks by the state’s attorney during his argument to the jury:
+“* * * that you will bring in a verdict with a stiff punishment — one that will keep her from repeating this crime — a punishment that will satisfy the law — that will satisfy Bill Decker”
+on the grounds that it was highly inflammatory and prejudicial This bill shows that neither Bill Decker nor any of his deputies were witnesses in this case and did not arrest appellant for the offense charged.
+The court in said bill certifies that appellant’s objection was promptly sustained and upon request the jury was instructed as follows: “Gentlemen, you will not satisfy anyone but yourselves and the law. Especially you are not to satisfy Bill Decker * * and that no motion for a mistrial was made.
+Considering the trial court’s prompt action in sustaining appellant’s objection and pertinently instructing the jury not to consider such remarks, and in the absence of any showing of injury or prejudice, we conclude that no reversible error is shown.
+Appellant by Bill of Exception No. 2 complains of the closing argument by the attorney for the state wherein he said that he had talked with the father of the deceased the day before and that he said that he did not know anything about the facts in the case.
+The court certifies that appellant’s objection to such argument was sustained, that no request was made to instruct the jury to disregard such statement and that no motion for a mistrial was made.
+In view of no further objection or request by appellant concerning such argument and no obvious injury or prejudice appearing, we conclude that no error is shown.
+We find the evidence sufficient to support the conviction, and no reversible error appearing, the judgment of the trial court is affirmed.
+Opinion approved by the Court.
