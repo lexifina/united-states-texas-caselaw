@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,404"
+decided: "1959-01-07"
+citations: ["167 Tex. Crim. 409"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Lawrence W. Thrash."]
+source_url: "https://static.case.law/tex-crim/167/cases/0409-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8550099
+cites_cases: ["112 Texas Cr. Rep. 124", "123 Texas Cr. Rep. 635", "127 Texas Cr. Rep. 484", "14 S.W. 2d 848", "145 Texas Cr. Rep. 593", "149 Texas Cr. Rep. 133", "157 Texas Cr. Rep. 187", "158 Texas Cr. Rep. 416", "161 Texas Cr. Rep. 651", "170 S.W. 2d 754", "192 S.W. 2d 159", "247 S.W. 2d 888", "256 S.W. 2d 408", "280 S.W. 2d 257", "5 S.W. 145", "59 Am. Rep. 777", "60 S.W. 2d 788", "77 S.W. 2d 877"]
+---
+
+# Ex parte Thrash
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+This is an appeal from an order denying bail, after an indictment for murder.
+The Constitution of this state says that all prisoners are entitled to bail except in capital cases “when the proof is evident.” (Article I, Section 11). The term “proof evident” means that the accused, with cool and deliberate mind and formed design, maliciously killed the deceased, and that upon a hearing of the facts before the court a dispassionate jury would, upon such evidence, not only convict but would assess the death penalty. Ex parte Washburn, 161 Texas Cr. Rep. 651, 280 S.W. 2d 257, and Ex parte Shults, 127 Texas Cr. Rep. 484, 77 S.W. 2d 877.
+The burden is upon the state to establish that the “proof is evident” in order to defeat bail. Ex parte Donohoe, 112 Texas Cr. Rep. 124, 14 S.W. 2d 848; Ex parte Readhimer, 123 Texas Cr. Rep. 635, 60 S.W. 2d 788; and Ex parte Coward, 145 Texas Cr. Rep. 593, 170 S.W. 2d 754. The trial court has by denial of bail to this appellant construed the facts presented as showing a case of “proof evident.” It is the duty of this court to determine if the trial court was authorized to reach that conclusion. Here are the facts, and all of the facts, relied upon to sustain the trial court’s ruling:
+The only witness whose testimony would in anywise connect the appellant with the commission of the offense for which he is here charged was Captain Will Fritz of the Dallas police department. He testified concerning conversations he had with the appellant, Beverly Thrash, and Winona Fine Lee, while all three parties were under arrest. His conversations with the latter two are not shown to have occurred in the appellant’s presence or hearing. Neither Beverly nor Winona were called as witnesses at the hearing, nor was any explanation made as to why they were not called unless it appears from the fact that they were both charged for this same offense.
+What the appellant is alleged to have told Fritz concerning a certain pistol having been taken away from him by the highway patrol was not admissible as a confession because not made in accordance with the terms of Article 727, V.A.C.C.P., and because he did not in such conversation admit any connection with the killing. All that he did admit was that the highway patrol had taken a pistol from him.
+What Beverly Thrash may have told him was likewise inadmissible and was the rankest form of hearsay evidence. Mere hearsay is not only not the best, it is not even secondary, evidence; it is no evidence. It is not admissible although no better evidence is to be obtained. Belverman v. State, 16 T. 130; Reeves v. State, 7 Texas Cr. App. 275; Holt v. State, 9 Texas App. 572; Felder v. State,, 23 Texas App. 477, 5 S.W. 145, 59 Am. Rep. 777.
+There remains then only what Fritz said that Winona Fine Lee told him. The record before us is not complete enough to enable us to pass on whether or not what she said was admissible as an oral confession against her. But if we held that it was, it would not avail the state in this proceeding because it is the settled law of this state that a confession of a co-indictee is not sufficient evidence to authorize a court to deny bail. Ex parte Suger, 149 Texas Cr. Rep. 133, 192 S.W. 2d 159, which establishes such rule, was decided by this court in 1946, and the legislature of this state has met and adjourned several times since that time, and the same has not been altered or overruled.
+From these facts it is evident that the state failed to meet the burden of showing a case where the proof is evident. There was no testimony identifying the pistol as having any connection with the killing. What some witness may have told Fritz in the absence of appellant is hearsay and proves nothing.
+While it is true that no objection appears to have been made to the introduction of the hearsay testimony, as well as to the statements, acts and declarations of the appellant while under arrest, we have no right to assume that proper objections to that testimony will not be made upon the trial of the case. It must be remembered that to affirm the order denying bail this court must find that the facts show a case of “proof evident,” and among other things that upon a trial of this case the death penalty would in all probability be inflicted upon appellant.
+The judgment denying bail is reversed, and bail is granted in the sum of $10,000.00.
+
+## Dissent (WOODLEY, Judge,)
+
+WOODLEY, Judge,
+(dissenting).
+Appellant admitted to Captain Fritz that a .38 caliber pistol was recovered from him, which pistol was identified by Beverly Jo Thrash and Winona Fine Lee as that used by appellant in killing the deceased in a garage at a Dallas address. The body was found buried in a shallow grave in the country. A .38 caliber slug was taken from the body at the inquest.
+The circumstances point to appellant as the perpetrator or one of the perpetrators of the murder, and there is no evidence showing or indicating any excuse, justification or mitigation for the killing. Whether bail should be granted was within the discretion of the trial judge. Ex parte Cogdell, 157 Texas Cr. Rep. 187, 247 S.W. 2d 888.
+The trial judge was justified in finding from the evidence at the hearing that there was probable cause to believe that appellant committed the murder or was a party thereto. Arts. 153 and 158 C.C.P. appear to make this the test.
+No abuse of discretion on the part of the trial judge is shown. Ex parte Brown, 158 Texas Cr. Rep. 416, 256 S.W. 2d 408.
