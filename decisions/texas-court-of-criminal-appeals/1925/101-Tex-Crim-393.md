@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9618"
+decided: "1925-10-07"
+citations: ["101 Tex. Crim. 393"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Will Monzingo v. The State."]
+source_url: "https://static.case.law/tex-crim/101/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5102970
+cites_cases: ["180 S. W. 272", "256 S. W., 927"]
+---
+
+# Monzingo v. State
+
+## Majority (BAKER, Judge.)
+
+BAKER, Judge.
+The appellant was tried and convicted in the •county court of Hall county for the offense of wife desertion and his punishment assessed at one years confinement in the county jail.
+The record discloses that the appellant, and'the prosecutrix in the case had been keeping each other’s company and were sweethearts for several years and upon discovering that the prosecutrix was pregnant he married her and took her to his father’s home and after staying with her and sleeping with her two nights, abandoned her the day following, contending as a reason therefor that she had confessed to him that she was with child not by him but another man.
+The appellant’s attorneys and the attorneys for the State have filed able and ingenious briefs in this case, and ably discussed many points relied upon for reversal by the appellant but after a careful examination of the record, we deem it unnecessary to pass upon only the bills of exception complaining of the conversation between the mother of appellant and the mother of the prosecutrix wherein it is contended that the appellant’s mother stated that he, defendant, thought that she, the prosecutrix, was pregnant before school started and also the bills complaining of the action of the court in permitting the sisters of the prosecutrix to relate a conversation had with appellant’s mother immediately after said abandonment in which it is contended that appellant’s mother said that the reason that he, defendant, abandoned the prosecutrix was because he did not love her and was too much of a gentleman to live with her. These conversations as shown by bills of exception, took place in the absence of said appellant and we think the learned judge erroneously admitted said testimony over objection of said appellant as shown by said bills. We are cited to the cases of Redmond v. State, 180 S. W. 272; Mikolojsa v. State, 256 S. W., 927, in support of the appellant’s contention on this point.
+In the Redmond case, supra, this court by Judge Davidson in passing upon a similar question stated, with reference to the' testimony of Mrs. Redmond: “She was permitted to state over objection of appellant that she knocked at the door of the residence of defendant’s parents on January 21, 1915. A Mexican came to the door. She was permitted to answer this question, ‘what did the Mexican say to you’, appellant was not present and knew nothing about it and various objections were based upon this matter. And the witness was permitted to answer,1 a Mexican came to the door and told her that the defendant’s father said she could not see the defendant.’ This testimony was clearly not admissible.”
+In the case of Mikolojsak, supra, by Judge Hawkins, this court stated on admitting testimony of appellant’s mother in his absence as follows: “He is not going to stay long”, referring to the appellant, held that said testimony not occurring in the presence and hearing of the appellant was hearsay and that it may have turned the case against the appellant in the minds of the jury. That it was a circumstance with which appellant had no connection or knowledge so far as the record shows, and that said statement of appellant’s mother indicating that he was not going to remain with prosecutrix long, in connection with the other matters testified to was injurious to the appellant and should not have been introduced against him.”
+We think the two cases, supra, are conclusive against the admission of the testimony of said witnesses in the instant case and clearly show that same were hearsay evidence in the absence of the defendant and conclusions and opinions of the said witness, which could not be binding on him.
+After a careful examination of the record, we are of the opinion that the above bills are the only bills requiring further attention of this court at this- time, and for the reasons above stated, the judgment of the trial court is reversed and the cause remanded.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
