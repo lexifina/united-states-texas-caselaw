@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2044"
+decided: "1912-11-20"
+citations: ["68 Tex. Crim. 533"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Brock v. State."]
+source_url: "https://static.case.law/tex-crim/68/cases/0533-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4651594
+cites_cases: ["35 Texas Crim. Rep., 224"]
+---
+
+# Brock v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+— Appellant was prosecuted and convicted of murder, and his punishment assessed at death.
+The facts would disclose that appellant and deceased had been criminally intimate for a number of years; that deceased was of a jealous nature, and if appellant paid attention to other women she would become very angry. Just a short time before the killing, appellant, being away from home, wrote deceased to send him money to return on, and she did so,, when they 'renewed their association. They spent the night before the homicide together, and were seen walking down a street or alley early in the morning. A shot was heard, and those going to the body found the woman shot in the back of the head or neck, the pistol having been held close enough to powder-burn the skin. Appellant was cut in the face, and he says deceased became angry with him and cut him; that he did not intend to kill her, but in attempting .to push or drive her oft the pistol was accidentally discharged. The killing took place on April 24th, and Policeman Allen says just one week before he had a talk with appellant, and appellant told him he was having a lot of trouble with deceased; said she had telephoned his, appellant’s, wife, and told her about sending him the money to come home on, and he was staying away from home on that account; that he was afraid deceased was going to his home, and said he was going to kill her. Some other threats are also testified to by witnesses. Naomi Luck says the morning before the killing appellant told her that he and deceased “were having hell all the time and he could not get rid of the damn bitch unless he killed her. ’ ’ Edgar East testified that the night before the killing he heard appellant say, “I’ll kill the God damn bitch before the sun rises. ’ ’ Appellant denies making the threat East testified to, and says if he made the threats testified to by Mr. Allen and Naomi Luck he was drunk and had no intention of carrying them out; that he and the woman often quarreled, would make up, and it was nothing unusual for people in that strata of society to speak harshly and abusively of one another, and no one took it seriously.
+[Rehearing denied December 18, 1912. — Reporter.]
+Appellant requested the court to instruct the jury: “Gentlemen of the jury, you are instructed that if you find from the evidence that defendant made threats against the deceased, but that same were made with no intention of taking the life of deceased or were made in a jocular manner with no purpose of execution, you are instructed not to consider same against defendant, in arriving at your verdict.” This testimony was' admissible in evidence, and while it was permissible for appellant’s' counsel to argue to the jury that they should give the remarks but little weight, and doubtless counsel did do so, yet it would have been improper for the court to so have instructed the jury. Under our law, the jury is the judge of the credibility of the witnesses and the weight to be given testimony. Under the State’s contention the threats were seriously made, and it would have been just as permissible for the court to have told the jury, if they believed they were seriously made, to give weight to them, as for him to tell them, if not seriously made to not consider the threats. Kirk v. State, 35 Texas Crim. Rep., 224, and cases cited in Sec. 809, White’s Ann. Procedure.
+All testimony of intimacy between appellant and deceased was introduced without objection, and it tended strongly to prove the motive of appellant in killing deceased, if he did so intentionally, and the court did not err in failing to limit such testimony to affecting the credit of defendant as a witness.
+The grounds in the motion complaining of the admissibility of certain testimony cannot be considered, as the record before us does not disclose that it was objected to at the time of its introduction, nor was there any motion made to exclude it.
+After a careful review of the entire record we are of the opinion that the evidence supports the verdict of the jury, and they were authorized under it to conclude that it was a wilful, intentional killing. The point of entrance of the bullet and its range do not give support to the accidental theory.
+The judgment is affirmed.
+Affirmed.
+(Delivered November 20, 1912.)
