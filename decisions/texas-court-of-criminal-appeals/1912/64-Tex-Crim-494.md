@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1497"
+decided: "1912-01-10"
+citations: ["64 Tex. Crim. 494"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Will Williams v. The State."]
+source_url: "https://static.case.law/tex-crim/64/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2376811
+---
+
+# Williams v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+This conviction was for burglary.
+Practically the only question presented is the sufficiency of the evidence to support the conviction. Appellant in his motion for new trial raises no question as to the introduction of evidence or error in the. charge. The fact is uncontroverted that a burglary was committed, and a suit of clothes taken from the burglarized house. There is no positive evidence as to who entered the house. The State’s case connecting appellant with the transaction is shown by his possession shortly after the burglary of the suit of clothes taken from the house. There was no question of the fact that the suit of clothes belonged to the alleged owner of the house. Appellant sought to meet this by showing that he obtained the suit of clothes from another party, but he himself does not testify in regard to it. He relied upon the testimony of Isaac Parsons to prove this fact. Where a burglary conviction is obtained, and the State relies upon recent possession by the accused of the property taken from the burglarized house, this has been held to be sufficient. Where the defendant gives an account of his possession, which is reasonable and" shows or tends to show that he came into possession of the property honestly, or by any other means than by himself taking it from the house, or being a principal in the transaction, it devolves upon the State to overcome this account. This can be done by circumstances and the environments of the transaction, through the testimony adduced on the trial; Without summing up the evidence of the witness Parsons in connection with the whole case, we are of opinion that the jury were authorized under all the facts to find that the account given by appellant through the witness Parsons was not a reasonable nor a true account, and in fact the evidence is sufficient for the jury to reach the conclusion they did, that it was not true.
+Believing under this record that the verdict of the jury is in accord with the testimony and justified by it, the judgment ought to be affirmed and it is so ordered.
+Affirmed.
