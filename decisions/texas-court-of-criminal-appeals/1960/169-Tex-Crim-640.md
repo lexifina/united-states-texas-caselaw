@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,991"
+decided: "1960-05-25"
+citations: ["169 Tex. Crim. 640"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alfred Garcia v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0640-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12150707
+---
+
+# Garcia v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is murder; the punishment, 20 years.
+The deceased, Mavis Zavala, operated the Mesa Lounge, a bar owned by George Hernandez. She had been living with appellant and was pregnant.
+Appellant came to the Mesa Lounge during the afternoon of October 9, 1959, and talked with the deceased. He came again about 8:30 P.M. and sat in a booth across from where the deceased was sitting long enough to drink three beers, and then went to the booth where deceased was and talked to her. About an hour later a shot was fired and the deceased was seen “holding her stomach” and was heard to say “I am hurt.”
+Appellant, with a pistol in his hand, then crossed to where Hernandez was sitting and shot Hernandez, saying “You are the cause of this.”
+Hernandez and Delores Cavazos, a witness who testified to the foregoing, ran from the Mesa Lounge and Delores reported to a patrolman.
+When the officers arrived they found the deceased lying on the ground at the front door and appellant, with a bullet wound in his abdomen, lying with his shoulders across her chest.
+Mavis Zavala died as a result of hemorrhage due to gunshot wound in the abdomen.
+A .32 caliber revolver was taken from appellant by the officers, and a bullet was taken from the body of the deceased. Both were introduced in evidence, the pistol as Exhibit 1 and the bullet as Exhibit 3.
+K. H. Swatzel, firearms examiner for the Houston Police Department, whose qualifications were stipulated, testified that he had fired a series of test bullets from the pistol (Exhibit 1) and compared them with the bullet recovered from the body of the deceased (Exhibit 3), and found from his examination that the bullet identified as Exhibit 3 was fired from the pistol identified as Exhibit 1.
+The .32 caliber revolver, according to the officer who took it from appellant, had four empty hulls and two cartridges that had been snapped but did not fire.
+We overrule the appellant’s contention that the evidence is insufficient to sustain the jury’s finding that appellant shot and killed the deceased.
+We need not pass upon whether the state’s evidence was direct or circumstantial, there being no request for a charge on circumstantial evidence and no objection to the omission of such a charge.
+Appellant requested a charge on accident. The evidence referred to in the request does not appear in the statement of facts agreed to by his counsel as being a complete and correct transcript of all of the evidence adduced upon the trial. The issue of accidental killing was not raised by the evidence and the requested charge was properly refused.
+The judgment is affirmed.
