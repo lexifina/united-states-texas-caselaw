@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1072"
+decided: "1911-03-29"
+citations: ["61 Tex. Crim. 663"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dennis Kelly v. The State."]
+source_url: "https://static.case.law/tex-crim/61/cases/0663-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4595303
+---
+
+# Kelly v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+-—The appellant was indicted and convicted for burglary and his punishment fixed at two years in the penitentiary.
+The evidence fully shows that on August 23, 1910, a place of business, a dyeing and cleaning shop, in San Antonio, Texas, was broken open at night by removing a sash from the back of the building where entrance was made and two coats—perhaps other property-—• were shown to have been stolen. The two stolen coats were after-wards clearly identified and recovered. On the next day the appellant was arrested with two others, and he made the following confession :
+“San Antonio, Texas, 1910.
+“I, Dennis Kelly, after having been duly warned by Prank Hew-man, the party to whom I am making this statement, to the effect, first, that I do not have to make any statement at all; and, second, .that any statement made by me may be used in evidence against me on trial for the offense concerning which this confession is made, do hereby voluntarily and of my own accord, depose and say: My name is Dennis Kelly. I am sixteen years of age. I live on South Laredo Street. Yesterday evening, August 23, 1910, myself, Chincho Rodriguez and Frank Rodriguez went out on Beacon Hill about seven o’clock in the evening. We saw some people leave a residence on Augrita Avenue, and after they left Frank Rodriguez, Chincho Rodriguez and myself went into the house and stole a purse containing a gold ring and some pennies. After we robbed this house we went to a dye and cleaning shop on Jefferson Street and broke in the back window and stole some coats. While we were inside Frank Rodriguez saw a man at the front door and we all ran away. This happened in San Antonio, Bexar County, Texas.
+(Signed) Dennis Kelly.
+Witness:
+J. E. -Stowe,
+W. F. Green.”
+This confession was shown by at least three witnesses to have been voluntarily made after the appellant was fully warned and all the explanations and statements made to him that were necessary to make the confession a valid and legal one. On the trial of the case the appellant claimed that he could not understand nor speak English well, and that he did not understand this confession, and claimed that some force or threats were used against him to induce him to make it and his testimony on these points was to that effect. However, he was disputed on all of these points by some five or six witnesses, several of whom were present at the time he made and signed the confession, heard what was said to him and what he said, and they all testified that he could speak and understood English; that at an examining trial he had testified orally in English. All of these questions were submitted by the court in a proper charge to the jury and the jury was told, in effect, by the judge that if he did not understand what he was signing when he signed the confession, or if he could not understand English, or if any force, threats or other influence was used upon him to induce him to make the statement, or if it was not voluntarily made by him and understood by him at the time that the jury should not consider the confession. As stated above, the great preponderance of the testimony showed all of these matters clearly against the appellant.
+The evidence is clearly, on all points, amply sufficient to sustain the conviction.
+1. Appellant has two bills of exception. The first is to the introduction of the said confession in evidence. The grounds of objection were that it was not written by the defendant; that it was taken while he was under arrest and that he was not properly cautioned or made to understand the purpose thereof, or that it would be used against him. The court allowed the bill with the qualification that the evidence showed the defendant made said confession voluntarily after being duly warned and signed it, after it was read over and explained to him and that it was in due form.
+The confession was not written by the appellant, nor was it necessary for it to he written by him. As shown above, it was signed by him and all the prerequisites necessary to make it a legal confession were shown by the testimony of the several different witnesses. There was no error in admitting the confession in evidence.
+2. Among other witnesses who were introduced was K. S. Taylor, • deputy official reporter of the Thirty-seventh Judicial District of Bexar County, for the purpose' of showing and proving that defendant spoke English. The witness testified that he was present during the habeas corpus hearing of defendant when his attorney put him on the stand and he testified in English. The appellant objected to this testimony, as shown by his second bill of exception, because the appellant himself was present in court and that his testimony of whether or not he spoke and comprehended English was the best evidence and that, therefore, the evidence of the witness Taylor was inadmissible. We think the testimony was admissible. Certainly, the State was not required and could not use the testimony of the appellant himself in the first instance to show whether or not he understood and spoke the English language. This could be shown, as was done in this case, and there was no error in overruling appellant’s objection on that account.
+3. By his motion for new trial the appellant sets up as grounds thereof the introduction in evidence of said confession. We have already passed upon that question in considering his exception to the introduction thereof.
+4. Another ground of the motion is that none of the stolen property was found on the person of the appellant, nor on the premises where he lived, and that no testimony outside of his confession shows that he personally broke into the dye and pressing establishment or that he himself got the two coats or other property that was stolen. The appellant, by his own testimony, shows that he was with the other two parties, who were shown to have also committed burglary and theft, late in the evening, if not at night. He is also shown to have been drinking, and was perhaps drunk, late that evening and that night. The stolen coats were recovered the next day from a pawnbroker’s shop, where they had been pawned. The testimony does not show who pawned the coats. There was no error in overruling appellant’s motion for new trial on this ground.
+5. Appellant has also in the record assignments of error. These assignments raise no new question other than we have already discussed under his bills of exception and motion for new trial. The evidence is amply sufficient to show the appellant’s guilt. It was all submitted to the jury, who found against the appellant.
+There is no error pointed out in the record that would justify this court in reversing this judgment. It is, therefore, in all things affirmed.
+Affirmed.
