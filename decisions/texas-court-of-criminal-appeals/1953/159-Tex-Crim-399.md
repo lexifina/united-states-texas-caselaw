@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,701"
+decided: "1953-12-16"
+citations: ["159 Tex. Crim. 399"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alvin Jones v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2476625
+cites_cases: ["163 S. W. 2d 868"]
+---
+
+# Jones v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is the unlawful transportation of whiskey in a dry area, with a prior conviction alleged to enhance the punishment; the punishment, a fine of $400.00.
+Deputy Sheriff Johnson testified that on the day in question, while driving along a street in the city of Lubbock, he observed the appellant walking with what appeared to be three lugs of “alcohol” under his arm; that he brought his automobile to a halt; that the appellant started running and ran into his house. The officer testified that by the time he got to the door of appellant’s house an automobile driven' by someone else started to drive off; that he stopped the automobile, got some whiskey out of the automobile, and placed the driver under arrest; that after this had been done he told the appellant’s wife to have him come out of the house; that at first she stated that appellant was not at home, but later called to him, and appellant came around the house where he was.
+The officer stated that he asked the appellant where the whiskey was that he had been carrying, and the appellant replied, “I broke it around here in the back,” and then led the officer to a spot near the back door, where they found one lug containing wet, broken bottles and bearing a strong odor of alcohol, which he took into his possession, and that he then arrested the appellant.
+The state offered in evidence “the lug wrapper . . . and broken bottles and any labels that were on the bottles that are in there at this time, the seals thereon.” . .
+Appellánt, testifying in his own behalf, denied that he had run when the officer approached him and denied that the lug found in his back yard had ever been in his possession.
+The jury resolved this disputed issue against the appellant, and we find the evidence sufficient to sustain their verdict.
+Appellant objected to the testimony of the officer concerning his conversation with the appellant on the ground that the appellant was under arrest.
+We do not think it is necessary for this court to determine when the appellant was placed under arrest because we feel that the evidence was admissible whether or not he was under arrest. The officer asked the appellant, “Can you show me where you broke it?”; the appellant replied in the affirmative, and they proceeded together to where the lug was found.
+The proof is meager that the broken bottles had contained whiskey, as was alleged, but the rule in Bouldin v. State, 145 Tex. Cr. Rep. 413, 163 S. W. 2d 868, finds application here. In that case we held that, where the prosecuting witness asked the accused for whiskey and the accused agreed to sell some whiskey and soon returned with something in a bottle, this constituted an admission of the appellant that the liquid was whiskey. Here the officer asked the appellant what he had done with the whiskey, and the appellant took him to some broken bottles which had a strong odor of alcohol.
+Ending no reversible error, the judgment of the trial court is affirmed.
