@@ -1,0 +1,58 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,531"
+decided: "1959-03-25"
+citations: ["167 Tex. Crim. 546"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Heron Farias v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0546-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8551860
+cites_cases: ["150 Texas Cr. Rep. 161", "160 Texas Cr. Rep. 188", "199 S.W. 2d 168", "268 SW. 2d 191", "319 S.W. 2d 329", "320 S.W. 2d 13"]
+---
+
+# Farias v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for murder without malice; the punishment, 3 years.
+In view of our disposition of the case a recitation of the facts is deemed unnecessary.
+Appellant filed application for a suspended sentence, and in support thereof testified upon the trial that he had never been convicted of a felony and produced certain character witnesses who testified that his general reputation for truth and veracity and for being a peaceable and law-abiding citizen in the community where he lived was good.
+The court, in his charge, submitted to the jury the issue of suspension of the sentence in the event they found appellant guilty.
+After return of the jury’s verdict and entry of judgment thereon, appellant sought a new trial on the ground of jury misconduct.
+In the motion, which was duly verified and supported by the affidavit of one of the jurors, appellant alleged that in arriving at the penalty to be assessed by the jury “one of the jurors openly described and testified to all of the matters and facts concerning his experience with the law of suspended sentence and instructed the jury that as a matter of law and practice, the suspended sentence was bad and further instructed the jury incorrectly that the judge had the power and would in all probability grant probation to the the defendant and that such law concerning probation was a desirable and beneficial law and applicable to this case,” and “That such conduct was prejudicial and erroneous,” and “by reason of the interpretation placed upon the operation of the suspended sentence law and the declaration that there was available to the defendant the benefits of the adult probation law, which statement was incorrect, the jury did not consider or pass upon the issue of whether or not the defendant was entitled to a suspended sentence.”
+The affidavit attached to the motion for new trial was executed by the Juror Raymond A. Weisman.
+In his affidavit Juror Weisman, in describing the jury’s deliberations in arriving at its verdict, swore, in part, as follows:
+“After a lengthy discussion transpired, the Jury finally agreed that the defendant was guilty of murder without malice.
+“After reaching this conclusion, the Jury finally took the first vote as to the sentence to be imposed upon the defendant, Heron Farias.
+“This vote reflected that two (2) jurors, Mr. West and Mr. Clyde Allen, wished to impose a penalty of five (5) years, seven (7) jurors wanted to impose a penalty of either two (2) or three (3) years and three (3) jurors indicated that they did not want to impose any penalty but to assess a suspended sentence.
+“Following the first vote an extended discussion of the suspended sentence occurred. During this discussion Mr. West discussed at length the suspended sentence law and explained to the rest of the Jury the difference in a suspended sentence and a probated sentence. He pointed out that a person who received a suspended sentence was under no supervision by the court, whereas a person on probation had to be a real good boy and did not have to commit a felony, but the Judge could send him up for being drunk or disorderly. He further explained to the Jury that only the jury could give the defendant a suspended sentence hut that the Judge could probate this defendant’s sentence if he saw fit to do so. After this explanation and further extended discussion, the Jury agreed to compromise on a penalty of three (3) years and no further discussion or vote was had upon the question of whether or not the sentence assessed by the Jury would be suspended or not.”
+The state filed no controverting answer to the motion and upon the hearing called no witnesses to testify.
+At the hearing three of the jurors were called by the appellant to testify.
+Juror Weisman testified that the matters set forth in the affidavit' attached to the motion were true and the affidavit was offered in evidence by the appellant.
+Juror Pécora testified in substance that during the jury’s deliberation there was a discussion of the probation law and its application to the appellant but that he did not remember it being stated that the judge could “give probation to a sentenced man.”
+Juror West, who served as foreman of the jury, testified that during the jury’s deliberation and before arriving at a verdict in the case there was discussion with reference to the suspended sentence law, the probation law and the indeterminate sentence law; that he did not favor the suspended sentence law, but did favor the probation law and “I did the best I could, being a layman to explain the difference between suspended sentence and probation” and “I told them that that was just my opinion of that, that I wasn’t an attorney.” He further testified that “I didn’t know until afterwards that the judge couldn’t give probation in a capital case.” Nowhere in his testimony did he affirm or deny the statement attributed to have been made by him that the judge could grant probation to appellant in the case.
+From the evidence adduced it thus appears that during its deliberations, while discussing the penalty to be imposed upon appellant and the passing upon the issue of suspended sentence, the jury discussed the provisions of the Adult Probation Law and its applicability to the appellant in the case; further, that during the discussion, when three of the jurors were favoring a suspended sentence, the foreman, in arguing against a suspended sentence, stated that the judge could probate the appellant’s sentence if he saw fit. This statement of the juror was clearly a misstatement of the law. By the express provisions of Sec. 3, Art. 781d (Adult Probation and Parole Law of 1957), the courts of this state are without power to place a defendant on probation who has been convicted of murder. From the verdict subsequently agreed upon by the jury it is apparent that the three jurors who were favoring a suspended sentence abandoned their position.
+Under the facts disclosed we are of the opinion that appellant has not received such a fair and impartial trial as would warrant the judgment of conviction to stand. See Art. 753, sub. 7. V.A.C.C.P.; Price v. State, 150 Texas Cr. Rep. 161, 199 S.W. 2d 168; Spriggs v. State, 160 Texas Cr. Rep. 188, 268 SW. 2d 191, and Mays v. State, (page 339, this volume), 320 S.W. 2d 13.
+Other contentions urged by appellant will not be discussed as they are not likely to arise upon another trial.
+For the reason stated the judgment is reversed and the cause remanded.
+Opinion approved by the Court.
+
+## Dissent (DAVIDSON, Judge)
+
+DAVIDSON, Judge
+(dissenting).
+In the case of Salcido v. State, (page 173, this volume), 319 S.W. 2d 329, decided January 7,1959, my brethren — over my protest — affirmed a conviction carrying a punishment of thirty years in the penitentiary. During the jury’s deliberation in that case, it was stated as a fact that the defendant would be subject to pardon, parole, and time off for good behavior and would serve only one-third of the time to which he was sentenced.
+The foregoing is taken from the syllabi of that case.
+In my dissenting opinion in the Salcido case I pointed out that what was said in the jury room, during deliberations, relative to the time Salcido would receive under the pardon and parole laws were statements of facts but that such, in fact, were not true. I also pointed out that such discussion caused the jury to increase by twenty years the punishment assessed, which otherwise would not have been done.
+That Salcido was injured by jury misconduct was definitely shown.
+Now, a little over two months after the Salcido case was written, here comes this case and the court reverses this three-year conviction because the jury was told, during- deliberations, that the trial court could extend parole or probation to one convicted of murder.
+The holding in the Salcido case is not attempted to be distinguished from the instant case. No distinction exists nor is authorized.
+Both cases involved jury misconduct, with the accused being injured as a result of that misconduct.
+If this case is to be reversed, then the Salcido case is wrong and my brethren ought to reopen that case and reverse the conviction.
+If the Salcido case is right and Salcido should serve the thirty years in the penitentiary, the instant case should be affirmed.
+Talk about “consistency!” How can such exist where this court makes “flesh out of one and fowl out of the other,” as has here been done ?
+So long as my brethren elect to stand by the holding in the Salcido case and proclaim the conclusion there expressed as the law, in obedience thereto I must dissent to the reversal of this case.
