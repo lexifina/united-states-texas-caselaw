@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,782"
+decided: "1961-11-08"
+citations: ["171 Tex. Crim. 384"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bobby Lee Rhodes v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2633336
+cites_cases: ["105 S.W. 2d 250", "204 S.W. 2d 611", "264 S.W. 2d 126", "289 S.W. 2d 923", "298 S.W. 2d 833", "86 S.W. 769", "97 S.W. 471"]
+---
+
+# Rhodes v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is murder; the punishment, seven years.
+No statement of facts accompanies the record.
+The sole question presented for review is the action of the trial court in overruling appellant’s motion to quash the special venire.
+Appellant’s bill of exception reflects that, contrary to Article 592, V.A.C.C.P., the special venire for the trial of this case was drawn from only two of the weekly jury panels drawn by the jury commissioners instead of being drawn from all five of the weekly jury panels selected for that term of court.
+The state strongly contends that in the absence of a showing of injury to appellant this case should be affirmed, notwithstanding the clear violation of Article 592, V.A.C.C.P., and cites Williams v. State, 164 Tex. Cr. Rep. 347, 298 S.W. 2d 833, Rogers v. State, 163 Tex. Cr. Rep. 260, 289 S.W. 2d 923, and De Vault v. State, 159 Tex. Cr. Rep. 360, 264 S.W. 2d 126, as authority for this contention.
+On rehearing in Rogers v. State, supra, we affirmed the trial court’s action in discharging eight women jurors because at that time there was no specific legislation authorizing the separation of men and women jurors, but that case must be strictly limited to the circumstances there existing and is no authority for the State’s contention here.
+In De Vault v. State, supra, the officers, acting under a misapprehension as to the requirements of Article 591, V.A.C.C.P., failed to return cards bearing the names of- the jurors not impaneled to the jury wheel, resulting in the special venire being drawn from a wheel containing 314,000 names when it should have contained 317,000 names. In addition to pointing out that the proportion of those drawn from and not returned to the wheel to the number in the wheel at the time of the drawing of that venire was infinitesimal, we were careful to observe that there was no evidence of arbitrary or capricious conduct involved in impaneling the jurors.
+In the case at bar, the special venire was drawn from two weekly jury panels containing 36 names each instead of being drawn from all five jury panels for the term containing 192 names, and no reason or excuse was offered for failure to comply with the statute; and it thereby follows that appellant was deprived of 120 out of 192 veniremen, which proportion could in no way be termed infinitesimal. The undisputed facts of this case reflect an arbitrary and capricious disregard of Article 592, V.A.C.C.P., and we do not regard the De Vault case as controlling here.
+Williams v. State, supra, was a case arising under Article 2096, V.A.R.C.S., and the accused was not deprived of any names in the drawing of the jury for his case. We there quoted from the De Vault case in pointing out that there was no arbitrary or capricious.conduct involved in impaneling the jurors; therefore, that case does not support the State’s contention here.
+This Court has long held that a denial of the rights extended by statute providing for the manner in which a special venire is to be drawn is fundamental error. Tuley v. State, 151 Tex. Cr. Rep. 71, 204 S.W. 2d 611; Moore v. State, 132 Tex. Cr. Rep. 403, 105 S.W. 2d 250; Wallace v. State, 50 Tex. Cr. Rep. 374, 97 S.W. 471; and Oates v. State, 48 Tex. Cr. Rep. 131, 86 S.W. 769.
+Article I, Section 15, of our Constitution provides that the right of trial by jury shall remain inviolate and that the Legislature shall pass such laws as may be needed to regulate the same and to maintain its purity and efficiency.
+When the Legislature has provided a method and means by which a special venire must be selected, we will not uphold an intentional departure from the plain provisions of the statutory enactment.
+Because the trial court erred in overruling appellant’s motion to quash the special venire, the judgment is reversed and the cause is remanded.
