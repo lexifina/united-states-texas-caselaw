@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,509"
+decided: "1956-10-24"
+citations: ["163 Tex. Crim. 533"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Paul Richard Jean v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0533-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2459992
+cites_cases: ["135 S.W. 2d 485", "279 S.W. 2d 868", "290 S.W. 2d 666"]
+---
+
+# Jean v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is driving while intoxicated; the punishment, 30 days in jail and a fine of $50.00.
+Our state’s attorney has confessed error herein. A statement of the facts herein will not be deemed necessary other than to observe that the arresting officers testified that the appellant was intoxicated on the occasion and the appellant and his witnesses testified that he was not.
+The bill of exception certifies that five witnesses who would testify as to the appellant’s reputation for being a peaceful and law-abiding citizen were in attendance upon the trial, and appellant’s counsel was informed that they would not be permitted to testify as to such reputation; that two of such witnesses were actually called and questioned concerning such reputation, and the state’s objections to their testimony on the ground that the offense of driving while intoxicated does not involve moral turpitude and an accused’s reputation is not in issue in such a case were sustained.
+In such ruling, the trial court was clearly in error.
+In Johnson v. State, 138 Tex. Cr. Rep. 188, 135 S.W. 2d 485, we said:
+“The proposition that a defendant in the trial of a criminal case may show his good general reputation in the community in which he lives is not one open for discussion. It is a matter properly to be considered by a jury, either in determining the guilt of the defendant or in fixing the penalty appropriate to his case. We are unable to see merit in the state’s objection. The exclusion of the evidence by the trial court was error requiring a reversal of the case.”
+See also Dixon v. State, 161 Tex. Cr. Rep. 626, 279 S.W. 2d 868, and Jordan v. State, (Page 287 this volume), 290 S.W. 2d 666.
+For the error pointed out, the judgment of the trial court is reversed and the cause remanded.
