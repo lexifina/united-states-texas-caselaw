@@ -1,0 +1,39 @@
+---
+court: "Supreme Court of Texas"
+decided: "1883-12"
+citations: ["2 Tex. L. R. 503"]
+reporter: "tex-l-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SIDNEY PILCHER vs. A. L. KIRK, et al."]
+source_url: "https://static.case.law/tex-l-r/2/cases/0503-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2056415
+cites_cases: ["10 Tex. 523", "16 Tex. 510"]
+---
+
+# Pilcher v. Kirk
+
+## Majority (Stayton, J.)
+
+Opinion by
+Stayton, J.
+The record manifested with all reasonable certainty that the land in controversy was granted to John Gaylor who lived in Liberty county, Texas, and that he died prior to the year A. D. 1850.
+It shows also that John Gaylor came to Texas and settled in Liberty county as early as the year 1833 or 1834; that he was then a man advanced in life and without family with him. A person of the same name, and answering the same general description is shown to have resided in Florida, but a short time before John Gaylor was found in Liberty county, and to have left there to go to Texas; such was the understanding of his family, consisting of his wife and several sons and daughters, none of whom accompanied him to Texas, or rejoined him there. The appellant is shown to be the sole surviving child of a daughter of that John Gaylor, said daughter having died before the institution of this suit.
+It is shown that several other other children of John Gaylor died prior to the instituting of this suit, and they left no issue; and there is some testimony tending to show that the appellant is the sole heir surviving of John Gaylor. This testimony, however, is unsatisfactory and of such character as indicate that more direct evidence upon this subject might be procured; a matter, however, iu the view we take of the case, unimportant in its present consideration.
+John Gaylor in Texas seems to have led a solitary life, and none of the witnesses who knew him in Texas seem to have known his past hirtory, nor do those who knew him in Florida speak of the causes which led him to leave his family and come to Texas.
+Such a life was consistent with the abandonment of the family, the abandonment resulting from whatever cause.
+Taking altogether, the evidence unrebutted is sufficient to show with all reasonable certainty that the appellant is an heirof the John Gaylor to whom the land in controversy was granted.
+There is nothing in the record rebutting the evidence offered by the plaintiff, or tending to show that the John Gaylor to whom the land in controversy was granted was another and different person than the John Gaylor who was the grandfather of the appellant.
+To meet the case made by the appellant the defendants show that they claim through a deed purporting to be made in 1870 in Washington county by a man claiming himself John Gaylor, and representing himself to be the man to whom the grant was made. With this man, no witness who testified seemed to be acquainted, this testimony was not produced nor was his place of residence shown, further than that one witness testified that in 1857 he saw in Washington county a man who was called John Gaylor.
+That the man who made the deed in 1870 could not have been the man to whom the grant was made is rendered evident by the following facts: ■
+1st. The land certificate upon which the land was granted was issued in 1841, in Liberty county to a John Gaylor who then lived there.
+2nd. The John Gaylor who lived in Liberty county, died prior to the year 1850, and administration was taken out and conducted in that county by Allott.
+3rd. The certificate was inventoried as a part of his estate.
+4th. The certificate was placed in the hands of Erath, who located, for locating, by Allott the administrator of John Gaylor’s estate in 1852, and the costs of locating were paid by Allott.
+5th. There is an entire absence of testimony tending to show that the person under whom the defendants claim, ever lived in Liberty county, or tending in any manner to connect him with the land certificate upon which the land wasgranted in 1858 except his name.
+This is not a case in which there is a conflict of evidence, but one in which unrebutted evidence shows that the appellant was entitled to a verdict, and the court below should have granted a new trial; and for the refusal to do so the judgment will have to be reversed.
+In reversing and remanding the case it is deemed proper to state that the charge of the court, given upon the trial, assumes that one tenant in common can only recover in an action of trespass to try title such interest as such tenant in common owns.
+This question was considered at the last Austin term in the case of Sowers vs. Peters,Austin Term,1883, and therein it was held, that the right of one tenant in commonto recover the entire tract of land, from a person having no title, was not affected by .the revised statutes, and that the rule as laid down in Croft vs. Rains, 10 Tex. 523; Watrous vs. McGuire, 16 Tex. 510, and that line of decisions is the correct rule.
+It is contended that the appellees who claim under Kirk do not show that they are possessors in good faith. If they or Kirk bought from a person whom they honestly believed to be the grantee of 1 he land, and have made improvements of a permanent character on the land believing that they were the true owners, and ignorant that some other person had the better right, then they are entitled, if they leave the land, to recover from the owner the valne of the improvements under the terms of the statute.
+For the reasons indicated the judgment is reversed and the cause is remanded.
