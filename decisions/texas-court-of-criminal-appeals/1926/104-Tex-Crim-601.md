@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "10236"
+decided: "1926-06-16"
+citations: ["104 Tex. Crim. 601"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Viola Ross v. The State."]
+source_url: "https://static.case.law/tex-crim/104/cases/0601-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5120940
+cites_cases: ["100 Texas Crim. Rep. 404"]
+---
+
+# Ross v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Conviction in District Court of Limestone County of murder, punishment fixed at fifteen years in the penitentiary.
+Appellant was charged directly as a principal with the murder of her husband, James Ross. On the trial the state proved by Edward Walker that he killed deceased by shooting him with a pistol. He claimed that appellant .had advised,' encouraged and induced him to commit the homicide, and swore that when he shot Ross - appellant was close by in a car. The learned trial judge submitted the case to the jury on the theory that appellant was a principal offender by reason of having theretofore advised and agreed with Walker to kill deceased and being present at the time of the killing. Walker was an accomplice, and unless there be other testimony aside from that of Walker which tends to show the presence of appellant at the time and place of the homicide, it is apparent that the state has not made out its case, no matter how strongly other testimony might tend to show the guilt of appellant as an accomplice to the offense of murder.
+The clear distinction between the offense of being an accomplice to a crime and a principal therein, lies in the fact that the accomplice is one who is not present but whose offense is complete, who has furnished aid, arms, assistance, advised, encouraged, etc., all of which has been consummated before the commission of the actual crime. If the state indicts and tries one as a principal under Art. 78 of our P. C., that is, as one who advises and agrees to the commission of a crime and who is present when same is committed, the proof of the presence of the accused must be made in accordance with law. Noble v. State, 100 Tex. Crim. Rep. 404.
+We have here the case of a self-confessed slayer who alone testifies to the presence of his co-principal, this appellant. We have searched the record carefully to ascertain if there be anything in same tending to show the presence of appellant at the scene of the homicide on the night Walker says he killed Ross, but have been unable to find anything so tending aside from the testimony of Walker. He testifies that after an agreement had been reached between them that he was to kill Ross, .appellant told him that she was going out of town and would be back that night about 8:30 or 9 o’clock and for him to be at the baseball park at or about that time, and that she would bring deceased there in a car and give Walker an opportunity to take his life. He testified that in accordance with that agreement he went to the baseball park armed with a pistol and in about fifteen minutes appellant drove up with deceased in a car; that deceased got out and came near to where Walker was and the fatal shot was fired.
+The state having elected to indict and try appellant as a principal, and the evidence aside from that of the self-confessed accomplice failing to corroborate him as to the fact of her presence at the time of the killing, we are compelled to hold that the proof does not correspond with the allegation, and that it is our duty to reverse this case, and it is so ordered.
+jReversed and remanded.
