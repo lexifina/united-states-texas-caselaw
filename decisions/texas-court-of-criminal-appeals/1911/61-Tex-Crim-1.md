@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "880"
+decided: "1911-01-11"
+citations: ["61 Tex. Crim. 1"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chas. Kirby v. The State."]
+source_url: "https://static.case.law/tex-crim/61/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4596012
+cites_cases: ["33 Texas Crim. Rep., 264"]
+---
+
+# Kirby v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+—The defendant was tried in the County Court of Dallas County at Law, charged with the offense of unlawfully carrying on and about his person a pistol. He was convicted, and his punishment assessed at thirty days imprisonment in the county jail.
+The only error assigned is that the evidence was insufficient and. does not support and sustain the judgment. The State offered two witnesses who testified that at the time defendant was arrested a pistol was taken from his person. The defendant admits this, but says that he was a bartender and had been down cleaning up the saloon (it being Sunday) and was taking the pistol home to sell it'..
+If the trial court had believed the appellant’s testimony he should not have been convicted. A jury having been waived and the case tried before the judge, he was the judge of the credibility of the witnesses and the weight to be given the testimony. He saw them, their manner of testifying, and it has been the rule in this court not to disturb the verdict and judgment when there are no errors in the record, and there is sufficient testimony to authorize a conviction. In the case of Crow v. State, 33 Texas Crim. Rep., 264, Judge Hurt says: “When the trial judge has ruled the law correctly pertaining to the trial and has instructed the jury properly, the indictment being sufficient, this court will turn to the statement of facts to ascertain if the guilt of the appellant appears with reasonable certainty. If it does, the judgment will be affirmed. And in passing upon the sufficiency of the evidence which supports the verdict, we do not pass upon the credibility of the witnesses. Again, if. there be conflicting theories, one presenting guilt and the other innocence, or creating doubt of guilt, rejecting the others, this court will not reverse if the evidence supporting be sufficiently cogent as to render the guilt of the defendant reasonably certain." In such a state of case all theories, except that presenting guilt, being in conflict therewith, will be rejected by this court.”
+Finding no error in the record, the judgment is affirmed.
+Affirmed.
+Prendergast, Judge, not sitting.
