@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1413"
+decided: "1911-11-29"
+citations: ["64 Tex. Crim. 88"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charlie Jenkins v. The State."]
+source_url: "https://static.case.law/tex-crim/64/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2377533
+---
+
+# Jenkins v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+The appellant was indicted for selling intoxicating liquors in violation of the prohibition law. He was tried in the County Court, found guilty by the jury, and a fine of $50 and twenty days in jail assessed against him.
+There is no statement of facts in the record. There is with the papers, however, what purports to be a statement of facts, separate from the record. This court has uniformly" held that in County Court misdemeanor cases, the original statement of facts could not be sent up and filed in this court, that it must be filed in the lower court and copied in the record by the clerk of that court. We can not, therefore, consider this purported statement of facts. Even if we could, it shows that only one witness was introduced, and he clearly, if 'the jury believed him, established the guilt of the appellant.
+The only question raised that we can consider in this case is the motion by the appellant to quash the indictment shown by his bill of exceptions. The grounds of the motion, in substance, claim that the indictment consisted of two instruments pasted together, that is, that a separate piece of printed matter cut from another and different instrument was pasted on the face of the indictment, supposedly to be used and read as a part thereof, and that the indictment, as presented, is mutilated because of this. By order of the court, the original indictment was sent up with the record in this case, properly authenticated. It shows on one piece of paper a printéd form of the preliminary allegations in the indictment, and that when it comes to the body of the charge of the offense, another printed correct charge of the offense in print is pasted securely in the face of the indictment and becomes a part thereof. There is no evidence that this was done by any other than the grand jury in having the indictment prepared and presenting it properly in the court.
+This case is a companion case to the case of Jenkins v. State, exactly in the same condition as this case, which was this day affirmed in an opinion by Davidson, Presiding Judge. The court did not err in not quashing the indictment and the judgment will be affirmed.
+Affirmed.
