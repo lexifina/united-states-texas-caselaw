@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,957"
+decided: "1954-05-12"
+citations: ["160 Tex. Crim. 290"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Garland W. Johnson v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469532
+cites_cases: ["140 Texas Cr. Rep. 417", "145 S.W. 2d 876", "149 Texas Cr. Rep. 406", "158 Texas Cr. Rep. 313", "167 S.W. 2d 523", "194 S.W. 2d 1007", "227 S.W. 2d 814", "256 S.W. 2d 93"]
+---
+
+# Johnson v. State
+
+## Majority (DAVIDSON, Judge. WOODLEY, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for the felony offense of drunk driving as denounced by Art. 802b, Vernon’s P. C., with punishment assessed at one year in the penitentiary.
+The record before us contains no judgment of the trial court.
+A final judgment is necessary to confer jurisdiction of this court over an appeal. Berry v. State, 138 Texas Cr. R. 563, 138 5. W. 2d 105; Davis v. State, 145 Texas Cr. R. 188, 167 S.W. 2d 523.
+Accordingly, the appeal is dismissed.
+Opinion approved by the court.
+ON MOTION TO RE-INSTATE APPEAL
+WOODLEY, Judge.
+The record having been perfected, the appeal is reinstated and will be considered on its merits.
+The fact that a defendant has been previously convicted of the misdemeanor offense of driving a motor vehicle on a public highway while intoxicated is an essential part of the felony offense which must be alleged and proved, and without such proof the evidence is insufficient to sustain the conviction. A necessary part of this proof is the identification of the defendant as the person previously convicted. Cases arising under Arts. 61, 62 and 63 P.C. are deemed applicable. Franklin v. State, 154, Texas Cr. Rep. 375, 227 S.W. 2d 814; Phariss v. State, 149 Texas Cr. Rep. 406, 194 S.W. 2d 1007; Doyle v. State, 140 Texas Cr. Rep. 417, 145 S.W. 2d 876.
+The conviction must be reversed because of the absence of any testimony identifying appellant as the person convicted of the prior offense alleged in the indictment.
+In view of the insufficiency of the evidence in this regard, we pretermit a discussion of the sufficiency of the proof of venue other than to observe that we are unable to account for the failure of the state to request permission to reopen and make proof that the offense was committed in Wheeler County when the question was raised. Unless we can consider an uninitialed interlineation in the statement of facts, proof of venue must rest on judicial notice that the trial was held at Wheeler (the county seat of Wheeler County), and that a point from one to four miles from Wheeler, on the highway leading toward Pampa, was in Wheeler County.
+The courts should not be called upon to rely upon such evidence when the proof is available to establish that the place where the offense was committed was in Wheeler County, Texas.
+The question of the sufficiency of the indictment is not raised, but we express doubt as to its sufficiency.
+Art. 802b V.A.P.C. provides that “any person who has been convicted of the misdemeanor offense of driving or operating an automobile *** upon any public road *** in this state *** while intoxicated” and who shall thereafter so drive while intoxicated shall be guilty of a felony.
+The indictment against appellant nowhere alleges that he had been convicted of the misdemeanor offense of driving while intoxicated. It does allege that in a certain numbered cause in the district court he was convicted of a felony, said conviction being for the offense of operating a motor vehicle upon a public road while intoxicated, and that said conviction therein became final prior to the commission of the present offense.
+It is true that this court has held that a misdemeanor conviction for driving while intoxicated may be used more than once for the purpose of charging a felony under Art. 802b V.A.P.C. Hill v. State, 158 Texas Cr. Rep. 313, 256 S.W. 2d 93.
+It is likewise true that the felony conviction for driving while intoxicated alleged against appellant of necessity charged a prior conviction for the misdemeanor offense. But an accused is entitled to know from the written accusation the nature of the charge against him. It would be better practice, if it be not essential, that the indictment describe the misdemeanor offense of which he is alleged to have been previously convicted in charging a felony offense under Art. 802b, V.A.P.C.
+Nor is it clear that the introduction of a judgment of conviction with sentence suspended could suffice to support an allegation that the judgment of conviction in the prior felony offense had become final.
+In the event of further prosecution, it is suggested that a new indictment be presented.
+The judgment is reversed and the cause is remanded.
