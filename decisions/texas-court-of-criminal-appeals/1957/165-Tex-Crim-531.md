@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,319"
+decided: "1957-12-04"
+citations: ["165 Tex. Crim. 531"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ivey Lee Rhoades v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0531-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611961
+cites_cases: ["162 Texas Cr. Rep. 103", "282 S.W. 2d 232"]
+---
+
+# Rhoades v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is driving while intoxicated; the punishment, three days in jail and a fine of $200.00.
+Officer Walker of the Dallas police department testified that he observed a Cadillac automobile being driven from one lane to another and signaled it to halt; that the appellant, who was the driver, got out and walked back to meet him; that she walked unsteadily; that her speech was slurred and her eyes were bloodshot. He stated that a man was seated in the Cadillac with an open bottle of whiskey in his hand and that he found a full bottle on the floorboard, that he concluded'they were both intoxicated, arrested them, and carried them to jail.
+The appellant, testifying in her own behalf, recounted her activities of the evening and stated that she had had only one drink and was not intoxicated. She stated that after she was taken to jail a policeman asked her if she would take a sobriety test, and she replied that she would if she had an attorney present, but that she was not permitted to call an attorney until after she was booked, and no test was given her.
+Appellant’s testimony was corroborated by her male companion of the evening and a friend with whom they had had a brief visit.
+In rebuttal, the state re-called Walker and called Officer Ellis, who testified that the appellant had been offered the sobriety test when she was brought to the jail and refused to take the same. Ellis testified that in his opinion the appellant was intoxicated at the time he saw her.
+The jury resolved the conflict in the evidence against the appellant, and we find the evidence sufficient to sustain the conviction.
+In her brief, the appellant contends that the court erred in permitting Officers Walker and Ellis to testify that the appellant refused to take the sobriety test.
+There can be no question but that the appellant opened up the subject when she, on direct examination, volunteered the information about being offered the sobriety test, and the state was authorized to introduce other evidence on the subject. Hopkins v. State, 162 Texas Cr. Rep. 103, 282 S.W. 2d 232.
+Finding no reversible error, the judgment of the trial court is affirmed.
