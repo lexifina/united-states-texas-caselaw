@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,631"
+decided: "1953-11-25"
+citations: ["159 Tex. Crim. 412"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eddie Upshaw v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2476368
+---
+
+# Upshaw v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for murder; the punishment 50 years in the penitentiary.
+The deceased, John Willis, was cut with a knife during a dice game at his home, and died before he reached the hospital.
+According to all of the testimony, appellant, during the game, complained that the dice were crooked. The deceased invited him, if he had any doubt about the dice, to break them with a hammer he had in the kitchen.
+According to the state’s witnesses appellant and his brother thereafter went to the restroom. As they came out appellant with his hands behind him walked immediately to where the deceased was on his knees counting his money and stabbed him with a knife. Appellant, according to these witnesses, stabbed the deceased again as he tried to get up; cut another player, Jessie Broussard, on the arm, in the chest and across the face, and then stabbed the deceased several times more.
+Appellant did not testify but offered his brother, L. C. Upshaw, as a witness. His version was that a fight ensued during the game, because of the use by the deceased of crooked dice; that appellant was struck by both the deceased and Broussard, while the remaining person present held the witness when he tried to stop Broussard. He denied that he saw a knife in the hand of appellant or anyone else.
+The trial judge submitted the issue of self-defense, and the evidence supports the jury’s verdict denying the plea.
+There are three formal bills of exception and no informal bills.
+Bill of Exception No. 1 complains of the overruling of the motion for new trial, the motion and the state’s controverting affidavit being made a part of the bill by reference.
+The motion for new trial complains of various supposed errors occurring during the trial, none of which are raised by formal or informal bill of exception other than the bills hereafter discussed. The motion and controverting affidavit are but pleadings, and the bill reserved to the overruling of the motion presents nothing for review.
+Bill of Exception No. 2 relates to that part of the motion for new trial wherein complaint is made as to remarks of one of the attorneys for the state, in his closing argument to the jury.
+If we understand this complaint it is that because the attorney had exhibited several sheets of white paper to a witness during the trial, the jury was. led to believe by the argument complained of that appellant’s brother had admitted in a statement that he knew appellant had stabbed and mortally wounded the deceased.
+The trial court qualified this bill to the effect that he saw no white sheets of paper exhibited during the trial and no objection or complaint was made in regard thereto until the motion for new trial was heard.
+As qualified, this bill presents no error.
+The remaining bill complains of other remarks of the attorney for the state in his closing argument to the jury.
+The trial court qualified this bill and declined to certify that the complained of remarks were made, saying he had no recollection thereof and they had not been called to his attention at the time of the trial by objection or complaint. No error is shown by this bill.
+The judgment is affirmed,
+
+## Rehearing (BELCHER, Judge.)
+
+ON MOTION FOR REHEARING.
+BELCHER, Judge.
+Upon his motion for rehearing, appellant urges that we misconstrued the trial court’s qualification to his Bill of Exception No. 2 in our original opinion wherein we stated that “no objection or complaint was made in regard thereto until the motion for new trial was heard,” when, in fact, a timely objection was made.
+As shown in the opinion, such reference was made to certain alleged white sheets of paper being exhibited during the trial about which the court had no knowledge until the motion for a new trial was heard. The court’s qualification shows that an objection was timely made that the state’s attorney, in his argument, “was misquoting the testimony, not that he was out of the record.” At that time, the court told the jury that if they had any quesion about any testimony, upon request, the court reporter would read same to them, and the court certifies that “no further objection was made and no exceptions reserved.” Also, the court declined to certify that the complained-of argument interjected matters not in evidence.
+Remaining convinced that the matter was properly disposed of on original hearing, appellant’s motion for rehearing is overruled.
+Opinion approved by the Court.
