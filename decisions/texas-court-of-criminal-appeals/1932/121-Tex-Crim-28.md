@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "15092"
+decided: "1932-06-24"
+citations: ["121 Tex. Crim. 28", "51 S.W.2d 710"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dolores Trevino v. The State."]
+source_url: "https://static.case.law/tex-crim/121/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5206850
+cites_cases: ["107 Tex. Cr. R. 408", "107 Texas Crim. Rep., 408", "296 S. W. 889", "296 S. W., 889"]
+---
+
+# Trevino v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+Conviction is for an' attempted burglary; punishment assessed being three years in the penitentiary.
+The second count of the indictment, the one upon which conviction i§ based, alleges, in substance, that appellant attempted to break and enter ¡¡. “house” occupied by E. E. McBrayer with intent to, commit the offense of rape, further alleging that the attempted burglary was committed by cutting the wire screen covering a window of the house and unlatching the catch holding said screen.
+The evidence upon the trial showed the attempted burglary was at night, and that the house was a private residence occupied as such at the time by McBrayer and his family.
+It has been suggested that a conviction for an attempted burglary could not be sustained under the present indictment because there was an omission of an averment therein that the house was the. private residence of McBrayer and occupied as such at the time. We are not in accord with this suggestion, which doubtless arises from some expressions found in the opinions of this court — most of them, however, dealing with the completed act of burglary of a .private residence. Prior to the act of the Legislature in 1889, which by its peculiar wording, made the burglary of a private residence at night a distinct offense, the burglary of such residence came under the general terms of burglary. If the burglary of a private residence occurs now in the day time it still comes within the general definition of burglary, and all that is necessary to charge the burglary of a private residence in the day time is to allege the burglary of a “house.” As brought forward in the revision of 1925, chapter 5 of title 17, P. C., contains first a definition of burglary generally; then follows the definition of “burglary of a private residence,” “entering,” “breaking,” and “house,” “day time,” and “night time,” and “burglary by explosives”; then follows article 1402, which reads as follows: “An ‘attempt’ is an endeavor to accomplish the crime of burglary carried beyond mere preparation, but falling short of the ultimate design in any part of it. Whoever shall attempt to commit burglary shall be confined in the penitentiary not less than two nor more than four years.”
+From the language used in the article just quoted, it seems that the attempt to commit the crime of burglary applies to such offense whether made upon a private residence in the night time or in the day time, or whether the attempt be to burglarize a house under the general terms of the statute at any time. Therefore, we hold that the, allegation by proper averments of an attempt to burglarize a “house” was sufficient. The punishment for an attempt to commit burglary is the same, .regardless of the time of the attempt, or the character of the house.
+.. During the night a daughter of Mr. and Mrs. McBrayer was disturbed by some one at the window of her room. She reported the matter to her. father and mother. Her father secured his gun and found some one had cut the screen wire of the window and was holding the wire back and looking in the room. The father fired at the intruder, but apparently missed him. Mr. McBrayer said that from his position in the house he could not see plainly the party on the outside, and did not undertake to identify him, but said he was dressed in clothes similar to those worn by appfellant when he- was' arrested. The mother and daughter positively identified appellant' ás the man seen at the window, although the daughter, when confronted with him that same night said it was the same one, but iliat “he seemed to be taller.” It developed on the trial that some one had been about the house on several prior occasions, at which time tracks were found around the house. Over appellant’s objection, both Mr. and Mrs. McBrayer were permitted to testify that the tracks claimed to have been made by appellant on the night of the incident out of which the prosecution grew were the same identical tracks that- had been seen about the house on previous occasion. The last disturbance prior to the one upon' which the prosecution • was based was probably a month before, and no tracks made at that Or any previous time were on the ground on the night Of this attempted burglary. Therefore, there could have been no comparison of tracks with those made on previous occasions, and none were claimed to have been made.. The objection interposed to the testimony as to the similarity of the tracks was that such evidence was the opinion and tonclusion of the witnesses. This objection should have been sustained. Many authorities will be found collated'in Branch’s Ann. Tex. P. C., sec. 141. See, also, Carlisle v. State, 107 Texas Crim. Rep., 408, 296 S. W., 889. The injurious effect of the testimony does not admit of debate. It got before the jury the opinion of the witnesses that on prior occasions appellant had been-about the house in question for a similar purpose.
+The bill complaining of the denial of a continuance, and the other bills found in the - record are not discussed. The questions' brought forward by them will not likely arise upon another trial.
+For the error- mentioned, thfe judgment is reversed and the cause remanded.
+Reversed and remanded.
