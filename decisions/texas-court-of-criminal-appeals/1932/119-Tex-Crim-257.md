@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "14612"
+decided: "1932-01-06"
+citations: ["119 Tex. Crim. 257", "45 S.W.2d 210"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ben Hogge v. The State."]
+source_url: "https://static.case.law/tex-crim/119/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5196527
+cites_cases: ["101 Tex. Cr. R. 336", "101 Texas Crim. Rep., 336", "11 S. W. (2d) 172", "11 S.W.(2d) 172", "117 S. W., 821", "117 S.W. 820", "275 S. W. 829", "275 S. W., 829", "55 Tex. Cr. R. 649", "55 Texas Crim. Rep., 649"]
+---
+
+# Hogge v. State
+
+## Majority (CHRISTIAN, Judge.)
+
+CHRISTIAN, Judge.
+The offense is transporting intoxicating liquor ; the punishment, confinement in the penitentiary for one year.
+J. L. Fairey, a witness for the state, testified, in substance, that he, Bill Stillwell, and appellant had driven around in appellant’s car for about thirty minutes before returning to appellant’s place of business; that when they stopped at a barn near appellant’s place of business Still-well handed him a sack from the automobile, which he carried into the barn; that an officer approached and asked him what he had; that he replied that he did not have anything; that an exmination of the sack disclosed two half-gallon fruit jars filled with whisky; that he (the witness) did not know the whisky was in the sack; that when the officer arrested him (the witness), appellant interfered; that prior to going to appellant’s place of business, Stillwell, appellant and the witness had driven in appellant’s car south of town; that Stillwell took out a bottle of whisky while they were driving and they all took a drink. The arresting officer testified that he saw appellant, Stillwell and Fairey in the automobile driving toward appellant’s place 'of business; that he followed the parties until they reached the barn; that Fairey got out of the car with a sack in his hand; that a fruit jar was sticking out of the sack and as Fairey started toward the barn he approached and hollered at him; that he found two fruit jars filled with whisky in the sack; that appellant came in and took hold of him and told him that he could not arrest Fairey. Other witnesses testified to having seen appellant and his companions riding around in appellant’s automobile shortly prior to the arrest of Fairey.
+Appellant denied that he was in the automobile, and declared that he came into the barn just as Fairey was being-arrested. He said he had not driven with the parties in the automobile at all and had no knowledge that they had transported whisky to the barn until he entered and found the officer in the act of arresting Fairey. Other witnesses testified that they had seen Fairey and Stillwell riding around in appellant’s automobile shortly prior to the arrest, and that appellant was not with them.
+In his motion for a new trial appellant alleged that one of the jurors was disqualified because of prejudice against him. It was averred in the motion that the juror had stated to certain parties that he had seen the transaction at the barn and, in effect, that he knew appellant was guilty. The affidavits of the parties to whom it was alleged that the juror made the statement in question were attached to the motion for a new trial. The juror testified that he did not make the statements attributed to him and that he had not witnessed the transaction out of which the indictment grew. He further testified that he had no prejudice against appellant and had formed no opinion as to the guilt or innocence of appellant prior to being taken on the jury. In Branch’s Annotated Penal Code, sec. 565, page 288, we find the following statement: “When it is sought to show on the hearing of the motion for new trial that a juror before the trial had expressed an opinion of defendant’s guilt or had made statements which showed a prejudice against defendant, the decisiori of the trial court on that issue will be sustained by the appellate court unless clearly wrong if the evidence bearing thereon was conflicting and was sufficient, if believed, to justify the action of the trial judge.”
+In Meadors v. State, 101 Texas Crim. Rep., 336, 275 S. W., 829, in discussing a similar question, this court said: “When there is a controversy raised as to this character and kind on motion for a new trial, and the trial court hears the testimony, his decision is not reversible under such circumstances, and is only reversible when the testimony is all one way or when the decision is clearly wrong.” See also McKenzie v. State (Texas Crim. App.), 11 S. W. (2d) 172.
+Appellant alleged in his motion for a new trial that he had discovered new testimony. If the affidavits attached to the motion should be looked to, we find that a witness would have testified that he saw Fairey and Stillwell in an automobile shortly prior to the arrest of Fairey, and had a conversation with them, and that appellant was not in the car at the time. Other witnesses testified on the trial of the case that they had seen Fairey and Stillwell together in appellant’s car and that appellant was not with them. Branch’s Annotated Penal Code, sec. 203, states the general rule as follows: “As a general rule where it appears that had the proposed new witness testified on the trial his testimony would have been merely cumulative of that adduced on the trial, it affords no ground for granting a new trial as newly discovered testimony.”
+See Evans v. State, 55 Texas Crim. Rep., 649, 117 S. W., 821. It appears that the testimony alleged to have been newly discovered was purely cumulative of that adduced on the trial. It may be added that the court, in overruling the motion for a new trial, states that appellant did not introduce in evidence the affidavits appended to the motion for a new trial, and that the witnesses alleged to be newly discovered did not testify on the hearing of the motion.
+An examination of appellant’s contentions leads us to the conclusion that error is not presented.
+The judgment is affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
