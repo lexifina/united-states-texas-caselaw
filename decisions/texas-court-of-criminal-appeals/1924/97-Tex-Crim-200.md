@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "8156"
+decided: "1924-04-02"
+citations: ["97 Tex. Crim. 200", "260 S.W. 850"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. P. McDonald v. The State."]
+source_url: "https://static.case.law/tex-crim/97/cases/0200-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5082942
+cites_cases: ["153 S. W. 871", "161 S. W. 117", "245 S. W. 911", "245 S. W. Rep., 911", "37 Tex. Cr. R. 78", "37 Texas Crim. Rep., 78", "38 S. W. 773", "38 S. W., 773", "70 Tex. Cr. R. 57", "70 Texas Crim. Rep., 57", "72 Tex. Cr. R. 107", "72 Texas Crim. Rep., 107", "93 Tex. Cr. R. 64", "93 Texas Crim. Rep., 52"]
+---
+
+# McDonald v. State
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+The offense is the unlawful sale of intoxicating liquor; punishment fixed at confinement in the penitentiary for a period of one year.
+According to the State’s evidence, the witness Collins went to the home of Artie Jackson to buy some whisky. Jackson was not found but the appellant and several others were there. The witness approached McDonald with reference to procuring whisky. McDonald said he had none but could take the witness to where it could be obtained. Collins, Jackson and another person whom Collins did not know went to the home of Archbell, about three blocks distant. The stranger knocked upon the door and Archbell appeared. McDonald, Archbell and the stranger had a conversation which was not heard by the witness. Archbell went out the back door, and from under a woodpile produced a pint of whisky which he handed to McDonald. 'Collins had previously given McDonald two dollars, the price of a pint of whisky, and requested him to procure it for him. Collins was acting as a detective, and the officers who employed him testified to facts corroborative of his evidence.
+According to the appellant, he and a boy named English were together when Collins appeared at the home of Jackson and wanted to buy whisky. McDonald said that he knew of no whisky which could be bought. English said that he thought he could obtain a pint, the amount which Collins wanted, and the three went to the home of Archbell. Collins shoved some money into the hands of McDonald, who walked on the front porch and knocked on the door. Some one from the inside answered that he was sick. Appellant then walked back and returned the money to Collins. English requested that the money be given to him, and after receiving it, he walked away and later returned with a pint of whisky which he delivered to Collins. Appellant specifically denied that he got the whisky or had any interest in the sale or any arrangements with Archbell with reference to the sale of whisky, but that he wanted a drink, and Collins gave him one from the bottle which he had purchased.
+Appellant sought to have his case continued. It is stated in his motion that twenty-one of the veniremen were selected by the jury commissioners. The court instructed the sheriff to fill the panel with talesmen and said to him:
+“In getting your pickups, it is a pretty busy time with the farmers, and have due regard as much as you can for this situation. ’ ’
+The record is silent as to whether any of the men selected by the sheriff served on the jury. No question is therefore presented for review touching the members of the jury that tried the appellant.
+The court, in instructing the jury, presented appellant’s theory that the money which he had received from Collins was returned to him and no whisky was obtained for or delivered to Collins by the appellant; also the theory that if English obtained and delivered the whisky to Collins, there should be an acquittal. Upon both of these questions the court specifically instructed the jury that if there was reasonable doubt, it should be applied in favor of the appellant. The theory of agency for the purchaser was also presented to the jury in the main charge in language which is deemed appropriate. A special charge upon the question of agency was requested, though whether presented in time is not shown. However, the main charge covered the issue. 1
+There were exceptions to the court’s charge. The exceptions were general and are fully met by the court’s charge, which seemingly was amended after the exceptions were prepared.
+The sufficiency of the evidence is questioned by the appellant upon the authority of McLain v. State, 72 Texas Crim. Rep., 107; Cortinas v. State, 93 Texas Crim. Rep., 52, 245 S. W. Rep., 911; Scott v. State, 70 Texas Crim. Rep., 57; Branch’s Crim. Law, Sec. 569. In McLain’s case, supra, the facts are uncontroverted. “All the-facts show that he (appellant), Taylor and McDaniel put up $1.50 and appellant went and bought the whisky with it and paid $1.50
+for it, and they drank it.” Scott’s case, supra, is also one where the uncontroverted evidence showed that Scott acted as the accommodation agent for the purchaser. The Cortinas case, supra, was affirmed on facts no more cogent in favor of the State than those in the present instance. Devers wanted to buy some whisky. Cortinas said: “I haven’t got it, but I can get it.,” and said that the price was $5.00. Devers gave him this amount. Appellant disappeared and another Mexican delivered to Devers some liquor. Cortinas explained that he took the $5.00 which Devers gave him and handed it to Olivarez, a bootlegger, and told him that Devers wanted some tequila; that he was acting purely for the accommodation of Devers. The court said:
+“The evidence, in our opinion, raises an issue of fact touching appellant’s relation with the transaction. If it was true that he acted merely for the purchaser, he would not be guilty. Key v. State, 37 Texas Crim. Rep., 78, 38 S. W., 773, and other eases listed in Branch's Crim. Law, Sec. 569. If, however, he was the seller or was acting with Olivarez in making the sale, he would be a principal offender. Prom the standpoint of both the State and the appellant, it appears that an illegal sale of intoxicating liquor was made. The appellant admittedly fixed and received the price. That he delivered the money to another rests on his own testimony alone. Even so the circumstances connect him with the sale in a manner which does not justify this court in deciding, as a matter of law, that he and Olivarez were not acting together.”
+We are constrained to regard the evidence as sufficient to support the conviction and are unable to find any departure from the legal procedure which would authorize a reversal of the judgment. It is therefore affirmed.
+Affirmed.
