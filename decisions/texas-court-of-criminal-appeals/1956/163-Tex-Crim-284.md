@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,336"
+decided: "1956-05-30"
+citations: ["163 Tex. Crim. 284"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Noil Jones v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0284-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460636
+---
+
+# Jones v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is murder; the punishment, 75 years.
+The homicide occurred while the parties were engaged in a dice game. Some months before the homicide the deceased had thrown a brick at the appellant, the impact breaking the appellant’s neck and fracturing his skull. This had occurred when the deceased had discovered the appellant and the deceased’s wife drinking beer together. The state’s witnesses testified that the appellant fired several shots from a pistol at the deceased, who was unarmed, one of the bullets injuring a bystander. The appellant and his witnesses testified that the deceased was advancing upon the appellant with his hand in his bosom or pocket when the appellant shot him in self-defense. No weapon was found upon the body of the deceased. The jury, under an appropriate charge, resolved the issue of self-defense against the appellant, and we find the evidence sufficient to support their verdict.
+The evidence will be developed more fully as we discuss the contentions briefed by able counsel. He contends that the court commented upon the weight of the evidence:
+(1) While ruling upon an objection that a question was leading when he said, “Oh, he (the prosecutor) has got to get at it some way; get along; overruled.” The question was a preliminary one, and, though we cannot condone irritability on the part of a trial judge, we fail to see how this remark was upon the weight of the evidence.
+(2) When the court interrupted defense counsel’s questioning about how the district attorney knew what the witness’ testimony would be if he had not talked to the prosecutor and said, “He testified that he was (under subpoena). I don’t want to cut you off from anything that is material but this boy (the witness) would not know what the District Attorney knew.” While we do not approve of the trial court’s explaining his rulings in the presence of the jury, we are at a loss to see how the appellant might have been injured by the remark set forth.
+(3) When the court interrupted defense counsel and said, “You have been over that three times, get along please.” We find that the appellant’s counsel had in fact “been over that” only once, but we do hold that the court need not wait for an objection from the state before reminding counsel that he is repeating.
+By Bills of Exception Nos. 11 and 12 the appellant complains of the admission and withdrawal of alleged hearsay testimony. The witness Turner testified that the appellant came to his house and requested his wife to call deceased’s wife and ask her to meet him there and that Turner then told the appellant that he would not tolerate such conduct in his home. Turner first testified that he overheard the conversation between the appellant and his wife and then testified that she came outside the house ánd told him about it and that he immediately spoke to the appellant. The court thus had two conflicting statements before him. Upon the conclusion of the evidence, after the appellant had denied the conversation, the court instructed the jury that they might consider the evidence that the appellant came to Turner’s house and had a conversation with Turner’s wife but that they might not consider what Mrs. Turner reported to her husband about the substance of their conversation. Surely, Turner might testify that the appellant came to his house and talked to his wife. Unless he heard the conversation, the hearsay rule prevented him from giving her version thereof. This was the effect of the court’s ruling when he resolved the conflict in the testimony against the state.
+Informal Bill of Exception No. 5 relates to the refusal of the trial court to admit into evidence the records of Parkland Hospital which reflected that when the appellant was admitted following the brick incident he had a fractured skull and a fractured third cervical vertebrae. We have concluded that the court was in error in refusing to admit these records under the authority of Article 3731a, but we do not conclude that reversible error is reflected thereby because almost every witness who testified in the case, both for the state and for the appellant, mentioned in their testimony that the deceased in the prior incident had broken the appellant’s neck by hitting him with a brick. In fact, the state’s first witness detailed the brick incident, and the entire evidence presents no conflict as to the serious injuries sustained by the appellant on that occasion. The jury might reasonably have concluded that the deceased was no billed in the brick incident because the appellant was caught in the act of showering his attentions upon the deceased’s wife rather than because his injuries had hot been severe.
+Finding no reversible error, the judgment of the trial court is affirmed.
