@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "393"
+decided: "1910-02-02"
+citations: ["58 Tex. Crim. 191"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joe Spriggs v. The State."]
+source_url: "https://static.case.law/tex-crim/58/cases/0191-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4581030
+cites_cases: ["54 Texas Crim. Rep., 1"]
+---
+
+# Spriggs v. State
+
+## Majority (McCORD, Judge.)
+
+McCORD, Judge.
+The appellant in this case has appealed from a conviction for unlawfully keeping and exhibiting for the purpose of gaming a certain gaming table and bank and his punishment assessed at two years.
+The facts are about as follows: On the night of the 22d day of February, 1909, appellant, in company with Anderson King and Garrett Taylor, was discovered in the colored schoolhouse in the town of Marion, in Guadalupe. County, playing cards. The witness Patton claims that he slipped up to the window and saw them squatting- down in the corner, of the schoolhouse playing cards; that the appellant was dealing monte, and Taylor and Anderson betting at the game; that this was after 12 o’clock at night and between 3 and 4 o’clock in the morning. This witness on cross-examination said he did not know how the game of monte was played, and continuing, the witness said-: “I just slipped up to the window and walked away; I don’t know anything about monte and Dandy; there was only one pack of cards there. I saw Joe (meaning appellant) dealing twice and he won both times. I taken this game to be a game of monte that they were playing. The game I saw I call a banking game, because Joe had his money between his legs and I didn’t see Anderson’s money at all; because a man has the money between his legs I would suppose it was a banking game when he was doing the dealing. There is a difference between poker and monte. All I saw is that I stepped up there to that window and looked in and Joe was dealing, and I don’t remember the cards that were bet on; they were using just the regular cards that you could play poker or anything with; they were not monte cards.” This witness further testified that he filed two complaints against appellant, one for betting at cards and the other for running a bank, all growing out of the same transaction, that is, at one time when he looked in at the window appellant was dealing, and at another time Taylor was dealing and he saw the appellant bet, and that for betting at the cards the appellant plead guilty. We do not think that the testimony in this case will support a conviction for keeping and exhibiting a banking game or table under the provisions of article 388a of the Act of the Thirtieth Legislature. There is practically no difference in the facts of this case and the case of Hanks v. State, 54 Texas Cr. Rep., 1. In the Hanks case the State’s witness claimed to have peeped through the crack in a barn and saw appellant and three other parties playing cards; that he saw some money stacked up on a blanket in front of appellant, and that he took the game they were playing to be monte, and that the said Hanks had charge of the game and was dealing it and that the other parties were betting at the game. In the Hanks case there was some effort made on the part of the State to explain the game of monte and to show that it was a banking game. Here there was no effort made to explain the game of monte. The witness simply said he took it to be monte because one man was doing the dealing and had the money between his legs. The testimony shows a violation of the gaming law, but we do not think the testimony sufficient to show that the appellant was keeping or exhibiting a banking game, and, as said by Judge Ramsey in the Hanks case: “We are unwilling that any man, under this law, should suffer the ignominy of confinement in the penitentiary under the facts disclosed by this record. In this ease there is no evidence that appellant owned the house; that he was the lessee of the house, nor was there any of the equipments or paraphernalia of the gambling establishment, nor does it appear, unless by mere rumor, that these people or anyone else had ever 'played any game at this place either before or since the night in question.” This was simply a game of cards played by a lot of negroes at night and we do not think that it falls within the meaning of article 388a, and, therefore, believing the testimony wholly insufficient the judgment is reversed and the cause is remanded.
+Reversed and remanded.
