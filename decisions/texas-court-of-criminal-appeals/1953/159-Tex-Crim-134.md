@@ -1,0 +1,76 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,393"
+decided: "1953-05-13"
+citations: ["159 Tex. Crim. 134"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Juan Garza v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0134-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2475675
+cites_cases: ["156 Tex. Cr. R. 34", "238 S. W. 2d 769", "239 S.W. 976", "240 S.W. 920"]
+---
+
+# Garza v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for the murder of one Andres Garza; the punishment, 15 years in the penitentiary.
+According to the state’s witnesses, appellant’s father and co-indictee, Jorge Garza, struck one Espirio Rios with a pipe or blackjack. Then one Isaac Camacho struck the deceased Andres Garza with his hand. Thereupon Manuel Garza told his brother, the deceased, to get out of the way and he would take his place, which he did.
+While the two fights were in progress, appellant ran to the deceased and stabbed him with a long bladed knife, and then stabbed Manuel Garza three times before he was knocked out of the way by Espirio Rios.
+Andres Garza died as a result of the stab wound at the hospital that night.
+Appellant, testifying as a witness in his own behalf, denied that he killed the deceased and claimed that he acted only for the purpose of defending himself and his father who, at the time, was on the ground calling for help. He claimed that he was stabbed in the back by Manuel Garza and exhibited a scar, but the sheriff testified that he examined appellant shortly after the homicide and “. . . did not find a mark or a scratch on him anywhere”; that he looked particularly on his back and shoulders for stab wounds or abrasions or scratches, “. . . and didn’t find a single wound or abrasion or scratched place on him.”
+The jury was charged on the law of self-defense and defense of another and was told to acquit appellant if they believed or had a reasonable doubt that he killed the deceased in defense of himself or his father, believing that either he or his father was in danger of losing his life or suffering bodily injury at the hands of the deceased Andres Garza, Espirio Rios and Manuel Garza, or either of them.
+There are no objections to the charge, but appellant complains that his requested charge No. 1 was refused. In the absence of a showing that this special charge was requested before the charge of the court had been read to the jury, reversible error is not shown. See Art. 659 C.C.P.; Norman v. State, 91 Tex. Cr. Rep. 486, 239 S.W. 976; Crane v. State, 91 Tex. Cr. Rep. 304, 240 S.W. 920.
+Bill of Exception No. 1 complains of the overruling of appellant’s motion to quash the special venire and summons a new venire, and Bill of Exception No. 2 complaints of the refusal of the court to require the sheriff to file an amended return, and to present counsel with a copy of the amended return, and delay the trial for one full day after the amended return had been filed.
+This case and another capital case pending in the same court were set for trial for October 13, Í952, and under the provisions of Art. 590 V.A.C.C.P. a special venire was ordered drawn for the two cases. No question is raised as to the drawing of the venire, the complaint raised by Bills of Exception 1 and 2 relating to the summoning of the veniremen and the sheriff’s return thereon. -
+The list of veniremen with the sheriff’s return thereon was offered in evidence in connection with appellant’s, motions, but is not found in the transcript of the testimony heard on the motions and made a part of the bills of exception, or elsewhere in the record. (A notation by the reporter states that the list and return could not be found.)
+In the absence of such return or a showing as to its contents, we are relegated to the allegations and testimony on the subject made a part of the bills of exception.
+From these sources we find in the bills of exception:
+The sheriff summoned the jurors whose names appeared on the special venire list, some 12 in person and the others (except two who he knew to be deceased) by post card.
+The sheriff made his return showing such service and filed it with the district clerk on October 7, 1952.
+On October 13, 1952, the other capital case was tried, the case against appellant being postponed to October 29, 1952. The veniremen who reported October 13, and who were not permanently excused, were ordered to return on October 29th for appellant’s trial.
+Forty-nine of the 80 veniremen reported on October 29th, and before the selection of the jury 12 others appeared.
+Prior to October 29th three of the jurors presented doctors’ •certificates stating that they were not physically able to serve as jurors. On a similar excuse another juror was excused by the court on October 13th. As stated, two were dead.
+Appellant moved that attachment be issued for all jurors who had not been excused by agreement of counsel, whereupon the district attorney exercised 13 of his challenges on named jurors to avoid the necessity of such attachments.
+If our calculation be correct this accounts for the entire venire.
+Where the jurors are shown to be in attendance, the manner of summoning them will not require that the venire be quashed.
+Since its amendment in 1937, Art. 590 G.C.P. provides for the drawing of one venire for all capital cases set for the same day, a list of the venire for the day to be furnished each defendant “. . . as already made and provided by law.”
+Appellant was on bond and his counsel was furnished with a list of the veniremen drawn, with the sheriff’s return thereon, long prior to the trial. His complaint, as stated, is directed to the return, and especially to the claimed failure of the sheriff to note thereon the names of those not summoned, the diligence used and the cause of the failure to summon them, as required under Art. 598 C.C.P.
+Since its amendment in 1951, Art. 597 C.C.P. provides that the summons for veniremen may be verbal upon each juror in person “. . . or by mailing the summons to the person named on the list at the address last known to the officer, by first class United States mail, as the judge of the Court may direct.”
+There is nothing to show that the trial judge directed that the veniremen be summoned personally, nor is it shown that he did not direct that they be summoned by mail.
+Postal cards come under the head of first class mail. If the sheriff personally served or mailed cards to the veniremen in accordance with Art. 597 V.A.C.C.P., and made his return showing that he had done so, the return was a sufficient compliance with Art. 598 V.A.C.C.P.
+We conclude that Bills of Exception Nos. 1 and 2 do not show reversible error for the reasons:
+(a) The veniremen whose names appeared on the list furnished appellant’s counsel as having been summoned, except for those who were unable to serve and those who were peremptorily challenged by the state, appeared and were available as prospective jurors, and
+(b) The veniremen were “summoned” as provided in Art. 597 V.A.C.C.P. when verbally served in person or when summons was mailed to such veniremen “at the address last known to the officer by first class United States mail.”
+Other bills of exception relate to the court’s overruling of appellant’s challenge for cause to certain prospective .jurors, each setting forth their voir dire examination.
+We find "no error on the part of the trial judge in, passing upon the qualification of the jurors ..which calls for reversal. .:
+The evidence sustains the conviction and we find no reversible error.
+The judgment is affirmed.
+
+## Rehearing (MORRISON, Judge.)
+
+ON MOTION FOR REHEARING.
+MORRISON, Judge.
+Appellant takes us severely to task for what he contends are statements not supported by the record. He says that as counsel for appellant he received no list of the venire with the sheriff’s return thereon. The appellant was on bail, and, according to the terms of Article 601, C. C. P., it is incumbent upon appellant or his counsel to make application to the clerk of the court in which the case is pending for a list of the persons summoned for service.
+We must now address ourselves to the task of determining if a list of the persons so summoned was on file and available to counsel one day prior to the calling of this case on October 31, 1952.
+The sheriff testified that he received the venire list on October 4. He stated further:
+“Q. And you made your return on October 7th? A. Yes, sir.”
+Further on he testified:
+“Q. . . . you have here that all of them were served by October 7, 1952. A. That all of them were notified by then.
+“Q. How did you notify them — by mailing a card? A. Mailing them a postal card, yes, sir.
+“Q. It was not be registered mail? A. No, sir. Some of them I served in person.
+“Q. Do you know how many you served in person? A. Quite a few.
+“Q. Well, about how many? A. Oh, I wouldn’t know off hand, but several of them.
+“Q. Well, would you hazard a guess on how many you served personally?" A. About a dozen.
+“Q. About 12 out of 80? A. Yes, sir.
+“Q. And the rest of them you served by postal card? A. Yes, sir.”
+Much of the confusion in this case stems from the fact that all of those concerned with the trial thereof seem to have been laboring under a misconception of the present law relating to the sheriff’s return.
+Prior to the amendment of Article 597, C. C. P., in 1951, an accused was entitled to one full day in which to examine a list of the veniremen who had been summoned in person. If the sheriff had been unable to summon any number of veniremen, !,then the accused did not concern himself with determining if those unsummoned were acceptable to him.
+Since the above amendment, the accused is still entitled to his full day, but for all practical purposes he must determine if all those on the venire list are acceptable to him. This is so because the sheriff may mail a postcard to the last known address of the veniremen, make his return showing this fact, and file the same with the clerk. When this is done he has complied with the law. Neither the sheriff nor the accused knows how many ,,of the veniremen will receive their notice.
+The efforts of the sheriff in the case at bar to follow up his postcard notice with an effort to personally serve those to whom he had mailed cards was commendable but not required since the amendment of Article 597, supra. Hence, the “amended” return, in which the sheriff set forth his diligence, was not required by law and cannot, therefore, constitute the basis for a reversal of this cause. The appellant had one full day in which to examine the venire list which the sheriff had summoned by mail, and that is all the present law accords him. In the case at bar, there is no showing as to which manner of summoning the court directed. In such a case, we hold that the sheriff might employ either or both methods set forth in the statute.
+We have again examined the bills of exception relating to appellant’s challenge for cause of certain prospective jurors. When tested in the light of our holding in Low v. State, 156 Tex. Cr. R. 34, 238 S. W. 2d 769, the prospective jurors were not subject to the challenge.
+Remaining convinced that we properly disposed of this cause originally, the appellant’s motion for rehearing is overruled.
