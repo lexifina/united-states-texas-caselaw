@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3338"
+decided: "1905-12-06"
+citations: ["49 Tex. Crim. 47"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pearl McDaniel v. The State."]
+source_url: "https://static.case.law/tex-crim/49/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4544125
+cites_cases: ["41 Texas Crim. Rep., 46"]
+---
+
+# McDaniel v. State
+
+## Majority (HEKDERSOiST, Judge.)
+
+HEKDERSOiST, Judge.
+Appellant was convicted of the theft of a hog, and his punishment fixed at two years confinement in the penitentiary; hence this appeal.
+Appellant questions the conviction on the ground that the evidence fails to show the theft of the hog anterior to the finding of the indictment; and because the identity of the alleged stolen hog is not sufficiently proved. It must be conceded that the testimony is rather meager on these questions. Witness Kyle Andrews, who testified to the alleged theft, states that he does not know when it was he saw defendant sell the hog to Pilgrim; don’t know what part of the year it was. The trial appears to have been on the 22nd of May, 1905, and the allegation in the indictment was that the theft was committed on the 6th of January, 1905. The nearest this witness approximates the time of the theft was, that it was two or three months before the trial. As to the identity of the hog, this witness says that it was a white and black spotted hog, and that defendant was there at the time, and he asked him whose hog it was, and he said it was his, and he saw the witness Pilgrim pay $3 for the hog. Defendant said he bought the hog from Johnnie Gilder (who was a colored man and was present in court). Johnnie Gilder says he missed a black and white spotted sow on January 6, 1905; that he did not know what had become of her; that she has never come up since he missed her; that he saw her on Sunday before she was killed on Thursday or Friday. It will be noticed that the State’s witness Kyle Andrews does not state that it was a black and white spotted sow, but merely a hog. It would seem that if this was the same hog lost by Gilder, the sow which he testified was marked, more care should have been exercised by the State to render the identification complete. Gilder missed a hog— he says a sow, marked with a hole and a bit in each ear. The State does not show the sex of the hog sold by appellant to Pilgrim, much less that it had any marks. It may be that this was the same identical hog that belonged to Gilder, especially as appellant is shown to have stated that the hog he sold to Pilgrim he got from Johnnie Gilder; still it may not be the same hog, and John Gilder’s hog may yet put in an appearance. If the testimony was more accurately delivered than is here manifest, the fault is in getting up the record properly. But in either event, whether it be that the testimony was not more accurately given, or the record failed to properly disclose the testimony, we do not feel authorized to affirm a conviction presented in this loose manner. The time of the theft should be so established as that there could be no question that it was before the indictment was found, and the identity of the animal must be established to a reasonable certainty.
+Appellant also complains of the court’s charge with reference to the testimony of Effie McDaniel, the mother of appellant. She appears to have testified that she offered to pay John Gilder for said hog, after defendant had been accused of taking it, and that prosecutor would not receive the money, stating that he refused to receive it because de did not believe appellant stole his hog. The court instructed the jury that they could only consider this testimony as bearing on the credibility of said Effie McDaniel as a -witness in the case. It does not occur to us that this testimony was admissible for the purpose of discrediting said witness. Evidently appellant desired the effect of the refusal of Gilder to receive the pay, as going to exculpate appellant. He stated in that connection that he did not believe appellant stole his hog. This testimony was not admissible against appellant at all, unless he was shown to be connected with his mother’s proposition of compromise, and on proper objection it should have been excluded. The same observation might be made with reference to the testimony of Johnnie Gilder, unless appellant was shown to have been connected with the proposition to pay for the hog, this testimony should have been excluded. It may be, as limited, this testimony might not have injured appellant. But we do not believe it was testimony of an impeaching character. The judgment is accordingly reversed and the cause remanded.
+Reversed and remanded.
