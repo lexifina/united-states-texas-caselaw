@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "16120"
+decided: "1933-06-21"
+citations: ["124 Tex. Crim. 243", "61 S.W.2d 843"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Claud Horton v. The State."]
+source_url: "https://static.case.law/tex-crim/124/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5786821
+cites_cases: ["115 Tex. Cr. R. 431", "115 Texas Crim. Rep., 431", "116 Tex. Cr. R. 232", "116 Texas Crim. Rep., 232", "118 Tex. Cr. R. 205", "118 Texas Crim. Rep., 205", "120 Tex. Cr. R. 277", "231 S. W. 120", "231 S. W., 120", "27 S. W. (2d) 159", "27 S.W.(2d) 159", "34 S. W. (2d) 592", "34 S.W.(2d) 592", "40 S. W. (2d) 814", "40 S.W.(2d) 814", "47 S. W. (2d) 310", "47 S.W.(2d) 310", "50 S. W. (2d) 812", "50 S.W.(2d) 812", "89 Tex. Cr. R. 358", "89 Texas Crim. Rep., 358"]
+---
+
+# Horton v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+Conviction is for robbery, punishment being assessed at five years in the penitentiary.
+The facts are unusual. Appellant and the party claimed to have been robbed (Tennon) are negroes, and related in some 'way. On Saturday afternoon, September 10, 1932, Tennon bought a forty-nine cent shirt. That night Tennon wore the shirt to a picnic. Appellant was also there. He claimed the shirt. Tennon protested. With the aid of a pistol, appellant forced Tenon to take the shirt off and deliver it to appellant, who put it on. During the controversy, Tennon was struck with the pistol and knocked down. Appellant claimed that he had bought the shirt and a pair of shoes a week before and had taken them to his aunt’s house; that Tennon was- there on Sunday, and after Tennon left the shirt was also found to be gone. It was appellant’s claim that he was only retaking property which rightfully belonged to him. Appellant supported his own testimony by that of his aunt and another party, who claimed to have been with him when the shirt and shoes were purchased. Tennon admitted that appellant said the shirt was his and acted like he really believed it belonged to him.
+The court gave appellant a fair charge on the issues raised, telling the jury that there could be no robbery in the absence of a fraudulent intent, and that, if the shirt was taken by appellant under the belief that it was his property, he would not be guilty of robbery. The jury was further told if they entertained a reasonable doubt upon the question of robbery to acquit appellant of that offense, but that he might be convicted of an aggravated assault if he committed an assault with a deadly weapon.
+Three bills of exception are brought forward. All register complaints against conduct of the district attorney. Bill number one recites that the district attorney asked the officer who arrested appellant if he had a pistol when arrested, to which question appellant’s counsel objected. The district attorney said in the jury’s presence, “All right, son, if you do not want the jury to know it, it is all right.” Perhaps the side-bar remark should not have been made, but we do not attach any great importance to it, and think it could have resulted in no-injury to appellant.
+Bills of exception two and three bring forward complaint of the closing argument of the district attorney. We find nothing in the language complained of in bill number two which would call for a reversal.
+Bill number three complains of the following argument of the district attorney: “Gentlemen of the jury, you know that negro was lying as to the time he says he bought the shirt because Mr. Knox remembered it so very well as it was the day that he had trouble with the negro on the Saturday afternoon, and had to call his son to help him with the negro.”
+It was recited in the bill that the argument was inflamatory and abusive and calculated to injure the rights of appellant. With such apparent recital of fact the bill would have presented error in the absence of a qualification. See Roberts v. State, 115 Texas Crim. Rep., 431, 27 S. W. (2d) 159; McKee v. State, 116 Texas Crim. Rep., 232, 34 S. W. (2d) 592; Traylor v. State, 47 S. W. (2d) 310; Griffin v. State, 50 S. W. (2d) 812. However, upon the point mentioned, the bill is qualified without objection to show that the court does not certify as a fact that the argument was prejudicial and highly inflamatory, but that such was the contention of counsel for appellant. The argument was further objected to because it was not based upon any testimony in the case. In connection with such objection we find the following statement in the bill, “* * * there" being no testimony at all admitted as to any trouble that Mr. Knox had had with the defendant.” The qualification does not deal with the complaint that the argument was not supported by any testimony in the record, and leaves the bill unimpaired on that point. The Mr. Knox alluded to in the argument was the merchant from whom Tennon bought the shirt, to which facts Knox gave testimony for the state. Appellant claimed to have bought a shirt a week before at Mr. Knox’s store, but from a nephew of the latter who was working for Knox at the time. We fail to find anything in the evidence given by Mr. Knox, or any other witness which even remotely tends to show that Mr. Knox at any time had ever had trouble with appellant, or ever called his son to aid him in such trouble. The argument complained of put into the record a fact not otherwise before the jury, and one which, under the circumstances of the case, was bound to be hurtful to appellant. Stanchel v. State, 89 Texas Crim. Rep., 358, 231 S. W., 120; Brooks v. State, 118 Texas Crim. Rep., 205, 40 S. W. (2d) 814, and authorities therein cited.
+For the error discussed, the judgment is reversed and the cause remanded.
+Reversed and remanded.
