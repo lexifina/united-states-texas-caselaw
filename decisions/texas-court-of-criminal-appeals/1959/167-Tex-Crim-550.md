@@ -1,0 +1,64 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,217"
+decided: "1959-01-07"
+citations: ["167 Tex. Crim. 550"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Irving Jones."]
+source_url: "https://static.case.law/tex-crim/167/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8551903
+cites_cases: ["102 Texas Cr. Rep. 293", "151 Texas Cr. Rep. 1", "156 Texas Cr. Rep. 353", "164 Texas Cr. Rep. 251", "164 Texas Cr. Rep. 447", "164 Texas Cr. Rep. 524", "198 S.W. 2d 893", "242 S.W. 2d 385", "284 S.W. 2d 721", "298 S.W. 2d 579", "299 S.W. 2d 701", "301 S.W. 2d 90", "323 S.W. 2d 48"]
+---
+
+# Ex parte Jones
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+This is an appeal from an order remanding appellant to custody for extradition to the State of Kansas.
+At the hearing, the respondent offered the executive warrant of the Governor of Texas, regular upon its face, authorizing the arrest and return of appellant to the State of Kansas upon demand of the Governor of that State to answer a charge of concealing mortgaged property pending against him in that State.
+The introduction in evidence of the executive warrant issued by the Governor of Texas made out a prima facie case authorizing the remand of appellant to custody for extradition. Ex Parte Noble, 151 Texas Cr. Rep. 1, 198 S.W. 2d 893, Ex Parte Guinn, 102 Texas Cr. Rep. 293, 284 S.W. 2d 721, Ex Parte Hoover, 164 Texas Cr. Rep. 251, 298 S.W. 2d 579, Ex Parte Shirley, 164 Texas Cr. Rep. 447, 299 S.W. 2d 701, and Ex Parte Key, 164 Texas Cr. Rep. 524, 301 S.W. 2d 90.
+Appellant called two officers, both from the demanding state, who testified that they had no way of identifying appellant as the person named in the executive warrant; however, no evidence was presented which disclosed that he was not the same person named therein.
+There is no evidence in the record which, in any manner, destroyed the prima facie case made by the introduction of the executive warrant, regular on its face, issued by the Governor of Texas.
+The judgment is affirmed.
+Opinion approved by the Court.
+
+## Dissent (DAVIDSON, Judge)
+
+DAVIDSON, Judge
+(dissenting).
+In an extradition case the identity of the arrested person as being the one for whose arrest and extradition the executive warrant issued is always the subject for determination, as is also the identity for such person as being the same person against whom the prosecution is pending in the demanding state. Ex parte McMillan, 156 Texas Cr. Rep. 353, 242 S.W. 2d 385.
+The state, respondent in the trial court, rested its case upon the executive warrant ordering the arrest and extradition of Irving Jones and his delivery to the two persons, named in the warrant, for transfer to the demanding state. Under such warrant, the sheriff of Harris County arrested the relator, Irving Jones.
+Relator, Irving Jones, sued out the writ of habeas corpus charging that he was illegally restrained of his liberty by the sheriff of Harris County under said warrant.
+The writ came on for hearing, and to meet the demands of the law the state, or respondent, made a prima facie case by introducing in evidence the executive warrant and the requisition and accompanying papers, and rested its case.
+Relator then called one of the transfer agents, named in the demand and executive warrant to return him to the demanding state, who testified that he was an “Under Sheriff” of the county where the prosecution against Irving Jones was pending. The witness further testified:
+[“Q. Do you know one known as Irving Jones?] A. No sir. I assume it is him, but not to know him [sic].
+[“Q. You have never known anybody by that name other than seeing that name in the papers that you have been handed in this case, is that correct?] A. That is correct.
+[“Q. And you have never seen this particular man seated besides me except today in the court room?] A. This morning, yes sir.
+.. [“Q. And you have no way of identifying anyone by the name of Irving Jones — Have you brought with you any identification whatsoever in any way that you could identify a certain person as Irving Jones?] A. No, sir.
+[“Q. You have no way of identifying the Irving Jones that is wanted in Kansas?] A. No, sir.”
+There is no presumption in law that the person arrested is the person demanded in the extradition proceedings. The identity of the name of the relator, or accused, with that of the person named in the executive warrant makes out a prima facie case, but not a legal presumption to that effect.
+A prima facie case is always subject to being rebutted. When rebutted, the prima facie cases ceases to exist.
+I am convinced that the prima facie case, here, was rebutted by the testimony of the transfer agent, who was unable to make any identification of relator as the person named in the warrant as wanted in the demanding state or charged with a crime in that state.
+Under such circumstances, the presumption of innocence— which is a legal presumption — controls and requires some proof of identity of the relator as being the person named in the warrant and wanted in the demanding state, outside of and other than the warrant of arrest.
+Here, the State of Kansas wants a man by the name of Irving Jones to answer to an accusation in that state for removing from the state and concealing mortgaged property. In pursuance of that desire, extradition proceedings are instituted to have Irving Jones extradited to that state. When the extradition was requested and granted, a transfer agent is named. An “Irving Jones” is arrested under an extradition warrant of the governor of this state. The transfer agent is unable to make any identification of the “Irving Jones” who is under arrest as being the person he is to return to the State of Kansas or who is wanted in that state to answer a criminal charge.
+It occurs to me that, as a pure question of right and wrong, the great State of Kansas ought not to be permitted to carry a citizen out of this state and across state boundaries when no one, including the man it sends to bring that person back, knows what person is to be looked for and whether the right person has been arrested. The whole thing is a matter purely of guess work and supposition.
+Let there be some evidence that the “Irving Jones” arrested is the Irving Jones who is wanted.
+I dissent to the affirmance of this case under this record.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON MOTION FOR REHEARING
+WOODLEY, Judge.
+The Executive Warrant, regular on its face, and the requisition and supporting papers were offered in evidence, Irving Jones being named as the person to be extradited.
+The warrant of arrest issued by the magistrate in Kansas, bearing Number 6636, commanded the arrest of “Irving Jones, 4606 Perry, Houston, Texas.” The county attorney of Johnson County, Kansas, in his application for requisition stated: “Irving Jones has been arrested on warrant No. 6636 and is in the custody of the Sheriff, Harris County, Texas.”
+These instruments were among the papers supporting the demand for extradition, and together with the identity of name were sufficient to identify the appellant Irving Jones as the Irving Jones named in the warrant of the Governor of Texas, in the absence of evidence to the contrary.
+The controlling question is. whether the testimony of the Transfer Agent Ralph E. Burger, offered by appellant, raised the issue of and required further proof by respondent that the relator was in fact the Irving Jones named in the Governor’s warrant.
+The fact that this witness and the man who accompanied him were unable to identify appellant as the Irving Jones named in the extradition warrant issued by the Governor of Texas did not constitute evidence to the effect that he was not such person.
+The Governor’s warrant regular on its face ordering the arrest of Irving Jones, then in custody of Sheriff Kern under the warrant of the Kansas magistrate, being offered in evidence, it was incumbent upon relator to show that he was not the Irving Jones charged in the demanding state and for whose arrest the magistrate issued warrant No. 6636.
+Éx parte Kaufman, No. 30,382, this day decided, 323 S.W. 2d 48, and cases there cited support these conclusions.
+The testimony of the two witnesses that they could not testify that he was that Irving Jones is not deemed of probative value as evidence that he was not such person.
+Appellant’s motion for rehearing is overruled.
