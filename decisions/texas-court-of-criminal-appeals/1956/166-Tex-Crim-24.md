@@ -1,0 +1,50 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,219"
+decided: "1956-05-23"
+citations: ["166 Tex. Crim. 24"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["I. N. Gordon v. State"]
+source_url: "https://static.case.law/tex-crim/166/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2615557
+---
+
+# Gordon v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+An illicit beverage, within the meaning of the Texas Liquor Control Act, is any alcoholic beverage on which a tax imposed by the laws of this state has not been paid and a tax stamp affixed thereto (Art. 666-3a, Sec. (4), Vernon’s P. C.).
+It is unlawful to possess an illicit beverage in this state (Art. 666-17, Sec. (13), Vernon’s P. C.).
+The information alleged a violation of those statutes — that is, that appellant possessed an illicit alcoholic beverage, to-wit, rum.
+The undisputed evidence shows that appellant, accompanied by two other persons, entered the United States from the Republic of Mexico at the port of entry at Hidalgo, Texas. At that time, he had in his possession eleven bottles each containing one-fifth gallon of rum, which he had purchased in the Republic of Mexico.
+The tax due the State of Texas had not been paid thereon and no tax stamp evidencing such payment was attached to the bottles.
+After appellant had passed the United States Customs’ inspection and had entered the State of Texas, an ag-ent of the Texas Liquor Control Board requested payment by appellant of the tax due on the rum and that a stamp evidencing such payment be affixed to the bottles.
+Appellant refused to pay the tax, and his arrest followed.
+Upon the trial of the case appellant testified that he had purchased the rum in the Republic of Mexico and, when apprehended, was on his way and transporting the rum to his home in North Carolina, and that he had no other intent in the possession or transportation of the rum. That testimony was not controverted.
+Appellant’s conviction followed, with punishment assessed at a fine of $100.
+It is appellant’s contention that there was no tax due the State of Texas upon the rum, and that any statute of this state levying a tax thereon was void. This contention is based upon two propositions of law: (a) that Art. 1, Sec. 10, Clause 2, of the Constitution of the United States, the export-import clause, prohibits the State of Texas from levying a tax on the rum; and (b) that the rum was then moving in interstate commerce through the State of Texas when it was seized, and therefore could not be subject to taxation by the State of Texas, under Art. 1, Sec. 8, Clause 3, the commerce clause, of the Constitution of the United States.
+It becomes material to notice the tax imposed by this state, and here challenged.
+By statute, rum is a distilled spirit (Art. 666-3a, Sec. (3), Vernon’s P. C.).
+A tax is levied and imposed on the “first sale” of distilled spirits in this state (Art. 666-21, Vernon’s P. C.).
+The term “first sale,” as above used, means, among other things, the first possession of any liquor imported into this state.
+For tax purposes, distilled spirits imported from any foreign country are subject to taxation and must have affixed thereto the appropriate Texas tax stamp (Art. 666-17, Sec. (32), Vernon’s P. C.
+So then, there is no question but that the State of Texas has levied a tax upon the rum involved and shown by the facts of this case. If that tax is valid, this conviction should be affirmed; if not, then a reversal of the conviction should follow.
+The tax imposed is not a property tax. Nor is it a tax upon the privilege of importing or bringing the liquor into this state. The tax is a use or privilege tax, levied for the privilege of possessing the liquor in this state.
+We are not here dealing with the possession or transportation of an article of ordinary merchandise or property. To the contrary, intoxicating liquor has always been subject to regulation by the state in the exercise of its police power. In fact, the Liquor Control Act expressly so provides (Art. 666-2, Vernon’s P. C.).
+We therefore have no difficulty in reaching the conclusion that the tax, here, was imposed upon the first possession of the liquor after its importation into this state.
+It is apparent that the tax involved is not an import tax nor a tax upon an importation. In fact, the instant tax could not become an import tax because the importation must have been completed before the tax here levied attached.
+We are constrained to conclude that the tax here involved is not prohibited by the import-export clause of the Federal Constitution.
+As has been suggested, the commerce clause of the Federal Constitution is limited by the 21st Amendment thereto, wherein it is expressly provided that:
+“The transportation or importation into any State, Territory, or possession of the United States for delivery or use therein of intoxicating liquors, in violation of the laws thereof, is hereby prohibited.”
+By Art. 666-8, Vernon’s P. C., the legislature of this state has made it unlawful for one to import into this state, without a permit, any liquor in excess of one quart. In addition to the penal provision of the statute, forfeiture to the state of the liquor unlawfully imported is mandatory.
+The quantity of rum here involved invokes that statute.
+The Texas Liquor Control Act provides various permits whereby liquor may be lawfully imported into this state.
+There appears no escape from the conclusion that the rum was unlawfully imported by appellant into this state and therefore was not and could not be a commodity moving in interstate commerce.
+In addition to the foregoing, note is taken of the fact that when the rum was transported to this state it was then subject to the tax imposed therein. Unless and until that tax was paid, the rum was an illicit beverage, and contraband subject to be seized as such.
+This being true, the rum could not come under interstate commerce regulation. As it was contraband, the right to possess and to transport it did not exist.
+From what has been said, we are unable to agree that the rum, when seized, was moving in interstate commerce.
+The judgment of the trial court is affirmed.
