@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,168"
+decided: "1958-12-10"
+citations: ["167 Tex. Crim. 96"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clinton Wayne Lambright and Billy Monroe Lambright v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8547084
+cites_cases: ["154 Texas Cr. Rep. 497", "163 Texas Cr. Rep. 410", "228 S.W. 2d 183", "292 S.W. 2d 117"]
+---
+
+# Lambright v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellants being jointly indicted waived their right of trial by jury and entered a plea of guilty before the court to the offense of robbery by assault; and the court assessed the punishment against Clinton Wayne Lambright at 40 years and against Billy Monroe Lambright at 99 years.
+The testimony of Allie Mae Kirk, the owner and operator of a combined grocery store and service station, that of her daughter who was in the store at the time of the robbery, and that of Deputy Sheriff French who pursued and apprehended the appellants immediately after the robbery and found coins and currency in their possession which corresponded to that taken from Allie Mae Kirk, together with their written statements introduced by the state without objection shows the commission of the offense here charged.
+Appellants did not testify or offer any evidence in their behalf.
+The evidence is sufficient to sustain the conviction.
+Appellants’ sole complaint is that the punishment assessed is excessive, cruel and unusual, hence it violates the provisions of Art. 1, Sec. 13, of the Texas Constitution.
+The extent of the punishment to be assessed so long as it is within the statute rests solely with the judge or jury trying the case. The punishment assessed was within the limits authorized by law. Under the record there appears no error in the extent of the punishment assessed. 12 Texas Jur. 802, Sec. 409; White v. State, 154 Texas Cr. Rep. 497, 228 S.W. 2d 183; Fuentes v. State, 163 Texas Cr. Rep. 410, 292 S.W. 2d 117.
+No error appearing the judgment is affirmed.
+Opinion approved by the Court.
