@@ -1,0 +1,65 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,126"
+decided: "1960-01-06"
+citations: ["168 Tex. Crim. 552"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ella Borroum v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2624187
+cites_cases: ["156 Texas Cr. Rep. 157", "164 Texas Cr. Rep. 73", "228 S.W. 952", "239 S.W. 2d 813", "252 S.W. 172", "296 S.W. 2d 554", "318 S.W. 2d 627", "32 S.W. 2d 202", "88 Texas Cr. Rep. 642", "95 Texas Cr. Rep. 276"]
+---
+
+# Borroum v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction of the wife for the murder of her husband, with punishment assessed at two years in the penitentiary.
+There were no eye witnesses to the killing. Appellant admitted the killing when she voluntarily surrendered herself to the sheriff shortly thereafter.
+From time to time for approximately nineteen years prior to the homicide, serious marital difficulties and differences arose. On one occasion about six years before the killing deceased beat the appellant severely, which beating caused a brain concussion resulting in appellant’s being hospitalized for some time.
+On the day of the killing appellant was engaged in repairing the front steps of their home. Appellant desired the repairs made with new lumber but deceased did not agree and an argument ensued. We quote from the testimony of the appellant as to what happened:
+“A. Well, I told, him, I said, ‘Let’s take these old boards off and put on flat boards here to where it will make a good step «■coming into the house,’ and he said, T’m not a-gonna, do it.’
+[“Q. ' Then what happened?] A. Well, he said, T’m not a-gonna do it.’ ‘Well,’ I said, T don’t see why not; it won’t take long to tear this off, and,’ I said, ‘it won’t cost much to put it back.’ ‘Oh,’ he said, ‘you think you’re awfully smart, don’t you?’ I said, ‘No, I don’t think I’m smart.’ ‘Well,’ he said, ‘You fool with me one God damn minute and,’ he said, ‘I’ll knock you in the head with this son-of-a-bitchin’ hammer,’ he said, ‘you smart son-of-a-bitch,’ and he started slinging the hammer at me.
+[“Q. What did you do?] A. I ducked, and I ran in at the door, and when I got into the door, why I looked back, and he was starting around, a-starting- up the steps. I broke and ran through the front bedroom into the back bedroom, and got the gun, and'I turned and went back through the front bedroom and out on the porch, and when I got out on the porch, why he drew that hammer back and he said, ‘You son-of-a-bitch!’ Well, he started to throw that hammer at me, and I just up and shot.
+[“Q. Did you have to aim, or anything?] A. No. 1 didn’t have time to do nothing.
+[“Q. Well, were you afraid that he was going to carry out those threats of killing you with the hammer?] A. I knew he was.” [sic]
+Appellant identified the hammer with which she said the attack was made. The hammer was offered in evidence, and has been forwarded to and is before this court as an exhibit. The hammer is of the type sometimes called a “claw hammer,” of the size and weight generally used by carpenters.
+The hammer, with blood stains on the handle, was found near the body of the deceased.
+Appellant demonstrated before the jury the use deceased was malting of the hammer to strike her.
+The careful trial judge gave an extensive charge upon appellant’s right of self-defense. He charged upon her right tc defend against the deadly attack of the deceased, upon self-defense from threats, and upon self-defense from an attack less than deadly.
+The trial judge did not charge, however, upon the legal presumption which arises from the use of a deadly weapon by the deceased, as set out in Art. 1223, P.C., which reads as follows:
+“When the homicide takes place to prevent murder, maiming, disfiguring or castration, if the weapon or means used by the party attempting or committing such murder, maiming, disfiguring or castration are such as would have been calculated to produce that result, it is to be presumed that the person so using them designed to inflict the injury.”
+Special requested charges by which the provisions of that statute were sought to be submitted to the jury were presented and refused. An exception covering that question was also reserved to the charge.
+Of and within itself, Art. 1223, P.C., is not a self-defense statute. Its provisions apply in self-defense cases to give a fixed and definite legal meaning to the acts and conduct of the deceased.
+The purpose of Art. 1223, P.C., is to require that the jury be told by the trial court that if the deceased was making an attack upon the appellant with a gun, a pistol, or other deadly weapon or with any weapon which from the manner of its use was calcuated to produce death or serious bodily injury the law presumes that the deceased intended either to kill or to inflict serious bodily injury on the accused.
+The statute takes from the realm of speculation the intent of the deceased as an issue of fact and, under certain circumstances, fixes his intent as a matter of law, and such intent is therefore binding upon the court and the jury.
+Appellant’s right to have the provision of such statute submitted to the jury and to have the jury instructed in accordance therewith can hardly be doubted.
+Here, appellant, by her testimony, shows that deceased was making an actual attack upon her with the hammer when she shot in defense of her life.
+This is deemed sufficient to require the giving of the charge upon the presumption arising under Art. 1223, P.C. See: Mason v. State, 88 Texas Cr. Rep. 642, 228 S.W. 952; Hawkins v. State, 32 S.W. 2d 202, and authorities there cited.
+The opinion is expressed that the learned trial judge fell into error in failing to respond to the appellant’s request.
+In view of another trial, the opinion is here expressed that there existed no issue under the facts that would authorize the introduction of the pictures showing the bloody wound and the bloody clothing of the deceased.
+For the reason stated, the judgment is reversed and the cause is remanded.
+
+## Concurrence (MORRISON, Presiding Judge,)
+
+MORRISON, Presiding Judge,
+(concurring).
+I concur in the reversal of this conviction because of the introduction into evidence of State’s Exhibit No. 4, which is a closeup picture of the head of the deceased taken at the scene of the homicide. Due evidently to the pressure of the shot back of the eye, the eyeball has protruded, and this makes a ghastly and never-to-be-forgotten sight. A normal juror could not be expected to give much credence to a plea of self defense after viewing this scene of human wreckage. The picture of the head of the deceased lying in a pool of blood could not conceivably serve to solve any disputed issue in the case and is far more inflammatory than the pictures which the writer deemed a proper cause for reversal in Washburn v. State, 167, Texas Cr. Rep. 125, 318 S.W. 2d 627.
+I concur.
+
+## Dissent (WOODLEY, Judge,)
+
+WOODLEY, Judge,
+(dissenting).
+The jury was told in the court’s charge to acquit if they found or had reasonable doubt that appellant killed J. B. Bor-roum to prevent him from killing or seriously injuring her by means of a hammer reasonably calculated from the manner of its use by J. B. Borroum to kill or inflict serious bodily injury upon her.
+The jury was instructed to find that the killing was justified if they believed or had reasonable doubt that at the time of the homicide the deceased was then in the very act of making upon the person of the defendant an unlawful and violent attack which might result in harm less than death or serious bodily injury, and that the defendant resorted to all other means for prevention of such harm save retreat.
+Also in the charge an acquittal was authorized upon a belief or reasonable doubt that J. B. Borroum was in the act of making an unlawful attack which might result in death or serious bodily injury and that such attack created in the mind of the defendant an expectation or fear that she was in danger of losing her life.
+It was appellant’s testimony that at the time she shot her husband “Well, he started to throw that hammer at me, and I just up and shot.”
+The act of the husband in drawing back the hammer to throw it did not constitute such use of it as to require a charge under Art. 1223 P.C. Lightfoot v. State, 164 Texas Cr. Rep. 73, 296 S.W. 2d 554; Gunn v. State, 95 Texas Cr. Rep. 276, 252 S.W. 172.
+The court’s charge fully protected the rights of appellant under her testimony. Threadgill v. State, 156 Texas Cr. Rep. 157, 239 S.W. 2d 813; Gunn v. State, supra.
+The introduction in evidence of the pictures did not result in inflaming the minds of the jury against appellant as is demonstrated by the fact that the minimum punishment was assessed.
+I respectfully dissent.
