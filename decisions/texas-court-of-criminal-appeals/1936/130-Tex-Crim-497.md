@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "18316"
+decided: "1936-06-03"
+citations: ["130 Tex. Crim. 497", "95 S.W.2d 692"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Herbert Leverett v. The State."]
+source_url: "https://static.case.law/tex-crim/130/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5246716
+cites_cases: ["95 S.W.(2d) 391"]
+---
+
+# Leverett v. State
+
+## Majority (KRUEGER, Judge.)
+
+KRUEGER, Judge.
+The appellant was convicted for being an accomplice to the offense of arson, and his punishment was assessed at confinement in the state penitentiary for a term of two years.
+This is a companion case to that of Ross Lytle v. State, No. 18,315, decided by this court on the 27th day of May of this year. In that case as in this case appellant complained of the action of the trial court in overruling his motion to quash the indictment. The indictment in that case is very similar to the indictment in this case. In that case the indictment was held sufficient. Therefore, under the authority of that case we feel constrained to hold the indictment sufficient in this case.
+Appellant’s • next contention is that the court erred in declining to instruct the jury that Marvin Casey was an accomplice as a matter of law. We have carefully considered the testimony and have reached the conclusion that the testimony is not of such character that we can say as a matter of law that Casey was an accomplice. The court in his charge submitted the question to the jury and in connection therewith instructed them that if they should find that he was an accomplice they could not convict the defendant upon the testimony of said witness unless they first believed that the testimony of said witness was true, and that it showed the defendant was guilty of the offense charged in the indictment, and unless they further believed that there was other evidence in the case corroborative of the testimony of said witness connecting the defendant with the commission of the offense charged.
+Bills of exception numbers five and six will be considered together as they relate to the same matter.
+By bill of exception number five the appellant complains that the court erred in permitting Marvin Casey to testify that Herbert Culp told him that he, Culp, had employed Ross Lytle to burn the house owned by said Culp. Appellant objected to said testimony in that it was immaterial and irrelevant, that it shed no light on any issue in the case, that it was calculated and probably did prejudice the jury against him, that the same was a statement by a third person out of the presence and hearing of the defendant as no conspiracy between Culp, and defendant had been proven. The court overruled the objection and appellant excepted. The court qualified said bill and in his qualification states that the testimony was admitted by the court upon the assurance of the district attorney that other evidence would be offered by the State showing a conspiracy to burn said premises.
+By bill of exception number six appellant complains of the action of the trial court in permitting Marvin Casey to testify that Herbert Culp told him, Casey, that he, Culp, had employed Ross Lytle to burn the house occupied by the witness —to which appellant made the same objection as disclosed by bill of exceptions number five. The court qualified said bill and in his qualification states that the evidence was admitted upon the assurance of the district attorney that other evidence would be introduced by the State showing that there was a conspiracy between Herbert Leverett, Ross Lytle, and H. V. Culp to burn the house; and thereafter the State did introduce evidence that Herbert Leverett and Ross Lytle in the presence of each other hired John Baker to burn said house, that Herbert Leverett and Ross Lytle together inspected the house three or four days before the house was burned, that on the day preceding the night the house was burned Herbert Leverett took Marvin Casey to Elgin to see H. V. Culp, that in the presence of said defendant a discussion took place as to the burning of said premises by Ross Lytle, that while Baker and Ross Lytle were setting fire to the rear of the house Leverett, the defendant, was talking to Marvin Casey, the occupant of the premises, and told Casey that Ross Lytle was burning the house, that the day after the house was bumled, Herbert Leverett, defendant, and Ross Lytle went together to Elgin to see Culp and collected some money from Culp. The bills as thus qualified makes the testimony admissible in that the testimony given by John W. Baker, one of the co-conspirators, together with other facts and circumstances testified to by other witnesses established the existence of the conspiracy. The law does not permit a defendant to direct the State in the development of its case. All that a defendant can require the State to do is that it prove its case against him. Where the State shall begin to develop its case or when it shall close its testimony is a matter left to the discretion of the representative of the State.
+Finding no reversible error in the record, the judgment of the trial court is affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined bv the judges of the Court of Criminal Appeals and approved by the Court.
