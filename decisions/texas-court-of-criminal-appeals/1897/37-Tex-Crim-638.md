@@ -1,0 +1,21 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1116"
+decided: "1897-05-19"
+citations: ["37 Tex. Crim. 638"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Stokeley v. The State."]
+source_url: "https://static.case.law/tex-crim/37/cases/0638-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 161268
+---
+
+# Stokeley v. State
+
+## Majority (HURT, Presiding Judge.)
+
+HURT, Presiding Judge.
+This is a conviction under Arts. 359 and 361, of the Penal Code of 1895. Article 359 provides, among other things, that “a disorderly house is one at which prostitutes are permitted to resort or reside for the purpose of plying their vocation.” This article, in connection with Article 361, completes the definition of the offense. Article 361 provides that if the owner (and appellant in this case was the owner of the house) shall permit a disorderly house to be kept, or shall permit his house to be used by prostitutes for the purpose of plying their vocation, then he shall be deemed guilty of a misdemeanor, and punished by a fine of 8200 for each day that said house shall be so used. It appears from the statement of facts that defendant owned a grocery store, and that his residence was about sixty or seventy yards therefrom; that on the night of December 26th it was understood that there would be a party at the defendant’s business house, to be carried on in the back room thereof; that there was quite a company of men—some twenty or thirty.—gathered there for the purpose of engaging in this dance; that early in the night a woman came to the store, in company with one Howard Williams; that she took a seat by the stove, and, there being no other ladies present, and the boys drinking, appellant took the woman to his residence. Two other women came to the store, but appellant did not invite these women to his house, and they remained only a short time, and disappeared. At the residence of appellant the woman he had conveyed there disrobed herself and engaged in indiscriminate acts of prostitution until some time after midnight, with any and every body who would pay her charge, which is shown to have been two dollars; and the testimony shows that several of the men present availed themselves of this opportunity of engaging with her in these acts of prostitution. Defendant admitted that he was the first person to have sexual intercourse with her, and stated that ten others had also engaged in such acts. He was seen at his residence, where these matters occurred, about 11 o’clock, or between 11 and 12 o’clock; the testimony indicating that some time after midnight the woman left. It was also proved that it was known at the store, by the entire crowd of people assembled there, that this woman was in the defendant’s residence, a short distance away, plying her vocation as a prostitute. That she was engaged in plying her vocation as a prostitute with any and all parties who would pay the stipulated price is an unquestioned fact. The defendant, however, denies that he engaged in any act of sexual intercourse with the woman, and further denies the fact that he knew she was plying her vocation in his residence until after midnight, and that he then made her leave. The court submitted to the j ury all the instructions requested by the appellant. There is no complaint whatever to the charge of the court; the only question being whether or not appellant was aware of the fact that the woman—the prostitute—was plying her vocation in his residence, and with such knowledge permitted her to do so. If what he said to the witness, Nichols, be true (and this was a matter for the jury), he evidently did have full knowledge of her' character and her business at his house. In addition to this, a number of men visited the house, while the woman was occupying it, but for one purpose, to-wit: to gratify their lust. The question having been fairly submitted to the jury as to whether appellant was aware of the use to which his house was being put, and the jury having decided this question against the defendant, we are not authorized to reverse the judgment under the facts of this case. We believe the jury were justified in finding as they did, and the judgment is affirmed.
+Affirmed.
