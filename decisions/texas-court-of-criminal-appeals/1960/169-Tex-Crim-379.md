@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,381"
+decided: "1960-03-09"
+citations: ["169 Tex. Crim. 379"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edmund B. Niekamp, alias Eddie Bennett v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12143302
+cites_cases: ["298 S.W. 2d 151"]
+---
+
+# Niekamp v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for assault with intent to rape; the punishment, two years.
+The testimony shows that about 9:00 P.M., August 14, 1958, three young couples while riding in appellant’s car stopped in a park. Appellant and the prosecutrix remained in the car and the other couples left going in different directions.
+The prosecutrix testified that she and the appellant soon got out of the car; sat on a picnic table, then walked around and sat down on the ground about 100 feet from the car; that the appellant without her consent and by force suddenly pushed her over on her back, got on top of her, placed his hand under her dress and his finger in her privates, unzipped his pants and took his penis out; that she protested his advances; struggled, fought and screamed, during which time he said: “I know what kind of girl you are * * * they go around trying to pretend innocence * * * really they are not, any boy can make them.” She further testified that after some time appellant stood up and looked away from her, and she jumped up and ran with appellant chasing her for some distance, that she ran to Wilson’s residence across the street from the park, told them what had happened, and Mrs. Wilson telephoned her mother and then took her home; that the appellant drove by Wilson’s home twice in his car while she was there; and that her purse which she had left in appellant’s car was in the yard when she got home.
+The testimony of Mr. and Mrs. Wilson shows that when the injured party came to their house about 10:00 P.M., she was shaking, nervous and hysterical and complained of Eddie Bennett molesting her, and Mrs. Wilson telephoned prosecutrix’s mother and took her home.
+Deputy Sheriff Ingmire testified that the appellant answered to the name of Eddie Bennett at the time he arrested him.
+Dr. Comstock testified that an examination of the private parts of the prosecutrix beginning at 12:53 A.M. August 15, showed a recent laceration of the posterior of the hymenal ring which was bleeding, and expressed the opinion that such laceration could have been caused by the insertion of the finger into the vagina.
+Appellant did not testify but called Raymond C. Bethany who testified that he was one of the persons making up the three couples at the time in question; that the moon was shining and it was very light, and he could see the appellant and the alleged assaulted party sitting on the ground talking, that he heard no screams, and saw nothing happen between them and did not see the appellant chasing her; that when appellant returned to the car he said his date was going to walk home; that they placed her purse on the lawn of her home, and that they did pass the Wilson home twice in the car.
+In rebuttal the assaulted party testified that she did not know Raymond C. Bethany and he was not one of the boys in the group on the night of August 14.
+An employee of the United States Weather Bureau in Houston called by the state in rebuttal, testified that according to the records of said Bureau the moon was not shining between 8:00 P.M. and midnight on August 14.
+Further in rebuttal, the superintendent of a bakery identified Raymond C. Bethany during the trial as an employee of said bakery, and testified that the records of the bakery showed that he went to work there at 10:36 P.M., August 14, and “punched out” at 6 :06 A.M., August 15.
+Appellant’s formal bills of exception are considered and appraised according to the statutes and decisions applicable to formal bills at the time he gave notice of appeal on June 14, 1959.
+By formal Bill of Exception No. 1, appellant complains of the closing argument of the state’s attorney when he said in substance that if it had been his daughter (referring to the assaulted party herein) he would have probably taken care of it himself, the same as probably some of the jurors may have done, and that he would not have overlooked it.
+The court in qualifying the bill gave the following reasons for not approving it as presented; that no objection was made to said argument at the time it was made, and that it was in answer to the argument of counsel for the defense. The bill as qualified does not show error.
+An exception by the appellant to the court’s qualification of Bill No. 1 appears in a separate instrument from the bill in the transcript. The instrument is signed only by counsel of the appellant, and there is no showing that it was presented to the trial judge or that he was apprised that appellant desired to reserve an exception thereto.
+On appeal, the exception to the court’s qualification of a bill in order to be effective must be verified by the trial judge. 5 Tex. Jur. (2d), 307, Sec. 186; Payne v. State, 164 Tex. Cr. Rep. 306, 298 S.W. 2d 151.
+Formal Bill of Exception No. 2, in the transcript does not show that it was presented to or acted upon by the trial judge, therefore it cannot be considered.
+The evidence is sufficient to sustain the conviction and no error appearing, the judgment is affirmed.
+Opinion approved by the Court.
