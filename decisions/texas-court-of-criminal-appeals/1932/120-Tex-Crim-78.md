@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "15242"
+decided: "1932-03-23"
+citations: ["120 Tex. Crim. 78"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte S. J. Rhodar."]
+source_url: "https://static.case.law/tex-crim/120/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5204279
+---
+
+# Ex parte Rhodar
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+— By indictment filed in the criminal district court of Jefferson county, the appellant was charged with the theft of an automobile of the value of $600, the offense being a felony. The costs in the case amounted to $339.93. The disposition of the case, as shown by the statement of facts, was as follows:
+“This day the cause was called for trial, both parties appeared and announced ready for trial, and defendant pleaded ‘Guilty’ to the complain herein, waived a trial by a jury and submitted his cause to the Court. Wherefore, it is considered by the Court that the defendant is guilty of the charge alleged in the complaint and his punishment is assessed at 30 days in jail.
+“It is therefore considered, ordered and adjudged by the Court, that the State of Texas, do have and recover of defendant, S. J. Rhoder, all costs of this prosecution, and the defendant is hereby remanded to the custody of the Sheriff, who will commit him to the jail of said County until said sentence is served and costs are paid.
+“And execution may issue against the property of the defendant for the amount of said fine and costs.”
+As the record is understood, the conviction of the appellant was not under the indictment. The offense charged in the indictment is defined in article 1429, P. C., 1925. The conviction is of the offense defined in article 1341, P. C. The indictment charged theft, a felony. The misdemeanor denounced is article 1341, supra, which is the driving of an automobile without the consent of the owner. This is not an offense included in the indictment for theft. See article 695, C. C. P., enumerating the offenses embracing lower degrees. If we understand the record, the state abandoned the felony charge and caused the complaint for a misdemeanor to be filed; and it is upon that complaint that the conviction was had. The felony indictment having been abandoned, there is known to this court no authority under the law for holding the appellant in jail for the costs that accrued by reason of the indictment for the felony. The provisions of chapter 205, Acts of 42nd Legislature, Regular Session (Vernon’s Ann. C. C. P., arts. 1019, 1027), are not deemed applicable. That statute apparently is designed to authorize the collection of the costs against one who is accused and tried under an indictment for a felony but convicted of a lower grade of offense, which is a misdemeanor.
+It appearing from the record that all the costs chargeable to the appellant, that is, the costs accruing in the misdemeanor prosecution, having been satisfied and he having served the thirty days that he was condemned to spend in jail, there is apparently no legal authority for longer holding him in custody upon the conviction mentioned. It is therefore ordered that he be discharged.
+Discharged.
