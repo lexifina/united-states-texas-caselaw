@@ -1,0 +1,59 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,932"
+decided: "1952-06-25"
+citations: ["157 Tex. Crim. 603"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Martin R. Martinez v. State."]
+source_url: "https://static.case.law/tex-crim/157/cases/0603-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2574691
+cites_cases: ["10 Tex. App. 31", "108 Tex. Cr. R. 72", "12 S. W. 404", "120 Tex. Cr. R. 315", "134 S. W. (2d) 276", "138 Tex. Cr. R. 51", "152 Tex. Cr. R. 215", "204 S. W. 324", "212 S. W. (2d) 152", "28 Tex. App. 34", "29 S. W. (2d) 395", "299 S. W. 403", "8 S. W. (2d) 162", "83 Tex. Cr. R. 594"]
+---
+
+# Martinez v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is possession of marijuana; the punishment, ten years.
+Officer Perkins testified that he was proceeding along a street of the city of Corpus Christi on his motorcycle when he was hailed by a filling station operator; that he drove into the station, and his attention was directed to two young men who were walking across the street away from the station; that he immediately gave chase and, while in pursuit, saw each of the young men throw a package onto a vacant lot. Officer Perkins further testified that he called to the two men to halt, went over and picked up the packages, and then placed appellant and his companion under arrest. He related that, upon arrival at the police station, he discovered the contents of the two packages to be marijuana cigarettes.
+One Smith, the filling station operator, testified that he observed appellant and another young man talking to one of his employees; that they soon left, and his employee told him something which caused him to flag officer Perkins, who was passing; that he observed appellant and his companion as they proceeded across the street and officer Perkins as he followed them; that, as Perkins apprehended the two, he saw each of them throw something out of his pocket.
+One Carter, an employee of Smith, testified that appellant and his companion Silvas approached him at the filling station in question, and each of them exhibited to him a sack containing cigarettes and offered to sell him two “reefers” for a dollar; that he declined to purchase the same, called Smith’s attention to the pair as they were leaving, and saw each of them take something from his pocket and throw it down on a vacant lot after they got across the street.
+Proper custody of the marijuana was shown, and both packages were identified and introduced in evidence against appellant. The witnesses were unable to identify which package had been thrown by which accused. Each was shown to contain quite a number of marijuana cigarettes.
+Appellant, testifying in his own behalf, admitted being in company with Silvas on the day in question and going to the station where Carter was employed, but stated that he had remained outside the station while Silvas went in to talk to Carter and claimed that he did not know the purpose of Silvas’ visit. Appellant denied that he had any marijuana in his possession and said that he did not know what Silvas had with him on that occasion.
+We find the evidence sufficient to support the conviction.
+We shall attempt to discuss appellant’s contentions in the order raised in his able brief.
+Appellant and Silvas were jointly indicted; Silvas was tried, and some time later this case was called for trial.
+Appellant’s first six complaints grow out of his contention that, since appellant and Silvas were jointly indicted as “acting together,” the proof must show such fact.
+At the outset, it will be observed that it has long been the rule in this state that, “An indictment charging two or more defendants with the commission of an offense need not contain an allegation that they ‘acted together,’ and such allegation, if made, not being descriptive, may be rejected as surplusage.” Branch’s Ann. Penal Code, Sec. 676, p. 345; Watson v. State, 28 Tex. App. 34, 12 S. W. 404.
+However, we think the facts of this case clearly show that appellant and Silvas were acting together in the possession and attempted sale of the marijuana.
+In examining appellant’s complaints as to the court’s charge concerning the law of principals, attention is directed to that portion of the charge where the law was applied to the facts. There, the court required a finding that appellant “had said same cigarettes in his possession” on the day charged in the indictment. Under the charge as given, the jury was not authorized to convict appellant upon a finding that he acted as a principal with Silvas, but required a specific finding that appellant himself had the marijuana in his own possession.
+The appellant testified that he had no marijuana, and the court required the jury to find that he did have marijuana in his possession before they could convict.
+It is obvious from the opinion in Sampson v. State, 83 Tex. Cr. R. 594, 204 S. W. 324, cited by appellant, that the facts in that case were not on a par with the facts in the instant case.
+Appellant’s next contention is that he was improperly indicted jointly with Silvas and that such fact deprived him of the testimony of Silvas at his trial.
+We. have heretofore found that appellant and Silvas were acting together, and the fact that a jury in each case found them both guilty of the possession of marijuana precludes the conclusion that they were indicted jointly for the purpose of depriving appellant of the testimony of his co-indictee.
+Appellant’s next contention is that the court erred in his charge by including some of the elements of the statute which did not apply to the instant prosecution. The court first stated the law and then, when he came to apply the law to the facts of the case, made a direct application to the evidence in the case.
+It has long been the law in this state that the court properly states the general principles of law defining the offense charged and then makes a direct and pertinent application of the law to the case as made by the facts. Davis v. State, 10 Tex. App. 31.
+Appellant next contends that the court erred in failing to charge the jury not to consider any evidence of an attempted sale by appellant or Silvas except as such evidence tended to prove the charge of possession. The proof of the attempted sale was clearly res gestae of the possession for which appellant was being tried.
+“An instruction that limits the effect of evidence of other offenses may be refused if the other crime is a part of the res gestae, or where the evidence is admissible to prove the main issue.” 24 Tex. Juris., Sec. 99, p. 584; Collins v. State, 108 Tex. Cr. R. 72, 299 S. W. 403; Jefferson v. State, 110 Tex. Cr. Rep. 183, 8 S. W. (2d) 162; Arcos v. State, 120 Tex. Cr. R. 315, 29 S. W. (2d) 395; and Texas Digest, Crim. Law 673(5).
+Bill of exception No. 19 presents the only serious question in the case. It relates to the admission of proof as to the effects of marijuana upon persons using it.
+We can readily conceive of proof that would inflame the minds of the jury and constitute reversible error. In this case, the questions and answers were:
+“Q. Go ahead, Mr. Wilkins, and tell what effects of marijuana on the average human is, if you know? A. The ones I have seen have a similar reaction as alcohol on drunkards, unless they are smoking and drinking both; if it is just marijuana, there is no odor of alcohol on their breath.
+“Q. Any other symptoms, any other indications? A. Well, no sir, not except they are more or less under an anesthesia, seem to be immune to pain to a certain extent.”
+Judge Krueger, in Martinez v. State, 138 Tex. Cr. R. 51, 134 S. W. (2d) 276, after having concluded that the case must be reversed on another ground, had this to say:
+“The effect of marijuana was not an issue, as was so certified in the bills. We see no reason for admitting such testimony.”
+We have examined the record in the Martinez case and find that the proof as to effects went much further than in the case at bar. There, we find testimony that the use of marijuana made some users thereof vicious and imbued them with superhuman strength.
+The testimony, in all probability, was not relevant to the the issue of possession, but we must be convinced that the irrelevant testimony was also injurious to the accused. This, we do not find in the case at bar.
+Appellant’s Bills of Exception Nos. 25 and 26 relate to argument of counsel. Both are fatally defective in that they do not show that the argument complained of was not in reply to nor provoked by argument of appellant. Slack v. State, 152 Tex. Cr. R. 215, 212 S. W. (2d) 152; and Texas Digest, Crim. Law 1091 (8) e.
+Finding no reversible error, the judgment of the trial court is affirmed.
+
+## Rehearing (BEAUCHAMP, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING.
+BEAUCHAMP, Judge.
+Appellant’s motion for rehearing contains an exhaustive argument on the contention originally made on appeal, and fully treated in the original opinion, regarding the indictment of two defendants together. It will not be necessary to re-state what we said in the opinion.
+The motion and the oral argument in its behalf very skillfully treat the question and under a different state of facts would impress us quite favorably. In our view of the case the parties were acting together in the possession of the drug. They appeared together; presented their offer of sale together; they left the place together; were walking down the street when apprehended by the officer; each threw away a package which was found to contain marijuana. The fact that one had one package and the other had another package is not sufficient, in the face of the evidence in this case, to support a conclusion that they were acting separately. Had they been separately indicted the state would have been confronted with difficulty in proving either one guilty, though the crime was committed in the presence of the officer and there can be no mistake about their guilt under the state’s evidence. The question has its difficulties, we admit, but a further consideration of the facts in the light of the able motion convinces us that the correct conclusion was reached.
+Appellant’s motion for rehearing is overruled.
