@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29"
+decided: "1892-11-19"
+citations: ["31 Tex. Crim. 278"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Dow v. The State."]
+source_url: "https://static.case.law/tex-crim/31/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 155983
+---
+
+# Dow v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant was convicted of murder in the second degree, and his punishment assessed at confinement in the penitentiary for a term of thirty-five years.
+A second continuance was sought, for the testimony of alleged absent witnesses, all of whom appeared at the trial except E. D. Cook, by whom defendant expected to prove that deceased cursed and abused him, and stated that he intended to “ wear out” the defendant. Under the facts of this case, the evidence was not material. It was not a threat against the life of defendant, nor was it probably true, when viewed in the light of the record before us. The defendant sought the deceased, and brought on the difficulty which resulted in the homicide. Defendant testified, but did not allude either to the alleged absent witness or the testimony.
+The special venire having been exhausted, talesmen were summoned. “ The defendant was furnished with a list of a part only of the talesmen summoned.” The jury was completed from this list so furnished the defendant. He requested, but was refused, a list of the remaining talesmen. He reserved his bill of exceptions, and assigns the ruling of the court as error. The defendant is not entitled to service of a list of talesmen summoned, and, besides, the jury was completed from the list of talesmen furnished him. Johnson v. The State, 4 Texas Ct. App., 268; Drake v. The State, 5 Texas Ct. App., 649; Harris v. The State, 6 Texas Ct. App., 97; Gardenhire v. The State, Id., 147; Sharp v. The State, Id., 650; Richardson v. The State, 7 Texas Ct. App., 486.
+After their retirement, and before they had agreed upon a verdict, the jury returned into court, and stated to the court that they had not agreed, and could not agree. In answer to the inquiries from the court, the jury stated they fully understood the charge, but “ could not agree upon the degree.” The court then stated to them, “ I have no desire to attempt to coerce you into a verdict. That is a matter for each of you to determine for himself; but it is to the interest of society that you should recon-, cile your differences, if you can, and agree upon a verdict; and I do not feel authorized to discharge you. You will return to your room, and if you can reconcile your differences and agree upon a verdict, I hope you will do so.” This action of the court was objected to, because “it was calculated to cause them to agree when they would not otherwise have agreed, and thus indirectly influence the jury, and to cause some of them to surrender their convictions as to the degree of the offense of which they should find the defendant was guilty in order to reach a verdict, and to render a compromise verdict in order to reach a verdict at all.” It is a practice familiar to the courts and the profession for the juries to retire to their rooms for further consideration of the case where they have announced their inability to agree, with the injunction that they must reach a verdict, even if they should be kept together until the end of the term. It would hardly be contended this practice was subversive of the rights of a defendant, or that it was even calculated to extort an unjust verdict, or impair his guaranteed right to a fair and impartial trial. The courts are inhibited from discharging the jury in such cases without the consent of the defendant, except under the peculiar circumstances provided by the statute, and in such cases the jury may be held together until the final adjournment of court. Code Crim. Proc., arts. 701, 702; Powell v. The State, 17 Texas Ct. App., 345; Schindler v. The State, 17 Texas Ct. App., 408; Varnes v. The State, 20 Texas Ct. App., 107; Pizano v. The State, 20 Texas Ct. App., 139; Brady v. The State, 21 Texas Ct. App., 659; Rudder v. The State, 29 Texas Ct. App., 262.
+It is manifest from the bill of exceptions that the guilt of the defendant had been fully.determined by the jury; the unsettled question being the degree of murder of which he should be convicted. The language of the court did not convey to the jury any intimation as to what their verdict should be, but expressly informed them that they must each for himself determine his verdict, and that he had no desire or intention to coerce them into a verdict of any character. We do not see how the language attributed to the court could be construed into an intimation to find adversely to the defendant, or how he has been prejudiced by it. The object of all trials in court is to reach a verdict, and a final disposition of the case.
+The fact that the conviction was for the inferior degree would indicate strongly that he was not injured, and it has not been made to appear that he has been prejudiced by this action of the court. Especially is this so when viewed in the light of the evidence before us. As disclosed to us, the testimony warranted and would have justified a verdict for a higher degree of the offense.
+The charge fully submits the law of the ease, and favorably to the defendant. The objections sought to be urged against it are not tenable. Finding no error in the conviction, the judgment is affirmed.
+Affirmed.
+Judges all present and concurring.
