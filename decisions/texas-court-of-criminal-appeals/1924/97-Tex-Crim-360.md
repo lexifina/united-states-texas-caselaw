@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "8420"
+decided: "1924-04-30"
+citations: ["97 Tex. Crim. 360", "261 S.W. 1035"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Allen Austin v. The State."]
+source_url: "https://static.case.law/tex-crim/97/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5083911
+cites_cases: ["194 S. W. Rep., 148", "248 S. W. 353", "250 S. W. 169", "250 S. W. Rep., 169", "93 Tex. Cr. R. 612", "93 Texas Crim. Rep., 612", "94 Tex. Cr. R. 67", "94 Texas Crim. Rep., 67"]
+---
+
+# Austin v. State
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+The offense is the unlawful transportation of intoxicating liquor; punishment fixed at confinement in the penitentiary for one year.
+Appellant and Boise Dawson, both negroes, were observed by the Chief of Police near a barrow pit in the city of Sweetwater filling the radiator of a Ford ear with water. After filling the radiator, they got into the car, the appellant driving, and drove at a rapid rate of speed along various streets of the city. They were followed by the Chief of Police, who was also in an automobile, though they were not at all times kept in view. On one of the streets of the city he observed and took charge of Dawson who, at the time, was apparently getting up from the street.
+Dawson testified for the State on the promise of immunity. His testimony was to the effect that he and the appellant had come from a ranch in the appellant’s Ford car and had brought with them six bottles of whisky wrapped up in “a sort of gray shirt” which, while the Chief of Police was following them, had been thrown out of the car at a certain point upon the street. This took place during the day. In the evening after dark, according to the witness Dawson, he accompanied the Chief of Police to the point on the street -where the whisky was thrown, but failed to find it. It was not there.
+Carter, a citizen of Sweetwater, found a package wrapped up in a pair of trousers and strapped or tied up with a leather strap. Upon unwrapping the package, it was found to contain four pint bottles of whisky. This occurred after sundown on the day upon which Dawson and the appellant were arrested. The whisky was delivered by Carter to the Chief of Police, who, in turn, delivered it to the sheriff.
+Upon the trial the point was made by the appellant that the Chief of Police was precluded from giving testimony by reason by his failure to comply with the terms of Chapter 1117, Acts of the 38th Leg., Reg. Session. In the Act mentioned it was required that when property is seized without a search-warrant, the officer seizing it shall make a written report in triplicate, retaining one copy, and giving one copy to the person from whom the goods were taken and one to the County Clerk, also that the seized property shall be delivered to the sheriff, marked for identification and preserved. The wilful making of a false report is denounced as a felony, and the failure to comply with any other provisions of the statute is made a misdemeanor.
+The law touching the report and receipt was not complied with. The learned trial judge, in the-opinion of this court, correctly ruled that this omission was not an impediment to the use of the officer as a witness to facts within his knowledge relating to the seizure of the property, the identity of the possessor and other incidents of the transaction. The report and receipt mentioned in the Act are not thereby made evidence against the person from whom the property is seized upon his trial for a criminal offense. As against him such receipt and report and the recitals therein would be obnoxious to the rule against hearsay evidence, unless the particular facts of a given case should bring it within some of the exceptions to that rule. The learned trial judge, in' our judgment, rightly held that the law was directed against carelessness and fraud of officers in their dealings with property seized by them without a warrant.
+While the sheriff ivas testifying, he identified a receipt which had been executed by him, which reads thus:
+“I, Jack Yarbrough, Sheriff of Nolan County, Texas, have this day received from W. R. Johnson, Chief of Police, City of Sweetwater, Nolan County, Texas, the following liquor and property used in manufactoring, sale, or transportation of samé in violation of the laws of the State of Texas, as amended by the Acts of the 38th Legislature, to-wit:
+Four pints of corn liquor that was thrown out of Ford car occupied by Boise Dawson and Allen, negroes in the city of S. W.
+This liquor was captured by Chief of Police W. R. Johnson and turned over to Jack Yarborough, Sheriff, Nolan Co. Tex.', on Sept. 5th, 1923, after noon. And same has been delivered into my possession to be preserved by me according to law.”
+This receipt was received in evidence against the objection of the appellant.
+Nothing is perceived in the evidence which connects the appellant with the receipt so as to render its recitals proper evidence against him. The recital that “the four pints of corn whisky that was thrown out of a Ford ear occupied by Boise Dawson and Allen, negroes, in the city of Sweetwater” was hearsay and an important issue in the case. Aside from the testimony of the witness Dawson, there is no cogent evidence that the appellant possessed intoxicating liquor or transported it. Aside from Dawson’s testimony, the only criminating facts consists in appellant driving the Ford car and the finding by the witness Carter, near one of the streets along which the appellant passed, a package containing whisky. Dawson was discredited by his connection with the transaction by his admission that he ivas testifying in order to free himself from custody and to secure exemption from prosecution. His description of the whisky and the package containing it is at variance with the testimony of the State’s witness Carter who found the whisky. Dawson said there were six bottles wrapped up in a gray shirt. Carter found four bottles securely tied and strapped in a pair of trousers. The declaration of the sheriff in the receipt which went to the jury to the effect that “the four bottles which he produced were thrown out of the car in which the appellant was riding” is a statement which, under the evidence, cannot be regarded as other than harmful. The recitals in the receipt in question are unaiogous to thé recitals in affidavits for the procurement of a search-warrant, the receipt of which have by this court, on several occasions, been declared violative of the rule excluding hearsay evidence. See Bryant v. State, 94 Texas Crim. Rep., 67, 250 S. W. Rep., 169; Gurski v. State, 93 Texas Crim. Rep. 612.
+Because of the error pointed out, the judgment is reversed and the cause remanded.
+Reversed and remanded.
