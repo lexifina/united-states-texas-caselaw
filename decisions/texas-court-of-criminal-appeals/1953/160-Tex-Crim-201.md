@@ -1,0 +1,52 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,498"
+decided: "1953-10-28"
+citations: ["160 Tex. Crim. 201"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tom Gordy v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2472065
+cites_cases: ["155 Texas Cr. Rep. 423", "156 Texas Cr. Rep. 248", "212 S.W. 2d 143", "236 S.W. 2d 141", "240 S.W. 2d 771"]
+---
+
+# Gordy v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for the violation of Art. 719e(3), V.A.P.C., the complaint and information alleging that appellant did unlawfully transfer the possession of a quantity of horse meat to M. O. Howell when he knew or in the exercise of a reasonable discretion should have known that said Howell intended to sell, offer for sale, exhibit for sale or keep it as a food for human consumption.
+The jury assessed the punishment at two years in jail and a fine of $1,000.
+A sample of hamburger meat was obtained from the H & H Cafe in Kermit, Texas, which was found by chemists of the Texas Department of Public Health to contain horse meat.
+M. O. Howell, who operated the H & H Cafe, testified that he purchased such hamburger meat from appellant, who operated the Kermit Provision Company, and that it was delivered to his cafe by one Marshal.
+Marshal P. Windom testified that he delivered hamburger meat to M. O. Howell at the H & H Cafe, which Leslie Alford had prepared, both Alford and the witness being at the time employees of appellant at the Kermit Provision Company where the hamburger meat was prepared.
+Leslie Alford testified that he was a butcher by trade, with twenty years of experience; that he had worked one year for appellant at the Kermit Provision Company; that he knew the difference between beef and horse meat; that he ground horse meat every day he worked and put it in hamburger meat, and also used “excel” on the horse meat, as instructed by appellant, that being a preparation to take out the blood, kill its odor, and make it appear as beef.
+This witness further testified that on the day appellant was arrested appellant told him to wait until after dark and take the horse meat then on hand out and burn it because it was about to get “us in bad,” and that he did as instructed. He further testified that he took the officers that night out to the place where he had burned the horse meat, and that pictures were made at this place of him, the officers, and the burned meat. Some of these pictures were introduced in evidence.
+Appellant did not testify and offered as his only witness W. A. Carruth. Carruth testified that he worked for Tom Gordy for four months prior to February 2, 1953; that Les Alford also worked for Gordy, and that Alford was injured on January 30 and that he did not see him after that date; that Gordy went to El Paso on January 27 and returned on January 29. He further testified that he never saw any horse meat at Gordy’s place.
+We overrule the contention that the testimony of the witness Alford and the pictures should have been stricken and that the evidence is insufficient to prove that appellant transferred horse meat to M. 0. Howell as alleged in the information.
+We find the evidence sufficient to support the verdict.
+Bills of Exception Nos. 1 and 2 complain of the overruling of appellant’s motion for continuance or postponement, the grounds of the motion being that his attorney had not had sufficient time to prepare for trial, and that a postponement was necessary in order that unfavorable public sentiment against appellant might subside.
+This motion was npt a statutory motion for continuance, but one addressed to the sound discretion of the trial judge, and no abuse of such discretion appears. Jones v. State, 156 Texas Cr. Rep. 248, 240 S.W. 2d 771; Hill v. State, 152 Texas Cr. R. 248, 212 S.W. 2d 143.
+By Bill of Exception No. 3, appellant contends that the court erred in overruling his motion to vacate the special setting of the case for trial, without an information then being on file, upon the ground that the case was not legally filed.
+The filing of an information is not necessary to the commencement of a criminal action in the county court, and the prosecution is held to be pending after the filing of a complaint. 12 Texas Jur. 382, Sec. 108.
+By Bills of Exception Nos. 4 and 5, appellant complains of the refusal of the court to quash the jury panel, upon the ground that each juror had read newspapers, heard radio broadcasts and discussions about the case, and, therefore, had an opinion as to his guilt.
+It is noted that it is certified by the court that every member of the jury panel except one, who was excused, stated that he had no opinion as to the guilt or innocence of the appellant, thus it will be seen that there is an absence of any showing that any prejudice against the appellant found its way into the jury box of the jury that tried him. Hence, no error is shown.
+By Bills of Exception Nos. 25 and 26, appellant complains of the following argument of the county attorney: “Now, Gentlemen, Mr. Windom told you that he didn’t know it was horse meat. That is the only evidence we have on that. That is the only evidence that has been presented, and I will tell you this, Men, there couldn’t be a better way for Tom Gordy to beat this case than to bring in some evidence that this man wasn’t an innocent agent, but that has not been done,” and to the further argument in regard to the delivery of the meat in question, when it was said, “If it weren’t true, it seems to me like it would be contradicted,” upon the ground that it was a comment upon the failure of the appellant to testify, and error was committed in overruling his objection and exception thereto.
+The evidence reveals that other employees were associated with the witness Windom and that he contacted other persons in his work. Therefore, it appears that testimony could have been offered upon these matters by persons other than appellant, thus no error is shown. Branch’s Ann. Penal Code, p. 209.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (MORRISON, Judge.)
+
+ON MOTION FOR REHEARING
+MORRISON, Judge.
+Appellant’s esteemed counsel in an excellent motion urges us to reconsider our holding herein. He contends that he should have secured a postponement so that public sentiment against appellant might cool and that his case is on all fours with our holding in Rogers v. State, 155 Texas Cr. Rep. 423, 236 S.W. 2d 141. In many respects he is correct in his contention. Two distinguishing factors, however, do exist.
+1. This is a misdemeanor case.
+2. In the Rogers case much importance was attached to the fact that 44 out of a venire of 105 examined were excused because of fixed opinions. In the case at bar only one was excused for such reason. We have again re-read the examination of the panel in this case and cannot bring ourselves to conclude that prejudice against the accused found its way into the jury box.
+Appellant further contends that we were in error in holding the testimony of the witness Alford admissible. He asserts that proof of the burning of a large quantity of horse meat following appellant’s arrest constituted proof of extraneous offenses in that such evidence told the jury that appellant was engaged in the business of selling horse meat to the public generally. We agree that this evidence had that effect, but do not consider such as proof of extraneous offenses. The prosecution had the right, and the duty if it could, to prove that the appellant had in his possession a large quantity of horse meat at the time he made the sale charged in" this information. In liquor sale prosecutions it has long been the rule that the state might prove the size of the dealer’s stock from which the sale was made.
+We have examined with care appellant’s bills of exception relating to argument which we did not discuss in our original opinion and find them to reflect logical deductions from the evidence properly in the record.
+We were so impressed with counsel’s able argument that we have re-examined the entire record, but remain convinced that we decided this correctly upon original submission.
+The motion for rehearing is overruled.
