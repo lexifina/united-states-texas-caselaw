@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,905"
+decided: "1958-06-04"
+citations: ["166 Tex. Crim. 320"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kenneth Calvin Bates v. State"]
+source_url: "https://static.case.law/tex-crim/166/cases/0320-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2614787
+---
+
+# Bates v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is driving while intoxicated; the punishment, 3 days in jail and a fine of $50.00.
+Highway Patrolman Peace testified that on the afternoon in question he observed an automobile which he was meeting pass another automobile without sufficient clearance, that he turned around and gave chase, that the automobile which he was pursuing attained a speed of 85 miles per hour, and that when he brought it to a halt he observed the appellant who was the driver. He stated that the appellant staggered when he walked, spoke with a thick tongue, repeated himself, had the smell of alcohol on his breath, and expressed the opinion that he was intoxicated. Peace recovered a partially empty bottle of whiskey from the front seat of appellant’s automobile and placed him under arrest.
+Deputy Sheriff Wilkins testified that he saw Peace as he brought the appellant to a halt and joined them. He stated that the appellant spoke with a thick tongue, staggered when he walked, smelled of alcohol, and expressed the opinion that he was intoxicated.
+Deputy Sheriff Graham testified that he was acting as jailer when Peace brought the appellant in, that the appellant was shaky on his feet, spoke with a thick tongue, had a red face, and expressed the opinion that he was intoxicated.
+The appellant, testifying in his own behalf, admitted that he bought a bottle of whiskey shortly before he left Dallas and took a drink at a filling station, but denied that he was unsteady on his feet or that he was intoxicated at the time of his arrest.
+The jury resolved this conflict in the evidence against the appellant, and we find it sufficient to support their verdict.
+We have not been furnished a brief, nor do we find any formal bills of exception. In the transcript we find a motion to quash the complaint drawn in general terms. The complaint appears to be in substantial compliance with Form 1111, Will-son’s Criminal Forms, Sixth Edition, and we find the same sufficient.
+Finding no reversible error, the judgment of the trial court is affirmed.
