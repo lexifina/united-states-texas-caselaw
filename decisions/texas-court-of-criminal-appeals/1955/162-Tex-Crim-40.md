@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,692"
+decided: "1955-06-25"
+citations: ["162 Tex. Crim. 40"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["F. D. Pierce v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461822
+---
+
+# Pierce v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the sale of whiskey in a dry area; the punishment, 15 days in jail and a fine of $125.00.
+Thomas Johnson testified that he knew the appellant and had approximately a week before the day charged in the information come upon him stalled in a sand pit, that he had pulled the appellant’s automobile out of the pit and refused the pay which appellant had offered for his services; whereupon, the appellant invited the witness to come to his house and promised to give him some whiskey.
+Johnson stated that on the day in question he went to appellant’s house and was met at the door- by the appellant, whom he told that he had come for the whiskey; that the appellant hollered to a pimply faced young man to get or give the witness a pint of whiskey and then went out the front door of the house. Johnson stated that after the appellant had left the pimply faced young man brought him the whiskey and said that “a pint of whiskey was too much to give a damn Negro” and demanded and received the sum of $2.50 from the witness.
+Johnson testified that as he drove away from the appellant’s house he was apprehended by Sheriff Morrison, who took the whiskey away from him.
+Sheriff Morrison testified that he was watching the appellant’s house on the day in question, saw Johnson enter and leave, apprehended him, and took from him the whiskey introduced in evidence.
+The appellant, testifying in his own behalf, gave practically the same testimony as had the state’s witness Johnson except that he stated that he had hollered to someone in his house to give the witness the whiskey; whereas Johnson was uncertain as to whether he had said get or give.
+Be this as it may, we have concluded that the evidence is insufficient to sustain the conviction. The sale was made by the pimply faced young man, and the appellant’s connection therewith is not shown to be such as would render him amenable under the law as a party thereto.
+The judgment is reversed and the cause remanded.
