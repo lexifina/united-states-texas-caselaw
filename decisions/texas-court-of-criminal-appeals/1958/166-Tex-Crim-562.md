@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,940"
+decided: "1958-06-18"
+citations: ["166 Tex. Crim. 562"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Billy Ray McBee v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0562-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2617684
+cites_cases: ["162 Texas Cr. Rep. 286", "284 S.W. 2d 729"]
+---
+
+# McBee v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Upon his plea of guilty before the court, appellant was, on January 11, 1956, convicted in the Criminal District Court of Harris County of felony theft, with punishment assessed at two years.
+Sentence was pronounced on January 11, 1956, and appellant on that date was placed on probation for a period of two years, under the authority of the Adult Probation and Parole Law, then appearing as Art. 781b, Vernon’s A.C.C.P., and as amended in 1957 as Art. 781d, Vernon’s A.C.C.P.
+The probation was conditioned only upon appellant’s not violating the law of this or any other state or of the United States.
+Thereafter, on December 4, 1957, the district attorney of Harris County filed a motion seeking to have the probation revoked alleging “that on or about the 29th day of October, A.D. 1957, in the County of Harris and State of Texas, and during the period of his probation, the defendant herein, Billy Ray McBee, did then and there violate the terms of said probation in this, to wit: the defendant committed the offense of Passing As True A Forged Instrument In Writing, a felony.”
+The record shows that appellant was in jail when the motion for revocation of probation was filed and alias capias issued on December 4, 1957, and that the motion was first called to the attention of the assistant district attorney who arranged for a hearing “sometime right after the first of January” and hearing was set for “on our first available docket on January 24th.”
+The state relies upon our holding in Ex parte Fennell, 162 Texas Cr. Rep. 286, 284 S.W. 2d 729, wherein this court held that where the violation occurs and the warrant of arrest issues before the expiration of the sentence and the hearing is not unduly delayed, the court, after the probation term, is not without authority to revoke the probation because of such violation during the term.
+The violation of probation alleged in the state’s motion was that appellant committed the offense of passing as true a forged instrument in writing, a felony, on or about October 29, 1957. It was upon this alleged violation of the terms of probation that alias capias issued.
+The evidence adduced at the hearing did not sustain the allegation that appellant passed a forged instrument but at most showed that he attempted to pass such an instrument.
+No motion was filed during the probation period alleging the commission of the offense of attempting to pass a forged instrument and the trial judge did not, during such term, order appellant’s arrest based upon his having attempted to pass as true a forged instrument in writing.
+It follows that the rule in Ex parte Fennell, supra, has no application here.
+The revocation order cannot be sustained upon the theory that the trial judge had authority to revoke probation without motion when violation of the terms of the probation was shown, for any discretion he may have had to do so ended when the term of sentence and probation expired January 11, 1958, without any action being taken.
+The court upon granting probation should set out the terms and conditions in a written order and have the same entered in the minutes. When revoking probation the findings and conclusions upon which the court acts should be set out in the order of revocation and this order should be entered in the minutes. Forms for same may be found in Willson’s Criminal Forms, 6th Ed., Secs. 3010-3015.
+The action of the court as shown by the entry herein is reversed and the cause remanded.
+Opinion approved by the Court.
