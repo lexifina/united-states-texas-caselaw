@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1912"
+decided: "1912-10-23"
+citations: ["67 Tex. Crim. 574"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tom Bagley v. The State."]
+source_url: "https://static.case.law/tex-crim/67/cases/0574-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4640636
+---
+
+# Bagley v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+—Appellant was convicted of aggravated ' assault and battery. The record is before us without bills of exception. The motion for new trial sets up the court erred in permitting the State to prove acts and declarations of other persons than the defendant as shown by defendant’s bill of exceptions, but the record does not contain such bill of exceptions.
+It is contended that the indictment does not charge an offense against' the laws of the State, and is not in plain and intelligible words. We do not think there is any merit in this. The indictment charges appellant committed an aggravated assault and battery on the person of Ed Smith, and did then and there beat', bruise and wound the said Ed Smith with some hard instrument, the name of which is to the grand jurors unknown, and did then and there inflict serious bodily injury upon the said Ed Smith. We are of opinion that this sufficiently charges the offense of aggravated assault and battery.
+The motion for new trial complains the court' erred in that portion of his charge wherein the court instructed the jury that by the term “serious bodily injury” is meant such an injury as gives rise to apprehension—an injury which is attended with' danger. This is a misdemeanor and no special charges were asked. The only criticism of the charge is found in the motion for new trial as above stated, but we are of opinion had a proper exception been reserved and the matter properly presented, that there was no error in the definition of the term “serious bodily injury” as given by the court.
+The two remaining grounds of the motion for new trial complain that the verdict of the jury is not supported by the evidence. The State’s evidence makes a case, and shows that appellant went to the house of the assaulted party Smith and called him out at night, and induced him to go with him in a buggy some distance where he was intercepted by a crowd, taken out, overpowered, stripped and given a very severe beating with some sort of an instrument that is not accurately described, but seems to have been an instrume'nt capable of inflicting great injury. The negro was beaten badly with this instrument about the back and hips, which confined him to his bed and room for three weeks. The doctor testified he visited him the next day, and he was pretty badly beat'en, and describes the bruises, and shows that blood was oozing from the wound on the hips, and that he had been struck on the head with some blunt instrument causing a scalp wound which bled freely. The injured party swears one of the parties struck him on the head with a pistol. The assaulted party testified that the reason assigned for beating him was that he had had arrested one Tom Black charging him with “bootlegging,” which term indicates the illicit sale of intoxicating liquor in local option territory. The assaulted party admitted the fact that he was connected with having Tom Black arrested on this account. The time of the night when the whipping occurred enters somewhat into the case. The injured party testified when they first came to his house it was something like half after 10 or 11 o’clock. Just how long they had him in charge, and before they whipped him, and concluded with the whipping is not definitely shown, and the . matter is more or less a guess. The father of the injured party testified when the thing was over he went to hunt his son; there had been some shots fired about the time of the whipping, or just after, which seemed to have created serious solicitude on the part of the father and wife of the injured party. The assaulted party finally reached the residence of his father. The defendant’s theory was alibi, and he introduced a lot of testimony to the effect that he, and Black and others, whom the injured' party identified as being with the crowd, were in the town of Marshall some four miles distance at 11 o’clock, or about that time. Some of the witnesses perhaps placed it as late as a quarter after eleven. It is unnecessary to go into a detailed statement of "the testimony of these witnesses pro and con. If the evidence for the State is to be believed, then appellant, Black and- others gave the assaulted party an unmerciful and brutal beating; somebody whipped him and whipped him badly, and he identified appellant and others as being the parties. They claim an alibi. These matters were submitted to the jury; the jury decided the question adversely to appellant and in favor of the State, and this court would not feel justified in setting aside the verdict.
+It is therefore ordered that the judgment be affirmed.
+Affirmed.
