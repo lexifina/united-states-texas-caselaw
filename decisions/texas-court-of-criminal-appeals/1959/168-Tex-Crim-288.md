@@ -1,0 +1,90 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,537"
+decided: "1959-03-11"
+citations: ["168 Tex. Crim. 288"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jewel Alexander v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0288-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2624163
+cites_cases: ["102 Texas Cr. Rep. 162", "112 Texas Cr. Rep. 450", "120 Texas Cr. Rep. 263", "121 Texas Cr. Rep. 218", "127 Texas Cr. Rep. 313", "140 Texas Cr. Rep. 34", "143 S.W. 2d 597", "162 Texas Cr. Rep. 25", "162 Texas Cr. Rep. 624", "164 Texas Cr. Rep. 105", "164 Texas Cr. Rep. 111", "164 Texas Cr. Rep. 265", "17 S.W. 2d 50", "277 S.W. 1099", "280 S.W. 2d 787", "288 S.W. 2d 762", "296 S.W. 2d 775", "297 S.W. 2d 179", "298 S.W. 2d 822", "47 S.W. 2d 837", "47 S.W. 837", "53 S.W. 2d 300", "75 S.W. 2d 888"]
+---
+
+# Alexander v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is the unlawful sale of marijuana; the punishment, ten years.
+The indictment alleged the sale to have been made to Dan Evans. He testified, as did L. D. Stringfellow, Detective of the Narcotic Section of the Special Service Bureau, Dallas Police Department, that he was a member of the Dallas Police Department on November 26, 1956, on which date he received $5.00 from Detective Stringfellow about 2:80 P.M. with instructions.
+Dan Evans, the evidence shows, was a colored person; a graduate of Prairie View A & M College and former Assistant Boy’s Secretary of the Moreland Branch, Y.M.C.A. He had been a policeman for some four or five months and was working as an undercover officer.
+Evans testified that accompanied by one Edward Jordan, described as a user of narcotics and an underworld character who answered to the name “Little Fat,” he met appellant, also colored, on a street in North Dallas and “told him he wanted to buy some stuff” which, the witness explained, in the language of the underworld meant marijuana.
+Appellant replied that he would have to go some place and get it, and the three went to the car Evans was using and, directed by appellant, proceeded to an address in South Dallas.
+Appellant asked “how much we wanted” and Dan Evans “told him that I wanted a nickels worth of cigarettes,” which he testified meant in the language of the underworld five dollars worth.
+Appellant said “he would let us have five cigarettes for five dollars providing that he would help us smoke one” and “we agreed.”
+Appellant then left the car and in five or ten minutes returned and dropped four cigarettes in the car and Dan Evans paid him $5.00.
+The four cigarettes were delivered to Detective Stringfellow the following morning. The evidence shows that they were thereafter delivered to Chemist Sidney Lee who tested them and found their contents to be marijuana.
+The fifth cigarette which appellant produced was smoked by appellant and Jordan.
+Appellant contends that the evidence shows Dan Evans to be an accomplice witness as a matter of law.
+Lundy v. State, 164 Texas Cr. Rep. 111, 296 S.W. 2d 775; Jones v. State, 164 Texas Cr. Rep. 105, 297 S.W. 2d 179; and Augero v. State, 164 Texas Cr. Rep. 265, 298 S.W. 2d 822, cited by the state, are deemed authority against such contention.
+Appellant would distinguish these cases by reason of Dan Evans agreeing that the appellant and Jordan smoke the fifth cigarette; his failure to arrest them then and there for doing so in his presence, and to then arrest appellant for selling the marijuana.
+We can well agree that the conduct of an undercover agent engaged in ferreting out violations of the Uniform Narcotic Drug Act leaves much to be desired and may even be termed reprehensible. Yet the agent is not an an accomplice witness so long as he does not bring about the crime, but merely obtains evidence to be used against those engaged in the traffic.
+That Evans’ purpose was to obtain evidence against sellers of marijuana is demonstrated by the fact that he acted under instruction of Detective Stringfellow who furnished the $5.00, and delivered the cigarettes to him. The fact that appellant was not arrested until several weeks later, and not then by the undercover agent, is consistent with Evans’ status as a purchaser for evidence purposes rather than an accomplice.
+Appellant did not testify and the jury rejected his defense of alibi. We would not be warranted in substituting our finding for that of the jury even though we should agree that there was strong evidence that appellant was at another place when Evans testified he purchased the marijuana. Stapler v. State, 120 Texas Cr. Rep. 263, 47 S.W. 2d 837, presents a similar conflict in the evidence which was resolved by the jury.
+Appellant’s complaint as to Dr. Lee’s testimony regarding the effect of the use of marijuana presents no error calling for reversal. The only objection was as to the qualification of the witness to testify, which qualifications were well established.
+The evidence sustained the allegation of the indictment that the sale was made to Dan Evans. If Jordan was a joint purchaser there would have been no variance. McGee v. State, 112 Texas Cr. Rep. 450, 17 S.W. 2d 50, overruling Asher v. State, 102 Texas Cr. Rep. 162, 277 S.W. 1099; Stapler v. State, 120 Texas Cr. Rep. 263, 47 S.W. 837; Petty v. State, 121 Texas Cr. Rep. 218, 53 S.W. 2d 300; Metaxes v. State, 127 Texas Cr. Rep. 313, 75 S.W. 2d 888; and Colley v. State, 140 Texas Cr. Rep. 34, 143 S.W. 2d 597.
+The judgment is affirmed.
+
+## Rehearing (MORRISON, Presiding Judge.)
+
+ON MOTION FOR REHEARING
+MORRISON, Presiding Judge.
+By supplemental motion for rehearing, the appellant asserts that the undisputed evidence shows that appellant was acting as agent for Officer Evans and therefore could not be guilty of making a sale to him. Reliance is had upon Durham v. State, 162 Texas Cr. Rep. 25, 280 S.W. 2d 787. In Durham, the undisputed evidence was that the accused purchased the narcotics from one Clarence and delivered the same to the officer with no advance in price and with no showing that she was in any way interested in behalf of Clarence. In the case at bar, we have no such showing. Here the appellant directed the parties to his address in South Dallas and there delivered the marijuana to the witness. There is no evidence that the appellant purchased the marijuana in South Dallas or that he delivered it to Evans at no advance in price.
+Remaining convinced that we properly disposed of this cause originally, the appellant’s motion for rehearing is overruled.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+(dissenting).
+In Cooper v. State, 162 Texas Cr. Rep. 624, 288 S.W. 2d 762, over my protest and dissent my brethren declared the law in this state to be:
+“* * * if the criminal design originates in the mind of the officer and he induces a person to commit a crime which he would not otherwise have committed except for such inducement, this is entrapment, and in law may constitute a defense to such crime.”
+In my dissenting opinion in that case I pointed out that:
+“It is apparent that what my brethren hold is that if a peace officer, by entrapment, induces another person to commit a crime, that person may not be prosecuted or convicted of the crime because he was entrapped by the officer into committing it. So, neither the peace officer nor the person actually committing the crime may be punished therefor.”
+The majority of this court have neither overruled nor changed that holding, which is directly applicable and controlling under the undisputed facts of this case.
+Here, Evans, the plain-clothes policeman and under-cover agent, was so afraid that he would disclose the fact that he was a peace officer that he did not go around or near police headquarters but communicated with his superior officer only by telephone.
+On the occasion in question and by previous telephone arrangement, Evans met Stringfellow, the officer above mentioned, at 2:30 o’clock, P.M., at the Dal-Hi stadium, which Stringfellow said was “more or less a remote area.” In that connection he further testified :
+“* * * there was a large parking station to the west of the Stadium. Cars very seldom come in there and I picked that location so that no one would observe us in the meeting.”
+The witness Stringfellow also testified:
+“* * * I gave him [Evans] a five dollar bill that I had obtained from a fund that is set up for the Narcotics Section to buy contraband drugs, narcotics; And told him to go to the vicinity * * * .”
+The details of the instruction Stringfellow gave to Evans are not shown.
+Be that as it may, about four hours later, at 6:30 o’clock, P.M., Evans met Jordan, a known narcotics user and underworld character who Evans said was his “contact with the underworld” and whom he used “as a contact.”
+Traveling in a “State owned vehicle, a 1951 Ford,” Evans and Jordan went to the corner of Thomas and Hall Streets in the city of Dallas and parked their car nearby. They walked around the corner and met or ran into the appellant, whom Jordan “seemed to be knowing.” Evans did not know the appellant. Evans testified that:
+“Well, it’s the first time I had ever seen him to know who he was * *
+Thereupon, Evans told appellant that they wanted to buy “some stuff,” meaning “specifically, marijuana.” Appellant replied that “he would have to leave there and go some place else to get it.” All three parties then left in the state-owned Ford and drove to the 3300 block of Spring Avenue. Appellant asked Evans how much he and Jordan wanted to buy, and Evans replied: “a nickels worth of cigarettes,” which he said meant “five dollars worth.” Appellant agreed to “let [them] have five cigarettes for five dollars providing he [appellant] would help [them] smoke one.” To that condition Evans said he and Jordan agreed.
+Thereupon, appellant left, went into a nearby house, and in about five or ten minutes returned and “dropped four cigarettes in the car.” Evans paid appellant the agreed price of five dollars. In accordance with the condition mentioned, Jordan and the appellant smoked the other, or fifth, cigarette. Evans and Jordan then drove back and left the appellant at the place they had first contacted him, after which Jordan, also, left the car.
+The next morning at a secret rendezvous Evans initialed and delivered to Stringfellow the four cigarettes, which were shown to contain marijuana.
+Appellant was not arrested until some months thereafter.
+The foregoing is the state’s testimony.
+Jordan, who acted with and was a coconspirator with Evans in buying the cigarettes, did not testify.
+Appellant did not testify but offered evidence showing an alibi.
+I need not pinpoint the above facts, for, to me, there is but one conclusion to be derived therefrom, that being that the criminal design to have someone whom the officers did not know and had never heard of to violate the law and to engage in the crime of selling marijuana originated in the mind of Stringfellow and of Evans. In pursuance of that design, by and with the aid of a known narcotics user the officers proceeded to propose to the appellant — whom they did not know or of whom they had no prior information as to his being likely to engage in selling marijuana — that he violate the law by selling to Evans and Jordan marijuana and, by such contact, induced the appellant to violate the law, but for which he would not and could not have done so.
+Every element of the rule announced in Cooper v. State, supra, is present here. Under that authority and under the rule there announced by my brethren, this conviction ought not to stand.
+If my brethren are not going to follow and apply what they said was the law in the Cooper case they ought to overrule that case and thereby agree that I was right when I challenged, by my dissenting opinion, the correctness of the holding in the Cooper case.
+It was my view then and it is my view now that officers guilty of entrapping one in the commission of a crime become accomplices to the crime committed and a conviction may be had only by corroborating their testimony.
+But the Cooper case is not the only case which requires a reversal of this conviction.
+I call attention to the case of Aguero v. State, 164 Texas Cr. Rep. 265, 298 S.W. 2d 822, which followed the Cooper case by about ten months and which my brethren cite as supporting the conclusion they reached in the instant case. The Aguero case was a conviction for possessing narcotics. The state’s case, there, depended upon the question as to whether the police officer was guilty of entrapment. The holding in the Cooper case is there extended by the following language:
+“There can be no question that Bob Richards would have become a party to the crime if he had done what he did in order to secure the narcotics for his own use. Just how far officers may legally go in their efforts to ferret out those in the business of crime has been a source of considerable concern to this and every other Court in the land, but certain general rules based upon sound reason seem to have been evolved. An officer does not become a party to a crime if he participates therein solely for the purpose of apprehending one engaged in crime and bringing him to justice.”
+The far-reaching effect of the rule there announced is discernible by an analysis thereof:
+It is there said that the agent Richards would have been a party to the crime of illegally possessing the narcotics “if he had done what he did in order to secure the narcotics for his own use.” In other words, we have one law governing the acts and conduct of an officer while he is acting as an officer and another rule if he is acting for his own benefit, and an officer may violate that law with impunity and without fear of punishment so long as he acts in the latter capacity.
+I pointed out that the Cooper case was susceptible of that very construction.
+But the above quotation from the Aguero case did not stop with what I have already said: By the following language: “An officer does not become a party to a crime if he participates therein solely for the purpose of apprehending one engaged in crime and bringing him to justice,” this court has destroyed the law of principals in so far as officers are concerned.
+One of the cardinal principles of law in criminal cases is that “All persons, are principals who are guilty of acting together in the commission of an offense.” Art. 65, P.C.
+That statute nowhere says that “officers” are not subject thereto or are exempt therefrom.
+But, in obedience to the holding in the Cooper case, this court has here so held, and holds, also, that when an officer encourages, aids, agrees to, and acts together with others in the commission of crime he is guilty of no offense.
+If a peace officer can not be guilty of acting with another in the commission of a crime, neither could the co-actor be guilty, because if the peace officer is not guilty no crime has been committed. Thus are the peace officers of this state empowered, under the guise of apprehending one engaged in crime,, to commit any and all crimes.
+Such rule ought not to exist.
+This case should be reversed because the witness Evans is an accomplice, as a matter of law, and his testimony is uncorroborated.
+I dissent to the affirmance of this conviction.
