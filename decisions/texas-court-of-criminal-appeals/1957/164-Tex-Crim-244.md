@@ -1,0 +1,54 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,617"
+decided: "1957-01-02"
+citations: ["164 Tex. Crim. 244"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Leroy Brown v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2607803
+cites_cases: ["11 S.W. 457", "114 Texas Cr. Rep. 15", "123 S.W. 2d 354", "127 Texas Cr. Rep. 460", "136 Texas Cr. Rep. 1", "153 Texas Cr. Rep. 345", "154 Texas Cr. Rep. 613", "155 Texas Cr. Rep. 543", "158 Texas Cr. Rep. 651", "161 Texas Cr. Rep. 629", "162 Texas Cr. Rep. 660", "165 S.W. 577", "220 S.W. 2d 156", "229 S.W. 2d 628", "232 S.W. 300", "237 S.W. 2d 314", "258 S.W. 2d 818", "279 S.W. 2d 357", "288 S.W. 2d 771", "29 S.W. 2d 785", "73 Texas Cr. Rep. 448", "77 S.W. 2d 229", "89 Texas Cr. Rep. 638"]
+---
+
+# Brown v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the sale of whiskey in a dry area, with a prior conviction of an offense of like character alleged for the purpose of enhancement; the punishment, 60 days in jail and a fine of $300.00.
+Deputy Sheriff Wilson of Deaf Smith County testified that he was employed in such capacity on January 9 and that night he went to the appellant’s home and purchased a pint of whiskey from him for the sum of $5.00. He stated that he did not arrest the appellant at the time but filed the complaint upon which this prosecution is based several days later. The whiskey was not introduced in evidence, but Wilson testified, without objection, that he could identify the contents of the bottle which he purchased from the appellant as whiskey by taste and smell.
+The appellant did not testify in his own behalf but called his wife and two other witnesses, who stated that the appellant was in Amarillo on the day in question.
+Appellant’s wife testified that Mr. Wilson had come to her home looking for the appellant and had said at that time that he had bought a pint of whiskey “down there and he believed it to be Leroy Brown that sold it to him.”
+The jury rejected the appellant’s defense of alibi, and we find the evidence sufficient to support the conviction.
+Bill of Exception No. 1 complains of the court’s instructions to the jury prior to their separation for lunch. The record reveals that the following transpired:
+“The Court: Is it agreeable for the jury to separate?
+“Mr. Hall: Yes, sir.
+Mr. Line: Yes, sir.
+“The Court: You will be excused. Be back at 1:30. Will that be about right? It is now 12:15. And separate and go where you wish to lunch, but you are instructed that you must not converse with anyone or allow yourselves to be addressed by any other person in connection with this case.
+“ (Jury excused for lunch).
+“Mr. Hall: We want to take — Defendant objects to the instructions to the jury as to how and what they should do in connection with separating during the lunch hour and says that the same is not done as required by the law.
+“The Court: I will overrule your objection.
+“Mr. Hall: Note the defendant’s exception.”
+This being a misdemeanor case, it was proper for the jury to separate. Article 669, V.A.C.C.P.
+We perceive no error in the instruction as given. Long v. State, 158 Texas Cr. Rep. 651, 258 S.W. 2d 818.
+Appellant next complains of an answer made by a member of the jury panel during the course of her voir dire examination. At the time the answer was made, the appellant voiced no complaint and made no motion to discharge the members of the panel who heard the remark. Instead, he waited until after the jury had been selected and sworn and after they had separated for the noon hour and reassembled for the afternoon session and then, for the first time, voiced complaint and moved for a mistrial.
+Under such a state of facts, the appellant must be held to have waived his right to complain that the answer of the juror injured him.
+In Eason v. State, 89 Texas Cr. Rep. 638, 232 S.W. 300, when a comparable situation was before this court, we held no reversible error reflected in the absence of a motion to quash the panel.
+We are not here confronted with the refusal of the trial court to instruct the jury not to consider the answer of the member of the panel as was before this court in Pena v. State, 114 Texas Cr. Rep. 15, 29 S.W. 2d 785.
+Appellant next complains of the manner in which the dry status of the county was proven. The county clerk testified as follows:
+“Q. As county clerk of Deaf Smith County, Mr. Smith, are the Minutes of the Commissioners Court of Deaf Smith County in your custody, keeping and control? A. They are.
+“Q. And as county clerk of this county, can you identify such minutes of the Commissioners Court of Deaf Smith County as are of record in your office? A. J can.”
+This was followed by the introduction of the requisite minutes and orders.
+Appellant contends that this was not a sufficient showing as to the correctness of such minutes to authorize their admission in evidence. The cases cited in appellant’s brief do not support such contention, and we know of none which do so.
+Appellant next complains of the admission into evidence of the information and judgment in the prior conviction alleged for enhancement. Both of such instruments were admissible. Fullylove v. State, 161 Texas Cr. Rep. 629, 279 S.W. 2d 357, and Koger v. State, 73 Texas Cr. Rep. 448, 165 S.W. 577.
+It is next alleged that a fatal variance existed between the complaint and the information. The complaint alleged the offense to have occurred “on or about the 9th day of January,” and the information alleged “on the 9th day of January.”
+The information alleged that the complainant was “a competent and credible person,” while the complaint made no such allegation.
+We are not impressed with the claim of variance. Shelton v. State, 27 Texas App. 443, 11 S.W. 457; Bayless v. State, 136 Texas Cr. Rep. 1, 123 S.W. 2d 354; and Dean v. State, 155 Texas Cr. Rep. 543, 237 S.W. 2d 314.
+And, finally, appellant complains of the following argument:
+“ * * * and it is certainly in your exclusive prerogative to assess value, if any, to this alibi.
+“If you accept and believe what Mr. Wilson did and accomplished, then you would be inconsistent and would have no other choice than to discount this alibi as manufactured.”
+In Tabb v. State, 154 Texas Cr. Rep. 613, 229 S.W. 2d 628, we held that reversible error was not reflected by argument which referred to the testimony of one defense witness as “a trumped up story they have hatched up to mislead you.” See also Hayes v. State, 162 Texas Cr. Rep. 660, 288 S.W. 2d 771; Jones v. State, 153 Texas Cr. Rep. 345, 220 S.W. 2d 156; and Whitefield v. State, 127 Texas Cr. Rep. 460, 77 S.W. 2d 229.
+Finding no reversible error, the judgment of the trial court is affirmed.
