@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1645"
+decided: "1912-04-10"
+citations: ["66 Tex. Crim. 268"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Henry v. The State."]
+source_url: "https://static.case.law/tex-crim/66/cases/0268-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4633350
+cites_cases: ["12 S. W. Rep., 733", "120 S. W. Rep., 471", "39 S. W. Rep., 106", "56 Texas Crim. Rep., 447"]
+---
+
+# Henry v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was indicted, tried and convicted of murder in the first degree and his punishment assessed at death.
+There are no bills of exception in the record, consequently we can not consider those grounds in the motion complaining that the court erred in admitting testimony and erred in excluding testimony. In the motion it is not shown what, if any, testimony was admitted over objection, nor what testimony was excluded.
+Feither can we consider that ground in the motion claiming error was committed in permitting the district attorney in his closing address to nse improper language. The language used is not stated in the motion, and, there being no bill of exceptions in the record, we can not and do not know what language was used.
+There is a ground in the motion complaining of the charge of the court. It reads as follows: “Because the court committed error in the charge to the jury, and in each and every part thereof, to the injury of defendant.” This is too general and points out no error. Since the rendition of the opinion in the case of Quintana v. The State, 29 Texas Crim. App., 454, it has been uniformly held that the error, if error there be, in the charge of the court, must be pointed out in the motion for new trial, or in a bill of exceptions reserved.
+The ground complaining of the failure of the court to give special •charges is as follows: “Because the court erred in refusing to give to the jury the several special charges which were requested by defendant and refused by the court, to defendant’s material injury.” This is too general to point out any error in the action of the court in refusing the charges requested. However, the defendant being given the highest penalty known to the law, we have carefully read the evidence, and the charges requested by appellant. The_ court gave the special charge requested by appellant presenting the theory that he killed his wife in defense of his own person from an attack, or what reasonably appeared to him to be preparation to make an attack as testified to by him, and the jury finds against this contention. The court in his charge submitted murder in the first and second degree, manslaughter and self-defense. If we take the testimony of defendant alone, it would possibly present the theory, that if defendant was not acting in self-defense, then his mind was in such an inflamed condition he was incapable of cool reflection, and the killing was done under such circumstances as would reduce the offense below murder in the first degree. Evidently from the verdict, the jury did not believe the theory advanced by him, but believed the killing took place under circumstances detailed by the witnesses for the State, and this testimony sustains their verdict. The State’s witnesses say that defendant and his wife met late in the evening on the day of the homicide on Sixth Street in Austin; that they' engaged in a quarrel, when deceased left and went into Dago John’s store; that deceased wanted to go to Hunter’s Bend to a festival or dance, to which defendant objected. After the deceased left defendant he said: “If she (meaning deceased) attempts to go to the Bend I am going to kill her, or if she attempts to do anything to me, I am going to kill her,” and showed the witness a razor case. About a half hour after this, the witnesses for the State say, that deceased and another woman were eating ice cream, when defendant said: “‘Come on Lula, let’s go home,’ and she said, ‘All right, as soon as I finish eating my ice cream, ■John.’ He said, ‘Ho, I want you to come now,’ and she said, ‘There ain’t any use in wasting my money that way.’ He said, ‘Ain’t you coming now?’ and she said, ‘Ho/ and he went on the sidewalk. We finished eating our ice cream and went out there and I stopped oby one of those posts and Quincy Foster went down the street. John Henry came out there in front, and he ran his hand in his left hip-pocket • and got a razor and put it up his sleeve and hung his hand down this way, and when Lula came out he said, ‘Come here, Lula.’ She didn’t say anything to him, but she walked over to him and he said, ‘Why didn’t you come out of there when I told you?’ She said, ‘I told you I was coming as soon as I got through eating my cream.’ He said, ‘You God damn black bitch, I ought to cut your throat. Don’t you believe I’ll do it, you God damn black bitch?’ She didn’t say anything, and he reached up that way and caught her around the head and pulled her to him and cut her, and as he did so, left running.” The other witnesses state he very nearly severed the head from the body, and the deceased expired in a few moments.
+[Rehearing denied May 15, 1913.—Reporter.]
+The court in his charge fully submitted all issues raised by the testimony .adduced on the trial, and therev is no ground stated in the motion for new trial pointing out any error at any stage of the proceedings.
+The judgment is affirmed.
+Affirmed.
