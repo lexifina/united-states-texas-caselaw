@@ -1,0 +1,64 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,090"
+decided: "1952-12-10"
+citations: ["158 Tex. Crim. 296"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Manuel Hernandez v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477265
+cites_cases: ["106 Tex. Cr. R. 75", "110 Tex. Cr. R. 90", "110 Tex. Cr. R. 99", "114 Tex. Cr. R. 106", "115 Tex. Cr. R. 44", "123 Tex. Cr. R. 65", "126 Tex. Crim. Rep. 484", "127 Tex. Cr. R. 526", "202 Ky. 751", "236 S. W. 2d 558", "24 S. W. 2d 844", "261 S.W. 277", "27 S. W. 2d 180", "290 S.W. 1103", "57 S.W. 2d 157", "7 S. W. 2d 551", "7 S. W. 2d 953", "72 S. W. 2d 276", "77 S. W. 2d 685"]
+---
+
+# Hernandez v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is the possession of marijuana; the punishment, five years.
+Appellant’s guilt is made to depend upon the fact that, as a result of a search of his private residence by peace officers operating under the authority of a search warrant, there was found a quantity of marijuana.
+The principal question before this court is the sufficiency of the affidavit and search warrant to authorize the search as against the contention that the name of the owner or occupant of the premises to be searched was not in keeping with the provisions of applicable statutes.
+Under the provisions of Section 16 of Article 725b, Vernon’s P. C., a search warrant to search for narcotics is authorized to be issued under and in accordance with Title 6 of the Code of Criminal Procedure.
+Article 310 is a part of said Title 6. In construing the provisions of that article in Naulls v. State, 115 Tex. Cr. R. 44, 27 S. W. 2d 180, we said:
+“By the express terms of the quoted article the search warrant may be issued when the owner of the premises is unknown. If his name is known, it must be stated, but, if unknown and his identity known, he must be described; but, when neither his name nor identity is known, he may be described as unknown.”
+The instant affidavit and search warrant states that the “name or names and description or descriptions” of the occupant or person in charge or control of the residence were unknown to the affiant.
+Under the statute and authority mentioned (Naulls v. State, supra), such was a sufficient description of the owner or occupant of the premises to be searched. Rathert v. State, 126 Tex. Crim. Rep. 484, 72 S. W. 2d 276.
+Upon the trial of this case, however, one of the affiants to the affidavit testified that at the time of the making of the affidavit he knew that the appellant lived in the house sought to be searched.
+Appellant insists that the knowledge of the name and identity on the part of the affiants to the affidavit at the time of the signing of the affidavit vitiates and renders invalid the search warrant issued upon such false affidavit. In support of that contention, he relies upon the cases of Tillery v. State, 114 Tex. Cr. R. 106, 24 S. W. 2d 844, and McDonald v. State, 127 Tex. Cr. R. 526, 77 S. W. 2d 685.
+The state calls attention to the well-established rule that a trial court may not go behind the affidavit and search warrant to determine the falsity of the facts stated therein in order to invalidate a search warrant valid upon its face.
+This rule was given effect by this court in the case of Ware v. State, 110 Tex. Cr. R. 90, 7 S. W. 2d 551, and Bird v. State, 110 Tex. Cr. R. 99, 7 S. W. 2d 953. A reference to Sheppard’s Citations will show how consistently these cases have been followed, not only by this court but by the civil courts. See Coleman County Country Club, Inc., v. State, Tex. Civ. App., 236 S. W. 2d 558, writ refused.
+Applying the rule stated to the instant case, it is apparent that the proof, in contradicting the terms of the affidavit and search warrant as to the name of the owner or occupant of the premises, should not have been received and, having been received, could not destroy or invalidate the affidavit and search warrant.
+In this connection, attention is called to the fact that the instant affidavit and search warrant were valid and sufficient upon the face of such instruments, because the name of the occupant and a description of him were both stated as unknown.
+Insofar as the Tillery and McDonald cases are susceptible of the construction that testimony may be received upon the trial of the case to contradict facts stated in an affidavit and search warrant those cases are hereby overruled, and the rule announced by the Ware and Bird cases, supra, is hereby expressly reaffirmed.
+■ The instant search warrant being valid upon its face, the trial court did not err in receiving in evidence the facts showing the result of the search thereunder.
+The judgment of the trial court is affirmed.
+
+## Dissent (BEAUCHAMP, Judge)
+
+BEAUCHAMP, Judge
+| dissenting].
+I am of the opinion that under the plain provisions of Title 6, Article 316, Vernon’s Ann. C.C.P., the evidence discussed in the majority opinion rendered invalid the affidavit and the search warrant issued under it. The cases of Tillery v. State, 114 Tex. Cr. R. 106, 24 S.W. 2d 844, and McDonald v. State, 127 Tex. Cr. R. 526, 77 S.W. 2d 685, hold in accordance with my view and should not be overruled at this time.
+I do not deem it important to go into detail in a dissenting opinion. Under our Constitution and the laws passed in pursuance thereof for safeguarding against unreasonable search and seizure of privately owned property, particularly the private residence, the rule should not be relaxed to any degree. The officers in this case knew the party and knew that he was the occupant of the house searched. There is no excuse for their failure to make the allegation and they admitted that their statement in the affidavit was not true. I cannot join in condoning their action. I respectfully dissent.
+
+## Rehearing (BELCHER, Judge.)
+
+ON MOTION FOR REHEARING.
+BELCHER, Judge.
+Appellant again strenuously insists that we erred in holding that the trial court cannot go behind the affidavit for a search warrant which, on its face, complies with the law and show that it is invalid.
+Our original opinion properly disposed of this contention and nothing of value could be added by further discussion.
+It is further insisted that the affidavit and warrant are defective in that two persons are named therein and signed the affidavit and that many times therein the words “affiant” and “his” are used denoting one person for the reason that the same is uncertain and indefinite.
+The examination of each instrument as a whole and their context point to the fact that they were executed by two persons. The sufficiency of the instruments is supported by the opinion of Judge Morrow in Wilson v. State, 106 Tex. Cr. R. 75, 290 S.W. 1103, 1104:
+“* * * The use of the word ‘his’ in the caption does not give character to the affidavit, but the whole context, including the jurat and signatures, is to be considered. Viewed in that light, the writing leads definitely to the conclusion that it was not made by one person alone but by two persons.”
+Appellant urges that the search warrant does not show on its face to have been issued by a magistrate of Howard County, in that, the space usually provided for naming the county in the jurat on the warrant is left blank, therefore the warrant is insufficient.
+This omission in the jurat of the warrant is not fatal. This exact contention was before this court in Alexander v. State, 123 Tex. Cr. R. 65, 57 S.W. 2d 157, where we held:
+“* * * a search warrant may be issued by a magistrate when a written, sworn complaint is made to him, which contains four requisites, named. It is not laid in said article as a requirement that such written complaint be dated, or that the name of the precinct or county of the residence or jurisdiction of the magistrate be set forth. If we look to article 415, C.C.P., it provides that an affidavit for information may be made before any officer authorized to administer oaths; while article 23, Rev. Civ. Stats. 1925, defines an affidavit as a statement in writing of a fact or facts signed by the party making it, and sworn to before some officer authorized to administer oaths. We have no statutory definition of ‘affidavit’ in our Penal Code or Code of Criminal Procedure.”
+*********
+“* * * The same thing was held by the Court of Appeals of Kentucky in the well-considered case of Blackburn v. Com., 202 Ky. 751, 261 S.W. 277, in which appears the apparently sound statement that the jurat is not part of the affidavit, under the great weight of authority, unless made so by statute. Nowhere in our statute is it required that the date be inserted in the jurat, or that it contain the number of the precinct or name of the state of the jurisdiction.”
+Appellant contends that the averments in the affidavit of grounds to show probable cause comes from two sources, and are indefinite and confusing and cannot support the issuance of the search warrant.
+The affidavit, when considered as a whole, shows that the affiants had reason to believe and did believe the facts therein stated, because they were so informed by two credible persons.
+We remain convinced that the affidavit was sufficient and supports the issuance of the warrant.
+Motion for rehearing is overruled.
+Opinion approved by the Court.
