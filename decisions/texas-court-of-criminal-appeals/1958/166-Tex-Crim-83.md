@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,714"
+decided: "1958-04-09"
+citations: ["166 Tex. Crim. 83"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lewis Anthony Reynolds v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2617268
+cites_cases: ["131 Texas Cr. Rep. 347", "157 Texas Cr. Rep. 176", "247 S.W. 2d 561", "98 S.W. 2d 211"]
+---
+
+# Reynolds v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for burglary with a prior felony conviction for an offense of like character alleged for enhancement; the punishment, confinement in the penitentiary for 12 years.
+The state’s testimony shows that the prosecuting witness, Joe Mendelovitz, owned and operated a wholesale beer and grocery business located at the corner of Jensen Drive and Pear Street in the city of Houston. On the night of August 20, 1957, Mr. Mendelovitz closed his business around 11:00 P.M. after checking to see that all windows and doors were locked. Around 4:20 A.M. the following morning Officer Ontiveros observed that a door to the building was open and upon investigation discovered that the building had been entered through the front door where a padlock had been torn off. Upon being called, Mr. Mendelovitz returned to the store around 5:00 A.M. and found that certain property and merchandise had been taken from the building, consisting of approximately twenty-five cartons of cigarettes, six boxes of cigars, five slices of ham, four pounds of bacon, a case of Jax beer and some pennies. An hour later at the police station, upon inspecting the contents of three beer cases, which consisted of cigarettes, cigars and other merchandise recovered by the police, Mr. Mendelovitz was able to identify the ham missing from his store by his handwriting on the wrapping and also a slip of paper found with the cigarettes which was in his handwriting.
+The testimony further shows that on the early morning of August 21, 1957, the appellant stopped a taxi on Jensen Street and after getting in directed the driver to drive to Pear Street and stop behind the building which was burglarized. After the taxi stopped behind the building appellant got out and loaded three beer cases in the back, telling the driver that he had “two cases of beer and some lunch meat and stuff for a picnic.” Appellant then directed the driver to take him to the San Felipe Courts. Upon arriving at the Courts appellant took the three beer cases from the car, and after sitting them on the ground proceeded to drink a bottle of beer which he had taken from one of the cases, whereupon Officers Richcreek and McRea arrived at the scene and placed him under arrest.
+An examination of the three beer cases by the officers revealed that one case contained twenty-three bottles of Jax Beer and the other two contained five slices of ham, three pounds of bacon, a bent screw driver, an inventory slip in the handwriting of Mr. Mendelovitz and various cartons of cigarettes and boxes of cigars of the same kind and quantity as were missing from the building. A search of the appellant at the time also revealed that he had, in his pocket, 149 pennies.
+The state offered in evidence certified copies of the judgment and sentence entered in the Criminal District Court No. 2 of Harris County, Texas, on January 18, 1954, in Cause No. 69,775, styled the State of Texas v. Lewis Anthony Reynolds wherein the defendant was convicted of the offense of felony theft and sentenced to two years in the penitentiary. Proof was made by the state that the appellant was the same person as the defendant convicted in said cause.
+Appellant did not testify.
+Four informal bills of exception appear in the statement of facts wherein appellant complains of certain rulings of the court on the admission of evidence offered by the state.
+Bill No. 1 relates to the action of the court in permitting the taxi driver, Johnson, to testify as to the kind of cases appellant placed in his taxi on the night in question. Appellant objected to the testimony on the ground that the witness had testified that he did not know at the time the cases were placed in the taxi what kind they were and was testifying to something he found out later which was therefore hearsay. The witness’s testimony shows that his description of the three cases was based upon his observation of them after it became daylight and when they were being opened and examined by the officers. Clearly his description was not based upon hearsay but upon his own personal knowledge. No error is shown in the bill.
+By Bills of Exception Nos. 2 and 3 appellant complains of the action of the court in admitting in evidence the cartons of cigarettes and slip of paper taken from the beer cases over his objection that the articles had not been identified as having been taken from the burglarized premises. The record reflects that before the articles were admitted in evidence Officer McRea positively identified the cigarettes by his initials on the box and its contents as the cigarettes taken from appellant. It was further shown that the cartons of cigarettes were of the same brands and quantity as the cigarettes missing from the burglarized premises. The slip of paper was identified as having been taken from appellant and positively identified by the owner of the burglarized premises as being in his handwriting. Such identification was sufficient to authorize the admission of the articles in evidence; hence no error is shown.
+Bill of Exception No. 4 presents appellant’s objection to the introduction in evidence of the certified copies of the judgment and sentence in the prior alleged conviction and certain penitentiary records on the ground that the style and number of the case was not shown and the state was not able to show that it was the same or a similar offense. An examination of the judgment and sentence offered in evidence reflects the number and style of the case and shows that the conviction was for felony theft. Felony theft and burglary with intent to commit theft, the offense charged against appellant, are offenses of like character and of the same nature. Sasser v. State, 131 Texas Cr. Rep. 347, 98 S.W. 2d 211 and Davis v. State, 157 Texas Cr. Rep. 176, 247 S.W. 2d 561. The bill of exception is overruled.
+Finding the evidence sufficient to support the conviction and no reversible error appearing;
+The judgment is affirmed.
+Opinion approved by the Court.
