@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "10394"
+decided: "1926-11-10"
+citations: ["107 Tex. Crim. 265"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Aubrey Lee Curry v. The State."]
+source_url: "https://static.case.law/tex-crim/107/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5137045
+---
+
+# Curry v. State
+
+## Majority (BAKER, Judge. —)
+
+BAKER, Judge. —
+The appellant was convicted in the County Court of Grayson County of being a delinquent child, and his punishment assessed at confinement in the State Training School for Boys at Gatesville for an indeterminate period not to exceed one year.
+The record discloses that the appellant was charged by information with aggravated assault upon W. L. Mitchell, a school teacher, by striking him with a meat hook, same being a deadly weapon.
+Counsel for appellant complains of that portion of the court’s charge wherein the court charged the jury that in the event they found the appellant guilty, to assess his punishment at confinement in the State Training School for Boys at Gatesville, Texas, for an indeterminate period, etc. Appellant’s counsel objected and excepted to said charge, and contends that it was error for the court, in charging the jury, to specify the particular place for appellant’s confinement in the event they found him guilty, and in this connection contends that the court should have left the place of confinement for the determination of the jury, under Art. 1091, C. C. P., which is as follows:
+“In any proceeding in any juvenile court, the court or jury may substitute as a place of commitment any detention home, parental school, or school for girls or boys, established by any county, and the further disposition of the juvenile shall be governed as provided for by the laws relating to delinquent children.”
+After a careful examination of this record, we have reached the conclusion that the court was in error in confining the jury to the State Training School for Boys at Gatesville, and should have submitted to the jury a charge embracing all of the places provided for delinquent children and left it for the jury to say in what place provided for by law the appellant should be confined, if guilty. In construing Art. 1091, supra, and the other articles in the C. C. P. pertaining to this subject, we are forced to take into consideration Art. 2338 of the 1925 Revised Civil Statutes in order to arrive at a better understanding of what the Legislature meant relative to the trials of delinquent children.
+For the error above discussed, we are of the opinion that the judgment of the trial court should be reversed and remanded, and it is accordingly so ordered.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
