@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "727"
+decided: "1895-05-15"
+citations: ["34 Tex. Crim. 470"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Adams v. The State."]
+source_url: "https://static.case.law/tex-crim/34/cases/0470-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4481436
+cites_cases: ["20 S. W. Rep., 926", "31 Texas Crim. Rep., 589"]
+---
+
+# Adams v. State
+
+## Majority (HURT, Presiding Judge.)
+
+HURT, Presiding Judge.
+The appellant in this case was convicted of theft of a horse, and given a term of five years in the penitentiary, and from-the judgment and sentence of the lower court he prosecutes this'appeal. ■ • .
+The appellant assigns as error the failure of the court to charge on circumstantial evidence. The facts of the case show that the horse in question was placed in a pasture. He was seen by- the witness-Lowe on the day of the alleged theft, just outside of said - pasture, near a road which led along the fence; - and the defendant was just ahead of the colt, which seemed to be following him; He told said- witness, as he passed him, that the colt had just jumped out of the pasture, and that he was following him, and that he was going to drive, him back. At some distance further on, in the same road, which led along the pasture fence, he was met by the witness Counts, and was then driving said colt along the road. Defendant offered to sell the said colt to the witness Counts. He told him that the colt had the distemper, and that he had been riding him, and he was afraid it would not hold out to make the trip he was on. Witness told him he had no use for it in its then condition, and did not care to purchase it. Appellant insisted on selling it, and finally witness asked him how much he wanted for it. Appellant said $2.50. Witness declined to pay that much, and finally witness said he would give $2 for it, and appellant accepted the proposition, and sold him the colt for $2. Defendant also told witness that he had raised the colt, and made him a bill of sale to the colt for the sum of $2. This was the testimony regarding the taking of the colt. If said colt had jumped out of the pasture, as stated by appellant, said witness Lowe saw him at or about the time he was in the act of taking possession of the colt, and the witness Counts met him in a very short time thereafter. But, if it be conceded that no witness saw him in the very act of taking possession of said colt, yet the testimony places defendant' in juxtaposition to. the main fact, which is the act of taking in this case, so that the omission to give the charge on circumstantial evidence was not calculated to injure defendant’s rights. Baldwin v. The State, 31 Texas Crim. Rep., 589; Montgomery v. The State (Texas Criminal Appeals), 20 S. W. Rep., 926.
+The appellant in this case put in issue his insanity, and he complains that the court improperly admitted the testimony of the deputy sheriff of Hill County, as to the acts and conduct of the defendant while in jail on said issue, and also that he read letters written by defendant while he was in jail, and stated, from his acts and conduct and said letters, in his opinion, defendant was at the time of sound mind. Defendant objected to the testimony, on the ground that he was a prisoner and under arrest, that he was not warned by the officer that his acts and expressions would be used against him, and also because said letters were not produced or their loss accounted for in any way. It will be observed that no specific act or declaration of the defendant was adduced in evidence, nor were the contents of any letter alleged to have been written by defendant shown in evidence. The witness in this case was a nonexpert, and was not authorized to give in evidence his opinion as to the sanity of the defendant, unless he had previously disclosed the facts upon which he predicated his opinion as to the sanity or insanity of the defendant. The objection in this form was not urged, and as there was no act or declaration adduced in evidence while the defendant was in jail, it is not necessary to pass upon this phase of the objection, though as to this we think, upon this collateral issue, it not being a confession as to the crime charged against defendant, it would have been admissible to show acts or declarations of defendant while in jail, upon this issue. If the contents of any letter had been offered in evidence, an objection thereto should have been sustained by the court, unless the loss or destruction of such letter had been previously shown. As the bill does not show the contents of any letter were adduced, it is not tenable on this ground. This is the only bill of exceptions, and the questions raised in the motion for new trial do not require notice. The charge of theft was proved against defendant, and while there was testimony pro and con as to his sanity at the time, yet, under a fair charge on that subject, the jury found that he was then of sane mind.
+There being no errors in the record, the judgment of the lower court is affirmed.
+Affirmed.
+Judges all present and concurring.
