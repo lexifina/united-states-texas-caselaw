@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "13331"
+decided: "1931-01-28"
+citations: ["117 Tex. Crim. 243", "35 S.W.2d 148"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["N. H. McKinley v. The State."]
+source_url: "https://static.case.law/tex-crim/117/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5186687
+cites_cases: ["10 S. W. (2d) 559", "10 S.W.(2d) 559", "103 Tex. Cr. R. 182", "103 Texas Crim. Rep., 182", "105 Tex. Cr. R. 101", "105 Texas Crim. Rep., 101", "107 Tex. Cr. R. 383", "107 Texas Crim. Rep., 383", "110 Tex. Cr. R. 409", "110 Texas Crim. Rep., 409", "163 S. W. 58", "163 S. W., 58", "168 S. W. 122", "168 S. W., 125", "280 S. W. 798", "280 S. W., 798", "287 S. W. 53", "287 S. W., 53", "296 S. W., 545", "298 S. W. 545", "72 Tex. Cr. R. 410", "72 Texas Crim. Rep., 410", "74 Tex. Cr. R. 269", "74 Texas Crim. Rep., 269"]
+---
+
+# McKinley v. State
+
+## Majority (CALHOUN, Judge.)
+
+CALHOUN, Judge.
+— Offense, the unlawful transportation of intoxfi cating liquor; penalty, confinement in the penitentiary for two years.
+Witnesses for the State testified that on or about July 22, 1929, appellant and one R. D. Butler were driving on North Main Street in the City of Paris, Texas, in a Ford Sedan with one light burning. Testimony was offered showing that the car occupied by appellant and his. companion struck a Ford Roadster operated by one John Rushing. It was shown that Butler was driving the car at the time and that it appeared that he was drunk. Witness Gus Cothran testified that he was a motorcycle policeman in the City of Paris and was off duty at the time of the accident, which occurred just as he was turning in his driveway on North Main Street. He looked at the car of appellant to see how badly it was damaged and detected a strong odor of whisky and upon looking in the car found a case of half-gallon fruit jars in the car between the back and front seat on the floor. Three of them were broken and nine were full. Appellant’s companion, R. D. Butler, testified that he had been drinking and that he was subject to epileptic spells and did not remember much about the accident, and that the car occupied by himself and appellant belonged to his father, G. R. Butler, who testified that he had loaned same to his son and appellant to go to Boswell so that his son could see about» a timber job.
+The appellant did not testify and did not offer any evidence.
+The appellant’s first bill of exception complains of the court’s action in refusing to instruct a verdict of not guilty. We think the evidence was sufficient to support this verdict.
+In bill of exception No. 2 complaint is-made of the action of the trial court in refusing to instruct the jury not to consider the testimony of the witness, Gus Cothran, as to an alleged statement appellant made to the witness after arrest. There is nothing in this bill, or objection to the testimony, showing that the appellant was under arrest at the time he made any such statement. There is nothing in the bill to verify the truth of the objection and a mere statement of a ground of objection in a bill of exception is not a certificate of the judge that the facts which form the basis of the objection are true. It merely shows that such an objection was made, and the appellant did not incorporate so much of the evidence in the bill as would verify the truth of his" objection. Therefore it is not subject to consideration under the authorities. Coleman v. State, 110 Texas Crim. Rep., 409, 10 S. W. (2d) 559; Arnold v. State, 74 Texas Crim. Rep., 269, 168 S. W., 125; Fisher v. State, 107 Texas Crim. Rep., 383, 296 S. W., 545; Stanford v. State, 103 Texas Crim. Rep., 182, 280 S. W., 798. The court qualified said bill by saying that there was no testimony in the record as to any conversation between the witness Cothran and the defendant and no objection was made to any such testimony and that the testimony itself was a part of the res gestae and as qualified, the bill shows no error.
+Bill of exception No. 3 is nothing more nor less than an objection to the overruling of motion for new trial.
+Bill of exception No. 4 complains of the charge of the court charging on the law of accomplices, as relating to the witness R. D. Butler. There is nothing to show that the appellant made any exception or objection to the court’s charge nor does the bill show that the charge was excepted to in this matter before it was read to the jury and after the close of the evidence. The bill is wholly indefinite, especially as to the point of time when the objection to the charge was made. It is true that Art. 670, P. C., provides that the purchaser, transporter, or possessor of any of the liquors prohibited herein shall not be held in law or in fact to be an accomplice, when a witness in any such trial, and therefore the witness R. D. Butler was not in the transporting of said liquor an accomplice and it was not necessary for the court to charge that he was an accomplice, but in doing so an additional burden was put upon the State and was therefore more favorable to appellant than he was entitled to and therefore is not ground for reversal. Travelstead v. State, 105 Texas Crim. Rep., 101, 287 S. W., 53; Neuvar v. State, 72 Texas Crim. Rep., 410, 163 S. W., 58.
+We note that the verdict and judgment assess appellant’s punishment at two years in the penitentiary, while the sentence assesses his punishment at an indeterminate term of not less than one year and not more than five years. The sentence will therefore be reformed to conform with the verdict and judgment and the punishment fixed at an indeterminate term of not less than one year and not more than two years, and as so reformed, the judgment will be affirmed.
+Reformed and affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
