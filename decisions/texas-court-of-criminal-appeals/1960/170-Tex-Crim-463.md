@@ -1,0 +1,65 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,360"
+decided: "1960-11-16"
+citations: ["170 Tex. Crim. 463"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morris Kogan v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2628785
+cites_cases: ["14 S. W. 390", "29 Tex. App. 101", "321 S.W. 2d 591", "45 S.W. 705"]
+---
+
+# Kogan v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is felony theft; the punishment, 2 years.
+The indictment alleged the theft of money of the United States of America, of the value of over $50, from Bill James.
+A similar description of the property alleged to have been stolen was held to be sufficient in Mason v. State, 167 Tex. Cr. Rep. 516, 321 S.W. 2d 591.
+Bill James was the evening clerk at the Sunset Lodge in Abilene. M. B. Smith was another employee, and both worked in the office, rented rooms and handled the money which was kept in a cash register on a table back of the counter on registration desk.
+James left Smith in the office when he went to show some guests a room. Smith then left for a similar purpose.
+There was $130.00 in the cash register drawer, which was closed when the clerks left the office.
+James was the first to return. As he arrived at the office door from the utility room, appellant was on the floor in front of the cash register which was jammed, and the drawer of which was open. He was picking up money from the floor with one hand and putting it in his coat pocket with the other.
+Appellant, upon seeing James at the door, approached him and said something to the effect that they should not leave the cash register unguarded. James told appellant that didn’t give him any right to rifle the cash register.
+Appellant said he had made a mistake and wanted to give money back, and James told him to lay it on the table, and he did.
+Appellant said he was going, but James told him he was not. Smith arrived as James and appellant were at appellant’s automobile which was parked at the office. He asked what was the matter and James said “This man was rifling the till.”
+Smith went into the office to notify the officers by telephone. Appellant followed him and again said he had made a mistake and asked Smith to please not “call the law.”
+While the call was being made appellant again said he was going. James, having satisfied himself that appellant was not armed, attempted to prevent his leaving by getting a night stick or bat from behind a door, but appellant pushed him aside and drove away. He was arrested shortly thereafter.
+In addition to saying he had made a mistake, appellant stated that he had the money to pay for a room.
+The foregoing is the state’s version of the facts as shown by the testimony of James and Smith.
+Appellant testified. His version was that he drove into the driveway of the Lodge and stopped at the office, intending to spend the night. He entered the office, found no one there and came outside immediately. He saw Smith at a room of the Lodge and was waiting for him to come to the office. He waited several minutes and then entered the office a second time. He noticed that the cash register drawer was open and saw money on the floor in front of it. His first reaction was to leave “since I did not know what was going on or why and I figured I had stumbled into a pretty bad predicament.” Seeing the money on the floor he “decided to pick the money up and put it back in the cash register, which I attempted to do. — I had the money in my hand and I was in the process of putting it back into the cash register when I noticed — that somebody was coming.”
+Appellant denied that he said he had made a mistake and denied that he put any of the money in his pocket. He testified that he told Mr. James “Look, mister, I am no thief. I only came here to rent a room.” His explanation as to why he did not further explain his possession of the money was that he was not asked for an explanation and was given no chance to explain.
+The evidence shows little or no opportunity for anyone to have entered the office, opened the cash register and scattered some of its contents on the floor, leaving empty handed, between the time Smith left the office and appellant arrived. A large portion of the time Smith was absent appellant was at or in the office.
+The theory that someone other than appellant opened the cash register drawer cannot be accepted as a reasonable outstanding hypothesis.
+Appellant testified that he was a printer; that he had been doing mostly teletype setting and proof reading work, mainly for newspapers; that he had about $78.00 in his pocket and $304.00 in his brief case in the trunk of his car, and that the car was his and was paid for. He further testified “I had all my worldly possessions in the trunk of the car” — clothes, suit cases, two pistols, photographic equipment, camera which retailed for $210.00 without the lense, latest model Cannon; radio and tools in the car.
+W-2 forms attached to appellant’s Income Tax returns for 1958 and 1959 were offered “to show what type of financial condition he is in.”
+In view of appellant’s testimony that all of his worldly possessions were in the automobile, any error there may have been in excluding the forms showing the amounts withheld from his wages by various employers was harmless.
+Appellant testified further that he had been gainfully employed prior to leaving California and had money in a Federal Savings and Loan Association in Philadelphia, but the court ruled that the amount of money was not shown to be material.
+In the absence of any showing in the record what appellant’s testimony as to the amount would have been, no harmful error is shown by such ruling.
+The requested charge which was refused does not show to have been timely presented and no execution was reserved to the court’s ruling, hence the claimed error is not before us for review.
+On cross-examination appellant was asked: “Have you ever been convicted of a felony offense in this state or any other state?” Objection was made, and after consultation between the court and counsel, appellant was asked and answered in the negative without objection “Have you been convicted of a felony offense in this state or any other state within the last eight years ?”
+There is no showing that the prosecuting attorney acted in bad faith in proponding the question. We see no error.
+We overrule the contention that the evidence is insufficient to show the offense of theft of the money from the cash register. The jury chose not to accept the theory of the defense, and the evidence, viewed in the light most favorable to the verdict, sustains the jury’s finding.
+The jury was not bound to accept as true appellant’s testimony that he was familiar with cash registers like that in the office and, had he opened it, it would not have been in the condition in which it was found.
+Under the state’s version appellant was interrupted while taking money from the open drawer of the cash register. The value of the money in the drawer, and not that which he had in his hand, controls in determining whether the offense was a felony or a misdemeanor. Harris v. State, 29 Tex. App. 101, 14 S. W. 390.
+The judgment is affirmed.
+
+## Dissent (MORRISON, Presiding Judge,)
+
+MORRISON, Presiding Judge,
+(Dissenting).
+I am of the opinion that the court erred in not permitting appellant to introduce into evidence copies of his income tax returns. They were clearly admissible on the issue of his absence of motive. 22 C.J.S., Sec. 614, p. 934, and Sims v. State, 45 S.W. 705.
+I respectfully dissent.
+
+## Rehearing (BELCHER, Judge)
+
+ON APPELLENT’S MOTION FOR REHEARING
+BELCHER, Judge
+The record has again been examined in the light of appellant’s motion for rehearing, and it is concluded that the case was properly disposed of on original submission.
+The motion is overruled.
+Opinion approved by the Court.
