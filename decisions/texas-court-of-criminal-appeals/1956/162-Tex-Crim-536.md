@@ -1,0 +1,55 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,984"
+decided: "1956-02-01"
+citations: ["162 Tex. Crim. 536"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Laura Perkins v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2464502
+---
+
+# Perkins v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for driving a motor vehicle upon a public street and highway while intoxicated; the punishment, two weeks in jail and a $50 fine.
+The sole question presented is the sufficiency of the evidence to sustain the conviction.
+A collision between the automobile driven by appellant and an automobile operated by one B. W. Butts occurred about 6 P.M. on January 7, 1955, at the intersection of “Hillcrest and Meadowbrook,” in Dallas County, Texas.
+Butts testified that he was proceeding in a northerly direction on Hillcrest and the street he was turning into was South Meadowbrook, and that the car driven by appellant “coming off South Meadowbrook” ran into his car broadside.
+We find the evidence sufficient to sustain the finding that the street upon which appellant drove her automobile was a public street.
+As to her condition of sobriety, a fact issue was presented. Appellant testified that she had consumed no intoxicating liquor on the day in question and was sober. She offered a witness who testified that he saw her at her home a few minutes before the accident; that she was sober and he saw nothing which would indicate that she had been drinking.
+The state’s witness Butts declined to express an opinion on the question of her condition of sobriety. He testified that immediately after the collision, at the appellant’s request, he went to call an officer, and that when he returned to the scene of the accident Officer Carroway, who had arrived, gave him a flashlight and assigned to him the duty of directing traffic; that he did not get near enough to her to smell her breath, but did observe that when Officer Carroway asked for her driver’s license she “came up” with a check for a grease job; that he heard Carroway say “A woman 57 years old and she is drunk as a coot”; and that thereafter he observed that she was leaning on the officer who took her to the police car.
+O. V. Carroway, Patrolman for the city of Garland, who resided “on Hillcrest” saw the cars involved in the collision while en route to his home. He testified that he asked to see appellant’s operator’s license, and she presented a registration or title certificate and “a certificate for a grease job;” that he found her operator’s license among the papers in the seat beside her.
+This witness also testified that he detected the odor of whisky in an empty “coke” bottle he found on the floor of the car.
+The testimony of this witness as to appellant’s intoxicated condition includes the following:
+“Q. Officer, have you had an opportunity to observe few or many intoxicated people? A. Quite a few sir.
+“Q. And do you have an opinion in this case, as to whether or not this woman was intoxicated? A. There is no question in my mind sir.
+“Q. That she was intoxicated? A. That she was drunk, yes sir.
+“Q. And did you smell her breath? A. Yes, sir.
+“Q. What did it smell of? A. Smelled of alcohol.
+“Q. Would you say it smelled weak or strong of alcohol? A. Rather strong.
+“Q. What about her body movements, did you have an opportunity to observe those? A. Only as the other officer was assisting her to the car, because she was sitting under the steering wheel of her car all of this time.
+“Q. And what was that movement, as the other officer assisted her to the squad car? A. Well, she was leaning on him; he was supporting her pretty good, you know, in taking her to the squad car. The squad car was across the street from her car.”
+Marlin Gafford, another police officer of the city of Garland, responded to a call to assist Officer Carroway, and when he arrived appellant was still seated' in her car. He testified that he told her he was going to have to put her in jail, and then testified as to her condition as follows:
+“Q. Why did you feel like you were going to have to put her in jail? A. Sir, she was drunk.
+“Q. How do you know she was drunk? A. Sir, I have handled---I have been a peace officer since 1940 and I have handled a considerable amount of drunks.
+“Q. Well, did you have an opportunity to smell her breath? A. Yes sir.
+“Q. And how did it smell to you? A. It had the odor of liquor on it sir.
+“Q. All right sir, did she get out of the car then? A. Yes, I helped her out of the car, took hold of her arm and assisted her.
+“Q. Was that necessary to help her out? A. Yes sir.
+“Q. Did you have to assist her? A. Yes sir, I assisted her out of the car and into my squad car.”
+“Q. Now then, Officer, you have been a peace officer since 1940. I’ll ask you in what condition did you find her to be, explain her condition to us? A. Well sir, I would say that she was obviously drunk.
+“Q. All right sir, and you smelled her breath. How about her eyes or speech? A. Her speech was impaired, she couldn’t talk too well, her tongue seemed to be thick and she was unsteady on her feet.”
+“Q. Officer, I will ask you if you had known Mrs. Perkins on any other occasion so that you would know if she was speaking differently? A. Yes sir.
+“Q. And how is it you had known her before? A. She is a friend of the family sir.
+“Q. All right sir, how long have you known Mrs. Perkins? A. For the past twenty years sir.”
+Appellant’s brief suggests that weight should be given to the fact that she was not given a blood test after she was taken to jail.
+Assuming that her testimony may be construed as showing that she requested Officer Gafford to provide such test, he was recalled and denied that any such request was made.
+It was within the province of the jury to pass upon the credibility of the witnesses and the weight to be given their testimony.
+The jury, in discharge of such duty, resolved the disputed issue of fact as to appellant’s intoxication in favor of the state, and their findings will not be disturbed.
+The judgment is affirmed.
