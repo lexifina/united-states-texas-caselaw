@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "4454"
+decided: "1917-04-25"
+citations: ["81 Tex. Crim. 493"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. Jonks v. The State."]
+source_url: "https://static.case.law/tex-crim/81/cases/0493-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4730950
+cites_cases: ["68 Texas Crim. Rep., 149", "71 Texas Crim. Rep., 7"]
+---
+
+# Jonks v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+There are several questions suggested for revision, but under the view we take of the case but one is necessary to be considered as it disposes of this appeal as presented.
+The information reads as follows: “Personally appeared before me the undersigned authority, J. S. Dixon, who, after being duly sworn, deposes and says that L. Jonks in the County of McLennan and State of Texas, heretofore on or about the 8th day of November, A. D. 1916, did then and there unlawfully and seriously threaten to take the life of a human being, towit, J. S. Dixon, and did then and there unlawfully and seriously threaten to inflict serious bodily injury upon a human being, towit, J. S. Dixon, against the peace and dignity of the State.” This information is not sufficient. The question having been passed upon several times we deem it unnecessary to discuss it but cite the authorities which are in point: Zinn v. State, 68 Texas Crim. Rep., 149, and Compton v. State, 71 Texas Crim. Rep., 7.
+The information being insufficient the judgment is reversed and the cause remanded.
+Reversed and remanded.
+
+## Rehearing (DAVIDSON, Presiding Judge.)
+
+on beheaeing.
+June 13, 1917.
+DAVIDSON, Presiding Judge.
+On a former day of the term the judgment herein was reversed and remanded. Since the rendition of that opinion the State has filed a motion for rehearing supplying an. information, which seems to be in accord with the law. The motion for rehearing is granted and the record passed on as presented.
+We think it ought to be stated that many of the records brought before this court recently have been sent up in a very negligent and careless manner. Papers have been transcribed wrongly, and some omitted. Defective records in all forms have been before this court recently, and it may be necessary, unless this matter be changed and the records attended to as they should be, and made up according to the rules, that this court may be called upon to administer some discipline. We calf attention to this and hope the clerks will not be negligent hereafter.
+This case is based upon the proposition that appellant made serious threats to kill John S. Dixon. The evidence shows that appellant, a boy about nineteen years of age, had bought a buggy supposedly on the installment plan or on credit, and had not fully paid for it. The seller had,instituted a sequestration case and Dixon and another party went out to levy the writ of sequestration and take the buggy. When they went to the residence of appellant’s father to get the buggy appellant was down in the field at work. He saw them and came to where they were, and being informed -they intended to take the buggy, he told them they could not do so. This brought trouble between them, the State contending that he threatened to kill the officers, or words to that effect. Sharp words occurred, and Dixon informed him that he would take the buggy, and that if he, appellant, wanted to use Ms gun he had better get it as he, Dixon, was armed. He says appellant went into the house. When he came hack he had something in his pocket. He says whatever this was was not seen, but the theory of the State was that it was supposed to be a pistol. The State’s theory was that during this discussion appellant made the threat that if Dixon undertook to carry the buggy away he "would pump him full of lead.” Appellant’s theory is that he did not threaten to kill them on account of the buggy, but he protested against them taking the buggy under the circumstances, and this led to trouble, and Dixon hit him two or three times. That he then told him if he did not quit beating him he would pump him full of lead. Appellant was a country boy about nineteen years of age, and had bought this buggy on a -credit, but had not paid for it, and this sequestration suit was brought to take the buggy away from him and carry it to town. The sequestration writ was subsequently quashed and the buggy returned to the boy.
+The court seemed to have tried this case largely upon the theory it was a resistance of appellant to the execution of the sequestration writ and not threats to take life. Whatever threats may have been made, whether conditional or not/ they grew out of the fact that the parties were undertaking to execute or were executing the sequestration writ and taking the buggy away and attendant facts and circumstances.
+After a careful reading of the facts in the case we are of opinion that they are not sufficient to justify the verdict of the jury. The State relied upon this state of case as made by the witness Dixon: While he had the buggy or about the time he was taking it appellant came walking up and said, "What are you going to do with my buggy ? and I told him was going to take it to town. I showed him the writ and gave him a citation. He would not take the citation and I stuck it under his suspenders. He says you can’t take that buggy off, and I said I certainly will, that I had a writ for it and was going to take it. He said, I will go and get my gun and kill you before you shall take it. I told him to go get his gun that I already had mine. He was in his shirt sleeves, and he turned and went into the house, and in a few minutes he came out with his coat on, and with something sticking up in his hip pocket. He then said you had just as well cut it loose, if you don’t I will pump you full of lead. I made a grab at him and just struck the lapel of his coat with my fingers and he run back into the yard; about that time I heard a woman scream, and they came running from everywhere. Some came out from the house and some from behind the house and some from the field; there must have been twelve or fifteen people come running up around me.” This is a general statement, and as strong as the State put its case. This is the party whose life was threatened. This witness testified and the facts all. show without contradiction that this was the State’s case. The defendant denied these things, and said he was struck by Dixon and finally knocked down, and it was at that time he said he would pump him' full of lead if he did not quit beating him; that he had no pistol, and that he did not get a pistol when he went in the house. This was but a conditional threat. It was not executed nor sought to he executed. If the State is right and he had the pistol he could have done so. If he was right about it he had no jústol and could not do anything. It was not a future threat but it was a threat now to be executed and at the time it was made. He did not execute it or attempt to execute it, and the evidence, in the judgment of the writer, excludes the idea that it was seriously made to kill, and he is not willing under this record to permit this conviction to stand.
+The State’s motion for rehearing is granted and the judgment now reversed and remanded on questions presented by appellant.
+Reversed and remanded.
