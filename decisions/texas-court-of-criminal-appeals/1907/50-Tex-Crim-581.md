@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3658"
+decided: "1907-01-30"
+citations: ["50 Tex. Crim. 581"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Earl Noble v. The State."]
+source_url: "https://static.case.law/tex-crim/50/cases/0581-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2369039
+cites_cases: ["46 Texas Crim. Rep., 412"]
+---
+
+# Noble v. State
+
+## Majority (HENDEBSON, Judge.)
+
+HENDEBSON, Judge.
+Appellant was convicted of violating the local option law, and his punishment assessed at a fine of $25, and twenty days confinement in the county jail; and prosecutes this appeal.
+Appellant reserved a number of bills of exception to the ruling of the court, but from the view we take of the case it is unnecessary to notice but one. On the trial of the case, after the jury was impaneled and sworn, the indictment was read to them, but no plea was entered thereto. Appellant’s counsel had knowledge that he had not pleaded to same, but it appears that neither the county attorney nor the court had any knowledge of the failure of appellant to enter his plea to the charge. This matter was not called to the attention of the court until a motion for a new trial was made, when appellant presented said matter in his motion, and in connection therewith took a bill of exceptions to the failure of the court to have appellant enter his plea. This bill is supported by the affidavits of appellant and his attorneys, and is not controverted by the State, the court certifying and explaining said bill as follows: “That the State’s attorneys made no contest of the fact that the said Earl Noble had not plead in said cause, but it was conceded, and the court finds as a fact from the said evidence so presented, that the said Earl Noble did not plead, and was not called upon to plead in said case; and the docket fails to show that he entered any plea, or was called on to enter plea. Neither does the judgment rendered in said case show that the said Earl Noble plead or was called on to plead.
+“Upon hearing the said motion for a new trial and the said grounds thereof, setting up the fact that the said Earl Noble had failed to plead, and the affidavits atached to said motion as a part thereof, the court is of the opinion, notwithstanding the fact that the said Earl Noble had not plead in said case, but went through the trial of the same knowing that he had not plead, that the said motion for a new trial should be in all things overruled, and the same is overruled hereby. To which action and ruling of the court the defendant Earl Noble then and there in open court excepted and here now tenders this bill of exceptions No. 1, to the action of the court in overruling said motion for a new trial, and asks that the same be allowed as a part of the record of this case, which is accordingly done.” It may also be remarked that the judgment fails to show, in accordance with said bill, that any plea was entered to. the charge against appellant. Article 553, Code- Criminal Procedure, requires plea of not guilty to be entered upon, the minutes of the court, and if appellant refuses to answer, the plea of not guilty will in like manner be entered. This rule has been construed as mandatory and not directory, and has been followed in a number of cases. See authorities cited in sec. 520, Code Crim. Proc., and see art. 573, Code Crim. Proc.
+Article 904 of the Code of Criminal Procedure, as amended by the Twenty-Fifth Legislature, requires before failure to plead to an indictment can be taken advantage of in this court, that same be reserved by bill of exceptions properly signed and allowed by the judge of the court below, or proven up by by-standers, etc. We take it that this bill of exceptions may be taken in the motion for a new trial, that is, that the attention of the court can be called to the. failure of appellant to plead to the indictment in the motion for a new trial, and if it then appears either as conceded by the judge or as proven up by by-standers that no plea was entered, it is the duty of the judge to grant a new trial, and on failure so to do, appellant can then take a bill of exceptions to the action of the court, and bring the question before this court for revision. We notice in Thompson v. State, 46 Texas Crim. Rep., 412, it is held that where the recitals of the judgment affirmatively show that no plea was made or entered in the trial of a criminal case, the judgment will be reversed, although no bill of exceptions was taken to the action of the trial court, the point being raised in motion for new trial, and this applies to misdemeanors, as well as felony cases. It occurs to us that the view taken in that case is decisive of the question here presented. In this case the judgmnt shows as well as the bill of exceptions that no plea was entered. For the failure of the court to pursue this obvious requirement of our statutory law, thé judgment is reversed and the cause remanded.
+Reversed and remanded.
