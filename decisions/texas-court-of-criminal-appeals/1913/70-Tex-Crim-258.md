@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2424"
+decided: "1913-04-23"
+citations: ["70 Tex. Crim. 258"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. S. Rhea v. The State."]
+source_url: "https://static.case.law/tex-crim/70/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2380689
+cites_cases: ["38 Texas Crim. Rep., 40", "69 S. W. Rep., 506"]
+---
+
+# Rhea v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was prosecuted under an information containing four counts.
+The court submitted three counts; the verdict of the jury finds appellant guilty under the fourth count in the information, which reads: “4th. And the said S. S. Rhea did then and there unlawfully and knowingly, after domestic animals, towit, cattle, then and there owned by 'him and in his possession and on his premises, had been duly quarantined by I. E. Barr, Inspector for the Live Stock Sanitary Commission of the State of Texas, and after the said I. E. Barr had ordered the said S. S. Rhea to confine said cattle, which were then and there quarantined by him, the said I. E. Barr, and ordered by the said I. E. Barr to confine said cattle, which were then and there affected with the ‘scabbies/ a contagious and infectious disease, and after the said I. E. Barr had ordered the said S. S. Rhea not to remove or permit said cattle so diseased to be removed, from the said premises of the said S. S. Rhea, the place where the cattle were then and there situated and located, did drive and move said cattle from said premises, and permit said cattle to go from said premises onto other premises, in violation of said order and regulation of the said I. E. Barr, aforesaid, and against the laws of this State in such cases provided, and against the peace and dignity of the State.” Where a verdict is general in its terms, it is true, it may be applied to any count in the information submitted by the court, but such is not the rule.where the verdict itself makes a specific finding as to the count under which they find the defendant guilty. The verdict in this case reads: “We, the jury in the case of The State v. S. S. Rhea, do hereby find him guilty of breaking the laws of the Live Stock Sanitary Commission, as charged in the information and fine the said defendant the sum of $100.”
+Counts 1 and 2 submitted by the court do not charge a violation of the rules and regulations of the Live Stock Sanitary Commission as promulgated by the proclamations of Governors Colquitt, Campbell and Lanham, but charge a violation of that portion of article 1283 which prohibits one permitting cattle affected with contagious and infectious disease from running at large, and keeping animals known to be affected with contagious and infectious disease with other animals not so affected, and if appellant had been convicted under either of said counts the conviction should be upheld, and if by any construction the verdict could be applied to either of said counts, then the verdict should be upheld. But the jury, having specifically stated that they found appellant guilty ‘ of “breaking the laws of the Live Stock Sanitary Commission” and the first two counts not charging a violation of these rules and regulations, we are of the opinion that it must be applied to that count in the indictment in which it is sought to charge that offense,—the fourth or last count hereinbefore copied. And the question arises, does this count charge an offense ? In the count it is alleged that I. E. Barr, Inspector for the Live Stock Commission, had quarantined the cattle of appellant on account of their being infected by contagious and infectious disease. The law authorizes the Commission to establish rules and regulations, establish quarantine, etc., but it does not authorize an inspector to do so, and as the count contains no allegation that the Live Stock Sanitary Commission had passed any regulation in regard thereto; that the Commission had declared any quarantine of the stock or the Commission had done any other act, we are inclined to think this count charges no offense against the law. The proclamations of Governors Colquitt, Campbell and Lanham, promulgating the rules and regulations of the Live Stock Sanitary Commission, all contain a clause in regard to scabies, cattle mange or itch, and declare it shall be an offense to ship, drive, transport or move such cattle from or out of the pasture in which they are situate, but the count does not allege that the act was done in violation of this regulation of the Commission, but alleges that it was done in violation of the order of the said I. E. Barr. This fourth count-in the information being fatally defective, and the verdict showing that he was adjudged guilty thereunder, the case must be reversed and remanded.
+Reversed and remanded.
