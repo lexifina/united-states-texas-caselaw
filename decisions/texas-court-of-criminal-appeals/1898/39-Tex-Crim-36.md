@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1432"
+decided: "1898-03-08"
+citations: ["39 Tex. Crim. 36"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Robert Mayes."]
+source_url: "https://static.case.law/tex-crim/39/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4495212
+cites_cases: ["32 Texas Crim. Rep., 16", "33 S. W. Rep., 1081", "55 Am. Dec., 718", "58 Texas 616"]
+---
+
+# Ex parte Mayes
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Relator was arrested for a violation of the local option law, and resorted to the writ of habeas corpus for his discharge.
+The statement of facts discloses that the election was ordered for a subdivision of the county, the boundaries being set out. Oakwood was designated as the place for holding the election, and Alvin Moore was appointed "manager of the election.” After the election was held, and the votes counted, and the result declared, an injunction suit was filed in the District Court. Dpon its final hearing a plea to the jurisdiction was sustained, and notice of appeal given to the Court of Civil Appeals. It is contended here that the election is void, because Alvin Moore was appointed “manager of the election,” instead of “presiding officer.” We do not think there is anything in this contention. The mere misnaming of the title of the officer would not invalidate the election. It is not contended that Alvin Moore did not in fact hold said election as its presiding officer. If he did in fact and as presiding officer de facto hold said election, this court would not disturb the result of said election on this account. An officer de facto is one who comes into office by color of a legal appointment or election. His acts in that capacity are as valid, so far as the public is concerned, as the acts of an officer de jure. His acts in that capacity can not be inquired into collaterally.” See McCrary on Elec., sec. 216. Even if Alvin Moore had not' acted as presiding officer or manager of said election, the citizens voting there unquestionably had the authority to select a presiding officer to conduct said election. And in this connection it may be noted that there is no evidence in this record that any of the citizens who were entitled to vote at said election were in any manner debarred that privilege; nor is there any contention that any of the voters were deprived of their right to vote by reason of the failure of the Commissioners Court to designate a particular house in Oakwood at which such election should be carried oh, and at which particular place the ballots should be deposited. “If the votes of the citizens are freely and fairly deposited at the time and place designated by law, the intent and design of the election are accomplished.” Id. In Ex Parte Segars, 32 Texas Criminal Reports, 553, this court held that where a particular house had been designated in which to hold ah election, and the voters themselves changed the place to a different house, and there held it, and none of the voters were therby deprived of the right to vote, it would not invalidate said election.
+It is also contended that, because of the pendency of the injunction suit, the arrest of the defendant ¡for an alleged violation of the local option law would be unwarranted. As stated before, the injunction suit is shown to have been dismissed from the docket for want of jurisdiction of the court to entertain said suit, and the result of said election was thereafter published, as required by the statute, and the arrest of the relator was subsequent to said publication. We do not believe that the District Court had any jurisdiction to entertain the injunction proceeding. See McDaniel v. State, 32 Texas Crim. Rep., 16. The law provides, in regard to contests for local option elections, that they shall be carried on as near as possible under the same rules as in contests for election of officers. The statute having pointed out this remedy, it would seem to exclude any other character of proceeding. But if the injunction could be resorted to at all it must be as ancilliary to the main proceeding. This was not the case. This would be the attitude if the arrest had occurred pending the injunction proceeding, but, the arrest having occurred subsequent to the dismissal of the injunction suit, the question relied upon by the relator does not arise. So we deem it unnecessary to discuss the question as to the insufficiency of the testimony to show that the injunction suit had been dismissed, because the court had no jurisdiction to entertain said injunction proceeding, as shown in this record. We are of opinion that the designation of Oakwood as the place of holding the election was sufficient. The judgment is affirmed.
+Affirmed.
