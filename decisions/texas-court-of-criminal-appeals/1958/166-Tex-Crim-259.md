@@ -1,0 +1,69 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,806"
+decided: "1958-05-14"
+citations: ["166 Tex. Crim. 259"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte James Edgar Bush"]
+source_url: "https://static.case.law/tex-crim/166/cases/0259-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2615528
+cites_cases: ["125 Texas Cr. Rep. 605", "130 Texas Cr. Rep. 185", "130 Texas Cr. Rep. 3", "139 S.W. 2d 116", "139 Texas Cr. Rep. 145", "141 Texas Cr. Rep. 281", "148 S.W. 2d 416", "153 Texas Cr. Rep. 112", "153 Texas Cr. Rep. 157", "156 Texas Cr. Rep. 213", "161 Texas Cr. Rep. 51", "162 Texas Cr. Rep. 112", "165 Texas Cr. Rep. 605", "218 S.W. 2d 202", "218 S.W. 2d 209", "246 S.W. 2d 171", "274 S.W. 2d 696", "282 S.W. 2d 219", "310 S.W. 2d 117", "316 U. S. 455", "335 U. S. 28", "348 U.S. 3", "355 U.S. 28", "69 S.W. 2d 136", "91 S.W. 2d 365", "92 S.W. 2d 439", "99 L. Ed. 4"]
+---
+
+# Ex parte Bush
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+Petitioner made an application for writ of habeas corpus to this court alleging that he was convicted in Cause No. 18,000 in the district court of the 18th Judicial District as an habitual offender under Article 63, V.A.P.C., without the benefit of counsel, that his request that counsel be appointed for him was denied, and that at the time of such trial there was outstanding against him an unvacated judgment finding him to be a person of unsound mind.
+This court ordered the judge of the 18th Judicial District Court to develop the facts. This has been done, and from the record so presented we have concluded that petitioner sustained the contentions advanced in his application and that he has established that he was deprived of a trial in accordance with the rules of due process. Chandler v. Fretag, 348 U.S. 3, 99 L. Ed. 4, 75 S. Ct. 1.
+This court has the power and authority to prevent the enforcement of a judgment obtained under circumstances which constitute a denial of due process. Ex parte McCune, 156 Texas Cr. Rep. 213, 246 S.W. 2d 171, and Ex parte Puckett, 165 Texas Cr. Rep. 605, 310 S.W. 2d 117.
+While the proceeding here is new to this court, it is now clear that where after conviction, regular on its face and on the record, it is made to appear that the defendant was denied due process of law at the trial, and this court refuses to issue the writ of habeas corpus applied for, the Supreme Court of the United States will reverse and remand the cause to this Court for further proceedings not inconsistent with the opinion of that court. Alcorta v. Texas, 355 U.S. 28, 2 L. ed. 2d 9, 78 S. Ct. 103.
+That the refusal of the court in a felony case upon request to appoint counsel for an indigent defendant who is presumptively insane and who is charged as an habitual criminal is a denial of his constitutional right to due process seems clear.
+The record shows that insanity was a possible defense, and this must be taken into consideration. It is also shown that the trial court, in his charge, recognized that he was presumptively insane. Branch’s Ann. P.C., 2nd Ed., Sec. 281.
+The writ of habeas corpus is granted, and it is ordered that realtor be relieved from further confinement in the penitentiary and that he be delivered by the penitentiary authorities to the sheriff of Johnson County to answer in the 18th Judicial District Court of such county to the indictment in said cause under which his conviction was had.
+It is so ordered.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+In 1948, realtor was convicted in the district court of Johnson County, Texas, of the primary offense of cattle theft and, under allegations of two prior convictions for felonies, was assessed a term of life imprisonment in accordance with the so-called habitual criminal statute, Art. 63, P.C.
+Upon the trial of the case appellant represented himself. The trial court declined to appoint counsel for him.
+No appeal from that conviction was given to this court, and the judgment became final.
+Now, ten years from that time, realtor seeks by writ of habeas corpus to have this court set aside the judgment of conviction, grant him a new trial, and order him returned to Johnson County for trial.
+The basis for realtor’s contention is two-fold: He says that (a) he was entitled to have counsel appointed to represent him in the case, and (b) there was outstanding against him at the time of trial an unvacated judgment of the county court of Navarro County adjudicating him to have been of unsound mind on the 14th day of February, 1924, which precluded his conviction.
+It is my opinion that this court is without jurisdiction to entertain the writ of habeas corpus or to grant the relief therein prayed for.
+We have so often said that the writ of habeas corpus can not be used as a substitute for an appeal that it should now be deemed axiomatic. Ex parte Hubbard, 153 Texas Cr. Rep. 112, 218 S.W. 2d 209; Ex parte Wingfield, 162 Texas Cr. Rep. 112, 282 S.W. 2d 219; Ex parte Puckett, 161 Texas Cr. Rep. 51, 274 S.W. 2d 696. See, also, the other supporting authorities found collated under 19 Texas Digest, Habeas Corpus, Key 4.
+The case of Ex parte Banspach, 130 Texas Cr. Rep. 3, 91 S.W. 2d 365, also appears to be analagous, here. In that case the accused, after conviction for the offense of murder and while a convict in the penitentiary, sought by writ of habeas corpus to have this court reverse the judgment of conviction and order his release from the penitentiary to await the further action of the trial court, his contention being that the evidence adduced upon his trial was not sufficient to sustain the conviction and that the trial court committed fundamental error in failing to charge certain affirmative defenses — all of which constituted a denial of due process.
+In overruling that contention and in denying the relief prayed for this court said:
+“It is well settled by the decisions of the Court of Criminal Appeals that the merits of a case involving the guilt or innocence of the accused are not a proper subject of inquiry in a habeas corpus proceeding.”
+While the majority opinion in the instant case does not appear to expressly so hold, the inference to be drawn is that it holds that the failure of the trial court to appoint counsel in an ordinary felony case constitutes a denial of due process. In support of that conclusion the case of Chandler v. Fretag, 348 U. S. 3, 99 L. Ed. 4, 75 S. Ct. 1, is cited.
+That case does not so hold; rather, it holds to the contrary. I call attention to this language found in the opinion:
+“Petitioner did not ask the trial judge to furnish him counsel; rather, he asked for a continuance so that he could obtain his own.”
+It is my understanding that the question of failure to appoint counsel for an accused in the trial of an ordinary felony case depends upon the facts and circumstances surrounding each case.
+This court so held in Parsons v. State, 153 Texas Cr. Rep. 157, 218 S.W. 2d 202, citing as authority the holding of the Supreme Court of the United States in Betts v. Brady, 316 U. S. 455, 86 L. Ed. 1595, 62 S. Ct. 1252.
+As far as I have been able to ascertain, the Supreme Court of the United States has not changed its views on the subject. Certainly, Chandler v. Fretag, supra, does not so reflect.
+The holding in the Parsons case, supra, has not been challenged heretofore. It has apparently been here overruled.
+But my brethren do not reverse realtor’s conviction solely because of the failure of the trial court to appoint counsel for him. They couple therewith the presumption that realtor was insane at the time of his trial, which fact precluded his conviction.
+While I earnestly insist that in this proceeding my brethren are without lawful authority to entertain or consider the question of relator’s insanity, I will nevertheless express my views thereon:
+It is true that when one is adjudged to be a lunatic, or insane, that condition presumably continues until the adjudication is set aside or sanity restored. Glover v. State, 125 Texas Cr. Rep. 605, 69 S.W. 2d 136; Kizer v. State, 130 Texas Cr. Rep. 185, 92 S.W. 2d 439; Gunter v. State, 139 Texas Cr. Rep. 145, 139 S.W. 2d 116; Herring v. State, 141 Texas Cr. Rep. 281, 148 S.W. 2d 416.
+But that presumption is rebuttable and may be overcome by proof of recovery of sanity. Id.
+Being a rebuttable presumption, this court in this proceeding could hardly hold the judgment void merely by proof of the unvacated judgment of insanity, especially in view of the presumption of correctness which follows the trial court’s judgment.
+But the question of whether the prior conviction of insanity had or had not been vacated or relator had recovered his sanity was one for determination upon the trial of the case, and the trial court’s action was reviewable by appeal to this court rather than in the collateral proceeding before us.
+Under the holding of my brethren here, no conviction in this state ever becomes final but is always subject to be reopened, vacated, and set aside because of matters existing at the time of trial and not presented or relied upon at the trial or upon appeal to this court.
+The legislature of this state has made no effort to give to this court any such authority by making applicable in the state the writ of error coram nobis.
+There ought to be a stopping place whereby it can be said that a conviction in the courts of this state has become final. So long as convictions are subject to be reopened and new trial granted in any way or manner save and except by the orderly procedure of appeal to this court there can be no final conviction, as a matter of fact. I have reference, of course, to judgments claimed to be voidable but not void.
+My brethren rely upon the recent case of Alcorta v. State of Texas, 335 U. S. 28. by the Supreme Court of the United States, as authority for entertaining the writ of habeas corpus and for ordering a new trial for relator.
+Alcorta was convicted of the murder of his wife. He appealed to this court, which, as a divided court, affirmed the judgment of conviction. Thereafter, Alcorta sought by writ of habeas corpus to this court to have the conviction set aside because of and for reasons occurring at the time of trial but not urged or presented as a reason for a reversal of the conviction by this court. This court denied the writ of habeas corpus.
+Having exhausted his state remedies, Alcorta applied to the Supreme Court of the United States for the writ or habeas corpus, which was granted.
+The Supreme Court of the United States held that the conduct of the trial court and the facts withheld were such as to constitute a denial to Alcorta of due process of law, and it entered the following order:
+“The judgment is reversed and the cause is remanded to the Court of Criminal Appeals of the State of Texas for further proceedings not inconsistent with this opinion.”
+Thus in that case, under and by virtue of a writ of habeas corpus, the Supreme Court of the United States set aside and granted a new trial in a state case which had been affirmed by the highest court of the state having jurisdiction in criminal cases, because of its (the Supreme Court’s) finding that relator had been denied due process of law upon the trial of the case.
+Just why the Supreme Court of the United States remanded the case to this court “for further proceedings not inconsistent with this (its) opinion” is unknown to me. That court was not reviewing by appeal or certiorari any decision of this court in the case. When the Supreme Court of the United States granted the writ of habeas corpus to Alcorta it did so as its own original act and of its own record. The judgment that it rendered in the case was an exercise of its independent authority to issue writs of habeas corpus.
+Such being true, the holding of the Supreme Court of the United States furnishes no reason why I, as a member of this court, should overrule the prior decisions of this court holding that we do not have jurisdiction to issue writs of habeas corpus and reverse final conviction for matters of fact existing at the time of trial and not presented at the trial.
+The Supreme Court of the United States had the right and power to do what it did in the Alcorta case, but its holding, there, furnishes no direction or precedent that I, as a judge of this court, shall or shall not issue the writ of habeas corpus and grant relief in violation of the constitutional provision limiting jurisdiction of this court to appeals.
+I dissent.
