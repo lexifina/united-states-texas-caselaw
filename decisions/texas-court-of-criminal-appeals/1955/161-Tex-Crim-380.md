@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,521"
+decided: "1955-04-13"
+citations: ["161 Tex. Crim. 380"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Delbert Roark v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468470
+---
+
+# Roark v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Appellant was convicted of unlawfully driving a motor vehicle upon a public highway while intoxicated; and his punishment assessed at a fine of fifty dollars.
+The state’s evidence shows that shortly after midnight on July 13, 1953, appellant, while driving a Studebaker automobile, was involved in a collision with a truck on a farm-to-market road north of the city of Dumas in Moore County, Texas.
+The evidence further shows that two Texas State Highway Patrolmen, William Ball and Arthur Waite, went to the scene and investigated the collision; that when they arrived the Studebaker automobile was occupied by the appellant and a lady companion ; that appellant was seated under the wheel and admitted to the officers that he was the driver of the car, and thereafter, he was taken to a hospital for the purpose of taking a blood test.
+Patrolman Ball testified that appellant “appeared to stagger and that his speech was not coherent,” and he expressed the opinion that appellant was intoxicated. Patrolman Waite testified that in his opinion the appellant “was well under the influence of intoxicants.”
+Appellant testified that a truck hit the automobile which he was driving as he turned off Highway 287 and on to a farm-to-market road; that he had drunk two beers in Dumas about an hour before the collision but no whiskey; that he volunteered to have the highway patrolmen give him a blood test, but he was never apprized of its outcome.
+By Bills of Exception Nos. 1 and 2 appellant complains of certain jury argument made by state’s counsel. The bills, as originally presented, are shown to have been qualified by the trial judge and to such qualifications appellant excepted. Therefore, we shall consider the bills without the court’s qualifications.
+These two bills present appellant’s exceptions to certain argument made by state’s counsel notwithstanding the court’s action in sustaining the objections thereto and instructing the jury not to consider the argument.
+Bill of Exception No. 1 reflects that appellant’s counsel in his argument to the jury stated that the state had taken a blood test of the appellant but had not seen fit to introduce the findings in evidence and that the jury had been deprived of the right of expert testimony as to the results of such test. Thereafter, state’s counsel in his closing argument to the jury stated that he attempted to introduce a letter from the Texas Department of Public Safety which would show the results of the test but that appellant objected and the court sustained the objection, and that if appellant had not objected and the court sustained the objection, then the jury would have been fully apprized of the contents of said letter.
+Bill No. 2 reflects that state’s counsel in his closing argument, while explaining to the jury the reason why the chemist was not present at the trial, stated that the chemist was available to be present to testify at a former setting of the case at which time appellant’s counsel was out of the state; that for such reason the chemist was not available and present at the time of the trial on October 13, 1953.
+The two bills show that the court sustained appellant’s objections to such argument and instructed the jury not to consider them for any purpose.
+We perceive no injury to the appellant by reason of such argument in view of the court’s instruction to the jury not to consider the same and the minimum penalty fixed by the jury in its verdict under the statute in force at the time of the commission of the offense.
+- Finding the evidence sufficient to support the conviction, and no reversible error appearing in the record the judgment is affirmed.
+Opinion approved by the Court. ;
