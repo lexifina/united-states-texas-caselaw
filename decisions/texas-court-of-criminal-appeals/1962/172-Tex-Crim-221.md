@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,512"
+decided: "1962-04-11"
+citations: ["172 Tex. Crim. 221"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Amelia Robert Bohler v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0221-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2642178
+---
+
+# Bohler v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is the possession of amphetamine, committed subsequent to a final conviction for unlawful possession of barbiturates ; the punishment, 2 years in the penitentiary.
+The indictment was drawn under Art. 726d V.A.P.C. which provides that the term “dangerous drug” includes amphetamine or compounds or mixtures thereof, except preparations for use in the nose and unfit for internal use, and includes any barbiturate or other hypnotic drug.
+Sec. 3(d) of said act declares it to be unlawful to possess such a dangerous drug unless obtained and possessed under the provisions of said act.
+Sec. 15 provides the punishment for violation of Art. 726d, V.A.P.C., a second or subsequent violation being punishable by confinement in the penitentiary for not less than two years nor more than ten years.
+The record shows that appellant’s previous conviction for the unlawful possession of a barbiturate was proved as well as stipulated.
+It also shows that appellant filled out a prescription for 100 dexamyl tablets, signing the name Robert Bohler, the prescription bearing the abbreviation “M. D.”, and the narcotics registry number “1305”, and thereby obtained from the pharmacist, and the pharmacist placed in his hand 100 dexamyl tablets, dexamyl containing amphetamine.
+The evidence further shows that appellant said he wanted some of the tablets to carry in his doctor’s bag and had the pharmacist mark the prescription “for doctor’s bag 276”, and it was proved as well as stipulated that appellant was not licensed to practice medicine in this state.
+Appellant did not testify or offer evidence in his behalf.
+No brief has been filed in appellant’s behalf.
+The informal bills of exception shown in the statement of facts have been examined and are overruled.
+The evidence admitted without objection and by stipulation of appellant and his counsel is sufficient to sustain the conviction and we find no reversible error.
+The judgment is affirmed.
