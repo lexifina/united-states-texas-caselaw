@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "10290"
+decided: "1926-11-03"
+citations: ["105 Tex. Crim. 497", "288 S.W. 1072"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. J. Hail v. The State."]
+source_url: "https://static.case.law/tex-crim/105/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5129363
+---
+
+# Hail v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Conviction in District Court of Hale County for possessing intoxicating liquor for purposes of sale, punishment two years in the penitentiary.
+Appellant" lived three and one-half or four miles from the town of Hale Center on premises which he had rented some years before from a Mr. Price. On the occasion of the alleged commission of the offense herein, a group of officers with a search warrant went to appellant’s premises and found in his garage situated some fifty feet from the dwelling, two bottles of whiskey buried in one place and another bottle buried in another. Appellant’s car was in the garage at the time, and witnesses testified that appellant used the garage commonly for a place to keep his car. There were two defensive theories suggested by the testimony, viz: (1) that the garage was in the care, control and possession of Mr. Price, and consequently the finding of - the liquor therein did not carry with it proof of ownership in appellant; (2) that the liquor had been placed in the garage some time prior to its being found, and that same was placed there by another party than appellant without the knowledge of the latter.
+Mr. Price clearly negatived any theory of possession, control or management of the garage at the time the officers found the whiskey therein. He testified that he had rented the premises and moved away from same in 1921 to the town of Hale Center, reserving at the time the right to use the garage whenever he needed it, but he further testified that he moved from Hale Center to Lubbock in an adjoining county afterward, and that he was not on the place where the garage was situated and had no use for it at any time during the year 1925, the raid of the officers occurring in December of that year. We deem it unnecessary to further discuss this theory of appellant, he not having testified," and the testimony of Mr. Price, as above given, showing conclusively that he did not exercise any control or possession of the garage during 1925.
+Appellant’s witness, Armstrong, testified that some time in December, 1925, before the officers made the raid referred to, he paid a party whose name he did not know, in Hale Center, $15.00 upon the promise of said party to take three bottles of whiskey out to the garage of Mr. Hail, defendant herein, and leave it for him, Armstrong. He testified to no interest in the property or premises of appellant, nor to any reason why he should direct a stranger to secrete in the garage of appellant, three and one-half or four miles from the town in which Armstrong lived, three bottles of intoxicating liquor. We think the jury entirely within their rights in rejecting the testimony of Armstrong.
+The state showed by a witness named Wilson that about the same date as the raid made by the officers this witness bought from appellant at appellant’s home a quart of whiskey. The officers testified that on the occasion when they found the three bottles of whiskey in appellant’s garage they also found quantities of empty bottles around his premises smelling of whiskey, also fruit jars smelling of whiskey, also several jugs having the same odor. Some of the bottles and jars were in tow sacks. We deem the evidence sufficient to justify the finding of- the jury.
+Appellant has a bill of exception taken to a question propounded by the district attorney to a juror upon the hearing of the motion for new trial, said question being as to whether anything was taken into consideration during the trial outside of the court’s charge and the testimony placed before the jury, the objection to which was that it was a leading question and not germane to any issue. The bill is meager, but we infer that the court was endeavoring to ascertain whether there had been any misconduct on the part of the jury while in retirement. We think the question proper and that no error is shown.
+The indictment charges appellant with possessing, for the purpose of sale, spirituous, vinous and malt liquors, and other intoxicants. This does not seem to us duplicitous and the motion to quash same was properly overruled. The evidence being sufficient, appellant’s motion for peremptory instruction was correctly refused.
+Appellant’s bills of exception Nos. 3, 4, 5, 6 and 7 present merely statements that appellant made certain stated objections to various actions of the trial court. There are no facts appearing in either of said bills of exception verifying or making apparent the validity of the objections made. This court has frequently said that to make a bill intelligible it must accompany the objections with such statement of the facts as will make the bill complete within itself and manifest the error complained of.
+It was not erroneous to introduce before the jury the three bottles of whiskey found in the garage mentioned.
+Bill of exceptions No. 9 complains of the argument of the state’s attorney. It appears that when objection was made to said argument same was sustained. In said argument the district attorney urged the jury “not to be misled about these issues, because it stands out here uncontradicted by this defendant’s son, and by this defendant’s wife who was there, at his own house, and it is undenied by Albert Keller or anyone else.” It is insisted that this is a reference to the failure of the defendant to testify. We do not think so. Appellant did not introduce ■his wife or his son, and there is nothing in the bill to show what was meant by the reference in the argument to “these issues,” hence we are unable to say from an inspection of the witness, Keller’s, testimony whether he denied them or not. There is nothing in the bill.
+Another complaint of the argument is because the district attorney said: “Gentlemen of the jury, he has got the times mixed up; he has been out there as many as ten or twelve or more times buying whiskey.” There is nothing before this court to make it appear as a fact to whom the district attorney was referring, nor to make it apparent to us that the remark was not justified by the testimony.
+Being of opinion that no error is shown in the record, the judgment will be aifirmed.
+Affirmed.
+ON APPLICATION TO WITHDRAW MOTION FOR REHEARING.
+LATTIMORE, Judge. — Appellant has filed his sworn affidavit asking that his motion for rehearing herein be withdrawn and that the appeal be dismissed. The appeal cannot be dismissed because we have a written and filed an opinion herein. The motion for rehearing will be withdrawn in accordance with appellant’s request.
+Rehearing withdrawn.
