@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,828"
+decided: "1956-01-04"
+citations: ["162 Tex. Crim. 533"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ysabel Lopez v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0533-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2464196
+cites_cases: ["148 Tex. Cr. R. 13", "156 Tex. Cr. R. 379", "159 Tex. Cr. R. 105", "159 Tex. Cr. R. 175", "184 S. W. 2d 289", "242 S. W. 2d 421", "261 S. W. 2d 575", "261 S. W. 2d 706", "284 S. W. (2d) 734"]
+---
+
+# Lopez v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+For the shooting of one Luiz DeLos Santos, appellant was indicted for the offense of assault with intent to murder with malice, and upon a jury trial was found guilty of assault with intent to murder without malice, with punishment assessed at 2 years in the penitentiary.
+No point would be served by detailing the testimony of the witnesses or in pointing out the conflicts in the testimony of various witnesses present at the site of the offense, referred to in appellant’s brief as “a Mexican beer joint.”
+The sufficiency of the evidence to sustain the conviction is not challenged. There are no formal-bills of exception.
+The trial judge charged the jury on assault with intent to murder with and without malice; specific intent to kill; aggravated assault; accident; self-defense against an attack giving rise to apprehension of death or serious bodily injury and against a lesser attack; the presumption arising from the use of a deadly weapon by the deceased; and defense of another against an attack threatening death or serious bodily injury and against a lesser attack being made against another person. No special charges were requested.
+Many objections were addressed to the charge, and the sole ground of error presented by appellant’s able counsel in his brief and oral argument relates to the court’s charge submitting the law of defense of another.
+The attack upon the court’s charge is not before us in a manner in which we are authorized to consider it, for the reason that no exception appears to have been reserved to the overruling of appellant’s objections to the court’s charge. See Eldredge v. State, No. 27707 (page 282 this volume), 284 S. W. (2d) 734, and cases there cited.
+The judgment is affirmed.
+
+## Rehearing (BELCHER, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING
+BELCHER, Judge.
+The clerk of the trial court has forwarded a supplemental transcript which has been filed.
+Appellant contends that the jury was improperly instructed on the issue of the defense of another against a milder attack.
+The right of self-defense under Art. 1224, Vernon’s Ann. P.C., applies when one acts in defense of another to the same extent and in like manner as when one acts in defense of himself. 24 Tex. Jur. 516, Sec. 73.
+Appellant’s testimony, relating the facts, as viewed from his standpoint at the time he fired his gun, was to the effect that while he was in a beer tavern the injured party and one of appellant’s companions fought with their fists, then the injured party pulled his gun which he held in one hand while fighting with the other, later he placed the gun on the bar and continued to fight, and again took the gun in his hand which caused appellant to go to his car and get his pistol because he was afraid he would do something to his companions. Appellant further testified that after he returned with his pistol he asked the injured party to put his gun up and the injured party pointed his gun toward appellant and threatened to shoot him and appellant then shot to scare him but did not intend to kill him; that after his return from the car with the pistol, the difficulty was confined to the injured party and the appellant.
+Appellant’s testimony does not raise the issue that he shot the injured party in defense of his companions or either of them while the injured party was making an actual attack upon them or either of them. Therefore, an instruction on the defense of another against a milder attack was not raised. Boykin v. State, 148 Tex. Cr. R. 13, 184 S. W. 2d 289; Curry v. State, 156 Tex. Cr. R. 379, 242 S. W. 2d 421; Garza v. State, 159 Tex. Cr. R. 105, 261 S. W. 2d 575; Herrera v. State, 159 Tex. Cr. R. 175, 261 S. W. 2d 706.
+The giving of the instruction, although not raised, does not call for a reversal.
+Appellant’s motion for rehearing is overruled.
+Opinion approved by the court.
