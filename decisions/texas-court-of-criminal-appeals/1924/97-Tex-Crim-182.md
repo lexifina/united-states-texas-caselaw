@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "8102"
+decided: "1924-04-09"
+citations: ["97 Tex. Crim. 182"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willard Chastain v. The State."]
+source_url: "https://static.case.law/tex-crim/97/cases/0182-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5083454
+---
+
+# Chastain v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Appellant was convicted in the District Court of Upshur County of manufacturing intoxicating liquor, and his punishment fixed at one year in the penitentiary.
+The evidence amply supports the verdict. A witness for the State testified that upon invitation of appellant and another he went with them to a place where a still was located and that appellant and his companion kindled a fire and made intoxicating liquor. The party was presently joined by a negro who also testified for the State. While these four persons were at the still they were discovered by the sheriff' who watched them in their movements and acts around the still and with reference thereto for some time. The sheriff was accompanied by a Mr. Davis who also testified. They said that each of the men observed by them around the still was engaged in various •acts contributing to the manufacture of liquor.
+There are six bills of exception. By one an attack is made upon the charge tor its failure to submit that the accused would have the right to manufacture liquor for medicinal, etc. purposes. There was no evidence presenting any claim on the part of the accused that he did manufacture intoxicating liquor for any of the excepted purposes.
+The charge was not open to attack because it presented the law of principals in the usual and customary form. Nor do we believe the statement of the court to the jury that the negro Baucham was an accomplice was any trespass upon the rights of the accused who seems to contend that the testimony- of said negro was favorable to him and that the instruction of the court in question was hurtful. As we undersand the record Baucham admitted that he had been convicted for complicity in the manufacture of the liquor and the rule of accomplices applies to all persons who have been convicted or indicted for participation in the transaction in question.
+Plight on the part of the accused following the commission of the crime, is always provable. The weight to be attached to such testimony is for the jury. If the accused can do so, he may explain the circumstances which caused his absence from the vicinity, but this would not prevent the testimony relative thereto from being admissible. The question asked a witness if immediately following the raid upon the still in question the defendant “changed his community,” would not be subject to the objection made by appellant. .
+The defense sought to prove by the witness Baucham that a person other than appellant was in charge of the still, exercising control of same, managing and doing around the still, making the fires, making whisky, and manifesting absolute control, direction and supervision of the still on the night and at the time in question. The objection on the part of the State to the question for the reason that it called for the opinion of the witness, is deemed well taken by us. The bill of exceptions complaining of the rejection of this testimony is qualified by a statement of the learned trial court to the effect that he informed appellant’s counsel that if he wanted to find out from this-witness what each party was doing around the still and in connection therewith, he would permit the inquiry. This we think would have elicited facts, and the conclusion would have been for the jury to draw.
+We have already referred to the question of the flight of appellant, —and for the reasons mentioned we think it not improper for the State’s attorney to ask him while a witness in his own behalf if he did not run from1 the officers and was out on a scout for some six months after the raid in question.
+The record reflecting no error, the judgment of the trial court will be affirmed.
+Affirmed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON REHEARING.
+April 9, 1924.
+LATTIMORE, Judge.
+In a motion for rehearing, pleasing because of its courteous statements of difference with this court’s opinion, appellant again questions the right of the trial court to assume as a fact that Kay Baueham was an accomplice, and to so tell the jury in his charge. Baueham was a State witness and admitted on cross-examination by appellant that he had been convicted and sentenced to a year in the penitentiary for his participation in the instant transaction. There is nothing in the record seeming to call in question the plain duty of the court to give a charge to the effect that Baueham Avas an accomplice. The rule seems well settled that parties jointly or separately indicted for the same offense, and whose cases are undisposed of, are accomplices when placed on the witness stand by the State.
+It would seem plain that those watching four men in the nighttime working around a fire might be able to state positively that at the same time or at different times, each man was doing something,— to the boiler, — to the fire, — or to the other matters connected with the manufacture of liquor then taking place; but if on cross-examination the watchers should fail to identify a particular man, or connect him with a particular act, this would but weaken the force of their statements as Avitnesses, but would not suffice to reject such testimony. The principle involved in this seems vastly different from that raised by a question as to who would be deemed in charge of the still, asked of one who had observed the acts and movements of said four men in and around it. Clearly such a question would call for an opinion of the witness, — an opinion which the jury might draw as easily and fully as the witness himself, provided the latter detailed what each man was doing and saying. Both from the bill of exceptions and statement of facts we obsede that Avhile the court declined to permit Kay Baueham to give his conclusion as to who appeared to be in control and management of the still from the movements of the parties, he did permit said witness to detail the acts of said parties, and with particular reference to the appellant, to state that appellant did nothing in reference to the fire, the boiler, etc., and as far as the witness could tell took no part whatever in the manufacture of the liquor.
+Being unable to agree with the soundness of either contention made by appellant in his motion, the same will be overruled.
+Overruled.
