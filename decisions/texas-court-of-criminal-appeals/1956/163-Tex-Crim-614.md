@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,584"
+decided: "1956-11-21"
+citations: ["163 Tex. Crim. 614"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Leonard Bentley v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0614-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460475
+---
+
+# Bentley v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is assault with intent to murder without malice; the punishment, three years.
+The shooting occurred in a beer establishment. The testimony of eight state’s witnesses will be summarized. The appellant and his brother came into the place and seem to have had words with one Chapman; whereupon, the appellant knocked Chapman off the bar stool, the proprietress and others intervened, and the appellant and his brother were told to leave. Upon doing so, the appellant stated that they would be back, and a short while later they did return and the appellant was armed with a shotgun. Very shortly after the appellant got to the dance floor, the gun was fired, striking one Medley who had not been a party to the earlier argument but who was seated near Chapman.
+The appellant left hurriedly, carried the gun by his mother’s home, and was intercepted by the officers north of Fort Worth as he fled in the direction of Wichita Falls.
+The appellant, testifying in his own defense, admitted having struck the first blow, admitted going to get his gun and returning to the bar, stating that “I was going to let my brother have the gun while I had a fair fight” and “settle things.” He stated that when he got to the dance floor another Chapman grabbed the gun, which caused the same to accidentally discharge.
+The jury resolved what difference there was in the testimony of the witnesses, and we find the evidence sufficient to support its conviction.
+We shall discuss the contention advanced by appellant’s able counsel on appeal in brief and argument.
+The motion for new trial alleged, in substance, that the state had arranged for the prosecuting witness Medley to be carried to the courtroom on a stretcher when, in fact, Medley had been able to walk on crutches for some time prior to the trial.
+This allegation requires careful scrutiny.
+The offense occurred on September 4, 1955. The case appears to have first been set for trial on February 13, 1956, but was passed to March 1, when it was tried. No motion for continuance appears in this record. Several days before the trial, Medley’s mother, in conversation with the prosecutor assigned to try this case, informed him that she would have to bring Medley in an ambulance because she could not get him up the steps at the courthouse and because he would not be able to sit on the hard benches since he had not sufficiently recovered from the shotgun blast in the hip.
+It appears that the state did pay for the ambulance, but no complaint was registered until the motion for new trial was filed by appellant’s attorney on appeal, which had attached thereto an affidavit of Medley’s doctor dated March 26, 1956, in which he stated, “This patient is still under treatment, although he has been able to walk on crutches for about two months. I feel that Mr. Medley will be able to walk without assistance within a year.”
+The evidence was fully, developed at the hearing on the motion.
+It was shown that the appellant had been sufficiently recovered by the week of the trial to walk short distances on level ground with the aid of his crutches and that he had sat up in a chair for various lengths of time and on occasions had sat on a cushion atop a tool chest.
+The doctor who had signed the affidavit testified that he had not seen Medley personally on that day or since but that the records of his office revealed that on January 26, 1956, Medley had been dismissed from the hospital and classified by his office as “ambulatory with crutches. No weight on the left leg.”
+It would appear from the record here before us that the representatives of the state accepted Medley’s mother’s statement that it would be impossible for him to come to court except on a stretcher and that neither appellant nor his two trial attorneys made any effort to inquire into Medley’s condition before the trial or determine whether or not Mrs. Medley was correct in her appraisal of her son’s condition. Mrs. Medley testified at the hearing on the motion on April 5, 1956, in part, as follows: “... but when I found he was going to have to come down here (meaning the courthouse), I knew he couldn’t get up them stairs. I doubt if he could get up them now after getting all the strength he’s got.”
+The appellant was unable to produce any witness at the hearing, more than a month after the trial, who had seen Medley climb stairs on his crutches.
+When the appellant saw the injured party being brought into the courtroom on a stretcher, then certainly was the time to take some action. That action might have taken the form of a motion for continuance or he might have moved the court to have some examination made of the witness to determine whether or not it was necessary that he be conveyed on a stretcher.
+At any rate, we do not find from the evidence on the motion for new trial that the situation arose as the result of any preconceived plan on the part of the prosecution or that it was the result of anything other than a decision of a solicitous mother and complete acceptance of her judgment by all those connected with the case.
+The appellant should not be allowed to gamble on what the jury might do and, having lost, then for the first time make the investigations which should have been made before or at the trial.
+We have concluded from an examination of the entire record before us that the facts would have warranted a far more severe penalty than was inflicted by the jury in this case. This being so, we must necessarily view with caution any claim that the jury were influenced by some extraneous matter, especially where bad faith has not been established.
+Finding no reversible error, the judgment of the trial court is affirmed.
