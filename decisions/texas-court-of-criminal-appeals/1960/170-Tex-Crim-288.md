@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,561"
+decided: "1960-11-30"
+citations: ["170 Tex. Crim. 288"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Riley Edward Gunn alias Jack Gunn v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0288-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2625073
+---
+
+# Gunn v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is murder; the punishment, life imprisonment.
+It was established that appellant and deceased left together in an Oldsmobile automobile belonging to appellant at 6:00 A.M. upon the conclusion of an all night poker game. During the game, appellant appeared to be the loser, the deceased a winner who would place his winnings in his sock. The witness Hodnett, while traveling a certain oil field road in Sterling County at 8:15 on the day in question, came upon appellant seated in a stalled Oldsmobile, observed that he was bloody all over, was not wearing eyeglasses, and at appellant’s request gave his automobile a shove. At 1:00 P.M. on the same day, truck driver Tabor, while traveling the same road, observed the body of a man lying in the grass by the side of the road. Eyeglasses similar to those worn by appellant the night before were found near the body. There were no shoes on the body and very little money. Deceased had been beaten by some blunt object about the head a total of 23 times, four of which blows were of sufficient seriousness to have caused his death. Appellant was apprehended in the State of Oklahoma some thirty days thereafter, and blood of the same type as that of deceased, and not of appellant, was found on the cushions of his Oldsmobile. Hair which matched that of deceased was found on the floorboard.
+Witness Butler testified that appellant drove into his filling station during the morning in question, and, when he noticed the blood on the front seat, appellant explained the same as follows: “I had some kind of a fight last night; some guy insulted my wife. I just beat the devil out of him.”
+Appellant called his wife, who testified that he came home at 9:15 A.M. on the morning in question with blood all over his person and clothes, that they immediately got their children out of school, packed up all their belongings, and left for the State of Oklahoma, where they were later found by the police. She testified that appellant was not a man of violence, but made no mention of any insults to her.
+Appellant’s brother, while testifying as to appellant’s peaceful nature, admitted, without objection, that appellant had been in trouble for robbery, burglary, and hot checks.
+Appellant testified that after he and deceased left the all night poker game they drove by the bus station, that deceased went in and came out with a red-headed man, that the three of them agreed to go to Midland, and that the red-headed man would do the driving. He testified that he took a drink of whisky and went to sleep and that when he awoke he was on the oil field road alone with blood all over his person. He admitted fleeing to the State of Oklahoma and that the eyeglasses introduced in evidence belonged to him. He stated that he did not recall stoping at the Butler filling station, denied that he had seen deceased putting money in his shoes, and stated that he was not injured in any way. He admitted that he had served a term in the penitentiary for burglary.
+The jury chose not to accept the appellant’s testimony, and we find the evidence sufficient to support the conviction and overrule the contention that there was no proof that the killing occurred in Sterling County. A map of Sterling County was exhibited to Sheriff Wood while he was testifying, and he pointed out on such map where the body of deceased had been found. Article 195, V. A.C.C.P., authorizes a prosecution in the county “where the dead body is found.”
+The judgment is affirmed.
