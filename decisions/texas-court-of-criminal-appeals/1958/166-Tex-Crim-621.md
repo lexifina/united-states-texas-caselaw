@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,113"
+decided: "1958-11-12"
+citations: ["166 Tex. Crim. 621"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Luis F. Bernadett v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0621-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2619062
+cites_cases: ["126 Texas Cr. Rep. 138", "154 Texas Cr. Rep. 239", "160 Texas Cr. Rep. 364", "165 Texas Cr. Rep. 441", "212 S.W. 660", "226 S.W. 2d 447", "271 S.W. 2d 279", "308 S.W. 2d 29", "70 S.W. 2d 422", "85 Texas Cr. Rep. 355"]
+---
+
+# Bernadett v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for burglary with a prior conviction for an offense of like character alleged for the purpose of enhancement; the punishment 12 years confinement in the penitentiary.
+The indictment charged burglary by breaking and entering a house occupied and controlled by Salvador Martinez with the intent to take corporeal personal property therefrom.
+Martinez, the injured party, whose occupation was that of taxi driver, testified that on the date alleged in the indictment, at about 20 minutes until 8 o’clock in the evening, while driving his taxi cab, he had occasion to pass his residence at 1323 Myrtle Avenue in the city of El Paso; that his wife and children had gone out early and seeing lights on in the bedroom he thought his family was at home; that in three or four minutes he returned and entered the house through the front by unlocking the door on the screened-in front porch and opening a door into the livingroom; that he observed that the moulding around the screen next to the door on the porch had been taken off and the screen pushed aside; that when he entered he found that his family was not at home and noticed that the television set was missing from the living room and found papers and clothing strung on the floor of the bedroom; that he then went to the back and found the kitchen door open which was normally locked from the inside; that he then called the police who arrived in about five minutes; that one of the detectives found the television hidden in the alley and upon advice of the detectives he turned off the lights and left the house to await the return of someone who might come back to pick up the television; that when he returned to the house a pick-up passed in the alley and later that evening he saw appellant in the alley in custody of the officers at which time a pair of sun glasses which was missing from his house was taken from appellant’s pocket and he was shown a gun by the officers which was also missing from his house. He further testified that later he received back from the officers a radio, record player and the television set missing from the house, and that he did not give anyone permission to break into his house and take articles therefrom.
+Detective Preston Cook testified that on the evening in question at about 8:25 P.M. in company with his partner he went to the address of 1323 Myrtle Avenue; that when they arrived they were shown a T.V. set hidden in a shed in the alley behind the address; that later as he and his partner were changing locations they noticed the appellant some 120 feet from the address walking north on Newman Street from the alley; that appellant dropped something to his side, and thereupon his partner proceeded to stop the appellant and he then went to the spot and picked up a gun which the witness Martinez identified as being his.
+District Clerk J. W. A. Johnson of El Paso County testified that the records in his office showed that Luis F. Bernadette was on the 17th day of September, 1946, convicted of burglary in the 34th District Court of El Paso County in Cause No. 14,842 and sentenced to serve two years in the Texas Penitentiary. Appellant was identified by Deputy Sheriff Raymond O’Rourke as the person so convicted.
+Appellant did not testify or offer any evidence in his behalf.
+Appellant complains of the action of the court in permitting the state, over his objection, to reopen the case after it had closed and present testimony relative to the breaking and entering of the house. Art. 643 V.A.C.C.P. authorizes the trial court to allow testimony to be introduced at any time before argument of a cause is concluded, if it appear that it is necessary to a due administration of justice. Under the record we find no abuse of discretion on the part of the trial court and therefore perceive no error. Martin v. State, 160 Texas Cr. Rep. 364, 271 S.W. 2d 279, and Malazzo v. State, 165 Texas Cr. Rep. 441, 308 S.W. 2d 29.
+Appellant questions the sufficiency of the evidence to support the jury’s verdict finding him guilty.
+The testimony of the injured party, Martinez, clearly shows that the house in question was burglarized by someone. The evidence of appellant’s unexplained possession of some of the property recently stolen from the house was sufficient to sustain the jury’s verdict finding him guilty as charged. 4 Branch’s Ann. P.C. #2537, pages 866 and 867; Smith v. State, 85 Texas Cr. Rep. 355, 212 S.W. 660; Sowell v. State, 126 Texas Cr. Rep. 138, 70 S.W. 2d 422, and Chasco v. State, 154 Texas Cr. Rep. 239, 226 S.W. 2d 447.
+The judgment is affirmed.
+Opinion approved by the Court.
