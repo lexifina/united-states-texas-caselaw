@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,276"
+decided: "1960-01-06"
+citations: ["168 Tex. Crim. 575"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Sosa v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2618933
+cites_cases: ["114 Texas Cr. Rep. 559", "26 S.W. 2d 652"]
+---
+
+# Sosa v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Upon a plea of guilty before the court without a jury, appellant was convicted of the offense of misdemeanor swindling and his punishment assessed at 6 months in jail and a fine of $1.
+No brief has been filed on behalf of the appellant.
+There appears in the record one formal bill of exception by which appellant questions the validity of the judgment entered against him by the court on the 29th day of May, 1959.
+In the bill, appellant alleged that when the case was called for trial on May 1,1959, he entered a plea of guilty and the court deferred judgment to May 9, 1959; that on such later date, at the request of the appellant and his counsel, the court passed the case to May 29, 1959, at which time the judgment was to be rendered; that on May 29, 1959, appellant talked to his counsel before coming to court and advised him that he would be late; that it was his purpose to ask leave to change his plea of guilty to that of not guilty; and that when he did appear about 11:00 A.M. his attorney was not present and the court proceeded to assess his punishment at 90 days in jail.
+The court, in approving the bill, qualified the same and certified in the qualification that at no time did the appellant or his counsel request the court to change his plea from guilty to not guilty and that the first knowledge the court had that the appellant wanted to change his plea was when his amended motion for new trial was filed. The court further certified that he permitted appellant’s counsel to withdraw as counsel for appellant because of appellant’s failure to cooperate and attend court at the designated hour; that when appellant did appear in court, at approximately 12:00 o’clock noon, he so advised appellant and appellant made no request that he appoint other counsel but again plead guilty before the judgment was rendered by the court.
+The bill as qualified does not reflect that appellant was denied the right to withdraw his plea in the case. The court was under no obligation to furnish counsel for him in a misdemeanor case. Moreno v. State, 114 Texas Cr. Rep. 559, 26 S.W. 2d 652. No error is shown in the bill.
+The judgment is affirmed.
+Opinion approved by the Court.
