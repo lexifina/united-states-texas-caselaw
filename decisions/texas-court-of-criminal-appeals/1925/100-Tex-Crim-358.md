@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "8951"
+decided: "1925-06-03"
+citations: ["100 Tex. Crim. 358"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rosie Hardeman v. The State."]
+source_url: "https://static.case.law/tex-crim/100/cases/0358-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5093931
+cites_cases: ["1 Idaho 681", "75 Mich. 133", "86 Texas Crim. Rep. 96"]
+---
+
+# Hardeman v. State
+
+## Majority (BERRY, Judge.)
+
+BERRY, Judge.
+Appellant was convicted in the County Court at Law of Tarrant County for the offense of keeping a bawdy house and her punishment assessed at a fine of $400.00 and forty days in jail.
+The State has filed a motion to dismiss this case on account of defects concerning the appeal bond.
+Art. 918, Code of Criminal Procedure, as amended by the Acts of the Thirty-sixth Legislature, Chapter 18, Sec. 1, set out in Vernon’s Code of Criminal Procedure, Art. 918 of the 1922 Supplement, provides for bonds in this character of cases to be taken by the sheriff in an amount to be fixed by the court, which bond must be approved by either the sheriff or the judge who tried the case or his successor in office.
+The record does not disclose affirmatively that the judge trying the ease ever fixed the amount of the bond in any manner; but .it appears that after the bond had been executed some two days the trial court approved it as to form and amount and the sheriff approved it as to sureties. In the absence of an order of the court fixing the amount of the bond at the time it was entered into on the 22nd day of May, 1924, the bond was invalid and not subject to forfeiture. The bond being invalid at the time it was signed by the principal and sureties, it could not subsequently to made valid by the action of the court in approving it as to form and amount. We think the contention of the State in the matter is correct, and accordingly hold that the bond is not valid under the article of the statute above quoted. Turpin v. State, 86 Texas Crim. Rep. 96, and authorities therein cited.
+Appellant is hereby allowed 15 days from this date to file a correct appeal bond under the statute, otherwise the judgment shall become final.
+Because the appeal bond is invalid, the appeal is hereby dismissed.
+Dismissed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (BERRY, Judge. —)
+
+on rehearing.
+BERRY, Judge. —
+This case was dismissed at a former day of this term because of a defective appeal bond. Appellant has shown to this court that the record has been corrected in this respect and the appeal is reinstated and the case is now properly before us for disposition.
+The testimony shows that on or about the third of April the witness Teas went to home of the defendant and asked her for a room and asked her if she had any ladies and she showed him a room and asked him would he like to see one of the girls and he told her yes, and that immediately a girl came to his room, and he paid the appellant for the room. This witness testified that he had intercourse with the girl in said room. The record fails to disclose any other facts that would strengthen the above testimony to the effect that appellant was keeping a bawdy house.
+We have, therefore, the question presented, ‘does proof of one act of illicit intercourse constitute the keeping of a bawdy house under our statutes?’ The statute under which this appellant was convicted reads as follows:
+“a bawdy house is one kept for prostitution or where prostitutes are permitted to resort or reside for purposes of plying their vocation. ”
+Under this statute, one of two things must be shown before a conviction can be sustained; first it must be shown that the house in question is a house of prostitution, or second it must be shown that it is k house where prostitutes are permitted to resort or reside for the purpose of plying their vocation. Proof of either of these facts under our statute will constitute an offense. But neither of the constituents of the offense of keeping a bawdy house can be sustained by proof of a single act of prostitution in the house in question. People v. Castro, 75 Michigan 133. Buchanan v. State, 1 Idaho 681.
+A similar question was decided in the Buchanan case, supra. Under the Idaho statute, a bawdy house was defined to be a house of ill-fame kept for the resort and convenience of lewd people of both sexes. Under that statute, the supreme court of Idaho held that the residence of an unattached woman who is a prostitute does not become a bawdy house because she may have admitted one man to an illicit co-habitation with her. The court in that ease said: “The common law did not undertake the corrections in such cases but left the parties to spiritual supervision and penaneies. ’ ’
+In Castro’s ease, supra, the supreme court of Michigan held that a single act of prostitution or similar acts by one person do not constitute the house a bawdy house.
+In this case, the facts show nothing more than the meeting one time of one couple in the house in which the appellant lived and under the authorities above cited as well as on the reason of the thing, we hold that this single transaction is not sufficient to show either that the house in question is a house of prostitution or that it is a house where prostitutes are permitted to resort or reside for the purpose of plying their vocation.
+Because the facts are wholly insufficient to support the verdict, it is our opinion that the judgment should be reversed and the cause remanded.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
