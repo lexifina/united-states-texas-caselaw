@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,731"
+decided: "1957-01-23"
+citations: ["164 Tex. Crim. 173"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jack Hooker Davis v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0173-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2607859
+cites_cases: ["126 S.W. 2d 974", "136 Texas Cr. Rep. 494", "139 Texas Cr. Rep. 505", "141 S.W. 2d 325", "146 Texas Cr. Rep. 474", "176 S.W. 2d 327", "193 S.W. 301", "193 S.W. 302", "46 Texas Cr. Rep. 461", "80 S.W. 2d 319", "81 Texas Cr. Rep. 51"]
+---
+
+# Davis v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is forgery by endorsement; the punishment, 2 years.
+Mrs. Mabel B. Davis of Houston had a claim on Reserve Life Insurance Company of Dallas growing out of a hospital benefit policy she had with said company on December 16, 1955. A check in payment of such claim was sent to the Houston office of said company, where the appellant was employed as supervisor, and, according to Mrs. Ann Smith, a secretary, it was turned over to the appellant, along with other checks, for delivery to the payees.
+Mrs. Davis never saw the check until she went to the home office of the insurance company in Dallas on February 14, 1956, and there recognized the endorsement on the check shown her to be a forgery.
+Two handwriting experts gave their professional opinions that the endorsement on the check in question had been signed by the same person who had written several known specimens of the appellant’s handwriting.
+The sole questions presented for review are the sufficiency of the evidence to support the conviction and the failure of the court to charge the jury in accordance with the terms of Article 7B1, V.A.C.C.P., which reads as follows:
+“It is competent to give evidence of handwriting by comparison, made by experts or by the jury. Proof by comparison only shall not be sufficient to establish the handwriting of a witness who denies his signature under oath.”
+With these questions before us, we shall examine the evidence more minutely.
+Mrs. Smith testified that on several occasions Mrs. Davis called her to make inquiry about the check which she was expecting, and shortly before Christmas of 1955 she made inquiry of the appellant, and he told her that he still had the checks which she had turned over to him in his briefcase and would mail them or deliver them in person. She testified further that on other occasions thereafter Mrs. Davis called and that she let her speak with the appellant.
+Mrs. Davis testified that she called the office of the Reserve Life Insurance Company in Houston on five or six occasions between December 28 and the first of February and was connected with a Mr. Davis. She stated that she made repeated inquiries of Mr. Davis about her check, and finally about the first of February she received a call from a “Mr. Davis” whose voice she recognized as being the same person to whom she had spoken before and that he told her that her check had been located, was on its way to Houston, and that he would deliver it to her at once upon arrival. One of the officers of the company testified that the appellant was the only Mr. Davis in their employ at the Houston office.
+The appellant, testifying in his own behalf, denied that he had endorsed the name “Mabel B. Davis” to the check in question or that he had cashed the same. He admitted that he had been convicted on an “insufficient check” approximately a year before the occurrence in question, admitted that Mrs. Smith had turned over to him a number of checks for delivery to policy holders but that he did not know if Mrs. Davis’ check was one of them. He admitted that on one occasion Mrs. Smith told him that Mrs. Davis had called inquiring about her check and that he had informed her that he had some of the checks left in his briefcase. He admitted that Mrs. Davis called him before she went to Dallas and told him that she had not gotten the check and that he informed her that he would send in a “tracer” on it. He explained the layout of the office which would have made it possible for others to have obtained possession of the check in question.
+The check was shown to bear only the endorsement of Mrs. Davis and to have been cashed at the River Oaks State Bank. Mrs. Henderson, whose teller stamp the check bore, testified that she did not remember cashing the check in question but that, in the ordinary course of business, if the appellant had presented the check, she would not have cashed it without first securing his endorsement and that she would not have cashed it for any person without identification unless that person had an account at the bank. It was shown that Mrs. Davis, the appellant, and the Reserve Life Insurance Company all had accounts at that bank.
+The appellant stated that in the past other checks had been misplaced and, in this, he was supported by the testimony of his fellow employee Coffey.
+We have not been cited, nor are we able to find, any case that was reversed because of the failure of the trial court to charge the jury in accordance with the terms of Article 731, V.A.C.C.P. If given in the language of the statute, such a charge would appear to be on the weight of the evidence.
+We therefore pass on to a discussion of the sufficiency of the evidence to sustain the conviction.
+The State relies upon Seely v. State, 139 Texas Cr. Rep. 505, 141 S.W. 2d 325; Cooper v. State, 136 Texas Cr. Rep. 494, 126 S.W. 2d 974; and Jackson v. State, 81 Texas Cr. Rep. 51, 193 S.W. 301. In the Seely case, it was shown that the appellant came into possession of Trevino’s social security number and had access to his mail, that he first told Trevino, who was in the hospital, that no mail for him had arrived, and then told him that the law had been changed and that his check would arrive later. It was further shown that the check in question was cashed and that the person who cashed it was in possession of Trevino’s social security number at the time. It was therefore shown by facts other than handwriting comparison that Seely presented the check to the bank for payment, which placed him “in close proximity to the forgery.”
+In the Cooper case, it was shown that Cooper presented the check in question to the bank for payment, while in Jackson’s case, (81 Texas Cr. Rep. 51, 193 S.W. 302), “It was conceded that the appellant passed the check on the day of its date.”
+But such are not the facts before us here. The evidence here establishes that the appellant at one time had possession of the check in question, that he gave conflicting accounts of its whereabouts, but nowhere is it shown by testimony other than handwriting comparison that the appellant forged the endorsement on this check, as required by the statute. We therefore must hold that the evidence is insufficient to support the conviction. Turner v. State, 146 Texas Cr. Rep. 474, 176 S.W. 2d 327, and cases there cited. See also Parker v. State, 46 Texas Cr. Rep. 461, 80 S.W. 2d 319.
+The judgment is reversed and the cause remanded.
