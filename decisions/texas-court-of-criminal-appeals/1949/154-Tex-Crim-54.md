@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "24,528"
+decided: "1949-12-07"
+citations: ["154 Tex. Crim. 54"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joe H. Batty alias Joe Harvey v. State."]
+source_url: "https://static.case.law/tex-crim/154/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2585690
+---
+
+# Harvey v. State
+
+## Majority (BEAUCHAMP, Judge.)
+
+BEAUCHAMP, Judge.
+The appeal is from a conviction for theft of cattle, with a sentence of four years in the penitentiary.
+• Appellant has filed no brief in the case and the record is. before us without bills of exception or exceptions to the court’s, charge. We are unable to determine upon what ground appellant seeks a reversal of his case.
+Edgar Aikin, colored, lived near the town of English, in Red River County. He was the owner of twenty-seven head of cattle running at large and his wife owned four. They were red with, white faces. Edgar knew his own and testified that the two involved were his. On an April Sunday morning he drove the two cows involved in this prosecution to a church yard nearby, where he left them for the day. They had no brands but were marked with a “crop to the left and under-slope to the right.”
+On the previous Sunday two men from Clarksville were visitors in the community and held a conference with appellant. The subject concerned cattle which the two men were desirous of securing through the independent efforts of appellant. They wanted some large cattle off of a certain ranch, because they were fat. Appellant protested that he could not conquer these wild cattle, but did think he could get some poor ones, which one of the men agreed to buy if brought to Clarksville.
+Now on the same Sunday that Edgar Aikin carried his two cows to the church yard appellant and Buster Edwards came that way and took possession of them. This was at night and it was four o’clock in the morning when they reached the home of the prospective purchaser in Clarksville. Respecting the sleeping hours of the white folks of the vicinity, the two Negro boys waited with patience until the prospective purchaser awoke at 5:30 A. M. They could not agree on the price, however, and on the advice of the white man with whom they were dealing, took the cattle to Paris, out of the county, as a matter of security. They sold them for $135.00 to a dealer at a commission barn. On the same day they were resold to a Red River County man who took them back to his pasture, not too far away from their origin. What transpired leading to the discovery of the cattle is not revealed by the record and it is immaterial. They were identified and appellant loaned Aikin his truck to go after them. In a signed statement, voluntarily made, appellant admitted the theft, detailed the circumstances, and said “I knew it was wrong for us to steal these cows and I am sorry I got caught.” Further the witness saith not. His admission justified the jury’s verdict, but his apology is not ground for a reversal of the case.
+The judgment of the trial court is affirmed.
