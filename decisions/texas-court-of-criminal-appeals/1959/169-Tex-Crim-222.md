@@ -1,0 +1,50 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,793"
+decided: "1959-06-10"
+citations: ["169 Tex. Crim. 222"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Antonio Leal v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12136481
+cites_cases: ["160 Tex. Cr. R. 42", "163 S.W. 726", "166 S.W. 162", "2 S.W. 2d 462", "267 S.W. 2d 419", "312 S.W. 2d 640", "314 S.W. 2d 92", "316 S.W. 2d 757", "317 S.W. 2d 544", "322 S.W. 2d 291", "358 U. S. 307", "73 Tex. Cr. R. 28", "73 Tex. Cr. R. 340"]
+---
+
+# Leal v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is possession of marijuana, with a prior conviction for the same offense alleged for enhancement; the punishment, 75 years.
+In the absence of the jury, on the issue of the legality of the arrest and search, Officer Ortiz of the San Antonio police testified that on the night in question he received a telephone call from an informer in which he was advised that at that moment a man with a mustache known as “Little Tony,” who was five feet, one or two inches high, dressed in a light tan hat and jacket was at a drinking establishment known as Diamond Den and that he had a quantity of marijuana concealed in his shorts or underpants. He stated that he was two blocks away from Diamond Den at the time and proceeded there immediately and, after entering, saw the appellant, who fit the description which he had been given to a “T”, emerge from a rest room and that, further, he observed “an out of the ordinary bulge” in appellant’s pants and arrested him.
+In the presence of the jury, he testified that following the arrest he took the appellant to the police station, had him disrobe and found inside his shorts 26 marijuana cigarettes held together by a rubber band.
+It was shown by a chemist that the cigarettes contained marijuana, and the prior conviction was established.
+Appellant did not testify in his own behalf, but offered the testimony of one Pytel, who stated that he was present at the Diamond Den on the night of the appellant’s arrest and that the officers asked the name of several of the patrons before they arrested the appellant.
+We overrule the appellant’s contention that his arrest and the incident search of his person was unlawful and hold that the detailed information which the officer had received plus the “out of the ordinary bulge” which he observed in the appellant’s pants was sufficient to lead the officer to believe that a felony was being commited in his presence and to authorize the arrest without a warrant. Sanders v. State, 166 Tex. Cr. Rep. 293, 312 S.W. 2d 640; Slaughter v. State, 166 Tex. Cr. Rep. 403, 314 S.W. 2d 92, and the cases there cited; Bridges v. State, 166 Tex. Cr. Rep. 556, 316 S.W. 2d 757; McCall v. State, 167 Tex. Cr. Rep. 559, 322 S.W. 2d 291; and Draper v. U. S., 358 U. S. 307, 3 L. ed. 2d 327, 79 S. Ct. 329.
+Appellant’s remaining contentions relate to alleged jury misconduct. They will be discussed in the order plead in the amended motion for new trial.
+1. That juror Zorola considered the fact that the appellant failed to testify in his own behalf, that the appellant called no character witnesses, failed to prove that he had a job, and that defense counsel failed to argue the case to the jury. The most that can be said of Zorola’s testimony at the hearing on the motion for new trial is that the case is a one-sided affair with very little being said in behalf of the defendant, that no character witnesses were called, and that there was no proof as to whether or not the appellant had been working. We failed to find any discussion of the defendent’s failure to testify. It is axiomatic that it is not error for the jury to discuss the failure of an accused to produce evidence in his behalf. Romero v. State, 109 Tex. Cr. Rep. 15, 2 S.W. 2d 462.
+2.That the jurors discussed the fact that they had read in the newspapers that school children were susceptible of being drawn into the use of marijuana and that men like the appellant sold to school children. Each of the two jurors who were called at the hearing testified that they heard no discussion of the appellant having sold any marijuana to school children. Mrs. Mallory testified that there was some discussion about school kids being easily tempted but nothing to connect the appellant with that discussion.
+3. That the jury convicted the appellant for selling rather than for the possession of marijuana. The only evidence which we have been able to find in the record before us which would in anywise substantiate such contention is that there was some discussion among the jurors to the effect that the number of marijuana cigarettes found in the possession of the appellant would “tend to reflect to the defendant more or less selling them.” This we have concluded was a logical deduction from the evidence before them.
+4. That the juror Zorola was led to believe that the appellant would serve only one-third of the term which they assessed. Both jurors testified that no member of the jury professed to know the law but that there was a general discussion that an inmate would be eligible for parole after having served one-third of his term. We find no error in this. De La Rosa v. State, 167 Tex. Cr. Rep. 28, 317 S.W. 2d 544, and cases there cited.
+The judgment recites that the appellant plead guilty, while the charge reflects that the appellant plead not guilty. The judgment is reformed to read that the appellant plead not guilty, in accordance with the charge, and, as reformed, is affirmed.
+
+## Rehearing (WOODLEY, Judge.)
+
+on state’s motion for rehearing
+WOODLEY, Judge.
+The order granting appellant’s motion for rehearing and reversing the judgment appealed from is set aside and the opinions handed down in connection with said motion are withdrawn.
+The contention was advanced by appellant, in his motion for rehearing, that the judgment is void and cannot be upheld as a conviction under Art. 62 P.C. or as a subsequent conviction for violation of Art. 725b V.A.P.C.
+The first paragraph of the indictment charged the unlawful possession of marijuana, a narcotic drug, in Bexar County, Texas, on or about January 25, 1958. A second paragraph alleged a prior conviction in the state of California for possession of a narcotic, a felony less than capital and one of like character to the offense alleged in the first paragraph.
+The court’s charge authorized the jury to assess the punishment at confinement in the penitentiary for life, or for any term of not less than 10 years, upon a finding beyond a reasonable doubt that appellant unlawfully possessed marihuana on or about January 25, 1958, in Bexar County, Texas, and a further finding that he had been previously convicted in California of unlawful possession of a narcotic.
+The charge also authorized the jury to assess punishment of not less than two years nor more than life if they found beyond a reasonable doubt that appellant unlawfully possessed marihuana in Bexar County, Texas, as alleged in the first paragraph of the indictment, but did not find that ne was theretofore convicted in the California case described in the indictment.
+In response to this charge, to which there were no objections, the jury returned the following verdict: “We find the defendant guilty, as charged in the first paragraph of the indictment. We further find the defendant guilty, in the second count of the indictment, and assess his punishment at confinement in the State Penitentiary for 75 years.”
+Judgment was entered upon this verdict and, motion for new trial upon other claims of error being overruled, appellant was sentenced to a term of “not less than two nor more than seventy-five years” in the penitentiary.
+If the conviction cannot be upheld as a subsequent conviction for violation of the Uniform Narcotic Drug Act (Art. 725b V.A.P.C.) and cannot be upheld as a conviction for a first violation of Art. 725b V.A.P.C. with punishment enhanced under Art. 62 P.C., no reason appears why the judgment should not be affirmed as a first conviction for possession of marihuana without enhancement of punishment under either Article 725b or Art. 62 P.C.
+The punishment assessed by the jury is one authorized by the legislature for the unlawful posession of a narcotic drug as a first or a subsequent offender. The indictment charged no other offense. The sentence pronounced is appropriate to a first conviction under Art. 725b V.A.P.C.
+Appellant is relegated to the position of complaining because the court’s charge, to which he did not object, allowed the jury to assess the punishment which they assessed and did not apply Art. 62 P.C. making a life sentence mandatory.
+The error in the charge was favorable to appellant. Art. 666 V.A.C.C.P. provides that for such an error the judgment shall not be reversed. Graham v. State, 73 Tex. Cr. R. 28, 163 S.W. 726; Bragg v. State, 73 Tex. Cr. R. 340, 166 S.W. 162; Head v. State, 160 Tex. Cr. R. 42, 267 S.W. 2d 419.
+Other questions raised were properly disposed of in our opinion affirming the judgment.
+The state’s motion for rehearing is granted and the judgment is again affirmed.
