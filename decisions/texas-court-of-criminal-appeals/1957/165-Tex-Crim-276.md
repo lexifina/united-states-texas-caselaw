@@ -1,0 +1,55 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,560"
+decided: "1957-01-09"
+citations: ["165 Tex. Crim. 276"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jimmy N. Shaver v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0276-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610506
+cites_cases: ["146 Texas Cr. Rep. 1", "152 Texas Cr. Rep. 51", "162 Texas Cr. Rep. 15", "171 S.W. 2d 143", "211 S.W. 2d 224", "252 S.W. 790", "280 S.W. 2d 740", "95 Texas Cr. Rep. 70"]
+---
+
+# Shaver v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is murder; the punishment, death. .
+The indictment, returned in the Criminal District Court of Bexar County, alleged that appellant voluntarily and with malice aforethought, killed and murdered Chere Jo Horton by striking and beating her with his hands and fists, and in separate count alleged such murder in some way or manner and by some means, instrument and weapon to the grand jurors unknown.
+Venue being changed to McCulloch County, appellant was tried, convicted and assessed the death penalty. On appeal from such conviction, the judgment was reversed. Shaver v. State, 162 Texas Cr. Rep. 15, 280 S.W. 2d 740.
+Venue was thereafter changed to Bell County and this appeal is from a conviction in the district court of that county. Again his punishment was assessed by a jury at death.
+The record shows without question that appellant took the three-year-old girl from a beer tavern where she was playing with her brother, while her parents were patronizing the tavern, and left her dead and abused body in the brush near a gravel pit. It is also shown beyond question that he was alone with the child and inflicted the injuries to the child, which the autopsy revealed consisted of a fractured skull; hemorrhage of the brain; fractured jaw and laceration and tear of the vagina.
+There was proper and sufficient proof that the injuries mentioned caused the death of the child and to sustain the allegation of the indictment as to the means used in inflicting the injuries.
+The sole defense, as on the former trial, was that of insanity which, together with temporary insanity produced by the voluntary recent use of intoxicating liquor, was fully explained and charged upon by the trial judge, and to which charge no objections were leveled.
+The issue of insanity was settled by the jury’s verdict and there is no issue raised as to the sufficiency of the evidence to sustain its finding.
+Eminent and able counsel appointed by the court to represent appellant upon the trial in Bell County present two grounds upon which they seek reversal.
+First, appellant complains of the overruling of his motion for mistrial based upon the fact that the sheriff of Bell County was permitted to assist the district attorney in the selection of the jurors.
+The motion for mistrial was made after the selection of the jury had been completed, but the record shows that at an earlier time appellant’s counsel had complained to the trial judge about the procedure.
+As presented in appellant’s brief, a main complaint is that the sheriff, during the greater time consumed in selecting the jury, was seated at counsel table on the side of the state.
+We find no error in the action of the sheriff in giving the district attorney the benefit of his judgment as to prospective jurors and the exercise of the state’s peremptory challenges.
+We have held that the sheriff is not disqualified from summoning jurors because he conceived it his duty to work for the state, and the jurors summoned by him are not disqualified to serve. Bennett v. State, 95 Texas Cr. Rep. 70, 252 S.W. 790.
+Appellant is correct in his contention that the trial judge should not permit the sheriff to sit with counsel for the state and take part in the interrogation of the veniremen on voir dire.
+The record, however, does not show that appellant’s counsel complained or objected because the sheriff was seated at counsel table, or made any request of the trial court to have the sheriff remove himself to another place in the courtroom. On the other hand, the record relied upon by appellant to raise this point shows that no such request was made and further shows that the sheriff, except for a brief time, sat immediately back of counsel for the state and conferred with them after each venireman had been examined, but took no part in the interrogation.
+If appellant’s counsel thought that the sheriff’s position in the courtroom during the examination of prospective jurors was prejudicial, it was incumbent upon him to call the court’s attention to that fact and request the court to have him sit elsewhere.
+The trial judge is vested with wide discretion as to the conduct of the trial in matters such as the seating arrangement, and it rests upon the appellant, in order to complain upon appeal in regard to such, to show an abuse of such discretion. Clowers v. State, 146 Texas Cr. Rep. 1, 171 S.W. 2d 143, 145.
+The second ground for reversal relates to the court’s charge, wherein the jury was instructed to the effect that if appellant killed the deceased through mistake or accident while intending to commit the offense of rape upon her, he should be found guilty of murder with malice.
+There was no objection to the charge because of this instruction and the error is claimed as fundamental. We overrule the contention.
+The charge in question is in all material respects the same as the charge which this court approved in Cook v. State, 152 Texas Cr. Rep. 51, 211 S.W. 2d 224.
+If the court was in error in authorizing a conviction of murder with malice if appellant’s intent was to rape the child rather than to kill her, under the record before us, the error was not such as would authorize us to reverse the conviction, especially in the absence of an objection.
+The evidence sustains the conviction and supports the jury’s verdict assessing the supreme penalty and we find no error calling for reversal.
+The judgment is affirmed.
+
+## Rehearing (DAVIDSON, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING
+DAVIDSON, Judge.
+In overruling appellant’s contention that prejudicial error was reflected in the action of the sheriff in giving the prosecuting attorney advice and the benefit of his judgment as to prospective jurors, we did not intend to lay down any fixed rule upon the subject. What we held was that under the facts here presented no error was reflected.
+In his charge, the trial court applied the provisions of Art. 42, P.C., and instructed the jury to the effect that if they found that appellant killed the deceased by accident or mistake while attempting to rape her he would be guilty of murder with malice.
+On the original submission of this case, appellant insisted, and again presses upon us, that if the charge was to be given he was entitled to have the law of murder without malice applied to that state of facts.
+We again call attention to the fact that there was no exception reserved to the charge as to this matter. For that reason, the claimed error of omission in the charge is not before us for consideration.
+In view of the fact that this is a death penalty case where the state’s case depended, as the trial court told the jury, “upon circumstantial evidence alone for a conviction,” we have again reviewed this entire record and remain convinced that a correct conclusion was reached originally.
+Appellant’s motion for rehearing is overruled.
