@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "19750"
+decided: "1938-05-25"
+citations: ["134 Tex. Crim. 623", "117 S.W.2d 69"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George William Wagner v. The State."]
+source_url: "https://static.case.law/tex-crim/134/cases/0623-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5227918
+---
+
+# Wagner v. State
+
+## Majority (Morrow, Presiding Judge.)
+
+Morrow, Presiding Judge.
+The offense is theft, a misdemeanor; penalty assessed at confinement in the county jail for thirty days.
+The State’s testimony is to the effect that L. F. Carlson parked his automobile, a Plymouth sedan, on Fifth Street between Throckmorton and Taylor Streets, in the city of Fort Worth, Texas, on August 24, 1937. The car was parked on the street mentioned between the hours of 8:30 and 11:00 o’clock at night. While the automobile was so parked, a Firestone tire, tube and wheel were taken from the back of the car. The witness later recovered the tire at the City Hall but failed to recover the wheel from which the tire was taken. The witness testified that the reasonable market value of the wheel, tire and tube would be between eight and nine dollars.
+Reagan, an officer and detective of the City of Fort Worth, testified that he knew the appellant and had occasion to arrest him on or about August 24, 1937. At the time of his arrest the appellant was driving a car on South Main at Leuda Street. He was taken to the City Hall, where the tires on his car were checked by the officers. The alleged injured party came to the City Hall and identified the tire taken from his car. The officer testified in rebuttal that he examined the appellant’s car on the morning of the trial; that the car was rather unusual, being built like a sedan with a door in the back of it like a “pick up.” The officer saw in the car a “speed wrench” that would fit all kinds of wheels and also a pair of heavy bolt cutters or snippers.
+The appellant did not testify but introduced his wife, a bride of about two weeks, who testified that prior to their marriage on September 17, 1937, she and the appellant were together every night for about six or seven weeks; that at no time during any of the nights that she was with him did the appellant remove the tire and wheel from an automobile parked on Fifth Street. However, her testimony on cross-examination is somewhat indefinite as to whether or not she was with the appellant on the night of the alleged offense.
+Mrs. B. M. Wagner testified that she was the widowed mother of the appellant; that he and his younger brother were the owners of the Wagner Brothers Tire Shop, and were dealers in used tires, tubes, hub caps, etc. She testified that the firm mentioned owned a Ford automobile but that the appellant had no car of his own; that the car owned by the firm was used by Earl Hines and Clarence Wagner much more than it was used by the appellant. She testified that a few months prior to August 23, 1937, the appellant was injured in an accident; that he was shot through the arm, chest and hand, by reason of which he was compelled to remain in the hospital for a period of time; that as a result of his injuries the appellant was unable to use his hand in taking off and putting on tires. On cross-examination the witness testified that the car owned by the firm was a Ford with a “back-open door” in the back. She also testified that in the car were wheel wrenches, a jack, and tire tools that would fit any kind of a tire, but that she had never seen any “high-powered scissors or snippers” in the car.
+The only bill of exception found in the record complains of the testimony of the police officer who testified in response to questions by the assistant district attorney that on the day of the trial he had seen- and examined the car that was driven by the appellant at the time of his arrest by the officer and that there was found in the appellant’s car a “Wheel Intricate” (a tire tool that fits all makes of cars) and also a set of heavy bolt cutters or snippers. The specific complaint made of the testimony mentioned is that it was not res gestae of the offense. Apparently the purpose of the testimony was to rebut that of the mother of the appellant who testified that the Wagner Brothers Tire Shop owned only one automobile which was a Ford car with a door that opened in the back of it; that this car was very seldom driven by the appellant but was used by the other member of the firm. When recalled "to the witness stand, the officer testified that on the morning of the trial he examined the appellant’s car, which was the same car driven by him at the time of his arrest; that the car was rather unusual being in the nature of a sedan with a door in the back of it. There were no cushions on the back seat of the car and the officer noticed therein a “speed wrench” that would fit all kinds of wheels and the bolt cutters mentioned. The bill fails to reflect error.
+The issues of alibi and circumstantial evidence were submitted to the jury in the charge of the court against which no objections were addressed. The conflicts in the testimony having been resolved by the jury in favor of the State, their verdict is binding upon this Court.
+Perceiving no error justifying a reversal, the judgment is affirmed.
