@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,831"
+decided: "1954-02-17"
+citations: ["159 Tex. Crim. 585"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edgar Ponder v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0585-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477690
+cites_cases: ["142 Texas Crim. Rep. 52", "150 S. W. 2d 798", "251 S. W. 2d 888"]
+---
+
+# Ponder v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is the unlawful transportation of whiskey in a dry area; the punishment, a fine of $100.00.
+It was stipulated that Hopkins County was a dry area.
+Deputy Sheriff Grayson testified in the absence of the jury that his superior had instructed him to watch the appellant and be on the lookout to see if he was selling whiskey. In the presence of the jury he testified that he saw the appellant come out of the back of his cafe, start toward his automobile; that he observed a bulge around his waist, called to appellant to stop, and asked him what he had in his waist. The witness testified that the appellant said he had two pints of whiskey, that he had sent to Dallas for it for his wife. No other witnesses were offered.
+Appellant complains of the refusal of the court to appropriately charge the jury on the appellant’s failure to testify.
+In Pounds v. State, 142 Texas Crim. Rep. 52, 150 S. W. 2d 798, we said:
+“Bill of Exceptions No. 11 complains because the court failed to charge the jury relative to the failure of the defendant to testify in the case. Mr. Branch says in his valuable Penal Code, p. 211, Sec. 377: ‘The court is not required to charge the jury as to defendant’s failure to testify,’ citing a long list of cases, and we think this bill is without merit.”
+We think appellant’s contention that the officer was without probable cause to search the appellant is without merit because the appellant admitted that he had whiskey on his person before any search was made.
+Appellant's able and resourceful attorney has captured our attention with his contention that the appellant’s explanation of where he had gotten the whiskey and the purpose for which he had it puts his case on all fours with Wilson v. State, 157 Tex. Cr. Rep. 643, 251 S. W. 2d 888, and urges us to follow the dissenting opinion therein.
+He requested a charge which told the jury that, if they believed that the appellant had purchased the liquor from some person who had bought the liquor in Dallas and had transported the same to Sulphur Springs and that he was taking it home to his wife, they should acquit him.
+Even if we were to consider the statements made by the appellant at the time of his arrest to be exculpatory statements, we still do not think that he puts himself in the same category as Wilson, because Wilson himself had done the transporting from the wet area. The defense available under Article 666-23a, Section 1, V. A. P. C., applies only to the person who does the original transporting from the wet area.
+Appellant complains that the trial court answered a question in writing sent to him by the jury during the course of their deliberations. Appellant’s counsel had voluntarily absented himself from the courtroom and had gone to another town. The court showed the question and his written answer to the appellant before he sent it to the jury, and appellant agreed that it might be delivered to the jury in their quarters by the deputy sheriff.
+This, we think, constituted a waiver of the provisions of Article 667, C. C. P., by the appellant himself. We find no error in the court’s answer to the jury’s question.
+Finding no reversible error, the judgment of the trial court is affirmed.
