@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,652"
+decided: "1955-05-25"
+citations: ["162 Tex. Crim. 112"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Lacy Wingfield"]
+source_url: "https://static.case.law/tex-crim/162/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461735
+cites_cases: ["139 Texas Cr. Rep. 438", "141 S.W. 2d 333", "147 Texas Cr. Rep. 661", "153 Texas Cr. Rep. 301", "154 Texas Cr. Rep. 123", "184 S.W. 2d 286", "219 S.W. 2d 1022", "225 S.W. 2d 833", "228 S.W. 2d 864", "230 S.W. 2d 232", "230 S.W. 2d 809", "231 S.W. 2d 431", "234 S.W. 2d 874"]
+---
+
+# Ex parte Wingfield
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+Relator, an inmate of the Texas Prison System, seeks his release by writ of habeas corpus alleging that one of the prior convictions used to enhance his punishment under Article 63, V.A.P.C., was void because the judgment therein was indefinite in that it affixed his punishment at not less than two nor more than nine years.
+Relator was convicted in the District Court of Wichita County of the offense of burglary, and two prior convictions were alleged for enhancement purposes. One of the prior convictions was from Lamb County, and the other was from Hunt County. The judgment in the Wichita County case affixed his punishment at life. No appeal was perfected from the life sentence. Relator has now served twelve years and contends that the life sentence is void as to the excess over the twelve years' which he should have received as a second offender.
+Relator contends that the Lamb County sentence is void and cannot be used for enhancement purposes, and relies upon Ex Parte Traxler, 147 Texas Cr. Rep. 661, 184 S.W. 2d 286, Ex Parte East, 154 Texas Cr. Rep. 123, 225 S.W. 2d 833, and other cases. In the cases cited, this court was confronted with attacks upon the judgment itself, and we ordered the relator returned to the trial court to stand trial upon the indictment there pending. In other cases, such as Edwards v. State, 153 Texas Cr. Rep. 301, 219 S.W. 2d 1022, the judgments were reversed on appeal and the cause remanded because no definite punishment had been assessed. Relator did not attack the Lamb County sentence, as was done in the cases cited, but has long since served the same. If the error was in the entry of judgment and not in the pronouncement, the judgment was not void and was subject to correction by nunc pro tunc proceedings.
+In Ex Parte Pruitt, 139 Texas Cr. Rep. 438, 141 S.W. 2d 333, upon which relator relies, the indictment showed upon its face that it would not support a life sentence; that is, it was apparent from the face of the indictment that it would support a sentence for the maximum term provided for the primary offense charged (which is the punishment provided for a second offender under Article 62, V.A.P.C., and which in the case at bar was twelve years) and no more. Such is not the case before us here. This indictment would support a life sentence if the allegations therein had been proven. It then follows that the relator’s attack against the judgment and sentence by virtue of which he is confined is leveled at the sufficiency of the evidence to support the indictment. Such attack can never be raised collaterally by writ of habeas corpus but must be raised by appeal.
+We have concluded that, since the relator treated the Lamb County sentence as valid, he may not now by this collateral attack avoid the present sentence and secure his release by questioning the validity of the prior judgment used for enhancement purposes.
+The relief prayed for is denied.
+
+## Rehearing (WOODLEY, Judge.)
+
+MOTION FOR REHEARING
+WOODLEY, Judge.
+Relator’s motion for rehearing is predicated upon the premise that the Lamb County judgment, which was used to enhance the punishment in the Wichita County life sentence conviction, is void and that our holding to the contrary is in direct conflict with Ex Parte Traxler, 147 Texas Cr. R. 661, 184 S.W. 2d 286; Ex Parte East, 154 Texas Cr. R. 123, 225 S.W. 2d 833; and Ex Parte Clubb, 155 Texas Cr. R. 284, 234 S.W. 2d 874.
+The distinction, which appellant does not appear to accept, is pointed out in Ex Parte Stansbury, 155 Texas Cr. R. 73, 231 S.W. 2d 431, and in Ex Parte Hannan, 155 Texas Cr. R. 10, 228 S.W. 2d 864.
+In Ex Parte Hannen we said:
+“In Ex Parte East, Texas Cr. App., 225 S.W. 2d 833, and the cases there cited, as well as other later cases, the judgment was held void for want of a definite punishment having been in fact assessed.
+“But if in fact, a definite punishment was assessed and the entry of a judgment showing otherwise was by a clerical error, the judgment may be corrected by the court which rendered it under its inherent powers, so as to make the record speak the truth, by nunc pro tunc entry of the judgment as same was actually rendered in the case when tried.”
+“If, in fact, no definite punishment was assessed by the judge in the judgment pronounced by him, or by a separate order, and the judgment actually pronounced is as shown by such certified copies, then they are insufficient to support the sentence pronounced thereon. See Ex Parte East, Texas Cr. App., 225 S.W. 2d 833; Ex Parte Traxler, 147 Texas Cr. R. 661, 184 S.W. 2d 286; and Edwards v. State, Texas Cr. App., 219 S.W. 2d 1022.
+“On the other hand, if in fact a definite punishment was assessed against relator, and the recitations in the judgments as entered are the result of a clerical error, or if there be clerical error in the copies furnished to the Texas Prison System in this regard, then such clerical errors or omissions may be corrected by nunc pro tunc entry in the manner provided by law so as to make the records speak the truth.
+“And in such event the irregularities would not affect the validity of the convictions.”
+See also Ex Parte Jones, 230 S.W. 2d 809; Ex parte Kemp, 154 Texas Cr. R. 633, 230 S.W. 2d 232.
+The Lamb County sentence has long since been served. Relator is not held under that conviction, for which reason alone we did not follow the procedure set out in the opinion in Ex parte Stansbury, supra, and ascertain the true facts as to the punishment actually assessed.
+We remain convinced that the Wichita County conviction is not shown to be void nor excessive.
+Relator’s motion for rehearing is overruled.
