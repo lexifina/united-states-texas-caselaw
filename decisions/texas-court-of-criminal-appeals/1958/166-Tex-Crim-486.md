@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,903"
+decided: "1958-10-08"
+citations: ["166 Tex. Crim. 486"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Johnnie Webster Montgomery v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2614391
+cites_cases: ["147 Texas Cr. Rep. 354", "157 Texas Cr. Rep. 315", "159 Texas Cr. Rep. 487", "164 Texas Cr. Rep. 48", "180 S.W. 2d 928", "248 S.W. 2d 144", "264 S.W. 2d 731", "297 S.W. 2d 140", "314 S.W. 2d 308", "322 S.W. 2d 260"]
+---
+
+# Montgomery v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Upon a trial before the court wtihout a jury appellant was convicted of unlawfully possessing policy paraphernalia with a prior conviction for an offense of like character alleged for the purpose of enhancement and his punishment assessed at confinement in jail for 60 days.
+Officer B. G. Bond, of the city of Houston Police Department, testified that on the day in question, in company with two of his fellow officers, he went to 3114 Melva Street to execute a search warrant which authorized a search of the premises; that when they arrived, appellant was sitting on the front porch and after giving him the warrant they proceeded to search the premises ; that as a result of the search they found under a sill of the house at the southwest corner in the rear seven policy books and numerous policy hit slips and plays from the C & E and B & T Policy Company. He further testified that the house searched was a three or four room house; that in the search the officers found personal papers and clothing in the middle room which indicated appellant lived there; that he did not see anything which would indicate anyone else lived there and that appellant closed the house before leaving the premises with the officers after his arrest. Further testifying as an expert, Officer Bond expressed his opinion that the items found under the house were designed and adaptable for use in a policy game.
+The state introduced in evidence the complaint and information in Cause No. 116,764, styled The State of Texas v. Johnnie Webster Montgomery on the docket of County Court at Law No. 3, Harris County, Texas, and that portion of the judgment minutes of the court containing the judgment entered in the cause on July 2, 1956, wherein the defendant was convicted of the offense of unlawfully possessing policy paraphernalia and assessed punishment of 30 days confinement in jail. Appellant was identified at the trial by Officer E. G. Page as the person so convicted.
+Appellant did not testify or offer any evidence in his behalf.
+We find the evidence sufficient to support the judgment of conviction.
+No formal bills of exception appear in the record.
+Appellant excepted to the information in the trial court on the ground that it did not set forth the written instruments which formed the basis of the offenses charged and did not describe the offense with sufficient particularity as to enable him to prepare his defense. Omitting the formal parts the information alleged that appellant “did then and there possess, not for. evidence purposes, policy books, policy slips, policy cards and policy plays, designed and adaptable for use in connection with a policy game.” Such allegations were sufficient to charge an offense under the provisions of Art. 642c, sec. 2, V.A.P.C. The failure to set out the written instruments that constitute the policy books, slips, cards and plays did not render the pleadings insufficient. Cagle v. State, 147 Texas Cr. Rep. 354, 180 S.W. 2d 928 and Williams v. State, (page 368, this volume), 314 S.W. 2d 308.
+Appellant objected to the testimony showing the search of the premises and fruits thereof on the ground that both the affidavit for the search warrant and the warrant itself were defective for various reasons. The record reflects that both the search warrant and affidavit were produced in court by the state and in making his objections thereto counsel for the appellant read from the affidavit certain portions thereof to the court. Before appellant can complain to this court of the adverse ruling of the trial judge it is incumbent upon him to perfect his bill of exception by producing before us the affidavit and search warrant which are the subject of his attack. Neither instrument appears in the record before us, therefore the question of the legality of the search is not presented for review. Bailey v. State, 157 Texas Cr. Rep. 315, 248 S.W. 2d 144; Williams v. State, 159 Texas Cr. Rep. 487, 264 S.W. 2d 731; DeLeon v. State, 164 Texas Cr. Rep. 48, 297 S.W. 2d 140 and Lee v. State, No. 29,701, opinion this day delivered, 322 S.W. 2d 260.
+We have examined the remaining informal bills of exception appearing in the statement of facts and find no reversible error shown.
+The judgment of the trial court is affirmed.
+Opinion approved by the Court.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+I dissent.
+My views are set forth in the dissenting opinion in the case of Curtis Richard Lee v. State, No. 29,701, this day delivered. 322 S.W. 2d 260.
