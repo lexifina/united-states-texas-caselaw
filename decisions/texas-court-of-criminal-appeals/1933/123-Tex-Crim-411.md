@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "15657"
+decided: "1933-04-12"
+citations: ["123 Tex. Crim. 411", "59 S.W.2d 141"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["O. F. (Oliver) Walker v. The State."]
+source_url: "https://static.case.law/tex-crim/123/cases/0411-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5216376
+cites_cases: ["113 Tex. Cr. R. 142", "113 Texas Crim. Rep., 142", "116 Tex. Cr. R. 437", "116 Texas Crim. Rep., 437", "117 Tex. Cr. R. 372", "18 S. W. (2d) 663", "18 S.W(2d) 663", "248 S. W. 392", "248 S. W., 392", "249 S. W. 485", "249 S. W., 485", "34 S. W. (2d) 250", "34 S.W.(2d) 250", "35 S. W. (2d) 437", "35 S.W.(2d) 437", "93 Tex. Cr. R. 421", "93 Tex. Cr. R. 544", "93 Texas Crim. Rep., 421", "93 Texas Crim. Rep., 544"]
+---
+
+# Walker v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+Conviction is for robbery, punishment being ten years in the penitentiary.
+It was charged that appellant, by the use of a gun, robbed R. R. Evans, the cashier of a bank in the town of Proctor, in Comanche county, and obtained the sum of $403.77.
+The state’s evidence showed that on the day of the robbery appellant borrowed a chocolate-colored Chevrolet roadster from a friend in Dublin, with the promise of returning it in 30 or 40 minutes. During the time of the robbery, a car of this description was parked near the bank in Proctor. Evans positively identified appellant as the robber. There is conflict between Evans and some of the other witnesses as to the kind of clothes appellant was wearing. This was incidental to his identity, a matter for the jury to determine. The gasoline line on the car had been broken before appellant borrowed it. Some time after the robbery, and several miles from Proctor, appellant, with the car in question, was found by the officers. He had been having trouble with the car because of the defective gasoline line. None of the stolen money was found in appellant’s possession. It was never recovered. On the trial appellant admitted having borrowed the car, claiming that his purpose was to use it in getting some whisky. He denied having driven into the town of Proctor and parking the car near the bank; denied being in the bank, or committing the robbery. His affirmative defense was an alibi.
+Appellant briefs the question sought to be raised by bill of exception number four, which attempts to bring forward objection to the argument of the district attorney. First, we fail to discover in the argument any violation of the rules regarding same. It appears to be only a conclusion of the prosecutor that the state had established such a clear case, of guilt that about the only thing left for the jury to determine was the punishment. Second, no objection seems to have been urged to the argument at the time it was made. It was complained of for the first time in the motion for new trial. The bill shows an exception to the action of the court in overruling the motion for new trial based upon complaint of the argument. An objection to argument comes too late when complaint of it is made for the first time in motion for new trial. Simmons v. State, 93 Texas Crim. Rep., 421, 248 S. W., 392; Harris v. State, 93 Texas Crim. Rep., 544, 249 S. W., 485; Salinas v. State, 113 Texas Crim. Rep., 142, 18 S. W. (2d) 663; Thompson v. State, 116 Texas Crim. Rep., 437, 34 S. W. (2d) 250; Crowley v. State, 35 S. W. (2d) 437.
+The only affirmative defense interposed by appellant was that of alibi. Upon that subject the court charged as follows: “Among other defenses set up by the defendant is one of alibi, asserting that if the offense was committed as alleged, then the defendant was at the time of the commission thereof at another and different place from that at which such offense was committed, if any offense was committed, and, therefore, was not and could not have been the person who committed the offense, if any offense was committed. Now, if the evidence raises in your mind a reasonable doubt as to the presence of the defendant at the place where the offense was committed, if any offense was committed, at the time of the commission thereof, you will give the defendant the benefit of such doubt and acquit him and say by your verdict not guilty.”
+In his objection to the foregoing charge, appellant complained that the court did not include therein the question of reasonable doubt, and urged that the court should have instructed the jury that, unless the evidence of the state convinced the jury beyond a reasonable doubt that appellant and no other person committed the offense, they should acquit. The court had already instructed the jury that before they could convict appellant they must believe from the evidence beyond a reasonable doubt that he made an assault upon Evans, put him in fear of life or bodily injury, and by the use of a gun fraudulently took from Evans the property described in the indictment. In the next paragraph the court told the jury, if they had a reasonable doubt as to whether he was guilty of the offense alleged in the indictment, they would give him the benefit of such doubt and acquit him. We are unable to discover any vice in the charge on alibi. It has been many times approved.
+The questions discussed are presented in bills of exception 1 and 4, which bills are the only ones covered by appellant’s brief. ■ However, we have carefully examined the remaining bills, which are numbers 2, 3, 5, 6, 7, 8 and 9. In our opinion they show no error, nor do they call for discussion. The case is peculiarly one of fact, with some conflict in the evidence. The jury has determined that in favor of the state. If the evidence of the state was accepted by the jury as true its sufficiency to support the verdict is not debatable.
+The judgment is affirmed.
+Affirmed.
