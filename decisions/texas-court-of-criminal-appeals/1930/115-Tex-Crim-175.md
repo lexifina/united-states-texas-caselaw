@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "13338"
+decided: "1930-05-14"
+citations: ["115 Tex. Crim. 175", "29 S.W.2d 375"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marion Seaton v. The State."]
+source_url: "https://static.case.law/tex-crim/115/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5178025
+cites_cases: ["1 S. W. (2d) 881", "1 S.W. (2d) 881", "108 Tex. Cr. R. 484", "112 Tex. Cr. R. 301", "112 Tex. Cr. R. 801", "16 S.W.(2d) 823", "197 S. W. 196", "21 S. W. (2d) 503", "21 S.W.(2d) 503", "81 Tex. Crim. Rep. 347"]
+---
+
+# Seaton v. State
+
+## Majority (CHRISTIAN, Judge.)
+
+CHRISTIAN, Judge.
+The offense is manslaughter; the punishment, confinement in the penitentiary for two years.
+This is the third appeal of the case. See Seaton v. State, 1 S. W. (2d) 881, and Seaton v. State, 112 Tex. Cr. R. 301. Reference is made to the opinions on former appeals for a statement of the evidence. i
+The case was tried in Hopkins County on a change of venue from Rains County, the change having been ordered on appellant’s application. However, appellant embraced in his application a statement to the effect that the court house in Wood County was the nearest of court houses of adjoining counties, and requested that the venue be changed to Wood County. The state filed no controverting affidavit, but suggested to the court in writing that the distance to Sulphur Springs, the county seat of Hopkins County, was practically the same as the distance to the county seat of Wood County. It was further suggested by the state that appellant lived near the Wood County line and had influential people living near said county line; that the case had received a certain amount of discussion in Wood County, which would result in the state being unable to obtain as fair a trial in said county as in Hopkins County. The testimony heard by the court was sufficient to support the finding that the court house of Hopkins County was nearer that of Rains County than was the court house of Wood County. Measurements on a map disclosed such to be a fact. Moreover, a witness testified to the same effect. After hearing this testimony the court entered an order on the ninth of May, 1928, changing the venue to Hopkins County. It is recited in the order that the court house at' Sulphur Springs in Hopkins County is the nearest court house to Emory, the county seat of Rains County, “of any of the adjoining counties.” It is further recited in the order that none of the conditions existing in Rains County which necessitated a change of venue existed in Hopkins County, but that “to some degree” the conditions existing in Rains County also existed in Wood County. During the same .term of court at which the venue was chañged, and several days after the order had been entered, appellant filed a motion wherein he requested the court to hear additional evidence as to the distance between the court houses involved. He set forth in his motion the fact that he had had the distances measured, and that the county seat of Wood County was nearer the county seat of Rains County than was Sulphur Springs. The court overruled the motion. Upon the present trial the question was again raised and appellant has brought forward several bills of exception wherein he complains of the refusal of the court to hear additional testimony on the question and to change the venue of the case to Wood County.
+Referring to a change of venue upon application by the appellant, Art. 565, C. C. P. provides:
+“Upon the grant of a change of venue, the cause shall be removed to some adjoining county, the court house of which is nearest to the court house of the county where the prosecution is pending, unless it be made to appear to the satisfaction of the court that such nearest county is subject to some objection sufficient to authorize a change of venue in the first instance.”
+It is observed that the trial judge, after hearing evidence, reached the conclusion that Wood County was subject in some degree to the same objection as was Rains County. In other words, the conclusion was reached that Wood County was subject to an objection sufficient to authorize a change of venue if said case had been pending upon the docket of the district court of said county. We deem it unnecessary to decide whether the evidence is sufficient to support the finding that Wood County was subject to the objection to which reference has been made. -The trial judge had heard evidence sufficient to lead him to the conclusion that the court house at Sulphur Springs was the nearest court house of the adjoining counties. He was fully advised in appellant’s motion as to the additional proof he desired to offer. If the matter had been reopened conflicting testimony would have been before the court. Being fully advised as to the additional proof that appellant sought to offer, the learned trial judge must have been of the opinion that the matter had been correctly decided by him, and the venue properly changed. If such was the case, it would have availed appellant nothing to have had the additional witnesses before the court. A mistake of the trial judge in. exercising his discretion to change the venue does not affect the jurisdiction of the court to which the transfer has been made. Cotter v. State, 21 S. W. (2d) 503. Under the record presented here, the opinion is expressed that the venue was properly changed to Hopkins County.
+Other questions presented have been examined. Most of the questions presented have been passed on adversely to appellant’s contention on former appeals. The opinion is expressed that the record fails to manifest reversible error.
+The judgment is affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+The only contention made is that the trial court exceeded his discretion in declining to change the venue in this case to Wood County, and in changing it instead, to Hopkins County. When the original application for the change was presented the state filed a contest, — to the form of which no objection was made. The court heard testimony and in our opinion was warranted in changing the venue to Hopkins County. Venue is not subject to change upon the ground of convenience to witnesses or parties, nor to suit their pleasure; the object of same is to remove a trial from a situation inimical to a fair trial to all parties, and to remove same to another place where such condition does not exist.
+In his order changing the venue to Hopkins County the learned trial judge sets out as a part of his fact-findings that a trial fair and impartial alike to the state and the accused could not be had in Rains County but could be had in Hopkins County. The court further states: “To some degree the conditions existing in Rains County also exist in Wood County, and from all the evidence it appears that justice could be better subserved by sending the case to Hopkins County, Texas.”
+The correctness of this announcement seems nowhere challenged. By several bills of exception appellant sought thereafter to controvert the correctness of the court’s finding as to the matter of distance between the county seats involved, but we fail to find where he controverted the fact that in Wood County there existed a condition hostile to a fair trial. Such being the case, we do not deem it necessary to discuss the action of the court in declining to re-open the matter before the papers were sent from Rains County to Hopkins County. We think the court in no event was called upon to re-open the matter after the venue was changed and upon call of the case for trial in Hopkins County.
+The law is not so much concerned over the question as to whether the trial was in one place or another, as we are whether a fair trial was had. In Taylor’s Case, 81 Tex. Crim. Rep. 347, the subject is discussed to some extent.
+Not being able to agree to the contentions made by appellant, the motion for rehearing will be overruled.
+Overruled.
