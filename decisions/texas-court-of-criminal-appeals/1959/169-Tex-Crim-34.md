@@ -1,0 +1,59 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,108"
+decided: "1959-12-09"
+citations: ["169 Tex. Crim. 34"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DAVIDSON, Judge, dissented."]
+parties: ["Peggy June King v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12123960
+cites_cases: ["114 Tex. Cr. R. 117", "158 Tex. Cr. R. 112", "24 S. W. 2d 830", "253 S. W. 2d 862"]
+---
+
+# King v. State
+
+## Majority (MORRISON, Presiding Judge)
+
+MORRISON, Presiding Judge
+The offense is possession of marijuana; the punishment, seven years.
+Appellant was indicted jointly with Carl Edward King, a severance was granted, and appellant was tried alone.
+Officers of the city of Houston, armed with a search warrant, went to the address in question, knocked on the door, received no response, found that the front door was unlocked and entered. Some hour and a half later appellant and Carl Edward King drove up in front of the apartment; and some of the officers identified themselves, at which time appellant, who was driving, put the automobile in reverse and proceeded to leave the scene but was prevented from so doing when one of the officers shot out a tire on the automobile. After appellant was captured, the search warrant was presented to the two, and the search was continued. In an ashtray on a chair in the bedroom they found a cigarette butt; near the ashtray they found another, and on the seat of the chair they found particles of a loose green plant substance. In the bedroom they also found a woman’s suitcase which contained women’s apparel and letters addressed to appellant, some at the address where the search was made and others at Sealy, Texas. On the dresser in the room they found letters addressed to Carl Edward King and appellant at the address which was searched. From the bottom of this suitcase they recovered particles of a loose green plant. All of these particles, including the cigarette stubs, were submitted to Chemist McDonald, who testified that they were marijuana, that one grain had come from the suitcase and, when combined with the particles found in the cigarette stubs, weighed three grains, which was sufficient to make a marijuana cigarette.
+Appellant did not testify or offer any evidence in her own behalf.
+In her brief and in argument appellant contends there was no proof that she lived at the address which was searched and therefore no proof that she possessed the marijuana found in the bedroom or in the suitcase. While it is true that one of the policemen testified he had no reason to believe that appellant and Carl Edward King were separated but did not know whether or not she was living at that address at the time because she was working out of town, we do find that appellant’s counsel did not so contend at the trial for he propounded this question to one of the state’s witnesses: “Q. What time did Mrs. King return to her apartment (referring to the place which was searched) ?” And on another occasion he asked another witness: “Q. When Carl Edward King and Peggy King, his wife, this person here, the defendant, returned to their home about what time?” We also find another officer testified that he knew appellant and Carl Edward King to be husband and wife.
+In connection with this contention, reliance is had upon Watson v. State, 114 Tex. Cr. Rep. 117, 24 S. W. 2d 830. In that case, the accused’s wife testified that she had no control over the beer which was found in the home which she shared with her husband, and there was no evidence from the state to refute this testimony. On the other hand, in Gentry v. State, 158 Tex. Cr. Rep. 112, 253 S. W. 2d 862, we recognized the rule that a married woman could be convicted as a principal with her husband in the commission of a crime. In the case at bar, appellant did not testify, and we find a grain of loose marijuana in a suitcase which also contained women’s clothes and cosmetics as well as letters addressed to appellant. We also have the further fact that as soon as appellant learned the identity of the officers she fled. This we have concluded constitutes a sufficient showing that she possessed the marijuana, and it is immaterial whether she possessed it alone or jointly with her husband.
+Appellant complains of the admission of the evidence as to the letters found in the suitcase. The letters themselves were not introduced in evidence. In fact, the officers testfied that they left them in the apartment following the search. The officers were merely permitted to testify as to the name and address of the addressee. We find no error in this.
+The affidavit for the warrant was not in the disjunctive, as appellant contends, because of the allegation which follows the description of the place intended to be searched, as follows: “and being the building, house or place of_”
+We have examined appellant’s complaints as to jury argument and fail to find reversible error reflected thereby.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgement is affirmed.
+
+## Dissent (DAVIDSON, Judge)
+
+DAVIDSON, Judge
+(dissenting)
+Carl Edward King, the husband, and Peggy June King, the wife—appellant, here—were jointly indicted for the offense of possessing marihuana. A severance was awarded the husband and the wife was placed upon trial. Her conviction resulted, with punishment assessed at seven years in the penitentiary.
+Members of the police department of the city of Houston obtained a seach warrant to search apartment No. 2 of a building located at 2120 Turner Drive in the said city, which apartment was alleged to be the private residence of “Karl E. King.”
+Armed with the search warrant, the officers went to the apartment on the night of January 9, 1959. They entered, and found no one at home. A search was made of the apartment.
+Two “cigarette butts” which were shown to contain marihuana were found on a chair by the bed. “Some green plant substance” was also on the chair. That substance, together with the cigarette stubs, was sealed in a vial and placed in an envelope and later identified as containing marihuana.
+A white suitcase was found in the room, containing women’s apparel, cosmetics, and letters and Christmas cards addressed to appellant “at a route box in Sealy, Texas.” The clothing and contents were removed from the suitcase and what one of the searching officers described as “Tobacco or some plant substance” was noticed in the bottom of the suitcase. A piece of paper was spread and the suitcase was turned upside down and the plant particles emptied onto the paper.
+These particles were folded into the paper and the paper was taped and initialed and, along with the vial containing the cigarette stubs and particles from the chair, delivered to the chemist or toxicologist with the Houston police department.
+The chemist testified that from a “microscopic examination” of the substance taken from the suitcase it “appeared to be marijuana,” and that it amounted to about one grain.
+The chemist also testified that the substance taken from the chair and that in the cigarette butts was marihuana and amounted to about two grains.
+A thorough search of the apartment revealed no other narcotic or marihuana.
+The officers waited in the apartment for almost two hours before an automobile was driven into the driveway. Appellant was driving, and her husband, Carl King, was in the car with her. Upon seeing the officers, appellant attempted to back the car out of the driveway, whereupon one of the officers proceeded to shoot into one of automobile tires.
+The foregoing are the facts upon which this conviction rests.
+Appellant offered no defensive testimony.
+The sufficiency of the evidence to support the conviction is challenged. It is insisted that inasmuch as the apartment was under the control of the husband and the search warrant was issued to search his home the presumption prevails that the apartment and its contents were in the possession of the husband.
+This court has so held the law to be. Watson v. State, 114 Tex. Cr. R. 117, 24 S. W. 2d 830, 23 Tex. Jur., Sec. 87, p. 107; Erisman Manual of Reversible Errors, Sec. 52, p. 39.
+Of course that presumption may be overcome by proof showing that the wife was in the active possession, care, and control of the residence and its contents. Such is the holding in the case of Gentry v. State, 158 Tex. Cr. R. 112, 253 S. W. 2d 862, where the wife in the presence of the officers was attempting to destroy the contraband—which, in that case was whisky and gin.
+No similar fact situation is here presented. The appellant was never seen by anyone, at any time, in or around the apartment prior to the time she drove into the driveway with her husband. If she ever resided there with him there is no evidence of such fact and no one so testified. That she resided at another and different place—that is, Sealy, Texas, is shown by the fact that letters and Christmas cards were addressed to her there, during the holidays just prior to January 9, 1959.
+The presumption not having been overcome that the marihuana found in the apartment was in the possession of appellant’s husband, the evidence is thereby rendered insufficient to support the conviction.
+It is suggested, however, that the conviction can be sustained upon proof of the finding of one grain of marihuana in the suitcase containing feminine personal effects and wearing apparel and letters addressed to appellant.
+Here, again, the state is confronted by the absence of any evidence that the appellant brought the suitcase to the apartment or that she owned or exercised any control over it at any time.
+Though ladies’ wearing apparel and letters addressed to appellant were in the suitcase, yet such by no means shows that appellant had possession thereof, especially in view of the absence of any evidence that she was ever at any time in the apartment or that the wearing apparel was hers or of such size that she could wear it.
+I submit that the facts do not warrant the conclusion that appellant was an occupant of or in possession of the apartment and its contents.
+The judgement should be reversed and the cause remanded.
+I dissent to the affirmance of this case.
