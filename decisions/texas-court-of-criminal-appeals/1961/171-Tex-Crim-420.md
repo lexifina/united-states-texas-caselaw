@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,964"
+decided: "1961-11-22"
+citations: ["171 Tex. Crim. 420"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Abundio Garza v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0420-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2633497
+---
+
+# Garza v. State
+
+## Majority (McDonald, judge.)
+
+McDonald, judge.
+The offense is operating an automobile without the owner’s consent; the punishment, thirty days in jail and a fine of $25.
+In examining the complaint and information we find the statutory requisite of Art. 1341, V.A.P.C., is not properly alleged as to the value of the automobile operated without the consent of the owner, Manuel Valdez.
+The above article, as amended by act of the 56th Legislature, 1959, makes it necessary to allege the value of a motor vehicle in cases of this kind, and fixes punishment, misdemeanor, under Sec. “a” when the vehicle is valued at less than $200; and under Sec. “b” when the vehicle is valued at more than $200 a possible punishment may be assessed for any term not exceeding three years in the penitentiary.
+Even though no objection has been urged, we regard the above error as fundamental; accordingly, the cause is reversed and the prosecution ordered dismissed.
