@@ -2,7 +2,7 @@
 court: "Texas Court of Criminal Appeals"
 docket: "8655"
 decided: "1925-02-25"
-citations: ["99 Tex. Crim. 351", "269 S.W. 448"]
+citations: ["99 Tex. Crim. 351"]
 reporter: "tex-crim"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
