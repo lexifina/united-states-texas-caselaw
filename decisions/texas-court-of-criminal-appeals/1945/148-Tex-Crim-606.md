@@ -1,0 +1,55 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "23176"
+decided: "1945-06-27"
+citations: ["148 Tex. Crim. 606", "190 S.W.2d 569"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jessie Allen v. The State."]
+source_url: "https://static.case.law/tex-crim/148/cases/0606-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2604689
+cites_cases: ["1 Tex. 455", "10 S. W. 112", "10 S.W. 112", "10 Tex. 300", "11 Tex. 12", "12 Tex. App. 233", "12 Tex.App. 233", "123 S. W. (2d) 345", "123 S.W.2d 345", "136 Tex.Cr.R. 16", "141 Tex.Cr.R. 57", "144 Tex.Cr.R. 193", "147 S. W. (2d) 477", "147 S.W.2d 477", "16 Tex. App. 159", "16 Tex.App. 159", "162 S. W. (2d) 106", "162 S.W.2d 106", "17 Tex. App. 179", "17 Tex. App. 232", "17 Tex. App. 578", "17 Tex.App. 232", "17 Tex.App. 578", "18 Tex. 538", "21 Tex. 757", "224 S.W. 1087", "244 S. W. 1087", "26 Tex. App. 540", "26 Tex.App. 540", "37 Tex. Cr. R. 257", "37 Tex.Cr.R. 257", "39 S. W. 665", "39 S.W. 665", "40 Tex.Cr.R. 571", "40 Tex.Cr.R. 575", "40 Tex.Cr.R. 632", "40 Texas Crim. Rep. 571", "40 Texas Crim. Rep. 575", "40 Texas Crim. Rep. 632", "41 Tex. 186", "42 Tex.Cr.R. 410", "44 Ind.App. 674", "49 S. W. 95", "49 S.W. 95", "50 Am. Rep. 122", "50 Am.Rep. 122", "51 S. W. 247", "51 S. W. 379", "51 S.W. 247", "51 S.W. 379", "60 S. W. 552", "60 S.W. 552", "7 Tex. App. 608", "7 Tex.App. 608", "88 Tex. Cr. R. 53", "88 Tex.Cr.R. 53", "89 N. E. 377", "89 N.E. 377", "9 Tex. App. 351", "9 Tex. App. 404", "9 Tex.App. 351", "9 Tex.App. 404"]
+---
+
+# Allen v. State
+
+## Majority (BEAUCHAMP, Judge.)
+
+BEAUCHAMP, Judge.
+Appellant was convicted by a jury in the county court of Dallas County for driving an automobile on a public highway while intoxicated, and was assessed a fine of $250.00 and two years in the county jail.
+On March 3, 1945, appellant’s motion for a new trial was overruled, and at such time he gave notice of appeal to this court. No time was fixed by order of the court in which to file bills of exceptions. Thereafter, on April 26, 1945, the trial court entered an order granting an additional fifteen days in which to prepare and file statement of facts and bills of exceptions. We find a further order, not showing the date of its entry, granting a further seven days for such purpose.
+From the record it is shown that 53 days had elapsed since the entry of the order overruling the motion for a new trial, and giving of the notice of appeal, until the granting of the additional fifteen days. Under Art. 760, C.C.P., Section 5, in the event of no mention being made of the time granted for the filing of bills of exceptions in the lower court, the statute itself grants 30 days therefor. This extension of fifteen days came more than 30 days after the statutorily granted time, and, therefore, came too late. See Davis v. State, 123 S. W. (2d) 345; Barrera v. State, 147 S. W. (2d) 477; Hall v. State, 162 S. W. (2d) 106; Vol. 13, Texas Digest, Criminal Law, Key number 1092 (7), p. 577. Appellant’s bills of exception will not be considered.
+There is a motion to quash the information, and a motion in arrest of judgment, which demand our consideration. These raise a question as to the validity of the complaint. The allegation in the complaint and information, upon which the conviction was had, reads in part as follows:
+“* * * the Criminal District Attorney aforesaid further presents in and to the said court that said defendant, Jessie Allen, heretofore on or about the 10th day of December, A. D. 1944, in the County of Dallas and State of Texas was intoxicated, and under the influence of intoxicating liquor, and while so intoxicated and under the influence of intoxicating liquor did unlawfully drive and operate a motor vehicle, to-wit: an automobile, upon a certain public road and highway, to-wit: McKinney Ave. Viaduct; against the peace and dignity of the State.”
+The appellant contends that, though the information alleges he was intoxicated in Dallas County, it fails to allege that he was on a public highway in the same county. The question before us is one of construction of the language. The law is not in dispute. It states that he was intoxicated in Dallas County “and did unlawfully drive and operate a motor vehicle, to-wit: an automobile, upon a certain public road and highway, * * If the quoted phrase refers to the same time during which he was intoxicated, that would place his driving in the same county. Considering all of the language, no other meaning can be given to it. From the discussion of many cases the finding and meaning of the word “while,” as found in Vol. 45, Words and Phrases, Permanent Edition, p. 80, is the same as “during,” “during the time,” “during the existence of,” “as long as,” “at the same time as,” and “so long as.” It is sometimes called an adverb of duration, being an apt word to express limitation, etc. We call especial attention to Greener v. Nielhaus, 89 N. E. 377, where it was used in a like expression — “while [he] was in an intoxicated condition.” It was there construed to mean “at the same time.” This being our conclusion, it naturally follows that his driving on the viaduct was in Dallas County. The question thus raised is not without its difficulties and, though we are of the opinion that jurisdiction was shown in the Dallas County Court, in the case now before us, we are aided in that by a full consideration of the language and are not able to say that it is a frivolous objection which has been brought by the appeal to this court. We recommend that a more specific charge be made as to jurisdictional facts. We are able to sustain the complaint, after a full consideration of all of the language, in the face of the very loose pleading giving rise to the exceptions.
+The judgment of the trial court is affirmed.
+
+## Dissent (GRAVES, Judge,)
+
+GRAVES, Judge,
+dissenting.
+In my judgment the information, as well as the complaint herein, fails to allege that appellant, while intoxicated, drove an automobile on a public highway in Dallas County, Texas. Unquestionably they do allege that appellant was intoxicated in such county, and that he drove an automobile while intoxicated. Such intoxication might have and doubtless did continue. for some period of time, and he might have been miles away from the point where he first became intoxicated and then began his prohibited driving. We are called upon to presume that while intoxicated he drove this automobile in Dallas County. It is not alleged that he “then and there” drove, nor that McKinney Ave. Viaduct was situated in Dallas County. In order to sustain this complaint and information we must infer that he drove in the same county in which he drank to intoxication. This I am unwilling to do.
+I therefore dissent from the majority opinion of my Brethren.
+
+## Rehearing (HAWKINS, Presiding Judge.)
+
+ON MOTION FOR REHEARING.
+HAWKINS, Presiding Judge.
+In his motion for rehearing appellant again challenges the sufficiency of the information and complaint, and insists that the majority opinion is erroneous in holding to the contrary. The present writer assumes his full measure of responsibility for the original opinion, but appellant’s motion has brought about a further consideration of the question with the result that he now believes the majority opinion was erroneous.
+The averments in the information are set out in full in the original opinion, and it is not necessary to here repeat them. Reference to the information will disclose that there is no direct averment that “McKinney Ave. Viaduct” was in Dallas County, nor any direct averment that the “drunk” driving was done in Dallas County. It is directly and positively averred that appellant was intoxicated in Dallas County.
+One requisite of an indictment (Art. 396, subdiv. 5 C. C. P.) is that: “It must show that the place where the offense was committed is within the jurisdiction of the court in which the indictment is presented.”
+The offense here sought to be charged was not being intoxicated in Dallas County, but that while intoxicated appellant drove an automobile upon a public road in Dallas County.
+Expressions are found in our opinions from the beginning to the present time which have crystalized in the language found in Note 2 under Art. 398, Vernon’s Tex. C. C. P., Vol. 1, and supported by the authorities there cited, as follows: “Every indictment or information should be drawn with reference to the idea that an innocent man should know the facts charged against him that he may prepare to meet them, and the averments should be direct, positive and certain, not argumentative or inferential. State v. Baggerly, 21 T. 757; Lewellen v. State, 18 T. 538; State v. Odum, 11 T. 12; Estes v. State, 10 T. 300; Bush v. Republic, 1 T. 455; Moore v. State, 7 Tex. App. 608; Hunt v. State, 9 Tex. App. 404; Kerry v. State, 17 Tex. App. 179, 50 Am. Rep. 122; Pierce v. State, 17 Tex. App. 232; Peralto v. State, 17 Tex. App. 578; Parker v. State, 9 Tex. App. 351; Prophit v. State, 12 Tex. App. 233; Thompson v. State, 16 Tex. App. 159; Brown v. State, 26 Tex. App. 540, 10 S. W. 112.”
+Mr. Branch in his valuable Texas Annotated Penal Code, in Sec. 493, p. 255, expresses the same principle a little more concisely and supports the text by the authorities cited, as follows: “Facts must be alleged by direct, certain and positive averments, and not by way of argument and inference. Moore v. State, 7 Texas App. 608; McQuerry v. State, 40 Texas Crim. Rep. 571; 51 S. W. 247; West v. State, 40 Texas Crim. Rep. 575, 49 S. W. 95; Bradford v. State, 40 Texas Crim. Rep. 632; 51 S. W. 379.”
+In support of his motion for rehearing appellant cites Eylar v. State, 37 Tex. Cr. R. 257, 39 S. W. 665; Mohan v. State, 42 Tex. Cr. 410, 60 S. W. 552; Freeman v. State, 88 Tex. Cr. R. 53, 244 S. W. 1087; Senterfit v. State, 41 Texas (Sup. Ct.) 186. While none of the cases last above cited are prosecutions for the same offense attempted to be charged against appellant it is difficult to escape their applicability to the question of the sufficiency of the present information.
+There being no direct or positive averment that the driving was done in Dallas County, or that the place named — the viaduct — was in Dallas County, it is only by inference.
+The motion for rehearing is granted, the judgment of affirmance is set aside and the judgment of the trial court is reversed and the prosecution ordered dismissed upon the present State pleadings.
+
+## Dissent (BEAUCHAMP, Judge)
+
+BEAUCHAMP, Judge
+(dissenting on rehearing.)
+I have again considered with much care the information and find myself wholly unable to agree with the majority opinion on the motion for rehearing.
+There is no disagreement as to the law involved. It is usually considered useless to dissent on a construction of the language or on facts, but the language is so plain and clear to my mind that I am unable to assent to the construction given it by the majority. My original opinion expresses my view. I respectfully dissent.
