@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26, 587"
+decided: "1953-11-25"
+citations: ["159 Tex. Crim. 331"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Juanita Biering v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2474520
+cites_cases: ["122 Tex. Cr. R. 271", "54 S.W. 2d 533"]
+---
+
+# Biering v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was charged by indictment with the offense of knowingly attempting to pass as true a forged instrument and, for the purpose of enhancement of punishment, the indictment further charged that appellant had been previously convicted for an offense of the same nature, to-wit: forgery. The jury found appellant guilty of attempting to pass as true a forged instrument and further found that she had been previously convicted of a felony of the same nature. The court rendered judgment fixing the punishment at five years in the penitentiary.
+W. E. Martin testified that on December 18, 1952, he maintained a checking account with the City National Bank in Houston, and that the authorized signature for drawing checks on this account was “W Tools & Dies E,” that is, “a capital ‘W’ with a long bar meeting the ‘E’ with the words ‘Tools and Dies’ written underneath that bar.” He further testified that the check marked State’s Exhibit No. 1 was signed in the manner, he signed checks on this account, but that it was not his signature and that he did not authorize anyone to sign same.
+Wade B. Robertson testified that he was a teller in the City National Bank and identified appellant as being the person that presented a check signed W. Tools and Dies E, with the W and E joined by a bar across the top, to him as teller at the bank for payment on December 18, 1952. He further testified that after he returned from checking the signature file and contacting an officer of the bank appellant was not at his window.
+H. J. Nichols testified that he was a teller at the City National Bank in Houston, Harris County, Texas, and worked at the window next to Wade B. Robertson. He further testified that he saw appellant on December 18, 1952, in the City National Bank at the next window which was operated by Mr. Robertson. He identified her as being the person who stood at the next window for several minutes while Mr. Robertson was investigating, and then left the building before Mr. Robertson returned. He further testified that there was an account in the bank as follows: “a capital ‘W’. The word ‘Tools’ and the hieroglyphic for ‘and’ and the word ‘Dies,’ and then the capital letter ‘E’, and that the ‘W’ and ‘E’ are joined with a bar.”
+Evidence was introduced showing that appellant was convicted on the 25th day of March, 1949, in the criminal district court of Harris County, Texas, for the offense of forgery, and that same was a final conviction, which facts were admitted by appellant during her testimony.
+During appellant’s testimony she examined the check marked State’s Exhibit No. 1 and testified that she never wrote the check nor any part of it.
+Appellant contends that the indictment is insufficient to charge the offense of attempting to pass as true a forged instrument upon the ground that the indictment fails to allege that the instrument therein set out purports to be the act of another person than the appellant.
+The indictment alleged the attempt to pass a forged instrument and sets out the alleged forged instrument by its tenor. The maker’s name being different from that of the payee, it was not necessary to allege that the act purported to be the act of another, nor whose act it purports to be. Branch’s Ann. P.C., pp. 855 and 874; Wisdom v. State, 122 Tex. Cr. R. 271, 54 S.W. 2d 533.
+Appellant contends that there is a fatal variance between the alleged maker of the check set out in the indictment, to-wit: “W. Tools & Dies E” and the maker of the check which is shown by State’s Exihibt No. 1, to-wit: “W. Tools & Dies E.” The only difference being that in the latter a line connects the letter “W” with the letter “E” and passes over “Tools & Dies.”
+We are unable to conclude that the omission in the indictment of the line or bar connecting the two letters which line appears on the check identified as State’s Exhibit No. 1, constitutes a fatal variance. Except for the line, the check is identical with that set out in the indictment.
+Appellant further contends that the forged check was not introduced in evidence.
+The evidence reflects that the check was offered in evidence while the jury was in the jury box, and appellant objected; that after a hearing in the absence of the jury, the court overruled the objection and directed that it be marked for identification and it was marked “State’s Exhibit No. 1;” that testimony concerning this exhibit was given many times during the trial, and it was shown to appellant by her attorney during her testimony.
+We conclude that the check above referred to was in evidence before the court and the jury.
+The evidence being sufficient to sustain the verdict and no reversible error appearing, the judgment of the trial court is affirmed.
+Opinion approved by the Court.
