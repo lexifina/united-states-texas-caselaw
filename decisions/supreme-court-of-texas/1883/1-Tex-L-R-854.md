@@ -1,0 +1,20 @@
+---
+court: "Supreme Court of Texas"
+decided: "1883-02"
+citations: ["1 Tex. L. R. 854"]
+reporter: "tex-l-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. A. McGUIRE et al. v. N. P. NEWHILL."]
+source_url: "https://static.case.law/tex-l-r/1/cases/0854-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1207735
+---
+
+# McGuire v. Newhill
+
+## Majority (Willie, C. J.)
+
+Opinion by
+Willie, C. J.
+The defendants in error have filed a motion to strike out the statement of facts, made part of the transcript in this cause, for the reason that said statement was not filed in the district court during the term at which the cause was tried, nor within ten days next after its adjournment, by order of the judge who tried it. ‘ The district court adjourned on January 30, 1880, the statement of facts was made out by the presiding judge on the 9th of the same month, and was filed on April 7th thereafter. In a certificate attached to the statement, the judge says, in effect, that it was made out at that time in pursuance of an order permitting it to be made up, signed and filed within ten days after the adjournment of the court, but no such order appears in the record. Article 1379, Revised Statutes, provides that “the court may, by an order entered upon the record during the term, authorize the statement of facts to be made up, and signed and filed, in vacation, at any time not exceeding ten days after the adjournment of the term.” This provision was intended to prevent delay in preparing a paper, the correctness of which depended so much upon the memory of the attorney engaged in the cause and of the judges presiding at its trial. Also, to insure its being deposited with the papers and not remaining too long in the hands of the judge, whose official duties might call him to other counties of his district. Hence the two very necessary requirements that an’order should be entered of record during the term, and that the paper should be made up, signed and filed within ten days of adjournment. The general rule which the statute wished to enforce was the preparation and fifing of the paper in term time. If, for satisfactory reasons, this could not be done, then special leave of the court must be had to vary from it, which must be evidenced by an order entered on the minutes during the term. The utmost limit allowed is ten days after the adjournment, and within that time the statement must not only‘be made up and signed, but it it must be filed also. These two conditions must be complied with, or the statement of facts will be of no avail. There is no provision made for any relaxation of the statutory requirements for any reason or excuse whatever, and we have no power to extend its provisions. In this case the order was not made in term time, so far as is disclosed by the transcript, although the judge recites that it was in his certificate, and we must look to the proceedings of the court alone to ascertain what orders it has placed upon the minutes. The statement, although made up within ten days after the adjournment of court, was not filed for three months afterward. For want of a compliance with these two requirements of the statute, we must hold that the statement is improperly in the record of the suit, and the motion to strike it out will prevail, and it will not be considered in the determination of the cause in this court. Motion granted.
