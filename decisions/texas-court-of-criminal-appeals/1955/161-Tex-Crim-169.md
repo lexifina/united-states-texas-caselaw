@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,238"
+decided: "1955-01-12"
+citations: ["161 Tex. Crim. 169"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harry F. Butcher, Jr. v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0169-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2465755
+cites_cases: ["144 Texas Cr. Rep. 249", "146 Texas Cr. Rep. 414", "162 S.W. 2d 411", "175 S.W. 2d 593"]
+---
+
+# Butcher v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant pleaded guilty to the charge of rape by force and the jury'assessed the death penalty.
+The evidence shows that appellant appeared at the back door of the home of the prosecutrix and her husband, about 5:30 or 5:45 a.m., and when the husband opened the door, presented a pistol and said “Take it cool, real cool.” He then directed the prosecutrix to tie her husband’s hands behind him and backed bim into a closet with the gun, then had her remove his billfold from his pocket and hand it to him. He closed the closet door but left “a crack” through which the husband could see most of the room, and told him to “take it calm” and not to pay any attention to what was going on in the room.
+Appellant then backed prosecutrix toward the bed and unclothed her, then removed most of his own clothes. He pointed the gun at the two-year-old son of the prosecutrix, when she asked him “not to do it,” and asked her if she would like to see the baby killed.
+The prosecutrix then was sent to the kitchen to get a glass of milk, and appellant met her in the hall as she returned, drank the milk and then ravished the prosecutrix there in the hall. He then returned her to the bedroom and had her get back on the bed.
+As he bent over her, the husband, who had freed himself from his bonds, came out of the closet, obtained possession of the pistol and struck appellant with his fist and with the pistol and it was discharged.
+Appellant pleaded for his life and held the prosecutrix in front of him, finally dragging her out of the room through the hall and into the bathroom, during which time the husband succeeded in shooting appellant in the leg.
+Officers were called and when they arrived appellant was being held at gun point by the husband of the prosecutrix, the husband, after wounding him and securing the release of his wife, having acceded to the plea of appellant “not to kill him and to let him die in the electric chair.”
+The appeal is predicated upon the failure of the trial court to submit to the jury, in mitigation of the punishment, the law regarding temporary insanity induced by the voluntary use of intoxicating liquor.
+The offense occurred in the early morning hours shortly after 5:30 o’clock. Appellant did not testify, and offered no witness who had seen him that morning.
+The prosecutrix testified that as far as she could tell, he appeared to be sober, and that she detected “no strong odor of alcohol or anything like that on his breath.”
+The testimony upon which appellant must rely to sustain his contention that the issue of temporary insanity induced by the voluntary use of intoxicating liquor should have been submitted is that of Mrs. Sue Bradley. She worked in a bar in Odessa and testified that she saw appellant about 7 or 7:30 on the previous night in the bar. Her testimony was: “I would say he had been drinking. He wasn’t what you would call drunk and he looked as if he might be on dope. His eyes had a glassy stare”; that he appeared to her normal in every respect “except about half tight”; “His eyes looked glassy.”
+The objections addressed to the court’s charge appear in the transcript, but it is not shown that they were presented to the trial court for his consideration. The same is true of the requested charge on the subject.
+Be this as it may, the evidence of Mrs. Bradley would not warrant the submission of the issue of temporary insanity at the time of the offense, or of intoxication at that time.
+The voluntary use of intoxicating liquor will not authorize a mitigation of punishment. Art. 36 P.C. applies only when it has produced temporary insanity. Kincheloe v. State, 146 Texas Cr. Rep. 414, 175 S.W. 2d 593; Barnett v. State, 144 Texas Cr. Rep. 249, 162 S.W. 2d 411, 415.
+That appellant may have been “half tight” or even drunk at 7:30 o’clock the night before would constitute no proof that he was drunk at the time of the commission of the crime to the extent that he was then temporarily insane.
+The evidence sustains the jury’s verdict assessing the extreme penalty and we find no reversible error.
+The judgment is affirmed.
