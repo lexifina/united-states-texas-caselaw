@@ -1,0 +1,73 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,376"
+decided: "1955-02-02"
+citations: ["161 Tex. Crim. 256"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Daniel B. Hughes v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0256-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2467190
+cites_cases: ["101 Texas Cr. Rep. 666", "113 S.W. 280", "153 Texas Cr. Rep. 557", "154 Texas Cr. Rep. 362", "160 Texas Cr. Rep. 114", "223 S.W. 2d 624", "227 S.W. 2d 216", "262 S.W. 2d 506", "267 S.W. 2d 836", "277 S.W. 123", "54 Texas Cr. Rep. 434"]
+---
+
+# Hughes v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for for murder; the punishment, 35 years in the penitentiary.
+This case was tried on April 3, 1953, and first docketed in this court under our Number 26,679. The appeal was dismissed for the want of a sentence. Hughes v. State, 262 S.W. 2d 506.
+Before the mandate in that case was received by the trial court, sentence was pronounced, the appeal from that sentence being docketed under our Number 26,965. The appeal was again dismissed. Hughes v. State, 160 Texas Cr. Rep. 114, 267 S.W. 2d 836.
+In the later opinion we held that the trial court was without authority to pronounce sentence while the appeal was pending, but would be authorized to do so after the appeal became final.
+The case has now been docketed in our court under our Number 27,376, a sentence having been pronounced after the mandate dismissing the former appeals had been issued and received in the trial court.
+Appellant points out that Art. 772 C.C.P. provides for the pronouncement of sentence nunc pro tune after the term has expired “unless an appeal has been taken.” He complains that our opinion last mentioned is to the contrary.
+The cases of Hinman v. State, 54 Texas Cr. Rep. 434, 113 S.W. 280; DeLaney v. State, 101 Texas Cr. Rep. 666, 277 S.W. 123; Ray v. State, 154 Texas Cr. Rep. 362, 227 S.W. 2d 216; and Walker v. State, 153 Texas Cr. Rep. 557, 223 S.W. 2d 624, support our holding, to which we adhere.
+The appeal is now properly before us and the sole remaining contention, that of the insufficiency of the evidence, will be considered.
+The deceased met his death at the hands of appellant. He was shot with a .410 gauge shot gun loaded with bird shot, fired at close range.
+Appellant testified in his own behalf and admitted the shooting, but claimed that he fired in self-defense believing, because of prior threats made and communicated to him, that he was in danger of death or serious bodily injury at the hands of the deceased.
+Tht evidence shows without dispute that appellant, who was married but who had filed a suit for divorce which was then pending, was keeping company with the divorced wife of the deceased; that the deceased was endeavoring to persuade her to remarry him, and had by word and by letter threatened to kill appellant.
+The deceased returned to Odessa from Carlsbad, New Mexico, August 31st. On the following morning he called the home of his former wife and, being informed that she had left the house with appellant to get a “coke,” asked her mother if they were going to get married. Mrs. McGuire, the mother, said they intended to do so as soon as he could get his divorce. The deceased then told Mrs. McGuire to tell appellant “to meet him and be prepared.”
+Mrs. Dorothy Hughes, who was the wife of appellant’s brother, testified that the deceased came to the trailer camp where she lived on the same morning and inquired for appellant. Being informed that he was not there, the deceased asked “where is he?” and said “I am going to kill him.” This threat, she testified, was communicated to appellant that morning.
+. The killing occurred at or near a service station where the deceased’s brother was employed.
+The evidence shows that appellant accompanied by the divorced wife of the deceased, who was the wife of appellant at the time of the trial, drove up to the filling station and stopped.
+The deceased went to the car and engaged in conversation with the occupants.
+A few minutes later a shot was heard and appellant was seen out of the car backing away from the deceased. He was re-loading the ,410 gauge shot gun he had in his hand, and the deceased was dying as the result of the shot fired.
+Paul Wilkins, brother of the deceased, was an employee of the filling station. Hearing the shot and seeing the result thereof, he rushed out of the building and came toward appellant as he was re-loading. He testified that appellant then put the gun to his shouldér, pointed it toward him and said “Take another step you S. of a B. and I will kill you too.” Paul then proceeded to his brother who called to him and knelt at his side.
+He further testified, and there was other evidence to show that Pat, the deceased’s divorced wife, then got her hands on the shot gun and appellant was “trying to get the gun away from the girl, trying to get the barrel out of her hands and attempted to raise it to his shoulder again.”
+The testimony from the standpoint of the state further shows that the deceased had reported to his brother that appellant had been looking for him with a gun and knife and wanted to kill him, and that he was persuaded by his brother to quit his job and go to Carlsbad to avoid trouble; that at the time he was killed, the deceased was in his shirt sleeves and was unarmed, no weapon being seen or found on or near him or his fallen body.
+Both appellant and his wife Pat testified, however, that when the deceased came to the car he took a pistol out of his shirt and asked appellant if he had a gun, to which appellant replied “No.” The deceased then said “You go get one,” and appellant said “Okay”; that the deceased “said something about going out in the country and having it out.”
+Appellant testified to the various threats made and communicated to him and said that after being informed by his brother that the deceased was in town and was hunting for him, he called the police and upon their suggestion put a loaded .410 gauge shot gun in the back seat of his car and started with the girl he had since married to the races. He pulled in at the filling station when motioned by the deceased.
+His version of the shooting is shown by the following excerpts from his testimony:
+“I said ‘What do you want Thurman?’ and he said T want to talk to you’ and I said ‘Well, I heard you wanted to see me.’ He said T want to know what you are going to do.’ I said ‘I’m going to marry Pat when I get my divorce.’ He said ‘Is that what she wants?’ I said T don’t know; ask her’ and he said ‘Is it?’ and she said ‘Yes.’ He said ‘Well, I’m going to have it out with you’ and I said ‘Yes?’ and he said ‘Let’s just gó out in the country and have it out.’ I said ‘Why not right here?’ I thought maybe the man might want to fight. I’ll fight anybody, not with guns and knives like a bunch of hoodlums.”
+“He said ‘All right,’ and he pulled out his gun. He had his gun in his shirt and he had to reach down and unbutton it, but, first, I’m leaving something out. He said ‘You don’t believe I got a gun?’ and I said ‘Thurman, I don’t know whether you’ve got a gun or not,’ and he asked me that three times. He acted like he wanted me to say ‘no’' and I wouldn’t. I said T don’t know’ and he reached down, and he unbuttoned it and reached in and got it and turned this way (indicating with his head), took it and loaded it, turned back around, stuck his hand into the car in front of my wife and pointed it at me and says ‘I’m ’ going to kill you.’ He said ‘Have you got a gun?’ and I said ‘No,. I haven’t got a gun.’ I would have been a damn fool if I had said I had a gun. He would have killed me right there. ‘Self , defense’ so it would have been. He said, ‘Well, you go get you a gun.’ I said ‘O.K.’ and I started off and the car started jumping and it stopped. Just before it stopped, I looked back and here he comes back with the gun, not pointed at me, but he had it in his hands walking towards me, like he had changed his mind and was going to kill me, so I stopped and jumped out and - - grabbed my gun and jumped out of the car and ran around the back of the car and he was turned like this (demon-, strating). When I came around the car, he started toward me with the gun in his hand. He undoubtedly must have changed his mind, or something, because he had his gun sticking right here. (Indicating.) Whenever I ran around the car with my gun, he grabbed for his gun and jerked it out and, when he did, I shot him.”
+Asked regarding whether he was in fear of his life or serious'1 bodily injury at the hands of the deceased, he answered: “Well,' he was coming after me with that gun after I had already started off. I had sheared my teeth off of the first gear and I had forgotten it and I was sitting there with my car running and I had it in second gear with my clutch on. I think that is the way I had it. I had my clutch on in gear. I know my foot was jumping when he was talking to me and I couldn’t hardly hold it.---When I looked back through that window after I started off and saw him coming back towards me with that gun, I knew he was going to shoot me before I could get the car going: again____”
+He denied that he had any intent to kill, and said that “When I had the gun pointed at him and when he started for his gun ---he had his gun here (indicating)---and when I came around the car he done like this (indicating) and started out with it, and I went on completely around the car. He was kind of turned with me; he wasn’t facing me. I wouldn’t shoot a gun forward. He was standing like this (demonstrating) wheré he could shoot at me.”
+On cross-examination appellant testified:
+“Q. All right, you jumped out, didn’t you? You stopped the car and you jumped out and ran around the car? A. I didn’t stop the car. The car came to a complete stop. It was still jumping. When he started toward me, I jumped out of the car and got my gun, yes, sir.
+. “Q. All right, and then you put the gun on him? A. I came around the car and he was kind of facing away from me when I got around the car and he grabbed for his gun when he saw me.
+“Q. Grabbed for his gun, didn’t he? A. Yes, he did.
+“Q. That’s right. He had already gone and put the gun back down in his breeches, hadn’t he? A. He sure had.
+“Q. And you are telling and wanting the, gentlemen of this jury to believe that this man was advancing on your car with a gun in his hand? A. He was. ...”
+“Q. Is it your testimony, then, that after he was advancing on the car, when you got out to get your shotgun out of the back seat, he put his gun back down in his breeches? ... A. (Interrupting) I don’t know if he did or not, but that’s where he had it when I came around the car. 1
+“Q. But he had it in his hand advancing on your car when you jumped out? A. That’s right.
+“Q. And then the gun somehow gets down in his breeches. Is that right? A. I guess it is.”
+* * * *
+“Q. Did the dead man ever get his gun out in his hand before you shot him? A. Yes, sir.
+“Q. Did you see him fall? A. Yes, sir.
+“Q. When he fell, was his gun in his hand? A. I don’t know.
+“Q. You looked at his hands, didn’t you? A. I coudn’t see his hands the way he fell. When he fell, he kind of turned on his side and I couldn’t see his hands.
+“Q. In other words, the gun - - now this is important - - the gun, if he had one, was in his hands when he fell? A. That’s right.
+“Q. And that’s your testimony? A. Yes.
+“Q. And you want this jury to believe it. A. It is the facts.”
+Appellant offered in evidence his voluntary confession about which he had been questioned on cross-examination.
+That part of the confession wherein he related his version of the transaction after the deceased told him to go get a gun and come back and he had agreed, reads as follows: “The car was running, and I put it in gear and drove it up about ten feet. I stopped the car, and jumped out and pointed the gun at him. I did not shoot him then, but waited until he turned around and reached for his gun under his shirt, and when he did I shot him____”
+It is apparent from the interrogation of the witnesses that it was the theory of the defense that the deceased was armed with a pistol and that after he was shot the pistol was taken from his shirt or hands by his brother Paul and secreted.
+I
+But the evidence does not so show, and the jury was warranted in finding that the deceased was unarmed; that he threatened but did not attack or make any gesture or do any act which caused the appellant to believe that he was in danger of death or serious bodily harm as he sat in the car, as he drove away, or as he came from the car and shot and killed the deceased.
+Threats against his own life will not afford a justification for a homicide unless it be shown that at the time thereof the person killed, by some act then done, manifested an intention to execute the threat so made.
+The court, in his charge, properly submitted to the jury the law of threats and self-defense, and the theory of the defendant was rejected by the jury.
+The evidence is deemed sufficient to sustain its verdict and we find no reversible error.
+The judgment is affirmed.
