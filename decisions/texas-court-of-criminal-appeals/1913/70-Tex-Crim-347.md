@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2443"
+decided: "1913-05-07"
+citations: ["70 Tex. Crim. 347"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cora Johnson v. The State."]
+source_url: "https://static.case.law/tex-crim/70/cases/0347-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2381328
+---
+
+# Johnson v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of theft from the person, her punishment being assessed at two years confinement in the penitentiary.
+There are no bills of exception in the record. Three grounds are set up in the motion for new trial. First, the evidence is not sufficient to justify the conviction; second, the court erred in refusing the defendant time on day of trial to inform -her attorney who had just been employed to get a witness that was material to her defense; and, third, since the trial of this cause she has discovered new testimony which she was unable to secure before for the reason she had no attorney to locate the witness whose affidavit is hereto attached and made a part of the motion. Attached to this motion is the affidavit of appellant to the effect that the evidence of Lillie Hill could not be obtained as she did not know where she lived and had no attorney to search for or locate her. She states that the testimony of such witness is material. This is the entire affidavit. Lillie Hill filed an affidavit in which she states that on the night that Cora Johnson was arrested, “I and Cora left the moving picture show on Commerce Street and came down Travis until we got to Main Avenue, and I left Cora; she went north on Main Avenue and I went south towards Houston Street, and I did not see her any more. And the next morning I heard that she had been arrested charged with vagrancy. This was on the night of the 27th of October, 1912.” This is her entire affidavit. All of the facts that Lillie Hill set out in her affidavit were known to appellant before the trial, and there was no effort made to secure her attendance at the trial. It is not necessary for her to employ a lawyer in order that she might ascertain what Lillie Hill states. If Lillie Hill is swearing the truth appellant knew as much about it as did Lillie Hill, and it was not necessary for her to have an attorney to inform her of a fact that- she already knew. Viewed in the light of the record, there is nothing in that part of the motion. None of these matters were excepted to at the time of trial, and are only brought forward in the motion for new trial.
+The alleged newly discovered evidence is not such as comes within any rule laid down by the statute or our criminal jurisprudence. It is not such evidence as could have possibly affected her trial. Taking Lillie Hill’s testimony as true, she separated from appellant before the occurrence of the alleged offense, towit, the taking from the person of Irwin M. Smith his pocketbook and money.' We are of the opinion that the evidence is sufficient to justify this conviction. In brief and substantially the statement of facts discloses that Smith, the alleged owner of the property taken, was walking along the street near where there seems to have been a crowd; at least it was during some sort of a carnival or exhibition in San Antonio that brought about quite a gathering of people, and the band was just emerging from the street car as Smith passed that immediate section. He felt something brush against his person, and felt and ascertained that his pocketbook had been taken from his hip pocket, containing $61 and some cents. Appellant ran away and was chased by Smith, and finally officers were called and she was arrested and carried to the police headquarters. She did not have the pocketbook when examined at police headquarters, but early the next morning before day at the point where she was arrested, search was made for the pocketbook and it was found where she had thrown it into a private enclosure. The evidence, though circumstantial, is convincing of the fact that appellant got the pocketbook, and when the officers ran upon and arrested her, 'she discarded it by throwing it over into a nearby premises. The evidence meets fairly and cogently the rule of circumstantial evidence, and excluded every other reasonable hypothesis except the fact that she obtained Smith’s pocketbook and placed it where it was found. The evidence is also sufficiently convincing to show that no one else got it except appellant, and in fact the evidence would exclude the idea that anyone else except appellant conveyed the pocketbook to the point where it was found. She denied taking the pocketbook from the person of Smith. The jury was authorized to believe that she did, and the facts are sufficient to support their finding.
+The judgment is affirmed.
+Affirmed.
