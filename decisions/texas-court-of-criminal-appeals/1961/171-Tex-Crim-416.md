@@ -1,0 +1,58 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,614"
+decided: "1961-10-02"
+citations: ["171 Tex. Crim. 416"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bethel Raymond Fairris v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0416-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2638200
+cites_cases: ["329 S.W. 2d 864", "336 S.W. 2d 625"]
+---
+
+# Fairris v. State
+
+## Majority (McDonald, Judge.)
+
+McDonald, Judge.
+Appellant was found guilty by a jury of the primary offense of robbery by assault. The indictment charged an habitual criminal, it being alleged that before the commission of the instant offense of robbery by assault, he had been convicted of the prior offenses of burglary and robbery by assault. In addition to finding appellant guilty of the instant or primary offense, the jury rejected appellant’s plea of not guilty and further found that he had previously been convicted of robbery by assault, an offense of like character and of the same nature. The punishment provided by law is life imprisonment in the penitentiary, which was assessed appellant by the court after the jury’s finding of guilt on both counts of the indictment.
+The evidence reflects that at about 10:15 p.m., on the evening of September 15, 1960, William Marvin Hall, accompanied by Joy Dale Scales, returned to Hall’s house at 808 West Main in Houston, Harris County, Texas. A short time after they had entered the house the appellant and his companion, holding guns, stepped out from behind a door. Even though appellant and his companion were wearing women’s stockings and handkerchiefs across their faces, appellant was positively identified by both Hall and Miss Scales. After forcing Hall and Miss Scales to lie down on the floor, appellant and his companion tied their hands securely behind their backs. Then they took them to an upstairs bedroom where, for a perior of longer than an hour appellant and his companion tortured, beat, and burned them with cigarettes in an effort to make them tell where they believed Hall was concealing a large sum of money. The pair had already taken approximately $250 from Hall’s coat. Hall told appellant that his money was at his gift shop located on the Old Spanish Trail in Houston, and also told him that an employee, Shirley Dunn, was the only one who had a key to the gift shop. Appellant then forced Hall to call Shirley Dunn and have her bring the key to Hall’s house. Shortly thereafter, Shirley Dunn and her boy friend arrived at Hall’s residence. Joy Dale Scales had been untied and she admitted the couple into the room, and they were immediately tied by the appellant and his companion. After a conference in another room, the appellant and his companion decided that the appellant’s companion would take the key and go to the gift shop to obtain the money. The companion left and appellant stayed to guard the four prisoners. When appellant want into the kitchen to get a glass of water for Hall, Hall, with his hands tied, leaped head-first through a window in the living room and ran down the street. Appellant then ran from the house. The companion of appellant came back shortly thereafter and upon learning what had happened, also fled from the scene. Appellant and his companion were arrested later and were positively identified in a police lineup by Hall, Joy Dale Scales, and Shirley Dunn.
+A woman’s stocking and handkerchief, found near Hall’s house the next day by a neighbor, were delivered to the police. Upon inspection, human hairs were discovered in the stocking, which Chemist and Toxicologist Crawford testified had many similar characteristics, and no dissimilar characteristics, to the known samples of hair from the head of appellant.
+A white Buick, 1960 automobile, bearing a license plate No. PY 3712, which had been purchased a short time before by the appellant, was seen by police officers a short distance from Hall’s house shortly after the incident occurred, and was seen to drive away at a high rate of speed.
+Appellant’s defense was that of alibi. Through the testimony of Margaret Davis, an admitted common prostitute, he attempted to show that he was in Dallas on the evening that the offense occurred. Margaret Davis testified that she and another girl picked up the appellant in Houston and took him to Dallas, where he registered at the Town House Motel.
+Ross N. Baird, of Dallas, testified that he saw appellant in Dallas on the evening of September 15, 1960, and talked to him concerning the employment of appellant at a later date.
+Appellant did not testify in his own behalf.
+The evidence is amply sufficient to prove the primary offense of robbery by assault.
+Because of the variance in the alleged date of the conviction and that appearing in the judgment of conviction of the first prior offense of burglary, the state was unable to prove that particular offense.
+The state did amply prove that the appellant had been convicted of the prior offense of robbery by assault in 1953, as alleged in the indictment.
+The jury rejected the defense advanced by the appellant to the primary offense and found him guilty of that offense and that he had been convicted of the prior alleged robbery by assault.
+The record contains no formal bills of exception. The appellant made no objections to the court’s charge, and no requested charges were presented.
+Several informal bills of exception appear in the statement of facts, none of which require discussion, as all of them are without merit.
+Appellant’s counsel filed no brief.
+Finding no reversible error and deeming the evidence abundantly sufficient to support the verdict, the judgment is affirmed.
+
+## Rehearing (WOODLEY, Presiding Judge.)
+
+ON APPELLANT’S motion for rehearing
+WOODLEY, Presiding Judge.
+Appellant contends that the indictment is fatally defective and will not support an enhancement of punishment under Art. 62 P.C. He cites and quotes from the majority opinion on rehearing in Granado v. State, 168 Tex. Cr. Rep. 525, 329 S.W. 2d 864, 868:
+“It has now been called to our attention that the indictment before us fails to allege that the offense set forth in paragraph 4 was a like offense or one of the same nature as the primary offense charged. This Court has repeatedly held that such is an essential allegation in order to sustain a conviction under Art. 62 Vernon’s Ann. P.C. The omitted allegation is one of substance, and its omission is fatal.”
+The case before us demonstrates the fallacy of the quoted holding.
+Art, 62 P.C. provides. “If it be shown on the trial of a felony less than capital that the defendant has been before convicted of the same offense, or one of the same nature, the punishment on such second or other subsequent conviction shall be the highest which is affixed to the commission of such offenses in ordinary cases.”
+The indictment herein alleged the offense of robbery by assault, a felony less than capital.
+The prior conviction alleged to enhance the punishment was for a like offense; robbery by assault, a felony.
+As a matter of law the offense in the prior conviction was “the same offense, or one of the same nature” as the offense for which appellant was tried and convicted.
+Reference is made to the writer’s dissent in Granado v. State, supra, and cases there cited, and to his concurring opinion in Gibbs v. State, 336 S.W. 2d 625, 626.
+Had the indictment further alleged that the prior conviction for robbery by assault was for an offense of like character and of the same nature as that charged against him, to-wit robbery by assault, no additional proof would have been required to sustain such allegation and no evidence to the contrary could have been produced.
+We agree that the court should be reluctant to overrule its prior decisions. However, when a prior holding is clearly wrong, the court should not cast itself in the position of relying upon its previous errors to justify another.
+The quoted holding in Granado v. State, supra, is overruled, as is appellant’s motion for rehearing.
+
+## Rehearing (MORRISON, Judge)
+
+ON MOTION FOR REHEARING
+MORRISON, Judge
+(dissenting).
+In writing for the majority in Granado v. State, supra (1959), I cited ten authorities which supported the holding of the Court. My brother, who dissented in Granado and who today writes for the majority, says that Granado is “clearly wrong.” I again call attention to the authority which supports the holding in Granado and respectfully dissent.
