@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,805"
+decided: "1960-04-06"
+citations: ["169 Tex. Crim. 277"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. B. Barker v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0277-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12138907
+cites_cases: ["129 S.W. 2d 657", "137 Tex. Cr. R. 413", "156 Tex. Cr. R. 231", "160 Tex. Cr. R. 471", "162 Tex. Cr. R. 543", "240 S.W. 2d 777", "272 S.W. 2d 106", "287 S.W. 2d 487"]
+---
+
+# Barker v. State
+
+## Majority (WOODLEY, Judge)
+
+WOODLEY, Judge
+The offense is operating a motor vehicle upon a public road while intoxicated, second offense; the punishment, 5 months in jail and a fine of $100.
+Highway Patrolman Durrough testified that appellant “was driving all over the road and running cars off the road” when he observed the car, pursued and stopped it and, after observing appellant and concluding that he was intoxicated, placed him in the patrol car and took him to the Gladewater Police Station.
+Patrolman Durrough testified that at his request, and in his presence, a blood specimen was taken from appellant by a nurse at the Leake Hospital in Gladewater.
+The blood was placed in a container prepared for the purpose and mailed to the laboratory of the Texas Department of Public Safety in Dallas.
+George E. Browne, chemist and toxicologist, testified that he examined the contents of the container and found that the blood “contained an alcoholic content of zero point two seven (0.27), that’s milligrams per cubic centimeter of blood.”
+Having testified to his experience and training and his qualifications in regard to the matter, the witness Browne testified that all persons are intoxicated when the alcoholic content of their blood reaches the level of zero point one five (0.15), and that in his opinion the person from whom the specimen was taken was intoxicated.
+Appellant was identified as the person tried in the misdemeanor conviction alleged in the indictment, and certified copies of the judgment, complaint and information were introduced.
+Appellant did not testify and no evidence was offered in his behalf on the question of his state of sobriety at the time of his arrest.
+Reversal is sought upon two grounds.
+He first complains that his motion to quash the indictment should have been sustained, the ground being that the misdemeanor conviction pleaded therein could not be used for the reason that the original judgment signed by the judge who presided at the trial provided for a probated jail term.
+The certified copy of the judgment introduced by the state was regular in form and showed a conviction in the county court with punishment assessed at 3 days in jail and a fine of $50.
+Appellant called the clerk of said county court, and proved by him that the judgment signed for entry by the county judge contained an additional paragraph ordering that the three days confinement in jail be “commuted to a probation period of 6 months as provided by Art. 802 of the Penal Code” and that upon payment of the fine and costs the defendant should be released from custody. The judgment containing this provision was offered in evidence.
+Appellant relies upon Gilderbloom v. State, 160 Tex. Cr. R. 471, 272 S.W. 2d 106, holding that the provision of the statute authorizing probation of the jail term was unconstitutional and inoperative, and argues that in the absence of a nunc pro tunc entry of a proper judgment, the prior misdemeanor judgment is not final, and not available as a first conviction in a prosecution under Art. 802b V.A.P.C.
+The holdings of this court are to the contrary.
+In Ex parte King, 156 Tex. Cr. R. 231, 240 S.W. 2d 777, we held that a judgment or sentence containing an irregularity which may be reformed on appeal or by nunc pro tunc entry is not void, and may not be collaterally attacked.
+In Lenore v. State, 137 Tex. Cr. R. 413, 129 S.W. 2d 657, it was held that a prior judgment providing for a fine of $25 when the minimum punishment provided by law was a $100 fine was erroneous, but not void, and was available for enhancement of punishment in a prosecution for a subsequent offense.
+The second ground for reversal is predicated upon the contention that the evidence relating to the taking of the blood test and its analysis was inadmissible, and that it was not necessary for appellant to object to such testimony. Reliance is had upon the majority holding in Trammell v. State, 162 Tex. Cr. R. 543, 287 S.W. 2d 487.
+In the Trammell case, the blood was taken at the hospital at a time when Trammell was, according to his testimony, unconscious and the state failed to show that the specimen was taken with his consent.
+When Dr. Mason was asked about the analysis of Trammell’s blood, objection was made that it had not been shown that Trammell consented to the taking of his blood, or that the blood was taken for the purpose of treatment.
+The testimony as to the results of the test in the case at bar was admitted without any objection that the test was taken without the consent of the accused and therefore Trammell v. State is not controlling.
+The judgment is affirmed.
