@@ -1,0 +1,54 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,531"
+decided: "1957-01-30"
+citations: ["164 Tex. Crim. 433", "164 Tex. Crim. 199"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willie James Henry v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0433-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2609780
+cites_cases: ["108 Texas Cr. Rep. 367", "121 Texas Cr. Rep. 465", "121 Texas Crim. Rep. 465", "123 Texas Cr. Rep. 86", "123 Texas Crim. Rep. 86", "155 Texas Cr. Rep. 486", "20 A.L.R. 1249", "237 S.W. 2d 301", "239 S.W. 218", "300 S.W. 938", "50 S.W. 2d 315", "57 S.W. 2d 1102", "91 Texas Cr. Rep. 318"]
+---
+
+# Henry v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for murder, with punishment assessed at ninety-nine years in the penitentiary.
+The undisputed evidence shows that the killing was the cumulation of an argument, in the back of a building occupied by Charley Williams, between the appellant and the deceased as to whether they would engage in a dice game. Williams operated a cafe under the name of “Rumboogie,” which was across the street from the building. The argument ended when deceased slapped appellant “up the side of his head.” Appellant left immediately and, as he did so, was heard to say, “ ‘okay’ ”. Deceased quickly followed appellant out of the building. Upon getting outside, appellant turned in one direction around the building, while deceased turned in the opposite direction. Some three or four minutes thereafter, a shot was heard which, it later developed, was from a .22 caliber rifle fired by the appellant and killing the deceased. After leaving the building before the shooting, appellant was heard to say, “I will kill the s-o-b that slapped me.”
+The foregoing is taken from the state’s testimony.
+The evidence on the part of the state tended to show that the killing was unjustified.
+For a determination of the question presented, no further statement of the facts or of appellant’s defense is deemed necessary.
+The facts raised the issue of killing without malice aforethought. A submission of that issue to the jury was therefore called for.
+The trial court submitted to the jury the statutory definition of murder without malice, as provided by Art. 1257c, Vernon’s Ann. P.C., in the following language:
+“Murder without malice is a voluntary homicide committed without justification or excuse under the immediate influence of a sudden passion arising from adequate cause, by which it is meant such cause as would commonly produce a degree of anger, rage, resentment or terror in a person of ordinary temper sufficient to render the mind incapable of cool reflection.”
+The trial court, however, did not make an application of the law of murder without malice to the facts as is required by Art. 1257c, Vernon’s P.C., wherein the court is required “to apply the law to the facts as developed from the evidence.”
+The exception reserved to the charge is deemed sufficient to preserve for our consideration the failure to apply the law of murder without malice to the facts. The question presented was before this court in Privett v. State, 123 Texas Cr. Rep. 86, 57 S.W. 2d 1102, and in Youngblood v. State, 121 Texas Cr. Rep. 465, 50 S.W. 2d 315.
+In the Privett case, we said:
+“This court has expressly held that the giving of the mere abstract statutory definition of murder without malice is not a sufficient compliance with the statute, and, further, that an instruction to the jury that punishment could not exceed five years in the event the jury had a reasonable doubt as to whether the accused acted upon malice was not sufficient to meet the demand of the statute that the court, in appropriate terms, apply the law to the facts.”
+In the Youngblood case, we said:
+“In connection with the definition of murder without malice, the court should have in some appropriate language told the jury, in substance, that if they believed from the evidence that, at the time accused killed deceased, if he did, accused was laboring under the immediate influence of sudden passion, such as anger, rage, resentment, or terror, which rendered his mind incapable of cool reflection, and that such condition of mind was brought about by circumstances or conditions which would have commonly produced such state of mind in a person of ordinary temper, or if they entertained a reasonable doubt as to whether the killing occurred under such circumstances, then, in no event, could they inflict a greater punishment than five years in the penitentiary.”
+There appears no escape from the conclusion that, under the mandate of Art. 1257c, Vernon’s P.C., a trial court in submitting murder without malice should apply the law to the facts covering that issue.
+We are constrained to conclude that the charge was erroneous in the particular pointed out and that such error requires a reversal of the conviction.
+The judgment is reversed and the cause is remanded.
+
+## Rehearing (DICE, Judge.)
+
+ON STATE’S MOTION POR REHEARING
+DICE, Judge.
+State’s counsel insists that our reversal of the conviction, because of the court’s failure to apply the law of murder without malice to the facts, was error because the court did apply such law to the facts and for the further reason that appellant’s objection to the charge was a general objection and not sufficient to apprize the court of"the error complained of:
+We have again examined the record and remain convinced that the issue of murder without malice was raised by the testimony and that the court, in its charge, failed to make application of the law to the facts as required by Art. 1257c, Vernon’s Ann. P.C.
+We need not pass upon the "sufficiency of the objection in view of another error in the charge which calls for a reversal and to which appellant did specifically object.
+Appellant’s thirteenth objection to the charge was: “Because it nowhere contains an instruction on the law of ‘self defense’ which is an affirmative defense amply raised by the testimony and the accused is entitled to have the jury properly instructed on the law of self defense.”
+Nowhere in the charge was the jury instructed on the appellant’s right of self defense. Such an instruction should have been given as the issue was raised by the appellant in his own testimony, from which we quote:
+“Q. At the time, Henry, you fired the shot that killed Irving Washington, did you at that time believe your life was in danger at his hands? A. Yes, sir. * * *
+“Q. Now, Henry, I believe you stated you honestly believed your life to be in danger; was that your statement? A. Yes, sir.”
+Evidently the trial court considered that the issue of self defense was raised because he thereafter admitted testimony by the appellant as to antecedent acts of the deceased which was offered on the issue.
+Upon another trial, the court should charge upon the law of murder without malice and make application of the law to the facts and should instruct the jury that in passing upon the issue of murder with malice and murder without malice the jury should give the appellant the benefit of any reasonable doubt as to the existence of malice. See Richardson v. State, 91 Texas Cr. Rep. 318, 239 S.W. 218, 20 A.L.R. 1249; Sparks v. State, 108 Texas Cr. Rep. 367, 300 S.W. 938; and Pollard v. State, 155 Texas Cr. Rep. 486, 237 S.W. 2d 301.
+The appellant should also be permitted to testify as to the condition of his mind at the time he killed the deceased on the issue of whether he was actuated with malice.
+The motion for rehearing is overruled.
+Opinion approved by the Court.
