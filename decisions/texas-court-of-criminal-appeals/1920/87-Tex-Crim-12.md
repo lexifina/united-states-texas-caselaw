@@ -1,0 +1,46 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "5685"
+decided: "1920-02-25"
+citations: ["87 Tex. Crim. 12"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. T. Garrett v. The State."]
+source_url: "https://static.case.law/tex-crim/87/cases/0012-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4790406
+cites_cases: ["121 S. W. Rep., 859", "122 S. W. Rep., 877", "173 S. W. Rep., 299", "44 Texas Crim. Rep., 81", "57 Texas Crim. Rep., 308", "57 Texas Crim. Rep., 55", "76 Texas Crim. Rep., 191"]
+---
+
+# Garrett v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Appellant was convicted of felony theft, in the District Court of Eastland County, and his punishment fixed at two years confinement in the penitentiary.
+In his motion for a new trial, appellant complains of the insufficiency of the evidence to support a conviction for felony. The testimony in the record shows that in places apparently under the control of appellant, were found more than enough of the property of the prosecuting witness, to aggregate in value $50. In fact, it is shown that one carton of cigarettes so found and identified, was of the value of $73. Unfortunately, we find in the indictment no mention of cigarettes. The indictment describes and fixes the values of the alleged stolen property, as 'follows:
+One mirror, .....................................$4.65
+One traveling set, .............................. 2.65
+One flashlight, ................................... 2.05
+Two bottles of toilet water, ................. 4.40
+One kodak, .................................... 9.25
+Four fountain pens, ............................. 7.60
+One razor, ...................................• •.. 6.25
+Two fountain pens, ......................... 5.40
+One bottle of toilet water, ........................ 2.20
+Three boxes of cigars ...........................16.50
+One flashlight, .................. 2.50
+One flashlight and battery, .......................1.65
+Totaling the above, it appears to be of an aggregate value of $65.10.
+The proposition is unanswerable that no matter what amount of other property the accused may be shown to have stolen at the time and place alleged, such proof would not support a conviction, unless it also appear that the property described in the indictment was stolen, and in case it be claimed that the theft was a felony, such claim must be sustained by proof of the taking of enough of the property mentioned in the indictment, to aggregate $50 in value.
+Examining the testimony of Mr. Martin, the owner of the alleged stolen properly, we find no statement anywhere that he had lost a kodak, and the only reference in the entire testimony to a kodak, is found in his statement that he and the sheriff found in appellant’s room a kodak, which he did not take, because he could not swear to it. The alleged value of the kodak was $9.25, and since there is no proof that it was stolen, or that Mr. Martin lost any such property, such value should be deducted, which would leave an aggregate value of the remaining property described in the indictment, of, to wit, $55.85.
+Mr. Martin does not say he lost any razor, nor is any mentioned as being found in the possession of appellant. The alleged value of the razor was $6.25. Deducting this from the total, leaves the aggregate of the remainder, of the property described in the indictment, at less than $50.
+Mr. Martin nowhere states that he lost any flashlights, but does say that he found one in the possession of appellant, which he carried back to his-place of business; but he did not know whether same was his or not. If the value of the three flashlights mentioned in the indictment—or even two of them—be eliminated, the aggregate value of the remaining property described would be considerably less than $50. It follows that we think the evidence does not support the verdict finding the appellant guilty of a felony.
+We are at a loss to know why the carton of cigarettes, valued at $73, is not included in the list of articles alleged to have been stolen.
+We also note in the testimony of Mr. Martin, that $100 worth of toilet articles were found in appellant’s room, each and every one of which, he says, had his mark thereon. Just how these things were not listed and included in the indictment, we do not understand, but in the absence of such mention in the indictment, we cannot consider their value in determining whether or not appellant is guilty of a felony.
+We cannot permit convictions to stand unless the proof shows with some degree of certainty that the property, as described in the indictment, was taken, and that such property belonged to the alleged owner, and was lost by him in some way.
+It is contended by the appellant that it was not shown with any certainty that as much as $50 worth of property was taken at any one time. Where there is a dispute on this question, based on any tangible evidence, or lack of same, the court should submit its decision to the jury, under an applicable instruction. The loss of any considerable property at or about the same time the taking of which may be attributed to the accused, will support a verdict finding him guilty of theft of all such property, if said matter be submitted for the jury’s decision under a fair charge. So, also, where there is a doubt from the evidence, whether or not a sufficient amount of the property was taken at .one time to constitute a felony, the trial court should resolve the doubt in favor of the accused, and submit the law of misdemeanor theft, and leave the decision of that question of fact to the jury.
+We are unable to find in the record, any testimony that appellant made an explanation of his possession of recently stolen property. Appellant testified on the trial as to how he came by certain of the property, which he claimed to belong to himself. Under such state of case, we think a charge on the theory of the explanation of possession of recently stolen property, would not be called for, but that the defense appearing from the testimony as given, should be pertinently submitted. If it should appear that when confronted with the fact of his possession of said property, or any part thereof, or that the same was found in any room under his control, appellant made any explanation which is admitted in evidence, then the charge on his explanation of such possession should always be given.
+For the errors mentioned, the judgment of the trial court must be reversed and the cause remanded.
+Reversed and remanded.
