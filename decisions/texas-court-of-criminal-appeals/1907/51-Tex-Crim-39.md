@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3848"
+decided: "1907-02-20"
+citations: ["51 Tex. Crim. 39"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bill Skeen v. The State."]
+source_url: "https://static.case.law/tex-crim/51/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4550490
+cites_cases: ["20 S. W. Rep., 549", "24 S. W. Rep., 904", "38 Texas Crim. Rep., 616", "47 S. W. Rep., 1015"]
+---
+
+# Skeen v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of rape, and his punishment assessed at five years confinement in the penitentiary.
+The State proves some suspicious circumstances against appellant; among other things, that he was seen to crawl into a covered wagon where the alleged ravished female was on two occasions. They were not seen in the act of intercourse. A physician testifies, after examining the girl, that she had been penetrated at some time, and that her private parts were sufficiently expansive to entertain the private member of an ordinary man. This examination occurred perhaps on same day of the alleged rape. He did not undertake to say that she had been penetrated by the male organ, but had received some instrument or organ as large as that of an ordinary man; that her hymen was gone, and that the indications around the female canal or generative organ showed that she had either been entered by a male organ, or with her finger, or with some other substance; that some children lacerate the hymen themselves with their fingers or some other instrument. Further testifying, he says: “Q. The examination you made of her, what was the condition of the vagina? Was there evidence of any recent attack ? A. The vagina was in normal condition. Q. No evidence there of a recent attack was there ? A. There was not especial evidence of any injurious attack, but it may have been a recent attack,—it could have been from the condition. Q. From your examination of her, was it possible for you to tell from the condition of her vagina whether or not there had been a recent attack ? A. No sir, at that time we could not positively tell-whether or not.” Under these circumstances the State rested its case and appellant’s counsel demurred to the evidence, the jury being retired for that purpose. The jury were brought back and the court placed the prosecutrix upon the stand and examined her for some time; then the State’s attorney examined her, all of which appears in the record. The alleged injured female swore most emphatically that appellant had not had intercourse with her at any time. The prosecuting officer then asked if she had not made different statements to himself in his office and before the grand jury. She answered that she had and the reason for making a different statement was that she had been threatened, if she did not, with being sent to jail. He then, over protest and exception of appellant, introduced in evidence her statements made to the county attorney and before the grand jury, in which statements she acknowledged that appellant had on one occasion had intercourse with her. Without going into any detailed discussion of the grounds of exception, we hold this testimony, in regard to her statements to the county attorney and before the grand jury, was clearly inadmissible under the circumstances, and her impeachment as it occurred was clearly illegitimate. She had denied having intercourse with the defendant, and the fact that she had previously stated that she had had, could only be used as impeachment, if such testimony was allowed at all, that is, it could not be used as original evidence, but in this particular ease and under this state of case, however, it was not admissible at all; that this simply resulted in a failure to prove a fact, and such evidence could not be introduced to show that the fact had been previously stated. The failure to prove facts cannot be introduced in this manner as impeachment. See Dunagain v. State, 38 Texas Crim. Rep., 616; Scott v. State, 20 S. W. Rep., 549; Finley v. State, 47 S. W. Rep., 1015; Erwin v. State, 24 S. W. Rep., 904, and Bennett v. State, 24 Texas Crim. App., 73. Nor was this error cured by the fact that the court limited the consideration of this evidence to impeachment in the written charge to the jury.
+It is also contended that the evidence is not sufficient to justify the conviction. We believe this proposition is well taken. While, as before stated, there was some suspicious circumstances, yet the girl most emphatically denies appellant had intercourse with her, and we do not believe the circumstances, independent of her testimony, would be sufficient to justify a verdict. The judgment is reversed and the cause remanded.
+Reversed and remanded.
