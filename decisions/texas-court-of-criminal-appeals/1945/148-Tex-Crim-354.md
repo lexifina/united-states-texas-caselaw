@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "23080"
+decided: "1945-03-07"
+citations: ["148 Tex. Crim. 354", "187 S.W.2d 570"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Julius Harper v. The State."]
+source_url: "https://static.case.law/tex-crim/148/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2606053
+cites_cases: ["187 S.W.2d 559"]
+---
+
+# Harper v. State
+
+## Majority (KRUEGER, Judge.)
+
+KRUEGER, Judge.
+The offense is murder. The punishment assessed is death.
+The record in this case is before us without any bills of exception or any objections to the court’s charge.
+The only matter presented for review is the sufficiency of the evidence to sustain the conviction.^ In' order that this opinion may reflect the basis for our conclusion on the question presented, we deem it proper to briefly recite the facts proven on the trial as the same appear from the record.
+On Sunday evening Clarence Edwards left the home of J. H. McClain, his brother-in-law, in his automobile, a 1941 Ford V-8 Sedan. He went alone, leaving his wife at the home of Mr. McClain. Nothing was heard of him from that time until the following Saturday morning, when his mutilated body was found in a timbered spot about 150 yards from the White Oak Road. Soon after the body was discovered, Ernest King, Joseph Davis and appellant were arrested in San Antonio, Texas, and were found in possession of the automobile, a ring and some wearing apparel belonging to the deceased.
+Appellant made a confession in which he admitted that he and his companions, King and Davis, killed the deceased by striking him with Coca-Cola bottles and cutting and stabbing him with a knife; that after they had cut the deceased’s throat, appellant cut both hands off at the wrist, and after taking the ring from the dead man’s hand, he threw them aside. They also cut off one foot and threw it aside. After they had killed the deceased and mutilated his body, they took what money they found on his person and certain articles not necessary to mention, entered the automobile belonging to the deceased, and drove to San Antonio, where they remained until arrested.
+Upon his trial appellant testified that at the time he signed the confession he was in jail; that an officer took a knife and put it in his (appellant’s) back and backed him against the wall and then said, “I don’t want any trouble out of you,” struck him across the wrist with a rope and kicked him on the legs; that by reason of said treatment he signed the confession. He contends that this shows that the confession was extorted. The State’s evidence controverts appellant’s testimony relative to being whipped or mistreated. However, the court submitted to the jury the issue of whether or not the confession was voluntarily made and the jury decided the issue adversely to his contention. Moreover, appellant, when testifying on his trial, admitted every fact contained in the purported confession except the fact that he cut the hands and foot off the body of the deceased. It occurs to us that since he admitted under oath the material facts contained therein, it makes very little difference, if any, whether the confession was voluntary or not. If we should eliminate the purported confession, the evidence would still be sufficient to sustain the conviction.
+No reversible error appearing in the record, the judgment of the trial court is affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (HAWKINS, Presiding Judge.)
+
+ON MOTION FOR REHEARING.
+HAWKINS, Presiding Judge.
+Appellant sets up in his motion for rehearing many things which we as a reviewing court cannot consider. As was pointed out in our original opinion, no objections were taken to the court’s instructions to the jury as is required by Art. 658 and 666 C. C. P. No special instructions were requested, and no bills of exception complaining of any procedural matters, or the introduction of any evidence are brought forward.
+We advert to only one matter presented in the motion. For the first time in the motion appellant insists that the use in evidence of his confession constituted a denial of “due process” as guaranteed by the Federal Constitution, because — as now contended by him — the said confession was not voluntary.
+As establishing appellant’s guilt the State proved the finding of the mutilated body of deceased bearing evidence that he had come to his death by the criminal act of some one. The evidence shows that the primary purpose of killing deceased was to secure possession of his automobile, which together with other property of deceased, including a ring and a Imife, was found in appellant’s possession. The confession of appellant was introduced in evidence by the State. Upon its face, as well as the predicate for its introduction, it showed that the confession was freely and voluntarily given after proper warning by the person to whom it was made. In the confession appellant admitted his criminal connection with the killing and said he had cut deceased’s throat, and had cut off both his hands with deceased’s own knife. Testifying as a witness in his own behalf appellant not only admitted his guilty participation in the murder, but specifically detailed his own acts and those of his companions in accomplishing the killing, and also admitted as true every material fact appearing in his confession, save cutting off the feet and cutting the throat of deceased. Appellant’s evidence given in court was a judicial confession of his guilty by which he is bound. While testifying in his own behalf appellant said that after his arrest a police officer by the name of Morre “* * * took me in the office and nobody was there but he and I and he put the knife in my back and backed me against the wall; I asked him what it was all about and he said, Wait a minute until I get back.’ So, he got a rope and came back and said, T don’t want any trouble out of you.’ He rapped me across the wrists and he was kicking me on my legs and that is the reason I signed the statement. After he kicked me and rapped me with the rope then I went in and made out the statement.”
+Officer Morre had testified for the State in developing its case in chief that he had seen appellant in possession of deceased’s automobile in San Antonio. He was not recalled by the State to deny categorically appellant’s statements, but other witnesses testified that they saw no evidence of appellant having been kicked on the legs, nor did he make any complaint of having in any way been mistreated by Horre. The trial court recognizing that appellant’s evidence had raised an issue of fact as to his confession being voluntary submitted that issue to the jury in accordance with the established rule in this State. See authorities annotated under Note 20, Art. 727, Vernon’s Tex. C.C.P., Vol. 2. No objection was argued to the manner in which the issue was submitted. It would not be surprising if the jury disregarded appellant’s claim of mistreatment in view of the other facts present. However, if the confession had been entirely disregarded other evidence before them was abundantly sufficient to support the verdict.
+In the case of Newman v. State, No. 23,068, decided April 25, 1945, and not yet reported (Page ______ of this volume) we reviewed at length the decisions of the Supreme Court of the United States touching the question of denial of “due process” by State courts in the use of a confession of the accused. As pointed out therein, denial of “due process” is the failure to observe that fundamental fairness essential to the very concept of justice.
+We are unable to see wherein a denial of “due process” may be available to accused who voluntarily, by his own testimony, admits his guilt. Having admitted his guilt, fundamental fairness requires that he pay the penalty prescribed by law for his act.
+The conclusion is reached that this record fails to disclose that the use in evidence of the confession constituted a denial of “due process,” as claimed.
+The motion for rehearing is overruled.
