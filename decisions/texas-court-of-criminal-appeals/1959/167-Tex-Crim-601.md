@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,356"
+decided: "1959-02-11"
+citations: ["167 Tex. Crim. 601"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Kerrigan v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0601-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8552445
+cites_cases: ["144 Texas Cr. Rep. 309", "156 Texas Cr. Rep. 218", "162 S.W. 2d 976", "240 S.W. 2d 297"]
+---
+
+# Kerrigan v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is robbery; the punishment, 10 years.
+Prosecutrix testified that she was employed as a barmaid at the Jay Bar in Houston, that the appellant had been a customer at the bar a number of times prior to the day charged in the indictment and on that night as she was preparing to close he was her only customer, that as she turned her back to him he hit her over the head with a beer bottle, slapped her, and threatened her until, through fear, she opened the cash register, from which he took the day’s receipts. She stated 'that, following the robbery, he bound her and left her lying in a back hallway while he went to the front, turned out the lights, and in a few minutes returned to where she was lying and forcibly ravished her. She stated that three months later she saw the appellant in another bar and had him arrested.
+Appellant, testifying in his own behalf, denied the robbery and rape, and testified that he had never been in the Jay Bar in his life. The state, on rebuttal called another barmaid at the Jay Bar, and she testified that the appellant had frequented the place and was there when she got off duty on the day charged in the indictment.
+The jury resolved the conflict in the evidence against the appellant, and we find the evidence sufficient to support the conviction. We shall discuss the contentions advanced in the brief.
+During his cross-examination of the appellant, the prosecutor requested that he bare his teeth to the jury in order that they might see a dental plate, which was a means of identification; the appellant replied that he did not normally look like that, and the prosecutor said, “You don’t normally rape people?” to which the appellant replied, “I never have.” Objection was sustained, and the jury were instructed to disregard, but motion for mistrial was overruled.
+Later on, the prosecutor, during the course of an objection, asserted to the court that they were in the trial of a rape case and, when being corrected,- stated that he meant robbery; and the objection to his original remark was sustained.
+It is the appellant’s contention that no evidence of or comment concerning the rape was proper in this trial for robbery. We cannot bring ourselves to agree with such a position. These two offenses were so interwoven as to be parts of the same transaction. In McCoy v. State, 144 Texas Cr. Rep. 309, 162 S.W. 2d 976, in holding that the theft of an automobile and a subsequent robbery by the same parties the same night were parts of one continuous transaction, this court quoted from Texas Jurisprudence as follows: “The fact that the development of a given transaction relied upon by the State as constituting a crime brings out other facts which of themselves constitute an independent crime, does not per se make the evidence of such independent crime inadmissible.” See also Sims v. State, 156 Texas Cr. Rep. 218, 240 S.W. 2d 297.
+The next bill relates to cross-examination of the accused concerning prior convictions. In response to questions by his own counsel, the appellant denied that he had ever before been convicted of a felony. The bill reflects that the prosecutor had seen an F.B.I. report which showed that the appellant had been arrested by the police department of Boston, Massachusetts, for larceny over $100.00. He was asked if he had been convicted of a felony in that state, answered that he had not, and the matter was not pursued any further. The report further showed that he had been arrested by the police department of Mobile, Alabama, on two charges and that in the burglary charge he was turned over to the Navy for disciplinary action. He was asked if he had been convicted of a felony in Alabama, and when he replied he had not he was asked about the Navy and replied that he had been convicted of a felony in the Navy, and it arose out of breaking some windows, and that he “got 60 days restriction and $240.00 fine.”
+This record does not reflect bad faith on the part of the prosecutor in asking the questions. If, in fact, the offense for which the appellant was courtmartialed in the Navy was not a felony, this record does not reveal it, and the appellant said, “It was a felony, I guess. I don’t know.” No error is reflected by this bill.
+Appellant’s next complaint relates to questions propounded by the state concerning appellant’s reputation. The record reveals that when the questions were asked and answered no objection was interposed, and nothing is presented for our review.
+His last complaint relates to the court’s charge in which he limited the evidence concerning the appellant’s court-martial conviction to his credibility. We find no objection to the charge and no requested charges in the record; and so appellant’s complaint is not properly preserved for review.
+Finding no reversible error, the judgment of the trial court is affirmed.
