@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2174"
+decided: "1901-02-13"
+citations: ["42 Tex. Crim. 506"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lee Lyon v. The State."]
+source_url: "https://static.case.law/tex-crim/42/cases/0506-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 171631
+---
+
+# Lyon v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+This conviction was obtained for violating the local option law in precinct number 3 of Hunt County.
+Motion is made by appellant- to strike out certain portions of the statement of facts. It appears in this connection that the court made up the statement of facts, and did not embody therein, either in whole or in substance, the orders of the Commissioners Court showing the putting in force of the local option law in said territory, but simply made a memorandum directing the clerk at that particular point to insert said orders, and the clerk, in making up the transcript, did insert them. This can not be done. See Ratcliff v. State, 29 Texas crim. App., 248. The motion is sustained, and that portion of the statement of facts eliminated. None of the bills of exception makes it appear that these orders were in fact introduced in evidence. If it had been made so to appear, this would have been sufficient to supply the defect in the statement of facts. Burke v. State, 25 Texas Crim. App., 172; Jackson v. State, 28 Texas Crim. App., 143.
+During the trial appellant sought a continuance on account of the absence of two witnesses, by whom he expected to show that the alcohol he is charged with selling was not entered upon his books of account against the alleged purchaser, as testified by said purchaser. These witnesses had been clerks of appellant, and were thoroughly familiar with his business and account books—in fact, seem to have managed the business for him. This was the crucial point in the testimony against appellant, and these witnesses were very important. However, it is not necessary to go further into this question, as these witnesses can be obtained upon another trial.
+Appellant contends the order for the local option election as held in precinct number 3 was void for the reason that prohibition was in force in the county at the time. The bill shows that in 1895 local option was put into operation throughout the entire county of Hunt. Two years later another election was held in said county, which resulted against prohibition. The Commissioners Court declared the result of the last election, but failed to publish the result, and it is therefore contended that local option still remained in force throughout the county. This is not correct. If in fact it was necessary that the county judge should declare the result, his failure to do so would not render invalid the will of the people as declared at the polls. They had the right to declare local option out of the county, and did so, and the Commissioners Court so declared. The election in precinct number 3, under which this conviction occurred, was ordered by the Commissioners Court at the term which declared the result of the defeat of prohibition in the county. This was in accordance with the statute.
+During the trial appellant proposed to prove that the prosecuting witness was also in the same line of business in the same village, and had entered into a conspiracy with others to break him up in business. Under the facts of this case, we believe this testimony should have been admitted. The prosecuting witness admitted on the trial his dislike for appellant, and further that they had had some business troubles. It is further shown that when appellant entered into business he lowered the price of goods of the character he was selling, and to some extent this interfered with the business of the prosecuting witness, and seems to have outraged his feelings. As the matter of motive and feeling of the prosecuting witness towards appellant had been entered into in different directions, it occurs to us that the evidence excluded was but a part and parcel of this same character of evidence, and should have been admitted. It further tended to effect the standing of the witnesses before the jury as to credibility.
+Objection was urged to the refusal of the court to give special instructions requested by appellant in regard to remarks alleged to have been made by the prosecuting attorney. We will not enter into a discussion of this matter, as the judgment will be reversed for the matters indicated above. Speeches of the character indicated should not be indulged by prosecuting attorneys. Matters dehors the record should not be referred to by way of argumént. They do not form parts of the case, and the use of such expressions, and the indulging of such remarks, and weaving such outside matters in the case are wrong. Its tendency is, at least, injurious, and decidedly contrary to the spirit of fair trial. We trust that counsel in the future will avoid this character of argument, and that our trial courts will use authority to suppress such matters. The judgment is reversed and the cause -remanded.
+Reversed and remanded.
