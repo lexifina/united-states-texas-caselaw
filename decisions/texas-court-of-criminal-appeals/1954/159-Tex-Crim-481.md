@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,850"
+decided: "1954-03-03"
+citations: ["159 Tex. Crim. 481"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ivan F. Robbins v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2474963
+cites_cases: ["100 S.W. 916", "102 Tex. Cr. R. 434", "113 S.W. 2d 538", "133 Tex. Cr. R. 595", "149 Tex. Cr. R. 245", "149 Tex. Cr. R. 308", "185 S.W. 570", "193 S.W. 2d 528", "194 S.W. 2d 101", "278 S.W. 432", "51 Tex. Cr. R. 41", "79 Tex. Cr. R. 362"]
+---
+
+# Robbins v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted for the unlawful possession of a narcotic drug, to-wit, morphine, and his punishment was assessed at five years in the penitentiary.
+In view of the disposition we make of this case it is not necessary to here state the facts.
+Appellant entered a plea of not guilty, did not testify, and did not file an application for a suspended sentence.
+' The state, in making out its case in chief, introduced the following testimony by the alleged purchaser of narcotics from appellant: The witness testified that appellant told him that he had twenty convictions before he was sixteen years of age; had participated in the robbery of a store; had been to the penitentiary on a kidnapping charge, and “had done time in Huntsville.” Appellant timely objected to this testimony upon the ground that the state was attacking his character and reputation which had not been placed in issue. He requested that the testimony be stricken from the record, and the jury be instructed to disregard same for all purposes, and also moved for a mistrial, which motions were overruled.
+Another witness, for the state, gave substantially the same testimony over appellant’s objection.
+The state cannot attack the accused’s character or reputation until it has been put in issue. Appellant, at no time, having, placed his character or reputation in issue, evidence as to his prior convictions was inadmissible. Fanin v. State, 51 Tex. Cr. R. 41, 100 S.W. 916; Kelley v. State, 79 Tex. Cr. R. 362, 185 S.W. 570; Patrick v. State, 102 Tex. Cr. R. 434, 278 S.W. 432; Johnson v. State, 149 Tex. Cr. R. 245, 193 S.W. 2d 528; Freeze v. State, 133 Tex. Cr. R. 595, 113 S.W. 2d 538; Harris v. State, 149 Tex. Cr. R. 308, 194 S.W. 2d 101.
+For the error herein pointed out, the judgment of the trial court is reversed and the cause remanded.
+Opinion approved by the Court.
