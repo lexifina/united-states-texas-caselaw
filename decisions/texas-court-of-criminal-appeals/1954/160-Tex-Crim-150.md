@@ -1,0 +1,55 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,786"
+decided: "1954-02-03"
+citations: ["160 Tex. Crim. 150"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donald Hawkins Brown v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469083
+cites_cases: ["10 S.W. 2d 83", "115 Texas Cr. Rep. 111", "156 Texas Cr. Rep. 492", "157 Texas Cr. Rep. 458", "158 Texas Cr. Rep. 45", "244 S.W. 2d 214", "250 S.W. 2d 207", "251 S.W. 2d 409"]
+---
+
+# Brown v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is murder; the punishment, death.
+Lieutenant Morgan of the Dallas Fire Department testified that at 9:50 p. m. on December 31st he received a call to go to a certain block on Gunter Avenue; that when he arrived he found an automobile burning from within; that, while extinguishing the fire, he detected the odor of gasoline, determined that neither the engine or gas tank was burning; and that he found the partially burned body of a man on the floorboard in the back of the automobile. Morgan testified that a search of the body revealed no identification.
+The body was removed to the hospital, where it was identified by his superiors as that of E. J. Campbell, a collector for the Pacific Finance Company.
+An autopsy was there performed; a sample of blood was taken from the body, and it was ascertained that death had been caused by the firing of three 25-caliber bullets into the head and that death had occurred prior to the time the body had come in contact with the fire.
+A detailing of the evidence adduced in the following approximately 200 pages of the statement of facts will not be deemed necessary, because this testimony was introduced to establish that the deceased had gone to the home of appellant on the afternoon of December 31st to collect three months overdue installment payments on appellant’s automobile and the appellant testifying in his own behalf admitted such fact.
+Appellant was the last person shown to have seen the deceased alive at 5:00 p. m. on the day of the homicide. The appellant said the deceased left him at that time.
+It is admitted by appellant that on the following morning he moved out of the apartment where he had been living in Dallas, left no forwarding address, went to Fort Worth, and rented an apartment under an assumed name; and there remained without communicating with his mother or the parents of his wife, all of whom resided in Dallas, until he was arrested on January 14. Appellant gives as his explanation of this extraordinary conduct that he was attempting to evade the Pacific Finance Company. Appellant further admits that prior to his departure from the apartment in Dallas he placed a pair of his trousers in the attic and that they had blood on them. He says that this blood was his and gives an explanation as to how it got there, but gives no explanation which appears satisfactory to us as to why he left them behind. Appellant admitted the purchase of a 25-caliber pistol the preceding July, but stated that it had been stolen from him prior to the homicide.
+Other than these facts, the state established the following tending to show apellant’s guilt:
+1. That the appellant, wearing trousers similar to those found in the attic, made application for a loan to a certain loan company in Dallas on the afternoon of the homicide.
+2. That the blood taken from the body of the deceased was type “0,” and the blood on the trousers was type “0.”
+3. Several days after the homicide police officers found a deposit of blood in front of the garage of the Dallas apartment which had been occupied by appellant, which when tested was found to be human blood type “0.” They found on the rafters of this garage a brief case of the same type issued to its collectors by the Pacific Finance Company. Under the floor of this garage they found duplicate ledger sheets which had been turned over to deceased by his superiors during the month preceding and up to as late as 1:00 p. m. on the day of the homicide. The ledger sheet evidencing appellant’s account with said company, shown to have been in the possession of deceased on the day of the homicide, was not found.
+4. That a charga-plate was issued to Mr. E. J. Campbell the preceding October and that deceased was shown to have resided at 2240 Lawndale in October.
+Several days after the homicide police officers found in the bathroom which had been used by appellant a leather chargaplate cover, on the inside of which when examined under a special light the following imprint was shown to be discernible:
+“Mr E J Cam bell
+22 0 Law da Dr
+Dallas Texas”
+Also found at the same place was a key case shown to be of the same type as one given to deceased by his father at Ranger, Texas, a few days before the homicide. In the same bathroom was found a receipt shown to have been in the possession of deceased on the day of the homicide.
+5. That a few days prior to the homicide the deceased had been given a complimentary billfold distributed by Oak Cliff Bank and Trust Company. Shortly after appellant’s arrest in Fort Worth such a billfold was found within 40 feet of the apartment in which appellant had been residing under the name of Herbert Gross.
+6. That the fire occurred a block and one-half from the appellant’s Dallas apartment, and the burned automobile was later turned over to the Pacific Finance Company.
+This, we think, fairly summarizes the evidence collected by the very efficient Dallas police force.
+Appellant and his wife testifying in his behalf, stated that the deceased left his apartment at 5:00 p. m. on the day of the homicide and that they spent the evening riding around in their auomobile and that they did not know of deceased’s death until the appellant was arrested. Their explanation of the trousers, their flight to Fort Worth and the use of an assumed name has heretofore been set forth.
+Appellant’s other witnesses added nothing material to this defense of alibi.
+We think the evidence is sufficient to support the conviction and overrule appellant’s contention to the contrary.
+Appellant’s able attorneys urge that the trial court committed error in the admission of hearsay evidence. Such evidence has not been discussed in this opinion, because it merely established that the deceased was attempting to locate the appellant on the day of the homicide. Any question relating to such testimony passed out of the case when the appellant testified that deceased came to his home on that day in an effort to collect an overdue account.
+So, likewise, is eliminated from our consideration the testimony on motion for new trial of Doris Gross. Her identification of the deceased as being the person who was attempting to locate the appellant ceases to have probative importance when the appellant himself says that the deceased found him.
+We now come to a discussion of Bill of Exception No. 4, which complains of the introduction into evidence of the trousers found in the attic. It is difficult to ascertain from the bill whether the trousers as shown to the jury in fact had blood upon them. This is so because the evidence shows that the trousers were carried to the hospital, that Dr. Mason cut pieces out of the trousers, and from these pieces extracted the blood for the purpose of his test. It is not shown that these pieces themselves were exhibited to the jury. The trousers were.
+Assuming that they did, we think they became admissible because of the appellant’s testimony. He admitted that they were his and said that he had cut his lip while wearing them sometime before the homicide. Appellant testified that he had received no medical treatment for the cut lip and did not testify that he bled profusely therefrom. The state had proven that the deceased had bled profusely on the floorboard of the burned automobile. Thus an issue as to the quantity of blood was raised.
+Irrespective of these, we think they were admissible because their general condition would shed light on the question of why the appellant had not taken them with him when he moved his family and his meager possessions to Fort Worth. If the trousers were in good condition, as the cross-examination would seem to indicate, then the jury were entitled to see them so that they might pass upon the reasonableness of the appellant’s explanation that he had just discarded them. It seems logical to us that the jury might conclude that a man in destitute financial circumstances would not dispose of usable wearing apparel unless it bore incriminating evidence against him.
+Bill of Exception No. 5 complains of the introduction into evidence of a photograph showing a portion of the interior of the burned automobile. We can see nothing inflammatory about the picture. It is noted that the careful trial judge refused to admit into evidence a picture of the burned body of the deceased in or near the automobile.
+Bill of Exception No. 6 complains that the venireman Sachse suppressed, during the course of his examination for selection as a juror, the information that he knew some of the members of the Dallas police force and that if counsel for appellant had had this information they would not have selected him as a juror.
+The court qualifies the bill by stating that the voir dire examination of the jurors was not taken down by a reporter, refuses to certify that such a question was asked, and attaches the examination of the juror Sachse given on motion for new trial. Therein we find that the juror denied that he was ever asked any question about his acquaintanceship with members of the police force. He testified that he had on occasions gone fishing with a police officer, who did not appear as a witness in this case, and had seen one of the officers who did testify but did not know him. No error is reflected by the bill.
+Appellant’s motion for new trial alleged that the jury considered evidence other than that adduced in the course of the trial during their deliberations. There is no intimation in the motion as to what the new evidence was.
+The motion is sworn to by appellant alone.
+It has been the rule in this court since Vyvial v. State, 115 Texas Cr. Rep. 111, 10 S.W. 2d 83, that a motion alleging that something improper transpired within the jury room must be supported by the affidavit of a juror or some other person who was in a position to know the facts in order to be sufficient as a pleading. See also Vowell v. State, 156 Texas Cr. Rep. 492, 244 S.W. 2d 214; Allala v. State, 157 Texas Cr. Rep. 458, 250 S.W. 2d 207; and Hicks v. State, 158 Texas Cr. Rep. 45, 251 S.W. 2d 409.
+Finding no reversible error, the judgment of the trial court is affirmed.
