@@ -1,0 +1,48 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,022"
+decided: "1958-06-25"
+citations: ["166 Tex. Crim. 425"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Bryant W. Bowles, Jr."]
+source_url: "https://static.case.law/tex-crim/166/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2618547
+cites_cases: ["100 Texas Cr. Rep. 134", "105 Texas Cr. Rep. 37", "119 Texas Cr. Rep. 135", "127 Texas Cr. Rep. 484", "149 Texas Cr. Rep. 133", "151 Texas Cr. Rep. 547", "161 Texas Cr. Rep. 651", "174 S.W. 823", "192 S.W. 2d 159", "209 S.W. 2d 361", "272 S.W. 458", "280 S.W. 2d 257", "285 S.W. 327", "44 S.W. 2d 713", "76 Texas Cr. Rep. 360", "77 S.W. 2d 877"]
+---
+
+# Ex parte Bowles
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is an appeal from an order refusing appellant bail, after indictment for murder.
+Both the state and the applicant developed the facts more fully than is usually done in application-for-bail cases,
+On the day prior to the killing, the deceased, a mature man Who had a reputation for mistreating his own wife and also other persons, slapped his sister-in-law, the ninety-five pound pregnant wife of appellant, during the course of an argument. There was some evidence that such assault was unjustified.
+Appellant was in Chicago at the time. His wife called him and told him of the assault and of deceased’s conduct toward her. Appellant left Chicago, traveling by automobile to his home. Upon arrival, being unable to find a friend to accompany him to see the deceased, appellant, with his wife, went to the home of the deceased, who was at that time sitting on the porch.
+Appellant stated to deceased that he had not come to kill him but was going to whip him because of his conduct toward his wife. He told the deceased to throw down the knife he carried and fight. Instead of doing so, deceased started to go in the house, where he kept his gun. It was then that appellant shot and killed him.
+The killing occurred at the first meeting of the appellant and the deceased after appellant’s wife had communicated to him the assault1 and conduct of the deceased.
+That such facts reasonably and fairly raised the issue of a killing ¡without malice' can hardly be denied. Indeed, upon a trial of the case under such facts it would be the duty of the trial court to submit to the jury such issues and to instruct the jury that if the killing was without malice and they so believed or had a reasonable doubt thereof the .highest punishment that could be assessed against- the appellant would be five years in the penitentiary.
+In Ex parte Craig, 76 Texas Cr. Rep. 360, 174 S.W. 823, this court held that where evidence raised the issue of negligent homicide, the case was bailable. To the same effect, this court held in Ex parte Glenny, 100 Texas Cr. Rep. 134, 272 S.W. 458, that where the evidence showed that the homicide was justified or mitigated it was a bailable case. In Ex parte Rivera, 105 Texas Cr. Rep. 37, 285 S.W. 327, and in Ex parte Adams, 119 Texas Cr. Rep. 135, 44 S.W. 2d 713, this court held that'where the evidence reasonably well supported self-defense ’ the case was bailable.
+Here, the evidence, reasonably and fairly raising a defense that would if accepted or believed by the jury preclude the infliction of the death penalty, makes this a bailable case.
+Accordingly, the judgment of the trial court denying bail is reversed, and bail is now granted in the sum.of $15,000.
+Because this term of court concludes three days from this date, it is ordered that no motion for rehearing by either party will be permitted.
+Mandate will issue immediately.
+
+## Dissent (WOODLEY, Judge,)
+
+WOODLEY, Judge,
+dissenting.
+Upon submission of this appeal the case was assigned to Commissioner Dice whose opinion affirming the judgment of the trial court I adopt as my dissent. It reads:
+“This is an appeal from an order denying bail in a murder case.
+“A former appeal from an order denying appellant bail was dismissed by this Court as moot because of the return of an indictment against appellant subsequent to the entry of the order. No. 29,939, Ex parte Bryant W. Bowles, Jr., opinion delivered June 11, 1958. (Page 346, this volume).
+“The indictment returned against appellant charges that he did voluntarily and with malice aforethought kill James Earl Harvey by shooting him with a gun.
+“Under the provisions of Art. 1, sec. 10 of our Constitution an accused is entitled to bail unless charged with a capital offense when the proof is evident.
+“The term ‘proof evident’ as here used means that the accused with a cool and deliberate mind and formed design maliciously killed the deceased and that, upon a hearing of facts before the Court, a dispassionate jury would, upon such evidence, not only convict but would assess the death penalty. Ex parte Shults, 127 Texas Cr. Rep. 484, 77 S.W. 2d 877; Ex parte Suger, 149 Texas Cr. Rep. 133, 192 S.W. 2d 159; Ex parte Roberts, 151 Texas Cr. Rep. 547, 209 S.W. 2d 361 and Ex parte Washburn, 161 Texas Cr. Rep. 651, 280 S.W. 2d 257. ■
+“The evidence is undisputed that the appellant killed the deceased, his brother-in-law, by shooting him with a gun; the killing occurring at the home of the deceased, near the town of Loeb in Hardin County, Texas.
+“According to the state’s testimony, appellant drove up to the front of the deceased’s home in his automobile; stopped suddenly, got out, reached in the back, secured a short gun loaded with buck shot and walked to the front of the car and stopped. The deceased and another brother-in-law, Jimmy Keith Mitchell, were sitting in a swing on the front porch talking. Appellant stated to the deceased, ‘Come on out here, I’m not going to shoot you. I’m going to take your knife away, make you throw your knife down and I’m going to whip you.’ The deceased said nothing and continued to sit in the swing. Appellant then stated to the brother-in-law seated by the deceased, ‘Jim, get out of the way’ whereupon Mitchell got up and went inside the house. Thereupon, the deceased got up, started in the house and just as he reached the door appellant, while standing in front of the automobile approximately 30 feet away, fired the fatal shot which struck the deceased in the lower part of the neck on the right side. The State’s testimony shows that the deceased said or did nothing to the appellant before the shot was fired; that the deceased was not armed with a knife and only had a beer can in his right hand at the time of the shooting.
+“It was further shown that on the day preceding the killing the deceased and appellant’s wife had an argument in which the deceased slapped her; that appellant’s wife immediately communicated with him in Chicago, Illinois by long distance telephone and advised him what had happened and that appellant immediately left Chicago and drove straight to his home in Beaumont, Texas for the purpose of settling the matter with the deceased.
+“As a witness in his own behalf appellant testified that the reason he went to the deceased’s home was to whip him; that he shot the deceased when he started for the door because he believed that the deceased was going in the house after his gun and would kill him.
+“In keeping with the rules stated in Ex parte Washburn, supra, we refrain from further discussion or comment upon the evidence, but express the conclusion that no abuse of discretion is shown on the part of the trial judge in concluding that this is not a bailable case.”
