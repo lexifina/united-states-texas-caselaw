@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3116"
+decided: "1905-10-18"
+citations: ["48 Tex. Crim. 533"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lewis Mitchell v. The State."]
+source_url: "https://static.case.law/tex-crim/48/cases/0533-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 178800
+cites_cases: ["36 Texas Crim. Rep., 601", "37 Texas Crim. Rep., 616"]
+---
+
+# Mitchell v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+On the 35th day of August, 1904, the grand jury presented into the district court the indictment herein, charging appellant with disturbing the peace, flpon the 37th of August, there was a complaint filed tiy the constable in justice precinct, charging appellant with being drunk in a public place. To the latter offense he pleaded guilty. Subsequently he was arrested under this indictment. When his case was called for trial, he pleaded in bar of the prosecution under this indictment, the conviction in the justice court for being drunk in a public place, alleging that it grew out of the same transaction. The court sustained a demurrer to the plea. This is the question presented for reversal. The facts show that appellant was drunk on the 15th of August, and was arrested therefore. Before and at the time of the arrest he was cursing, and when the officer arrested him he cursed and called the officer a God damn son-of-a-bitch. He could have been heard for a hundred yards. These are practically the facts in the case. Where the plea of jeopardy is filed, and demurrer sustained, it will not be reversible error if the facts set up in the plea show a distinct offense. Under the facts stated in the plea, and the authorities in this State, we are of opinion the conviction for being drunk in a public place could not be interposed as a bar to the prosecution for disturbance of the peace. It was evident that the man was drunk before the officer undertook to arrest him. He was arrested for being drunk. The fact that he was drunk, was not a necessary fact to sustain the conviction for disturbance of the peace. While it may or not have been a part of the evidence or res gestee of the transaction that he was drunk, yet the conviction for disturbing the peace, could have been sustained without any allusion in the evidence to the fact that he was drunk. In other words, it was not necessary in any sense to the conviction for disturbing the peace, that the man was drunk. While the disturbance of the peace may have grown out of .the fact that he was drunk; that is, that may have been one of the causes why he was cursing and swearing, at the same time it was but a part of the transaction, and would constitute a different offense. A man may shoot another with a pistol and be convicted for the homicide, and yet be prosecuted for carrying the pistol. The matters grew out of the same transaction, but one is not a bar to the other. This question was discussed in Nichols v. State, 37 Texas Crim. Rep., 616; Burns v. State, 36 Texas Crim. Rep., 601; and for collation' of authorities, see White’s Ann. Code Crim. Proc., sec. 537.
+We do not understand what bearing the Act of the 28th Legislature, page 194, has upon this case. If as a matter of fact or of law this case had been barred by the conviction for drunkenness, the plea would be good, independent of the act mentioned. If it was not a bar that act would not apply. It is unnecessary to discuss that act of the Legislature as to whether or not it is constitutional, until we have a proper case. In a general way that statute seems to have been enacted for the purpose of preventing the State from filing several cases against a party for the same offense, in different courts. For instance, a man has committed theft of a horse in A County; he carries the horse through B and' C Counties into D County. The State can prosecute in either of these counties, and it has been the practice in some instances to indict in each county through which the horse was carried. This statute was enacted to prevent that character of procedure, and limits the State to a prosecution in the court first obtaining jurisdiction of the offense. The statute may also have been enacted for the purpose of preventing parties accused of crime, where one court had obtained jurisdiction by proper process, from going to another court and entering plea of guilty to avoid punishment for the higher grade of offense, or to avoid a higher punishment. However that may be, we do not believe it is necessary to discuss the question here, as it has no bearing upon the case. Drunkenness is a distinct offense from a disturbance of the peace, and a prosecution was maintainable for each.
+The judgment is affirmed.
+Affirmed.
