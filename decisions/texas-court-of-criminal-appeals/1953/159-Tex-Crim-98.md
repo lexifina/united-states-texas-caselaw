@@ -1,0 +1,66 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,496"
+decided: "1953-06-24"
+citations: ["159 Tex. Crim. 98"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marvin Bryant v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2476022
+cites_cases: ["157 Tex. Cr. R. 264", "158 Tex. Cr. R. 313", "248 S. W. 2d 490", "248 S. W. 2d 748", "254 S. W. 954", "256 S. W. 2d 93", "95 Tex. Cr. R. 413"]
+---
+
+# Bryant v. State
+
+## Majority (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+This is a felony conviction for drunk driving, under Art. 802b, Vernon’s P. C., with punishment assessed at one year’s confinement in jail.
+While driving his automobile on a public highway, appellant was involved in a collision with other cars. A witness present, as well as highway patrolmen who arrived shortly therafter, testified that appellant was intoxicated and under the influence of intoxicating liquor. Appellant was arrested by the patrolmen and, following his consent in writing, was taken to a hospital where a sample of his blood was taken for analysis to determine its alcoholic content. The blood so taken was placed in a vial or container and mailed to the Texas Department of Public Safety.
+The chemist and toxicologist with the department testified that he made an analysis of the blood sample and that it contained .32 per cent, alcohol. The witness further testified that “anyone with that much alcohol would definitely be intoxicated.”
+We are constrained to agree that, notwithstanding appellant’s denial of intoxication and the corroborating testimony, the state’s testimony warranted the jury’s conclusion of guilt.
+Among the grounds urged by appellant against the admission of the testimony of the highway patrolmen that when they saw appellant, some hour and a half after the collision, he was intoxicated was that it was too remote.
+The conclusion is expressed that appellant’s objection went more to the weight of the testimony than to its admissibility. Moreover, the opinion of the witnesses was based upon the acts and conduct of the appellant at the time they saw him.
+Objection was reserved to the receipt in evidence of the blood analysis, such objection being that the testimony of the chemist and the mode, manner, and method employed in making the analysis were not sufficient to authorize proof of the result.
+We do not have, here, an objection, such as was raised in the case of Abrego v. State, 157 Tex. Cr. R. 264, 248 S. W. 2d 490, that the blood sample analyzed was not sufficiently identified as that of the accused, for there is no contest of that proposition in the instant case. Nor is there complaint of the testimony of the chemist that one having the percentage of alcohol found in appellant’s blood would be intoxicated.
+The basis of appellant’s complaint of the admission of the result of the blood examination appears to be that the test was not sufficiently reliable. In support of this contention, appellant relies upon Hill v. State, 158 Tex. Cr. R. 313, 256 S. W. 2d 93.
+The Hill case was one involving the breath test for alcohol. The holding there against the admission of testimony showing the result of the test was based, primarily, upon the fact that the mode, manner, and method by which the test was made was so unstable and fraught with liability of mistake and error as to render the test, under such conditions, unsafe and dangerous.
+We find no application for that rule in the instant case, for here we are dealing with only the blood analysis. The witness who made the test holds a master’s degree in chemistry, with considerable experience in that character of work. He explained in detail the method employed — which was as follows:
+“In order to analyze blood for alcohol content, we carefully measure a quantity of four cubic centimeters out of the tube and simply boil it so all the alcohol in the blood is distilled out of it, the alcohol vapor goes through a tube and goes in a orange oxidizing solvent and when the alcohol comes in contact with this solvent a reaction takes place, it causes the solvent to change color, becoming a green color, the more alcohol that comes in contact the greener it becomes, then by simply measuring the amount of green present in the solvent with an electric machine called the P____________you can tell how much is in the blood sample.”
+There is nothing to indicate that such is not a scientifically approved method of analization of the blood. Certainly, the opportunity of error or mistake is not present here, as was suggested in the Hill case, supra.
+We are constrained to conclude, therefore, that the testimony as to the blood analysis was properly admitted in evidence.
+Appellant was identified as the person who had been convicted, prior thereto, of the misdemeanor offense of drunk driving, as alleged in the indictment. The affidavit and information, as well as the judgment showing such conviction, were introduced in evidence. The judgment, upon its face, shows that it was in all things final. There was no testimony to the contrary.
+We are unable to agree with the appellant that the facts do not show his prior conviction, as alleged.
+It is insisted that the jury was guilty of misconduct in that, during deliberation, the fact was discussed that the parole and commutation statutes applicable where a term in the penitentiary is assessed as punishment did not apply to a jail term and, for that reason, a jail term was agreed upon as the punishment in the case.
+The discussion obviously related to the penalty to be assessed in the case and was therefore a proper subject for discussion by the jury. Moreover, if such discussion did not relate to the penalty, then it was an attempt to explain the verdict and the process of reasoning by the jurors in reaching such verdict.
+A jury cannot impeach its verdict. Supporting authorities are numerous and will be found collated under Note 166 of Art. 753, Vernon’s C. C. P.
+The case of Denmark v. State, 95 Tex. Cr. R. 413, 254 S. W. 954, appears to be in point here. In that case, a juror was held not to be authorized to impeach the verdict by saying that it was rendered convicting the accused of assault with intent to murder rather than aggravated assault because of the expense to the county that would be occasioned by the accused having to pay the fine imposed for aggravated assault by serving time in jail.
+The holding of jury misconduct in the case of Jackson v. State, 157 Tex. Cr. Rep. 323, 248 S. W. 2d 748, was predicated upon the fact that the statements there made in the jury room were incorrect in law. No such statements are shown from the record before us in the instant case. The Jackson case, therefore, is neither here in point nor controlling.
+The judgment is affirmed.
+Opinion approved by the court.
+
+## Rehearing (GRAVES, Presiding Judge.)
+
+ON MOTION FOR REHEARING.
+GRAVES, Presiding Judge.
+In his motion for rehearing, appellant again urges the proposition relative to the allegations of misconduct of the- jury in that two of the jurors stated in an affidavit that a discussion was had in the jury room while deliberating, not upon the guilt of the appellant but upon the amount of punishment to be assessed and as to what difference and effect there might be between a jail sentence and a penitentiary sentence. It was stated by members of the jury that immediately upon retiring to the jury room to deliberate, they all agreed upon the appellant’s guilt and then began to discuss the punishment to be assessed against him. Eventually the jury submitted a note to the careful trial judge which was signed by the foreman and reads as follows:
+“Can a man be paroled from County Jail for good behavior or any other cause before his time is up? If so what is the minimum portion of the time does he hcufto serve?
+E. V. McMillan, Foreman.”
+In answer thereto the court sent the jury the following additional charge:
+“Gentlemen of the Jury: In answer to the above questions, you are directed to read the charge given you by the Court and be governed thereby.”
+The testimony shows rather conclusively that the jurors were discussing the amount of punishment and the place where such punishment should be served. It was eventually decided that appellant should be punished and was sentenced to confinement in the county jail for a period of one year.
+Appellant contends in his motion for rehearing that this was discussing other matters and that the jurors received other testimony in their deliberations while in the jury room, and that same consisted of misconduct on the part of the jury. We have carefully read all the testimony relative to such conduct and See no reason to say that same was improper. The jurors having all decided upon his guilt as a second offender, also had the right to decide as to his place of confinement under this particular statute. We see no misconduct upon their part and think that this cause has been properly disposed of in the original opinion.
+The motion for rehearing will therefore be overruled.
+
+## Rehearing (MORRISON, Judge.)
+
+ON SECOND MOTION FOR REHEARING.
+MORRISON, Judge.
+Appellant earnestly insists that we did not discuss in either of our prior opinions the qualifications of the witness McDonald to testify that a person who had a certain percentage of alcohol in his blood would be intoxicated. He now says that he is not questioning the qualifications of the witness to make the test and conclude that appellant’s blood contained .32 per cent of alcohol, but that he is questioning the qualifications of the witness to evaluate this finding in terms of degree of intoxication.
+The witness McDonald testified that he had a Bachelor’s and Master’s degree and had a year’s work on his Ph. D. degree in chemistry and had two and one-half years’ experience as a chemist and toxicologist for the Texas Department of Public Safety, during the course of which he had had “quite a bit” of experience in making tests and observing the reaction of subjects having different percentages of alcohol in their blood.
+This we think sufficiently qualified the witness to evaluate his findings for the benefit of the jury.
+Recently, in Jones v. State, No. 26,072 (Page 29, this volume) (writ of certiorari denied by Supreme Court of the United States October 12, 1953), we had occasion to note that the States of New York and Wisconsin had adopted statutes in conformity with the findings of a committee of the American Medical Association in which presumptions were created which would support the conclusions of the witness McDonald. Ten other states have adopted similar statutes.
+Appellant’s second motion for rehearing is overruled.
