@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "18226"
+decided: "1936-04-29"
+citations: ["131 Tex. Crim. 51", "95 S.W.2d 966"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank T. Keller v. The State."]
+source_url: "https://static.case.law/tex-crim/131/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5240306
+---
+
+# Keller v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+— Conviction for conspiracy to break jail; punishment, two years in the penitentiary.
+The facts are sufficient. It was alleged that Frank Keller, Earl Patterson and Boyce McDow conspired with each other to convey into the county jail of Cameron County metal saw blades to be used by Patterson, who was confined therein for a felony, in effecting his escape from said jail, and with intent to facilitate his escape from said jail. Patterson and McDow, as witnesses for the State, testified to the agreement between said parties charged. Necessarily they were accomplices, and the jury were so told in the court’s charge. A witness by the name of Abel also testified that he was in jail at the time, and told of the conspiracy between said parties. This witness was not named in the indictment, and does not seem to have been a party to said conspiracy, and no request was made to have the jury told that he was an accomplice, nor was there any exception taken to the charge for its failure to so state, or to submit to the jury the question as to whether he was such; nor is there anything in the record to indicate that appellant made any contention upon the trial of the case that the testimony of Abel was that of an accomplice, and we are not able to say that his testimony was such as to show as a matter of law that he was an accomplice. However, other witnesses, — plainly not accomplices, — testified to facts corroborative of the testimony of Patterson and McDow.
+Appellant has a bill of exceptions complaining of the refusal of his request for a peremptory instruction to the jury to acquit. We think the court’s refusal of said request was correct. Appellant’s only other bill was taken to the refusal of the court to grant him a new trial, his motion for which merely set up errors of procedure, and presents no claim of newly discovered evidence, or misconduct of the jury, etc., and we see nothing in this bill of exceptions.
+No error appearing, the judgment is affirmed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge.
+— A motion for rehearing has been filed in this case by an attorney other than those who originally represented appellant on his trial, the language of which motion is plainly contemptuous; but this court does not strike same from the record, being of opinion that the party who filed same is of necessity either youthful or inexperienced, or else ignorant of the language in which such a motion should be couched, and we would not be inclined to punish appellant for the fault of another by depriving him of whatever benefit may arise from his request for rehearing.
+There is no doubt in our minds of the lack of testimony to show that the witness Abel was an accomplice.
+Our attention has been attracted to the question as to whether there is sufficient testimony corroborative of the accomplice witnesses McDow and Patterson who were jointly indicted with this appellant, — it being alleged that the three,— appellant, McDow and Patterson, did conspire, combine, confederate and enter into a positive agreement with each other to convey into the Cameron County jail three saw blades to aid Patterson, a prisoner in said jail on a felony accusation, in escaping from said jail.
+Abel testified as a witness that he saw the three named as conspirators, in a secret conversation, to which he was not invited and of which neither of the others told him anything, and further said that he did not know “Till this good day” what they were talking about. This Witness refers to another secret conversation held by himself, Patterson and appellant and one Trevenio after McDow had made bond, but nowhere says in this conversation that any one told him of the conspiracy between said three. He also testified that appellant made bond on Saturday after McDow had made bond on Friday before. Abel further swore that on Friday night he, appellant and Patterson were in No. 3 cell when signals were flashed. He said Keller asked him if he knew those signals, and when witness replied that he did not, appellant told him to get out of there and let some one get there who knew same. Again he testified that on Saturday night, after appellant was let out on bond, witness saw appellant under a light near the jail with a red object in his hand. Next day witness saw what he thought was this red object down in a pen inside of the outer walls of the jail, which wás called the dog pen. He said about half of this dog pen was grass and the other half dirt. He thought he heard a rattle as if some metallic substance was thrown in the dog pen. He also testified he did see McDow out there that Saturday night.
+The State put McDow on the stand who swore that the agreement between the three confederates was that witness was to get out of jail, and then get this appellant out, and appellant was to get Patterson out. He further testified that he bought saw blades with money given him by Patterson, and that he went to the jail Saturday to see Patterson and they would not let him talk to Patterson. He said he then looked for appellant and could not find him, and that he, witness, then threw a can containing some saws over in the dog pen. He said appellant was not there; that he did not show up. Shown the saw blades picked up in the dog pen, witness identified them as the ones he threw over into the dog pen.
+Patterson was also uspd as a State witness, and testified that he, appellant and MeDow agreed to get saws into the jail so that all three of them could break jail, and to this end he got some money sent him. He testified that when the money reached the jail the bond of MeDow also came. He also testified that he gave MeDow three dollars to buy some saws; also about noon the next day, which was Saturday, this appellant made bond and left the jail. When he left he said to witness “We will get you out.” Later witness said Keller sent a messenger to him for some more money, which he did not send. The appellant introduced the register of a hotel in Brownsville showing that appellant and his wife occupied a room in that hotel on the Saturday night in question.
+It is very apparent that the testimony of these three witnesses, Abel, MeDow and Patterson, is self-contradictory, and each of them was a State witness, and their testimony was relied on to establish the existence of the conspiracy alleged against appellant, MeDow and Patterson. We have tried as best we could to find in this confused and confusing record testimony that would seem to measure up to the requirement of the law and furnish corroboration which of itself would tend to show that the accomplices were corroborated when they said that Keller entered into the conspiracy described with MeDow and Patterson, but confess our inability to find it. So believing, appellant’s motion for rehearing will be granted, the judgment of affirmance set aside, and the judgment of the trial court will be reversed and the cause remanded.
+Reversed and remanded.
+Morrow, P. J., absent.
