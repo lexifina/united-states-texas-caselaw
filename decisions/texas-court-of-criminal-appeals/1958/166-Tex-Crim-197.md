@@ -1,0 +1,52 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,534"
+decided: "1958-03-19"
+citations: ["166 Tex. Crim. 197"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sam Mitchell v. State"]
+source_url: "https://static.case.law/tex-crim/166/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2614987
+cites_cases: ["157 Texas Cr. Rep. 534", "159 Texas Cr. Rep. 647", "162 Texas Cr. Rep. 290", "247 S.W. 2d 119", "266 S.W. 2d 864", "284 S.W. 2d 906"]
+---
+
+# Mitchell v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is driving a motor vehicle upon a public highway while intoxicated; the punishment, 90 days in jail and a fine of $200.
+A seventeen-year-old school girl received a broken arm as the result o fbeing struck by a flat bed truck being driven south on Yale Street, in Houston.
+The driver did not stop.
+Appellant was shortly thereafter taken from a red flat bed Ford truck, some four blocks south from where the girl had been struck, by two unidentified men, and was taken to the place where she was hit.
+A police officer driving north on Yale Street passed as appellant was being taken from the truck. He stopped when he came to the injured girl and, after appellant arrived, arrested him for failing to stop and render aid.
+There is ample evidence that appellant was intoxicated at the time, including, the opinion expressed by officers who observed him and testimony that samples of his blood showed content of .19 per cent alcohol, .15 per cent indicating intoxication.
+Appellant’s written statement was offered in evidence in which the following appears: “I was going home driving my 1952 Ford flat bed truck — south on Yale Street — a car pulled up beside me and someone said there had been an accident — and to pull over, that I had probably hit them. 1 drove the truck over and got out and went back to the scene of the accident. * * * An officer asked me if I was driving that' truck and he pointed to my truck, and I told him I was * *
+Appellant did not testify.
+Attention is directed to the fact that appellant was taken from the truck. In his statement he made no mention of anyone riding with him.
+Applying the rule quoted in Bosquez v. State, No. 29,590, this day decided (page 147, this volume), we find evidence sufficient to support the jury’s finding that appellant was driving a truck on a public highway and that he was intoxicated.
+It is contended that appellant’s written statement or confession was inadmissible as a matter of law.
+He was arrested about 10:45 P.M. and was taken to the hospital where a blood specimen was taken at 12:45 A.M. He was then taken to the police station where he made the statement between 1 and 2 A.M. Complaint was filed during the same night after 2:25 A.M.
+We overrule the contention that the statement or confession should have been excluded because appellant was not taken before a magistrate. Henson v. State, 159 Texas Cr. Rep. 647, 266 S.W. 2d 864; Goleman v. State, 157 Texas Cr. Rep. 534, 247 S.W. 2d 119.
+There was no unreasonable delay in filing the complaint or in taking the accused before a magistrate. Gilbert v. State, 162 Texas Cr. Rep. 290, 284 S.W. 2d 906.
+The judgment is affirmed.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+The only testimony outside of and other than the confession that might suggest that appellant was at any time the driver of a motor vehicle was that of Officer Roberts to the effect that he saw two colored men take him out of a red flat-bed truck.
+Appellant did not testify.
+There is an absence of any testimony, in this connection, that appellant owned a truck, or that the truck described was registered in his name. Nor is there any testimony showing that the truck did not belong to and was not registered in the name of either of the colored men who took appellant therefrom or that either of them was not the driver of the truck that struck the injured girl.
+An extrajudicial confession is not alone sufficient to establish the corpus delicti or the guilt of the accused. There must be other and additional evidence which establishes such facts.
+It is true that other and additional facts may be shown by circumstantial evidence which, among other things, is that every hypothesis other than the guilt of the accused is excluded.
+When my brethren say that the inference to be drawn from the fact that appellant was taken from the truck by the two colored men, together with his failure in the confession to mention that others had been in the truck with him at the time of the collision, is that he was the driver of the truck, they destroy one of the cardinal rules relative to circumstantial evidence — which is that an inference may not be based upon an inference.
+Here is a flagrant violation of that rule, for my brethren say that proof of the fact that appellant was taken from a truck by two persons creates the inference that he drove the truck, because of the further inference to be taken from the fact that he did not say anything in the confession about any one else having been with him.
+My brethren cite the Bosquez case, No. 29,590, this day delivered (page 147, this volume), as authority for their holding that an inference may be based upon an inference and that the evidence, here, is therefore sufficient to corroborate the confession.
+The Bosquez case is not in point or controlling, here. Bosquez testified, and it was upon his testimony that the majority of the court base their conclusion in that case.
+Here, the appellant did not testify.
+The Bosquez case is wrong and, insofar as I am concerned, the error therein is demonstrated by my dissenting opinion in that case.
+I dissent.
