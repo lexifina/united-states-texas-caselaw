@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3921"
+decided: "1907-12-18"
+citations: ["52 Tex. Crim. 307"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jim Cagle v. The State."]
+source_url: "https://static.case.law/tex-crim/52/cases/0307-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4559472
+cites_cases: ["34 Texas Crim. Rep., 350", "34 Texas Crim. Rep., 415", "34 Texas Crim. Rep., 615"]
+---
+
+# Cagle v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of cattle theft. His explanation of his possession of the cow alleged to have been stolen was that he had bought her from a negro. He gave a description of the horse the negro was riding, as well as the negro from whom he testifies he purchased the animal; and his statement of his right of possession at the time it was first challenged. The court charged the jury in regard to this explanation as follows: “If you believe from the evidence that the cow had been stolen from the witness, Henry Colvin, and that recently thereafter the defendant was found in possession thereof, and when his possession was first questioned, he explained that he had bought the cow from a negro and related the circumstances under which he bought her, then if such explanation accounted for defendant’s innocence, and you further believe such explanation is reasonable and probably true, you will consider such explanation as true and acquit the defendant,” etc. Exception is urged to that portion of the charge which informs the jury, if they found the explanation accounted for appellant’s innocence to be reasonable and probably true, they would acquit. We think this exception is well taken. Appellant is not required to account for his innocence. The law presumes him innocent and before he can be convicted this presumption of innocence must be overcome by evidence to the exclusion of the reasonable doubt. The State must overcome this presumption of innocence and the reasonable doubt in order to obtain a conviction. An accused party is not required to account for his innocence; the burden of proof is on the State. The law accounts for appellant’s innocence against the charge contained in the indictment. In another portion of his charge, the court gave a correct charge, but the two charges are absolutely inconsistent with each other, and the rule in this State has been that where charges are inconsistent, the one correct and the other detrimentally incorrect, the case will be reversed, for it leaves the jury with no proper legal criterion.
+While appellant was en route to town in possession, of the cow, he drove along the public road, passing the residence of Epperson; at Epperson’s appellant stopped and requested him to assist him, appellant, in catching the cow, and Epperson complied with the request and held the cow in the lane until' appellant threw a rope on her. Epperson got his horse and hitched him to a post and asked appellant into his house. This was declined for want of time. Epperson then asked appellant where he got the cow. Appellant proposed to repeat the statement before the jury that he made to Epperson. Objection was made to this as self-serving. The court ruled it out, stating that his explanation is admissible when his right is challenged. - Witness’ answer or proposed answer is not stated in the bill; therefore, it cannot be considered. Hpon another trial, however, we are of opinion, if this matter is urged his answer is admissible. This was the first inquiry made of appellant as to his right of possession after he had taken charge of the animal. Shortly afterward he overtook the alleged owner, while he, appellant, had the cow in possession and they had a conversation about it. It was during- this conversation that appellant informed the alleged owner that he purchased it, and the alleged owner stated that it belonged to Mr. Weaver, but it was in his, the alleged owner’s possession. Whether Epperson had directly challenged appellant’s right to possession of the cow or not, he qualifiedly called upon appellant to state his right of possession. If appellant had made a false statement to Epperson, the State certainly would have insisted that it was admissible, or if he had remained silent, or had given an evasive answer, it would have been admissible, at least the State would have been urging it and correctly. What the answer was, is not shown; therefore, as presented, the bill cannot be entertained, and we call attention to this because upon another trial we think this evidence should go before the jury. Appellant requested some charges seeking to correct the error in the charge in regard to the erroneous charge given by the court, which was refused. These, we think, should have been given and the erroneous charge withdrawn or corrected.
+For the errors indicated the judgment is reversed and the cause remanded.
+Reversed and remanded.
+Henderson, Judge, absent.
