@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "14187"
+decided: "1931-06-17"
+citations: ["118 Tex. Crim. 299"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. H. McDaniel v. The State."]
+source_url: "https://static.case.law/tex-crim/118/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5191846
+cites_cases: ["114 Texas Crim. Rep., 531", "26 S. W. (2d) 266", "260 S. W., 1054", "33 S. W. (2d) 461", "97 Texas Crim. Rep., 299"]
+---
+
+# McDaniel v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Conviction for manufacturing intoxicating liquor; punishment, one year in the penitentiary.
+There are three bills of exception in the record. The facts in this case admitted and testified to by the appellant are to the effect that he was employed by a man to work at a still where he engaged in the manufacture of intoxicating liquor for two days, his claim being that the man was to pay him so much per day, and in addition give him a quantity of whisky. His claim was that he wanted the whisky for his wife’s use as medicine. He was observed in company with another man carrying a keg of whisky across a river, by witnesses who testified to these facts.
+Appellant’s first bill of exception complains of the court’s charge, in substance, that it is not unlawful to manufacture intoxicating liquor for medicinal purposes solely, but it is unlawful to manufacture intoxicating liquor for both medicinal and other purposes. Complaint of this was that it was on the weight of the evidence. In view of the facts testified to by appellant himself, we do not regard this objection as serious. This bill is qualified by the trial court who calls attention to the fact that appellant testified that he and the man for whom he was working were making about sixteen gallons of whisky per day, and there was no evidence as to what the other whisky was being made for.
+Bill of exception No. 2 is in substance the same as bill No. 1. The third bill of exception complains of the refusal of a special charge in which appellant sought to have the jury told that it is not a violation of the law to manufacture intoxicating liquor for medicinal purposes, and that if the jury found from the evidence that it was necessary for appellant to keep whisky for his wife’s health, and that he helped make the whisky for the purpose of securing some of same to be used as medicine, they should acquit. This charge is manifestly not the law.
+No error appearing in the record, the judgment will be affirmed.
+Affirmed.
+
+## Rehearing (HAWKINS, Judge.)
+
+ON MOTION FOR REHEARING.
+HAWKINS, Judge.
+Appellant testified that he was helping operate the still in manufacturing intoxicating liquor and that for two days’ work he was to receive four dollars and a pint of whisky; that he took the employment to get the whisky for his wife who needed it for medicinal purposes. A mxich greater quantity of whisky was manufactured than the' pint which appellant was to receive. There was no evidence that such additional liquor was being manufactured for medicinal or any other of the excepted purposes. The court charged the jury that “it is not unlawful to manufacture intoxicating liquor for medicinal purposes solely, . but it is unlawful to manufacture intoxicating liquor for both medicinal and other purposes.” The jury was further instructed that if appellant manufactured the liquor “solely for medicinal purposes he should be acquitted.” In his motion for rehearing appellant assumes that because his testimony raised the issue the court’s instruction had singled out such testimony and that it was a charge upon the weight of the evidence. We cannot so regard the instruction. The court was trying to apply the law to a rather peculiar state of facts presented by appellant.
+Appellant further urges that in restricting the defense to manufacturing whisky for medicinal purposes “solely” our original opinion is in conflict with Veasy v. State, 97 Texas Crim. Rep., 299, 260 S. W., 1054; Tetmeyer v. State, 114 Texas Crim. Rep., 531, 26 S. W. (2d) 266; and Hufstettler v. State (Texas Crim. App.), 33 S. W. (2d) 461. In all of the cases mentioned the prosecution was for possessing intoxicating liquor for the purpose of sale. Under the statute (article 666, P. C.), 1925, it is made unlawful to possess intoxicating liquor for the purpose of sale. Possession for any other purpose is not an offense. Hence, an instruction such as was given irt the present case would be a manifest mis-statement of the law if given in a case where the offense was possession for the purpose of sale.
+The present prosecution was for manufacturing intoxicating liquor. We cannot regard the charge in this case under the facts as either erroneous, confusing or misleading.
+The motion for rehearing is overruled.
+Overruled.
