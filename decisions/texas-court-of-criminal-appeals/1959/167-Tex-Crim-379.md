@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,426"
+decided: "1959-02-11"
+citations: ["167 Tex. Crim. 379"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Hubbard v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8549718
+---
+
+# Hubbard v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is negligent homicide of the second degree; the punishment, a fine of $500.
+Count 2 of the information alleged that appellant was engaged in the unlawful act of driving a truck on Wayne Street in a residential district of Houston at a greater speed than thirty miles per hour, an unlawful, imprudent and unreasonable speed. The information in Count 2 further alleged that while “engaged in said unlawful rate of speed” appellant caused the death of Pedro Ramirez, an occupant of an automobile “traveling on another public street and highway known as Engleford Street, by then and there negligently causing and permitting said truck driven by said defendant to collide with said automobile which was then and there occupied by the said Pedro Ramirez, * * *” thereby inflicting injuries which caused his death.
+Appellant, the evidence shows, was a truck driver for Parcel Service, Incorporated, and was driving a panel truck making deliveries on his regular route.
+While traveling south on Wayne Street at a speed of about thirty-five miles per hour, he approached the intersection of Wayne Street and Engleford Street. An automobile in which Pedro Ramirez was a passenger, and which was being driven by James Jackson, approached the intersection from the east.
+A collision occurred in the intersection and when the car came to rest it was headed in the general direction from which it came, in the ditch at the southwest corner of the intersection. The truck went across the ditch and onto the embankment and was lying on its left side.
+Ramirez was thrown from the car and received injuries which caused his death at the scene of the collision. Appellant’s neck was broken.
+James Jackson, called by the state, testified that as he entered the intersection, intending to make a left turn on to Wayne Street, he slowed down; signaled with his band for a left turn; looked both ways but did not see anything coming; that he made a left turn and headed south and the truck, traveling south on Wayne and driven by appellant, struck his rear right fender; that he never did see the truck before the collision, and could not say who entered the intersection first. “I never did see the truck. I just drove up there looking, I didn’t see anything, so I made my turn.”
+Pictures of the truck and car and the testimony of other witnesses for the state reveal that the truck which appellant was driving was struck on the left side by the right front of the automobile in which the deceased was a passenger. Jackson, confronted with the pictures showing the damaged front end of his automobile, said: “I was hit there too, but I was hit here first.”
+The question presented is whether the fact that appellant was driving the panel truck at a speed of thirty-five miles per hour in a thirty mile per hour zone at the time of the collision is sufficient to sustain his conviction for having caused the death of Ramirez.
+Appellant directs attention to Art. 1236 P.C. relating to negligent homicide which provides: “The homicide must be the consequence of the act done or attempted to be done.”
+As we read the record the state proved that appellant was engaged in the unlawful act of driving the panel truck at a speed of more than thirty miles per hour when an automobile entered the intersection, made a left turn and ran into the side of the panel truck causing it to turn over and resulting in the death of a passenger in the car. There is nothing in the record to suggest that the collision would not have occurred with the same results had the truck been traveling at thirty miles per hour instead of thirty-five. No other negligent act or omission on the part of appellant is shown save excessive speed.
+We do not pass upon the rights of anyone damaged by the collision in a civil action. We do find that the facts stated are insufficient to sustain the conviction of the truck driver for negligent homicide.
+The judgment is reversed and the cause remanded.
