@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,924"
+decided: "1954-04-07"
+citations: ["160 Tex. Crim. 199"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jess Twiner v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2472381
+---
+
+# Twiner v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for felony theft; the punishment, two years in the penitentiary.
+Appellant came to Amarillo from Hereford and the car he was driving was involved in a collision. He encountered his friend Paul Trimmier and they spent the night together in a tourist cabin, were drinking, and appellant and others engaged in a dice game.
+The following morning appellant and Trimmier continued drinking together. At the Yucca Bar they met Mildred Hassen who joined them in drinking beer and whisky.
+All three became intoxicated and late in the morning, at Trimmier’s invitation, proceeded to his home. They stopped on the way and acquired a fifth of whisky, some beer and some meat. They continued drinking there and cooked and ate the meat. Appellant drank some of the beer but did not drink any of the whisky.
+Trimmier then went into his back bedroom, removed his trousers and went to sleep.
+When he awoke both appellant and Mildred Hassen had departed, as had the currency from his billfold in his trousers pocket. He went to Hereford, but did not succeed in locating appellant. He reported the loss of his money and, being advised that he was wanted, appellant surrendered to the officers some 30 days after the incident.
+Mildred Hassen, who was also indicted for the theft of Trimmier’s money, testified for the state. She admitted that she took $100 in currency from Trimmier’s billfold while he slept and said that she did so at the suggestion of appellant who told her that he had “a good bit of money on him” and for her to get it; that after taking the money and replacing the billfold in Trimmier’s trousers pocket, she gave $50 to appellant and he dropped her at her home.
+Lora Twiner was the owner of the car appellant was driving. She testified that she married appellant on the day she brought him back to Hereford from Portales and he surrendered to the officers. She corroborated appellant’s testimony to the effect that he called her from Amarillo and reported the accident to her car, which he drove to Amarillo at her request; that he was without funds the morning after his return from Amarillo; that he remained in Hereford for a week and a half and made no effort to hide and after she took him to his mother’s home in Rochester he told her he was going to take a job in Portales; that she notified him there after she was advised that her car was reportedly implicated “in a robbery” and at his request she went to Portales, married appellant and both came back to Hereford where he surrendered to the sheriff.
+There is testimony in the record to the effect that, after the indictment herein had been returned, $70 was paid to Trimmier by appellant or his counsel with the understanding that appellant was not admitting any guilt, but “felt sorry that you had lost the money?”
+Appellant admitted being present while Trimmier was asleep in his home and testified that he left with Mildred Hassen and took her home, but he denied that he took any money from Trimmier or that he told Mildred Hassen to do so, or that he received any money from her. He claimed that he himself went to sleep and was awakened by the woman shaking him and saying “Get up, I have to go home.”
+There are no bills of exception, formal or informal, unless it be an exception reserved to the overruling of a motion to exclude testimony of the defendant on cross-examination to the effect that he was convicted of forgery in 1938.
+The testimony was admitted without objection, and there is nothing to show that appellant’s counsel did not have the opportunity to object or to excuse his failure to do so. The motion does not show when it was filed or presented except that it was filed on the day of the trial.
+We have not been favored with a brief presenting appellant’s contention, but have carefully considered the sufficiency of the circumstantial evidence to corroborate the accomplice and to sustain the conviction. We have concluded that the evidence is sufficient and that we would not be justified in disturbing the jury’s verdict.
+The judgment is affirmed.
