@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "8084"
+decided: "1924-03-05"
+citations: ["98 Tex. Crim. 158"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. A. Rumfield v. The State."]
+source_url: "https://static.case.law/tex-crim/98/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5089637
+cites_cases: ["218 S. W. Rep., 1044", "87 Tex. Crim. Rep., 1"]
+---
+
+# Rumfield v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+— Conviction is for the sale of intoxicating liquor with punishment assessed at confinement in the penitentiary for one year.
+The evidence supports the verdict and judgment. Indictment was returned January 17th, 1922, and the cause continued at that term of court. The case was then called for trial April 16th, 1923, appellant being out on bon'd. He filed a motion stating that he had not been served with a copy of the indictment and had never waived his right to be furnished with one, whereupon the court ordered.the cleric to make a certified copy of the indictment and cause it to be served upon appellant which was done. The original indictment charged the sale to have been made to one “John Reece.” The purported copy delivered to appellant under the foregoing motion alleged the sale to have been made to “John Reeves.” The bill of exception bringing this matter forward for review nowhere states affirmatively. that the attention! of the learned trial judge was called to the discrepancy in the name of the purchaser after the copy of the indictment was delivered to appellant. The record makes it clear that when the court’s attention was called to the fact that no copy of the indictment had been furnished appellant he promptly undertook to comply with the constitutional and statutory provisions relative to the matter, and directed that a copy be made and delivered to appellant. If the discrepancy in the name was not called to the court’s attention then he had a right to assume that the copy furnished was a true and correct copy, and if appellant proceeded with the trial without further objection being made known to the court we would hold that he waived the matter now complained about. It is clear from the opinion in Revill v. State, 87 Tex. Crim. Rep., 1, 218 S. W. Rep., 1044, and the authorities therein cited that he might entirely waive the right to be furnished with a copy of the indictment. In connection with the motion requesting a copy of the indictment appellant also requested a postponement of the trial for two days. After having a copy of the indictment made and delivered to appellant the court overruled the motion, and the bill indicates that he was acting entirely upon the original motion in the absence of ever having his attention called to the discrepancy in the name. That appellant was in no way surprised when Reece and not Reeves appeared as a witness against him is apparent from the discussion of the next assigned error.
+After Reece had testified positively for the State as to the sale of the whisky by appellant to him he was handed an affidavit which had theretofore been made by him in which he had denied the purchase of whisky from appellant. Much evidence was introduced relative to this affidavit; Reece, in his testimony, in one place states that appellant had been to see him a number of times relative to procuring it, and that at one time had a gun with him and made some threats. This statement was sharply combatted by both appellant and the witnesses who were present at the time the affidavit was made. During argument the district attorney used the following language:
+“Gentlemen of the jury, if defendants can go out in cases of this kind and intimidate the witnesses for the State and obtain from them affidavits as were obtained in this case, and then come into court and get juries to turn criminals loose on such affidavits, then I say to you that before the sun goes down this evening other defendants will go out and do likewise, and the State will be powerless to convict bootleggers in this county.”
+Objection was lodged to the argument as being unauthorized and not warranted by the evidence and not a proper deduction from any evidence in the case. The learned trial judge seems to have taken this view of the' matter and immediately instructed the jury orally not to consider the remarks of the district attorney for any purpose. No written instructions were requested relative to the matter. If any error was committed we think it was against the State. While the weight of the testimony indicated that the affidavit referred to was not coerced from the witness Reece, yet in our opinion his testimony furnished a basis for the argument of the district attorney. Whether we be correct in this view or not the prompt action of the court in directing the jury not to regard the argument cured the error, if any.
+As one ground of his motion for new trial appellant alleged that C. P. Amerson, who sat as a juror on the trial of this case, was not a fair juror but was prejudiced to such an extent that the verdict should be set aside. He alleges that the juror said before leaving home:
+“I am going over to Anson and get on the jury and send every man to the penitentiary that is shown to have anything to do with whisky.”
+Having alleged this in his motion the burden was upon appellant to establish it. , He undertook to discharge the burden by attaching to his motion the affidavits of two people to the effect that the heard Mrs. Amerson say that her husband made the statement hereinbefore set out. A fact can no more be established by a hearsay affidavit than it could have been established by the same witnesses undertaking to give such hearsay testimony orally before the court upon the hearing of the motion. The court committed no error in overruling the motion upon the ground stated.
+Finding no error in the record which would call for a reversal, the judgment is affirmed.
+Affirmed.
+
+## Rehearing (MORROW, Presiding Judge.)
+
+ON REHEARING.
+MORROW, Presiding Judge.
+— Upon the demand of the appellant the court instructed the clerk to furnish appellant with a.copy of the indictment against him. The copy furnished was inaccurate. Doubtless if he had called the court’s attention to the discrepancy, a corrected copy would have been supplied. At all events, if the court had been informed of the error in making the copy of. the indictment, it would have been incumbent upon it to cause a corrected copy to be made and delivered to the accused. So far as the record shows, the court did not know that his instructions to the clerk to furnish a copy of the indictment had been imperfectly complied with.
+Knowing of the inaccuracy in the name of the copy furnished, appellant having proceeded to trial without complaining of the copy, is not in a position to demand that the verdict be annulled.
+The motion is overruled.
+Overruled.
