@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1005"
+decided: "1911-03-01"
+citations: ["61 Tex. Crim. 428"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jim Henley v. The State."]
+source_url: "https://static.case.law/tex-crim/61/cases/0428-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4595066
+---
+
+# Henley v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+—The complaint charged that appellant did fraudulently take one turning plow of the value of six dollars, the same being the corporeal, personal property of G, C, Holbert and in the possession of J. C. Johnson, who was holding the same for the said G-. C. Holbert, without the consent of the said G. C. Holbert or the said J. C. Johnson, or both or either of them, and with the intent to deprive the said G. C. Holbert of the value thereof and with the intent to appropriate same to the use and benefit of him the said Jim Henley. The information follows the charging part of the complaint.
+1. These pleadings are attacked on the ground that the affidavit does not charge that the property was taken from the possession of Johnson or Holbert. It is true, the information and complaint charge that the property was in the possession of Johnson, but it does not charge that the property at the time it was taken was taken from the possession of Johnson. The statute defining theft says it must be fraudulently taken from the possession of the owner or someone holding it for him. We are of opinion that this point is well taken, and that the pleadings are not sufficient.
+2. The court’s charge is attacked also. That portion of it in substance charged the jury that if appellant fraudulently took from the possession of J. C. Johnson the turning plow described in the bill of information and that the turning plow was the property of G. C. Holbert, without the consent of the said G. C. Holbert, with the intent to deprive the owner of the value of same, etc., they could convict. The information and complaint charge the property in the possession of Johnson, who was holding it for Holbert, and that it was taken without the consent of either of the parties. Under the charge of the court the property could have been taken with the consent of Johnson. It does not require the jury to believe as a predicate for conviction that it was taken without the consent of Johnson. The charge only requires the jury to believe that it was taken without the consent of Holbert. The charge in this respect is fatally defective, and even if the complaint and information were valid and sufficiently charged the offense, the charge authorized a conviction without meeting the requirements of the pleadings.
+The judgment is reversed and the prosecution is ordered dismissed.
+Dismissed.
