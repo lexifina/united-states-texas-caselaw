@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,979"
+decided: "1961-12-06"
+citations: ["171 Tex. Crim. 636"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jonathan Fields v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2631676
+cites_cases: ["1 S.W. 2d 315"]
+---
+
+# Fields v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is assault with intent to murder; the punishment, 2 years.
+Jimmy Ann Davis testified that she was at appellant’s cafe on the night in question and that an argument erupted between appellant and one Oscar Davis, who was with her; that she sought to placate the men but that, in spite of her efforts, appellant cursed her, pulled out a pistol and shot at her twice, one bullet penetrating her stomach. She testified that she made no overt gesture toward appellant and that she was not armed. She testified further that after the shooting everyone fled the cafe and left her lying on the floor until the deputy sheriff arrived some thirty minutes later.
+Oscar Davis testified that appellant accused him of breaking one of the windows in the cafe, that he denied his guilt, that Jimmy Ann offered to pay for the window, and appellant reached in his pocket, pulled out a pistol and shot the injured party. He testified that he, was not armed and made no effort to injure appellant.
+Dr. Goodall testified that Jimmy Ann was brought to his hospital on the night in question suffering from gunshot wounds, that he operated on her for three hours, and that she was in a critical condition.
+Appellant, testifying in his own behalf, admitted the argument with Oscar about the broken window, stated that he asked Oscar and Jimmy Ann to leave, but that Jimmy Ann knocked over his soda water cases and began to shove his candy case when he shot her. He stated, “I was intending to try to stop her from tearing up the place. * * * That is all I was trying to do. * * * When she shoved the case, I grabbed the case and grabbed the gun and shot.” When asked if he was shooting at Jimmy Ann Davis, appellant replied, “Yes sir. I guess I was.”
+We find the evidence sufficient to support the conviction and shall discuss the one contention brought forward on appeal. The careful trial court charged the jury on the issue of self-defense against an attack upon appellant’s person or upon his property. It is-appellant’s contention that he should have further submitted the defensive issue that the appellant “merely fired his gun to cause the injured party to stop.”
+Reliance is had upon Minor v. State, 108 Tex. Cr. Rep. 413, 1 S.W. 2d 315. Minor testified that he shot over the head of the injured party, who he was seeking to arrest, not intending to hit him but for the purpose of scaring him into submission. Such, as we view them, are not the facts before us here. The sole defense raised by appellant’s testimony was that he shot the injured person in the protection of his property, which was adequately and correctly submitted in the court’s charge.
+Finding no reversible error, the judgment of the trial court is affirmed.
