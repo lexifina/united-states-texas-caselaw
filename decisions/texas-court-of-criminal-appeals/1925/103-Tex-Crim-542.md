@@ -1,0 +1,45 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9159"
+decided: "1925-12-09"
+citations: ["103 Tex. Crim. 542"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. T. Pitts v. The State."]
+source_url: "https://static.case.law/tex-crim/103/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5116139
+cites_cases: ["100 Tex. Cr. R. 110", "100 Tex. Crim. Rep. 100", "272 S. W. 210"]
+---
+
+# Pitts v. State
+
+## Majority (BAKER, Judge.)
+
+BAKER, Judge.
+The appellant was tried and convicted in the district court of Limestone county of unlawfully transporting intoxicating liquor, and his punishment assessed at one year’s confinement in the penitentiary.
+The record before us fails to disclose any sentence in this case by the trial court. Without proper sentence this court is without jurisdiction of this case. For that reason the appeal is dismissed.
+Appeal dismissed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+BAKER, Judge. — At a former day of this term we dismissed this case on account of the record failing to show the sentence of the defendant. The record has been corrected and is now before us on its merits.
+Appellant complains of the action of the court in refusing to grant him a continuance for the want of the testimony of Monk Henderson. The application shows that process issued on the 15th day of June, 1924, to Freestone County, to summon “Bunk Hudson.” The sheriff’s return thereon was made, “Bunk Hudson cannot be found in Freestone county.” This process was returnable on the 19th day of June, 1924. It appears that the defendant was tried on the 26th day of September, 1924. There is no showing in said application for continuance that there was ever any process issued upon request of appellant for the witness “Monk Henderson,” but the record shows that there was process as above stated issued for “Bunk Hudson.” There is nothing in the record to show that Monk Henderson and Bunk Hudson are one and the same person. The application shows on its face to be the second application for continuance and that the court refused to grant same because of a lack of diligence. As the record is presented there is no diligence shown for Monk Henderson, and if the record should disclose that Monk Henderson and Bunk Hudson were the same person, then we are unable to say the diligence was sufficient to require the trial court to grant the application in this instance. The application stated that the purpose of this testimony was to show that the appellant was at another and a different place at the time of the alleged offense, without stating the facts supporting said allegation. We find the record discloses from the evidence of the appellant’s wife that Monk Henderson on the night of the alleged offense stayed all night at the appellant’s house and slept in a different room from that of her and the appellant. The evidence of the State discloses that at about 1:30 a. m. that the state’s witness Broyles was found on the road by the deputy sheriff sitting in an automobile that was shown to be under the control of appellant prior and up to a late hour on the evening of the night of the offense, with about 15 gallons of whiskey, a few miles out from the town of Mexia, the home of appellant; and that said officer took said Broyles and said whiskey back to town and left said car there, and after while returned and the car was gone. The said Broyles on the stand testified that the appellant had purchased the whiskey and was transporting it, and that he was riding with the appellant, and that the gasoline had given out, and appellant had gone to get some gasoline when the officer arrested him. The state’s witness Hughes testified that the appellant came to his house about that time of night, asking for gasoline, and stated that he had run out of gasoline. There is no evidence in the record showing where appellant was from bed time of the night in question, except his own, up to the time the officer arrested the witness Broyles with the car in question. Under this state of facts as shown by the record, we do not feel warranted in holding that the court committed error in overruling this second application for continuance.
+Appellant’s bills of exceptions 2 and 3 complain of the action of the court in failing to charge the jury on the law of accomplice testimony, and that they could not convict the appellant unless there was other evidence tending to connect him with the offense, other than that of the said witness Broyles. As presented we presume that the contention of the appellant in this instance is that the testimony showing said Broyles was in possession of the whiskey at the time he was arrested, and according to his own testimony was riding in the automobile while appellant was transporting same, made him an accomplice in this case. Art. 670 P. C. 1925, states:
+“The purchaser, transporter, or possessor of any of the liquors prohibited herein shall not be held in law or in fact to be an accomplice, when a witness in any such trial.”
+In construing this statute in .an elaborate opinion of this court by Judge Hawkins it was held that this special statute took precedence over the general law relative to principals and accomplice witnesses, in the case of Bailey v. State, 100 Tex. Cr. Rep. 100.
+The record discloses that the appellant was charged and convicted .of unlawfully transporting intoxicating liquor, his punishment assessed at one year in the penitentiary, and the judgment thereon entered accordingly. The court, in passing sentence in this case, sentenced the appellant “to confinement in the penitentiary for a term not less than-nor more than two years.” This the record shows to be an error of the court in passing sentence, and said sentence is so reformed as to read in lieu thereof, that the appellant is to be confined in the penitentiary for a term of one year.
+Finding no error in the record, the judgment of the trial court as reformed is now affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the court.
+
+## Rehearing (HAWKINS, Judge.)
+
+ON MOTION FOR REHEARING.
+HAWKINS, Judge.
+In his motion for rehearing appellant insists with much earnestness that the witness Broyles was a receiver with appellant of the intoxicating liquor which is the basis of the prosecution and that under Article 670 C. C. P. (1925 Revision) a “receiver of intoxicating liquor for the purpose of sale” is not exempt as an accomplice witness, and that therefore the present case is brought within the rule announced in Cate v. State, 272 S. W. 210. In view of this contention we have again closely examined the evidence. We do not believe the facts bring the witness Broyles within the statute making it an offense to receive for the purpose of sale intoxicating liquor. We think Broyles is shown to have been a co-transporter with Pitts and is brought within the rule announced in Bailey v. State, 100 Tex. Cr. R. 110.
+Appellant also argues with much plausibility that the conviction should not stand because the testimony of appellant and his witnesses show that when Broyles was found late at night in the car with the whiskey appellant was at home and therefore could not have been connected with the transportation of it. Broyles claims they had run out of gasoline and appellant had gone in search of some. The testimony of the witness Hughes identified appellant as the man who came to him late in the night looking for gasoline which he secured. Hughes knew the arrest had occured and saw appellant the next morning and identified him as the party who was at his house the night before. The officers took Broyles and the whiskey but left the car. When they returned for the car it was gone. If the jury had accepted the testimony of appellant and his witnesses they would have been justified in returning a verdict of acquittal, but the conflicting evidence makes it a case peculiarly within the province of the jury to determine. They have seen fit to resolve the issue in favor of the state and the verdict is supported by the evidence which the jury did accept as true. It is not that character of case where the court would feel justified in interfering with the verdict.
+The motion for rehearing is everruled.
+Overruled.
+ON APPLICATION FOR PERMISSION TO FILE SECOND MOTION FOR REHEARING.
+LATTIMORE, Judge. — Appellant files an application for permission to file a second motion for rehearing. We have carefully reviewed- the matters presented in said application, and have looked over the record with a view of ascertaining the likelihood of this presentation effecting any change in the views of the court upon the matters thus presented, and are of opinion that no such change will be likely, and the application is refused.-
+Application refused.
