@@ -1,0 +1,45 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,642"
+decided: "1953-12-16"
+citations: ["159 Tex. Crim. 390"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tom Gordy v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0390-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2474750
+cites_cases: ["132 S.W. 2d 878"]
+---
+
+# Gordy v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for transferring horse meat in violation of Art. 719e V.A.P.C.; the punishment, nine months in jail and a fine of $1,000.
+' It was stipulated and admitted that appellant was the owner, operator and manager of Kermit Provision Company in Kermit, Texas, on January 22, 1953.
+Mrs; Louise Henderson testified that she operated a cafe in the city of Pecos, and purchased all of her hamburger meat from the Kermit Provision Company, including that delivered to her on January 22, 1953. She testified also that A. R. Elliott, the city health inspector, came to her cafe shortly after January 22nd and picked up some of the hamburger meat which she had purchased from a salesman of Kermit Provision Company, to be served to her customers.
+Carl L. Carr testified that he delivered hamburger meat to the cafe operated by Mrs. Henderson, which came from the Kermit Provision Company. He identified himself as a salesman then in the employ of appellant and his said company.
+A. R. Elliott testified that he delivered the hamburger meat personally to a Mr. Lakey “in the laboratory.”
+Ranger Earl Stewart testified that the meat was placed in a fruit jar, iced down in a coca cola box and locked in the turtle of his car; that he drove to Austin, accompanied by A. R. Elliott, and was present when Elliott delivered the meat to Lakey at the Texas State Health Department.
+C. H. Lakey testified that he was a chemist employed by The state health department; that A. R. Elliott came to the laboratory where he worked and delivered to him some meat samples which he prepared for analysis; that he prepared a sample consisting of about one ounce of the meat to which he added 50 milimeters of normal saline solution. After leaving this sample in the refrigerator over night he took it out and filtered a small portion of the liquid part of the sample into a small test tube, which he handed to Mr. Arnett. This, Lakey testified, was the same method or procedure he had followed in some thousand or more instances. ,
+J. H. Arnett testified that Lakey personally delivered such a sample of meat to him and that he conducted the test called the “precipitin test” and the result was positive, which meant that the sample contained horse meat.
+Under the express provisions of Art. 719e V.A.P.C., Sec. 4(5), the presence of horse meat in, or the delivery of horse meat to, any restaurant or cafe shall be prima facie evidence that such horse meat was intended to be sold, in violation of said article, as food for human consumption.
+Appellant did not testify and no evidence was offered in his behalf. But appellant urges that by reason of the following we should hold the evidence to be insufficient to sustain the conviction.
+On cross - examination, Mrs. Henderson testified that the salesman for Kermit Provision Company from whom she purchased “the last meat” around January 22 had a hand wrapped up, she understood because of a broken finger. She testified that she did not know the name of this salesman.
+Carr testified that he delivered the meat to Mrs. Henderson’s cafe but the regular salesman was one “Joe” and it was Joe who had the broken finger. He was positive that he delivered the meat on January 22, but testified that he did not remember whether or not Joe took the order on a previous trip.
+In view of the testimony of Mrs. Henderson to the effect that all of the hamburger meat she purchased came from Kermit Provision Company, owned and operated by appellant, it appears immaterial as to which of the salesmen for the company may have made the sale or the delivery.
+Nor do we attach importance to Salesman Carr’s having testified that he believed the cafe was located on Highway 80, whereas it was described by other witnesses as being located several blocks from Highway 80. Carr testified that he believed, but would not swear, that the cafe was on West Highway 80.
+Also appellant lays stress upon the fact that Mr. Arnett was unable to testify from his own knowledge where Mr. Lakey got the sample of meat delivered to him for testing. Ranger Stewart delivered another sample to Lakey at the same time Elliott delivered the sample taken from Mrs. Henderson’s cafe, but it is not shown that any part of this was delivered to Arnett or prepared for test.
+Lakey testified that the number “9” was placed on the jar and on the container of the one ounce sample, but appellant points out that it was not shown that any mark was placed on the test tube which was handed to Mr. Arnett by Mr. Lakey.
+The testimony set out traces the sample of hamburger meat from appellant’s Kermit Provision Company to Mrs. Henderson’s cafe, thence to Elliott, to Lakey and to Arnett who completed or made the test and found it to contain horse meat, and is sufficient. Lakey having testified that he delivered this sample to Arnett, and Arnett testifying that he tested the sample delivered to him by Lakey at the time in question, it is not controlling that the test tube was not marked for identification.
+The remaining contention, which is the first point briefed, complains of the overruling of motions to quash the jury panel and for a mistrial because of the following.
+On voir dire examination of the jury panel by appellant’s counsel, a member of the jury panel answered that nothing he had read or heard about the case would influence his verdict, but the fact that the defendant had been previously convicted would do so.
+It is not shown that this juror served on the case, but appellant urges that all of the panel members thus received information to the effect that appellant had been previously convicted of a similar offense.
+The rule is somewhat relaxed in misdemeanor cases, where an accused may be tried for more than one offense upon the same complaint and information.
+We have held that a juror is not disqualified by reason of his knowledge of other convictions against the accused. See Stephens v. State, 137 Tex. Cr. Rep. 551, 132 S.W. 2d 878.
+There is no showing that any juror who served in the case was prejudiced or had formed an opinion by reason of his knowledge of the former conviction.
+The evidence sustains the conviction and we find no reversible error.
+The judgment is affirmed.
