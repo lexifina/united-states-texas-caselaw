@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,380"
+decided: "1960-01-27"
+citations: ["169 Tex. Crim. 175"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harry Jones v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12133387
+cites_cases: ["163 Tex. Cr. R. 499", "164 Tex. Cr. R. 273", "293 S.W. 2d 781", "298 S. W. 2d 831", "322 S.W. 2d 536"]
+---
+
+# Jones v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is the unlawful possession of marihuana, a narcotic drug; the punishment, 15 years.
+The state’s evidence, which was accepted as true by the jury, was that two police officers who had received information that appellant would shortly arrive and deliver some marihuana to one Crockett went to the place and saw the automobile which had been described to them, driven by appellant, arrive; saw appellant walk over to the person fitting the description they had been given of Crockett; heard appellant ask him if he had the money; saw Crockett hand appellant two bills, and heard appellant tell him to wait; that appellant walked back to the automobile; that as one of the officers attempted to pull appellant out of the automobile, a small package fell to the ground, the contents of which proved to be a little less than two grams of marihuana. Dustings from appellant’s pockets, principally tobacco, also showed particles of marihuana.
+Both appellant and Crockett, who testified as a witness in his behalf, denied that the package of marihuana fell from the car or that there was marihuana in the automobile, or that Crockett gave appellant any money.
+The principal ground for reversal is that appellant was asked, on cross-examination: “Isn’t it a fact that on July 20th, 1955, you entered a plea of guilty to the posession of marihuana?”
+The contention is that since the plea of guilty resulted in a conviction with probation, and had been set aside at the expiration of the two year term assessed, the asking of the question was in violation of Art. 732 (a) V.A.C.C.P., which provides:
+“The fact that a defendant in a criminal case, or a witness in a criminal case, is, or has been charged by indictment, information or complaint, with the commission of an offense against the criminal laws of this State, of the United States or any other State shall not be admissible in evidence on the trial of any criminal case for the purpose of impeaching any person as a witness unless on trial under such indictment, information or complaint a final conviction has resulted, or a suspended sentence has been given and has not been set aside, or such person has been placed on probation and the period of probation has not expired.”
+The objection was sustained and the jury was instructed not to consider the question. Appellant urges that his motion for mistrial should have been granted because counsel for the state was aware of the fact that probation had been granted, the two-year-term assessed had expired and the conviction had been set aside.
+Our recent holding in Garcia v. State, 167 Tex. Cr. Rep. 593, 322 S.W. 2d 536, points out the distinction between proof of a prior conviction and impeachment of a witness’ testimony that he had not done a certain act by proof that he had confessed to the contrary by his plea of guilty to an accusation which charged the commission of such an act.
+In Garcia v. State, the state was permitted to impeach Garcia’s testimony that he had never seen marihuana in his life by showing that he pleaded guilty to possession and sale of marihuana, notwithstanding the conviction may have been too remote.
+In the case before us the state sought to impeach appellant’s testimony that he had not seen any marihuana since he got out of the army in January 1955, by his plea of guilty to possession of marihuana on July 20, 1955, though the conviction may not have been admissible because the sentence was probated and had been set aside.
+As we said in Garcia v. State, “The question is not whether the prior conviction was admissible, * * * .” The question here is whether a mistrial should have been ordered because the state attempted to impeach the testimony of appellant that he had not seen any marihuana since January 1955 by asking him if he had not pleaded guilty to posessing marihuana at a later time. We think not. Garcia v. State, supra, and cases there cited.
+It is interesting to note that later in his cross-examination appellant admitted that his testimony that he had not seen any marihuana since he got out of the army in January 1955 was not true.
+The remaining ground for reversal is the contention that the issue was raised that the marihuana was obtained as a result of a search of the automobile appellant was driving and that the evidence was inadmissible because the officers admitted they did not issue a receipt and file a sworn inventory, as required by Art. 725b V.A.P.C. The omission of a charge to acquit upon such finding is urged as error requiring reversal.
+The testimony of the officers was that the package of marihuana was picked up after it fell out of the car. Under their testimony it was not obtained as the result of a search of the automobile or of the person of appellant.
+Appellant and his witness testified that the package the officer picked up was not in the automobile and did not fall out of the automobile.
+The manner of obtaining possession of the package was not unlawful. Robinson v. State, 163 Tex. Cr. R. 499, 293 S.W. 2d 781.
+The marihuana having been lawfully obtained, the failure of the officers obtaining it to issue receipt and file inventory would not make the obtaining of such evidence unlawful or inadmissible. Garcia v. State, 164 Tex. Cr. R. 273, 298 S. W. 2d 831.
+The evidence is sufficient to sustain the conviction and we find no reversible error.
+The judgment is affirmed.
