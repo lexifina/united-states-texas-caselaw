@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3018"
+decided: "1914-05-20"
+citations: ["74 Tex. Crim. 108", "167 S.W. 348"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. H. Brown v. The State."]
+source_url: "https://static.case.law/tex-crim/74/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4687651
+cites_cases: ["100 Tex. 467", "101 S. W. 199", "111 S. W. 1076", "111 S. W. Rep., 1076", "51 Tex. Civ. App. 292"]
+---
+
+# Brown v. State
+
+## Majority (PBENDEBGAST, Presiding Jddge.)
+
+PBENDEBGAST, Presiding Jddge.
+Appellant was prosecuted for unlawfully engaging in, working at and conducting' the business of plumbing without license. He was convicted and fined $50.
+The statute under which he was prosecuted is a part of the Act of 1897, p. 236, and taken from that Act, is article 131, Penal, Code, as follows: “Any person, whether as master plumber, employing, or journeyman plumber, engaged in, working at, or conducting the business of plumbing without license, as provided by law, shall be guilty of a misdemeanor, and, on conviction thereof, shall pay a fine of not less than twenty nor more than two hundred and fifty dollars.” Afterwards section i of said Act was amended by the Act of March 20, 1909, p. 162. This section was recast in the Bevised Civil Statutes of 1911, and is now embraced in articles 986 to 990 of our Bevised Civil Statutes.
+Said article 986, provides that every city in this State, whether or-, ganized under the general laws of the State or by special Act of the Legislature, having underground sewers or cesspools, shall pass ordinances regulating the tapping thereof and house draining and plumbing. The next article requires such cities to “create a board for the examination of plumbers, to be known as the Examining and Supervising Board of Plumbers to provide for an inspection of plumbing.” Article 988 provides that said board shall consist of five persons: (1) a member of the local board of health, if there be such board of health, and if there be no such board of health, then the city physician, or city health officer; (2) the city engineer; (3) the city inspector of plumbing; (4) a master plumber of not less than ten- years active and continuous experience as a plumber; and, (5) one journeyman plumber of not less than five years active and continuous experience.
+The city of Dallas was granted a special charter in 1907. We have carefully examined that Act and have been unable to find therefrom that said city has a board of health, or a city physician, or city health officer, or a city engineer, or a city inspector of plumbing. From the statement of facts in this case, we can not find that the said city has either of said offices or officers or a hoard of health. Neither does the statement of facts show that said city has underground sewers or cesspools.
+The facts shown by the statement of facts are uncontroverted. It is shown that appellant was engaged in the plumbing business in the city of Dallas on June 13, 1913, the time the offense is alleged; that in effect he and all such plumbers, in order to engage in that business, had to execute to the city a bond and when they did this, they got two permits,—■ one from the city waterworks office, and the other from the city engineering department, to engage in said business. And, it seems, that based on these they got a license from the city tax collector to engage in said business; that appellant had made this bond, gotten these permits and this license and had them at the time he was prosecuted for the offense herein charged; that before this alleged offense appellant had conferred with the city authorities to find out whether there was any board of examiners before whom he had to stand an examination and get a license, and that the mayor and commissioners had refused to appoint any such hoard and that, so far as he could find out, no such examination was required.
+Several interesting questions are raised by appellant’s attorneys and the prosecution in this case. Among them, appellant contends that the articles of said Revised Statutes, above noted, requiring said city to appoint said hoard, is not mandatory and that they do not apply to the city of Dallas, because of its special charter; but that, if so, appellant having done all he could to procure a license, and the constituted authorities failing and refusing to appoint, and having no board for the purpose, he can not be prosecuted and convicted for having pursued his said business without a license from such a board. And that the facts do not show that the city of Dallas has underground sewers, or cesspools. Therefore the said statutes do not apply to said city even if mandatory.
+We deem it unnecessary to pass upon any other question raised, except the sufficiency of the evidence to sustain the conviction, assuming, without passing on the questions, that said law applies to Dallas and is mandatory. We are clearly of the opinion that it is insufficient to sustain the conviction. The evidence does not show that the city of Dallas has underground sewers or cesspools; it does not show that the city has any such officers as could constitute such examining hoard, and that, as a matter of fact, it has no such examining board, and has never provided for one, and refuses to do so. Therefore, the judgment is reversed and the cause remanded. Caven v. Coleman, 100 Texas, 467; Robinson v. City of Galveston, 51 Texas Civ. App., 292, 111 S. W. Rep., 1076.
+Reversed and remanded.
