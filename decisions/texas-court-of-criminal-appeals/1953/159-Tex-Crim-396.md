@@ -1,0 +1,48 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,660"
+decided: "1953-12-09"
+citations: ["159 Tex. Crim. 396"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Eule Humphrey v State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2478044
+cites_cases: ["150 Tex. Cr. R. 169", "157 Tex. Cr. R. 438", "158 Tex. Cr. R. 534", "199 S.W. 2d 159", "249 S.W. 2d 919", "257 S.W. 2d 300"]
+---
+
+# Humphrey v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted for the offense of driving an automobile upon a public highway while intoxicated, and his punishment was assessed at ten days in jail and a fine of $50.
+Marvin E. Shelley testified that he saw appellant on February 28, 1953, driving a gasoline transport truck upon a public highway between Wichita Falls and Iowa Park, and appellant passed another truck after four or five attempts and then drove down the middle of the highway. Shelley further testified that he passed appellant’s truck and then stopped in Iowa Park and returned with Deputy Sheriff Jones on this highway to where appellant was in his truck, which was parked in the bar ditch. He further testified that appellant was “thick tongued,” staggered and, in his opinion, was drunk.
+J. F. Scott and Jerry Smith, Highway Patrolmen, each testified that they saw appellant on February 28, 1953, standing by his truck east of Iowa Park; that appellant didn’t talk plainly, was unsteady on his feet, and they smelled alcohol on his breath, and in their opinion he was drunk.
+Deputy Sheriff Jones testified that he saw appellant east of Iowa Park on February 28, 1953, observed his speech, saw him walk, smelled alcohol on his breath and, in his opinion, he was drunk.
+M. D. Kelley testified for the defense and stated that he saw appellant on February 28, 1953, and he appeared to be sick; that he saw appellant drink “two beers,” but that he was not intoxicated.
+Mrs. Humphrey testified that she was the wife of appellant and that on, the morning of February 28, 1953, appellant was sick with the flu and had a toothache.
+Appellant testified that on February 28, 1953, he had a high fever with a tooth that had given him trouble for two. or three days and he had taken anacin, aspirin and B-C headache powders. He further testified that he drank two bottles of beer that evening but that he was not drunk; that he parked his truck on the side of the road and had gone to sleep when “a man woke me up.”
+The jury resolved the issue against appellant, and we find the evidence sufficient to support the verdict.
+Appellant contends that the court erred in refusing to submit his special requested charges to the jury, the same being that if they found appellant was suffering from an illness, or loss of sleep or was under the influence of aspirin or anacin, and was not under the influence of intoxicating liquor, then to find him not guilty.
+The evidence fails to show any independent fact or condition except that of non-intoxication, which if true, would entitle the appellant to an acquittal. The issue of intoxication was properly submitted to the jury, which was resolved against appellant. Therefore, the failure to submit said charges was not error. Gilmore v. State, 158 Tex. Cr. R. 534, 257 S.W. 2d 300; Sharp v. State, 150 Tex. Cr. R. 169, 199 S.W. 2d 159.
+Appellant complains of the failure of the court to give his special requested charge on circumstantial evidence.
+Several witnesses testified as to smelling alcohol on appellant’s breath, and appellant in his testimony admitted drinking two bottles of beer. This evidence rendered a charge on circumstantial evidence unnecessary. Kimbro v. State, 157 Tex. Cr. R. 438, 249 S.W. 2d 919.
+We have examined each of appellant’s bills of exception and find no error shown.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (DAVIDSON, Judge.)
+
+on appellant’s motion for rehearing.
+DAVIDSON, Judge.
+Appellant urges that he was entitled to have the jury instructed to the effect that if he was sick, or was suffering from loss of sleep, or his condition was the result of his use of aspirin dr anaciri, and that he was not under the influence of intoxicating liquor, they should acquit, and that wé erred in reaching a contrary conclusion.
+As the basis for his contention, appellant relies upon and cites numerous cases holding that an accused is always entitled to have submitted to the jury affirmative defenses that may be raised by the evidence. He contends that the rule stated is applicable here.
+We do not differ with appellant as to the correctness of the rule. Our conclusion is that the evidence, especially that referred to, does not present an affirmative defense which, if true, would authorize appellant’s acquittal. In other words, appellant admitted that he had recently drunk two bottles of beer. His guilt or innocence before the jury was made to depend, then, not upon whether he had drunk intoxicants but, rather, whether he was under the influence of the intoxicants he had drunk.
+Under such circumstances, the fact that he might also have been sick, or might have lost sleep, or might have taken aspirin or anacin, would not have rendered him guiltless.
+It will also be remembered that the charges which appellant requested also incorporated an instruction that the matters referred to therein constituted a defense only in connection with the jury’s having a reasonable doubt as to whether appellant was under the influence of intoxicating liquor at the time.
+We remain convinced that the facts did not require the giving of the requested charges.
+The motion for rehearing is overruled.
+Opinion approved by the court.
