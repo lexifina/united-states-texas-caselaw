@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,124"
+decided: "1958-11-26"
+citations: ["167 Tex. Crim. 48"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dora Barbar v. State."]
+source_url: "https://static.case.law/tex-crim/167/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8546738
+cites_cases: ["122 Texas Cr. Rep. 478", "166 Texas Cr. Rep. 384", "314 S.W. 2d 590", "59 S.W. 2d 468"]
+---
+
+# Barbar v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The complaint and information contained two counts and charged respectively unlawful possession of barbiturates and unlawful possession of amphetamine.
+Trial was before the court without a jury on a plea of not guilty, and the court entered judgment finding appellant guilty of both charges, and assessing a fine of $125 on each count.
+The state concedes that the judgment insofar as it pertains to Count 2 must be reversed, this court having held in Harrell v. State, 166 Texas Cr. Rep. 384, 314 S.W. 2d 590, that Art. 726(c), Sec. 8, V.A.P.C. was ineffective to make the possession of amphetamine an offense. We agree.
+The sufficiency of the evidence to sustain a conviction under Count 1, for the unlawful possession of barbiturates, is challenged.
+On September 18, 1957, appellant and some companions were arrested for being drunk in a public place. After arrival at the police station, two envelopes were found in appellant’s hair and behind her ear. One envelope contained five amphetamine tablets and bore the inscription “one-half tablet three times a day before meals to keep hunger pains away.”
+The second envelope contained five capsules containing pento barbital or barbituric acid, and bore the inscription “One at bedtime for sleep.”
+Dr. Ross Phillips, D.O., licensed to practice medicine and surgery in Texas and thus a “practitioner” under Art. 726(c) V.A.P.C., testifying from his records, stated that appellant had been his patient beginning in March, 1956, and that on September 14, 1957, he gave her “amphetamine, 10 grains, 6 tablets, to take % tablet three times a day t.i.d. I gave her pento barbital grains 114. I gave her 6 tablets to take 1 at bedtime for sleep.”
+The tablets and capsules found in appellant’s possession appeared to the doctor to be the same as those he gave her and the inscriptions on the envelopes “look like my handwriting,” but he would not positively identify either.
+The doctor made for the court specimens of his handwriting which the record indicates satisfied the court that the inscriptions on the envelopes were in his handwriting.
+Dr. Phillips testified that appellant at no time asked him for any particular medication or for barbiturates; that he did not tell her that the capsules or tablets contained barbiturates or amphetamine; and that the capsules and tablets were given to appellant for their therapeutic benefits.
+Appellant testified as a witness in her own behalf that Dr. Phillips gave her the capsules and tablets; that she had taken one of each before she began drinking on September 8th; that she put them in her hair lest they be taken away from her when she was placed in jail; and that she did not know what either contained.
+The envelopes which contained the barbiturates and the amphetamine are not before us, but there is evidence in the record that the name and address of the doctor and the name and address of the appellant were not on either container.
+From what has been said it is apparent that the state must rely upon the absence of labels showing the name and address of Dr. Phillips and the name and address of appellant, his patient, in order to sustain this conviction.
+It must be remembered that the purpose of Art. 726(c) Y.A.P.C. is not to forbid and prevent the possession of barbiturates, but to regulate and control the handling, sale and distribution thereof so as “to insure that the public shall receive the therapeutic benefits of barbiturates under medical supervision to the full extent required to assure safety and efficiency in their use * * * .” Art. 726 (c), Sec. 1, V.A.P.C.
+The same section expresses the purpose to place upon “* * * persons prescribing such drugs, a basic responsibility for preventing the improper distribution of such drugs to the extent that such drugs are produced, handled, sold or prescribed by them.”
+It is true that appellant could see that her name and address and the name and address of Dr. Phillips were not on the envelope containing the capsules. But it is equally true that there is nothing in the record to show that she knew or by the exercise of care or diligence could have known that the capsules contained barbiturates.
+It occurs to us that under the undisputed evidence appellant brought herself within the provisions of Art. 41 P.C. and the holding of this court in Wilson v. State, 122 Texas Cr. Rep. 478, 59 S.W. 2d 468, relating to mistake of fact not arising from a want of proper care.
+It was not the intention of the legislature, in enacting Art. 726(c) V.A.P.C., to charge the patient with the failure of the practitioner to advise him that the drugs he prescribed or furnished contained a barbiturate, or to place upon the patient the duty to determine the ingredients of drugs prescribed or furnished him by his physician, or to punish the patient for the practitioner’s failure to place a certain label on the container the contens of which were not known to the patient.
+We are not unmindful of the fact that the trial herein was before the court and appellant is cast in the position she would have occupied had her defense been submitted to and rejected by a jury.
+We need not rest our disposition of the appeal from the conviction for possession of barbiturate upon the ground that the defense was established as a matter of law, however, for it is evident that the trial court gave equal weight and consideration to the evidence relating to possession of the amphetamine tablets and the container thereof as to the evidence concerning barbiturates and the envelope containing same. It thus appears that the allegation and evidence relating to the prosecution for possession of amphetamine, which was not unlawful, were prejudicial to appellant upon her trial for possession of barbiturates and upon her defense.
+The judgment is reversed and the cause remanded.
