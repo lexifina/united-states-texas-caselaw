@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,413"
+decided: "1960-12-07"
+citations: ["170 Tex. Crim. 435"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Percy King v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0435-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2627617
+---
+
+# King v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is burglary; the punishment assessed by the court upon a plea of guilty, a jury being waived, four years.
+On May 6, 1960, appellant and Willie Daniel, Jr. waived a jury trial and pleaded guilty to two charges of burglary and appellant pleaded guilty and waived a jury to a third burglary indictment.
+The appeals from a four year sentence in each case, to run concurrently, are before us in this case and our Cause Nos. 32,412 and 32,414 styled Percy King v. State, and Nos. 32,415 and 32,416 styled Willie Daniel, Jr. v. State.
+The sufficiency of the evidence to sustain each of said convictions is attacked.
+In addition to the written request for consent of the district attorney to a waiver of jury, the appellant and Willie Daniel, Jr., and their counsel and District Attorney Bob Murphey entered into written waivers and stipulations in open court whereby appellant and Daniel, with the consent and permission of their counsel, waived the appearance and testimony of the witnesses listed on the indictment and other witnesses who were present in court, and stipulated that the district attorney should outline the facts of the case and the testimony of the said witnesses, and that the outline of facts as presented to the court by the district attorney should constitute the statement of facts.
+District Attorney Murphey and the appellant and Willie Daniel, Jr. were sworn by the court, and Mr. Murphey stated what certain witnesses, if called and placed under oath, would testify. The facts stated and the confession of appellant and Daniel relating to the charge which were introduced in evidence were sufficient to sustain the allegations of the indictment, had the witnesses testified under oath.
+Having concluded his statement of the evidence, appellant and Daniel were asked and answered:
+“Mr. Murphey: Percy, you heard me tell the Judge what happened on this thing, is that true and correct what I have told him? “Percy King: Yes, sir.
+“Mr. Murphey: And Willie, you heard me tell the Judge, is that true and correct what I told him in regard to this thing? “Willie Daniel, Jr.: Yes, sir.”
+The evidence agreed by appellant and Daniel while under oath to be true, and so introduced by stipulation and waiver, appears to be sufficient to satisfy Art. 12 V.A.C.C.P. requiring the state to introduce evidence into the record showing the guilt of the defendant who waives a jury and pleads guilty to a felony less than capital.
+The record regarding the evidence in the other appeals above mentioned is in the same conditon, except that different burglaries were involved and different witnesses’ testimony was stated.
+The judgment is affirmed.
