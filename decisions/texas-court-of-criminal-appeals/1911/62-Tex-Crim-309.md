@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1118"
+decided: "1911-05-10"
+citations: ["62 Tex. Crim. 309"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Will Rushing v. The State."]
+source_url: "https://static.case.law/tex-crim/62/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4612862
+cites_cases: ["37 Texas Crim. Rep., 38"]
+---
+
+# Rushing v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was charged by indictment with making an assault with intent to murder on Wesley Cauley, and upon a trial he was convicted and sentenced to two years confinement in the penitentiary.
+Appellant filed a motion for a continuance on account of the absence of two witnesses, Ob Livingstone and Oscar Bradshaw, the process showing that both had been duly served. The testimony alleged that it was expected to be proven by Ob Livingstone was in the nature of impeaching testimony, but it is a statement alleged to have been made by the injured party Cauley, as well as ■ by the witness Heines, which would, if true, corroborate defendant’s version of the difficulty. By the other witness, Bradshaw, it is stated it is expected to prove that prosecuting witness had used language in regard to defendant showing ill-will and intention and expectation to have trouble in the future. While an application for a continuance will not be granted-merely to obtain impeaching witnesses, yet after reading the record in this case, taking into consideration what it was expected to be proven by Bradshaw, and the further fact that it appears that Livingstone was sick and unable to attend court, this being the first application, we are of the opinion the continuance should have been granted.
+The testimony shows that appellant and the injured party were going along a road at night, appellant overtaking the prosecuting witness. As to what took place at that time there is a sharp conflict in the testimony; however, the jury has found with the contention- of the State, but the testimony is meager which would show that the assault amounted to the grade of an assault to murder. While the defendant was on the stand the State, on cross-examination, was permitted to ask the defendant about his conduct towards a young lady some three weeks prior to the difficulty. The differences between appellant and prosecuting witness grew out of this. It was proper to be shown all that was said between them on that occasion as tending to show animosity and motive, yet we do not think that any conversation ■had between appellant and Will Cromeans, in which'it is alleged defendant said to Cromeans that he had been mistreated by the young lady, and that he (defendant) intended to/‘swing her so hard as to try to jerk her damn head off,” was admissible in evidence, as it shed no light,on the difficulty between defendant and the prosecuting witness. When defendant denied making such statement to Cromeans, Cromeans was not placed on the stand. Defendant’s counsel, in presenting the case, called attention to the fact that Cromeans had not been used as a witness, and insisted that defendant’s denial of such statement must be true. In the closing argument for the State the district attorney was permitted to testify or state: “Bill Cromeans is here in the house, and no doubt counsel for the defendant are as fully advised as to what his testimony would be as counsel for the State. I will say this to counsel for defendant; I will give them fifteen minutes time, and they can place Cromeans on the stand, and if he does not testify in line with the questions asked the defendant when he was on the stand, I will join in a request to acquit him.”
+As stated above, this testimony was not admissible for any purpose in this case, and such remarks were highly improper. Hot only did defendant at the time object and save his bill, but he also asked a special charge be given instructing the jury not to consider such remarks, which was refused.
+The evidence in this case discloses that the young men had been friends up to the time the appellant perhaps mistreated the young lady. Words passed, but neither appears to have become highly incensed, but a coolness sprung up between them. This went on for some three weeks, when the difficulty took place, and the appellant cut the prosecuting witness quite severely with a pocket-knife. As herein-before stated, the evidence is meager to show the specific intent to kill, essential to assault to murder, and as it is impossible to know the effect of the evidence showing improper treatment of a young lady, and the effect of the remarks of the prosecuting officer in regard to this matter, in causing the jury to find the defendant guilty of assault to murder, and not an aggravated assault, for the errors pointed out the judgment is reversed and the cause is remanded.
+Reversed and remanded.
