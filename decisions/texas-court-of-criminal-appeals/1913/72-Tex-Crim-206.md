@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2797"
+decided: "1913-12-03"
+citations: ["72 Tex. Crim. 206"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emma Smith v. The State."]
+source_url: "https://static.case.law/tex-crim/72/cases/0206-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4676130
+cites_cases: ["133 S. W. Rep., 886", "135 S. W. Rep., 566", "23 S. W. Rep., 684", "33 Texas Crim. Rep., 100", "34 Texas Crim. Rep., 143", "35 Texas Crim. Rep., 24", "39 Texas Crim. Rep., 200", "42 Texas Crim. Rep., 542", "44 S. W. Rep., 151", "53 Texas Crim. Rep., 1", "53 Texas Crim. Rep., 11", "61 Texas Crim. Rep., 34", "61 Texas Crim. Rep., 585"]
+---
+
+# Smith v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was prosecuted and convicted of keeping a disorderly house, a house where men and women met by mutual appointment for the purpose of sexual intercourse.
+The term of court at which appellant was tried adjourned July 5, 1913. Ho order was entered of record authorizing a statement of facts and the bills of exception to be filed after term time. This being a misdemeanor conviction, the Assistant Attorney-General has filed a motion to strike out the statement of facts and bills of exception. At the request of appellant’s counsel time was given him to perfect the record if same could be done. Since that time papers have been filed wherein the county judge states he remembers that he gave a verbal assent to an extension of time, but that no order was ever entered on the docket of the court, nor in the minutes of the court. Why in criminal cases, as well as in civil cases, counsel will not prepare and see that the orders and judgments are properly entered in the minutes in their cases we fail to understand. This verbal order if made prior to the adjournment of the court for the term is not a part of the record in this case. In the case of Offield v. State, 61 Texas Crim. Rep., 585, 135 S. W. Rep., 566 and 568, the power of the court to enter nunc pro tunc orders after an appeal has been perfected is discussed, and the decisions of the court all hold that trial courts can not do so, and if the order does not appear of record, we can not consider these matters. As stated in that opinion, if the question was an open one, the writer would individually be inclined to a different view, but in rules.of procedure where there has been a settled construction of our statutes, we have followed the established rule, and, under the showing made in this case, the motion of the Assistant Attorney-General must be sustained. However, were we to hold otherwise, the record as made would present no error.
+The only bill of exceptions in the record, while rather incomplete, yet if we take it in connection with the statement of facts would present this question: A witness testified that Ollie Link was a frequent visitor at appellant’s home. That they had seen her come on one street car and enter this house; that on the next car a man would come and enter the house, and after they had remained there a while, they both would leave. That Ollie Link bore the reputation of being a woman “who makes dates with men and meets them at assignation houses.” In Branch’s Crim. Law the following is said to be the rule: “House may be proven to be disorderly by the general reputation of the character of the women residing at or frequenting the house,”'citing Sylvester v. State, 42 Texas, 496;. Raimey v. State, 39 Texas Crim. Rep., 200; Owens v. State, 53 Texas Crim. Rep., 1; Morris v. State, 38 Texas, 603; Golden v. State, 34 Texas Crim. Rep., 143; Harkey v. State, 33 Texas Crim. Rep., 100; Wimberly v. State, 53 Texas Crim. Rep., 11. Again: “General reputation of house and inmates may be proven.” Forbes v. State, 35 Texas Crim. Rep., 24. “Witness may testify as to general reputation of inmates of the house, though he does not know them.” Downs v. State, 23 S. W. Rep., 684. Thus it is seen under all our decisions the court committed no error in admitting this testimony.
+The other complaints in the motion as to admissibility of testimony can not be considered, for if it was objected to no bill of exceptions was reserved to the action of the court in admitting it.
+In the motion for new trial we find the following statement: That the jury first returned the following verdict: “We the jury find the defendant guilty as charged and recommend a suspension of jail sentence/’ That the court refused to accept the verdict, and instructed them to retire and return a verdict according to his instructions, which they did, and returned a verdict finding appellant guilty, and assessing her punishment at a fine of $200 and twenty days confinement in the county jail. If such a proceeding took place it is not presented in a way we can review the matter, being verified by no bill of exceptions, and the only place it is mentioned being a recitation in an unsworn motion for a new trial. But if properly presented for review, the court acted properly in the premises. There is no law authorizing a suspension of sentence in a misdemeanor case, and the court should not have received the verdict first returned, but should, as he did, require the jury to pass on her guilt or innocence, and if they found her guilty, assess the punishment.
+The other grounds in the motion allege that the evidence is insufficient to sustain the conviction. The evidence of Messrs. Ferguson, Tart, Schlanger, Key and others, if believed by the jury, sustains the verdict, and while the testimony offered in behalf of appellant would support a different finding, yet this contested issue of fact was properly submitted by the court to the jury, and they find against her.
+[Rehearing denied January 14, 1914.—Reporter.]
+The judgment is affirmed.
+Affirmed.
