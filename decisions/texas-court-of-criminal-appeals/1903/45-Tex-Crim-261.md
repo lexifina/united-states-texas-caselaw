@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2834"
+decided: "1903-11-11"
+citations: ["45 Tex. Crim. 261"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charlie Lovelace v. The State."]
+source_url: "https://static.case.law/tex-crim/45/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4530406
+cites_cases: ["31 Texas Crim. Rep., 78", "38 S. W. Rep., 182"]
+---
+
+# Lovelace v. State
+
+## Majority (BROOKS, Judge.)
+
+BROOKS, Judge.
+Appellant was convicted of burglary, and his punishment assessed at two years confinement in the penitentiary.
+Appellant filed a plea of former jeopardy setting up the fact that he had been legally,tried under an indictment charging him with the theft of the property for which he was convicted in this case. The indictment in the former case charged the ownership of the property in A. and I. Martin. The indictment in this case charges the ownership of the property to be in" A. Martin. The court sustained the motion of the district attorney to strike out the plea of former jeopardy, and appellant reserved his exceptions. The court appends the following qualification to the bill:. “The first indictment charged the property to belong to A. and I. Martin. The indictment was defective. There was motion made to quash the indictment. When I discovered the indictment was defective, after the jury had been out twenty-two hours, and it appearing that there was chance for them to reach a verdict, I brought them in and discharged them without any consultation with either the district attorney or the defendant’s attorneys.” There was no error in the ruling of the court. While it is true, as held in Powell v. State, 17 Texas Crim. App., 345, that an arbitrary discharge of the jury would authorize a successful plea of former jeopardy, and especially where the trial court certifies that the jury was about to agree on a verdict, as in this case, still the trial court did not err in striking out appellant’s plea of former jeopardy, because appellant could not be legally convicted under the former indictment for the charge as contained in the present indictment. In other words, in order to make out a conviction under the "former indictment, the State would be required to prove that the property was that of A. and I. Martin. Under the present indictment, the State would only be required to prove that the property was that of A. Martin. A similar question to the one here considered was discussed by this court in Wheelock v. State, 38 S. W. Rep., 182.
+Appellant’s second assignment complains of the following portion of the court’s charge: “If the jury believes from the evidence beyond a reasonable doubt that the rings in question were stolen by some one, and that .recently thereafter they were found in possession of defendant, and at the time he gave an explanation of his possession which is reasonable, consistent with his innocence, and probably true, then you will accept .such explanation as true and you will not consider such possession, if any, for'any purpose in arriving at your verdict. But should you find such explanation is not reasonable or that the same is not true, then you will take such possession, if any, with defendant’s explanation, and all the other facts and circumstances in evidence; and if you find beyond a reasonable doubt that defendant is guilty, you will convict him, otherwise you will acquit him.” This charge is not correct. If appellant’s explanation of his possession is correct, the jury should acquit him. But this charge tells the jury they could not consider it for any purpose, if they find it correct. Appellant requested the court to give the following charge, .which was refused: “If you believe from the evidence that the property alleged to have been stolen from the house of the said A. Martin, was found in the possession of defendant recently thereafter, that when first accused of the theft of said property found in his possession (if you find that he had the property) he made an explanation of how he came by it, and you further believe that such explanation is reasonable and probably true, and accounted for defendant’s possession in a manner consistent with his innocence, then you will acquit defendant, unless, if, on the contrary, you believe such explanation was unreasonable and did not account for defendant’s possession in a manner consistent with his innocence, but the State has shown the falsity thereof, then you will take the possession of defendant, together with his explanation in connection with all the other facts and circumstances, if any, in evidence, and if you believe defendant guilty beyond a reasonable doubt, you will so find, otherwise you will acquit.” This charge should have been given, as it is a substantial copy of various similar charges approved by this court. Lacy v. State, 31 Texas Crim. Rep., 78.
+There are various other matters complained of by apellant, but as they are not likely to arise upon another trial we do not deem it necessary to review them.
+For the reasons indicated, the judgment is reversed and the cause remanded.
+Reversed and remanded
