@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,166"
+decided: "1953-01-21"
+citations: ["158 Tex. Crim. 198"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marvin L. Martindale v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2481651
+cites_cases: ["124 Tex. Cr. R. 368", "125 Tex. Cr. R. 345", "144 Tex. Cr. R. 103", "161 S.W. 2d 103", "61 S.W. 2d 829", "67 S.W. 2d 881"]
+---
+
+# Martindale v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was jointly indicted with William Shatto for the theft of ten joints of tubing and thirty-three sucker rods of the value of more than fifty dollars from H. T. Hensley. A motion for severance was granted, and William Shatto was tried first and found not guilty by a jury, and appellant, after a plea of not guilty, was found guilty by a jury and assessed a term of two years in the penitentiary.
+After dark on the night of December 17, 1951, while appellant and William Shatto were travelling in a 1939 Ford automobile pulling a trailer loaded with ten joints of tubing and thirty-three sucker rods about two miles north of Crane, Texas, on the road to Odessa, they were stopped by Wayne Blackburn, Deputy Sheriff of Crane County. Blackburn asked where they had gotten the pipe and sucker rods, and Shatto said that “a man had given it to them, on a lease out north of town.” Shatto told the deputy sheriff he did not know the man’s name, but thought it might be Henson or Hinson, and Martindale said Hensley might be the name of the man. H. T. Hensley, who operated the Golston Lease north of Crane, denied giving anyone permission to take any tubing or sucker rods and identified the property on the trailer as being the same as that missing from the Golston Lease. It is shown that appellant was familiar with the lease from which the property was taken. Shatto testified that a man out on a lease north of Crane gave him the property in the afternoon. He further stated that later the same day after he had returned to Crane, he approached appellant and told him that a man out at the Colston Lease had given him some property and asked appellant to go with him and help him load the property, which appellant agreed to do.
+The evidence is sufficient to sustain the conviction.
+It was appellant’s defense that at the time of the taking of the property, he believed he was assisting William Shatto to remove the property which had been given to Shatto. This defense was properly submitted to the jury and found by the jury against appellant. This court has repeatedly held that where the defensive theory of explanation of possession by the accused is properly presented to the jury, same is sufficient. Nutt v. State, 144 Tex. Cr. R. 103, 161 S.W. 2d 103; Fiveash v. State, 125 Tex. Cr. R. 345, 67 S.W. 2d 881, and authorities there cited.
+The court did not charge on circumstantial evidence and appellant did not request same, nor except to the failure to give such instruction. There was no objection nor exception to the failure of the court to charge on recent possession and explanation of stolen property, but the court in his charge gave to the jury an affirmative presentation of the appellant’s defense, which is all that is required. Mullins v. State, 124 Tex. Cr. R. 368, 61 S.W. 2d 829, 831 (7).
+Appellant contends that he having been jointly indicted for “acting together” with William Shatto in the commission of said offense, and Shatto having been theretofore acquitted upon trial for the same offense, the trial court should have instructed a verdict of not guilty, for the reason that the acquittal in the case of the co-defendant Shatto was res ad judicata as to appellant.
+Co-principals may be indicted and prosecuted either jointly or separately, and the acquittal of one co-principal is not a bar to the trial and conviction of the other co-principal.
+“All persons are principals who are guilty of acting together in the commission of an offense.” Art. 65, P.C.
+The court, in his charge to the jury, applying the law to the facts, required the jury to find beyond a reasonable doubt that appellant was “acting together” with William Shatto as a principal, before it could find the defendant guilty.
+We find three informal bills of exception in the statement of facts. Appellant does not urge either in his brief, and we, having examined each of them, are of the opinion that they do not reflect error.
+Finding no reversible error, the judgment of the trial court is affirmed.
+Opinion approved by the Court.
