@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2293"
+decided: "1913-02-19"
+citations: ["69 Tex. Crim. 135"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. L. Fletcher v. State."]
+source_url: "https://static.case.law/tex-crim/69/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4652918
+cites_cases: ["31 Texas Crim. Rep., 577", "34 Texas Crim. Rep., 203", "35 Texas Crim. Rep., 364", "36 Texas Crim. Rep., 563", "37 Texas Crim. Rep., 198"]
+---
+
+# Fletcher v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was prosecuted and convicted of an aggravated assault, and his punishment assessed at a fine of $500.
+That appellant entered the bed room occupied by Mrs. Eva Snodgrass, undressed, in the night-time, is proven beyond dispute, he and Mrs. Snodgrass both testifying to that fact. He says he went by her solicitation, and that he did not act without, her consent. She testified that he entered the room without her knowledge or consent and approached the bed on which she was sleeping, and placed his hands on her person, which aroused her, when she called to others. It also appears that Mrs; Snodgrass’ brother at once filed a complaint, not waiting until morning.
+When the ease was called for trial, appellant moved to continue the case on account of the absence of five witnesses, Lester Fields, O. M. Gould, Geo. Brocius, Mrs. Rodgers, and Mrs. Mose Richardson. Appellant was arrested on the 1st day of August, and did not have process issued for any witness until the 24th day of August, 1912, returnable on the 2nd day of September. Only one' of the above named witnesses was summoned, Lester Fields.
+. The State filed a contest of the application, and showed by the testimony of L. A. Hunt and D. B. Jones that they heard a conversation between appellant and the witness, Lester Fields, and they heard appellant tell said witness “that he (appellant) would "not need him (Fields) as a witness, an'd he could go where he pleased.’’ That after this conversation Fields did leave. As to the witnesses, Mrs. Ralph Rodgers, George Brocius and O. M. Gould, the State introduced the testimony of J. F. Albright, L. A. Hunt, D. B. Jones and E. V. Smith, that none of these witnesses were in Collingsworth County at the time the subpoena was issued by appellant, and that appellant knew this fact. If appellant knew the witnesses were not in the county at the time the process was issued, this would not be diligence. The process should have been directed to the county where they then were, even though the absence may have been temporary. As to the witness, Mrs. Mose Richardson, the facts stated it is expected to prove by her would only tend to impeach the testimony of Mrs. E. Y. Smith, a witness for the State. A continuance will not be granted to secure impeaching testimony. (Garrett v. State, 37 Texas Crim. Rep., 198; Rodgers v. State, 36 Texas Crim. Rep., 563; Butts v. State, 35 Texas Crim. Rep., 364; Franklin v. State, 34 Texas Crim. Rep., 203.) A continuance, even the first, is no longer a matter of right, but is addressed to the sound discretion of the trial judge, and under the evidence adduced on the hearing of this motion, we cannot say that the court abused his discretion in overruling the motion.
+The only other ground in .the record relates to a question propounded to the main prosecuting witness, Mrs. Eva Snodgrass, which the bill states was objected to by State’s counsel. While the bill shows that the jury was retired, and the matter heard by the court, when the objection was sustained, yet it does not disclose what answer the witness made, if any, or what answer he had reason to believe she would have given, if she had answered the question. Under these circumstances there is nothing for us to review; May v. State, 25 Texas Crim. App., 114; Schoenfeldt v. State, 30 Texas Crim. App. 695.
+This being a misdemeanor, the other questions sought to be raised in the motion for new trial cannot be considered, except the one relating to the alleged misconduct of the jury. The only misconduct alleged is that the jury, while considering the case, discussed the fact that appellant was a professional man, and “was a good party to make an example of. ’ ’ That he was a professional man was a fact proven in the case, therefore legitimate to be discussed; but as to him being a good party to make an example of, this does not show that passion or prejudice, which alone would authorize a new trial. It seems that the entire jury was of the opinion that appellant was guilty, and this arose over the question of the punishment to be inflicted for the offense, and if the State’s theory of the case is correct, the punishment assessed is none too severe. It is true that appellant would show that his acts and conduct, if his testimony is given credence, were under the belief that his approaches would be acceptable. However, when charged with being in the lady’s room that night, he first denied being by her bed, and then said he might have gotten too near her bed while he was asleep; and then added he was mean and could not help it. He does not deny offering to pay her to hush the matter up. As the court instructed the jury that even though the defendant was guilty of undue familiarity with the person of Mrs. Snodgrass, yet if he did so by her invitation or had reasonable grounds to believe and did believe that same would not be objected to, to acquit him, and the-jury find contrary to his contention, we do not feel authorized to disturb the verdict.
+The judgment is affirmed.
+Affirmed.
