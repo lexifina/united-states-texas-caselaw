@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,877"
+decided: "1955-12-14"
+citations: ["162 Tex. Crim. 305"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Daniel Lane v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2465195
+cites_cases: ["242 S.W. 2d 381", "251 S.W. 2d 739", "254 S.W. 2d 523", "268 S.W. 2d 182", "273 S.W. 2d 623", "348 U.S. 3"]
+---
+
+# Lane v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is assault with intent to murder, with two prior convictions for felonies less than capital alleged for the purpose of enhancement; the punishment, life imprisonment.
+Rosezell Craig testified that she met the appellant some two months prior to the shooting and that on several occasions he had tried to get her to have a date with him but that she had refused. She stated that on the night in question the appellant had again requested her to> leave the night spot where she and her husband were drinking beer, that her refusal angered the appellant, and that shortly thereafter she was shot in the back, and another time in the leg, which injuries caused her to be hospitalized for several weeks.
+The husband of the injured party testified that he heard some shots and saw the appellant leave the night spot with a pistol in his hand, get in his automobile and drive away.
+• Christine Taylor, the wife of the proprietor of the night spot, testified that she heard one shot and then saw the appellant with a gun, that she heard the sound of the second shot and saw the smoke coming from the weapon. She stated that everyone else left in haste and that Rosezell Craig was lying on the floor bleeding. She stated that she heard no other weapons fired and saw no one else in possession of a pistol at the night spot that night.
+The prior convictions were established, and the appellant was identified as being the person so convicted.
+The appellant did not testify or offer any evidence in his behalf. By cross-examination, the appellant sought to establish that he and Rosezell had been intimate without her husband’s knowledge or consent.
+We find the evidence sufficient to support the conviction and shall discuss the contentions advanced by appellant’s eminent court-appointed attorney in his scholarly brief.
+Bill of Exception No. 1 relates to the overruling of a motion for continuance. From the bill and the court’s qualification thereto, we learn the following.
+Several months prior to the date on which this case was tried, the court had appointed the Honorable W. C. Davis to represent appellant. Prior to May 5, the date of the trial, the court was informed that the Honorable Iola Barron had been employed by the appellant to represent him and that Miss Barron had conferred several times with the prosecution about the possible penalty upon a plea of guilty; that the appellant failed to appear when the case was called in February, and it was reset for May; that no application for subpoena in behalf of the appellant was made by either Mr. Davis or Miss Barron; that Miss Barron appeared on May 5 and filed a motion for continuance on account of the illness of W. C. Davis, which the court overruled. The court granted Miss. Barron’s request that she be allowed to withdraw from the case and then appointed appellant’s present counsel. Appellant in his brief complains that he was not allowed sufficient time to prepare for trial. We have examined the bill and the record in its entirety and are unable to find any request made by present counsel that they be given time to familiarize themselves with the case. So, then, the sole question presented is the action of the court in failing to grant the continuance on account of Mr. Davis’ illness. In Johnson v. State, 157 Texas Cr. R. 564, 251 S.W. 2d 739, we reversed a conviction where the court forced the accused to trial without any attorney because his employed attorney was detained elsewhere. In that case, we pointed out that the court should have' appointed another attorney to defend the accused if he had reason to believe that appellant’s counsel was derelict. The court appointed two attorneys in the case at bar.
+Appellant relies upon Chandler v. Fretag, 348 U.S. 3, 99 L. ed. 4, 75 Sup. Ct. 1, and several other cases by the Supreme Court of the United States. We fail to' see the applicability of such holdings because the appellant here was represented by able counsel, who, so far as this record discloses, were ready for trial. The first page of the statement of facts approved by counsel recites that the state and the appellant’s present counsel announced ready for trial.
+Appellant next contends that the court erred in overruling his motion to quash the indictment. We have examined the indictment with care and find that it is substantially the same indictment which this court recently approved in Hall v. State, 158 Texas Cr. R. 243, 254 S.W. 2d 523. In the present indictment, the primary offense was first charged, and then for enhancement a 1933 conviction was alleged with particularity, and, following this, a 1937 conviction was likewise alleged. This was followed by an allegation that the 1933 conviction had become final prior to the commission of the offense which resulted in the 1937 conviction and that both the 1933 and 1937 convictions had become final prior to the commission of the primary offense. This is a sufficient allegation as to sequence.
+Appellant next attacks the sufficiency of the proof as to identity in connection with the prior convictions. We have recently, in Handy v. State, 160 Texas Cr. R. 258, 268 S.W. 2d 182, approved the exact method of proof employed by the prosecution in the case at bar.
+Appellant objected to the failure of the court to charge on circumstantial evidence. This court has held in cases far weaker than the case at bar that the charge was not required. See Smith v. State, 161 Tex. Cr. Rep. 620, 273 S.W. 2d 623, and Landry v. State, 156 Texas Cr. R. 350, 242 S.W. 2d 381. No one else was seen with a weapon. The appellant was seen with a smoking pistol, and the injured party was found bleeding on the floor. The charge was not required.
+We commend able court-appointed counsel for their efforts in appellant’s behalf.
+Finding no reversible error, the judgment of the trial court is affirmed.
