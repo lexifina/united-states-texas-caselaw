@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "8822"
+decided: "1922-04-01"
+citations: ["100 Tex. Crim. 110"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. F. Bailey v. The State."]
+source_url: "https://static.case.law/tex-crim/100/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5096613
+---
+
+# Bailey v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+Conviction is for possession of intoxicating liquor for the purpose of sale. Punishment, two years in the penitentiary.
+Only two witnesses were used by the State. Appellant did not testify and no testimony was offered by the defense. Chauncey Smith testified that he got into a car with appellant and one Cressell in the town of Graham and told appellant he wanted some whiskey, to which appellant replied, “All right;” that they went in appellant’s ear three or four miles from town where appellant went into a pasture and after “scratching” around in the bushes revealed four quart bottles of whiskey; that from one bottle all three took a drink; that appellant placed witness’ bottle and another one in the back part of the car; that the bottle out of which they had taken the drink and. one other bottle were left in the pasture; that the three of them then came back towards town to a point near the stock pens; that here witness got out of the car for the purpose of hiding his quart in a small pasture near the road he would travel going home from town; and at appellant’s request took the other quart to hide it also; that as witness walked through the pasture with the two bottles appellant drove around the road and reached a point on the other road about the time witness came out; that witness saw his son, who had gone to town with him, coming in his ' (witness’) car, and that he then went back into the small pasture to get his quart. Without further request from appellant he brought the other quart out to the road also; that just as he put one bottle in his own ear sheriff Cooper drove up and inquired whose whiskey it was; that witness told him it was appellant’s; that appellant was near and made no reply to this statement. The sheriff testified that as he drove up he saw appellant, Cressell and Smith inside the pasture fence. He says:
+“"When I drove down there I drove up within twenty or thirty feet of them and they had a sack with some whiskey in it and taken one of the bottles out and give it to Mr. Smith and he put one bottle in his car and about that time they said ‘Look out, here’s the law, ’ and they dropped the sack and run. Mr. Bailey run about twenty or thirty feet. I found three bottles of whiskey there, two of them on the outside and one on the inside.”
+Appellant requested the court to charge that witness Smith was an accomplice. This was refused.
+It is doubtful if the evidence shows such relation of Smith towards the two bottles of liquor left in the pasture as would characterize him an accomplice witness as to them under the provision of Art. 801, C. C. P. prohibiting a conviction on the uncorroborated evidence of an accomplice. On his trip with appellant Smith only discovered the presence of said two bottles of whiskey at the point where the other was obtained. It was left there by appellant and Smith had no connection with it whatever. But we do not deem it necessary to base the opinion upon the incident relative to that whiskey alone. It may be conceded, that under the genera/ provisions of Art. 801 (supra) Smith’s connection with the two bottles of whiskey which he says were brought away would characterize him as "an accomplice witness as to them if it were not for Section 2c, Chap. 61, 1st C. S. 37th Leg. 1921. Under the common law no presumption existed against the credibility of the evidence of an accomplice and in the absence of a statute to the contrary a conviction could be had on his evidence alone. This, is true in the United States Courts today and in many of the other states of the Union. (See Sec. 129, Underhill’s Crim. Ev., 3d Ed.) It is only by virtue of Art. 801, C. C. P. written into our law by the Legislature that prevents the conviction of one accused of crime upon the un- _ corroborated testimony of an - accomplice. Having written such article into the law the Legislature also has authority to take out all or any part of it, or to make such rule inapplicable to certain designated offenses. By Chap. 61, 1st C. S. 37th Leg., the manufacture, sale, transportation, and possession for the purpose of sale, of intoxicating liquor were, among many other specified acts denounced as crimes. It must be presumed that the Legislature knew at the time of the passage of such law that parties might be co-principals in the possession of such liquor for the purpose of sale or in the transportation of it, as well as co-principals in other offenses denounced in that chapter. Notwithstanding such knowledge on the part of the Legislature it wrote into the law as Section 2c the following:
+"Upon a trial for a violation of any of the provisions of this chapter, the purchaser, transporter or possessor of any of the liquors prohibited herein shall not be held in law or in fact to be an accomplice, when a witness in any such trial.”
+This announcement by the Legislature was tantamount to withdrawing in the instances specified the application of Art. 801, C. C. P. so that in the prosecution of any of the offenses designated under said chapter 61 a conviction of the accused could be had upon the uncorroborated testimony of a purchaser, transporter or possessor. The terms of such provision are broad enough to cover a co-principal in the transportation of intoxicating liquor, or a co-principal in the possession of such liquor for the purpose of sale. It is not for this court to say whether or not it was wise for the Legislature to permit the conviction of a transporter or possessor of intoxicating liquor upon the uncorroborated testimony of his co-transporter or co-possessor, but only to determine whether the Legislature did so announce the law. We hold that See. 2c of Chap. 61 (supra) has made inapplicable the operation of Art. 801, C. C. P. in prosecutions for the violation of any of the provisions of said Chapter 61 where the purchaser, transporter or possessor is used as a witness, and that it has authorized the conviction of an accused in such cases upon the uncorroborated testimony of his co-principal in transporting or possessing for purposes of sale such intoxicating liquor. It follows that the contention of appellant that the court should have charged Smith to have been an accomplice, or have submitted that issue to the jury, is not tenable.
+The judgment is affirmed.
+Affirmed.
+
+## Rehearing (HAWKINS, Judge)
+
+ON MOTION FOB REHEARING.
+HAWKINS, Judge
+Appellant filed a motion for rehearing. He now comes with a personal request supported by his affidavit asking permission to withdraw his motion for rehearing. The request is granted, and the mandate will issue in accord with our original opinion.
+Motion withdrawn.
