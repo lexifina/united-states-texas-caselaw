@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "9427"
+decided: "1925-11-04"
+citations: ["102 Tex. Crim. 79", "276 S.W. 1102"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roscoe Lewis v. The State."]
+source_url: "https://static.case.law/tex-crim/102/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5111797
+cites_cases: ["13 S. W. 1012", "237 S. W. 258", "26 S. W. 214", "29 Tex. App. 35", "29 Tex. Cr. App. 35", "91 Tex. Cr. R. 46"]
+---
+
+# Lewis v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+Appellant was tried upon information charging him with having stolen an overcoat from one Parnell. Conviction followed and punishment was assessed at a fine of $5 and confinement in the county jail for one day.
+The overcoat was taken from Parnell’s automobile a week or ten days before Thanksgiving. On Thanksgiving day appellant was observed to be wearing an overcoat answering the description of the one lost by Parnell. Information to this effect was conveyed to the officers. They asked appellant where the overcoat was which he had worn on Thanksgiving day. He immediately told them it was in a certain cleaning and pressing establishment. The officers found it there. It was identified by Parnell as the coat which had been stolen. No explanation was made by appellant as to how he came into possession of the coat. The manager of the cleaning and pressing establishment stated that appellant brought it there to be cleaned and pressed the same as other people brought clothing in for that purpose; that appellant made no request that it be concealed, or handled in any manner other than clothes brought there by other customers. The only circumstance relied upon by the state to prove appellant guilty of the theft was his possession of the coat recently after it was stolen.
+Under this state of the record the court told the jury in the fourth paragraph of his charge that,
+“Possession of stolen property is presumptive evidence of the guilt of the possessor of the .stolen property. And to warrant an inference or presumption of guilt from the circumstance of possession alone, such possession must be recent, must be personal and exclusive, must be unexplained and must involve a distinct and conscious assertion of the property by the defendant.”
+Direct and pertinent written objection was made to this instruction in the following language:
+“Defendant excepts and objects to the fourth paragraph of said charge because the same is upon the weight of the evidence, and places a greater burden upon the defendant than authorized by law.”
+The court declined to amend the charge, but submitted it as originally prepared. Appellant’s criticism of the charge is well founded. It was a practical direction to the jury to find him guilty. He was in possession of the overcoat in question, but such possession does not raise a legal presumption of his guilt. It is only a circumstance to be considered by the jury in determining whether he is guilty. It has been held many times that a charge such as here given is erroneous. Tomerlin v. State, Tex. Cr. R., 26 S. W. 214; Lockhart v. State, 29 Tex. Cr. App. 35, S. W. ; Moore v State, 91 Tex. Cr. R. 46, 237 S. W. 258. Mr. Branch in his Ann. Tex. Pen. Code on page 1336, under Sec. 2465 collates many authorities, all in accord with those specially referred to.
+For such error the judgment is reversed and the cause remanded.
+Reversed and remanded.
