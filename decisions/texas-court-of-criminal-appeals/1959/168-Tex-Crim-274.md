@@ -1,0 +1,75 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,636"
+decided: "1959-05-13"
+citations: ["168 Tex. Crim. 274"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Johnny Moore v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2619236
+cites_cases: ["112 Texas Cr. Rep. 541", "133 S.W. 2d 585", "138 Texas Cr. Rep. 1", "153 Texas Cr. Rep. 157", "157 Texas Cr. Rep. 564", "161 Texas Cr. Rep. 584", "17 S.W. 2d 1063", "218 S.W. 2d 202", "251 S.W. 2d 739", "279 S.W. 2d 822", "316 U.S. 455", "324 U.S. 786"]
+---
+
+# Moore v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for burglary, with punishment assessed at two years in the penitentiary.
+The record in this case affirmatively reflects that this appellant, an eighteen-year-old boy, was not represented by counsel either of his own choosing or by appointment by the court. There is an absence of any suggestion in this case that the trial court tendered or offered to appoint counsel for appellant, or that appellant was financially able to employ counsel. There is an absence of any evidence that appellant possessed sufficient education or was mentally alert to the point of being able to represent himself upon the trial of this case.
+The rule requiring representation by counsel in the trial of an ordinary felony case in a state court appears to have had its beginning over seventeen years ago in the case of Betts v. Brady, 316 U.S. 455. The latest expression from the United States Supreme Court attesting the rule is found in Cash v. Culver, decided February 24, 1959, advance publication. The cases touching the question since Betts v. Brady, supra, will be found listed in a footnote in Cash v. Sulver, supra. We will not here set them out.
+In Parsons v. State, 153 Texas Cr. Rep. 157, 218 S.W. 2d 202, this court recognized the rule stated, and followed and applied the rule in Johnson v. State, 157 Texas Cr. Rep. 564, 251 S.W. 2d 739, by reversing the conviction because the accused was not represented by counsel.
+It appears, therefore, that it is now the settled law of this state that the facts and circumstances of each case will determine whether due process is violated by failure to appoint counsel for one on trial for an ordinary felony in a state court.
+Among the various factors entering into a determination of the question is that which is referred to as “the complexity of the proceedings.” Cash v. Culver, supra. See, also, Rice v. Olson, 324 U.S. 786, and Gibbs v. Burke, 337 S.U. 773.
+The “complexity of the proceedings” is patently applicable in the instant care, for therein is a serious question as to the sufficiency of the evidence to support the conviction, which can be justified, only by the use of the written confession of the appellant.
+The complexity of the proceedings is further demonstrated in the fact that the state used in evidence the written confession of James Otis Williams after he had repudiated it and denied that portion thereof which inculpated appellant in the crime.
+The witness Williams was an accomplice, and under the laws of this state the trial court was under the burden of requiring corroboration of his testimony.
+The trial court appears to have entertained some question relative to the admission in evidence of the written confession of the accomplice Williams which was inculpatory of the appellant, for the charge reads that his confession is expressly limited to the jury’s consideration.
+“for the sole and only purpose of bearing upon, if it does, the question of whether or not the statement of the defendant in writing, State’s Exhibit No. 2, was freely and voluntarily given; and you shall not consider it for any purpose as bearing upon, if it does, the question of guilt or innocence of the defendant, or as any circumstance to show or tend to show his connection, if any, of the offense charged herein.”
+So, in effect, the trial court told the jury that Williams’ confession could be utilized for the purpose of determining the voluntariness of appellant’s confession.
+A more complex situation could hardly arise in the trial of a criminal case, for the hearsay rule was violated in the admission oí -the confession of the State’s Witness Williams, who repudiated the truth of the confession.
+In addition, the jury was limited to a consideration of Williams’ confession for a purpose which could not have any probative value — that is, to determine whether appellant voluntarily made the confession which the state used against him.
+To all those proceedings no objection was urged by the appellant.
+Giving effect to the decisions of the Supreme Court of the United States and the rule of law announced therein, we are constrained to agree that under the facts here presented this conviction must be reversed, because of the failure on the part of the trial court to appoint counsel for the appellant.
+While we have no statute in this state which requires the appointment of counsel for one on trial for an ordinary felony, the Supreme Court of the United States in a series of decisions has judicially determined and held that failure to appoint counsel for one on trial in a state court for an ordinary felony may constitute a denial of due process, under the Fourteenth Amendment to the Constitution of the United States.
+Attention is also directed to the fact that under the statute law of this state counsel should have been appointed to represent this appellant.
+This being a burglary case, the provisions of the suspended-sentence law were applicable. Art. 776, C.C.P. Under that statute it is the mandatory duty of a trial court in such cases “when the defendant has no counsel * * *” to “inform the defendant of his right to make such application [for suspended sentence], and the court shall appoint counsel to prepare and present same if desired by defendant.”
+Failure to comply with that mandate constitutes reversible error. Crowell v. State, 161 Texas Cr. Rep. 584, 279 S.W. 2d 822; Diaz v. State, 138 Texas Cr. Rep. 1, 133 S.W. 2d 585; and Arsola v. State, 138 Texas Cr. Rep. 1, 133 S.W. 2d 585; and Noble v. State, 112 Texas Cr. Rep. 541, 17 S.W. 2d 1063.
+While it is true that when appellant was advised of his right to make application for suspended sentence he declined to do so, such advice from the court was not sufficient, because the statute requires that counsel be appointed “to prepare and present the same if desired by defendant.”
+Noble v. State, supra, is direct authority supporting the proposition that the statement of the trial court was not a sufficient compliance with the statute and that nothing short of appointment of counsel will satisfy the statutory requirements. In that case the trial court “ ‘took special pains to advise the defendant of his right to file an application for suspended sentence,’ ” which is exactly what the trial court did in the instant case.
+In the Noble case, however, the trial court went further and “ ‘instructed the Clerk to prepare the application for the defendant to sign’ ” and in addition thereto the district attorney interrogated appellant as to whether he was eligible for a suspended sentence. There appeared to be no legal impediment to the granting of a suspended sentence in that case.
+No legal impediment is shown to have existed in this case to the granting of a suspended sentence.
+The Noble case was reversed for the failure to appoint counsel, so that case is direct authority requiring a reversal of the instant case.
+For the reasons stated, the judgment is reversed and the cause is remanded.
+
+## Concurrence (MORRISON, Presiding Judge,)
+
+MORRISON, Presiding Judge,
+(concurring).
+Since the Supreme Court of the United States allowed a collateral attack after final conviction by writ of habeas corpus in Cash v. Culver, supra, I entertain no doubt that they would reverse an affirmance of this appellant’s conviction upon appeal.
+Without an attorney to assist in his defense, the jury could not be expected to properly understand and apply that portion of the court’s charge quoted in my Brother Davidson’s opinion.
+I agree that this judgment should be reversed.
+
+## Dissent (WOODLEY, Judge,)
+
+WOODLEY, Judge,
+(dissenting).
+The offense is burglary. The state proved the burglary in which property of the value of more than $50 was stolen. Appellant signed a confession, which was admitted in evidence, in which he implicated himself in the burglary and admitted his part in the breaking and entry. This, under many authorities, was sufficient to sustain his conviction.
+In addition, a billfold or wallet which had been loaned to appellant two or three weeks before was found outside the broken back door.
+The record shows that appellant did not desire to apply for suspended sentence. The jury assessed the minimum punishment.
+The “complexity of the proceedings” arose through appellant’s successful effort to raise an issue as to the voluntary character of his confession by questions alone, without subjecting himself to cross-examination or to the pains and penalty of perjury. All of the testimony was to the effect that the confession was voluntarily made in accordance with the statute. The questions indicated the contrary. I do not understand that this ordinary burglary case thus became a “complex proceeding” as that term is used in the authorities cited.
+I am in full sympathy with the effort of the majority to uphold the principle of law that an accused’s constitutional right to have the benefit of counsel is a valuable right which the courts will strictly enforce. Art. 1, Sec. 10, Constitution of Texas and Constitution of the United States, Sixth Amendment, guarantee such right.
+Also I join in the belief that, though not required to do so in noncapital felonies, counsel should be appointed to represent every defendant who has used diligence to secure counsel and, being unable to do so, requests the court to appoint an attorney to represent him.
+Appellant is represented by counsel who filed motion for new trial, perfected the appeal and filed brief in appellant’s behalf in this court. There is nothing in this record to show that appellant used any diligence to secure counsel of his own selection earlier; nothing to show that he desired that the court appoint counsel for him, and there is no complaint raised by appellant or his experienced counsel on appeal that he has been denied counsel.
+The effect of the majority opinion is that, contrary to its prior decisions, this court announces the rule to be that in all felony cases wherein the defendant is not represented by counsel his conviction will be set aside unless the record affirmatively shows that the defendant was financially able to employ counsel, and that he possessed sufficient education and mental alertness to the point of being able to represent himself upon the trial.
+Such holding is directly contrary to the presumption on appeal that the trial court’s rulings and acts are correct and fair. It overlooks the fact that an accused has the constitutional right to be heard by himself; that he may waive representation by an attorney; that the accused must use diligence to secure counsel; and that even in capital cases the duty of the court to appoint counsel arises only when the court is apprised of the fact that the accused is too poor to employ counsel.
+Appellant was. advised of his rights with reference to application for suspended sentence and stated “I don’t want to ask for suspended sentence.”
+The statutes of this state do not require that counsel be appointed to represent a defendant in a non-capital felony who states that he does not desire to file application for suspended sentence. The majority opinion overlooks the limitation in Art. 776 C.C.P. “if desired by defendant.” It also overlooks the holdings of this court that the attorney appointed pursuant to the requirements of Art. 776 C.C.P. is not under the duty to defend generally, but only to prepare and present the plea for suspension of sentence.
+Any claim (and there is none) that appellant was too poor to employ counsel would be refuted by the fact that he did obtain counsel who filed his motion for new trial, perfected his appeal and filed brief in his behalf in this court.
+It is deemed appropriate, also, to direct attention to the fact that the reversal of the conviction is not founded upon the legal conclusion of a majority of the members of this court that appellant has been denied his constitutional right to be represented by counsel, but upon the belief that an affirmance would be reversed by the Supreme Court of the United States upon appeal.
+If this be the true function of judges, the law' is indeed uncertain.
+Whether by this court or by the Supreme Court, a reversal of this conviction on a constitutional question, upon the record before us, would be without any pleading or proof to sustain the holding. The case cited would not support such a reversal.
+I respectfully dissent.
