@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,188"
+decided: "1952-12-03"
+citations: ["158 Tex. Crim. 218"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte L. D. Nichols."]
+source_url: "https://static.case.law/tex-crim/158/cases/0218-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2480966
+cites_cases: ["141 Tex. Cr. R. 478", "149 S.W. (2d) 99"]
+---
+
+# Ex parte Nichols
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+This is an attempt on the part of the relator to appeal from a judgment rendered in the corporation court of Kerrville in Kerr County wherein he was fined the sum of ten dollars. Thereafter, relator appealed from this judgment to the county court, where he was again fined the sum of ten dollars. He now attempts to appeal to this court by a writ of habeas corpus alleging the faultiness of the complaint under which he was tried. He has also filed some affidavits in this cause which are not pertinent to any point at issue herein.
+The writ of habeas corpus cannot serve as a substitute for an appeal, especially where no appeal lies from the action of the court under the original conviction. Article 53, Vernon’s Ann. C.C.P., is plain and reads as follows:
+“The Court of Criminal Appeals shall have appellate jurisdiction co-extensive with the limits of the State in all criminal cases,. This article shall not be so construed as to embrace any case which has been appealed from any inferior court to the county court or county court at law, in which the fine imposed by the county court or county court at law shall not exceed one hundred dollars.”
+Furthermore, relator is not entitled to a writ of habeas corpus because it is shown by the allegations, as well as the affidavit filed herein, that he is not under restraint by anyone at the present time, but is at large, and that he has not paid the fine assessed by the judgment of the county court.
+In Corley v. State, 141 Tex. Cr. R. 478, 149 S.W. (2d) 99, we held that where the prosecution originated in the justice court, and after an appeal to the county court, and on a trial de novo, a judgment was entered assessing a fine of $10.00 against the defendant, the Texas Court of Criminal Appeals had no jurisdiction of an appeal from the judgment of the county court. See notes under Article 53, Vernon’s Ann. C.C.P.
+The application for a writ of habeas corpus is denied.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON relator’s motion for rehearing.
+WOODLEY, Judge.
+This is an original application for habeas corpus wherein it is contended that relator is illegally restrained of his liberty by John R. Leavell, County Judge of Kerr County. It is alleged that the judgment of conviction against relator in the county court of Kerr County is void because the complaint did not charge an offense.
+The application sets out the complaint which alleges that relator disturbed the peace “by using loud vociferous language in a manner calculated to disturb the peace of the inhabitants of a public place, to-wit: 500 Block of Schreiner St.; Christine’s Place. ...”
+The record shows that relator is not in fact restrained, but is at large “upon his promise to pay his fine if he can get no relief from what he considers to be an illegal conviction.”
+We remain convinced that relator is not entitled to relief because he is not under restraint.
+Also, though not necessary to a decision in the pending case, we express the opinion that the failure to describe the public place other than as “500 Block of Schreiner St.; Christine’s Place” is not fatal to the complaint, and the judgment rendered thereon is not subject to collateral attack by reason of the want of a more particular description of the public place.
+Relator’s motion for rehearing is overruled.
