@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,915"
+decided: "1957-03-27"
+citations: ["164 Tex. Crim. 437"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Herman Charles Jundt v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0437-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2612465
+cites_cases: ["157 Texas Cr. Rep. 150", "160 Texas Cr. Rep. 284", "247 S.W. 2d 400", "268 S.W. 2d 459"]
+---
+
+# Jundt v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the lascivious fondling of a minor with a prior conviction for an offense of like character alleged for enhancement; the punishment, 25 years.
+The nine-year-old injured child testified that she and her mother went to visit her mother’s friend, that she went out in the back yard, that the appellant who was present at the home came out in the back yard and while there placed his hand on her sexual part. She stated that she told him to stop and went in the house and sat with her mother until their visit was over. She stated further that as soon as she and her mother were alone she reported the incident. Her mother testified that when her daughter came in the house she was very quiet and that, immediately upon their leaving her friend’s house, her daughter told her that the appellant -had put his hands on her female organ and that it “kind of tickled me.”
+Appellant’s full confession which showed his guilt as charged was introduced in evidence.
+It was established that the appellant had been released from the penitentiary less than two months prior to the date charged in the indictment after having served a term from El Paso County for an offense of like character.
+The appellant did not testify or offer any evidence in his own behalf.
+No brief has been filed, but we will discuss the informal bill reserved in the record.
+Appellant objected to the injured child being permitted to testify, his contention being that she was not a competent witness.
+In Hines v. State, 160 Texas Cr. Rep. 284, 268 S.W. 2d 459, we held that a review of the child’s entire testimony, rather than the preliminary qualification, should be made in order to determine the competency of the witness. We have done so in the case at bar and find the same to be logical and intelligently given.
+Appellant next objected to the child’s and her mother’s accounts of her outcry. When the child went back in the house, the appellant followed her and sat talking with the women. Just as soon as the child and her mother were alone, the outcry was made. It was clearly admissible. Haley v. State, 157 Texas Cr. Rep. 150, 247 S.W. 2d 400.
+The evidence being sufficient to support the conviction and no reversible error appearing, the judgment of the trial court is affirmed.
