@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,894"
+decided: "1954-03-31"
+citations: ["160 Tex. Crim. 121"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dalton Meaux v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0121-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468714
+cites_cases: ["192 S.W. 236", "200 S.W. 1088", "206 S.W. 524", "227 S.W. 194", "42 Texas 226"]
+---
+
+# Meaux v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+Appellant was charged in an indictment containing three counts, the first of which alleging that he committed an assault with an intent to ravish a female under the age of eighteen years other than his wife; the second count alleging that he attempted to have carnal knowledge of said female; and the third count alleging that he attempted to have such carnal knowledge of said female, said attempt not constituting an assault with intent to commit the offense of rape. Upon his conviction for an aggravated assault his punishment was assessed at confinement in the county jail for a term of two years.
+The court instructed the jury on an assault with intent to commit rape and also of an aggravated assault.
+‘ There is no statement of facts nor bills of exception in the record. However, we do find that appellant asked for an instructed verdict at the end of the testimony, which was refused, and the court proceeded to charge the jury on an assault with intent to rape and also on aggravated assault and in line with Article 695, C.C.P., Section 2, which provides that certain offenses are included in different degrees, as follows: “An assault with intent to commit any felony, which includes all assaults of an inferior degree.” Operating thereunder the court, after having charged on an assault with intent to commit rape, submitted to the jury a charge on aggravated assault.
+The jury returned a verdict of not guilty relative to the assault with intent to commit rape, but found appellant guilty of an aggravated assault and assessed his penalty as above stated.
+Appellant now presents us with a brief in which it is his main contention that in order for the appellant to be guilty of an aggravated assault, it was not only necessary to allege that, he was an adult male but also to prove that he was such adult male. It is insisted that it was fundamental error for the court to have charged the jury relative to an aggravated assault because it is not alleged in the indictment that appellant was an adult male.
+We have heretofore held in Cirul v. State, 83 Texas Cr. R. 8, 200 S.W. 1088, that an indictment charging assault with intent to rape includes, though not describing the means used to commit the lesser offense, a charge of aggravated assault. Again, in. Miller v. State, 84 Texas Cr. R. 168, 206 S.W. 524, it was held that the offense of assault with intent to rape includes aggravated assault. To the same effect is the holding in Stockton v. State, 80 Texas Cr. R. 521, 192 S.W. 236, and Hand v. State, 88 Texas Cr. R. 422, 227 S.W. 194.
+Since we are not favored herein with a statement of facts, we are therefore left in doubt as to what the alleged assault consisted of upon the part of the appellant or what effect the same might have had upon the female. Under the circumstances, it might have been a case that caused her a sense of shame and humiliation and therefore would be an aggravated assault regardless of the age of the appellant.
+An indictment for rape need not allege that the accused was over fourteen years of age. If under that age, that fáct would be a matter of defense. Davis v. State, 42 Texas 226. Again, an indictment for rape need not allege that the accused is an adult male, nor that he was fourteen years old when the crime was committed. Word v. State, 12 Texas App. 174.
+Under the circumstances and by virtue of the statute itself, as well as the long line of decisions thereunder, we do not think it was necessary that it be alleged in the charge against one for an assault with intent to rape that the accused was an adult male in order to convict for an aggravated assault by an adult male upon a female.
+In the absence of the facts adduced, we are unable to tell what was shown upon the trial of this case. Under the circumstances, we think the jury were correctly instructed by the court and that they had the power to find appellant guilty of an aggravated assault if they so found under the testimony, which it seems they did. We see no reason for disturbing their verdict under the record presented to us.
+The judgment of the trial court is therefore affirmed.
+
+## Rehearing (MORRISON, Judge.)
+
+ON MOTION FOR REHEARING
+MORRISON, Judge.
+Appellant takes us to task for what he claims is a misstatement of his proposition of law. He says that his sole contention has always been that the trial court committed fundamental error in that portion of his charge wherein he instructed the jury on the law of aggravated assault in that he defined assault and battery but did not define aggravated assault. When the court applied the law to the facts he did instruct the jury as follows:
+“And if you believe from the evidence that the defendant is guilty of an assault, but have a reasonable doubt as to whether such assault was with intent to rape, then you will acquit him of that offense and as above charged, next consider whether he is guilty of aggravated assault.
+“If you believe from the evidence, beyond a reasonable doubt, that the defendant in the County of Chambers and State of Texas, on or about the time charged in the indictment, did with his hand unlawfully assault the said Ethel Broussard, a female, but not with intent to rape, then you will find the defendant guilty of an aggravated assault and assess his punishment at a fine not less than twenty-five nor more than one thousand dollars, or by imprisonment in jail not less than one month nor more than two years, or by both such fine and imprisonment, as you may determine and state in your verdict.”
+This, we think, sufficiently protected the rights of the appellant and does not constitute fundamental error. If the appellant was dissatisfied with the court’s charge, he should have objected thereto at the proper time.
+Remaining convinced that we properly disposed of this cause originally, appellant’s motion for rehearing is overruled.
