@@ -2,7 +2,7 @@
 court: "Texas Court of Criminal Appeals"
 docket: "9628"
 decided: "1926-03-17"
-citations: ["105 Tex. Crim. 104", "287 S.W. 57", "104 Tex. Crim. 616"]
+citations: ["105 Tex. Crim. 104", "287 S.W. 57"]
 reporter: "tex-crim"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
