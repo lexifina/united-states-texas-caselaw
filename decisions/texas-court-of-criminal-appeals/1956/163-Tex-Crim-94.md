@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,043"
+decided: "1956-02-29"
+citations: ["163 Tex. Crim. 94"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Coyce Glyn Blankenship v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461242
+cites_cases: ["220 S.W. 2d 172", "244 S.W. 2d 515", "255 S.W. 2d 513", "255 S.W. 2d 516", "268 S.W. 2d 152"]
+---
+
+# Blankenship v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is sodomy; the punishment, five years.
+Appellant and one Thornton were each indicted and were tried together. Appellant alone appeals.
+Trusty DeMos at the Dallas city jail testified that at about midnight on the day charged he observed the appellant and Thornton in what is commonly known as the bullpen, that the appellant opened Thornton’s pants and took out Thornton’s private part which was erect and placed it in his mouth, that following this the two men lay down on the floor, and the appellant again put Thornton’s privates in his mouth. The witness stated that he reported the matter to the officers, who came at once.
+Officer Adams testified that one of the prisoners called his attention to the appellant and Thornton, who were lying on the floor of the jail; that the appellant’s head was six or eight inches from Thornton’s penis, which was out of his trousers; and that he ordered the men to get up.
+Assistant Jailer Barbarick, who arrived at the cell with officer Adams, corroborated his testimony.
+The appellant and Thornton both testified in their own defense and stated that they were drunk on the night in question and did not remember having committed the act.
+On rebuttal, the state introduced Thornton’s written confession which he had testified he did not remember having signed.
+The jury resolved the conflict in the evidence against the appellant, and we find the evidence sufficient to support their verdict.
+We shall discuss the contentions raised by brief and argument.
+Bills of Exception Nos. 1, 2 and 3 are directed to the cross-examination of appellant’s character witness. In Bill of Exception No. 1, the question was asked; appellant’s counsel stated, “We object;” the court admonished state’s counsel about his choice of language; the same question was asked in different language; and the appellant did not object. We have concluded that the appellant, having failed to point out to the court the grounds of his objection and permitting the same question to be again asked in different language without objection, waived whatever error there may have been in the asking of the question. We find no motion to instruct the jury to disregard the question. The same question, in a different form, was asked several other witnesses without objection being made. No error is reflected by the bill.
+Bills of Exception Nos. 2 and 3 complain of the overruling of appellant’s objection when the following question was asked two witnesses: “I will ask you whether or not * * * if you had heard Blankenship had been arrested and put in jail thirty times ?”
+The rule regarding such cross-examination of a character witness is aptly stated in Wiley v. State, 153 Tex. Cr. Rep. 370, 220 S.W. 2d 172, as follows:
+“Witnesses attesting the good reputation of an accused may, as affecting the weight, credibility, and sincerity of their testimony, be asked upon cross-examination as to whether they had heard of acts of the accused inconsistent with that reputation. Such, however, is as far as the State is permitted to go in such matters, for it is expressly prohibited from conducting the cross-examination or framing the interrogatories so as to show specific acts of misconduct on the part of the accused or that he has in fact, been guilty of such acts.”
+See also Adams v. State, 158 Tex. Cr. Rep. 306, 255 S.W. 2d 513; Herriage v. State, 158 Tex. Cr. Rep. 362, 255 S.W. 2d 516; and Watson v. State, 156 Tex. Cr. Rep. 585, 244 S.W. 2d 515.
+If the appellant was in a position to show that the question was asked in bad faith, he should have perfected his bill by showing such fact, as was done in Davis v. State, 160 Tex. Cr. Rep. 138, 268 S.W. 2d 152.
+Finding no reversible error, the judgment of the trial court is affirmed.
