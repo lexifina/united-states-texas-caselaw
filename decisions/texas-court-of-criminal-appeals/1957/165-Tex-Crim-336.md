@@ -1,0 +1,45 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,119"
+decided: "1957-06-29"
+citations: ["165 Tex. Crim. 336"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roosevelt Nesbit v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0336-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2614342
+cites_cases: ["154 Texas Cr. Rep. 450", "158 Texas Cr. Rep. 95", "161 Texas Cr. Rep. 273", "228 S.W. 2d 512", "253 S.W. 2d 430", "276 S.W. 2d 522", "75 Sup. Ct. 531"]
+---
+
+# Nesbit v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is the unlawful possession of barbiturates; the punishment, one year in jail and a fine of $1000.
+Appellant’s motion for new trial was overruled on February 15, 1957, which was during the February term of the trial court, and notice of appeal was given on that date.
+The record reflects that appellant is at large on an appeal bond dated and approved February 15, 1957.
+An appeal bond entered into before the expiration of the term at which the conviction was had and notice of appeal was given does not comply with the statute, Art. 830 V.A.C.C.P., and does not confer jurisdiction upon this court to enter any order other than to dismiss the appeal. Fowler v. State, 154 Texas Cr. Rep. 450, 228 S.W. 2d 512.
+Appellant is granted fifteen days in which to file a proper appeal bond and move to reinstate the appeal.
+The appeal is dismissed.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON MOTION TO REINSTATE APPEAL AND REHEARING
+WOODLEY, Judge.
+Proper bond on appeal having been entered into, the appeal is reinstated.
+According to the officers who testified for the state, while they were searching appellant’s home for narcotics by virtue of a search warrant, one of them found five tablets in a dresser drawer of the bedroom.
+The chemist, whose qualifications were stipulated, testified that he used a part of four of these tablets for analysis purposes and determined that they contained a derivative of barbituric acid; that the only drug he knew of that would stimulate and prevent the hypnotic effect of barbituric acid would be the amphetamine group and there was no amphetamine in the tablets.
+It was appellant’s testimony that the tablets were not found in his bedroom and that the only tablets such as those the officer produced which he ever possessed he received from the Veterans’ Hospital for the purpose of medication.
+The pharmacist at the Veterans’ Hospital, who testified as a defense witness, stated that the hospital records showed but one medication given to appellant and that was capsules, not tablets.
+The jury resolved the disputed issue of fact against appellant and the evidence sustains its verdict.
+The complaint regarding the court’s charge is not before us, there being no objection or requested charge in writing, as required by Arts. 658 and 659 V.A.C.C.P.
+The sole question remaining is the contention that the statute is unconstitutional.
+Art. 726(c) V.A.P.C. was sustained against attacks as to its constitutionality in Ex parte Engel, 158 Texas Cr. Rep. 95, 253 S.W. 2d 430, and Browning v. State, 161 Texas Cr. Rep. 273, 276 S.W. 2d 522, Certiorari denied, 75 Sup. Ct. 531.
+In Browning v. State we held that Art. 726(c) makes the delivery of a barbiturate prima facie an offense, but provides a method by which barbiturates may be delivered by those qualified and authorized to do so, and a means whereby compounds and preparations for external use only may be lawfully delivered, but places upon the defendant the burden of showing facts by reason of which the delivery of the barbiturates is excepted, excused or exempted under the statute.
+We think the same rule must be applied where the offense charged is possession of a barbiturate.
+The state alleged and proved that appellant possessed barbiturates. He failed to produce evidence showing that his possession of the tablets was under circumstances by reason of which his possession was excepted, excused or exempted under the statute.
+In Ex parte Engel, supra, we held that the exceptions contained in Section 5 properly construed did not constitute class legislation or offend against the equal protection provision of our State and Federal Constitutions.
+The judgment is affirmed.
