@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,049"
+decided: "1954-10-20"
+citations: ["160 Tex. Crim. 531"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pearl Smith v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0531-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2472973
+cites_cases: ["146 Texas Cr. Rep. 342", "174 S.W. 2d 973"]
+---
+
+# Smith v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for possession of whisky and beer in a dry area for the purpose of sale; the punishment, which the jury was authorized to enhance by reason of two prior convictions, five months in jail anl a fine of $250.
+The evidence shows that appellant was found in possession of two half-pints of whisky, which were taken from her purse by the arresting officers, and 24 cans of beer, which were in the refrigerator in appellant’s home.
+Appellant admitted the possession of the whisky and beer, but testified that it was for her own personal use. She denied that she possessed it for the purpose of sale.
+It was established that the area was dry and proof of the prior convictions in the fall of 1953, alleged for enhancement of punishment, was offered in evidence, one being for the sale of whisky and the other for possession of whisky for the purpose of sale in a dry area.
+Appellant admitted that she had “pleaded guilty as many as two times before to the offense of selling whisky in a dry area and once for possession of whisky in a dry area for the purpose of sale.”
+The question of appellant’s purpose or intent in regard to the whisky and beer was for the jury. They were not bound to accept her testimony on that issue as true. We overrule the contention that the evidence is insufficient to sustain the conviction. Smiley v. State, 146 Texas Cr. Rep. 342, 174 S.W. 2d 973.
+Aside from attacking- the sufficiency of the evidence, appellant presents one bill of exception. She complains of the argument of the county attorney wherein he remarked that the defendant “had been a bootlegger all of her life.”
+The trial judge instructed the jury not to consider the remarks, and appellant’s complaint is that the remarks were of such a nature that the instruction could not cure the prejudicial effect thereof. He excepted to the remarks, notwithstanding the court’s instruction, and to the refusal by the court of his motion that a mistrial be declared.
+In view of the testimony and the admissions of appellant of her past pleas of guilty (one being of date not disclosed by the record) and the action of the trial court in the matter, the argument is not deemed such as to call for reversal.
+The judgment is affirmed.
