@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,035"
+decided: "1961-03-15"
+citations: ["171 Tex. Crim. 156"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Henry Glover, Et Al v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2631386
+cites_cases: ["255 S.W. 2d 910", "44 Tex. Cr. R. 595", "55 S.W. 2d 644", "73 S.W. 398", "74 S.W. 2d 557"]
+---
+
+# Glover v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+This is an appeal by Jimmy Martin, surety on the habeas corpus bond of Charles Henry Glover, from the final judgment of the County Criminal Court No. 3 of Dallas County. Another person whose name appeared on the bond as surety was discharged from liability by the court upon the trial.
+Judgment nisi was entered May 26, 1960. On July 25, 1960 Jimmy Martin, as surety, signed an instrument which recited that he waived the issuance and service upon him of the scire facias and entered his appearance in said cause for all purpose. This waiver was filed July 25, 1960.
+Appellant filed an amended answer October 21, but therein he did not deny the execution by him or by his authority of the bond. He was present on the trial and participated as a party and as an attorney. The trial was had and the final judgment entered October 21, 1960.
+To raise the issue that the appellant as surety did not sign the bond, the answer must contain an affirmative verified plea of non est factum. Rule 93, T.R.C.P.; 8 Tex. Jur. 2d 208, Sec. 83; Nelson et al v. State, 44 Tex. Cr. R. 595, 73 S.W. 398.
+In his motion for new trial, the appellant for the first time alleges that he did not sign the bond and upon the hearing thereon, he testified that he did not sign the bond, but would have authorized it if he had been called as he had done before.
+A litigant is not permitted during a trial on the merits to remain silent as to affirmative defenses known to him, and then when an adverse result is reached, on motion for new trial complain because of his own neglect. 31 Tex. Jur. 14, 17, Secs. 10, 13; Rule 94, T.T.C.P.; Thomasson v. Davis, 74 S.W. 2d 557, writ dismissed.
+Appellant’s waiver of service of citation, his appearance and participation in the trial on the merits, followed by his denial for the first time in his motion for new trial that he signed the bond, but without stating any excuse or justification for failing to raise such issue before, does not show any error in the refusal of the motion.
+Judgment is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (DICE, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING
+DICE, Judge.
+In his motion for rehearing, appellant insists that we were in error in holding that the issue of his execution of the bond in question was not raised by a plea of non est factum.
+Appellant insists that his verified amended answer, in which he challenged the validity of the bond together with his sworn testimony given on the hearing of the verified motion for new trial denying execution of the same, was tantamount to a plea of non est factum.
+While in his amended answer appellant alleged that the bond was invalid for various reasons, he did not, as pointed out in our original opinion, in any manner, deny execution of the bond. The answer urging invalidity of the bond for the various reasons assigned did not constitute a plea of non est factum. 8 Tex. Jur. Supp. 189-190, par. 128; Sethman v. Liberty National Bank of Oklahoma City, Oklahoma, 55 S.W. 2d 644 (Civ. App.) writ dismissed. Under the record, we remain convinced that the issue of appellant’s execution of the bond was not raised by a proper plea of non est factum and that the court did not err in overruling the motion for new trial on such ground. We are unable to agree with appellant that the state, by failing to object to his testimony given on the hearing of the motion for new trial denying execution of the bond, waived the requirements of a plea of non est factum in the cause.
+Other grounds urged by appellant in his motion for rehearing were not presented in his brief on file herein upon the original hearing and are overruled. 4 Tex. Jur. 2d 234, par. 740; Aycock v. Travis County, 255 S.W. 2d 910 (Civ. App.) writ refused.
+The motion is overruled.
+Opinion approved by the Court.
