@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1575"
+decided: "1912-06-26"
+citations: ["67 Tex. Crim. 434"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ed Parker v. The State."]
+source_url: "https://static.case.law/tex-crim/67/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4639047
+cites_cases: ["51 Texas Crim. Rep., 584", "61 Texas Crim. Rep., 590", "62 Texas Crim. Rep., 114"]
+---
+
+# Parker v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+—Appellant was correctly indicted for burglary in two counts—the first charging that he burglarized the house of J. Sidney Smith, without otherwise describing the kind of house; in the second count he was charged with burglarizing the house of said Smith, correctly, under the statute, charged to have been the private residence of said Smith.
+The court submitted both counts under separate and distinct complete charges. The* charges were full, clear and apt. The jury convicted appellant under the first count and fixed his penalty at the lowest time—two years in the penitentiary.
+Some minor complaints are made of the court’s charge in submitting the count for burglarizing the private residence, but as appellant was not convicted under that count and was given the lowest penalty under the other, no possible injury occurred to him, and even if the charge were subject to the criticisms, it could not affect the result of the case.
+The testimony, without contradiction, shows that the house of said Smith was burglarized on or about October 23, 1909, and a watch of said Smith stolen therefrom. The evidence does not disclose positively whether the burglary occurred at night or in the daytime, but tends more strongly to show that it was in the daytime. At least, there is sufficient evidence to justify the verdict of the jury of daytime burglary.
+The burglarized house was in the country some five miles from Bryan. Some two or three days after the burglary, about dark one Saturday evening, the appellant had the stolen watch and sold it to a party in the rear of a saloon in Bryan. . One other party besides the purchaser was present and saw appellant sell the watch to the other. Both of these persons identified the appellant as the party who had the watch and sold it on that occasion. One of them more positively than the other. The testimony of both, or either, was amply sufficient to justify the verdict as to the identity of appellant. The stolen watch was clearly and without doubt or contradiction shown to have been the watch of said Smith and stolen from within the house at the time the house was burglarized. Appellant did not testify. The testimony shows that Mrs. Smith, the wife of the owner of the watch, about the evening of October 22, her husband being in Bryan and working there, went to a neighbor’s and remained at night, returning to the house the next morning. She did not see the appellant at or about the house at any time. When she left the house she closed all the doors and all the windows were down. The doors were not locked, simply latched with the ordinary fastenings of doors. Ho one could have gotten into the house without either raising a window or turning the doorknob and opening the door.
+There was no direct proof that the house was the private residence of said Smith, occupied and actually used by him at the time the offense was committed as his place of residence. Penal Code, article 1314. Perhaps, the evidence would have justified a verdict by the jury that it was such private residence. The evidence, however, is positively clear and without question that the house was that of said Smith and that it had been burglarized, whether it was a private residence or not.
+Appellant contends that the proof showed that the house was the private residence of said Smith and occupied 'and actually used by him at the time as his place of residence, and hence the conviction can not be sustained, because appellant was convicted under the first count of burglarizing an ordinary house—not a private residence. We have carefully gone over the evidence in this case and it is nothing like as strong as the evidence was in the case of Hopkins v. State, 61 Texas Crim. Rep., 590, to show that it was a private residence. We apprehend that if appellant had been convicted under the second count and even given the lowest penalty, five j^ears, he would have then contended that the evidence did not justify the verdict of the jury that the house was a private residence, etc., and with very much more show than his present contention that it was a private residence. Clearly, the conviction in this case was proper, under the evidence. Hopkins v. State, supra; Martinez v. State, 51 Texas Crim. Rep., 584; Hawthorn v. State, 62 Texas Crim. Rep., 114.
+Appellant has several bills of exceptions to certain questions that were asked and permitted to be answered. We will give his first bill in full, omitting simply the style at the beginning and the signature at the end of the bill:
+“Be it remembered that upon the trial of the above entitled and numbered cause, while the witness Mrs. Smith was upon the stand as a witness, the district attorney upon redirect examination asked the witness the following question, to wit:
+“Q. .You are positive about the date—you came to town on the 21st and went home on the 22d—when you got home on the 22d you stated that you stayed there about an hour and then went away to a neighbor’s—Why did you go away to spend the night? to which question and answer sought to be elicited the defendant objected upon the ground that same was immaterial and irrelevant, and did not tend to prove the commission of a crime, and did not tend to connect the defendant with the commission of a crime, which objection of the defendant the court overruled and permitted the witness to answer the question, and said witness did answer the question as follows:
+“‘When I left the house I thought I heard a little racket, but didn’t think much about it. Hr. Smith was in Bryan, and I would not stay by myself.’ To which ruling of the court the defendant then and there excepted, and here now tenders his bill of exceptions, and asks that same be approved, signed and ordered to be filed as part of the record in this cause.”
+Neither of his other bills are any inore correct than this. The one copied above and neither of the others presents the matter in such way that would authorize or require this court to consider them. See sec. 857, p. 557, and sec. 1123, p. 732, of White’s Ann. Code Grim. Proc.
+However, we have considered each of appellant’s bills, and in our opinion they in no way present reversible error.
+Appellant’s special charge is not correct and should not have been given. It is in substance: “If from the evidence you believe that the defendant entered said house you must be satisfied beyond a reasonable doubt as to whether such entry was committed in the daytime or in the night, and unless you are satisfied upon this point you will acquit the defendant.” The main charge of the court correctly required the jury to find that the appellant committed the burglary in the daytime.
+We have carefully gone over the whole record in this case and all of appellant’s complaints, and none of them are well taken and are wholly insufficient to authorize this court to reverse the case.
+The judgment is "affirmed.
+Affirmed.
