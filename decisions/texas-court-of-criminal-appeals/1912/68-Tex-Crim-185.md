@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2036"
+decided: "1912-11-13"
+citations: ["68 Tex. Crim. 185"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. L. Whorton v. The State."]
+source_url: "https://static.case.law/tex-crim/68/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4649204
+---
+
+# Whorton v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+— Appellant was indicted and convicted of burglary, and his punishment assessed at two years confinement in the penitentiary.
+The evidence on behalf of the State would show that appellant and one Ben Davis burglariously entered the store of J. F. Elam & Son, and J. E. Elam testifies that appellant approached him, the morning after his boys claimed to have detected them, and said: “Uncle Jim, I got in your store last night, and that it was not the first time, but he had never taken anything but little things, candy, cigars, tobacco, etc., about four or five dollars worth, and that if the matter was not reported he would give anything.” This statement is not denied, and this with the testimony of S. D. and Roy Elam, who claimed to have witnessed the burglarious entry, amply supports the verdict.
+The appellant claims the court erred in permitting it to be shown that appellant was twenty years of age, while Ben Davis was only eighteen. As the punishment assessed against appellant is the minimum fixed by law, this testimony could not have been hurtful to appellant, but the youth of both seems to have been considered by the jury in making the penalty so light. The matter presents no error.
+While J. E. Elam was testifying he was permitted to state he had heard that his store had been burglarized. This was objected to, but as the record discloses that this was but preliminary to proving the statement of appellant above referred to, and that it was the next morning when the statement was made to him by appellant, it was admissible as fixing the time, and the bill presents no error.
+The special charge peremptorily instructing the jury to find appellant not guilty should not have been given, and the other two special charges requested were fully covered by the main charge of the court.
+The court did not err in charging on who are principals under the testimony of S. D. and Roy Elam, and the charge given was an admirable presentation of the law in this respect.
+The indictment alleged that the house burglarized belonged to J. E. Elam, while the proof showed it was the store of J. F. Elam & Son. As J. F. Elam testified he was in charge of the store, this presents no error. Branch’s, Criminal Law correctly states the rule to be that where property is owned in common or jointly by two or more persons, the ownership may be alleged to be in either or all of them, citing Samora v. State, 4 Texas Crim. App., 508, and numerous other cases, and in section 789 the same author states, the State is not required to prove the want of consent of a person not mentioned in the indictment, citing Burt v. State, 7 Texas Crim. App., 578, and numerous other cases.
+As J. E. Elam testified that appellant admitted to him he was guilty of the offense, it was not necessary to charge on circumstantial evidence. Heard v. State, 24 Texas Crim. App., 103, and Branch’s Crim. Law, section 203.
+The judgment is affirmed.
+Affirmed.
