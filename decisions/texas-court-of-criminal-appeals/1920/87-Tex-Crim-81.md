@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "5705"
+decided: "1920-03-10"
+citations: ["87 Tex. Crim. 81", "219 S.W. 453"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rafael Medina v. The State."]
+source_url: "https://static.case.law/tex-crim/87/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4791511
+cites_cases: ["132 S. W. Rep., 804", "15 S. W. 821", "207 S. W. 315", "207 S. W. Rep., 315", "29 Tex. App. 223", "36 Texas Crim. Rep., 477", "38 Tex. Cr. R. 192", "38 Texas Crim. Rep., 170", "38 Texas Crim. Rep., 192", "41 S. W. 816", "60 Texas Crim. Rep., 512", "63 S. W. Rep., 647", "8 Tex. App. 187", "84 Texas Crim. Rep., 395"]
+---
+
+# Medina v. State
+
+## Majority (MORROW, Judge.)
+
+MORROW, Judge.
+The conviction is for assault with intent to murder. The party injured was .Bncarnaeio Hernandez. The parties apparently were all natives of Mexico, and an interpreter speaking the Spanish language was required and used in the conduct of the trial. The appellant and his four brothers attended a dance at which the injured party and four others, some of them relatives, were attendants. A few minutes—described by the witnesses at from eight minutes to half an hour—before the injury took place, Hernandez and one of the brothers of the appellant engaged in a difficulty which culminated in blows with the fists. A quarrel ensued, all of the parties mentioned being present. In this quarrel Hernandez, according to the testimony of both the State and the appellant, had a pistol, and, according to several witnesses testifying on behalf of appellant, this pistol at the time the shot was fired was in the hands of Hernandez, and exhibited in a manner threatening to the appellant and his brothers, and this demonstration, according to these witnesses, was accompanied by threatening and insulting language on the part of Hernandez. When the shot was fired the appellant was in front, between Hernandez and his companions and the brothers of the appellant, who were standing behind him; and the pistol in Hernandez’s hands was pointed toward the appellant and his brothers, the distance between them being 5 or 6 yards. Among other things said by Hernandez while he held his pistol in his hands was that he was ready to fight all five of the Medina brothers, accompanying this statement with an insulting epithet and a threat that he was going to get them. He made no effort to shoot, but was apparently, according to some of the witnesses, awaiting a movement upon the part of his adversaries, the five Medina boys, tho the pistol was pointed at them. While the shooting was going on, one or more of the companions of Hernandez attacked the appellant, one of them exhibiting a knife.
+Submitting the case to the jury, the court in his main charge said: “If you find from the evidence that on the occasion under investigation, the defendant did shoot the said Encarnacio Hernandez with a gun, but that when he did so, or immediately before the said Encarnacio Hernandez was apparently about to shoot him, the defendant, with a pistol, you will acquit the defendant, or if you have a reasonable doubt upon this point you will acquit him. ’ ’
+The appellant in a timely and proper manner sought, by exceptions to the charge and by requested charge, to have the court embody in his charge the right to act in defense of his brothers. The court’s refusal to do so is made the subject of a just criticism. Guffee v. State, 8 Texas Crim. App., 187 and other cases listed in Branch An. Texas P. C., Secs. 1912-1913. In addition to the reference to the facts in evidence made above, the appellant testified that when Hernandez drew his pistol and with the insulting remark insisted that he would fight the five of them, he, the appellant, got his pistol out of the buggy; and that Hernandez made a motion with his gun, and the appellant fired, or attempted to do so, his pistol snapping at first, but later succeeded in striking Hernandez. Continuing he said: “I shot him because he made a motion to shoot me," and stated that he shot in defense of his brothers, and Hernandez had his gun pointed towards them.
+We do not think the quotation from appellant’s testimony relieved the court of the obligation to give the charge mentioned. Mitchell’s case, 38 Texas Crim. Rep., 192, referred to by State’s counsel, does not, we think, support the court’s action. In that case the absence of error in refusing to charge on defense of another rested not alone on appellant’s testimony .that he shot to defend himself, but upon the additional fact that if there' was any danger he had no knowledge of it. In the instant case the issue of defense of another, we think, arises from appellant’s testimony, but even if this were not true there was much other evidence supporting the issue and entitling him to the charge. Bonner v. State, 29 Texas Crim. App., 223, and annotations thereof, in Rose’s Notes on Texas Reps., vol. 5, p. 180; Knight v. State, 84 Texas Crim. Rep., 395; 207 S. W. Rep., 315.
+The error in refusing to charge on the right to act in defense of another requires a reversal of the judgment, which is ordered.
+Reversed and remanded.
