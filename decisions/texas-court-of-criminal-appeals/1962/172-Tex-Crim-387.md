@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,666"
+decided: "1962-05-30"
+citations: ["172 Tex. Crim. 387"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Don Duncan v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0387-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2642281
+---
+
+# Duncan v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for driving while intoxicated; the punishment, three days in jail and a fine of $50.
+City of Dallas police officer B. L. Powell testified that on the night in question while on patrol duty in the city he stopped for a traffic light at the intersection of Bryan and Hall Streets; that after the light changed he heard a loud squeak of tires and observed a car driving off at a high rate of speed on Bryan Street; that he turned his patrol car around and proceeded to pursue and stop the car after traveling some twelve or thirteen blocks; that the car was a ’58 Ford and occupied by two persons; that he went to the car and asked the driver, whom he identified as the appellant, for his driver’s license; and that after appellant produced the license he asked him to step out of the car. Officer Powell testified that at such time appellant staggered, his speech was slurred, and expressed his opinion that appellant was intoxicated. He further testified that on such occasion he could smell a strong alcoholic odor and in searching appellant’s automobile he found on the front floor board an opened fifth liquor bottle containing approximately an inch of whisky. Officer Powell stated that he placed appellant in the back seat of his squad car and called Officer Dossett on his radio; that after Officer Dossett arrived at the scene, he (Officer Powell) drove appellant’s car to the police station, carrying with him appellant’s companion who had remained in the car.
+Officer Dossett testified that when he arrived upon the scene, one subject was sitting in the rear seat of the officer’s squad car and the other subject was seated in the ’58 Ford automobile; that he had the subject who was seated in the squad car, and whom he could not identify, get in his patrol car, and proceeded to take him to the city hall. Officer Dossett testified that the subject staggered when he walked, talked incoherently, had a strong odor of alcohol about him, and expressed his opinion that he was intoxicated.
+Testifying as a witness in his own behalf, appellant admitted being arrested by Officer Powell on the night in question but denied that he was driving the automobile and denied that he was drunk. Appellant testified that the automobile in which he was riding belonged to one Leo Holliday; that he and Holliday had been to Tyler and that they were returning to Dallas and that Holliday was driving the car.
+The jury resolved the disputed issues against appellant and we find the evidence sufficient to sustain their verdict.
+Appellant’s sole contention on appeal is that the court erred in overruling his motion to strike and exclude the testimony of Officer Dossett because the officer was unable to identify the appellant as the person who he testified was present and intoxicated at the scene on the night in question.
+While Officer Dossett was unable to identify appellant as the person, he did identify the person as the subject seated in the rear seat of the squad car who the testimony shows was the appellant.
+Appellant’s objection went to the weight of the officer’s testimony rather than to its admissibility.
+In refusing to strike the testimony, the court did not err.
+The judgment is affirmed.
+Opinion approved by the Court.
