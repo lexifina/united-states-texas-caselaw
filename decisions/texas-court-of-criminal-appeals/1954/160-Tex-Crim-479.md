@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,142"
+decided: "1954-11-10"
+citations: ["160 Tex. Crim. 479"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sammie Guy Jones v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0479-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2472849
+cites_cases: ["112 Texas Cr. Rep. 245", "115 S.W. 2d 634", "117 Texas Cr. Rep. 434", "118 Texas Cr. Rep. 500", "134 Texas Cr. Rep. 231", "14 S.W. 2d 853", "16 S.W. 2d 127", "37 S.W. 2d 747"]
+---
+
+# Jones v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for aggravated assault by an adult male upon a female; the punishment, three months in jail and a fine of $100.
+Myrtle Walker, who was married to Cullen Walker, uncle of appellant, and upon whom the assault was allegedly made, testified that appellant came to the room in which she and her husband were sleeping and assaulted her, knocked her down and stepped in her stomach. She was the only witness who testified to the assault having been made.
+Officers were called to the Walker home about 2 A.M. and a complaint was filed by the sheriff on the following day, which was March 24, 1953.
+It is appellant’s contention that Myrtle Walker was an accomplice witness and that her testimony is not corroborated; that the trial court erred in refusing to instruct the jury that she was an accomplice or, in the alternative, in not submitting to the jury the issue of her being an accomplice witness whose testimony must be corroborated.
+Under the provisions of Art. 718, C.C.P., a conviction cannot be had upon the testimony of an accomplice not corroborated. Therefore, if appellant be correct in his contention that the evidence shows or raises the issue that Myrtle Walker was an accomplice, the conviction cannot stand.
+The contention of the appellant is bottomed upon the following evidence:
+The present trial was held on April 16, 1954, at which trial Myrtle Walker testified that appellant assaulted her on March 23, 1953. On July 18, 1953, Myrtle Walker signed an affidavit in which she stated that appellant did not strike her on the occasion in question or at any other time, and that her husband had her to report falsely that appellant pushed her against a stove.
+On July 20, 1953, at a prior trial of the case, Myrtle Walker testified as a witness and denied that appellant made any character of assault upon her on the occasion in question. This trial resulted in a hung jury.
+The prior testimony and affidavit of the prosecuting witness were offered in evidence at the present trial by appellant.
+Myrtle Walker admitted that she made the affidavit and gave the testimony at the former trial, which she said were false. She gave as the reason for such false affidavit and testimony that she had been threatened by appellant that it would be too bad for her if she did not swear “just what we tell you,” which she interpreted as meaning that “they would kill me and get me out of the way so that you wouldn’t have the trial.” She said that she had since separated from her husband and had filed suit for divorce and was no longer afraid to testify truthfully.
+Appellant testified at the trial. He denied that he had threatened Myrtle Walker or had heard his mother or dad do so. He testified that he went to the room of the Walkers on March 23, 1953, and “had trouble” with Cullen Walker, but that he did not strike Myrtle.
+Article 77 P.C. defines an accessory as one who, knowing that an offense has been committed, conceals the offender or gives him any other aid in order that he may evade an arrest or trial or the execution of his sentence.
+A witness who is an accessory to the offense is an accomplice witness, and this is true though because of kinship such witness could not be prosecuted as an accessary under the provisions of Art. 78 P.C., Turner v. State, 117 Texas Cr. Rep. 434, 37 S.W. 2d 747.
+In McGoodwin v. State, 134 Texas Cr. Rep. 231, 115 S.W. 2d 634, and Littles v. State, 118 Texas Cr. Rep. 500, 14 S.W. 2d 853, we held that a witness who made a false statement for the purpose of aiding the defendant to evade arrest or trial was an accomplice.
+One is also an accomplice witness who makes a false statement for the purpose of aiding an offender to escape punishment or the execution of his sentence. Turner v. State, 117 Texas Cr. Rep. 434, 37 S.W. 2d 747.
+In Turner v. State, 112 Texas Cr. Rep. 245, 16 S.W. 2d 127, the state’s witness Esther Turner had previously made the statement that Mr. Turner was shot accidentally, which was contrary to her testimony at the trial. She testified that such previous statements were false and were made because of threats. The judgment of conviction at the first trial was reversed because of the court’s failure to submit to the jury the question of whether Esther Turner was an accomplice witness.
+A second conviction was reversed and it was held that under the evidence at the trial the court should have instructed the jury that Esther Turner was an accomplice witness (because of such prior false statement). Turner v. State. 117 Texas Cr. Rep. 434, 37 S.W. 2d 747.
+The distinction appears to have been drawn upon the difference in the evidence as to the presence of the defendant who was claimed to have threatened the witness at the time and place where the false statements were supposedly made, the issue of duress being in the first case because of such testimony as to threats and fear.
+Unless the witness Myrtle Walker acted under duress and threats in making the false affidavit and in giving the false testimony at the former trial, she was an accomplice witness. Whether she acted under fear or duress was, at most, a fact question which was for the jury.
+The failure to submit such issue to the jury requires that the conviction be reversed.
+The judgment is reversed and the cause is remanded.
