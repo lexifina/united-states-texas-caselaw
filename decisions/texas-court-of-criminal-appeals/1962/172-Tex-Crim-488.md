@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,800"
+decided: "1962-06-30"
+citations: ["172 Tex. Crim. 488"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ora Lee Collins v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0488-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2636575
+---
+
+# Collins v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is unlawfully carrying a pistol; the punishment, 180 days.
+The evidence from both the state witnesses and the appellant shows that the appellant went to the hospital where Hughie P. Williams was employed as an orderly and shot him with a pistol she carried there.
+According to the state’s witness, appellant had the pistol in her hand and said to Williams: “ ‘I’ll show you about fooling with me you S — of a B — ’, and shot him,”
+The appellant denied making such a statement. Her testimony was to the effect that she went to the hospital earlier to borrow appellant’s car; that he declined to let her have it and said he would be at her house to get his car key and his gun; that she told him that she would get the key and gun and put them in his car; and that she later returned with the pistol and key; found the car gone and shortly thereafter shot appellant, near where the car had been parked, in self-defense.
+The court in his charge, to which there were no objections, instructed the jury to acquit if they found or had reasonable doubt that appellant was in the process of returning the pistol to the owner by the most practical route from her home to the owner.
+The jury rejected the defense raised by appellant’s testimony and the evidence is sufficient to sustain their verdict.
+No brief has been filed in appellant’s behalf. We have examined the informal bills of exception reserved in the statement of facts and find no error which would warrant reversal. There are no formal bills.
+The judgment is affirmed.
