@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "13563"
+decided: "1930-10-08"
+citations: ["116 Tex. Crim. 552", "31 S.W.2d 653"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. D. Hagler v. The State."]
+source_url: "https://static.case.law/tex-crim/116/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5186488
+cites_cases: ["104 Tex. Cr. R. 661", "104 Tex. Crim. Rep. 661", "110 Tex. Cr. R. 116", "110 Tex. Cr. R. 285", "118 U. S. 425", "140 U. S. 118", "159 U. S. 596", "16 Pet. 71", "17 S. W. 1068", "173 U. S. 451", "173 U. S. 452", "176 S. W. 580", "176 S. W. 583", "2 Tex. App. 613", "201 S. W. 986", "255 S. W. 990", "275 S. W. 1029", "28 S.W.(2d) 550", "283 S. W. 522", "285 S. W. 617", "3 Tex. App. 598", "30 Tex. App. 499", "40 Tex. 486", "7 S.W.(2d) 578", "7 S.W.(2d) 958", "76 Tex. Cr. R. 555", "83 Tex. Cr. R. 137", "83 Tex. Crim. Rep. 137", "9 Tex. App. 474", "99 U. S. 20"]
+---
+
+# Hagler v. State
+
+## Majority (MARTIN, Judge.)
+
+On the question as to the qualifications of the special judge, appellant cited Art. 5, Sec. 7 Constitution of the State of Texas, Art. 1884, Vernon’s Rev. Civ. Statutes (1925), Art. 2927, Vernon’s Rev. Civ. Statutes (1925) Subsection 3 of Section 28 of Art. 199, Vernon’s Rev. Civ. Statutes (1925).
+On the right to change the venue, appellant cited Art. 562, Court of Crim. Proc., Carlisle v. State, 255 S. W. 990; Davis v. State, 275 S. W. 1029; McNeiley v. State, 283 S. W. 522.
+On the question of the necessity to show a specific intent to rape, appellant cited Robertson v. State, 30 Tex. App. 499, 17 S. W. 1068; Veal v. State, 9 Tex. App. 474; Pefferling v. State, 40 Tex. 486. Reporter.
+MARTIN, Judge.
+Offense, assault with intent to rape; penalty, ten years in the penitentiary.
+The prosecutrix was a ten year old girl at the time of the alleged commission of the offense. She testified that appellant took her to his room at the hotel and occurrences were testified to as having happened there which made out the offense charged. She was corroborated by other witnesses. Appellant did not testify, resting his case with proof of good character and with testimony of witnesses who contradicted the evidence of the State.
+Many legal propositions are stressed in the argument of appellant’s counsel, but practically all of these are without proper bills of exception to support them.
+It is urged that the Court erred in overruling .appellant’s application for a continuance, but no bill of exception to the Court’s action appears in the record. An order entered on the minutes of the District Court showing the notation of an exception is not sufficient. Branch’s P. C., Sec. 304; 4 Tex. Jur. Sec. 151.
+Arguments of State’s counsel were objected to. These are raised only by special charges requested, there being no bills of exception with certificate of the trial judge that the language set out in such charges was in fact used. This presents nothing for review. Branch’s P. C., Sec. 209; Ross v. State, 7 S. W. (2nd) 1079; Wall v. State, 7 S. W. (2nd) 958; Maxey v. State, 104 Tex. Crim. Rep. 661.
+Many bills of exception appear in the record without any background. None of the surrounding facts and circumstances are set out. The rule is stated in 4 Tex. Jur., Paragraph 216, as follows:
+“Enough of the surrounding facts and circumstances must be stated to enable the appellate court to determine the merits of the bill and the correctness of the ruling involved, and to show that the evidence was inadmissible and the ruling was erroneous and hurtful to the cause of the appellant, unless its objectionable character is self-evident. The bill should show the connection or setting in which the evidence came into the case where this is necessary in order to determine its admissibility or effect.”
+Again it has been stated in Paragraph 217 of the same authority:
+“In accordance with the general rule, a bill of exception complaining of the admission of evidence must be complete within itself. It must in and of itself disclose all that is necessary to manifest the supposed error, and the court must be able to determine from the bill itself, without reference to the statement of facts, or other parts of the record, whether the objection was well founded.”
+See also 4 Tex. Jur., Secs. 218, 219, 220, 222, for statement of the rules which control the disposition of practically all of appellant’s bills of exception.
+Complaint is made of the action of the Court in overruling appellant’s motion for change of venue. We regard the evidence presented in the record here as sufficient to make an issue of fact as to whether there existed so great a prejudice against appellant as prevented his obtaining a fair and impartial trial. The rule is stated that “unless it is clear that the trial court has abused or arbitrarily exercised his judicial discretion, his action in refusing a change of venue will be sustained on appeal.” Branch’s P. C., Sec, 299; Dupree v. State, 2 Tex. Crim. App. 613; Noland v. State, 3 Tex. Crim. App. 598; Barnett v. State, 176 S. W. 583.
+The appellant in various ways raises the question of the Court’s disqualification to try the instant case. It appears that in the absence of the regular judge the lawyers present elected Honorable Fred L. Wilson as special judge. It appears that Judge Wilson had only been in Willacy County for about five months, that his family resided in Ellis County and that he had not moved with his family to the 28th Judicial District where this trial was had, it being contended that he was a resident of another judicial district and therefore all of his acts with reference to this case were void. The law question presented in this contention is whether the acts of a special judge duly elected and qualified in the manner provided by statute are void where he is a resident of a judicial district in Texas other than the one for which he purports to act. We think the question might perhaps be disposed of by sustaining the validity of the acts of such a special judge upon the theory that neither the constitution nor the statute requires any residence within the judicial district prior to his election and qualification to office, as is the case with a regular judge. However, it is not necessary to so decide because it is clear to our mind that Judge Wilson while acting in the instant case was a de facto judge, if not a judge de jure. He was acting under color of authority and his acts are therefore not subject to the collateral attack here made upon them. We quote from an opinion by the United States Supreme Court:
+“In McDowell v. United States, 159 U. S. 596 (40:271), one of the circuit judges in the fourth district designated the judge of one of the district courts in North Carolina to hold a term in South Carolina, and his power to act was challenged by an accused on his trial and before sentence. The cause was carried to the court of appeals for that circuit, which certified questions to this court. We decided that whether existing statutes authorized the designation of the North Carolina district judge to act as district judge in South Carolina was immaterial, since he must be held to have been a judge de facto, if not de jure, and his actions as such so far as they affected other persons were not open to question. Cocke v. Halsey, 16 Pet. 71, 85, 86 (10:891, 896); Hussey v. Smith, 99 U. S. 20, 24 (25 :314, 315); Norton v. Shelby County, 118 U. S. 425, 445 (30:178, 187); Ball v. United States, 140 U. S. 118, 128, 129 (35 L. ed. 377, 381, 382).” Ex parte Ward, 43 L. ed. 765, 173 U. S. 451.
+The same proposition was laid down by Judge Morrow in the case of Lowe v. State, 83 Tex. Crim. Rep. 137. See also 22 R. C. L., Sec. 325, P. 603.
+Finding no error in the record, the judgment is affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
