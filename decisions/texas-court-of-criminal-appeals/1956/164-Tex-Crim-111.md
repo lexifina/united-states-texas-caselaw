@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,534"
+decided: "1956-11-07"
+citations: ["164 Tex. Crim. 111"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gene Donald Lundy v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2609069
+cites_cases: ["161 Texas Cr. Rep. 135", "275 S.W. 2d 108"]
+---
+
+# Lundy v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the sale of marijuana; the punishment, 10 years.
+The prosecuting witness stated that she went to a certain lounge in the city of Houston on the day in question and there purchased from the appellant a large envelope which contained a substance later identified by an expert witness as marijuana.
+The appellant did not testify or offer any evidence in his own behalf.
+The only serious question presented for review by this record is the failure of the court to instruct a verdict of not guilty on the grounds that the prosecuting witness was an accomplice witness and her testimony had not been corroborated.
+She testified, without objection, that she had on a prior occasion purchased marijuana from the appellant; that she was a secretary for the Narcotic Division of the Houston Police Department; that she occasionally did undercover work for the officers of that division; and that she went to the lounge on the date in question as the result of a prearrangement made by the officers with money furnished by them.
+In Silba v. State, 161 Texas Cr. Rep. 135, 275 S.W. 2d 108, we said:
+“A sound rule which we think has been accepted in most jurisdictions is this: If all the evidence shows that the witness is answerable to the law as a principal or an accomplice to the crime or an accessory to the accused or if he has been indicted as such, then he is an accomplice witness as a matter of law. If there is a conflict in the evidence, then the question should be submitted to the jury. But if there is not enough evidence to support a charge against the witness as either a principal, an accomplice or an accessory, then he is not an accomplice witness (except in those rare cases where he may not be prosecuted as an accessory because of his kinship to the accused).”
+We have concluded that the record before us does not meet the test set forth above. It is incumbent upon the accused to develop such facts as would show that the rule applies.
+We are not required to pass upon appellant’s contention that the prosecuting witness was guilty of violation of a Federal statute when she purchased untaxed narcotics or whether such violation would make her an accomplice witness because the record before us does not show that she was guilty of any offense.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment of the trial court is affirmed.
