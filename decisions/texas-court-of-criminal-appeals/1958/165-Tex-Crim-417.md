@@ -1,0 +1,47 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,426"
+decided: "1958-01-08"
+citations: ["165 Tex. Crim. 417"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. L. Dean v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0417-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611889
+cites_cases: ["1 S.W. 2d 619", "100 S.W. 387", "108 Texas Cr. Rep. 427", "119 Texas Cr. Rep. 96", "12 Texas 540", "160 Texas Cr. Rep. 88", "2 S.W. 814", "21 Texas 505", "265 S.W. 585", "267 S. W. 2d 150", "41 Texas Cr. Rep. 558", "43 Texas Cr. Rep. 70", "44 S.W. 2d 696", "48 Texas Cr. Rep. 591", "55 S.W. 831", "6 S.W. 138", "63 S.W. 328", "90 S.W. 641", "98 Texas Cr. Rep. 280"]
+---
+
+# Dean v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is felony theft; the punishment, two years.
+The indictment alleged the theft of 4187 gallons of liquid petroleum gas from W. W. Ford.
+The evidence shows that W. W. Ford was “Rice Plant Superintendent” for Phillips Petroleum Company, and as such was manager of their “Rice Plant, Borger Fractionator, and Pantex Plant;” that the dock or loading station near Phillips on the Borger-Phillips highway was a part of the Rice Plant, and was, under his supervision.
+Appellant was employed at said dock, his duties being to load liquid petroleum gas from the pipe line of Phillips Petroleum Company into tank trucks, the loading being accomplished by coupling a pipe and opening valves so as to deliver the proportion of butane and propane gas desired by the purchaser.
+In addition to the loader, a billing clerk was provided whose office was near the loading dock.
+Neither the loader nor the biller was authorized to make sales, their duties being confined to filling the trucks and preparing the bills of lading for those who had previously made arrangements with the sales department.
+Among these customers was Johnny’s Butane Gas Company at Kress, Texas, whose manager was Henry Snell.
+Appellant and Leo Rawlins, a billing clerk at the rack mentioned, went to Kress, Texas, and contacted Henry Snell. Appellant suggested to Snell that they could sell him liquid petroleum gas, for which he was paying some $200 a load, for $75 a load; that they could do this without the knowledge of Phillips Petroleum Company, making no record of it; that instead of remitting in the usual manner, Snell could remit to them at the rate of $75 a load.
+Appellant further stated that the loads hauled under the proposed agreement could be billed out on forms they had of which the company had no knowledge, and the driver provided with a copy, while the copies that would normally be retained for the company files would be destroyed.
+Mr. Snell did not commit himself but asked for time to think it over. He reported the matter to officials of Phillips Petroleum Company and plans were made to apprehend appellant and Leo Rawlins in the theft of liquid petroleum gas.
+A truck driven by J. L. Hedrick, an employee of Johnny’s Butane Gas Company, was dispatched for a load of gas, Hedrick carrying a note addressed to appellant from Snell instructing him to load the truck according to the terms of the deal they had discussed.
+The truck was loaded by appellant who exhibited the note to Rawlins. Rawlins filled in the blank bills of lading, delivered two copies to Hedrick and destroyed the remainder.
+The bills of lading were offered in evidence, as were carbon sheets used in making the copies thereof which were found in a waste basked in the billing clerk’s office.
+The bills of lading differed from the form generally used in that “Phillips Petroleum Company” was not printed thereon, and the serial number was not consecutive with those used in other deliveries on the same day by Rawlins.
+Company officials checked the tank truck before and after it was loaded and observed it from the highway during the time it was at the loading dock.
+Appellant points to the evidence showing that W. W. Ford, alleged to be the owner of the gas and in possession of it, had a supervisor and a district superintendent over him, and shift foremen under him, while Ford himself seldom visited the loading docks. He contends that under such chain of command there is a fatal variance between the allegation of ownership in the indictment and the evidence.
+It may well be that the state’s proof would support a finding that the district superintendent for Phillips Petroleum Company, or their supervisor or foreman was exercising the actual control, care and management of the liquid petroleum gas in their pipes. Even so, the evidence establishes that W. W. Ford, the Superintendent of the plant, including the loading rack, also exercised actual control, care and management of such liquid petroleum gas.
+The liquid petroleum gas alleged to have been stolen not being in the actual possession of either the district superintendent, supervisor, foreman or W. W. Ford, the plant superintendent, ownership could have been alleged in either.
+Where property is owned — either as general or special owners — in common or jointly by two or more persons, the ownership may be alleged to be in all or either of them. Art. 402 V.A.C.C.P.; Wicklund v. State, 119 Texas Cr. Rep. 96, 44 S.W. 2d 696, 699; Branch’s Ann. P.C., Sec. 2434, 2d Ed. Sec. 2621.
+It is contended that the evidence is insufficient to show a taking of the gas or that it came into the possession of appellant.
+In Doss v. State, 21 Texas 505, 2 S.W. 814, Doss proposed to sell a cow and calf to one Hardy. They went to an open place in the woods and found a cow and calf which Doss pointed out as the ones he wished to sell. Hardy paid the price agreed upon and drove the cow and calf home. Doss rode away and did not return.
+It was pointed out in the opinion that the cow, which did not in fact belong to Doss, did not move out of her tracks during the time Doss was present.
+The sale of the cow by Doss to Hardy, who was entirely innocent, was held to constitute a fraudulent taking, and Doss’ conviction for cattle theft was affirmed.
+The authority mentioned is deemed applicable and we find the evidence sufficient to sustain the conviction. Lane v. State, 41 Texas Cr. Rep. 558, 55 S.W. 831; Walls v. State, 43 Texas Cr. Rep. 70, 63 S.W. 328; Houston v. State, 98 Texas Cr. Rep. 280, 265 S.W. 585.
+See also Jarrott v. State, 108 Texas Cr. Rep. 427, 1 S.W. 2d 619; Sanchez v. State, 48 Texas Cr. Rep. 591, 90 S.W. 641; Connor v. State, 24 Texas App. 245, 6 S.W. 138; Alexander v. State, 12 Texas 540; King v. State, 100 S.W. 387; Heard v. State, 160 Texas Cr. Rep. 88, 267 S. W. 2d 150.
+The remaining claims of error have been considered and are overruled.
+The judgment is affirmed.
