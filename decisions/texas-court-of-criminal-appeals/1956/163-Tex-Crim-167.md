@@ -1,0 +1,52 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,076"
+decided: "1956-02-22"
+citations: ["163 Tex. Crim. 167"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morris Spriggs v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460647
+cites_cases: ["160 Tex. Cr. R. 188", "268 S.W. 2d 191"]
+---
+
+# Spriggs v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for murder, with punishment assessed at life in the penitentiary.
+A former appeal of this case will be found reported in 160 Tex. Cr. R. 188, 268 S.W. 2d 191.
+After the reversal of this case it was again called for trial in the district court of Milam County. After several jurors had been obtained, the trial court announced that he was contemplating changing the venue of the case to the district court of Falls County.
+Thereupon, the appellant registered his opposition to changing the venue and asked permission of the court to introduce testimony in support of that contention.
+Several attorneys and members of the Milam County Bar, including the county judge, testified to the effect that no situation existed that would prevent the state and the appellant getting a fair trial in Milam County, and that, in their opinion, a jury could be obtained for a trial in that county.
+The state offered no controverting evidence but relied, in the bill of exception presenting the matter, upon the certificate as found and set forth by the trial court in his order transferring the case to Falls County for trial.
+We quote from that order, the following:
+“In the first trial of this cause in this court, tension was very high, tempers short and brittle and feelings strong, with the then County Attorney trying the case in the press and on the political forum. The entire atmosphere in this county has seemed surcharged with tension and strong feeling, tending to make an unhealthy atmosphere for the conducting of a fair and impartial trial, alike for the State and the defense. Reference is here made to the appeals record in this case from the previous conviction, and to the trial record in 1953 and at this time beginning Monday, May 2nd, 1955, until this day, May 7th, 1955, with day and night sessions with 210 veniremen and tales-men in open court and over the telephone, all of which are factors leading to the conclusions expressed and the entry of this order.”
+Art. 560, C.C.P., authorizes a trial judge to change the venue of a felony case upon his own motion, and reads as follows:
+“On court’s own motion
+“Whenever in any case of felony the judge presiding shall be satisfied that a trial, alike fair and impartial to the accused and to the State, can not, from any cause, be had in the county in which the case is pending, he may, upon his own motion, order a change of venue to any county in his own, or in an adjoining district, stating in his order the grounds for such change of venue.”
+There is perhaps no provision of our laws which places in the hands of a trial judge more inherent power than does this statute, for he can exercise the authority there conferred when he is “satisfied * * * from any cause” that a trial fair to the accused and to the state cannot be had in the county where the case is pending.
+Of course, the trial court’s action is subject to review to determine if he has abused his discretion. But where the trial court has the right to satisfy himself “from any cause,” it is difficult to envisage a state of facts by which this court would be warranted in finding that an abuse of discretion has occurred.
+Art. 560, C.C.P., has been a part of the statute law of this state since 1876, and, in so far as we are advised or have been able to ascertain, this court has never found that a trial court abused his discretion thereunder.
+This court cannot say that the facts, circumstances, and conditions certified and set forth in the trial court’s order changing the venue were not sufficient to satisfy him that he should make the order — and this, notwithstanding the strong showing by the appellant that a fair trial could be had in the county where the prosecution was begun.
+We are unable to conclude, therefore, that the trial court erred in changing the venue of the case.
+Upon his motion for new trial, appellant contended that one of the state’s witnesses was not sworn.
+After the verdict has been given, it is too late to complain, for the first time, that a witness was not sworn. Branch’s P.C., Sec. 349, p. 199.
+A statement of the facts upon which this conviction rests is not deemed called for, further than to say that the state’s testimony shows an unprovoked and unjustified killing.
+The appellant did not testify, nor did he offer any affirmative defense.
+Appellant’s exceptions and objections to the court’s charge have been examined and are overruled without discussion. As to most of these exceptions — especially those complaining of the failure to charge on self-defense and threats — the facts did not call for a charge upon the subject.
+No reversible error appearing, the judgment is affirmed.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON appellant’s motion for rehearing
+WOODLEY, Judge.
+Appellant questions the disposition of his contention that one of the witnesses against him was not sworn. He directs our attention to his motion for mistrial raising the matter, which recites that it was presented before the charge was read to the jury.
+This motion appears in the transcript, but there also appears a controverting affidavit of the county attorney wherein it is alleged that the motion was not filed until after verdict, and that the allegations of the motion for mistrial were not true.
+There is nothing in the record to show that the motion for mistrial was brought to the attention of the trial court and ruled on, though the overruling of the motion for mistrial was complained of in appellant’s motion for new trial. This does not establish that it was in fact presented and overruled.
+In any event, the record shows only that an issue was raised as to whether the witness was sworn, and we must assume that this issue was resolved favorably to the state.
+Appellant’s motion for rehearing is overruled.
