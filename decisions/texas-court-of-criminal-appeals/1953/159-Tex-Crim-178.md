@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,624"
+decided: "1953-11-18"
+citations: ["159 Tex. Crim. 178"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Leonard Hernandez v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477978
+---
+
+# Hernandez v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is the sale of marijuana; the punishment, ten years.
+Officer Brannon testified that on the day in question, while dressed in plain clothes, he went to a shoe shine stand and inquired of the appellant if one Avola had been there and that appellant replied that Avola would be there in a short while. The witness stated that he took a seat; that the appellant shined his shoes; that he asked the appellant if he handled any “stuff” and that appellant replied that he had none but did have some “weed.” The officer stated that he told the appellant he would take three cigarettes if appellant would sell them for fifty cents each and that appellant handed him three marijuana cigarettes. The witness explained that in the vernacular of the underworld “stuff” meant heroin and other forms of dope and (that “weed” meant marijuana.
+The state proved the proper chain of custody, and chemist Beardsley, of the Texas Department of Public Safety, identified the cigarettes as being marijuana.
+The appellant did not testify and did not offer any witnesses in his behalf.
+Appellant’s brief asks for a reversal of this cause because of certain argument which he alleges was made by the prosecuting attorney. The record contains no bills of exception setting forth such argument. This court is without authority to consider any argument which is alleged to have been made without a bill of exception certifying that such argument was in fact made.
+Finding no reversible error, the judgment of the trial court is affirmed.
