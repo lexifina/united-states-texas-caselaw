@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,797"
+decided: "1961-12-13"
+citations: ["171 Tex. Crim. 515"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Artie Ancil Bratton v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2631637
+---
+
+# Bratton v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is driving a motor vehicle upon a public highway while intoxicated; the punishment, 30 days in jail and a fine of $150.
+There are no bills of exception and no objections to the charge.
+Officers Douglas L. Jackson and C. A. Knowles testified that shortly after midnight appellant ran a red light at an intersection where they were stopped, and almost hit the squad car; that they overtook appellant; that he had a very slurred speech and was very unsteady on his feet; his eyes were watery and bloodshot; there was a strong odor of alcohol on his breath and he said he had been drinking. The officers expressed the opinion that appellant was “very intoxicated.”
+Sergeant Holcomb was contacted and an intoximeter test numbered 443 was taken with appellant’s consent.
+Dr. Mason, Director of the Dallas City-County Criminal Investigation Laboratory, testified without objection that an analysis run at the Laboratory revealed that intoximeter test No. 443, identified also by information on the slip sealing it with the name of appellant and of Officers Holcomb, Jackson and Knowles, showed .208 percent alcohol concentration in the blood. He further testified that any individual having a concentration of alcohol in excess of .15 percent would be intoxicated, and that this had been lowered to .10 percent by more recent study and tests.
+Appellant testified that he consumed five twelve ounce bottles of beer between 8:30 and 11:30 P.M. prior to his arrest, but denied that he was intoxicated. His companion during those hours corroborated him.
+The jury resolved the issue against appellant and the evidence is sufficient to sustain their findings.
+By brief and oral argument appellant contends that there was fundamental error in regard to the proof regarding the intoximeter test. In the absence of objection to the admission of such evidence, there is nothing before us in this regard.
+The judgment is affirmed.
