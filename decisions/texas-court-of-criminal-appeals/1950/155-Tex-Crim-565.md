@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26037"
+decided: "1950-12-13"
+citations: ["155 Tex. Crim. 565"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ross Stephens v. State."]
+source_url: "https://static.case.law/tex-crim/155/cases/0565-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2581828
+cites_cases: ["141 Tex. Cr. R. 404", "148 S.W. 2d 1109"]
+---
+
+# Stephens v. State
+
+## Majority (WOODLEY, Judge. BEAUCHAMP, Judge.)
+
+WOODLEY, Judge.
+The conviction is for burglary, the punishment assessed by the jury being two years in the penitentiary.
+The transcript shows that the case was tried at a special term of the district court of Fisher County which began on April 28, 1950, but the date of the adjournment of such term is not shown.
+The appeal must therefore be dismissed. See Thomas v. State, 141 Tex. Cr. R. 404, 148 S.W. 2d 1109; and many cases cited in Texas Digest under key Criminal Law 1104(2).
+The appeal is dismissed.
+Opinion approved by the court.
+ON APPELLANT’S motion to re-instate appeal.
+BEAUCHAMP, Judge.
+The appellant was convicted of burglary and given a sentence of two years.
+When the case was submitted originally the record was not complete and it was dismissed. The district clerk has furnished a supplemental transcript completing the record, and the appeal is now re-instated and will be considered on its merits.
+The state relied on the evidence of Jimmy Harrison who detailed the story of the commission of the burglary and involved appellant, together with himself and four others, as having entered the school building from which they took a safe containing approximately $400.00 in money and valuables, carried it away, broke it open and took the contents.
+Appellant relies for a reversal on his contention that the evidence of this accomplice, who had turned state’s evidence, plead guilty and received a suspended sentence, was not corroborated. The witness testified that the six boys got together in the afternoon, in a car belonging to appellant’s father; that they drove from one town to another in that area, remaining together until after midnight. This was on February 2nd, 1950. The next morning the discovery of the burglary brought the officers to the scene and several were engaged in making an investigation. It appears from the evidence that they soon turned their attention toward this appellant. They made a plaster of Paris form of the tire tracks found and testified that it was a Firestone tire which made the imprint on the ground where the safe was loaded into the car. They then examined appellant’s car and the evidence of the state witnesses is much in conflict as to the kind of tires on it. The state called appellant’s father as its witness and his evidence as to the tires then on the car was in conflict with that of the officers.
+The only effort made to corroborate the testimony of the prosecuting witness is on an immaterial matter and, in our opinion, failed to do so even in that. He testified that in the afternoon appellant had a violin in the car which he took to a certain restaurant, stating that he was going to sell it, and that he returned to his car without it. The state called the owner of this restaurant, who knew appellant, and from him learned that at some indefinite time appellant had brought a violin to his place and borrowed $12.00, leaving the violin as security, and that it was afterwards redeemed. No dates are shown for this, even if it were a matter material to the state’s case. The conflicting evidence as to the tires and the incident of the violin constitute all of the evidence with which the state attempts to corroborate the prosecuting witness.
+The state would make no contention that a conviction may be had upon the evidence of this witness unless it is corroborated. We find nothing in the record which has such probative force as to sustain the contention that it is corroborated.
+The judgment of the trial court is reversed and the cause is remanded.
