@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+decided: "1892-06-22"
+citations: ["31 Tex. Crim. 91"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ed Massey v. The State."]
+source_url: "https://static.case.law/tex-crim/31/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 156112
+---
+
+# Massey v. State
+
+## Majority (SIMKINS, Judge.)
+
+SIMKINS, Judge.
+Defendant was indicted, and convicted of the theft of a steer, and sentenced to two years in the penitentiary, from which he appeals to this court. There were several special charges asked and refused, and sixteen bills of exception taken, but it is only necessary to discuss two grounds of error.
+1. The only proof of ownership in the case is the brand of the animal. The brand upon the animal was “ three half moons,” one on the left jaw, one on the left side, and one on the left hip. The brand, as recorded and introduced, was as follows: “Cardwell, J. M.; P. O., Dripping Springs, Hays County; brand on left jaw and left shoulder or thigh.” The question is, can such brand be admissible in evidence as proof of ownership ? Article 783 of the Penal Code requires that a brand, to be legal, must designate the part of the animal upon which it is to be placed (Harwell v. The State, 22 Texas Court of Appeals, 254), and this court has held, that where the part is designated, it does not impair its admissibility that the record is silent as to which side of the animal the brand is to be placed (Thompson’s case, 25 Texas Court of Appeals, 167), nor where the record expressly says it shall be placed “ on the left or right side.” Hayes’ case, 30 Texas Ct. App., 404. But when the recorded brand is uncertain as to what part of the animal the brand is to be placed, the brand is not in compliance with the law, and is inadmissible for any purpose. If we sustain a brand on the jaw and on the hip or side, we should be compelled to sustain a brand calling for one place, and wherever else about the animal the owner desired to put it, and thus destroy the force of the statute.
+Again, where the recorded brand is definite and legal, but the brand on the animal is on a different part from that designated in the record, this court says the variance does not destroy the admissibility of the recorded brand as evidence of ownership. It merely destroys the probative force, and in such a case the record alone, unsupported by other evidence, is not sufficient proof of ownership. Priesmuth’s case, 1 Texas Ct. App., 481; Harwell’s case, 22 Texas Ct. App., 255. In the case at bar there is no way of determining the question of variance, as the record itself is indefinite and uncertain and incapable of explanation.
+2. The animal that was stolen was alleged in the indictment to be in the possession of Will Roach, but to be the property of J. M. Cardwell. The evidence shows that, in 1882, J. M. Cardwell drove a portion of his stock of cattle to Hays County from near Lockhart, Caldwell County, and placed them in the control and custody of Will Roach, whom he paid to take care of them, and brand his calves; that in 1888 he went to fhjys County, and gathered all he could find, and droAe them to Caldwell, and terminated the agency of Will Roach. As stated by the State’s witness, Will Roach: 1 ‘ The contract by' which he held his cattle was revoked at that time, and from that time I had nothing to do with Cardwell’s cattle, except, if I came across any scattering cattle of his, to put them in a pasture where he could get them.” The steer claimed to be Cardwell’s property appeared in 1888, whether before or after the driving back to Caldwell County, is not shown by the record, and ranged about J. I-Iill’s place, in Hays County, until August 1, 1889, when it was killed by defendant. Hill’s place lies nineteen miles north of Will Roach’s place, and about thirty miles northwest from Cardwell’s place. At the time the animal was killed Roach’s agency had been revoked about a year, and it was not pretended that he knew of or had any charge of or connection with this animal. The indictment having alleged the possesion to be in Roach, the State was bound to prove it, but failed. The court correctly charged the jury that to warrant a conviction it must appear from the evidence that the animal was the property of J. H. Cardwell, and that defendant took it fraudulently from the possession of Will Roach. The verdict of the jury was unsupported by the evidence. Clark’s case, 29 Texas Ct. App., 437; Frazier’s case, 18 Texas Ct. App., 440; Littleton’s case, 20 Texas Ct. App., 171; Bailey’s case, 18 Texas Ct. App., 430. For the errors indicated, the judgment is reversed and the cause remanded.
+Reversed and remanded.
+Judges all present and concurring.
