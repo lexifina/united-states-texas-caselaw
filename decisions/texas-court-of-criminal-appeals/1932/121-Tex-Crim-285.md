@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "15206"
+decided: "1932-05-11"
+citations: ["121 Tex. Crim. 285", "50 S.W.2d 298"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cal P. Bryan v. The State."]
+source_url: "https://static.case.law/tex-crim/121/cases/0285-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5207823
+cites_cases: ["116 Tex. Cr. R. 578", "116 Texas Crim. Rep., 578", "120 Texas Crim. Rep., 288", "32 S. W. (2d) 841", "32 S.W.(2d) 841", "45 Tex. Cr. R. 386", "45 Texas Crim. Rep., 386", "49 S. W. (2d) 772", "49 S.W. (2d) 772", "77 S. W. 611", "77 S. W., 611"]
+---
+
+# Bryan v. State
+
+## Majority (CHRISTIAN, Judge.)
+
+CHRISTIAN, Judge.
+The offense is murder; the punishment, confinement in the penitentiary for three years.
+Appellant, who is a white man, had gone to a negro dance. Deceased, Topsie Draper, who is a negro, was present at the dance. State’s witnesses testified that appellant had brought some whisky to the dance. Appellant • denied this. A negro man by the name of Charlie Cole worked in appellant’s home. According to a state’s witness, appellant was drinking whisky. Early in the morning while they were still at' the dance, appellant and Charlie Cole had a difficulty. They- were separated by some negroes, and it appears that appellant left his knife at the place. Appellant and Charlie Cole then got in appellant’s car and drove to appellant’s home. There appellant shot Charlie Cole, not seriously injuring him. Cole ran away. Appellant testified that he shot Cole in self-defense. After shooting Cole, appellant got in his automobile, and, taking his pistol with him, went back to the negro cabin where the dance had been held. He walked up to a water tank in front of the cabin, where deceased and one Bennie Williams were sitting. Asking about his knife deceased told appellant that he did not get his knife. Words followed, appellant claiming that deceased was impudent, and that he (appellant) slapped him. According to witnesses for the state, deceased jumped off of the water tank and ran around the negro shack and out in the field. Appellant followed him, and, as deceased ran across the field, appellant pulled his pistol and fired three shots at deceased. One of the shots took effect in deceased’s back, and he fell to the ground mortally wounded.
+Testifying in his own behalf, appellant denied that he shot at deceased. He said he did not know who killed deceased. It appears that the pistol used by appellant was a .45 calibre. A doctor testified that the wound looked like it was inflicted with a .38 calibre pistol. He said, however, that he would not swear that it was not a .45 calibre.
+We deem the evidence sufficient to support the conviction.
+A motion for continuance because of the absence of Wallace Humphreys and Lorena Thomas was overruled. It appears from the application for continuance that these witnesses had been duly served with process. The state filed a contest to the application and attached thereto the sworn testimony given by these witnesses before the grand jury. In his application, appellant alleged that the witnesses would testify, if present, that he (appellant) did not kill deceased, and that they knew the person who did kill him. The sworn testimony of the absent witness Humphreys before the grand jury was to the effect that he did not see the shooting, and did not hear any of the shots, but was three quarters of a mile away at the time the fatal shot was fired. The witness Lorena Thomas testified before the grand jury, as shown by her statement, that she was asleep and did not see any of the trouble. Appellant did not attach the affidavits of the absent witnesses to the motion for a new trial. The court was warranted in overruling the application. It was made evident by the statement of the witnesses before the grand jury that they would not give the testimony set out in the application for a continuance. Knox v. State, 116 Texas Crim. Rep., 578, 32 S. W. (2d) 841, and authorities cited.
+Appellant brings forward a bill of exception in which he complains of the action of the court in permitting the state to prove the statement made by the witness Bennie Williams when before the grand jury. It appeared that Bennie Williams was one of the eyewitnesses to the killing and gave testimony material to the state’s case. Appellant introduced some witnesses who testified that Bennie Williams had stated to them after the homicide, in substance, that he was not present and did not know who killed deceased. It is thus seen that appellant attempted to impeach the witness Williams by showing that he had made statements out of court with reference to the shooting different from and contradictory to his testimony delivered on the trial. Hence it was not error to permit the state to support the witness by showing that shortly after the transaction, and before any motive or inducement existed to fabricate, he made statements in the matter similar to his testimony delivered on the trial. Branch’s Annotated Penal Code, sec. 181; Kipper v. State, 45 Texas Crim. Rep., 386, 77 S. W., 611; Williams v. State, 120 Texas Crim. Rep., 288, 49 S. W. (2d) 772, delivered March 23, 1932. The statement Bennie Williams made to the grand jury as proven by the district attorney was substantially the same as that given by Williams on the trial of the case.
+The court failed to limit the effect of the statement of Williams in his charge to the jury. Appellant did not object to the court’s charge because of such omission, nor did he present a requested instruction on the subject. Hence he is in no position to complain. Article 666, C. C. P., requires that all objections to the charge and to the refusal or modification of special charges shall be made at the time of the trial.
+The judgment is affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
