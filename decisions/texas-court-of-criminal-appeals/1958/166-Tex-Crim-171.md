@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,660"
+decided: "1958-03-26"
+citations: ["166 Tex. Crim. 171"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Paul Thorneberry v. State"]
+source_url: "https://static.case.law/tex-crim/166/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2615098
+cites_cases: ["140 Texas Cr. Rep. 493", "145 S.W. (2d) 580", "268 S.W. 168", "49 Texas Cr. Rep. 131", "91 S.W. 571"]
+---
+
+# Thorneberry v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for swindling; the punishment, two years in the penitentiary.
+The indictment alleges that the appellant induced Luther Tipton to deliver to him a check in the amount of $75 which he cashed and received $75 in money by falsely representing to Tipton that the bowl of chili he ordered in Tipton’s cafe when served contained a mouse, when in truth and in fact he knew there was no mouse in the bowl of chili at the time it was served.
+Appellant in his brief challenges the sufficiency of the indictment. No motion was made to quash at the trial. An examination of the indictment reveals no fundamental defect.
+The testimony of the state shows that the appellant about noon entered the cafe operated by Luther Tipton, seated himself alone at a table, ordered a cup of coffee and a bowl of chili which was served. Shortly thereafter he called the waitress to his table and lifted something that “looked like a mouse and it was covered with chili” with his spoon and said, “Look here.” The waitress said, “Give it to me and I will take it back and show it to Mr. Tipton.” He replied, “No. You call your manager out here.” When Mr. Tipton approached the table, appellant lifted a dead mouse with his spoon and said, “Is that what you serve for chili?” Mr. Tipton replied, “No,” and reached for the chili bowl, and appellant said, No. I am keeping this,” and further said, “Why, you can even smell it. It has an awful odor.” Appellant then said, “Well, we can work this out between ourselves or we can go to the authorities.” Later he said, “* * * for a hundred dollars, why, he would just forget it.” After Tipton told him he didn’t have $100 appellant stated that he would settle for $75. Tipton then gave appellant a check for $75 which he stated he would not have delivered except for the statements of the appellant, and that he called the bank about fifteen minutes afterwards to stop payment on the check but it had been cashed.
+The testimony of the cook who prepared the chili and the waitress who served it shows that the mouse was not in the bowl of chili when it was served.
+It was stipulated by the state and the appellant and his attorney that the check in question was cashed by the appellant on the date it was given.
+The state introduced in evidence a letter addressed to and received by the sheriff of Moore County, and signed “Paul Thorneberry.” Proof was offered that the letter was written and signed by the appellant. The letter reads in part as follows: “Sheriff Easley, I sure do wish I could pay Mr. Tipton $75.00 back and be a friend to him instead of being a prison inmate.” * * * “I do wish you could straighten this mistake out for me with Mr. Tipton. I will gladly send Mr. Tipton $75.00 to make him happy, if you could only call me on the phone and say so.”
+Appellant did not testify or call any witnesses to testify in his behalf.
+The evidence is sufficient to support the conviction. 39 Texas Juris., 1959, Sec. 9; Price v. State, 49 Texas Cr. Rep. 131, 91 S.W. 571; West v. State, 140 Texas Cr. Rep. 493, 145 S.W. (2d) 580.
+Appellant contends that the trial court erred in admitting in evidence the letter from one Paul Thorneberry to Sheriff Easley over his objections that the witness Elliott, who had testified concerning the identity of the writer of the letter, was not shown to be a competent handwriting expert. The witness Elliott, after comparing the handwriting on certain instruments which were shown to be in appellant’s handwriting, with the handwriting in said letter expressed the opinion that they were written by the same person.
+Appellant did not deny under oath that he wrote the letter in question.
+The witness Elliott, president of a bank, testified that he had worked in banks for twenty-seven years, serving as bookkeeper, teller, cashier, and also' had had experience in handling notes, and had experience in examining written instruments and signatures on them over that period of time. The witness was qualified to express his opinion from his comparison of the handwriting. Therefore, no error is shown in admitting the letter in evidence. 3 Branch 2d Ed. 735, Sec. 1590; Art. 731, Vernon’s A.C.C.P., Note 2; Bell v. State, Texas Cr. Rep. 61, 268 S.W. 168.
+Appellant further complains of the admission in evidence of the letter on the grounds that it was immaterial, irrelevant and did not show that the appellant committed the offense alleged.
+Appellant did not testify. The letter shows that the appellant knew a person named Tipton and had received $75 from him which he would return if the sheriff would telephone him to do so. The contents of the letter reasonably appear to relate to the alleged injured party and the transaction relied on by the state in this case. Therefore, it was admissible in evidence. 1 Branch 2d Ed., 146, Sec. 141.
+Finding no reversible error, the judgment is affirmed.
+Opinion approved by the Court.
