@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,592"
+decided: "1962-05-09"
+citations: ["172 Tex. Crim. 289"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richard Duran v. State."]
+source_url: "https://static.case.law/tex-crim/172/cases/0289-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2635375
+cites_cases: ["140 Texas Cr. Rep. 77", "143 S.W. 2d 946", "156 Texas Cr. Rep. 617", "245 S.W. 2d 251"]
+---
+
+# Duran v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+The offense is unlawfully carrying a pistol; the punishment, 180 days in jail.
+The evidence is undisputed that appellant had a pistol when a difficulty arose and one Lupe Sanchez was shot and killed after appellant was stabbed with an ice pick and otherwise assaulted by Sanchez and six or seven of his companions.
+Appellant was not acquainted with any of the boys. It was his testimony that, as he was walking from the bus to his mother-in-law’s home, the boy threatened to beat him up and drew a knife and said: “I’m going to cut you up,” and he ran; that when he left to go to his home he took with him his brother-in-law’s .22 caliber pistol, and when he got to the bus stop the seven or eight boys were there and he was assaulted and stabbed in the back; that he fired the pistol “up” and started running; that one of the boys grabbed him and pulled him down, and as he turned around that boy was right at him with a straight edge razor and he shot.
+The state’s witness who identified the pistol introduced in evidence testified that he found it the next morning some 7 feet from where the body of Lupe Sanchez was when the officers made their investigation. He testified that Lupe Sanchez, who was his step-brother, had attacked appellant and that Sanchez and his companions were pursuing appellant as he was running away, “running and shooting”; that after Lupe got shot the appellant' “didn’t do nothing. We were all on top of him * * * Duran and my brother was right on the bottom. I didn’t know he was shot, * * * everybody got up and they started running. Richard Duran (Appellant) ran too and I ran after him, and I saw my brother lying there so I turned back.”
+The testimony shows that appellant was “no billed” as to the charge of murder, but was indicted for carrying a pistol. He testified that he had never been convicted of a felony or for a misdemeanor involving moral turpitude, and there is no evidence in the record suggesting any misconduct or violation of law by appellant other than the carrying of a pistol, unless it be the testimony as to the killing óf Lupe Sanchez.
+Much of the state’s evidence related to the investigation of “a murder case”.
+Bill of Exception No. 1 certifies that in his closing argument the district attorney told the jury that it was their duty to convict “this punk”. The trial court sustained the objection but overruled appellant’s motion for mistrial.
+The complained of argument was manifestly improper. Whether the court’s instruction removed its harmful effect is the controlling question.
+In Spradlin v. State, 156 Texas Cr. Rep. 617, 245 S.W. 2d 251, the defendants charged with robbery were referred to as punks in the argument of counsel for the state. We found no reversible error, but pointed out that the bill of exception was deficient, there being no showing that a mistrial was sought, and that the minimum punishment was assessed. The bill of exception before us has no such deficiency and the jail term assessed was six times the minimum.
+Argument which may be harmless in some cases would become extremely inflammatory in others. McGrew v. State, 140 Texas Cr. Rep. 77, 143 S.W. 2d 946.
+The charge against appellant was that he carried a pistol. His testimony that he had never been convicted of a felony or of a misdemeanor involving moral turpitude was not challenged. He was not charged with murder, yet the killing was proved in detail and there were .no instructions in the court’s charge from which the jury could know of appellant’s right of self defense and to arm himself for that purpose.
+We conclude that under the record the argument was of such prejudicial nature that the court’s instruction to disregard it did not remove its harmful effect.
+The judgment is reversed and the cause remanded.
