@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2570"
+decided: "1913-10-15"
+citations: ["71 Tex. Crim. 414"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["F. H. Day v. The State."]
+source_url: "https://static.case.law/tex-crim/71/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2382802
+---
+
+# Day v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+Appellant was prosecuted and convicted of embezzlement of a sum in excess of $50, and his punishment assessed at two years confinement in the State penitentiary.
+Many grounds are relied on to secure a reversal of this case, and we have carefully considered each of them, but only one of the grounds presents error. That appellant embezzled the money of the Chamber of Commerce of Wichita Falls is proven beyond doubt,—in fact is admitted by him in his testimony, yet he testified he appropriated at no one time as much as $50. He testified: “I have never denied I used the money of the Chamber of Commerce; I admitted it to the Chamber of Commerce, but, in sums never in excess of $50 at any one time.” On cross-examination this question was gone into extensively, and appellant reiterated time and again that he at no one time appropriated as much as $50.
+Of course, the State’s testimony would support a finding that he did appropriate more than $50 at one time, but this testimony raised the issue. The court may have and doubtless did give but little credence to his testimony, and if the issue had been submitted to the jury, they also might have found it not true. But under the laws of this State appellant was entitled to have that issue submitted to the jury. Appellant requested the court to give the following special charge:
+“You are charged in this connection that if you believe from the evidence that the defendant was an officer of the Chamber of Commerce of Wichita Falls, Texas, and as such officer there came into his possession, and under his control, certain money belonging to said Chamber of Commerce, and if you. further believe from the- evidence beyond a reasonable (doubt) that the defendant did fraudulently misapply said money to his own use and benefit, and without the consent of the officers and board of directors of the Chamber of Commerce and with the fraudulent intent to deprive the Chamber of Commerce of the nse and benefit thereof, and if you further believe from the evidence that the defendant did not misapply at any one time an amount of money exceeding, or less than $50, then you will find the defendant guilty of a misdemeanor and assess his punishment by imprisonment in the county jail not to exceed two years, and by fine not exceeding $500, or by such imprisonment without the fine.”
+This charge should have been given. • The judgment is reversed and the cause remanded.
+Reversed and remanded.
