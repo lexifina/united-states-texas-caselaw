@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "817"
+decided: "1910-11-23"
+citations: ["60 Tex. Crim. 362"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Columbus Johnson v. The State."]
+source_url: "https://static.case.law/tex-crim/60/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4586547
+---
+
+# Johnson v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of manslaughter, his punishment being assessed at two years confinement in the penitentiary.
+The only question presented for our consideration is the alleged insufficiency of the evidence to support the conviction. We deem it hardly necessary to review the facts ‘in the case. There was evidence introduced which would have justified the jury in finding appellant guilty of murder. There was evidence also which justified that body in finding the verdict for manslaughter. There was also testimony which would have authorized an acquittal. The homicide occurred at a gathering of some negroes during the Christmas holidays at night. It was a sort of jollification at an icecream parlor, and on the adjacent grounds firecrackers and Roman candles were in evidence. The Roman candles were fired some by appellant. The deceased told the appellant not to fire the Roman candles at him. This led to some words, and some of the witnesses imputed to the deceased rather rough language towards anyone who would shoot Roman candles at him. Appellant informed him that he was not shooting at him, but was shooting at another party in the crowd. Deceased went in the house, and while in there was informed that appellant said that he had made him run. He came out of the room and asked appellant about it, who denied it, stating that he made the remark about another party who ivas present. Several witnesses testify that appellant immediately struck the deceased in the breast, and nearly all of the testimony in this respect indicates that he by that blow stabbed him in the breast with a knife. That appellant immediately ran but fell, and deceased jumped on him or reached down and began cutting him with a knife. That appellant got up and got on top of deceased. There was some divergence in the testimony as to whether he cut him after he got him down. Appellant was finally pulled off of deceased. Deceased lived a short time and died. Appellant denied striking him in the breast with a knife while standing up. He states that deceased got him down and was cutting him, and that he cut back in self-defense while upon the ground. There are many details of the facts deemed unnecessary to be stated. There is no complaint of the charge either here or in the court below. The only issue suggested on motion for new trial in the trial court, and the only one suggested here, is the sufficiency of the evidence to support the finding of the jury. We think there is evidence to justify the jury in reaching the conclusion they did reach.
+The judgment is affirmed.
+Affirmed.
