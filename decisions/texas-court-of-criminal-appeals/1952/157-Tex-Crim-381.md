@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,838"
+decided: "1952-06-04"
+citations: ["157 Tex. Crim. 381"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Luis Garza v. State."]
+source_url: "https://static.case.law/tex-crim/157/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2571259
+cites_cases: ["141 Tex. Cr. R. 602", "150 S. W. 2d 1039", "156 Tex. Cr. R. 32", "238 S. W. 2d 787"]
+---
+
+# Garza v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for murder without malice; the punishment, five years in the penitentiary.
+This prosecution arose in Duval County. The venue for trial was transferred to Jim Wells County.
+The record affirmatively reflects that the case was tried by and before a special judge because the regular judge was disqualified.
+The special judge subscribed to the so-called old oath of office —that is, the oath of office prescribed by the Constitution of this State prior to the adoption of the amendment to Art. 16, Sec. 1, of the Constitution of this State in 1938. The special judge did not subscribe the oath presently prescribed by our Constitution.
+It is insisted that the trial, as well as the acts done and performed by the special judge, was null and void, because of his failure to subscribe the oath of office prescribed by our Constitution.
+The case of Enloe v. State, 141 Tex. Cr. R. 602, 150 S. W. 2d 1039, is directly in point, and sustains appellant’s contention. We had occasion to there point out the difference between the so-called old and new oath of office. It would serve no useful purpose to here re-state the oath. The Enloe case has been followed in Brown v. State, 156 Tex. Cr. R. 32, 238 S. W. 2d 787.
+It follows that the judgment is reversed and the cause remanded.
+Opinion approved by the court.
