@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,317"
+decided: "1962-01-10"
+citations: ["171 Tex. Crim. 616"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Austin Muckelroy"]
+source_url: "https://static.case.law/tex-crim/171/cases/0616-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2632296
+cites_cases: ["334 S.W. 2d 793"]
+---
+
+# Ex parte Muckelroy
+
+## Majority (WOODLEY, Presiding Judge.)
+
+WOODLEY, Presiding Judge.
+This is a habeas corpus proceeding attacking the validity of a 5 to 25 year sentence for rape now being served by the petitioner. The application for habeas corpus was granted by Hon. Max Boyer, Judge of the 84th Judicial District, and made returnable before this Court under the provisions of Art. 119 V.A.C.C.P.
+The contention is that the conviction is void because the petitioner was not admonished of the consequences of his plea of guilty. Reliance is had upon the absence of any showing in the statement of facts upon the trial that the petitioner was admonished or advised by the court as to the punishment which the law provides may be assessed by the jury on a trial for the offense of rape.
+The recent case of Henage v. State, No. 33,658, is controlling. There we said “There is no certification that all the court said in admonishing the defendant appears in the statement of facts herein.”
+In the case before us, in addition to the statement of facts, we have the arraignment of the defendant entered of record, which contains the statement that the defendant answered that he was guilty and “was admonished by the court of the consequences of said plea”; the charge to the jury which stated that the defendant pleaded guilty “and has persisted in entering such plea, notwithstanding the court, as required by law, admonished him of the consequences of such plea”; and the judgment which recites that the defendant pleaded guilty and “thereupon the said defendant was admonished by the court of the consequences of said plea.”
+The relief prayed for is denied.
+
+## Dissent (MORRISON, Judge)
+
+MORRISON, Judge
+(dissenting)
+While I concurred in the disposition of Henage v. State, supra, I did so on the grounds that the admonition as to possible punishment was sufficient. I did not agree to the overruling of Braggs v. State, 169 Tex. Cr. Rep. 405, 334 S.W. 2d 793, and do not now so agree. Braggs is authority for the granting of this writ.
