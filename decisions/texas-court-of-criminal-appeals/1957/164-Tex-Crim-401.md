@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,881"
+decided: "1957-03-13"
+citations: ["164 Tex. Crim. 401"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. T. Pennell v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610128
+cites_cases: ["106 Texas Cr. Rep. 361", "137 S.W. 130", "152 Texas Cr. Rep. 359", "157 Texas Cr. Rep. 640", "214 S.W. 2d 462", "252 S.W. 2d 192", "285 S.W. 317", "45 S.W. 2d 595", "62 Texas Cr. Rep. 276"]
+---
+
+# Pennell v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is practicing medicine without a license; the punishment, 30 days in jail and a fine of $500.00.
+In view of our disposition of this case, a recitation of the facts will not be deemed necessary.
+The mother of the three-year-old child to whom the appellant administered shots of penicillin was asked this question by state’s counsel: “After you took your child to this defendant, do you know of your own knowledge whether she got worse or better?” The witness answered: “She got worse.” Appellant’s counsel objected and moved the court to withdraw the question and answer from the jury’s consideration. The objection and the motion were overruled.
+Since Germany v. State, 62 Texas Cr. Rep. 276, 137 S.W. 130 (1911), this court has held that in a prosecution of this nature the harmful or beneficial effects of the treatment are not admissible on any issue.
+In the relatively recent case of McCabe v. State, 152 Texas Cr. Rep. 359, 214 S.W. 2d 462, we said:
+“In prosecutions for practicing medicine without a license, such as here presented, testimony that the person alleged to have been treated was benefited thereby should not be admitted. Neither should the State, as a part of the prosecution, be permitted to show that the treatment was harmful. The benefit or harm derived from the treatment is irrelevant and immaterial to any issue in the case.”
+See also Larson v. State, 106 Texas Cr. Rep. 361, 285 S.W. 317, and Roberts v. State, 45 S.W. 2d 595.
+In view of another trial, attention is directed to appellant’s Bill of Exception No. 1. It certifies that immediately after announcements a jury list was furnished appellant’s counsel and the prospective jurors were ordered by the court to “retire to another room in another part of the Criminal Courts Building outside the presence of and outside the hearing of said court and where the said prospective jurors were to be examined by the Assistant District Attorney and counsel for the defendant for the purpose of selecting a jury to try said case.” It certifies further that the State’s counsel, in the absence of the judge, propounded certain questions to the prospective jurors which caused them to inflict the maximum punishment in this case.
+The court qualified the bill, in part, as follows: “This court is unable to certify what occurred, what questions were asked by the young Assistant District Attorney and then refused to certify that his absence “from the room where the jury were being selected” resulted in the maximum penalty which was assessed.
+This qualification does not prevent the bill from showing error. We here re-announce the rule heretofore laid down by this court that the judge’s place is on the bench and in full charge of all proceedings at all stages of the trial, none of which should be conducted in his absence. The selection of the jury is just as important a stage in a criminal trial as is argument of counsel. In Tingley v. State, 157 Texas Cr. Rep. 640, 252 S.W. 2d 192, we held it error for a judge to absent himself from the courtroom during the argument.
+For the errors pointed out, the judgment is reversed and the cause remanded.
