@@ -1,0 +1,39 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,240"
+decided: "1955-01-05"
+citations: ["161 Tex. Crim. 118"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Maximo Ybarra v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2467803
+cites_cases: ["101 S.W. 2d 812", "109 S.W. 2d 764", "112 Texas Cr. Rep. 479", "132 Texas Cr. Rep. 52", "133 Texas Cr. Rep. 206", "141 Texas Cr. Rep. 251", "147 S.W. 2d 1078", "159 Texas Cr. Rep. 602", "17 S.W. 2d 1064", "266 S.W. 2d 875"]
+---
+
+# Ybarra v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is assault with intent to murder; the punishment, five years.
+Bill of Exception No. 1 reflects that prior to the introduction of any evidence a conversation occurred, presumably at the bench, between the court and counsel. The district attorney asked the court to instruct appellant’s counsel to refrain from injecting into the case any evidence that the injured party (Bitela) killed or was under indictment for having killed one Charraria twenty days before the date charged in the instant indictment at a point twenty-five or thirty feet from the appellant’s home.
+Upon being questioned by the court as to the connection between the killing and the instant prosecution, appellant’s counsel replied that he intended to prove that Bitela had threatened the appellant by saying, “I am going to do the same thing to you that I did to Charraria,” and wished to question the appellant about how he felt about the seriousness of this threat. While counsel was making his explanation, he was interrupted by the court, who stated that they were going to try just one case that day and instructed appellant’s counsel not to ask the question.
+Upon the trial appellant testified that the injured party threatened to take his life and that shortly thereafter he shot the injured party in self-defense from an apparent attack. The only defect in the bill of exception is that it does not positively aver that the appellant had knowledge of the killing which had occurred so near his residence. We note, however, that counsel stated that he wanted to ask the appellant about how seriously he considered the threat, “I am going to do the same thing to you that I did to Charraria,” in the light of the fact that Bitela had killed one Charraria.
+The rule applicable here is found in Branch’s Ann. P. C., section 2094, page 1175:
+“If self-defense is an issue, defendant may prove anything known to him prior to the homicide about deceased as going to show why defendant acted. Proof of specific acts of unlawful violence committed by deceased on others is admissible, if defendant knew of them prior to the homicide, to show who was probably the aggressor, and to show the state of mind of defendant, and to shed light upon the standpoint of defendant at the time of the homicide.”
+This section has been cited with approval in Leal v. State, 112 Texas Cr. Rep. 479, 17 S.W. 2d 1064; Romine v. State, 132 Texas Cr. Rep. 52, 101 S.W. 2d 812; Beckham v. State, 133 Texas Cr. Rep. 206, 109 S.W. 2d 764; and Jackson v. State, 141 Texas Cr. Rep. 251, 147 S.W. 2d 1078.
+We think the trial court erred in not permitting the appellant to prove that he knew that Bitela had killed another shortly before the day in question. Such evidence would have been admissible to show the state of mind of the appellant at the time he shot Bitela.
+The judgment is reversed and the cause remanded.
+
+## Rehearing (WOODLEY, Judge.)
+
+on state’s motion for rehearing
+WOODLEY, Judge.
+The state’s motion for rehearing directs our attention to certain pages of the statement of facts where the court ruled that the witness could testify to a conversation with the injured party Bitela.
+The trial court later ruled that appellant could testify to conversation with Bitela which included the threat to kill him as he had Charraria, but restricted appellant’s counsel to such conversation, and declined to permit him to show as a fact that Bitela killed Charraria.
+In Beckham v. State, 133 Texas Cr. Rep. 206, 109 S.W. 2d 764, we held that where self-defense was an issue, the defendant not only could testify as to what he had heard regarding acts of violence on the part of the deceased, but could support his testimony by proof that such acts had in fact occurred.
+See also Dempsey v. State, 159 Texas Cr. Rep. 602, 266 S.W. 2d 875, and Branch’s Ann. P.C., Sec. 2094.
+The state’s motion for rehearing is overruled.
