@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "24366"
+decided: "1949-05-04"
+citations: ["153 Tex. Crim. 303", "219 S.W.2d 1023"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joe Edwards v. State."]
+source_url: "https://static.case.law/tex-crim/153/cases/0303-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2587201
+cites_cases: ["219 S.W.2d 1022"]
+---
+
+# Edwards v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+The judgment in this case is void for the same reason as that shown in the opinion in Cause No. 24,364, (page 301 of this volume), against the appellant, this day decided.
+For the reason there expressed, the judgment is reversed and the cause is remanded.
+Opinion approved by the Court.
