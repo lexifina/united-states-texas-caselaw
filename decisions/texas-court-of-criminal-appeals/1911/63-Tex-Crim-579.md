@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1224"
+decided: "1911-11-08"
+citations: ["63 Tex. Crim. 579"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Myrtle Clark v. The State."]
+source_url: "https://static.case.law/tex-crim/63/cases/0579-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2376509
+cites_cases: ["104 S. W. Rep., 898", "110 S. W. Rep., 897", "122 S. W. Rep., 557", "76 S. W. Rep., 475", "77 S. W. Rep., 621"]
+---
+
+# Clark v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+By complaint and information it was charged against appellant that on or about July 20, 191Ó, with force and arms, she did commit an aggravated -assault upon Mattie Cobb with hot coffee by throwing it on Mattie Cobb, it being, in the manner used, -a deadly weapon, -and that it' did inflict serious bodily injury upon Mattie Cobb. The jury found her guilty of aggravated assault and gave her the lowest penalty—a fine of $25.
+The court made several fatal mistakes in charging the jury which necessitates the reversal of this case. The first' is that he charged in just so many words that if the jury believe, beyond a reasonable doubt that said assault, if any, was mutual, then the defendant would be guilty as charged, and “you will find her guilty.” If the evidence justified a charge on mutual assault, which we doubt, then the court should not have charged that the appellant would be guilty of even a simple assault, without submitting to the .jury the other questions of fact which made it an assault.
+Again, the court charged, as a matter of law, that “throwing hot coffee by one person upon another would be an aggravated assault.” This is not' the law, but, as charged in the complaint and information, in order to make it an aggravated assault the throwing of the hot coffee must have been done in such a manner as to make it a deadly weapon, or it must have inflicted serious bodily injury. Heither of these facts were submitted by the court in this connection in this charge. Hor does the court in any other charge submit these questions of fact or either of them for its finding. This was necessary in this case.
+In another portion of the charge the jury is told that violence used to the person of -another -does not amount to an assault or battery when committed by accident or in self-defense. Then submits that if the jury believed the assaulted party had a razor -and was about to cut the defendant therewith at the time the coffee was thrown, then the defendant would be justified under the law of self-defense, unless they believed the same was by mutual combat, then the defendant would be guilty. This portion of the charge should have been submitted to the jury, inst'ead of charging straight out -that the defendant would be guilty, as a matter of law, that if the coffee, was thrown in such a manner and under such circumstances as to make it a deadly weapon, or if it inflicted serious bodily injury upon the assaulted party, requiring a finding of facts by the jury, before she should be found guilty.
+It is unnecessary to further discuss the charge. From what we have stated above, the court in another trial, can properly submit the questions at issue. There is no other question raised necessary to be discussed.
+The Assistant Attorney-General insists that the charge of the court in the particulars mentioned is essentially wrong and necessarily requires a reversal of this case.
+For the errors above pointed out in the charge, the judgment will be reversed and the cause remanded.
+Reversed and remanded.
