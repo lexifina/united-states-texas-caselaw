@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1244"
+decided: "1911-12-20"
+citations: ["64 Tex. Crim. 399"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Johnson v. The State."]
+source_url: "https://static.case.law/tex-crim/64/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2377915
+---
+
+# Johnson v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+On November 25, 1910, the grand jury of Gregg County indicted the appellant for the murder of his stepson, Edgar Lewis, on September 1, 1910, “by then and there whipping the said Edgar Lewis with a whip and beating him, the said Edgar Lewis, with a piece of board and by striking him, the said Edgar Lewis, with an axe handle.”
+The venue was properly changed from Gregg to Rusk County, and he was tried on January 18, 1911, convicted of murder in the second degree and his penalty fixed at fifteen years in the penitentiary.
+There is no bill of exceptions in the record. Neither is there any special charge requested. The only complaint of the court’s charge is this in appellant’s motion for a new trial:
+“First. Because the court erred in its charge to the jury in using the words ‘a piece of wood’ in the next to the last line on the 7th page in its charge to the jury, when the bill of indictment alleged the instrument used as being (a piece of board.’”
+The word “Wood” instead of “board” was used at one time and one place only in the court’s charge. In every other place in the charge of the court and in submitting the case to them for findings thereon, the words in the indictment were used and required to be found against appellant before a conviction could be had. Of course, a piece of board is a piece of wood. In the connection in which the word “wood” instead of “board” is used in the charge of the court it could not possibly have misled the jury to the injury of the appellant.
+Other grounds of the motion for new trial complain of the introduction in evidence' of certain testimony, but neither of these are presented by a bill of exceptions and can not be considered by this court.
+Another ground of the motion for new trial is to the remarks of the district attorney in argument to the jury. This ground of the motion, however, as stated above, is in no way presented by a bill of exceptions, nor was any special charge, either oral or written, requested that it should not be considered by the jury; so that we can not pass upon that question..
+The appellant also, in his motion for new trial, urges that the evidence is insufficient to sustain the conviction. The State, among others, introduced the thirteen-year-old stepdaughter of the. deceased and her brother, eight, nine or ten years of age. Also two other persons who saw the body of the deceased after it had been dead for perhaps a day. We think it is unnecessary to recite this testimony in detail. If believed, as it "was, by the jury, it shows most horrible treatment by the appellant of his nine-year-old stepchild, as stated in the indictment, of whipping him with a whip, beating him with a board and striking him with an axe handle which resulted in his death.
+It was also shown that the appellant’s wife, the mother of the deceased, was present during the whole of his trial. It is not shown that she was in any way hostile to him. They had, however, not lived together since the death of the deceased, because of the arrest and continuous confinement of the appellant in jail. She is shown to have been present during each and every time the appellant is shown by the testimony of the State’s witnesses to have inflicted upon him the injury they testified to and in effect the State, during the trial, called upon the appellant to put her upon the stand, as the State could not do so, but appellant could. He did not place her upon the stand, nor did she testifjr.
+The appellant himself testified and denied that he had committed the acts on the deceased testified to by the State’s witnesses.
+The testimony discloses that the whip which was testified to have been .used by appellant on the deceased in whipping him severely from time to time from about Monday morning until the following Thursday evening, when he died, and also the piece of board with which he was shown to have beaten the child from time to time and several times during these few- days before he died, were produced, identified and introduced in evidence before the jury. The size of neither the whip nor the board is shown by the testimony. The testimony of the appellant’s two stepchildren, who testified against him, is supported, more or less, by the testimony of two white men who only partially examined the body of the deceased the next day after he died.
+[Rehearing denied January ‘17, 1913.—Reporter.]
+The credibility of the witnesses and the weight to be given to their testimony were exclusively for the jury and the lower court. After carefully considering it, it is our opinion that it is amply sufficient to sustain the verdict.
+There being no reversible error shown in the record, the judgment will be affirmed.
+Affirmed.
