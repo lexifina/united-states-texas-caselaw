@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,551"
+decided: "1960-12-07"
+citations: ["170 Tex. Crim. 468"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pat D. McCoy v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2629309
+cites_cases: ["142 Texas Crim. Rep. 53", "154 S.W. 2d 648", "157 Tex. Crim. Rep. 51", "160 Tex. Crim. Rep. 258", "246 S.W. 2d 474", "268 S.W. 2d 182"]
+---
+
+# McCoy v. State
+
+## Majority (WOODLEY, Judge)
+
+WOODLEY, Judge
+The offense is felony theft; the punishment, enhanced by two prior convictions for felonies less than capital, life.
+The primary offense alleged was the theft of one radio of the value of $30.75 and one radio of the value of $28.00 from Mary Cheakwood. She testified that appellant came to Steffis Photo Service about 12:30, with a lady and a man, while she was alone and in control of the business and merchandise.
+Miss Cheakwood further testified that she had no conversation with appellant, but in his presence she conversed with the lady who asked about a light meter for a camera and a movie projector. Except for one customer, who came directly to the front counter and did not go near the section of the store where radios were displayed, no one was in the store except Miss Cheakwood, appellant and the man and woman who came in with him.
+Appellant, she testified, was in the store some 30 to 45 minutes and was near the radios. Immediately upon his leaving the store, Miss Cheakwood noticed an R.C.A. Victor transistor radio was missing which had been displayed on a revolving stand sitting on the counter.
+A red and white Channel Master pocket transistor radio was also found missing when Mr. Stell returned about 1:30.
+Appellant confessed to the theft of the two radios and his written confession was introduced without objection. In confessing, appellant stated that he sold the small Channel Master radio to Raymond Seibee for $10 and that he sold the other radio, the R. C. A., to a girl named Terry who owned and operated the Tra-La Lounge on North Shepherd, for $15.
+The evidence shows and appellant’s written confession states that he went with the officers and pointed out Raymond Seibee as the man he sold the Channel Master radio to, and it was recovered from him. Raymond Seibee testified corroborating this evidence.
+The prior convictions alleged for enhancement were proved as alleged and appellant testifying in his own behalf admitted such convictions.
+Appellant also admitted in his testimony that he took the Channel Master radio and sold it, as stated in his confession, but denied taking the R.C.A. and selling it.
+The value of one of the radios was alleged to be $30.75, and the second was alleged to be of the value of $28.00. Mr. Stell testified that the market value of the R.C.A. transistor radio was $39.95, and the reasonable market value of the Channel Master was $32.50.
+We find the evidence sufficient to sustain the conviction.
+Appellant’s principal claims of error relate to the court’s charge.
+He objected because misdemeanor theft was not submitted; because the punishment for felony theft, not enhanced by reason of prior convictions was hot submitted; and because the jury was not instructed to acquit unless they found beyond a reasonable doubt that appellant was guilty of the theft of both of the radios in question.
+The jury was instructed: “if you believe from the evidence or if you have a reasonable doubt thereof that the Defendant took only one of the radios alleged, if he did, you cannot convict the Defendant and you will so say by your verdict ‘not guilty’.”
+There being no evidence raising the issue that the property stolen was of the value of less than $50, other than that raised by appellant’s testimony that he stole only one radio, and appellant having admitted the prior convictions, the charge given was sufficient to protect appellant’s rights. The failure to give the charges, omission of which were complained of, was not error.
+The remaining grounds for reversal have been considered and are overruled.
+The judgment is affirmed.
+
+## Rehearing (MORRISON, Judge)
+
+ON MOTION FOR REHEARING
+MORRISON, Judge
+As pointed out in our original opinion, the jury were instructed to acquit if they believed or had a reasonable doubt that appellant took only one of the radios alleged in the indictment. Such instruction was clearly more favorable to appellant than a charge on misdemeanor theft or a charge authorizing a finding of guilt of felony theft not enhanced by reason of prior convictions. In Punchard v. State 142 Texas Crim. Rep. 53, 154 S.W. 2d 648, this court held that a charge which authorized an acquittal if the jury entertained a reasonable doubt as to whether the accused was the same person convicted in one of the prior convictions alleged for enhancement was more favorable to accused than one which would have permitted a finding of guilt as to the primary offense alone because it placed a greater burden of proof upon the State. Such reasoning was followed by this court in Cox v. State, 157 Tex. Crim. Rep. 51, 246 S.W. 2d 474, and in Handy v. State, 160 Tex. Crim. Rep. 258, 268 S.W. 2d 182.
+Remaining convinced that we properly disposed of this matter originally, appellant’s motion for rehearing is overruled.
