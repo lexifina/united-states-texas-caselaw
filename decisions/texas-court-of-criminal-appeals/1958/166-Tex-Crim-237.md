@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,716"
+decided: "1958-04-09"
+citations: ["166 Tex. Crim. 237"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hallen Lillard & Finis Tullos, Jr. v. State"]
+source_url: "https://static.case.law/tex-crim/166/cases/0237-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2620199
+cites_cases: ["160 Texas Cr. Rep. 387", "271 S.W. 2d 643"]
+---
+
+# Lillard v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+Under an indictment charging robbery, the appellant and her son, and co-indictee, were convicted of the lesser included offense of assault with intent to rob, and their punishment assessed at two years. Finis Tullos, Jr. has filed an affidavit to dismiss his appeal, which is granted, and the case against the appellant alone will be here considered.
+The facts in this case present a slightly different version of a familiar theme. Appellant, her 23-year-old son and his 18-year-old cousin presented themselves at a roadside tavern in Trinity County and there engaged two strange middle-aged patrons in conversation. Beer was consumed by all parties, and acquaintances ripened. A suggestion was made that the party repair to the home of appellant’s former husband, located some distance away in a wooded section of the county, to look over a site for a future deer hunt. As they left the tavern, the two young men drove the pickup truck in which they and the appellant had arrived, and the appellant rode in the automobile with her two newly found and lonesome male companions.
+As to what happened after they got to the woods, the evidence is in conflict; but it is undisputed that when the party was finally apprehended in the woods by the deputy sheriff the two newly found friends were bloody and beaten, while the appellant and the two young men were uninjured. One of the two men, Cole, became suspicious as they came to a halt in the woods and secreted his pocketbook between the cushions of his automobile and, though searched, suffered nothing through the transaction, except some minor cuts and bruises, while his companion, Baker, lost his money and sustained head wounds which required 27 stitches and hospitalization, and his clothes were cut in many places.
+Cole and Baker testified that they were assaulted with wrenches, pliers, a knife, a shotgun and fists, until Baker, in fear of his life, surrendered $30.00 to the appellant and approximately $8.00 to one of the young men.
+Appellant and her son testified that the injuries were the result of a fight engaged in by all the parties and which grew out of Cole’s failure to turn in on the side road leading to the rendezvous and that they took no money from Baker and did not search Cole.
+Since there was no matron at the Trinity County jail where the group were taken by the deputy sheriff, the appellant was not searched, and Baker did not recover his money.
+The jury resolved the conflict in the evidence against the appellant, and we find the evidence sufficient to support their verdict. We shall discuss the contentions advanced by appellant’s counsel on appeal in brief and argument.
+Error is claimed in the action of the court in failing to grant a motion for continuance. The only motions for continuance which we find in the record were made by appellant’s co-indictee Finis and a supplemental motion for continuance made in behalf of Finis by his attorney. Recently, in Parsons v. State, 160 Texas Cr. Rep. 387, 271 S.W. 2d 643, this court called attention to the statutory requirement that a motion for continuance be sworn to personally by the appellant. Since the appellant did not swear to either motion for continuance, action of the court in overruling them is not before us for consideration.
+There are no formal bills of exception and no separate statement containing the argument of the prosecutor in the record, and appellant’s complaints thereto cannot be appraised.
+Finding no reversible error, the judgment of the trial court is affirmed.
