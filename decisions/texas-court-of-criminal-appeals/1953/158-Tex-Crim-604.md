@@ -1,0 +1,78 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,301"
+decided: "1953-05-06"
+citations: ["158 Tex. Crim. 604"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Talmadge Ellzey v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0604-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477944
+cites_cases: ["113 Tex. Cr. R. 535", "115 Tex. Cr. R. 175", "123 Tex. Cr. R. 395", "123 Tex. Cr. R. 552", "140 Tex. Cr. R. 228", "143 S.W. 2d 780", "197 S.W. 196", "21 S.W. 2d 503", "220 S.W. 326", "223 S.W. 459", "29 S.W. 2d 375", "3 Tex. App. 558", "48 Tex. Cr. R. 264", "59 S.W. 2d 147", "59 S.W. 2d 411", "81 Tex. Cr. R. 347", "87 S.W. 1036", "87 Tex. Cr. R. 213", "87 Tex. Cr. R. 606"]
+---
+
+# Ellzey v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The offense is rape; the punishment, confinement in the penitentiary for ninety-nine years.
+The trial was had in Williamson County on a change of venue from Cameron County.
+Patsy Lee Biggs, the seven-year old victim, testified that she was playing in front of her home on August 9, 1951, when appellant came by and talked with her. She further testified that he pulled her into his car; placed his hand over her mouth when she began to scream and drove away. She also said that appellant stopped, took her panties off, and put his private part into hers about 1^2 or 1% inches, and did this five times at different places during the night. She said appellant took her near her home about daylight and let her out.
+Mrs. Biggs, the mother of Patsy Lee Biggs, testified that she had called her for the evening meal and upon her failure to come, went to look for her, and heard a “scream like children;” and, being unable to locate Patsy, notified the officers; Patsy returned the next morning and was taken to a doctor. Mrs. Biggs testified that after August 10th, Patsy had a bloody discharge for about a month and tapered off for about another month, and this condition did not exist before.
+The doctor that examined Patsy on August 10th testified that she had a recent laceration about a quarter of an inch long in her private female organ and there was evidence of blood and clots.
+John J. Young testified that-he saw appellant in the back seat of his car about 10:30 P.M. on August 9th with a small girl and told him to take her home, and he replied that he would.
+Appellant made a written confession to the sheriff and therein corroborated much of the testimony of Patsy Lee Biggs, except as to the acts of sexual intercourse and, concerning that, stated:
+“I do not remember all that I did with this little girl, but I do remember having my hand and fingers on her legs and private parts. I do not remember whether or not I tried to have sexual relations with her.”
+Several witnesses testified that they saw appellant, each at different times and places, at beer joints beginning about 10 A.M. on August 9,1951, and continuing until about 11 P.M. Their testimony showed that he drank about twenty bottles of beer during this period and bought some “to go;” some said he didn’t talk and acted like he was sick, and one said he was “pretty well blanked out,” about 7:30 P.M.; another witness said appellant bought some beer about 11 P.M. and that he was alone.
+Two former wives of appellant testified, one saying he had a large penis, and both saying that he could not have a sexual erection when he was drinking; one was living with appellant on August 9th, and said that he was taking dexamyl three times a day for headaches.
+Appellant testified that about 10 A.M. on August 9th, he started drinking beer and visiting different beer places, and continued this through the afternoon and into the night; that about 3 P.M. he took two dexamyl tablets and later took two more; that about dark he saw a little girl in the road, but didn’t remember about her getting in the car with him. Appellant said the next thing he knew he woke up in the car and it was getting daylight, and the little girl was in the car; that she acted normal and was not crying; that he asked her where she lived and then took her near her home and let her out.
+A doctor testified in answer to hypothetical questions giving the experiences as related by the victim, that if such occurred, the victim would have a ruptured and lacerated hymen and dried blood in the vagina and she would be nervous and upset. He further testified that if there was a laceration in the hymen and blood clots, his opinion would' be that some object had penetrated her female organ.
+Two doctors examined the genital organs of the little girl during the trial, and testified they found a small tear, and each testified that it was “not possible that this child had been penetrated to a depth of an inch and a half to an inch and three-quarters five times on five separate occasions by a man this size if he has a normal penis.” Another doctor who examined the girl at the same time testified that “it was possible for a normal male to insert his penis inside her female organ for as much as an inch and a half and have no more damage to her than the laceration we found.”
+A doctor testified that the taking of four dexamyl tablets at two different times and the continued drinking of beer would completely incapacitate a man for several hours and probably effect him for two days; that he might do things he never would remember.
+The jury resolved the disputed issues against appellant, and we find the evidence sufficient to sustain their verdict.
+On the first trial of this case in Cameron County, the death penalty was assessed. A new trial having been granted, it was reset for trial and postponed; then a motion for change of venue was filed and evidence heard thereon, and same was overruled. On June 23, 1952, the selection of the jury began and during five days 360 veniremen were examined; and on June 27, 1952, the court, on its own motion, changed the venue to Williamson County.
+Appellant contends that the district court of Williamson County was without jurisdiction of this case, on the ground that the district court of Cameron County was without power, upon its own motion, to change the venue from Cameron to Williamson County, which county was beyond any adjoining district, and the order so transferring was void.
+He insists that Art. 560, C.C.P., is a limitation upon the power of the court to change the venue in this case on the court’s own motion, and failing to exercise the power in the manner granted by Art. 560, C.C.P., the order of the court directing the transfer is void, as well as the judgment rendered by the court to which the case was transferred. Art. 560, C.C.P., provides :
+“Whenever in any case of felony the judge presiding shall be satisfied that a trial, alike fair and impartial to the accused and to the State, can not, from any cause, be had in the county in which the case is pending, he may, upon his own motion, order a change of venue to any county in his own, or in an adjoining district, stating in his order the grounds for such change of venue.”
+Art. 566, C.C.P., provides as follows:
+“If it be shown in the application or otherwise that all the counties adjoining that in which the prosecution is pending are subject to some valid objection, the cause may be removed to such county as the court may think proper.”
+Only two counties join Cameron County and they are Willacy and Hidalgo. Appellant recites in his Bill of Exception No. 1, which includes his motion for change of venue, that he could not get a fair trial in these two counties, setting out the nature and extent of the publicity and prejudice in that area, and asked that the case be moved out of the Rio Grande Valley. The court heard evidence on appellant’s motion to change the venue, and further heard the examination of 360 veniremen over a period of five days.
+Art. 560, C.C.P., conferring power upon the court to change the venue, is not restrictive of the power granted in Art. 566, C.C.P., Art. 566, C.C.P., confers upon the court the power to change the venue to such county as the court may think proper under named circumstances. Sapp v. State, 87 Tex. Cr. R. 606, 223 S.W. 459; Mills v. State, 123 Tex. Cr. R. 395, 59 S.W. 2d 147; Taylor v. State, 81 Tex. Cr. R. 347, 197 S.W. 196.
+Appellant strenuously urges that the view of Judge Davidson, as expressed in Taylor v. State, supra, should be the law applicable and decisive in this case. It is noted that the expressions of Judge Davidson in the Taylor case on the issues contended for by the appellant was not concurred in by any other member of the court. We agree with the opinion of Judge Morrow in the Taylor case concerning jurisdiction and venue.
+There is a distinction between jurisdiction of the subject matter and venue. Art. V, Sec. 8, of the Constitution provides:
+“The district court shall have original jurisdiction in all criminal cases of the grade of a felony.”
+The Constitution, Art. Ill, Sec. 45, vests the power to change the venue in the courts “to be exercised in such manner as shall be provided by law” and provides that “the Legislature shall pass laws for that purpose.” The legislature did make such provisions and the same are found in Articles 560 - 567, C.C.P.
+An error on the part of the trial judge in the exercise of his discretion does not affect the jurisdiction of the court to which the transfer is made. Seaton v. State, 115 Tex. Cr. R. 175, 29 S.W. 2d 375; Cotter v. State, 113 Tex. Cr. R. 535, 21 S.W. 2d 503.
+The order changing the venue found that the widespread publicity and notoriety given the case from the time of its alleged commission, the former trial, and the attempted selection, of a jury for a second trial was such that a fair and impartial trial could not be had in Cameron County. No objections nor exceptions were made to the order at the time it was entered. The record reflects that appellant complained of the change of venue for the first time when he filed a motion in the district court of Williamson County asking that venue be restored to Cameron County. This motion was heard and overruled.
+The order was in form sufficient to change the venue. Gates v. State, 140 Tex. Cr. R. 228, 143 S.W. 2d 780; Baker v. State, 87 Tex. Cr. R. 213, 220 S.W. 326; Ricks v. State. 48 Tex. Cr. R. 264, 87 S.W. 1036; Harrison v. State, 3 Tex. App. 558.
+In the absence of an exception to the action of the court in changing the venue being taken in the district court of Cameron County at the proper time, no error is shown. Hill v. State, 123 Tex. Cr. R. 552, 59 S.W. 2d 411.
+Appellant contends that the district court of Cameron County and of Williamson County erred in failing to grant appellant’s motion that he be sent to Galveston County, under restraint, or in the alternative, to another county where facilities were available for a mental examination for the purpose of ascertaining his sanity before his trial.
+The law of this state does not require a trial court to send a person charged with an offense, prior to an adjudication of insanity, to an institution for diagnosis or observation, and the trial judge did not abuse his discretion in denying appellant’s motion.
+The evidence is sufficient to sustain the conviction, and we find no reversible error.
+The judgment of the trial court is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (MORRISON, Judge.)
+
+ON MOTION FOR REHEARING.
+MORRISON, Judge.
+In our original opinion we said, “In the absence of an exception to the action of the court in changing the venue being taken in the District Court of Cameron County at the proper time, no error is shown.”
+Appellant’s able counsel has now caused the record to be perfected to show that the following transpired in the district court of Cameron County:
+“The Court: The Court feels that, three hundred and sixty veniremen and talesmen having been exhausted without the selection of a jury, that the case should be changed — the venue should be changed, and I am going to change the venue of the case, feeling we are unable to select a jury in this case in this County to try you. I am going to send it to Williamson County, Texas.
+“Mr. Skaggs: Is that Georgetown?
+“The Court: Yes, sir. On the Court’s own motion.
+“Mr. Skaggs: On the Court’s own motion?
+“The Court: Yes, sir. Your attorneys appointed by the Court here are hereby relieved of further responsibility in connection with this case, and we will ask the Court at Georgetown to appoint adequate counsel to represent you.
+“Mr. Skaggs: The defendant excepts to the Court’s action in moving the cause to Williamson County—
+“The Court: For what reason?
+“Mr. Skaggs: For the reason that we don’t believe it is a proper place to move it. Williamson County is well noted for its excessive or large verdicts in Criminal cases.
+“The Court: Is that the only reason?
+“Mr. Skaggs: And for any other legal reason that there may be.”
+When the cause was called for trial in Williamson County the appellant asked that it be returned to Cameron County, alleging' that Williamson County was too far removed from Cameron County and that such fact would operate to appellant’s prejudice.
+As will be seen from that which is quoted above, such a contention was not made in the court which originally changed the venue.
+We find no suggestion or proof made in the court changing the venue that any of the intervening counties were free from the objections which the appellant had leveled at the Rio Grande Valley counties in his motion for change of venue filed when the case was called.
+We do not hold that it would be within the discretion of a trial court to arbitrarily transfer a case from one side of the state to another. But we do hold that it is incumbent upon an accused, when a trial court enters an order changing venue, to there show that the trial court abused his discretion. This he did not do in the case at bar.
+Remaining convinced that we properly disposed of this cause originally, appellant’s motion for rehearing is overruled.
