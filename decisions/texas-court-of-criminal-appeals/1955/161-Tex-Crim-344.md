@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,543"
+decided: "1955-04-13"
+citations: ["161 Tex. Crim. 344"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Homer Sylvester Arnold v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2464184
+cites_cases: ["158 S.W. 2d 503", "193 S.W. 2d 528", "231 S.W. 2d 657"]
+---
+
+# Arnold v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Upon a trial before the court, a jury being waived, appellant was found guilty and assessed the minimum punishment for the misdemeanor offense of driving a motor vehicle upon a public highway while intoxicated.
+The state's witness, Robert L. Smith, testified that he first saw appellant “when he sideswiped a car in front of me”; then-saw him hit the left rear bumper of a standing car, and come toward the witness, causing him to drive on to a railroad track..
+Smith further testified that he ; followed appellant’s car,, “tooting my horn, trying to get"everybody to look up and get out of his way,” and appellant’s car, with the left front tire flat “jumped the left curb” - - “sideswiped another car” - - “kept pulling to the left” - - “he caught a door handle” on the suspenders of a man working in the street - - “chased another car on the curb” - - hit the curb where a child was playing in the street, and stopped the car in front of his home - - “when he got out of his car, he fell down. He was barefooted.”
+Smith also testified that he called the officers and, after their arrival, saw appellant come out of his house and start toward his car, then go back in the house; that he observed appellant when he again walked out the door and talked to him and “he was very slurry. He didn’t know. His actions were very funny - - he staggered - - was barefooted and in old clothes - - “He tried to hold on to a tree, and kept feeling for it and missing it.” Also he heard this conversation between appellant and the officer: “The officer said, ‘This boy saved you from hitting a child; you ought to thank you. You hit a car.’ He said, T didn’t even know it.' He admitted, T have been drinking, and am sorry. If I have done anything, I will pay for it’.”
+Smith testified that he had seen many people who were intoxicated, that he smelled alcohol on appellant’s breath, and based upon his experience and his observation of appellant, he expressed the opinion that he was intoxicated.
+Appellant complains of the testimony of the officers who arrested him in his home, and who expressed the opinion that he was intoxicated. He also complains of the testimony relating to the result of an analysis of a blood specimen taken from appellant with his written consent, which showed an alcohol content of .29 per cent, the complaint being that the vial in which the blood was placed when taken was not offered in evidence or identified as that which was opened by the chemist and toxicologist.
+The trial being before the court and the testimony of the witness Smith being sufficient to sustain the conviction, we need not determine whether the arrest was legal or whether the blood tested was sufficiently identified.
+When a cause is tried before the court and there is nothing to show that the judgment was based upon the inadmissible evidence (such as by findings or conclusions of fact or law) it will be presumed that the trial judge disregarded incompetent evidence admitted at the trial and the judgment will not be reversed on appeal on the ground of the admission of incompetent evidence if sufficient proper evidence was admitted to sustain the judgment. Authorities to this effect in civil cases are collated under Texas Digest, Trial 379.
+The rule is applicable in criminal cases. Johnson v. State, 149 Texas Cr. R. 245, 193 S.W. 2d 528; Slaughter v. State, 154 Texas Cr. R. 460, 231 S.W. 2d 657; Conn v. State, 143 Texas Cr. R. 367, 158 S.W. 2d 503.
+The judgment is affirmed.
+Opinion approved by the Court.
