@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,435"
+decided: "1960-02-10"
+citations: ["169 Tex. Crim. 183"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Odis Odell Pennington v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0183-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12134001
+cites_cases: ["172 S.W. 2d 103", "178 S.W. 2d 528", "195 S.W. 1147", "231 S.W. 2d 436", "311 S.W. 2d 409"]
+---
+
+# Pennington v. State
+
+## Majority (BELCHER, Judge)
+
+BELCHER, Judge
+The indictment upon which this conviction rests charged the appellant with the offense of robbery by assault as the primary offense. It further charged two prior convictions of offenses less than capital for the purpose of enhancement.
+Appellant contends that Judge Todd, the regular district judge, was disqualified to sit as a judge during any phase of the trial of this case on the ground that he had been of counsel for the state in one of the prior convictions alleged for enhancement.
+By motions, appellant urged the disqualification of Judge Todd before the jury was selected, at the close of the state’s case in chief, and also for a new trial. The record shows that Judge Todd was the district attorney and actively participated in the conviction of the appellant in one of the prior felony convictions alleged in the indictment for enhancement.
+Judge Todd called this case for trial, impanelled the jury, and sat during its voir dire examination which was concluded about 3:00 p.m. The first juror examined on voir dire was excused. Judge Todd made further decisions as to excuses of other members of the panel, and also made rulings during the voir dire examination of the panel. At the conclusion of the voir dire at 3:00 p.m., the jury panel was excused with instructions to return the following morning.
+Illness prevented Judge Todd from continuing with the trial, and the following morning Judge Ford convened the court and proceeded with the trial to its conclusion.
+The state takes the position that Judge Todd was not disqualified because the prior convictions alleged in the indictment were abandoned after the call of the case for trial but before the commencement of the voir dire examination of the jury panel. If the allegations of the prior convictions were not abandoned Judge Todd was disqualified. If he did authorize their dismissal, he thereby performed a duty calling for the exercise of judicial discretion. 12 Tex. Jur. 668, sec. 323; 5 Branch 2 ed. 16, Sec. 2570.
+The option a judge has in deciding between the doing or not doing of a thing which cannot be demanded as an absolute right is judicial discretion. Tuck v. State 155 Tex. Cr. Rep. 113, 231 S.W. 2d 436.
+When a judge has actively participated in any prior conviction alleged in the indictment for enhancement while he was the prosecuting attorney for the state, such fact renders him disqualified to sit in the case. It appears that Judge Todd during the time he was presiding in this case performed and discharged duties calling for the exercise of judicial discretion. These acts in connection with the fact that he had while district attorney actively participated in the conviction of the appellant in one of the prior convictions alleged for enhancement disqualified him from sitting as a judge in this case. The disqualification is by reason of the State Constitution, Art. 5, Sec. 11 and Art. 552 C.C.P. which provide that no judge shall sit in any case where he had been of counsel for the state. These mandatory provisions of the Constitution and also of the statute have been and must be observed. Taylor v. State, 81 Tex. Cr. Rep. 359, 195 S.W. 1147; Adcock v. State, 146 Tex. Cr. Rep. 84, 172 S.W. 2d 103; Woodland v. State, 147 Tex. Cr. Rep. 84, 178 S.W. 2d 528; Wood v. State, 166 Tex. Cr. Rep. 94, 311 S.W. 2d 409.
+For the error pointed out the judgment is reversed and the cause remanded.
+Opinion approved by the Court.
