@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2248"
+decided: "1902-06-11"
+citations: ["44 Tex. Crim. 156"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wm. and Ben Ehilers v. The State."]
+source_url: "https://static.case.law/tex-crim/44/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4525372
+cites_cases: ["22 S. W. Rep., 587", "39 Texas Crim. Rep., 145", "40 S. W. Rep., 590", "42 Texas Crim. Rep., 435"]
+---
+
+# Ehilers v. State
+
+## Majority (BROOKS, Judge.)
+
+BROOKS, Judge.
+Appellants were prosecuted upon information on the charge of willfully obstructing a public road, and their punishment assessed at a,fine of $10 each.
+The public road alleged to be obstructed is described in the information as follows: “The public road leading from the town of Gonzales to the town of Cuero, that part of said road beginning at the lower crossing of Peach Creek, thence to the county line in the direction of Cuero, number of road precinct being 61, by then and there erecting and building a fence across said road,” etc. It appears from the agreed statement of facts that four separate roads have been used by the traveling public in Gonzales County, under the above general designation, prior to the use of the line "of road claimed to have been obstructed in this case. In 1894 the road in question was established in the following manner, and so used until 1901, the time of the obstruction. Wemple had been designated by the commissioners court as road overseer of a road running some distance west of the line alleged to have been obstructed, but on account of the same being rough, and for other reasons, he applied to the county judge of Gonzales County for permission to change the road, and received said permit, with the injunction not to change the beginning and ending of the road, but with full authority to make whatever change the road overseer deemed necessary so as to comply with this injunction of the county judge. Under this character of authority the road overseer worked and designated_the road alleged to have been obstructed. Since 1894 and up to the time of this prosecution, to wit, 1901, the Commissioners Court of Gonzales County assigned hands to work on said road, but in no respect designated the particular line upon which or over which the road should run. In other words, there was no official designation by the commissioners court of the particular line of road obstructed at all. A road overseer has no right to make a road a public road, and the county judge is clearly without authority to do so. The commissioners court is awarded jurisdiction and authority over public roads, and it alone as a court must designate the beginning and ending and boundaries of a road before it can become such. We do not desire to be understood as holding that all the formalities required by the statute for the condemnation of a road for public usage must be complied with, but there must be some official recognition of the particular road obstructed before there can be successful prosecution, or, in other words, a public road. The statement of facts shows, as indicated above, that four other lines traversed the vicinity a half-mile or so apart, having been used by the public since 1840; but the record of the commissioners court is silent as to any particular designation of a territory or line for said road. The same seems to have been changed, according to the testimony, from time to time, as the convenience of the traveling public might suggest, or the fencing of the land in the vicinity required. It is true that hands have been assigned to work the road above described since 1894, but the order of the court nowhere states how the road shall run; but it steems merely to have been located according to the caprice or judgment of the overseer, so far as the road in question is concerned. This we take it, as stated, would not make it a public road; and hence appellants could not be prosecuted for a willful obstruction thereof. We do not deem it necessary to review all the authorities on the question, but for a discussion of the principles involved see Crouch v. State, 39 Texas Crim. Rep., 145; Ward v. State, 42 Texas Crim. Rep., 435, 1 Texas Ct. Rep., 565; La Roe v. State, 30 Texas Crim. App., 374; Kennedy v. State, 40 S. W. Rep., 590; Pierce v. State, 22 S. W. Rep., 587. In Dyerle v. State, 5 Texas Ct. Rep., 380, decided at the present term, we- held that where land is used indiscriminately as a highway, and the road ran between no designated points or along no definite line, then and in that event appellant would have the right to fence his-land.
+The evidence being insufficient to support .the conviction, the judgment is reversed and the cause remanded.
+Reversed and remanded.
