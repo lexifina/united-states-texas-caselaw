@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "22522"
+decided: "1943-04-28"
+citations: ["145 Tex. Crim. 567"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arthur Lee Wlson v. The State."]
+source_url: "https://static.case.law/tex-crim/145/cases/0567-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5292724
+cites_cases: ["38 Tex. Cr. R. 681", "44 S. W., 989"]
+---
+
+# Wlson v. State
+
+## Majority (GRAVES, Judge.)
+
+GRAVES, Judge.
+Appellant was convicted of the crime of murder in that he killed B. C. Thrasher with malice aforethought, and he was given the death penalty by the jury.
+There are no bills of exceptions in the record.
+It is shown by the facts that on February 21, 1942, Mr. Thrasher conducted a grocery store in the City of Dallas, Texas. That about seven o’clock in the evening Mr. Thrasher’s son left the store, leaving the father there, and there was about $9.00 or $10.00 in the cash register. Later on that night Mr. Thrasher was found on the floor of his store severely beaten and bruised about the head, as though he had been struck with some blunt instrument, one injury being on the back of the head, and a further injury over the eye. As a result of these wounds he died in about four days. The cash register was open and empty, and a sack with a few eggs in it was found sitting on the floor beside a case of eggs. On April 29, 1942, appellant was arrested in Dallas for this offense, the officers having had a complete description of him during such time, and he was taken to the city hall. There he asked to consult with his sister, and she was sent for, and after such consultation, he made a confession relative to such matter which, omitting the statutory warning, reads as follows:
+“My name is Arthur Lee Wilson. My address is 2522 Boll Street. I am 23 years old.
+“About two months after I moved up on Boll Street I needed some money to pay my rent and get some clothes out of soak.
+“I picked up a piece of white looking iron by a garage on Boll Street. I went to a grocery store on Elm Street the other side of Central, on the right side of the street going East. There was about a middle aged white man weighing about 165 or 170 pounds, in the store. I asked him the price of eggs..I told him I did not like the price and started out. He told me not to get smart and acted like he was going to reach in his pocket. I hit him twice on the head with the piece of iron, once on the front and once on the back of the head. I took about $9.00 out of the cash register.
+“I left there and went on home. This was about eight o’clock. I do not know whether the man died or not.
+“(Signed) Arthur Lee Wilson
+“Signed by the arrested party.
+“Witness: (Signed) Ernest Matthews “Address: Dallas News.
+“Witness: (Signed) Ben E. Bradford, Jr. “Address: Times Herald.”
+It also is shown that upon the discovery of Mr. Thrasher, in his injured condition, he made a statement to officer Gaddy relating the circumstances surrounding his injuries and gave a description of his assailant. In detailing these circumstances he said that he was in bad shape and did not think he would make it anyhow, and wanted to go home. He then said that his assailant came into the store and asked the price of some articles on the shelf; that he then asked the price of eggs. Upon being told such price, the assailant said he believed he would take some eggs. Mr. Thrasher then got a sack and started putting eggs therein, and while bending over the eggs he was struck with some blunt instrument from behind; he then straightened up and was again struck and knocked into a semiconscious condition. When the officer found Mr. Thrasher he had lost a quantity of blood, and a sack with five eggs therein, two broken, was sitting on the floor near a case of eggs; the cash register was open and no money therein.
+There is no question raised relative to appellant’s statement other than his own testimony in which he said that he signed same after he had talked to his sister in order “to save his hide,” but that no one had mistreated him; that “they never laid a hand on me except to arrest me. No one mistreated me the least bit and have not up to this minute.” Appellant’s sister testified and said that she saw no ill treatment of any kind towards her brother, as also did the newspaper reporters who witnessed the statement.
+There is no brief on file herein for appellant, and in the absence of any bills of exceptions no errors are complained of.
+That the corpus delicti may be aided in its establishment by a confession of the accused has long been held by this court as is shown in the case of Kugadt v. State, 38 Tex. Cr. R. 681, 44 S. W., 989, which has been consistently followed by this court, from which we take the following short excerpt:
+“When a confession is made, and the circumstances therein related correspond in some points with those proven to have existed, this may be evidence sufficient to satisfy a jury in rendering a verdict asserting the guilt of the accused. ‘Full proof of the body of the crime, the corpus delicti, independently of the confession, is not required by any one of the cases; and in many of them slight corroborating facts were held sufficient’.”
+It is further noted that the res gestae statement of the deceased, together with the description of his assailant, was doubtless of value not only to the officers in effecting this belated arrest but also in assisting the jury in arriving at their verdict of guilt.
+We see ho error evidenced herein, and the judgment is therefore affirmed.
