@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,079"
+decided: "1957-06-05"
+citations: ["165 Tex. Crim. 127"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Billy Shawhart v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0127-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2615056
+cites_cases: ["109 S.W. 2d 182", "133 Texas Cr. Rep. 86", "137 S.W. 2d 28", "138 Texas Cr. Rep. 517", "143 Texas Cr. Rep. 155", "157 S.W. 2d 887"]
+---
+
+# Shawhart v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is possession of whisky in a dry area for the purpose of sale; the punishment, a fine of $300.
+Constable Willie Prescott testified that on November 27, 1956, he saw appellant in a grass pasture in Childress County about 10 o’clock at night; that appellant left the house of one Bailey and some fifty yards from where he crossed the fence appellant “stooped” and “it appeared that he was feeling and fumbling around in the grass. I heard a noise that sounded like the rattle of paper.”
+After appellant walked away from the place he had stooped Deputy Sheriff Hollis Wilson "put the light on him and he tossed three half pints of whisky in the air.”
+The officers took appellant and two of the bottles of whisky to town, the third bottle having broken. They returned to the pasture, accompanied by Sheriff Gaylon Smith, and found eight more half-pints of whisky “in a rap” where appellant had stooped.
+The whisky and the broken bottle were introduced in evidence.
+There was testimony from the state’s witnesses to the effect that one Dave Ricks was seen in the pasture on the night in question but at a different place.
+Dave Ricks was called by the defense and testified that he did not put “the rap with whisky in it in the pasturethat he was at Bailey’s house as was appellant on the night in question, but he (Ricks) did not go into the pasture where the whisky was found between 9 and 10 o’clock that night.
+The agreed statement of facts in narrative form recites that the county clerk of Childress County, Mark W. Graham, identified the records he had with him as Vol. 3 of the minutes of the commissioners’ court of said county, and that he duly read to the jury the following instruments which were offered in evidence:
+“1. The order calling the Prohibition Election as contained in Volume 3, page 154 of the Commissioner’s Court minutes.
+“2. The order canvassing the returns and declaring the results of the election as contained in Volume 3, page 158 of the Commissioner’s Court minutes.
+“3. The certificate of the County Judge showing publication of said order as contained in Volume 3, page 166 of the Commissioner’s Court minutes.”
+County Clerk Graham testified also that he had read the order calling the prohibition election, the order canvassing the returns and declaring the results of the election and the certificate of the couny judge showing publication of said order; that he had examined the record carefully and had not found any order canvassing the return showing that prohibition had been repealed in Childress County; and “if there had been an order I would have known it.”
+The records mentioned were admitted without objection.
+The orders read by the clerk and introduced at the trial are not set out in the agreed statement of facts.
+The trial judge was apparently satisfied with the proof by these records of the dry status of Childress County, ■ and there was no suggestion prior to the verdict that appellant in any way questioned the sufficiency of the record evidence.
+The trial judge acted upon this proof as undisputed evidence that Childress County was dry and in his charge assumed such fact and required no finding on that issue by the jury.
+Where the evidence establishes such dry status, and no issue has been raised, an instruction to the effect that an area is dry is proper. Walker v. State, 143 Texas Cr. Rep. 155, 157 S.W. 2d 887; Garner v. State, 133 Texas Cr. Rep. 86, 109 S.W. 2d 182.
+In view of the court’s charge and the absence of any objection, exception or requested charge, and any evidence questioning the dry status of Childress County, we would not be authorized to reverse the conviction because the records introduced and read to the jury were not made a part of the record on appeal.
+Pearson v. State, 138 Texas Cr. Rep. 517, 137 S.W. 2d 28, is cited and relied upon by appellant. In that case we reversed the conviction and said that the orders identified and referred to by the clerk should have been incorporated in the record in order that this court could determine whether the area was dry.
+The distinguishment between the Pearson case and the case before us is the court’s charge. In the Pearson case it was pointed out that the court did not instruct the jury that Cherokee County was a dry area, but required the jury to find that it was.
+The contention that there was an outstanding hypothesis •not disproved, that others had equal opportunity to possess the eight half-pints of whisky, cannot be sustained in view of the fact that the only other person shown to have been in the pasture testified that he did not put the whisky there “and don’t . know who did it.”
+Aided by the presumption arising from the possession of more than one quart of whisky in a dry area, the evidence is sufficient to sustain the conviction.
+No reversible error appearing, the judgment is affirmed.
