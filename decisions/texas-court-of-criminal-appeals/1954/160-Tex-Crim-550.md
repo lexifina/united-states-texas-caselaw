@@ -1,0 +1,48 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,204"
+decided: "1954-12-01"
+citations: ["160 Tex. Crim. 550"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emilio Gutierrez v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2471265
+---
+
+# Gutierrez v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for unlawfully failing to provide for the support and maintenance of children of appellant under the age of 16 years; the punishment, 90 days in jail.
+The sole question presented is the sufficiency of the evidence to sustain a finding that appellant wilfully failed or refused to support his children.
+The indictment was returned on April 27, 1954, and charged the offense to have been committed on or about April 1, 1954. We need not, therefore, consider the testimony relative to appellant’s contribution or failure to contribute after the indictment had been returned, except as same may bear upon the question of his failure to support his children prior to April 27, 1954.
+Appellant and Rita Gutierrez were married in 1947. The four children named in the indictment were bom of said marriage and another was expected shortly after the trial, which was in June 1954.
+Prior to July 1953 appellant had been employed at Angelo Feed and Supply Company, earning $95 each two weeks. He lost his job with the feed and supply company in the summer of 1953 because they did not need him any longer. In July 1953, a complaint was filed against him by his wife Rita, charging him with wilfully failing to support her and their children.
+He was released from jail and promised to support and feed his children, the district attorney telling him that if he would do so, the case would be dismissed. It was marked dismissed upon the docket of the magistrate in August 1953.
+Appellant picked cotton for a short time in the fall of 1953 and his family received the benefits of his compensation therefrom, and they continued to live together in a two-room rented house until February 1954.
+Meantime appellant obtained employment from a brother who was engaged in the business of unloading lumber and in trucking same.
+On February 9th appellant complained to his wife because she had received from his employer brother a check for $10 drawn to cover the wages due him. She told him that she had spent the money for groceries. On February 12th Rita filed a complaint alleging that appellant had threatened to and was about to attack her and do her bodily injury, and prayed that he be required to enter into a peace bond. She also filed complaint alleging his failure to provide for the support of his children.
+If we correctly understand the record, appellant’s income in January 1954 was $11.05 and he had no income in February 1954 other than the $10 which his wife received.
+Appellant separated from his wife and did not return to her when he was released from jail on March 3, 1954, following the refusal of her request that he be required to enter into a peace bond.
+The evidence shows that appellant thereafter furnished groceries to the extent of six or seven dollars per week, paid the rent on the house, and on March 15, gave his wife $5.00.
+The evidence further shows that he had saved up $54.00 which he had for the expense connected with the arrival of the expected child.
+On the other hand, the electricity was cut off in December and the gas in March, for non-payment of the bills.
+As to the earnings of appellant, the evidence shows the following amounts paid to him by his brother for his services prior to the return of the indictment April 27, 1954:
+January 23 $11.05
+March 13 18.25
+March 20 17.43
+March 27 55.25
+April 4 20.40
+April 10 21.68
+April 17 27.55
+April 24 28.05
+It is shown that appellant lived with his mother after the separation and contributed $10 per week toward the grocery bill.
+The indictment alleged the offense to have been committed on or about April 1, 1954, and does not, therefore, appear to have been predicated upon the complaint filed by Rita Gutierrez in February. The state evidently relies upon the period of time after his release from jail on March 3, 1954. The undisputed evidence shows that he was then furnishing groceries to the extent of six or seven dollars per week rather than cash, as advised by his attorney; was paying the rent and laying aside money for the expenses incident to the coming birth of another child.
+The principal complaint made by the wife in her testimony was that appellant did not provide her with money for the children’s support, as he had prior to their separation.
+Appellant testified that his wife had filed charges against him, and that he had found a letter addressed to her in which was enclosed a picture of a man he had seen her with during a prior separation. He also testified that he had been advised by his attorney that he should provide for his children and, under the circumstances, should do so by furnishing them groceries rather than by paying money to his wife.
+The evidence is deemed insufficient to sustain the conviction.
+The judgment is reversed and the cause remanded.
