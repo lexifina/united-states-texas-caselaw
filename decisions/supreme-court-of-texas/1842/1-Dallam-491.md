@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Texas"
+docket: "XIX"
+decided: "1842-01"
+citations: ["1 Dallam 491"]
+reporter: "dallam"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. W. Tinnen v. E. Matthews."]
+source_url: "https://static.case.law/dallam/1/cases/0491-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12188894
+cites_cases: ["10 T. C. A., 166", "11 T. C. A., 381", "11 T. C. A., 515", "11 T. C. A., 658", "25 T. C. A., 362", "3 T. C. A., 502", "5 T. C. A., 483", "5 T. C. A., 690"]
+---
+
+# Tinnen v. Matthews
+
+## Majority (HEMPHILL, Chief Justice.)
+
+HEMPHILL, Chief Justice.
+—The action was brought in this case on a note of hand drawn by the appellant in favor of James Weather-ford, and by a second indorsement transferred to the appellee. On the first day of the term of the court to which the writ was returnable, the defendant in the court below craved oyer of the note on which the suit was instituted, and the defendant thereof prayed judgment for costs. On the fifth day of the term the entry states that the demurrer of the defendant was overruled and the issue joined submitted to a jury, who returned a verdict for plaintiff for $318. Judgment was entered for not only the amount of said verdict, but for the additional sum of $85.54 as damages for the detention of the debt. A motion was made for a new trial on the ground that the cause was submitted to the jury without answer on the part of the defendant putting in issue any fact whatsoever; that a judgment in default should have been rendered against him; that by law he would have been entitled to a term of three days thereafter to plead any matters in his defense; and that he has a legal and valid defense to the action. The motion for a new trial was overruled, and an appeal has been taken to this court. From the entries in this cause it would seem, that the craving of oyer on the part of the defendant was regarded as a demurrer to the plaintiff’s petition. This is doubtless a misentry of the clerk. The distinction between the demand of oyer and the plea in law styled demurrer is so palpable that the possibility of their being confounded by a judicial tribunal can not well be supposed. It will be unnecessary to discuss at length the frivolous distinction by which in the courts, governed purely by the common law, oyer is granted of sealed and is refused of unsealed instruments.
+This was an arbitrary difference founded on no solid grounds, and in England at the present time is evaded and rendered nugatory. In that country the judges will in most cases at the demand of the opposite party order the inspection and a copy of unsealed instruments. It may well be doubted whether such a distinction can properly exist under the system of pleading authorized by the laws of this country. The right of oyer under the common law, is founded on the necessity imposed on the opposite party when relying on a deed, bond, etc., as the foundation of the cause of action, or as a ground of defense, to make profert of the deed, bond, etc. No profert is made of a promissory note, and therefore the right of oyer did not arise. These are technical distinctions of the system of pleading under the common law. Under the simplicity of the system adopted by the statutes of this Republic they must surely be unknown. Our statute prescribing the essential allegation of a petition makes no discrimination between petition on a bond and one on a note. It certainly does not contemplate that profert should be made in the one case and not in the other; and as the basis on which the rights of oyer, technically so called, is swept away, it would seem absurd that this obnoxious distinction should continue to exist. We are, however, of opinion that in all cases where the action or defense is founded on a written instrument, whether sealed or unsealed, the opposite party is on motion before issue joined entitled to inspection of the same, and that the judge below erred in not granting the prayer of the defendant for oyer of the instrument sued on.
+The record shows that judgment was entered upon the fifth day of the term. This, we are of opinion, was error. There being no answer, judgment by default should have been taken on the second day of the term; and if in three days thereafter the defendant neither appeared nor filed his answer, definitive judgment should have been given for plaintiff.
+The proper construction of the third and fourth sections of the “act regulating civil suits/’ approved February 5, 1840, does not seem to authorize the renditions of definitive judgment where the defendant does not appear and answer before the sixth day of the term of the court; and consequently the judgment in this cause was premature and in violation of the rights of the defendant.
+Another error apparent on the face of the record was alluded to in the argument and brief of counsel. The verdict of the jury is for the sum of $318. Judgment is entered thereon for that amount, and for the additional sum of $85.54 as damages for the detention of the debt. This was unauthorized, as there is no principle of law more firmly established than that the judgment must correspond with the verdict.
+It is ordered, adjudged and decreed that the judgment of the court below be and the same is hereby reversed, and that the cause be remanded for a new trial.
+Reversed and remanded.
