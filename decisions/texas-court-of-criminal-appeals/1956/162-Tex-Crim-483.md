@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,061"
+decided: "1956-02-15"
+citations: ["162 Tex. Crim. 483"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Howard Noe v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0483-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2463194
+cites_cases: ["209 S. W. 151", "248 S. W. 349", "47 Tex. Cr. R. 156", "82 S.W. 652", "84 Tex. Cr. R. 579", "93 Tex. Cr. R. 615"]
+---
+
+# Noe v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for driving an automobile upon a public highway while intoxicated; the punishment, 3 days in jail and a fine of $200.
+The facts need not be discussed. Suffice it to say that the issue of appellant’s intoxication was closely contested.
+The trial court instructed the jury: “In your deliberations you should not attempt to arrive at a verdict by lot or chance or by a ballot as to the particular punishment each juror is in favor of assessing and then dividing same by the number of six, or in any manner other than a fair consideration of the law and evidence.”
+The objection, timely presented, to this instruction was that it constituted a comment on the weight of the evidence and an indicaion to the jury that the court expected the jury to find appellant guilty. Exception was reversed to the overruling of the objection.
+Art. 707, V.A.C.C.P., provides, in part, that the trial judge shall not at any stage of the proceedings previous to the return of a verdict, make any remark calculated to convey to the jury his opinion of the case.
+Where an admonitory charge of the nature of that before us is to be given, the court must admonish the jury that they should first find the defendant guilty; that is, the admonition in regard to the fixing of punishment by lot or chance must be prefaced by the statement “If you should find the defendant guilty” or words of like import. Hart v. State, 47 Tex. Cr. R. 156, 82 S.W. 652; Winfrey v. State, 84 Tex. Cr. R. 579, 209 S. W. 151; Lovel v. State, 93 Tex. Cr. R. 615, 248 S. W. 349; 24 Tex. Jur., p. 619, Sec. 128.
+The judgment is reversed and the cause is remanded.
