@@ -1,0 +1,51 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,763"
+decided: "1954-02-03"
+citations: ["160 Tex. Crim. 8"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. C. Perry v. State."]
+source_url: "https://static.case.law/tex-crim/160/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469375
+cites_cases: ["146 S.W. 919", "255 S.W. 2d 520"]
+---
+
+# Perry v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is violation of Art. 627 P.C. in permitting premises to be used for gaming. The punishment, 2 years in the penitentiary.
+There are no formal bills of exception.
+The evidence shows that appellant rented from the owner a building in Center, Texas, which consisted of two separate rooms. One of the rooms appears to have housed a cafe, while the other was used as a shoe shine parlor. During appellant’s tenancy, the cafe which had been in the back room was moved to the front, and the shine parlor was moved from the front to the rear room.
+The state proved that on or about the date alleged in the indictment, a number of persons were found gambling with dice in the rear room. Appellant was present and had some money in his hand.
+There is evidence, also, that there was gambling there on. prior occasions and that one of the shine boys took the money bet when a three was rolled by the person throwing the dice. He was seen to pay appellant some money after the game on the occasion first mentioned.
+Appellant testified and offered testimony to the effect that the rear room, or shine parlor, was under the control of the shine boys and that he did not consent but, on learning of it, ordered that the gambling cease.
+Having rented the two rooms, appellant cannot escape responsibility on the ground that he was not in control of both the cafe and the shine parlor. De Los Santos v. State, 65 Tex. Cr. Rep. 518, 146 S.W. 919.
+The evidence is sufficient to sustain the conviction.
+Appellant first presents his complaint that the trial court declined to place certain officers under the rule which had been invoked at his request.
+In Wilson v. State, 158 Tex. Cr. Rep. 334, 255 S.W. 2d 520, relied on by appellant, the trial judge certified that the presence of the deputy sheriff witness was not necessary to the transaction of the court’s business, thereby rendering inapplicable the rule that the judge is warranted in excusing from the rule officers whose presence is deemed necessary or incident to the operation of the court or the trial.
+In the Wilson ease the deputy sheriff was present at the time of the alleged offense and was permitted to testify after hearing the testimony of appellant and a witness for the state. His testimony corroborated the testimony of the state’s witness and contradicted that of the defendant. We concluded that under these facts an abuse of discretion was shown.
+' The statutes, Arts. 644 and 645 V.A.C.C.P., and the authorities construing their provisions, are to the effect that whether a witness should be excused from the rule is within the discretion of the trial judge and his ruling will not be disturbed unless the record discloses abuse of such discretion.
+Whether or not a witness may be permitted to testify who has remained in the courtroom while another witness is testifying is likewise a matter of discretion, but this discretion must not be abused.
+Here the complaint is that among others, justice of the peace, J. J. Jackson, John Hoyt, Agent of the Texas Liquor Control Board, and Wade Ramsey, Constable of Precinct 1 of Shelby County, were excused from the rule, over appellant’s protest.
+Hoyt was the third witness called by the state. Prior to his being called, Ned Garrett had testified that he owned the building in question and had rented it to appellant on a month to month basis for some time. He described the location of the two rooms and of the building and testified that appellant paid the rent.
+The next state’s witness was Rev. T. W. Anderson who occupied another part of the building owned by Ned Garrett, who testified that he had seen people gambling with dice in appellant’s building.
+Hoyt was then called and testified that he had only heard a witness describe “the walls of the cafe.” He was then permitted, over objection of appellant’s counsel, to testify to having caught some boys gambling with dice on more than one occasion and that at one time appellant was present.
+There is nothing in the record to show injury or prejudice to appellant in Hoyt having been excused from the rule and permitted to testify.
+It is primarily in cases where the officers testify about the same incident, contradict the defendant, or corrborate each other as to details that any possibility of injury arises.
+Constable Wade Ramsey was the next witness called by the state. He testified that he had not been in the courtroom during the testimony.
+Judge Jackson testified at a later time, and we find no objection to his being permitted to testify after being excused from the rule.
+Chief Deputy Sheriff Alton Hughes was also excused from the rule and permitted to testify, but there is nothing in the record to show that his presence as an officer was not deemed by the trial judge to be proper or necessary in connection with the trial and the business of the court.
+We are unable to agree that an abuse of discretion is shown on the part of the trial judge in excusing these officers from the rule and permitting them to testify.
+Appellant next complains of the overruling of his motion for continuance because of an absent witness who was ill.
+Such a motion appears in the transcript as having been filed but there is nothing to show that it was called to the attention of the trial judge or that it was acted upon by him.
+Art. 760e V.A.C.C.P. authorizes us to pass upon the question only where, in addition to the motion, the order entered thereon and the exception to the ruling is shown in the transcript.
+It is next contended that the trial court erred in refusing to give a special charge requested by appellant requiring that in order to convict the jury must find that the shoe shine parlor was under the control of appellant.
+This requested charge was refused with the notation, over the judge’s signature, “Refused for it was given.”
+The court’s charge contained the following instruction: “You are further instructed that you cannot convict the defendant unless you believe from the evidence beyond a reasonable doubt that the room where the offense is alleged to have occurred, if it did, was under the control of the defendant at the time. If you do not so believe, or if you have a reasonable doubt thereof, you will acquit the defendant.”
+Having given this instruction, the trial court did not err in refusing the special charge.
+Finding no reversible error, the judgment is affirmed.
