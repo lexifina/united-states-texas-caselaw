@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "5108"
+decided: "1918-10-23"
+citations: ["84 Tex. Crim. 166", "206 S.W. 90"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Espia Vaughn v. The State."]
+source_url: "https://static.case.law/tex-crim/84/cases/0166-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4772047
+cites_cases: ["120 S. W. 880", "120 S. W. Rep., 880", "146 S. W. 878", "146 S. W. Rep., 878", "48 Tex. Cr. R. 35", "48 Texas Crim. Rep., 35", "49 Tex. Cr. R. 105", "49 Tex. Cr. R. 292", "49 Texas Crim. Rep., 105", "49 Texas Crim. Rep., 292", "56 Tex. Cr. R. 498", "56 Texas Crim. Rep., 498", "66 Tex. Cr. R. 326", "66 Texas Crim. Rep., 326", "85 S. W. 1069", "85 S. W. 14", "85 S. W. Rep., 14", "90 S. W. 654", "92 S. W. 414"]
+---
+
+# Vaughn v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted in the County Court of shooting craps, his punishment being assessed at a fine of $15.
+Several propositions are presented for discussion, but the main question is presented from the facts and special charges, towit: the evidence is not sufficient to support the conviction, and the refused instructions to the jury that they should acquit for want of sufficient evidence.
+The State’s case is made by the testimony practically of the witness Dodson, sheriff of Taylor County. He arrested appellant at a place he denominates the “Flats” in the City of Abilene. He went to a house where there were negroes congregated and listened at the door; heard the snapping of fingers and the sound of rolling dice and talking. He then went to the side of the house where there was a window light broken out and the curtain pulled down. He pulled the curtain aside and looked in and saw eight or nine negroes in the room. Appellant w^s at one end of the table and Luther Graves at the other. Appellant had a bottle of whisky under his hand in front of him. ■ Luther Graves had money on the table in front of him and money in his hand. Just as this witness looked in a pair of dice were rolled on the table. They came from the direction of appellant. As the witness looked in he saw appellant pick up the dice. He further stated he did not hear appellant make any remark about betting, or playing or shooting, but could not hear well enough to fully understand what was said. He did not see the defendant throw any dice. When appellant saw witness he picked up the dice. This was the only time he saw dice in appellant’s hand. ■ He had no money in front of him, nothing but a bottle of whisky under his hand. This was in front of him and not in the middle of the table. The money was in front of Luther Graves, and some under Graves’ hand. It was not in the middle of the table. He could not say that the defendant was snapping his fingers; he just heard that before looking in the window; did not know who was doing it.
+Appellant had no money on his person. Graves had all the money that was discovered after the officers entered the room. The witness Lilius testified substantially as did the sheriff. Foster, Allen and appellant all testified practically to the same state of facts, that they were all in the room that evening, eight or nine negroes altogether; that they did not gather for any particular purpose; they were talking; it was cold outdoors and there was a fire in the room, and that negroes often came there and talked. That no crap game of any kind took place there that day. Luther Graves had a pair of dice before the officers came in and was trying to get somebody to play with him. He had money on the table in front of him and some in his hand. He said he wanted to win some money to go to San Angelo. ¡Nobody else in the room had any money that witness knew of. Appellant had a bottle of whisky, and before the officers came somebody suggested, “Why don’t you bet your whisky?” Luther Graves said that whisky would not take him to San Angelo. Just a few minutes after that Mr. Dodson looked in the window and saw them and came in and arrested appellant and took him before a court of inquiry. That neither Luther Graves nor appellant played craps there that day or made bets of any kind. The room they were in was the room occupied by the witness Foster. Allen testified practically to the same state of facts as did appellant. Appellant said they were in John Foster’s room with eight or nine other negroes. Graves was there and kept trying to get somebody to shoot dice with him; he kept throwing the dice on the table and snapping his fingers, and asking for somebody to play with him. “I had a bottle of whisky with me and somebody in the room suggested that I- bet it, but Luther said he did not want to play for whisky. ¡Nobody there played with Luther, and there was no crap game or betting whatever.”
+This is the entire case. We are of opinion the evidence is not sufficient and the court should have directed an acquittal. There are quite a number of cases in point. Among others we cite Hale v. State, 49 Texas Crim. Rep., 105; Falwell v. State, 48 Texas Crim. Rep., 35; Ables v. State, 49 Texas Crim. Rep., 292; Looper v. State, 56 Texas Crim. Rep., 498, 120 S. W. Rep., 880; Thomas v. State, 66 Texas Crim. Rep., 326, 146 S. W. Rep., 878; Berry v. State, 85 S. W. Rep., 14.
+The judgment is reversed and the cause is remanded.
+Reversed and remanded.
