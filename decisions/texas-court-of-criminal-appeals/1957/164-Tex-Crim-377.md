@@ -1,0 +1,33 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,619"
+decided: "1957-01-02"
+citations: ["164 Tex. Crim. 377"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Francisco F. Rodriguez v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2609636
+cites_cases: ["159 Texas Cr. Rep. 256", "162 Texas Cr. Rep. 332", "162 Texas Cr. Rep. 462", "262 S.W. 2d 400", "285 S.W. 2d 757", "286 S.W. 2d 430"]
+---
+
+# Rodriguez v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the possession of marijuana; the punishment, seven years.
+The prior conviction in this ease was reversed because of an error in the court’s charge. Rodriguez v. State, 162 Texas Cr. Rep. 332, 285 S.W. 2d 757.
+Lieutenant Jackson of the narcotic section of the Corpus Christi police force testified that, in company with other officers under his command and pursuant to information which he had received, he went to a remote spot on the edge of the city on the day in question and lay in wait for several hours. After dark, he observed a pickup truck containing two men pass at a slow rate of speed, turn around, and leave the area. A short while thereafter, a Nash automobile approached his hiding place at a slow rate of speed, turned around, and parked; and five minutes later the pickup truck returned, cutting off its lights as it turned the corner, and parked a short distance from the Nash. A man got out of the pickup, walked up to the Nash, said something to the driver, returned to the pickup, where he got a beer case, and had again started toward the Nash when Jackson and his fellow officers made their presence known and placed the two men under arrest. The Nash hurriedly left the scene, and its driver was not apprehended. The man with the beer case was Rudolfo Rodriguez, no relation of the appellant, and the man who owned the pickup and who was seated therein at the time of his arrest was the appellant. Jackson’s testimony was corroborated by Officer Lampl.
+In the beer case and other boxes in the pickup were found 50 pounds of crude marijuana.
+Rudolfo Rodriguez testified that he had known the appellant for a number of years, that sometime before the day charged in the indictment he told the appellant that he had a colored man who was willing to pay $1800.00 for 50 pounds of marijuana, that the appellant told him that he could fill the order but that it would take some time to do so. He stated further that on the day in question the appellant notified him that he was ready to deliver and would do so that night, that he in turn notified the colored man, and the two of them selected a point of delivery. Later on that day, he drove the appellant to the designated spot, returned, and got in the appellant’s pickup with him, and again drove to the transfer point at the designated hour. When contact was made, the appellant told him to see if the purchaser was equipped with the necessary cash. After seeing the money in the colored man’s possession, he returned to the pickup, got a box, and was in the process of delivering it when he and the appellant were arrested. He made a confession to the police that night. Rudolfo stated that the appellant had agreed to pay him $100.00 for his services as a “go between.”
+The appellant, testifying in his own behalf, stated that he paid a visit to Rudolfo’s bar on the night in question and Rudolfo asked him to help him deliver some boxes to his sister and that, without any knowledge of the contents of the boxes, he agreed and at Rudolfo’s direction drove to the point where they were arrested.
+Appellant offered several reputation witnesses and a great many extraneous avenues were pursued, but the above constitutes a digest of the controlling facts.
+The sole question presented is the appellant’s claim that he is entitled to a reversal of this conviction because he has been deprived of a statement of facts through no fault of his own.
+The statement of facts before us was not approved by the trial judge until after the expiration of the 90 days set forth in the statute, but his certificate of approval recites that the attorney for the state approved the same but that appellant’s attorney declined to do so, which certificate authorizes this court to consider the same. Widener v. State, 159 Texas Cr. Rep. 256, 262 S.W. 2d 400, and Smith v. State, 162 Texas Cr. Rep. 462, 286 S.W. 2d 430.
+Appellant seems to be laboring under' the impression that the law requires that the judge, in case counsel are unable to agree, must start anew and prepare an entire statement of facts of his own. Such would be a most unfeasible requirement. If counsel are unable to agree upon the statement of facts submitted by the court reporter but the court does find it to be accurate, he may endorse such disagreement of counsel and approval by the court and file the same. This is what appears to have occurred in the case at bar, and hence we have considered the same.
+This is not intended to be a commendation of the court reporter for his manner of preparing a statement of facts, but it is sufficient to be considered.
+Appellant left with this court for examination a carbon copy of the statement of facts prepared by the court reporter. He points out several obvious errors in transcribing, none of which we consider material. We are unable to consider the penciled notations, “exception,” which he has interlined, nor do we think that our disposition of this cause would have been any different if we had.
+The judgment is affirmed.
