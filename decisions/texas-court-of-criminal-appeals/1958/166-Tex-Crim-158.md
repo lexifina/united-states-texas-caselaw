@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,659"
+decided: "1958-03-19"
+citations: ["166 Tex. Crim. 158"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dorothy Davis v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2615622
+---
+
+# Davis v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is theft of property of the value of over $5 and under $50; the punishment, ninety days in jail.
+The complaint and information alleged the theft of fifteen pairs of ladies hose, each of the value of seventy-five cents, from W. E. Sweeney.
+Appellant did not testify and offered no evidence in her behalf.
+W. E. Sweeney, assistant floor manager at a J. C. Penney Company Store in Houston, having custody and management of the hosiery department on the first floor, testified that he heard one of the ladies behind the hosiery counter call out, “Mr. Sweeney,” at which time he saw the appellant who was standing in front of such counter push some hosiery into a large shoulder strap type bag.
+Mr. Sweeney further testified that he summoned Mr. White, the floor manager, and together they followed appellant down the aisle and stopped her at the elevator and took from her fifteen pairs of hose that were concealed in her hand bag, or shoulder bag.
+Mr. Sweeney further testified, without objection, that the replacement cost or value of the hosiery was seventy-five cents a pair, and that the hose taken from appellant were hose of which he had custody and control; that he did not give appellant his consent or permission to take the hose.
+The hose were not wrapped and the evidnnce shows that no sales ticket was found.
+Floor Manager Garland White’s testimony corroborated that of Mr. Sweeney.
+We find the evidence sufficient to sustain the conviction and overrule the contention that the corpus delicti was not established.
+The judgment is affirmed.
