@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "11398"
+decided: "1928-02-29"
+citations: ["109 Tex. Crim. 133"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gip Holder v. The State."]
+source_url: "https://static.case.law/tex-crim/109/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5152536
+---
+
+# Holder v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+Conviction for vagrancy, punishment a fine of one dollar and costs.
+The case must be reversed for misconduct of the jury as shown in bill of exceptions No. 4. It is there certified as a fact by the bill, and approved as such by the learned trial judge, that while the jury were in retirement and deliberating on this case, and after two of them had voted not guilty, another juror stated that appellant was a gambler and handled whiskey. It is stated without contradiction that believing this to be true, upon another ballot said two jurors, who had been for acquittal, voted with their brethren and found the accused guilty. There is nothing in the statement of facts suggesting that appellant was a gambler, or that he handled whiskey. Said facts were material and calculated to induce the jurors to believe him guilty of the character of vagrancy asserted in the complaint and information.
+We have much doubt of the sufficiency of the facts in this case. Appellant was charged with being an able-bodied person who lived without employment and had no visible means of support. We find in the evidence of no witness any testimony suggesting that appellant had no money, or that he was engaged in making a livelihood by questionable means. The state witnesses affirmed that appellant played dominoes a great deal of the time, and that they knew of no means of support he had except that he owned a horse, and had been known to use same in helping to drive cattle. It was affirmed by the officers who testified for the state that they never had heard any complaint of appellant failing or refusing to pay his debts or giving hot checks or anything of that kind. On behalf of appellant it was shown by a man who had bought and sold cattle that he had employed appellant at times to assist him and had paid him $50 or $60 for work “this spring.” Appellant testified that he rented a house, and kept his horse in a pasture; that he was not skilled at any other kind of work except working with cattle; that he was fifty-four years old; that he came to Somervell County working in the eradication of ticks, and at that time was getting $100 a month. He said he had $100 loaned out at interest, and had $40 or $50 in the bank at the time he was tried, and about that much in cash in his pocket; that he had no one dependent upon him, and that his living cost him about $20 a month. He further testified that because of an operation he was unable to do heavy physical work. The fact that appellant had paid all of his debts, and that he had' money, and that he had worked at honest employment, and was still so doing when opportunity presented itself, does not seem contradicted by the testimony of the state. It is suggested that unless the state can make out a stronger case against appellant, the evidence will be deemed insufficient.
+For the error referred to the judgment is reversed and the cause remanded.
+Reversed and remanded.
