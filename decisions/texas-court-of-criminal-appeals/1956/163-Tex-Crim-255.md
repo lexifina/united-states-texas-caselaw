@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,278"
+decided: "1956-05-23"
+citations: ["163 Tex. Crim. 255"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Corando Perez v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462187
+---
+
+# Perez v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for murder without malice; the punishment, five years in the penitentiary.
+The homicide occurred on the afternoon of July 6, 1952, at the La Rosita Inn, located on the highway between Freer and San Diego in Duval County.
+According to the state’s witnesses, the deceased was seated at a booth talking to two women when the appellant entered the place. Appellant went directly to the booth where the deceased was seated and after dancing with one of the women returned and began cursing the deceased. In the argument which followed, appellant struck the deceased in the face with his open hand, stepped back a distance estimated from 6 to 15 feet and threw a beer bottle which struck the deceased on the right side of the head above the ear and with such force as to break the bottle.
+The state’s testimony further shows that, after the fight the deceased was carried to his home by his brother and other companions and died sometime during the night.
+Dr. John Pilcher, a pathologist, who performed an autopsy upon the body of the deceased, testified that, upon opening the head, he found a fracture of the skull in the area of the right ear and about six ounces of clotted blood between the skull and the dura mater. Dr. Pilcher further stated that, in his opinion, the cause of death of the deceased was the fracture of the skull and the hemorrhage inside the head.
+Appellant, as a witness in his own behalf, in giving his version of the difficulty, admitted slapping the deceased and throwing the bottle but testified he had no intention of killing the deceased. Appellant testified that, while he was standing at the booth, arguing with the deceased, “he stuck his hand in his pocket and pulled a knife out and I slapped him.” “He was opening it like this, he was trying to open it with his fingernails that he (appellant) then took a couple of steps back and threw the bottle; that the reason he stepped back and threw the bottle was “Because he was coming at me with a knife,” “he was coming out of the booth,” and “Because I was afraid that he was going to cut me.”
+Appellant made numerous objections to the court’s charge on self-defense and insists that the charge as given was erroneous.
+The court’s instruction to the jury on the appellant’s right of self-defense, omitting certain portions thereof, reads as follows:
+“Homicide is justifiable in the protection of the person against any unlawful and violent attack, but in such case all other means must be resorted to for the prevention of the injury, and the killing must take place while the person killed is in the very act of making such unlawful and violent attack.
+“The attack upon the person of an individual in order to justify homicide must be such as produces a reasonable expectation or fear of death or some serious bodily injury.
+“Now, therefore, you are instructed that if you find and believe from the evidence in this case, or have a reasonable doubt thereof, that at the time of, or just prior to the transaction in question, the deceased had made or was in the act of making an unlawful and violent attack upon the defendant and that such attack, if any, did not create in the mind of the defendant a reasonable apprehension or fear of death or serious bodily injury, still, the defendant would have a right to defend himself against such unlawful and violent attack and to kill the deceased, if he did, provided all other means were resorted to by the defendant for the prevention of the injury save retreat, and provided further that the killing, if any, took place while the deceased was in the very act of making an unlawful and violent attack upon the defendant, and in case you so find or have a reasonable doubt thereof, you will acquit the defendant.”
+From a reading of the court’s charge, above quoted, it appears that the court was attempting to instruct the jury on the appellant’s right to defend himself against an unlawful and violent attack which did not give rise to a reasonable apprehension or fear of death or serious bodily injury as provided by Art. 1224, V.A.P.C. However, the instruction in the charge that “The attack upon the person of an individual in order to justify homicide must be such as produces a reasonable expectation or fear of death or some serious bodily injury,” limited the appellant’s right to defend himself against a deadly attack under the provisions of Art. 1222. V.A.P.C.
+The charge is clearly contradictory and confusing in that it limits the right of self-defense to a deadly attack under Art. 1222, supra, and then attempts to instruct the jury on the right of self-defense against a milder attack under Art. 1224, supra. The instruction which required that the appellant resort to all other means before defending himself could not be applied to his right of self-defense against a deadly attack. Branch’s Ann. P.C., Sec. 1919, page 1070.
+We think the appellant’s testimony was sufficient to raise the issue of his right of self-defense against a deadly attack, under Article 1222, supra, and that the court erred in not separately submitting such defensive issue to the jury.
+The error and omission was properly called to the court’s attention by appellant’s objections to the charge and exceptions reserved.
+For the errors and omission in the charge, the judgment is reversed and the cause remanded.
+Opinion approved by the Court.
