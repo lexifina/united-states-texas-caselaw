@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,362"
+decided: "1961-05-24"
+citations: ["171 Tex. Crim. 165"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Johnnie Mae Ashley v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0165-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2629879
+cites_cases: ["247 S.W. 2d 889"]
+---
+
+# Ashley v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is receiving and concealing stolen property; the punishment, 9 years.
+The confessions of the thieves, from whom appellant is alleged to have received the stolen items, were introduced in order to show that the goods were stolen. They both recited that they went from San Antonio, where they lived, to Schulenburg and there broke and entered a clothing store and stole some money and some clothes. One of the burglars, Neal, testified that he, Berry (the other burglar) and appellant went to Schulenburg, went in the clothing store about closing time and stayed for a short time, left and waited for the people to leave the street, and then returned; that he and Berry broke the glass out of the front door, entered and took the money and a number of items of clothing, both men’s and women’s. He testified that he gave appellant, who had remained in the automobile, some of the items enumerated in the indictment and that Berry gave her the remainder.
+The owner of the store and his wife identified appellant as being the woman who, in company with some men, was in their store shortly before closing time but who made no purchases. They testified that some two weeks later, in company with officers, they went to a certain house in the city of San Antonio, where they found a number of items of merchandise which they recognized as having come from their store, and that they then went to the courthouse where they saw Neal and Berry.
+Officers who conducted the search testified that appellant admitted them to the house in question, stating that she lived there, and that commingled with the goods identified by the store owner were other items of apparel which appellant claimed to be her own and which they did not disturb.
+Appellant, testifying in her own behalf, stated that she had never been in Schulenburg in her life, did not accompany Neal and Berry on the night in question, did not receive any clothing from them, and did not know that the stolen items were in the room where the officers found them, though she admitted that several items of her own were in the room which she stated was rented to Berry. She testified to an alibi and was supported in the same by one of her friends.
+The state called two employees of the store in rebuttal, and they positively identified appellant as having been in the store in Schulenburg on the night in question.
+The jury chose to accept the state’s version of the transaction, and we have concluded that the evidence is sufficient to corroborate Berry’s testimony.
+No brief has been filed on appellant’s behalf, but during the trial strenuous' objections were made to the introduction of Neal’s and Berry’s written confessions. The admissibility of such confessions was approved in the relatively recent case of Pollan v. State, 157 Tex. Cr. Rep. 178, 247 S.W. 2d 889.
+Finding the evidence sufficient to sustain the conviction and no reversible error appearing, the judgment of the trial court is affirmed.
