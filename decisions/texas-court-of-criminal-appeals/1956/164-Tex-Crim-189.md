@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,581"
+decided: "1956-11-28"
+citations: ["164 Tex. Crim. 189"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jesse Wheeler v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0189-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2608434
+---
+
+# Wheeler v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for possessing marijuana, with punishment assessed at two years in the penitentiary.
+An officer of the city of San Antonio received a call to investigate an automobile parked on a city street. A search of the automobile revealed four marijuana cigarettes in an envelope behind the raised sun visor. The , officer replaced the cigarettes where he had found them, and then backed and parked the police car nearby in order to watch the automobile searched. Later, appellant approached it, got in, and drove away. When the officer sounded his horn and told him to halt, appellant raised his hand to and flipped the sun visor, and stopped. As the officer came to the car he noticed appellant trying to push something under the front seat, where the cigarettes were found.
+The automobile was owned by the appellant, but, testifying as a witness, he denied any knowledge on his part that the cigarettes were in the car.
+The sufficiency of the evidence to support the conviction presents the sole question for review.-
+Under the facts stated, the jury was authorized to conclude that appellant possessed the marijuana cigarettes.
+The judgment is affirmed.
