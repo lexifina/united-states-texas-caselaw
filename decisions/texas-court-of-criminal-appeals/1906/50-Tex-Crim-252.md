@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3228"
+decided: "1906-06-20"
+citations: ["50 Tex. Crim. 252"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. L. McKnight v. The State."]
+source_url: "https://static.case.law/tex-crim/50/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2368409
+cites_cases: ["31 Texas Crim. Rep., 525", "36 Texas Crim. Rep., 182"]
+---
+
+# McKnight v. State
+
+## Majority (HENDEBSON, Judge.)
+
+HENDEBSON, Judge.
+Appellant was convicted of unlawfully carrying a pistol, and his punishment assessed at a fine of $25; hence this appeal.
+The testimony shows that appellant and his wife were not living together, and that on the occasion in question he carried the pistol to the house where his wife was living, pulled it out of his pocket while there, stating that he had brought it there for her protection, tried to put it behind the clock, but it would -not fit. He then put it in his pocket, and" remarked that he intended to kill her and some other people around there. This testimony was elicited on the part of the Stale from a nephew of appellant, to wit: Will Adams, a boy about 11 years old, and by appellant’s two minor children, one about 9 and the other about 7, who testified, in effect as above stated. Appellant testified denying that he carried said pistol there on the occasion in question, stating that he had been at the house where his wife lived, once since their separation and then went only to the gate, in company with another party, and sent some money in to his wife.
+Appellant reserved the following bill of exceptions to the introduction of testimony, to wit: while the State’s witness, Willie Adams was on the stand, he was permitted to state that he testified about the pistol before the grand jury in Cleburne; that he did not go before the grand jury until he was summoned by an officer; that he was not sent by any one to testify before the grand jury about the pistol, but that he was summoned before the grand jury to testify about the burglary ease; and that while in the grand jury room, he was asked about his knowledge of any one carrying a pistol, and he told about appellant -having a pistol on the occasion testified about on this trial. To all of which testimony of the witnesses, defendant then and there objected for the reason that the same was wholly immaterial, and as to why the witness was summoned before the grand jury or for what purpose he was summoned or how he came to report the pistol case to the grand jury, or whether he was summoned before the grand jury or was sent by some one to go before the grand jury; and because said testimony was hearsay as to defendant, and is an effort on the part of the State to corroborate and bolster up the witness and his testimony by his former acts and declarations and reasons with reference to going before the grand jury. All of which objections so made to said testimony were overruled by the court, and witness was permitted by the court to testify as above set out. In the next bill of exceptions the same testimony was admitted through the witness Mason Cleveland, as to the testimony of witness before the grand jury. In addition to the reasons urged in the bill to the introduction of the testimony of Willie Adams, it was urged against the introduction of the testimony of Mason Cleveland, as a ground of objection, that the defendant had not impeached or offered to impeach said Willie Adams as a witness, neither by showing a bad reputation for truth and veracity, nor by showing declarations or statements made by him •before the trial, contrary to his testimony upon the trial; nor by conflicting statements made in said testimony while the witness was on the stand; and because it was piermitting the State to introduce hearsay testimony for the purpose of bolstering up and corroborating its witness, etc. It is not competent to introduce testimony as to what a witness may have sworn to or stated on some previous occasion, simply to confirm or bolster up the testimony of said witness as delivered before the jury, in the absence of some attack on the testimony of said witness, as by showing that the witness had sworn differently or stated differently to the testimony delivered on the trial of the case, or in the absence of some effort made to impeach the witness. We do not understand that any such effort was made here on the part of the appellant. It is true appellant testified in contradiction of the testimony of said witness, but this did not authorize the State to bolster up its own witness by showing former statements of the witness. White’s Ann. Code Crim. Proc., sec. 1119, sub. 4. Riojas v. State, 36 Texas Crim. Rep., 182; Sanders v. State, 31 Texas Crim. Rep., 525. We believe that this illegal testimony was of an injurious character. Appellant in his testimony denied having the pistol. The State’s testimony tended to show that he did have it. Improper evidence tending to bolster up the State’s witness under such circumstances was calculated to injuriously affect appellant.
+For the error committed in admitting this testimony, the judgment is reversed and the cause remanded.
+Reversed and remanded.
+Brooks, Judge, absent.'
