@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "13334"
+decided: "1931-01-28"
+citations: ["117 Tex. Crim. 132", "35 S.W.2d 172"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bradley Beasley v. The State."]
+source_url: "https://static.case.law/tex-crim/117/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5185780
+cites_cases: ["116 Texas Crim. Rep., 185", "31 S. W. (2d) 1084", "31 S.W.(2d) 1084"]
+---
+
+# Beasley v. State
+
+## Majority (CALHOUN, Judge.)
+
+CALHOUN, Judge.
+— Conviction for the unlawful transportation of intoxicating liquor; punishmnt, one year in the penitentiary.
+Appellant plead guilty to the charge in the indictment and filed a plea for suspended sentence. The State offered two eye witnesses to the offense charged: The appellant offered his mother as a witness. She testified that appellant had never had been convicted for a felony in this State or in any other state. The appellant took the stand as a witness in his own behalf and testified that he had never been arrested before in his life about any liquor. He also testified that he had never been tried in his life for any violation of law; that he had paid a fine one time in his life and that it was for fighting; that they had a case or two against him in the county court for theft, but that he was never tried nor convicted and that he had never been convicted for a felony in this State or in any other state. He also testified as to his version of the transaction for which he was on trial. The State offered in rebuttal seven witnesses who testified that they knew the appellant’s general reputation in the community in which he lived for being a peaceful law-abiding citizen and that it was bad. The appellant offered three witnesses who testified that the reputation of appellant for being a quiet, peaceful, law-abiding citizen was good.
+The jury found the appellant guilty as charged and assessed his punishment at one year in' the penitentiary. They further found that appellant had never before been convicted of a felony in this State or in any other state, but further stated that they did not recommend the suspension of the sentence in this case.
+In Bill of Exception No. 1 the appellant complains of the action of the trial judge in sustaining the district attorney’s objection to a question propounded to the appellant while upon the stand by his counsel as to how many times he had plead guilty to the same offense for which he was now being tried. In bill No. 2 appellant complains of the action of the trial court in sustaining the district attorney’s objection to a question propounded to the appellant by his counsel while on the stand as follows: “Have you or not appeared in the Federal Court twice upon this same charge ?” The appellant contends that said evidence should have been admitted in mitigation of whatever punishment the jury might have assessed against him and as to whether or not the appellant should have a suspended sentence. The exclusion of said questions could not have hurt the appellant so far as the punishment assessed by the jury was concerned, because the punishment was the lowest that could have been assessed against him under his plea of guilty. The court qualified said bills to the effect that in spite of the court’s ruling, the entire matter was aired before the jury and discussed freely by counsel for appellant in their argument and that no injury was shown upon the hearing of appellant’s motion for new trial to have occurred to him by the exclusion of the testimony. The appellant’s testimony in this case negatives the fact that he had ever plead guilty to the same offense for which he was being tried or that he had ever appeared in Federal Court on the same charge. The injury complained of, if any, is purely speculative and shows no reversible error under the circumstances.
+In the case of Johnson v. State, 116 Texas Crim. Rep., 185, 31 S. W. (2d) 1084, the appellant therein complained of the action of the Court in refusing the appellant’s counsel the right to ask the appellant while he was testifying as a witness in his own behalf as to a prior conviction and a suspended sentence thereunder. In passing upon said alleged error, the State speaking through Presiding Judge Morrow said in part.-
+“Appellant’s counsel insisted that he be permitted to ask the question, and make such proof in order to show that if appellant was convicted in the present case a suspended sentence on a former plea of guilty with a penalty of five years in the penitentiary would become operative. The court declined to permit appellant’s counsel to make the proof, to which action appellant excepted. State’s counsel would have had a right to interrogate appellant on cross-examination .with reference to the former conviction as bearing upon his credibility as a witness, and for no other purpose whatever. This right was waived by the State and it is made to appear in appellant’s brief that he desired to get before the jury the fact of the former conviction with suspended sentence, hoping that the jury in the present case would decline to convict because it would bring about a condition under which the former suspended sentence could be made operative. Proof of such former conviction could in no way affect the issue of the guilt or innocence of appellant in the present prosecution, and could have had no legitimate bearing upon the penalty which might be assesesd by the jury in the event they convicted. We perceive no ground upon which the action of the court under the circumstances can be held to have been erroneous.”
+We see no reason why that rule should not apply in this case.
+Perceiving no error which would justify a reversal, the judgment is affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
