@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "8856"
+decided: "1925-04-22"
+citations: ["100 Tex. Crim. 61"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. J. DeVere v. The State."]
+source_url: "https://static.case.law/tex-crim/100/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5101420
+cites_cases: ["193 S. W. 301"]
+---
+
+# DeVere v. State
+
+## Majority (BAKER, Judge.)
+
+BAKER, Judge.
+Appellant was charged by indictment in the district court of Hardin County with unlawfully and with intent to injure one Reverend Charles W. Hughes by writing a malicious statement affecting the reputation of said Hughes, said indictment setting out same fully, showing the names of Simeon E. Johnson and William O’Denel signed thereto; upon which indictment he was convicted in said court, and his punishment assessed at a fine of $500.00; from which conviction he was appealed to this court for a reversal of this case, and complains of the charge of the trial court, and the refusal of said court to give an instructed verdict of not guilty, and because the evidence is insufficient to sustain the verdict.
+After a careful examination of the record in this ease we are of the opinion that there is only one question in the record that demands our serious attention, and that is as to the sufficiency of the testimony. The State’s Attorney with this court in his brief admits that he doubts the sufficiency of the testimony to warrant the conviction.
+It appears from the Statement of Pacts that the State relied on the testimony of Max Werner, an expert, who in effect testified, after comparing the alleged libelous matter and the signatures thereto with admitted instruments written by the defendant, that they were written by one and the same person and written upon the same typewriter, as a basis for conviction in this case. It is true that the State offered as a witness John Herring as an expert on handwriting, who testified that the alleged libelous letter was in handwriting similar to the defendant’s handwriting, but that he was unwilling to say that the signatures were in the handwriting of the defendant. The defendant took the stand in his own behalf and positively denied having anything to do with said libelous instrument and denied having ever heard of certain matters therein stated.
+Art. 814 of the Code of Criminal Procedure is as follows:
+It is competent in every case to give evidence of handwriting by comparison, made by experts or by the jury; but proof by comparison shall not be sufficient to establish the handwriting of a witness who denies his signature under oath.”
+It will be observed from the reading of the above article that our Legislature was not unmindful of the fact that expert testimony on handwriting is very uncertain and unreliable and at most a question in which there could be wide room for much difference, and, in view of such information, passed the above statute for the purpose of covering just such eases as we have under consideration. Eliminating the typewriter feature of it, then the State has nothing but expert testimony upon comparison, which, of course, would not be sufficient to support a conviction, and we take it that the testimony with reference to the two documents being compared and believed by the witness to have been written on the same typewriter would be nothing short of an opinion of his, if it were not in fact a comparison of typewritten data. This court has repeatedly held that evidence of comparison by an expert is insufficient to warrant a conviction unless corroborated by other testimony. Jackson v. State. 193 S. W. 301.
+After a very careful consideration of this record, we are forced to the conclusion that the evidence in this case is insufficient to support a conviction, and therefore reverse and remand the case.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
