@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "6357"
+decided: "1921-11-02"
+citations: ["90 Tex. Crim. 209", "234 S.W. 399"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. N. Gunn v. The State."]
+source_url: "https://static.case.law/tex-crim/90/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8642605
+cites_cases: ["129 S. W. 141", "129 S. W. Rep. 141", "138 S. W. 742", "138 S. W. Rep. 742", "201 S. W. 172", "201 S. W. Rep., 172", "216 S. W. Rep., 1095", "218 S. W. 496", "218 S. W. Rep. 496", "230 S. W. 148", "230 S. W. Rep. 148", "32 S. W. 545", "35 Tex. Cr. R. 138", "35 Texas Crim. Rep., 138", "59 Tex. Cr. R. 491", "59 Texas Crim. Rep. 491", "62 Tex. Cr. R. 453", "62 Texas Crim. Rep., 453", "83 Tex. Cr. R. 57", "83 Texas Crim. Rep. 50", "83 Texas Crim. Rep., 57", "86 Tex. Cr. R. 566", "86 Texas Crim. Rep. 566", "89 Texas Crim. Rep. 142", "89 Texas Crim. Rep., 143", "95 S. W. Rep., 514"]
+---
+
+# Gunn v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+This is an appeal from a judgment of the District Court of Bell County sentencing appellant to twenty years in the penitentiary for murder.
+There are many matters raised in the record which will not be discussed by us because same will likely not occur upon another trial.
+By proper bill of exceptions it is made to appear that a motion was duly made to quash the venire because the names of a number of special veniremen which were drawn by the officer charged with that duty, were not placed on the venire list but were discarded for what were deemed sufficient reasons by the trial judge, and were not entered on said list. Said bill sets out the evidence heard by the trial court in support of said motion, and it appears without controversy that the facts alleged in said motion are true.
+Our statute plainly sets out the procedure which is to be followed in drawing a special venire (Chap. 2, Title 8, Vernon’s C. C. P.), and expressly directs how the names are to be drawn, and commands that such names be placed on the venire list in the order drawn, and when attached to the writ same are to be delivered to the sheriff for service. In the instant case the facts show that because of the conclusion of the trial court that certain persons whose names were drawn, were witnesses or absent from the county, or for other reasons, the clerk was instructed not to enter said names on the venire list but to draw other names and enter them instead, which was done. This is a plain violation of the express statutory provision. If the court might use his discretion in one matter thus, no reason could be assigned why it might not be extended and the method fixed by statute for selecting such venire be entirely changed. The matter in our judgment is error for which the judgment must be reversed. Clayton v. State, 83 Texas Crim. Rep. 50, 201 S. W. Rep., 172; Johnson v. State, 86 Texas Crim. Rep. 566, 218 S. W. Rep. 496; Art. 660A, Vernon's C. C. P.
+We think the record sufficiently sustains appellant’s claim of misconduct on the part of the jury, but as this will not likely occur again it will not be here further discussed. We again suggest that trial courts carefully caution jurors not to discuss any matter connected with the accused or the case which does not appear in testimony on the trial, nor should the evidence be discussed till the case is submitted to the jury.
+Appellant requested that the veniremen, after their selection as jurors, be withdrawn from the courtroom during the examination of the remainder of the venire. This practice is commended by this court. Streight v. State, 62 Texas Crim. Rep., 453, 138 S. W. Rep. 742; Crow v. State, 89 Texas Crim. Rep. 142, 230 S. W. Rep. 148, and its refusal in a proper case may become ground for reversal. In an effort to secure a fair and impartial jury it may be deemed necessary to ask many questions of proposed jurors the answers to which might easily affect and influence other jurors or veniremen hearing same.
+By a bill of exceptions complaint is made that the State’s challenge for cause to juror Barrett was sustained. Barrett answered that he was a witness for the defendant, but only a character witness. The State challenged him for cause, and we think correctly. Seals v. State, 35 Texas Crim. Rep. 138, does not support appellant’s contention. In that case it was determined that the fact that one was merely summoned does not establish that such person is a witness in the case, in terms of Subdivision 6, Art. 692, Vernon’s C. C. P. In the Edgar case, 59 Texas Crim. Rep. 491, 129 S. W. Rep. 141, the decision may have turned on the qualification of the trial court to appellant’s bill of exceptions, but we are not inclined to agree to the proposition broadly stated therein, that one who is a character witness is a qualified juror. Suppose he be a witness to the bad character of the accused, or one of his material witnesses? It would hardly need discussion to demonstrate that such person would not be an impartial juror. If prepared to swear that the accused or one of his witnesses was deemed by those who knew him, unworthy of belief under oath, it is not likely that such witness if made a juror in the case, would himself attach much weight to the testimony of the person to whose bad reputation he had been called to testify. We do not think that said bill of exceptions shows error.
+We think the juror Joe Jackson should not have, been stood aside because of the fact that his summons read J. W. Jackson. A middle initial may be rejected as surplusage, and the State’s objection to this juror should not have been sustained, it appearing that his summons was otherwise regular.
+In all cases where self-defense is claimed, the trial court should not only give abstract definitions of the right of the accused to have the matter viewed from his standpoint, but should make application of such principle to the facts in the case. This also applies to the law of apparent danger if same should be given in charge.
+For the error mentioned the judgment will be reversed and the cause remanded for a new trial.
+Reversed and remanded.
