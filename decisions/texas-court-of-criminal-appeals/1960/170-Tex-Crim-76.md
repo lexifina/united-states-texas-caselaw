@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,178"
+decided: "1960-10-12"
+citations: ["170 Tex. Crim. 76"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jimmy Eugene McNorton v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2626125
+cites_cases: ["135 S.W. 2d 705", "141 Tex.Cr.R. 99", "215 S.W. 2d 887"]
+---
+
+# McNorton v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is driving a motor vehicle on a public highway while intoxicated; the punishment, 3 days in jail and a fine of $100.
+Appellant was stopped by Highway Patrolmen of the Texas Department of Public Safety while driving an automobile at an excessive speed, on a public highway. The officers who arrested him described his appearance and demeanor and expressed the opinion that he was intoxicated. A blood specimen taken from appellant with his consent showed an alcohol content of .19 percent, and there was testimony that a person with such percentage of alcohol in the blood would be intoxicated.
+Appellant admitted having consumed some seven bottles of beer during the period of time from 3:30 in the afternoon to the time of his arrest about 8:15 P.M. He denied that he was intoxicated.
+The evidence is sufficient to sustain the jury’s finding that appellant was intoxicated.
+Appellant called as a witness the proprietor of a cafe and beer tavern where appellant drank two or three beers very late in the afternoon. He testified that appellant was not then intoxicated.
+Appellant claims reversible error in the ruling of the trial judge sustaining the state’s objection to a hypothetical question propounded to the tavern keeper.
+The state’s objection was that the witness had not been shown to be qualified to say whether a man who “has a bottle of beer at 3:30 and a bottle of beer at 4:15, two bottles of beer at 5:00, two or three at 6:15 until a little after seven” would be intoxicated.
+The court’s ruling on the qualifications of the witness as an expert was upon a matter on which he had a wide discretion. Silva v. State, 152 Tex.Cr.Rep. 545, 215 S.W. 2d 887; Cantu v. State, 141 Tex.Cr.R. 99, 135 S.W. 2d 705. No abuse of discretion is shown.
+One need not be an expert in order to express an opinion upon whether a person he observes is intoxicated or is sober. However, only an expert witness may answer hypothetical questions relating to matters such as intoxication.
+The judgment is affirmed.
