@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "15155"
+decided: "1932-04-27"
+citations: ["120 Tex. Crim. 572", "49 S.W.2d 455"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. D. Gillette v. The State."]
+source_url: "https://static.case.law/tex-crim/120/cases/0572-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5203536
+cites_cases: ["119 Texas Crim. Rep., 587", "19 Tex. Civ. App. 693", "43 S. W. (2d) 935", "50 S. W. 213", "50 S. W., 213"]
+---
+
+# Gillette v. State
+
+## Majority (CHRISTIAN, Judge.)
+
+CHRISTIAN, Judge.
+— The offense is swindling; the punishment, confinement in the penitentiary for two years.
+It was alleged in the indictment, in substance, that appellant falsely represented to W. H. Spurlin that he was the owner of certain described lots in the town of Mertzon, Irion county, Texas, and had the right to sell and dispose of same; that he induced Mr. Spurlin to deliver to him $34 in money and six promissory vendor’s lien notes of the aggregate value of $162.50, which notes Mr. Spurlin executed as part of the consideration for the lots;' that he delivered to Mr. Spurlin in May, 1930, a warranty deed to said lots. The deed is set out in the indictment. In the traverse clause it was averred that appellant did not own the lots.
+Mr. Spurlin testified, in substance, as follows: Appellant represented to him that he owned the lots described in the indictment, saying that he had purchased them from a Mr. Hardy who at one time taught school near Mertzon. He relied upon appellant’s representations and delivered him $34 in money and the vendor’s lien notes described in the indictment. Later, he discovered that the taxes had not been paid; and, further, became convinced that the title ivas not good. Appellant told him that he need not pay anything on the notes until the question of title was settled, saying that if the title was not good he would repay him his $34. At the time of the transaction, appellant told him he could not afford to furnish him an abstract of title, but that if he would pay for the abstract he would have it prepared. The trade was made without an abstract of title being delivered to him. He never at any time discharged the vendor’s lien notes given to appellant.
+The state offered in evidence a deed from E. D. Hardy of Tom Green county to appellant, dated September 5, 1929, which showed to have been recorded in the deed records of Irion county. The consideration recited was $800 cash. The lots conveyed were the same as those appellant attempted to convey to the injured party. The state further proved by a notary public that appellant came to his office with a man whom he introduced as E. D. Hardy, and that he took Hardy’s acknowledgment to the deed. W. R. Hardy, a witness for the state, testified that he had taught school near Mertzon, and that he was the only Hardy who had taught there. He said he was not the man who executed the deed to appellant. Many witnesses testified that they knew of no man by the name of E. D. Hardy in Tom Green county. The state showed by these witnesses that they had made an investigation to determine if such a man had lived in the county and that they had been unable to find him. The county clerk of Irion county testified she had searched the deed records of the- county and had been unable to find a deed conveying the lots in question to E. D. Hardy. The sheriff and tax collector of Irion county testified that the lots in question had been placed on the delinquent tax record and sold in 1930, after appellant had deeded the lots to the injured party. He did not say to whom he sold the lots. He testified that appellant was present and raised no question at the time the lots were sold. He said that prior to the time the deed from Hardy to appellant was executed he had seen appellant examining the delinquent tax records in his office. It appears that the lots had been rendered as belonging to an “unknown owner.”
+The state’s attorney before this court expresses the opinion that the evidence is insufficient. We are constrained to agree with him. It is observed that it was the theory of the state that the deed from Hardy to appellant was a forgery, it being the state’s contention that Hardy was a fictitious person. The state made no effort to show an outstanding title. It is doubtful whether the evidence is sufficient to show that the title was not in appellant. If he had the title to the lots no fraud was perpetrated.
+No effort was made by the state to prove the value of the vendor’s lien notes. It appears that these notes were in the hands of appellant at the time of the trial. It would seem that he would have been in no position to collect them if the state’s contention that he had no title to the land and had perpertated a fraud was to be sustained. Laux v. Laux et al. 19 Texas Civ. App., 693, 50 S. W., 213. According to the testimony of the injured party, appellant told him that he need not pay anything on the notes until the question of title was settled. No attempt was made to show that the inju'red party was financially responsible. It was necessary to both allege and prove the value of the notes. Williams v. State, 119 Texas Crim. Rep., 587, 43 S. W. (2d) 935. If the notes had no value, the property obtained by appellant was of the value of $34 —that is, the money. This was not a sufficient amount to support a conviction for felony swindling. Where the value of the property is under $50 the offense is a misdemeanor. In the present case appellant was sentenced to confinement in the penitentiary for two years.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
