@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,657"
+decided: "1955-06-15"
+citations: ["162 Tex. Crim. 71"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Curtis Dukes v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461379
+cites_cases: ["199 S.W. 1113", "277 S.W. 2d 710", "48 S.W. 2d 286"]
+---
+
+# Dukes v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for robbery; the punishment, five years’ confinement in the penitentiary.
+This is a companion case to that of Dukes v. State, 161 Texas Cr. R. 423, 277 S.W. 2d 710, wherein the facts are set forth which we held to be sufficient to support the conviction.
+The jury that tried the instant case was composed of four women and eight men.
+When the time came to recess court, after the first day’s session, the trial court was confronted with the problem of providing sleeping quarters for the jury so as not to require unrelated men and women to occupy the same sleeping quarters and at the same time not violate the provisions of Art. 668, C.C.P., which prohibits members of the jury from separating during the trial of a felony case.
+This is the way the trial court handled the situation: He arranged for the jury to be lodged for the night on the second floor of a hotel. The four women members of the jury were assigned to and occupied two rooms. A matron who was also a deputy sheriff was placed in charge. The eight male jurors occupied other rooms on the same floor of the hotel and were in charge of the sheriff.
+Upon the reconvening of the court the following morning, the appellant immediately presented his motion asking that the jury be dismissed and a mistrial declared because the jury separated, in violation of Arts. 623 and 668, C.C.P.
+The trial court heard evidence on the motion when the facts heretofore stated were developed as also was the further fact that at no time did any of the jurors, male or female, communicate or have the opportunity to communicate with any outside person.
+We are constrained to agree that the procedure followed by the trial court was authorized.
+“The separation of a part of the jury with an officer is not cause for reversal if no probable injury is shown.” Branch’s P.C., p. 299, Sec. 581.
+In Ramos v. State, 120 Texas Cr. R. 512, 48 S.W. 2d 286 some of the jurors slept in the courtroom and others slept in the jury room. This was held not to constitute a separation in violation of the statute, it being shown that there was no communication with any other persons during such time.
+In Watson v. State, 82 Texas Cr. R. 305, 199 S.W. 1113, the jurors occupied two rooms, some of them sleeping in one room and the others sleeping across the hall in the other room. This was held not to violate the statute, the separation not resulting in an opportunity for improper influence on the jury.
+By legislation implementing the recent constitutional amendment extending jury service to women, the Fifty-fourth Legislature, at its Regular Session in 1955, passed H. B. No. 78, Chap. 288, which became effective May 20, 1955, and which amended Art. 623, C.C.P., so that it now reads as follows:
+“The Court may adjourn veniremen to any day of the term. In felony cases when jurors have been sworn in a case, those so sworn shall be kept together and not permitted to separate until a verdict has been rendered or the jury finally discharged; provided, however, that when such jurors are kept overnight, facilities shall be provided for female jurors separate and apart from the facilities provided for male jurors, and such juries shall be permitted to separate to the extent of housing female jurors separate and apart from male jurors.”
+While probably not here controlling, the procedure followed in the instant case by the trial court was in keeping with the purpose of the legislature under the constitutional amendment.
+No reversible error appearing, the judgment is affirmed.
