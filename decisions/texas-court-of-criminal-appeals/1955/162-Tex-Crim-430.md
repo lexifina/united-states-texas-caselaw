@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,849"
+decided: "1955-12-07"
+citations: ["162 Tex. Crim. 430"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Fred Peltzer"]
+source_url: "https://static.case.law/tex-crim/162/cases/0430-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2464890
+cites_cases: ["246 S. W. 371", "93 Tex. Cr. R. 179"]
+---
+
+# Ex parte Peltzer
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+This is a peace bond proceeding instituted against appellant in the justice court of Precinct No. 6 of Bexar County wherein he was charged by complaint with having threatened to do serious bodily injury to one, J. C. Griffin. After a hearing, the justice of the peace issued a mittimus ordering appellant committed to jail unless he gave a good and sufficient bond in the sum of $3,000.00.
+Appellant, upon being confined in jail under the mittimus, sought his release from custody of the sheriff and the constable by application for a writ of habeas corpus presented to the Honorable Joe Frazier Brown, Judge of the Special Criminal District Court of Bexar County, Texas, in which he alleged that the evidence presented before the justice of the peace was insufficient to authorize his commitment to jail until he had made bond and also alleged that the amount of bond was excessive.
+In the habeas corpus hearing Judge Brown, after considering the evidence adduced on the hearing in the justice court, entered his order finding the same sufficient to warrant and substantiate the findings of the justice of the peace that appellant was guilty of making threats against the complainant, but found the amount of bond to be excessive and reduced the same to $750.00, and further ordered that appellant be released upon making a good and sufficient bond in such amount conditioned that he should keep the peace and not carry into execution the threats theretofore made against the life and person of J. C. Griffin and remanded him to the custody of the sheriff of Bexar County until such time as he had made bond or until one year from the date of the hearing.
+From the order entered in the habeas corpus hearing, appellant has perfected his appeal to this court.
+Appellant insists that he should have been released at the habeas corpus hearing because the mittimus issued by the justice of the peace did not find that he was guilty of making threats or provide that the bond required of him be conditioned that he would not commit the offense charged and that he would keep the peace towards the person threatened and towards all other persons for a period of one year from such date, as provided by Article 80, V.A.C.C.P.
+The fact that the mittimus was defective for the reasons urged by the appellant did not require that he be released by the district judge after he had considered the evidence presented in the justice court and found that the same was sufficient to support the finding that the appellant was guilty of making the threats.
+On the question of the right to discharge by habeas corpus from a commitment issued at a peace bond hearing, it is stated in 7 Tex. Jur. p. 327, par. 36, as follows:
+“Although a commitment is invalid, a discharge under habeas corpus may not be justified where there is reason to believe that there is probable cause for the detention.”
+By the provisions of Art. 157, V.A.C.C.P., a prisoner is not entitled to discharge, by habeas corpus, who is being held under a void or informal warrant where, from the proof at the hearing, it appears that there is probable cause to believe that he has committed an offense.
+In the case of Ex parte Garner, 93 Tex. Cr. R. 179, 246 S. W. 371, which is cited and relied upon by the appellant, the court, in applying the provisions of Art. 157, supra., held that a prisoner was not entitled to his release in a habeas corpus hearing because of the defective commitment issued in the justice court.
+The Garner case was reversed because of the insufficiency of the evidence presented at the habeas corpus hearing and on this point is different from the case at bar, but is controlling as to the law.
+Appellant next insists that the evidence is insufficient to support the order requiring that he enter into a peace bond. Briefly, the record shows that for a number of years, appellant and the complainant, Griffin, had been in dispute as to the latter’s right to use a road across the appellant’s land. There is evidence that appellant, in a conversation with one, O. T. Bandy, about the complainant and a man by the name of Hunt using the road, stated: “Well, I am going to stop them sons of bitches from coming out this way if I have to kill them,” and that the complainant had been informed of such statement. The complainant testified that on an occasion when he was traveling the road in front of the appellant’s house, he came out, stopped him and said: “God damn you, I will kill you for getting on this road;” that he was then attacked by the appellant and his wife, and that during such attack he received a broken leg and was knocked unconscious, and that when he came to, appellant had him around the neck and they were saying: “Kill him, God damn him, beat him to death, kill him.” The complainant further testified that on one occasion when he was using the road appellant had “taken a shotgun to him,” and that he thought appellant would carry out the threats made to kill him.
+Appellant denied having made any threats to kill or do serious bodily injury to the complainant.
+Under the testimony the court was warranted in finding that appellant had seriously threatened to kill the complainant and ordering him placed under a peace bond in the amount of $750.00.
+The judgment entered at the habeas corpus hearing on the 26th day of July, 1955, remands appellant to the custody of the sheriff until he has executed the bond or until the expiration of one year from the date of the hearing. Article 85, V.A.C.C.P., provides that upon the failure to give bond the defendant shall be committed to jail for one year from the date of the first order requiring the bond. The record reflects that the order entered in the justice court, requiring bond of the appellant, was dated July 5, 1955, and therefore, the judgment entered in the district court is reformed so as to provide that appellant is committed to the custody of the sheriff for a period of one year from July 5, 1955, upon his failure to execute the bond required in the order.
+The judgment, as reformed, is affirmed.
+Opinion approved by the court.
