@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "No, 23373"
+decided: "1946-05-29"
+citations: ["149 Tex. Crim. 372"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Vertis Berwick v. The State."]
+source_url: "https://static.case.law/tex-crim/149/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2604242
+cites_cases: ["100 Tex. Cr. R. 607", "14 Tex. Cr. App. 271", "272 S. W. 209", "30 Tex. Cr. App. 42", "7 Tex. Cr. App. 519", "8 Tex. Cr. App. 254", "91 Tex. Cr. R. 205"]
+---
+
+# Berwick v. State
+
+## Majority (KRUEGER, Judge.)
+
+KRUEGER, Judge.
+The conviction is for the offense of keeping and exhibiting, for the purpose of gaming, a gaming table, to-wit: a Do and Don’t Dice Table. The punishment-assessed is confinement in the State penitentiary for a period of two years.
+The facts, as developed upon the trial, show that on the night of the 11th day of August, 1945, three Texas Rangers went to a place known as Betty’s Place at Vidor, in Orange County, and raided it. At the time the Rangers entered the place, there were approximately 25 or 30 people engaged in shooting dice on what is referred to by the witnesses as a “Do and Don’t Dice Table.” Appellant was present and stated that he was the owner and operator of the gaming table. On his trial he entered a plea of guilty.
+It will be noted that the facts proven and his plea of guilty leave no room for any doubt as to his guilt.
+This case originated in Orange County and was transferred by the District Judge, on his own motion, to Jasper County. At the time that the court changed the venue of the case, appelant, by and through his counsel, objected because the order was made without notice to him and without hearing evidence as to any reasons contained in said order of removal, or as to conditions existing in Orange or Jefferson Counties, which justified the transfer of the case. The bill of exception complaining of the court’s action is qualified by the trial judge, who states in his qualification that the case was set for trial on the 8th day of October, that the defendant and his counsel were required to be in attendance at that time, that on October 10th, the court announced that he was going to transfer the venue of the'case to the District Court of Jasper County (the adjoining county), and stated as his reasons for such action that it appeared to him that a trial alike fair and impartial to the accused and the State could not be had in Orange County because of the lawless condition existing in the county in regard to gambling, and that the same conditions existed in Jefferson County, etc. After the order was made, appellant, who was on bail, entered into a recognizance in the sum of $1,000.00, to make his appearance before the District Court of Jasper County, Texas, at the next succeeding term of said court on the 19th day of November, A.D., 1945, etc. The fact that appellant was not served with notice of the action of the court in changing the venue does not present any error. The matter of making an order changing the venue of a case by the court on his own motion is not one requiring the personal presence of the accused since it is not a part of the trial but merely a preliminary procedure to a trial.
+In the case of Littleton v. State, 91 Tex. Cr. R. 205, the matter is discussed at length, and we see no need to reiterate what has been said in that case. See also Rothschild v. State, 7 Tex. Cr. App. 519, Phipps v. State, 100 Tex. Cr. R. 607, 272 S. W. 209.
+Article 560, C.C.P., provides as follows:
+“Whenever. in any case of felony the judge presiding shall be satisfied that a trial, alike fair and impartial to the accused and to the state, can not, from any cause, be had in the county in which the case is pending, he may, upon his own motion, order a change of venue to any county in his own, or in an adjoining district, stating in his order the grounds for such change of venue.”
+It will be noted from the foregoing article that the court is authorized to change the venue of any case of the grade of a felony when he has satisfied himself that a trial, alike fair and impartial to the State or the accused, cannot be had in the county, without reference as to how or from what facts and circumstances such conclusion was reached. The facts from which he reached the conclusion may be of such general notoriety that he would be authorized to take judicial notice thereof, and unless it is made to appear that he abused his discretion with respect thereto, no error would appear. See Cox et al v. State, 8 Tex. Cr. App. 254; Bohannon v. State, 14 Tex. Cr. App. 271.
+In the case of Frizzell v. State, 30 Tex. Cr. App. 42, the trial court changed the venue of the case on his own motion and stated his reason for so doing as follows: “It appearing to the court that by reason of the great notoriety and excitement caused by this cause, and the consequent prejudices and opinions formed, that a new trial alike fair and impartial to the accused and the State, cannot be had in this county,” etc. The venue of the case was changed from Comanche County to Taylor County. In that case the accused contended that the venue was changed without his consent; that the reason stated by the court for the change of venue was insufficient in law, but if sufficient, the venue should have been changed to Eastland County, the nearest court house to Comanche County. This court, in passing upon the question, said:
+“The action of the court in changing the venue upon its own motion will not be revised upon appeal, unless it be shown that the defendant has been materially prejudiced thereby.”
+In the instant case, appellant was not precluded from applying for a change of venue from Jasper County to some other county if any statutory ground existed for such a change of venue, but no such application was made; nor is it made to appear that the court abused his discretion in the matter to the prejudice of appellant.
+Appellant’s next complaint is that the indictment contained three counts, but the jury in their verdict failed to specify upon which count they found him guilty. It is apparent to us that appellant overlooked the fact that the court, in his charge, submitted the case to the jury on the third count alone. Consequently, when the jury found him guilty, they found him guilty of the offense charged in the third count.
+Finding no error in the record, the judgment of the trial court is affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
