@@ -1,0 +1,67 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,728"
+decided: "1957-02-13"
+citations: ["164 Tex. Crim. 557"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stuart Whitaker Dubois v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0557-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611354
+cites_cases: ["103 S.W. 864", "104 S.W. 2d 39", "112 S.W. 2d 470", "132 Texas Cr. Rep. 303", "133 Texas Cr. Rep. 460", "148 S.W. 312", "156 Texas Cr. Rep. 540", "159 Texas Cr. Rep. 529", "160 Texas Cr. Rep. 216", "160 Texas Cr. Rep. 448", "187 S.W. 336", "243 S.W. 2d 845", "265 S.W. 2d 826", "268 S.W. 2d 150", "272 S.W. 2d 122", "51 Texas Cr. Rep. 455", "67 Texas Cr. Rep. 32", "79 Texas Cr. Rep. 635"]
+---
+
+# Dubois v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is indecent exposure to a child, as defined in Art. 535c, V.A.P.C.; the punishment, 12 years in the penitentiary.
+The alleged offense occurred in the afternoon in a moving picture theater.
+The female named in the indictment, eleven years of age, and her nine-year-old sister testified as witnesses for the state.
+The eleven year old child testified that appellant sat behind her when she first saw him; that during the show she went to the water fountain, leaving her coat at her seat; that when she returned she found appellant in the seat next to her coat; that after she had resumed her seat appellant “rubbed his hand on my leg;” that she left her seat and went to tell her sister and her twelve-year-old brother, who were also in the theater, and they walked back down the aisle.
+The eleven-year-old girl further testified that when she next saw appellant he was seated next to the aisle beside “two little girls” otherwise unidentified in the record, and that appellant “rubbed them on the head.”
+The place where appellant was then sitting was the aisle seat on the last row from the screen, which seat was also referred as being “in front” — “by the girls’ rest room” and “on the first row,” which evidently referred to the front or entrance to the theater.
+According to the testimony of the eleven-year-old girl, when she and her sister were walking down the aisle and got beside appellant “He unzipped his pants. * * * He took out his privacy * * * he was holding it in his hand.”
+“Q. And he was looking at you? Is that right? A. Yes, sir.”
+The girls went at once and talked to the wife of the manager of the theater; the police were called and the girls saw the officer place appellant under arrest.
+It was later shown that the witness was referring to appellant’s genital organs or private parts when she testified that he took out and was holding “his privacy.”
+The nine-year-old girl testified that after her sister had talked to her she walked by the man she identified as appellant and “He was sticking out his private * * * He was holding it with both of his hands.” She testified that she twice saw appellant expose his private parts, and on the second occasion he patted the unidentified little girls on the head.
+Appellant did not testify before the jury and offered no testimony in his behalf.
+Appellant complains that the court permitted the nine-year-old child to testify although no evidence was adduced as to her competency or as to the fact that she understood the nature and obligation of an oath, and the attorneys for the state made no effort to qualify her as a competent witness.
+The qualifications to this bill certify that no objection was made to the testimony of the child on the ground that she was incompetent; that she did not understand the nature and obligation of an oath, or that she would be punished if she gave false testimony; that no questions were propounded to the child on cross-examination with reference to her competency, and that the trial judge first learned that appellant was not satisfied with the competency of the witness from appellant’s motion for new trial.
+We are unable to agree that the record of the child’s testimony on its face shows her incompetency to testify.
+The bill, as qualified, shows no abuse of discretion on the part of the trial judge in permitting this witness to testify and hence no reversible error. See Childress v. State, 51 Texas Cr. Rep. 455, 103 S.W. 864; Powell v. State, 156 Texas Cr. Rep. 540, 243 S.W. 2d 845.
+While the statement of facts is brief, the record otherwise is quite voluminous, and presents among other claims of error the contention that the trial judge abused his discretion and denied appellant effective aid of counsel in overruling appellant’s motion for continuance.
+The record shows that appellant was somewhat experienced in court procedure for he requested that the court instruct the attorneys for the state and all witnesses not to refer to or mention conviction against him in California in 1940, and in Ohio in 1929, “or any other conviction that this defendant may have had prior to 1940 or about pending complaints or indictments.”
+And in the hearing before the court on the motion for continuance there was testimony indicating that there were pending indictments against appellant in another district court of Dallas County, charging fondling and forgery which appellant was quoted as saying had been taken care of; the fondling case by a plea of guilty to aggravated assault.
+Appellant denied that on February 6th he told the court he was ready for trial and denied that the judge set the case for trial on February 9, but he thereafter proved by his wife in a hearing before the court that he told her on Tuesday that he had been in court and the case had been set for Thursday the 9th.
+When appellant was first brought before the court on Monday, February 6th, he stated that he was ready for trial, but was without counsel.
+The court agreed to appoint counsel for appellant and, upon his request and agreement, reset another case and set the case against appellant for the following Thursday.
+On Tuesday the trial judge contacted Attorney Hugh Snodgrass by telephone and he accepted appointment.
+Mr. Snodgrass, after spending some time in “briefing some law on it,” on Wednesday visited appellant in jail and conferred with him for about an hour and a half.
+The case was called on Thursday and, the state having announced ready, Mr. Snodgrass announced that the defense was ready.
+At this point Attorneys Davis and Norton appeared on the scene and, after conferring with appellant, filed a motion for continuance in which it was alleged that appellant had not had time with his court-appointed counsel to prepare adequately for trial, and if the cause was continued “he has and will employ Milton K. Norton and Charlie T. Davis, his attorneys to defend him in this cause; and that the Defendant, given sufficient time for the preparation by said attorneys, he will be ready for trial at any reasonable time.”
+At no time did Attorney Snodgrass request of the court additional time to prepare for trial.
+The motion for continuance, it will be seen, complains that appellant was in need of additional time to prepare, not his court-appointed counsel. It is apparent also that the preparations referred to by appellant included a change in counsel.
+Appellant sought to show by Mr. Snodgrass that he had not had sufficient time to adequately defend the case, and Mr. Snodgrass answered “I think I would be better prepared with more time, yes sir.”
+Since appellant’s court-appointed counsel made no request of the court for additional time for preparation, that he was not given such time by continuance of the case was not an abuse of discretion, both appellant and said counsel having previously informed the court they were ready for trial.
+The motion for continuance being overruled, appellant nevertheless chose to be represented by Attorneys Davis and Norton, and after the jury had been selected requested that Mr. Snodgrass be excused and the request was granted.
+Aside' from the fact that he was in jail, there is nothing in the record to show or explain why appellant made no effort to prepare for trial from the date of his arrest until after he had appeared in court on February 6th and announced ready for trial.
+The record shows that he did not tell his court-appointed counsel whether or not he was guilty, but “said he didn’t remember.”
+It is contended that the trial court erred in overruling appellant’s motion for new trial based upon newly discovered evidence.
+It is appellant’s contention that the affidavits of Mr. Crab-tree, the theater manager, and his wife, the claimed newly discovered evidence, do not show impeachment testimony alone, but would show that appellant was intoxicated and that evidence of intoxication “would have given appellant a complete defense to the crime of knowingly and with lascivious intent exposing his person to a juvenile.”
+The contention that intoxication would prevent an accused from forming the specific intent required by Art. 535c V.A.P.C., (lascivious intent) is in direct conflict with Art. 36 V.A.P.C., which provides that intoxication is no defense to crime. Morris v. State, 160 Texas Cr. Rep. 448, 272 S.W. 2d 122; Kelley v. State, 133 Texas Cr. Rep. 460, 112 S.W. 2d 470; Marr v. State, 160 Texas Cr. Rep. 216, 268 S.W. 2d 150; Baldwin v. State, 67 Texas Cr. Rep. 32, 148 S.W. 312; Clinton v. State, 132 Texas Cr. Rep. 303, 104 S.W. 2d 39.
+Mr. Crabtree merely expressed the opinion that appellant was drunk, based upon his observation of him as he was taken from the theater.
+The Crabtree affidavits say that the child reported only that appellant was bothering her.
+We do not find in the testimony of the child named in the indictment or of the other witnesses any statement as to what she said to Mr. or Mrs. Crabtree which led to the calling of an officer, or what was said to the officer upon his arrival. We do know her report resulted in the police being called.
+The fact that when the theater manager went to where appellant was seated when he exposed his person to the children he was not then exposing his person is not deemed of consequence. If anything, it might well indicate that his act in exposing himself to the child was wilful, and not unintentional.
+The remaining portion of the Crabtree affidavits constituted impeachment of the veracity of the child witnesses.
+We cannot agree with appellant’s contention that had the Crabtrees testified in accordance with their affidavits the foundation of the state’s case would have been destroyed.
+The affidavits constituted mere impeachment testimony which is not such newly discovered evidence as will require the granting of a motion for new trial. Longoria v. State, 159 Texas Cr. Rep. 529, 265 S.W. 2d 826; Johnson v. State, 79 Texas Cr. Rep. 635, 187 S.W. 336.
+There are other bills of exception all of which have been examined and none found to show error calling for reversal.
+Viewing the record as we have and must, in the light most favorable to the court’s ruling, we find no abuse of discretion on the part of the trial judge.
+The evidence sustains the conviction and we find no reversible error.
+The judgment is affirmed.
