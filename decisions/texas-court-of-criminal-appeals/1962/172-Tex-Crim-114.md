@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,118"
+decided: "1962-01-24"
+citations: ["172 Tex. Crim. 114"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donald Wayne Burns v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0114-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2642161
+cites_cases: ["171 Texas Cr. Rep. 273", "347 S.W. 2d 718"]
+---
+
+# Burns v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for robbery with firearms; the punishment, fifty years.
+This is a companion case to that of Blaylock v. State, 171 Texas Cr. Rep. 273, 347 S.W. 2d 718.
+The evidence of the state in this case is substantially the same as that shown in the decision of Blaylock’s case, supra. L. M. Box, the owner of the store, and his wife, while testifying in the instant case, identified the appellant as the person who pointed the pistol toward Box as he and Blaylock took about $500 in money from Box’s billfold and the cash register.
+No objection was made at the time of the admission in evidence of a written statement made by the appellant. In the statement, appellant said that he “whipped out” his .32 revolver and told the man that all they wanted was the money which he and Blaylock then took from Box’s billfold and the cash register.
+The appellant did not testify or offer any evidence.
+The appellant complains of the testimony of Mrs. Box during her cross-examination as to the identity of the two men that came into the store.
+When Mrs. Box was being questioned about her observation of the men in the lineup, she was asked by appellant’s counsel if the police wanted to make sure she could identify the two men. She replied that she did not think so as she “had seen one of them twice that robbed us twice”. Following her reply, appellant’s counsel said that it was not responsive and moved for a mistrial, which was overruled. Then, at appellant’s request, the court instructed the jury to disregard the answer because it was not responsive to the question. No error is shown.
+The evidence is sufficient to support the conviction, and no error appearing, the judgment is affirmed.
+Opinion approved by the Court.
