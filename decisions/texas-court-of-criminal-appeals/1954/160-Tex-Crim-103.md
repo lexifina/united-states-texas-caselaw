@@ -1,0 +1,81 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,576"
+decided: "1954-02-10"
+citations: ["160 Tex. Crim. 103"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marvin Rayson v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0103-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468859
+cites_cases: ["106 S.W. 2d 712", "111 S.W. 927", "154 Texas Cr. Rep. 648", "165 S.W. 2d 460", "195 S.W. 2d 552", "216 S.W. 2d 813", "27 S.W. 2d 169", "42 S.W. 2d 782"]
+---
+
+# Rayson v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Upon appellant’s arraignment in this case it was learned by the trial court that he was indigent and unable to employ counsel to represent him. Thereupon, in obedience to the mandate of Art. 4§4, C. C. P., as well as the due process clause of our State and Federal Constitutions, the trial court appointed J. W. Birdwell, Esq., an attorney of the Palo Pinto County Bar, to represent appellant.
+The record affirmatively reflects that the attorney so appointed represented the appellant upon the trial.
+After the trial and after notice of appeal had been given, Attorney Birdwell died. The trial court thereupon appointed attorneys J. R. Creighton, Esq., of the Palo Pinto County Bar, Ennis C. Favors, Esq., of the Erath County Bar, and William C. McDonald, Esq., of the Tom Green County Bar, to represent the appellant before this court upon appeal.
+Upon appellant’s arraignment and before the jury was selected, he entered a plea of guilty to the accusation.
+After the state had introduced its testimony and while testifying as a witness in his own behalf, appellant denied that he was guilty of the crime charged and testified that another person, with whom he was in no manner connected, committed the crime.
+Upon such testimony evidencing appellant’s innocence, the trial court withdrew the plea of guilty and, over the objection of appellant, entered a plea of not guilty before the jury.
+The case proceeded to final judgment under the plea of not guilty, with appellant being found guilty of murder and the death penalty assessed.
+After the plea of not guilty had been entered, no effort was made by the state to re-introduce before the jury, under that plea, the testimony that had been theretofore introduced by the state.
+Before The bar of this court at the submission of this case, attorneys for appellant take the position, by brief and oral argument, that the judgment of the trial court failed to affirmatively reflect that the appellant had entered any plea before the jury prior to the plea of not guilty, and that the only plea entered in the case was that of not guilty, which the trial court entered for the appellant.
+The judgment of the trial court, as it appeared in the transcript of the record duly certified by the district clerk, corroborated and sustained appellant’s contention.
+Counsel for appellant insisted that until the plea of not guilty had been entered, no issue had been drawn before the jury, and that it was incumbent upon the state to re-introduce its testimony before the jury after the plea had been entered, under the authority of Essary v. State, 53 Texas Cr. R. 596, 111 S.W. 927; Johnson v. State, 118 Texas Cr. R. 291, 42 S.W. 2d 782; Gilford v. State, 115 Texas Cr. R. 38, 27 S.W. 2d 169.
+When the controversy arose in the presentation of the case before us, state’s counsel insisted that the judgment as it appeared in the transcript was in error and that a correct copy of the judgment which was entered in the case would reflect that the appellant did, after the jury had been empaneled, enter his plea of guilty before the jury — which plea of guilty was thereafter, as pointed out by the trial court, changed to a plea of not guilty.
+State’s counsel asked for time within which to have prepared and forwarded to this court a supplemental transcript containing a certified copy of the judgment mentioned. This request we granted.
+The clerk of the district court has forwarded to this court a supplemental transcript containing a copy of the judgment which he certifies as correct.
+This judgment shows that appellant did enter his plea of guilty before the jury before the introduction of the testimony.
+Inasmuch as the predicate upon which appellant relied was not established, his contention is untenable.
+Counsel who represented appellant upon the trial of this case made no objection, in so far as is reflected by this record, nor did he take any exception throughout the trial. Consequently, the case is before us without bills of exception.
+Our examination of the record is limited, therefore, to errors apparent from the record and of such nature that their consideration would be authorized in the absence of an objection or exception.
+It is insisted that such an error is shown in the failure of the trial court to submit to the jury in his charge an instruction covering the law of murder without malice.
+Under the provisions of Art. 1257c, V. A. P. C., a trial court is under the duty to charge upon murder without malice “where the facts present” that issue. No necessity arises to charge upon murder without malice if the facts fail to present that issue. Leza v. State, 149 Texas Cr. R. 448, 195 S.W. 2d 552; Tebo v. State, 133 Texas Cr. R. 61, 106 S.W. 2d 712.
+The state’s testimony shows a killing for the purpose of robbery by appellant (a hitchhiker) of his benefactor, by shooting him three times with a pistol. After robbing the body, he placed it in the automobile and subsequently dumped it in an out-of-the-way place in an endeavor to hide it. Such facts are shown by the two written confessions of the appellant and supported by an abundance of corroborating facts.
+The state’s testimony presents no fact or circumstances which would require a charge upon murder without malice, for all of such testimony shows a deliberate killing, without justification or excuse, committed in the perpetration of robbery.
+As a witness in his own behalf, appellant denied that he killed the deceased or that he fired the fatal shots. He said that the deceased was killed by a man whom he did not know and who was a passenger in the automobile with deceased when he was picked up. Appellant admitted being present at the time of the killing, and subsequently assisting in disposing of the body. He denied, however, any connection with the actual shooting or robbery of the body. He denied the truth of the facts stated in the confession and insisted that he signed the confession only because the. officers would not believe his story and that the making of the confession would assist him in his plea for mercy before the jury. He insisted that at the time the murder was committed he was intoxicated and under the influence of intoxicating liquor.
+Our holding in the Cassell case, 154 Texas Cr. Rep. 648, 216 S.W. 2d 813, appears to be in point. In that case, the state’s testimony showed a malicious killing, with no extenuating circumstances. The defense was that of alibi. We held that the issue of murder without malice was not raised and that no charge upon that subject was necessary. In reaching that conclusion, we said:
+“If he was not present at the time and place of the commission of the alleged offense, he was entitled to an acquittal and not to a charge on the law of murder without malice.”
+We see no legal distinction in that case and the instant case. Appellant was either guilty, as he confessed, or he was not guilty, as a principal.
+We are constrained to agree that the trial court’s failure to charge upon murder without malice was not error.
+Complaint is made of the fact that the trial court, over appellant’s objection, withdrew the plea of guilty and entered for appellant a plea of not guilty.
+Appellant insisted that under a plea of guilty before the jury his chance of receiving a punishment less than death was greater than under a plea of not guilty. It is by reason thereof that he claims injury.
+When appellant insisted that he was innocent and so testified, the trial court was under the burden of requiring that the testimony be withrawn or of changing the plea of guilty to a plea of not guilty before the jury. Burks v. State, 145 Texas Cr. R. 15, 165 S.W. 2d 460, at page 463.
+The appellant made no effort to withdraw the testimony.
+In his testimony, appellant made some suggestion that the confessions offered in evidence by the state were not freely and voluntarily made but were the result of fear and mental coercion. We cannot agree, however, that such testimony was sufficient, as a matter of law, to render the confessions inadmissible.
+Appellant seeks to raise, here, the question as to the adequacy of the representation that he received at the hands of his appointed counsel, and, in that connection, calls attention to what he asserts were denials of constitutional guarantees as well as errors committed upon the trial to which his counsel should have registered objections.
+Appellant insists that failure to so object evidences a lack of ability and experience on the part of his counsel to properly and adequately represent him.
+The duty of the trial court, under the mandate of Art. 494, C. C. P., as well as that of due process, to appoint counsel for an accused in a capital case carries the burden of appointing competent counsel — that is, counsel of sufficient ability and experience to represent and defend the accused. 23 C. J. S., Criminal Law, p. 325.
+The instant record does not warrant a finding that appointed counsel did not possess the ability and experience referred to in the rule stated.
+To those attorneys who, without compensation, have so ably represented appellant in the preparation of the brief and oral argument in this court, we express our deep appreciation.
+The record does not reflect reversible error.
+The judgment is therefore affirmed.
+Opinion approved by the court.
+
+## Rehearing (GRAVES, Presiding Judge.)
+
+ON MOTION FOR REHEARING
+GRAVES, Presiding Judge.
+In his motion for rehearing appellant presents two propositions upon which he requests a reversal hereof, the first being set forth in the original opinion and based upon the fact that in the beginning of this cause the appellant was arraigned before the court, and according to the records, on his arraignment he pleaded guilty. The testimony evidences the fact that appellant appeared in person in open court and his counsel was also present, and after both parties had announced ready for trial, the defendant having theretofore been duly arraigned and having pleaded guilty to the indictment, thereupon he was admonished by the court of the consequences of his plea, and he persisted in pleading guilty, and the said plea was entered of record herein as the plea of the defendant.
+It is also shown that thereafter the appellant took the stand in his own behalf and testified, among other things, that as he was driving out on the public highway from Mineral Wells to Temple, something became the matter with his car which he had borrowed from a friend; that while the engine would run the car would not do so; that while looking at the car and trying to remedy the trouble, two men drove up who were going in another direction. They stopped and asked him what was the matter with the car. They eventually found that the car would not run and offered him a ride with them. He rode with them for a short distance. He had in his pocket a pistol which he offered to sell to the men. They looked at it but failed to buy the same. Desiring to relieve himself, they stopped the car and he walked around to the back thereof to urinate and while there he heard three shots. He looked up and saw that one of the men in the car had shot the other soldier and killed him; that he then got back in the car. Eventually he and the remaining soldier drove into a pasture a short distance away, pulled the dead man out and left him there; that he and the driver of the car then turned around and started back to Temple; that they went through different towns, the stranger driving the car, until they got close to Temple. Appellant then took the wheel and they both drove into Temple. He let the soldier out on Sixth Street at Temple and was to meet him there again in 10 or 15 minutes to pick him up; that when he came back two officers approached him and interrogated him; that he again requested to be allowed to urinate; that one of the officers took him a short distance away, and he escaped from him and went to Bartlett, Texas, where he stayed for a period of time, having changed his clothes at his home in Temple. On the third or fourth day thereafter he was apprehended at Bartlett and brought back. He then made a full confession, containing many pages, relative to the killing, which statement was entirely different from the one that he made upon the stand. He did testitfy that he attempted to wipe some of the blood out of the car in which he was apprehended at Temple, but that he had not been successful in cleaning it.
+In the appellant’s own statement on the stand, he never approached making himself a principal in this matter; he merely reaches the position of an accessory to the crime, if reached at all. He could not be convicted on the indictment herein under facts which showed only that he was an accessory.
+The complaint of the appellant in this motion occurred in the following manner: After appellant had testified to all these facts and had rested his case, the court said:
+“THE COURT: Marvin, stand up just a minute. When the
+indictment was presented in this Court yesterday morning you entered a plea of guilty to the charge contained herein.
+“MARVIN RAYSON: Yes, sir.
+“THE COURT: You have taken the witness stand and said that you did not kill Corporal Layton; that some other person did the act with which you are charged. Do you still persist in your plea of guilty?
+“MARVIN RAYSON: I didn’t understand that part.
+“THE COURT: I say, do you still persist in your plea of guilty?
+“MARVIN RAYSON: Guilty and ask for the mercy of the Court.
+“THE COURT: Did you kill the man or did somebody else kill him?
+“MARVIN RAYSON: I didn’t kill him.
+“THE COURT: All right. You may sit down. I withdraw this man’s plea of guilty and I will enter a plea for him of not guilty. You may proceed, Mr. District Attorney.”
+It is evident from the testimony that the court withdrew the appellant’s plea of guilty and pleaded not guilty for him. It is contended by the appellant in this motion that this proceeding upon the part of the court had great weight in causing the jury to fix the death penalty herein because it withdrew therefrom his effort to candidly stand before them and plead guilty to this offense and request of them the mercy of the court. We confess that we are unable to see any other procedure that the court could have followed, especially after the appellant’s testimony before the jury repeatedly denied that he killed the deceased or that he had anything to do with the killing. We are indebted to the wonderful brief and argument presented to us by the court-appointed counsel who represented the appellant on this appeal only. We are convinced that appellant’s appointed counsel attempted, to the best of his ability and experience, to represent him throughout the trial.
+Believing the proper disposition of the case to have been made in the original opinion, the motion for rehearing is therefore overruled.
