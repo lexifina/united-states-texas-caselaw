@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,208"
+decided: "1961-03-29"
+citations: ["171 Tex. Crim. 136"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter T. Jarnigan v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2636558
+cites_cases: ["273 S.W. 2d 623", "274 S.W. 2d 839", "314 S.W. 2d 605", "334 S.W. 2d 302"]
+---
+
+# Jarnigan v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is negligent homicide in the first degree; the punishment, six months in jail.
+Kenneth Fisk testified that he brought the English Ford in which he had his family to a halt at a stop light in the city of Lubbock, that it was hit from the rear, and that he lost consciousness.
+His mother testified that she, her husband, her son and his wife were starting on an Easter vacation when her husband was killed in an automobile accident.
+The witness Williamson testified that he was stopped at a stop light when a small foreign automobile came to a halt beside the automobile in which he was riding; that he heard a loud noise, the foreign automobile went forward into the intersection and turned over; that he looked back and saw a truck with the door open and appellant standing “beside the door”; that he saw no one else near the truck; that he went back to the same and inquired of appellant, “What in the world happened?” and appellant replied that “his brakes didn’t hold.”
+Appellant did not testify or offer any evidence in his own behalf.
+We shall discuss the contentions advanced in the brief.
+It is appellant’s contention that because the information, in addition to charging that appellant negligently permitted his vehicle to collide with the one in which deceased was riding, also alleged that he drove his vehicle at a speed greater than was reasonable and prudent, this constitutes allegation of two different misdemeanors in the same information as is prohibited by the recent amendment of Article 408a, V.A.C.C.P. Conceding, without deciding, that this information charged both negligent homicide in the first and second degree as appellant contends, still would not be in violation of the article named. Clearly, it was the intent of the Legislature to prohibit the charging of more than one separate offense in an indictment and not a prohibition against charging several different ways in which one offense might be committed. Hood v. State, 169 Tex. Cr. Rep. 422, 334 S.W. 2d 302, relied upon by appellant, does not support his contention because in that ease the information charged two separate and distinct offenses involving separate and distinct transactions.
+Appellant next contends that the court erred in failing to charge on the law of circumstantial evidence because the State failed to prove by direct testimony that appellant was the driver of the truck. With this contention we do not agree. Williamson’s testimony that appellant was standing by the truck immediately after the collision, that the door was open, that no one else was nearby, plus appellant’s statement that his brakes had failed, were sufficient facts to constitute direct evidence that appellant had been the driver at the time of the collision. Recently, in Monroe v. State, 166 Tex. Cr. Rep. 459, 314 S.W. 2d 605, the witness Monk testified that there was only one occupant in the Ford automobile; following the collision this man flew through the air to a point where he lay motionless until the officers arrived. The officers testified that this man lying on the ground was the accused, and this Court held that the charge on circumstantial evidence was not required. See also Cave v. State, 161 Tex. Cr. Rep. 107, 274 S.W. 2d 839, and Smith v. State, 161 Tex. Cr. Rep. 620, 273 S.W. 2d 623.
+Without discussing them, we deem it sufficient to say that the cases relied upon by appellant do not support his contention.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment of the trial court is affirmed.
