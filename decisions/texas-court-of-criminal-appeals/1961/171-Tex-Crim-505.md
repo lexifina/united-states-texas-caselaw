@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,538"
+decided: "1961-10-18"
+citations: ["171 Tex. Crim. 505"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Manuel Perez v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2631602
+---
+
+# Perez v. State
+
+## Majority (WOODLEY, Presiding Judge.)
+
+ON APPELLANT’S motion for rehearing
+WOODLEY, Presiding Judge.
+Our former opinion is withdrawn.
+The offense is driving while intoxicated, as a second offender; the punishment, one year in jail.
+One Bill of Exception is found in the record. It certifies that the court refused to permit the defendant to change one of his peremptory challenges and strike the name of Mrs. Hardinger instead of another juror he had struck by mistake.
+The record shows that counsel for the defendant made his request before the list of jurors chosen had been prepared by the clerk and, according to said counsel’s affidavit, “before either defendant or affiant had seen the list furnished said clerk by counsel for the State, and not knowing what if any strikes the State had made thereon.”
+It is insisted that it was within the discretion of the court to refuse counsel’s request, and that no abuse of discretion is shown.
+When appellant's counsel made his request the lists were in the hands of the clerk but had not been brought into the courtroom or compared.
+After said request had been denied and the list of jurors chosen had been completed, and after some of the jurors had been called, counsel for the state discovered that he had struck only six names from the list whereas he had placed circled numbers from 1 to 6 opposite these six names and a circled number 7 opposite the name of the Juror Olivares, intending to strike his name also.
+The court granted the request of counsel for the state and permitted the name of the Juror Olivares to be stricken and he was replaced.
+If either request was to be allowed it should have been that of defense counsel made before the lists showing the peremptory challenges had been compared.
+We conclude that the court abused his discretion in refusing to permit the defendant to change his challenge marked by mistake.
+The appellant’s motion for rehearing is granted; the opinion and order affirming the conviction is withdrawn and the judgment is now reversed and the cause remanded.
