@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,383"
+decided: "1956-06-27"
+citations: ["163 Tex. Crim. 638"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Swanson Bennett v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0638-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461212
+---
+
+# Bennett v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for the sale of whisky in a wet area without a permit, the punishment being assessed at ten days in jail.
+The information, as it appears in the transcript in this case, does not allege the date the offense is alleged to have been committed.
+“The indictment, information and complaint, or the complaint when the prosecution is based alone upon a complaint, to be sufficient, must give the day, month, and year of the commission of the offense.” Branch’s P. C., Sec. 432.
+The information, here, is fatally defective because it fails to reflect the date of the offense.
+The judgment is reversed and the cause is remanded.
+
+## Rehearing (MORRISON, Presiding Judge.)
+
+ON state’s motion for rehearing
+MORRISON, Presiding Judge.
+A supplemental transcript has been filed, and the information now before us contains the necessary allegations which were missing in the original transcript.
+Inspector Farris of the Texas Liquor Control Board testified that he registered at a certain hotel in Wichita Falls and called to the desk for a bell boy, that the appellant responded to his call and to his request for whiskey by delivering him a pint, for which he charged five dollars.
+The appellant, testifying in his own defense, admitted delivering the whiskey, which he stated he had at the hotel for his own use, to Farris but denied that it was a sale and stated that Farris gave him seven dollars to reimburse him for the cost of the whiskey and he considered the remainder as a tip.
+The jury resolved what conflict there was in the evidence in behalf of the state, and we find the evidence sufficient to support the conviction.
+Appellant’s brief contends that the facts raise the issue of entrapment.
+We fail to find any objection or exception to the court’s charge for failure to submit such defense to the jury, and hence nothing is presented for review. We observe, however, that we find nothing in the appellant’s testimony which would indicate that this was his first connection with the illegal liquor traffic or that the inspector induced him to commit a crime not contemplated by him so that he might be prosecuted.
+Finding no reversible error, the judgment of the trial court is affirmed.
