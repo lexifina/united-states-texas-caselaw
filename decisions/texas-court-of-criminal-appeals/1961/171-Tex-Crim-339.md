@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,530"
+decided: "1961-06-14"
+citations: ["171 Tex. Crim. 339"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Norman S. Spencer"]
+source_url: "https://static.case.law/tex-crim/171/cases/0339-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2632157
+cites_cases: ["101 S.W. 2d 245", "109 S.W. 369", "114 Tex. Cr. R. 398", "128 Tex. Cr. R. 112", "131 S.W. 1101", "131 Tex. Cr. R. 550", "163 Tex. Cr. R. 311", "163 Tex. Cr. R. 534", "172 S.W. 1143", "199 S.W. 637", "201 S.W. 1157", "23 S.W. 2d 733", "234 S.W. 892", "246 S.W. 373", "290 S.W. 2d 914", "294 S.W. 2d 400", "32 L.R.A. (N. S.) 1101", "53 Tex. Cr. R. 240", "60 Tex. Cr. R. 282", "76 Tex. Cr. R. 116", "79 S.W. 2d 139", "82 Tex. Cr. R. 221", "83 Tex. Cr. R. 152", "90 Tex. Cr. R. 287", "93 Tex. Cr. R. 112"]
+---
+
+# Ex parte Spencer
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Upon appeal from a conviction in the corporation court of the City of Houston, the appellant on a trial de novo in the County Court of Law No. 3, was found guilty by a jury and assessed a fine of $50 in a negligent collision case.
+In view of the fact that the fine in the county court, upon appeal from the corporation court, was assessed at less than $100, the county court judgment was final and no further appeal would lie. Art. 53, C.C.P.
+Following his arrest on a capias pro fine, the appellant sought his release by writ of habeas corpus. The writ was issued and a hearing was had in Criminal District Court No. 3, after which he was remanded to custody. From such order appellant appeals.
+Appellant contends that the complaint is fatally defective on the ground that no specific act of negligence is alleged, and that it charges more than one offense.
+In considering an application for a writ of habeas corpus after a conviction in the corporation court of the city of Dallas for the violation of a city ordinance, this court held in Ex parte Vaugh, 93 Tex. Cr. R. 112, 246 S.W. 373, as follows:
+“This court takes no note of the form of the complaint but in habeas corpus proceedings of this character will go no further than to determine whether the arrest or conviction is supported by a law under which a valid complaint may be drawn. See Ex parte Cox, 53 Tex. Cr. R. 240, 109 S.W. 369; Ex parte Jennings, 76 Tex. Cr. R. 116, 172 S.W. 1143; Ex parte Rogers, 83 Tex. Cr. R. 152, 201 S.W. 1157; Ex parte Roquemore, 60 Tex. Cr. R. 282, 131 S.W. 1101, 32 L.R.A. (N. S.) 1101; Ex parte McKay, 82 Tex. Cr. R. 221, 199 S.W. 637; Ex parte Garcia, 90 Tex. Cr. R. 287, 234 S.W. 892.”
+See also: 21 Tex. Jur. 393, Sec. 12; Ex parte Helton, 128 Tex. Cr. R. 112, 79 S.W. 2d 139; Ex parte Chaney, 131 Tex. Cr. R. 550,101 S.W. 2d 245; Ex parte Brannon, 163 Tex. Cr. R. 311, 290 S.W. 2d 914; Ex parte Merriell, 163 Tex. Cr. R. 534, 294 S.W. 2d 400.
+Copies of the ordinances of said city pertaining to the offense charged were introduced in evidence. No attack is made upon the validity or constitutionality of said ordinances. Therefore, the insufficiency of the complaint as the appellant contends is not subject to attack by habeas corpus proceedings.
+Appellant further contends that the complaint was not sworn to in the manner required by law, and that all signatures to the complaint are facsimile signatures.
+The testimony reveals that the deputy clerk in person took the complaint of the affiant who appeared in person and swore to same, and that each personally affixed his name thereto by the use of a facsimile stamp. This shows a valid execution of the complaint. Stork v. State, 114 Tex. Cr. R. 398, 23 S.W. 2d 733.
+The judgment is affirmed.
+Opinion approved by the Court.
