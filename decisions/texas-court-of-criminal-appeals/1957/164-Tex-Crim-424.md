@@ -1,0 +1,43 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,784"
+decided: "1957-03-20"
+citations: ["164 Tex. Crim. 424"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George B. Parr v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0424-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610000
+---
+
+# Parr v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for seriously threatening to take human life, with punishment assessed at a fine of $1,500.
+The information upon which the conviction was predicated reads as follows:
+“IN THE NAME AND BY THE AUTHORITY OF THE STATE OF TEXAS:
+“Now comes JOHN C. MULLEN, County Attorney of the County of Jim Wells, State aforesaid, in behalf of said State, presents in the County Court of said County, at the June Term, 1956, of said Court, that GEORGE B. PARR, who is hereinafter called Defendant on or about the 11th day of July, A.D. 1956, and before the making and filing of this information, in the County and State aforesaid, did in the County of Duval and State of Texas and within four hundred (400) yards of the boundary line of the County of Jim Wells, State of Texas, then and there unlawfully and seriously threaten to take the life of a human being, to-wit, Tomas Molina — against the peace and dignity of the State.”
+Appellant insists that such information is subject to the objection of repugnancy in that it is alleged therein that the offense was committed in both Jim Wells and Duval Counties.
+Art. 190, C.C.P., provides that when an offense is committed within four hundred yards of the boundary of any two counties, the prosecution may be conducted in either county. That statute is purely a venue statute. Where the facts authorize the application of the statute (Art. 190, C.C.P.), it is within the option of the state to bring the prosecution in either county.
+To exercise that option, the state’s pleading must of necessity show that the offense was committed in one county and the prosecution conducted in another. The statute prevents such a pleading from being subject to the rule of repugnancy.
+In the instant case, under the allegations of the information it was the province of the county attorney of Jim Wells County to present the information in the county court of that county.
+The scene of the alleged offense was in a hallway of the courthouse of Duval County, which is within four hundred yards of the Jim Wells County line.
+Tomas Molina, whom it was alleged appellant seriously threatened to kill, was a county commissioner of Duval County ■and had an office in the courthouse near that of the county-judge.
+Molina was a member of the political party that was opposing the appellant in his race for sheriff of Duval County.
+On the afternoon of July 11, 1956, Molina was seated in the office of the county judge when, according to his testimony, he recognized the voice of the appellant from the hall and heard him say, loudly, “Where is that S- O- B Molina. I want to kill him.” To those in the office with him, Molina said, “ T believe Mr. Parr is looking for me.’ ” At that time, Jacinta Rodriguez came to the door of the office and said to Molina, “ ‘stay in the office, Mr. Parr is carrying a gun.’ ” Other witnesses for the state testified that as appellant entered the courthouse carrying a loaded rifle he was heard to say, “ ‘Where is that old Tomas Molina, I want to kill him, he ain’t going to make no fun out of me,’ ” and that “He (Parr) was red in the face and looked like he was angry.” There was also testimony that appellant said to the witness Garcia, “ ‘Chaveda, go tell Molina I am looking for him,” to which request the witness replied, “ ‘You tell him, George.’ ”
+Appellant was then taken into custody by a deputy sheriff and a ranger. Appellant said to the latter, at the time of arrest, “ ‘Russell, Molina is intimidating a little girl.’ ”
+Appellant testified that when he returned after lunch to his office, which was near the courthouse, he found one of his campaign workers, Mrs. Sofia Olvera, crying and in a semi-hysterical condition, and that she told him Molina had abused and insulted her and called her a “lot of cuss words.” In that connection, Mrs. Olvera told appellant that she could no longer work for him or his political party.
+Appellant testified that because of this information he decided to “go by and talk to Tomas Molina.” With that in mind he went to his automobile, got his rifle — which he said was for his own protection — and started towards the courthouse. As he did so he told a witness that he “was going over and see Molina and make Molina apologize for the way he had treated Mrs. Olvera.” Appellant denied having said the words attributed to him by the state’s witnesses. He testified that he said in a loud voice, “ ‘why is it that that S- O- B- of a Tomas Molina did not jump onto men instead of jumping onto a young lady like he was doing, didn’t he have any guts or what was the matter with him.’ ”
+Appellant denied that he threatened at any time to take the life of Tomas Molina.
+It is upon the facts stated that this conviction rests.
+It is insisted by appellant that the facts do not warrant the conviction.
+This contention is based upon the proposition that the state’s testimony shows nothing more than a desire to kill Molina, as distinguished from a present intention of so doing.
+Art. 1265, P.C., makes it unlawful for one to seriously threaten to take another’s life, while Art. 1266, P.C., expressly places with the jury the power to determine whether any threat was seriously made.
+It is thus made to appear that the legislature has broadened, by statute, the power of the jury and extended to the jury much lattitude in determining whether any threat was seriously made.
+We are unable to say that the jury was not authorized, as a matter of law, to find from the facts that appellant did seriously threaten to take the life of the person named. We would have to so hold in order to say that the facts do not warrant the conviction.
+Whatever threat appellant made being established by direct proof, the case was not one of circumstantial evidence, and no necessity existed for such a charge.
+The judgment is affirmed.
