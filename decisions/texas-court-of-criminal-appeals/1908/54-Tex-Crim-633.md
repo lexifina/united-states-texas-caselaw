@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "4193"
+decided: "1908-12-09"
+citations: ["54 Tex. Crim. 633"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry R. Knapp v. The State."]
+source_url: "https://static.case.law/tex-crim/54/cases/0633-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 182643
+cites_cases: ["103 U. S., 304", "137 U. S., 762", "24 S. W. Rep., 898", "32 Texas Crim. Rep., 521", "33 Texas Crim. Rep., 470", "33 Texas Crim. Rep., 471", "34 Texas Crim. Rep., 516", "45 Texas Crim. Rep., 234", "87 Iowa, 5", "93 Mich., 258"]
+---
+
+# Knapp v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+The charging part of the indictment is as follows: “Henry R. Knapp, on the 21st day of December, in the year of our Lord eighteen hundred and ninety-seven (1897), did lawfully marry in the State of New Jersey, and have for his wife one Margret D. Cooney, and while the said Margret D. Cooney was living, did in the County of Dallas and State of Texas, on the 26th day of March, A. D. 1906, marry and have for his wife one Charlie D. Clair, and afterwards on the 26th day of March, A. D. 1906, did unlawfully and feloniously have both the said Margret D. Cooney and the said Charlie D. Clair for his two wives at one and the same time, contrary to the form of the statute in such cases made and: provided, and against the peace and dignity of the State.” This indictment has the merit of originality in its allegations in charging the offense of bigamy, whatever else may be said about it.
+Several questions are suggested for revision. Margret D. Cooney, appellant’s alleged first wife, was used as a witness on the trial to prove up her marriage with appellant and to identify him as the party who had previously married her. By her testimony, the State showed two facts. First, that she, Margret D. Cooney, was. first married to appellant in Canada. Second, that she was again married to him in the State of New Jersey in the United States. She accounts for this by reason of the fact, and so states, that she understood there was no registry made in Canada for the first marriage. We will not enter into a discussion of appellant’s contention that the second marriage, that is, that in Few Jersey, was not a marriage at all by reason of the first marriage in Canada, but will state in passing that if the first marriage, that in Canada, was legal and proper, the second marriage would amount to nothing. Married people when once married do not add to the legality of their marriage by a repetition of the marriage ceremony.
+Evidence was introduced of a conversation between some of the witnesses and Margret D. Cooney, occurring in the absence of appellant, in regard to her previous marriage. It is unnecessary here to state that conversation. It went before the jury. This, of course, was not admissible. First, because it .was not in the presence or hearing of appellant and a conversation between other parties is not binding upon him. And, second, if Margret D. Cooney was the wife of appellant, as she states she was, and legally married to him, she could not testify against him. She would not be a competent witness.
+There is another bill of exceptions reserved to the ruling of the court, permitting Margret D. Cooney to take the stand and testify against appellant in regard to their former marriage and relations. This bill contains practically all of her testimony, or a large portion of it, and manifests the fact that she was married to appellant in Canada first and subsequently in Few Jersey, and that they lived together as man and wife for quite awhile. This bill manifests patent error. In cases of bigamy the first wife can- not be used as a witness against her husband. If the first marriage was void or illegal and was not in fact such a marriage as is contemplated by the statute of bigamy or by our law, or by the law of the marital contract, then a second marriage would riot be illegal. There was error, therefore, in permitting the first wife to testify against appellant. This is thoroughly settled in this State. See Rep. v. Mumford, Dallam, 374; Boyd v. State, 33 Texas Crim. Rep., 470; Harville v. State, 54 Texas Crim. Rep., decided at the present term of this court; Moore v. State, 45 Texas Crim. Rep., 234; Thomas v. State, 14 Texas Crim. App., 70; Johnson v. State, 27 Texas Crim. App., 135; Baxter v. State, 34 Texas Crim. Rep., 516. It is unnecessary to cite other Texas cases. This is a ruling followed throughout other jurisdictions. State v. Chambers, 87 Iowa, 5; People v. Quanstrom, 93 Mich., 258; Stone v. Bowman, 13 Peters, 209, U. S.; Bassett v. U. S., 137 U. S., 762. Without citing further authorities we think these are sufficient. The rule is universal and the statute is emphatic that the wife can not testify against her husband except where the offense is directed against her person. This is so in bigamy, incest, adultery, fornication and similar offenses and the same rule applies as in bigamy cases.
+There is another question in the case which we deem unnecessary to discuss. There was a transcript of some legislative matters from Hew Jersey introduced. There are various -objections urged to the introduction of this evidence which can be supplied upon another trial and these objections removed.
+The judgment is reversed and the cause is remanded.
+Reversed and remanded.
