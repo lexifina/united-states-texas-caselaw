@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,912"
+decided: "1961-11-29"
+citations: ["171 Tex. Crim. 465"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jessie Dagley v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0465-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2629611
+cites_cases: ["269 S.W. 2d 680"]
+---
+
+# Dagley v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is cattle theft; the punishment, 5 years.
+The injured party Meineke testified that he saw his seven head of cattle in his little field pasture on the Plantersville Road at 5:30 P.M. on January 13 but that when he returned at 6:00 A.M. the following morning four of them were missing. He testified that later in the day he identified his four head of cattle at Houston Packing Company.
+O. P. McGrew testified that he bought the four cattle from appellant at the Houston Packing Company at 7:30 A.M. on January 14 and that appellant gave his name as Jessie Dagley, stating that he lived at Trinity, Texas.
+Sheriff Johnson testified that he found a boot heel and a shoe impression near the pen at Meineke’s pasture, made a plaster cast of the same, later compared them with the shoes worn by appellant and found them to fit perfectly.
+A check payable to “Jesse Dagley, Trinity, Texas” drawn on the Houston Packing Company dated January 14 in the sum of $570.50 and endorsed “Jesse Dagley” was introduced in evidence.
+Appellant, testifying in his own behalf, stated that he had left his home in Houston to go on a date, that he returned home after midnight and was drinking coffee at 6:45 the next morning when one Jack Fussell drove up to his house and offered him $10.00 to sell a load of cattle which he had in a truck out in front, that he agreed to do so and went to the Houston Packing Company, where he sold the four head of cattle described by Meineke to McGrew and received from him the $570.50 check introduced in evidence, which he cashed and turned over the proceeds to Fussell less the $10.00 for his services and $20.00 on an old debt due him by Fussell. Appellant’s explanation for having given Trinity as his address was “I was fixing to go up there and go into the chicken business.” He also called his daughter and his brother-in-law, and their testimony tended to support his claim that he had spent the night in question at home.
+In rebuttal, the State called Jack Fussell, who testified that on January 13 he and appellant were drinking and riding around, that they turned off the road to Plantersville where they saw a small herd of cattle, that they were able to pen four of them, that later while a train was passing nearby they cut the gap and loaded the cattle into the truck which he was driving and then proceeded to the Houston Packing Company, where appellant sold the cattle for $570 and some cents, which he and appellant divided equally. Fussell was at the time of this trial serving a term in the penitentiary for this theft.
+The sole question presented for review is the sufficiency of the evidence to support the conviction. We call attention to the evidence as to the comparison of the plaster cast with appellant’s shoe plus the fact that appellant gave a fictitious address when he sold the cattle. In Donihoo v. State, 160 Tex. Cr. Rep. 338, 269 S.W. 2d 680, we held that evidence of possession of recently stolen property in the hands of the accused was sufficient to corroborate the testimony of the accomplice witness.
+Finding the evidence sufficient and no reversible error appearing, the judgment of the trial court is affirmed.
