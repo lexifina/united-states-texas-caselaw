@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,967"
+decided: "1956-01-25"
+citations: ["162 Tex. Crim. 435"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Agnes C. Womack v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0435-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2464667
+cites_cases: ["158 Tex. Cr. R. 427", "159 Tex. Cr. R. 491", "256 S.W. 2d 853", "265 S.W. 2d 600", "268 S.W. 2d 668"]
+---
+
+# Womack v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for driving a motor vehicle upon a public highway while intoxicated; the punishment, 3 days in jail and a fine of $50.
+The complaint and information were filed on February 14, 1955, and bear the signature of the county attorney.
+A motion for arrest of judgment was filed and, upon the hearing on such motion, it was stipulated that the complaint was not signed nor sworn to before the county attorney before it was filed or before the information was filed, and the jurat of such complaint showing that it was signed and sworn to before the county attorney on February 14, 1955, was not true.
+In view of such stipulations it is evident that at the time the information was filed and presented, there was no valid complaint which could form a basis for the information. A valid complaint is a prerequisite to a valid information. Art. 415 C.C.P.; Byrom v. State, 158 Tex. Cr. R. 427, 256 S.W. 2d 853.
+A complaint sworn to after the information has been presented will not support a conviction. Billingslea v. State, 160 Tex. Cr. Rep. 244„ 268 S.W. 2d 668; Baker v. State, 159 Tex. Cr. R. 491, 265 S.W. 2d 600.
+The judgment is reversed and the prosecution ordered dismissed.
