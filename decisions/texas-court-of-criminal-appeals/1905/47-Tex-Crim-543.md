@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3116"
+decided: "1905-02-01"
+citations: ["47 Tex. Crim. 543"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Geo. F. Wood v. The State."]
+source_url: "https://static.case.law/tex-crim/47/cases/0543-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4535000
+cites_cases: ["2 S. W. Rep., 619", "34 Texas Crim. Rep., 63"]
+---
+
+# Wood v. State
+
+## Majority (BROOKS, Judge.)
+
+BROOKS, Judge.
+Appellant was convicted of unlawfully disposing of mortgaged property, and two years in the penitentiary assessed as his punishment. Appellant filed a motion in arrest of judgment, alleging that the indictment upon which the conviction is predicated, charged no offense, and because it fails to allege that the mortgage therein set out was unpaid at the time of the alleged sale of the property. The indictment, after setting forth the mortgage upon which the prosecution was predicated, contains but one count, which is as follows :
+“And thereafter, to wit: on or about the 24th day of July, A.D. 1902, in Kimble County, Texas, the said George F. Wood did unlawfully and fraudulently, with intent to defraud the said T. C. Taylor, sell, barter and convey the said property to wit: 43 head of stock horses, a portion of said horses being branded thus: X-on right thigh, and the remainder of said horses being branded thus: X on the left thigh. The said horses are known as the Josh Deats horses and are the horses bought of the said Josh Deats by the said George F. Wood. The said horses were so sold, bartered and conveyed by the said George F. Wood to persons to said grand jurors unknown, after diligent inquiry, except one of said horses, which said horse was by said George F. Wood so sold, bartered and conveyed as aforesaid, to one Alfred Miller. The said horses were so sold, bartered and conveyed without the consent of the said T. C. Taylor, who was then and there the legal holder and owner of said mortgage, and said deed of trust and the said mortgage and said deed of trust was, at the time of the sale and disposition of the property, as aforesaid, by the said George F. Wood, a valid, subsisting, unsatisfied lien on and upon the said property, as the said George F. Wood well knew.”
+Article 950, Penal Code, under which this prosecution was instituted, provides: “If any person has given or shall hereafter give any mortgage, deed of trust or other lien in writing upon any personal or movable property or growing crop, of farm produce, and shall remove the same or any part thereof out of the State, or shall sell or otherwise dispose of the same with intent to defraud the person having such lien, either originally or by transfer, he shall be punished by imprisonment in the penitentiary not less than two nor more than five years.” It will be seen by a careful reading of the foregoing article of the statute, that it is made a felony to fraudulently dispose of either the whole or a part of the property that has been theretofore mortgaged, as therein provided; but in each instance, there must be, of course, a fraudulent disposition. Therefore, it follows that each fraudulent disposition is a separate offense. Reverting to appellant’s motion in arrest of judgment, it will be seen that the last ground is not well taken, since the indictment does state that the mortgage is unsatisfied. However, the first ground of the motion is well taken; since it follows from what has been said above, in construing said article that each fraudulent disposition being a separate offense, where the pleader undertakes to allege separate offenses, he must do so in separate courts, and cannot allege two distinct offenses in the same court. Where it is done, the indictment becomes duplicitous, and therefore defective. Pisano v. State, 34 Texas Crim. Rep., 63; Heineman v. State, 22 Texas Crim. App., 44, 2 S. W. Rep., 619.
+It is true that the trial judge limited the jury to the consideration of the count alleging a fraudulent disposition of the one horse to Miller, thus eliminating the first offense charged in the count. But this would not cure the defect in the indictment. If appellant fraudulently disposed of forty-three head of horses, as alleged in the indictment, to parties unknown to the grand jury, this would be one offense; and the fraudulent disposition to Miller, as alleged in the indictment, would be another offense. Therefore we have two separate and distinct offenses alleged in one and the same count, and not in separate counts. There might be an argument in favor of the proposition that this is a distinction without a difference, i.e., it would make no difference whether the two offenses are charged in the same count or separate counts. But the decisions of this court, hold to the contrary, and they are supported by the common law authorities. We accordingly hold that the indictment is defective, because duplicitous, as it contains two offenses in the one count. The judgment is accordingly reversed and the prosecution ordered dismissed.
+Reversed and dismissed.
+Davidson, Presiding Judge, absent.
