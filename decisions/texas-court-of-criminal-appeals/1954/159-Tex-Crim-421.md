@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,832"
+decided: "1954-02-17"
+citations: ["159 Tex. Crim. 421"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Vasco Carrier v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0421-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2475407
+---
+
+# Carrier v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is robbery; the punishment, 99 years.
+The appellant plead guilty and offered no evidence in his behalf.
+The state’s evidence will be summarized. Mr. Sims, a 62-year old tubercular, was assaulted by appellant at Sims’ home and beaten over the head with a sack containing buckshot and then with a pair of heavy tin snips. Following this, Sims was forced to drive his automobile to a point where appellant’s wife joined them; sometime later the appellant took the wheel, forced Sims to kneel on the floorboard of his automobile, and drove to a relatively isolated spot in the sandhills outside the city of El Paso, where the appellant took Sims’ billfold and its contents, hit Sims over the head, rendered him unconscious, and left him to die. Sometime later Sims regained consciousness, went to the nearest house, and the police were notified.
+Appellant and his wife were apprehended sometime later in Oklahoma.
+We shall discuss appellant’s contentions in the order raised by his able counsel in his brief.
+Bill of Exception No. 2 recites that after the plea was received he requested that the jury be withdrawn so that he might argue a motion before the court. The motion was in writing, was submitted to the court, and was overruled. The motion urged the court to instruct the prosecution not to attempt to prove any prior offenses committed by the appellant. The bills further recite that following this the witness Sims was permitted to testify that, while the appellant was forcing him to drive away from his home, the appellant told him that he was an ex-convict and that later, during their travels and prior to taking his billfold and automobile from him, the appellant told Sims that he was not afraid of the cops or the electric chair. These bills further object to this testimony because he says that a preliminary hearing the witness Sims had not mentioned this fact.
+We shall answer the complaints in the order urged. First, there was no necessity for the jury to be withdrawn in order for the court to read and pass upon a written motion. The motion was clear and needed no argument to support it. Second, no error is shown by permitting Sims to testify about what appellant said to him while holding him a prisoner. This is certainly true with reference to this statement because the offense was robbery by placing in fear. Surely a statement by the robber that he was an ex-convict and that he was afraid of neither the police or the electric chair would be calculated to place his victim in fear of him.
+And, lastly, the fact that Sims had not told of this statement at an examining trial could not have prevented him from answering the question when propounded to him in the presence of the jury.
+Bills of Exception Nós. 5 and 6 seek to raise a question concerning conversations and agreements had between appellant’s counsel and an assistant district attorney prior to the trial. The court qualified the bills by certifying that there was nothing in the record to support such bills, and we find nothing. Such matters were plead in the motion for new trial, but we find no evidence to support the motion. No error is shown by the bills.
+Informal Bill of Exception No. 17 complains of remarks of the trial judge made while ruling on an objection. An examination of the statement of facts reveals that appellant did not object to the remarks nor request the court to instruct the jury not to consider them. In addition, we observe that appellant’s attorney had asked the prosecuting witness twice if he had studied law, and the witness answered that he had not. The witness was then asked to explain his use of legal terminology when he had had no such knowledge. The state objected, and the court sustained the objection, saying, “I don’t see the materiality. Even if he had studied law, it is not a crime to study law, I hope.” We can conceive of no possible injury to the appellant from the above statement.
+Finding no reversible error, the júdgment of the trial court is affirmed.
