@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,659"
+decided: "1957-01-02"
+citations: ["164 Tex. Crim. 48"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jesse H. DeLeon v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2608259
+cites_cases: ["116 S.W. 2d 716", "248 S.W. 2d 144", "254 S.W. 2d 131", "264 S.W. 2d 731"]
+---
+
+# DeLeon v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for the possession of marihuana; the punishment, two years in the penitentiary.
+The testimony of two police officers shows that on February 17, 1956, they went to a house located at 3908 Bering Street, where the appellant lived, to execute a search warrant. Shortly after their arrival, appellant drove into the driveway; they approached him, placed him under arrest, and gave him the search warrant as they entered the house. They searched appellant’s room which had two closets — one in the bedroom and one in the bathroom just off the bedroom. In the closet in the bedroom over the door facing they found a small white bundle which contained three hand-rolled cigarettes. It was shown that the cigarettes were wrapped in the lower half of a sales slip which bore a number which corresponded to a number on the top half of a sales slip bearing the name of Jesse V. DeLeon with the address of 3908 Bering Street found in the drawer of a dresser in appellant’s room. Appellant told Officer Chavez that the “stuff” in the dresser drawer belonged to him. They also found dustings in the pockets of two shirts bearing initials J.V.D., and the appellant told the officers the shirts were his. One of the shirts was in the closet in the bedroom and the other in the closet in the bathroom.
+The state proved by a chemist that the substances in each of the three cigarettes and that found in each of the shirt pockets contained marihuana.
+Appellant, testifying in his own behalf, stated that he lived with Alfred Centeno in the room of the house in question at 3908 Bering Street; that Alfred Centeno used the closet in the bedroom and that he used the closet in the bathroom. He further testified that he did not see the officers find three cigarettes; that they asked him about two or three shirts which he told them belonged to him but he did not see them remove any dustings from any of the shirt pockets. He also testified that he told the officers that he just boarded there and that several other persons lived in the house.
+On cross-examination appellant testified that he had lived in the house at 3908 Bering Street for two years and was living in the room in question on the day of the search and had been for about one year and never placed any of his clothing in the closet in the bedroom but used the closet in the bathroom.
+Alfred Centeno, called by appellant, testified that he had lived in the room with the appellant for about three months, that there were two beds, that he used the closet in the room and appellant also kept clothes in there sometimes, but that appellant’s closet was in the bathroom. He further testified that he had not seen the three cigarettes before the trial and that they were not his.
+The proof also shows that an elderly man and woman and two or three other persons than the appellant and Centeno lived in the house.
+The facts and circumstances in evidence are sufficient to warrant the jury’s conclusion that the appellant possessed the marihuana as charged.
+Appellant contends that his arrest in the driveway near the house by virtue of the warrant of arrest contained in the search warrant was illegal because it was before the search of the house and the finding of any incriminating evidence. Therefore the search was illegal.
+Appellant further contends that the search warrant, is void because it was a blanket search warrant as it described premises occupied by more than one family by a single street number and did not connect each occupant with the alleged unlawful act.
+The arrest of the appellant in the driveway before the execution of the search warrant did not render the search of the house under and by virtue of the search warrant illegal.
+The record does not contain the search warrant complained of. In its absence this court is in no position to consider and appraise any claimed defects therein. Roach v. State, 134 Texas Cr. R. 556, 116 S.W. 2d 716; Bailey v. State, 157 Texas Cr. R. 315, 248 S.W. 2d 144; Johnson v. State, 158 Texas Cr. R. 233, 254 S.W. 2d 131; Williams v. State, 159 Texas Cr. R. 487, 264 S.W. 2d 731.
+Finding no reversible error, the judgment is affirmed.
+Opinion approved by the Court.
