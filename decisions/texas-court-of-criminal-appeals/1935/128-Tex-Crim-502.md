@@ -2,7 +2,7 @@
 court: "Texas Court of Criminal Appeals"
 docket: "17280"
 decided: "1935-01-02"
-citations: ["128 Tex. Crim. 502", "77 S.W.2d 1115"]
+citations: ["128 Tex. Crim. 502"]
 reporter: "tex-crim"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,6 @@ parties: ["C. R. Williams v. The State."]
 source_url: "https://static.case.law/tex-crim/128/cases/0502-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5253821
-cites_cases: ["67 S.W.(2d) 865", "68 S.W.(2d) 501"]
 ---
 
 # Williams v. State
