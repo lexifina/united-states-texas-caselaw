@@ -1,0 +1,40 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,039"
+decided: "1957-05-29"
+citations: ["165 Tex. Crim. 106"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Merlin Bland Turner v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2612582
+cites_cases: ["127 Texas Cr. Rep. 486", "130 Texas Cr. Rep. 159", "158 Texas Cr. Rep. 350", "255 S.W. 2d 881", "60 S.W. 2d 439", "92 S.W. 2d 1038"]
+---
+
+# Turner v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+Under an indictment charging the offense of burglary with certain prior convictions of felonies less than capital alleged to enhance the punishment, appellant was convicted of the primary offense of burglary and assessed punishment at confinement in the penitentiary for eight years.
+The sole question presented is the sufficiency of the evidence to sustain the conviction.
+The evidence consists of that offered by the state as the appellant did not testify or offer any evidence in his behalf.
+Appellant’s written confession was introduced in evidence.
+From the confession and other testimony it is shown that on June 26, 1952, around midnight, the appellant and Robert Leroy Spradling went upon the roof of a building occupied by Sommers Drug Store No. 8 in the city of Beaumont for the purpose of burglarizing the place. After drilling some twenty holes in the roof and removing two boards, they decided it was too late to finish the job, whereupon they placed the tools which they had brought with them consisting of a brace and bit, keyhole saw, punch and maul in the hole, covered it up with a piece of tin and left.
+During the morning, the hole in the roof which was approximately 20 inches square and the tools were discovered by the store manager when water began coming into the building as the result of a rain which had fallen. Under direction of the branch manager a hole 10 inches square was then cut in the ceiling directly under the hole in the roof in order to concentrate the flow of water into the building. Later during the day a plan was worked out by those in charge of the store to set a trap to catch whoever had been upon the roof and cut the hole. Pursuant to the plan the same boards were placed back in the hole in the ceiling, secured with a brace lightly nailed, and a tub placed directly beneath on the floor. Arrangement were made for a person to remain in the store' that night for the purpose of notifying the police in the event the subjects returned.
+Around midnight appellant and Spradlin returned, climbed upon the roof and after appellant removed the piece of. tin and was reaching down in the hole for the brace and bit something fell into the room below. The person stationed in the building then notified the police who immediately surrounded the building and upon going on the roof arrested the appellant and Spradlin and found the tools in the hole.
+It was further shown that the roof and ceiling of the building were separated by 2” by 6” timbers on 24” centers and that the tools were found lying on top of the ceiling in the space between the ceiling and the roof and below the opening cut in th roof by the appellant and his companion.
+Appellant insists that the evidence is insufficient to sustain the conviction because the state failed to prove an entry into the building and that under the evidence he could not be guilty of burglary but at the most only attempted burglary.
+It is first insisted that an entry into the building' is not shown because the evidence shows that appellant only made an opening in the roof and not an opening through the ceiling.
+In Mobley v. State, 130 Texas Cr. Rep. 159, 92 S.W. 2d 1038, 1039, where the accused was discovered in the attic of a store building after making an entrance through the roof of the building but not through the ceiling leading into the main building, this court in holding that such constituted an entry said:'
+“Appellant’s contention is that since he had not made any entrance through the ceiling, he was not guilty of burglary. We cannot agree with him. When they cut a hole through the roof into the building and entered it with the intent to steal some of the property therein located, they were guilty of burglary, notwithstanding that they had not yet succeeded in reaching the place where goods were stored.”
+Appellant next insists that the state failed to prove an entry into the building as defined by Article 1393, V.A.P.C., which provides in part:
+“The entry is not confined to the entrance of the whole body; it may consist of the entry of any part for the purpose of committing a felony or theft * * * or by the introduction of any instrument for the purpose of taking from the house any personal property although no part of the body of the offender should be introduced.”
+Appellant insists that no entry is shown under the definition of the statute because the evidence fails to show that he introduced any part of his body or any tools into the hole of the roof for the purpose of removing any personal property from the building.
+With such contention we do not agree.
+The evidence clearly shows that the appellant and his companion went to the building for the purpose of stealing property therefrom. The evidence is sufficient to further show that in cutting the hole in the roof, in furtherance of the plan, the appellant introduced his hand in the space between the ceiling and the roof. The introduction of only the appellant’s hand in this space of the building was sufficient to constitute an entry. Nash v. State, 20 Texas App. 384 and Stroud v. State, 127 Texas Cr. Rep. 486, 60 S.W. 2d 439.
+The case of Russell v. State, 158 Texas Cr. Rep. 350, 255 S.W. 2d 881 and other cases cited and relied upon by the appellant are not here controlling. In the cases cited no part of the body of the accused was introduced in the building whereas in the present case it is shown that a part of appellant’s body was introduced in the building.
+Finding the evidence sufficient to support the conviction; the judgment is affirmed.
+Opinion approved by the Court.
