@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,576"
+decided: "1959-04-15"
+citations: ["168 Tex. Crim. 157"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. C. Fletcher v. State."]
+source_url: "https://static.case.law/tex-crim/168/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2619079
+cites_cases: ["132 S.W. 2d 855", "137 Texas Cr. Rep. 569", "144 Texas Cr. Rep. 183", "149 Texas Cr. Rep. 278", "162 S.W. 2d 110", "193 S.W. 2d 819"]
+---
+
+# Fletcher v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for the unlawful possession of whisky for the purpose of sale in a dry area with three prior convictions for offenses of like character alleged for the purpose of enhancement; the punishment, 12 months in jail and a fine of $800.
+Appellant’s sole contention is that the evidence is insufficient to sustain the conviction.
+The state’s case against appellant was one of circumstantial evidence and so recognized by the court in his charge to the jury.
+Deputy Sheriff R. C. Ingram, called as a witness by the state, testified that on the day in question, while on patrol duty with another deputy in the city of Winnsboro, he observed the appellant’s automobile parked in a road near the northwest corner of an old gin building; that he then saw the appellant step out from behind the building near the northwest corner and jump back, whereupon they proceeded to stop the patrol car and he jumped out, ran around the building and met the appellant coming back on the north side towards his automobile; that he then asked appellant what he did with the whisky, to which appellant replied he did not have any, that he had been taking salts and had to stop for a bowel movement, but that appellant was unable to show him any physical evidence of such act; that he then “tracked” appellant around the building to where he found 10 or 11 pints of Hiram Walker and Sunnybrook whisky buried in some vines and leaves approximately 30 feet from the northeast corner of the building; that on such occasion he could smell a strong odor of alcohol in the air and found three other pint bottles of the same brand whisky, one of which had been broken, in a drain ditch approximately 10 feet from the northeast corner of the building. Officer Ingram further testified that he observed several tracks going to and coming- from wheré he found the first whisky and that they all appeared to have been made by the same person. He further testified that on such occasion he observed the appellant make shoe tracks on the ground, of which he made a mental note and comparison, arid stated that in his opinion they were the same as the other tracks leading to where the whisky was found.
+It was shown that appellant lived approximately 300 yards from the gin premises and that the gin building was used for storage.
+Nine pint bottles of Hiram Walker and Sunnybrook whisky, one of which had been broken, were introduced in evidence by the state and identified by Officer Ingram as whisky which he found at the two locations near the gin building on the occasion in question.
+Proof was made by the state of. the dry status of Wood County and of the appellant’s three prior misdemeanor convictions as alleged.
+As a witness in his own behalf appellant denied possessing any liquor on the day in question and having any knowledge of the liquor found by the officer. Appellant denied that he jumped behind the building when the officer approached and testified that the reason he was on the gin premises was because he had been taking salts and had to .stop for a bowel movement. .
+Appellant insists that the evidence is insufficient to show that he1 possessed 'the whisky in question because the state’s case, to show that he did possess the whisky, was made to depend upon the fact of his presence and the presence of his automobile in the vicinity and the testimony of Officer Ingram relative to the tracks he found at the scene. Appellant insists that his- conviction cannot be sustained upon the officer’s testimony of the similarity of the tracks because the officer did not make a sufficient ■ comparison of the tracks by taking measurements and other physical comparisons of them at the scene. In support of this contention appellant relies upon the rule stated in 1 Branch’s Ann. P. C., 2nd Ed., Sec. 166, pages 169 and 170, and cases there cited, that where tracks of an accused are relied upon by the state for the purpose of identification much strictness is required before such testimony will be held sufficient to identify the accused as the guilty party.
+While the rule stated may be correct, we are unable to agree with appellant that because Officer Ingram made no actual measurements or physical comparison of the tracks at the scene, his opinion as to their similarity had no probative value. His testimony shows that his opinion was based upon his observation and comparison of tracks which he actually saw the appellant make at the scene with other fresh tracks on the ground. His opinion based upon such observation, having been admitted in evidence without objection, was properly before the jury for its consideration.
+We have carefully" examined the evidénce in its light most favorable to the state, and find it sufficient to support the conviction.
+It must be first pointed out that -the state does not rely solely upon the evidence of similarity of tracks to sustain the conviction. In addition to such proof there are other facts and circumstances upon which the state relies.
+The evidence of appellant’s presence alone on the gin premises where the whisky was found, his action in jumping behind the building when the officers were approaching, the strong odor of alcohol in the air at the time and the finding of. two full pint bottles and one broken bottle of whisky in the drain ditch nearby, together with. Officer Ingram’s testimony and opinion that all the tracks leading to where he found the whisky under the leaves and vines were the same as the tracks which he actually saw the appellant make, was sufficient to disprove appellant’s exculpatory statement that he did not have any whisky and to support the conclusion that he possessed the whisky in question and exclude every other reasonable hypothesis except that of his guilt.
+We have considered the authorities cited by appellant in support of his contention that the evidence is insufficient and find the facts in the cases cited diiferent in many material respects to the facts in the present case. In Dodd v. State, 149 Texas Cr. Rep. 278, 193 S.W. 2d 819, and George v. State, 144 Texas Cr. Rep. 183, 162 S.W. 2d 110, the state relied upon tracks alone to show that the accused possessed the liquor. In Crutchfield v. State, 137 Texas Cr. Rep. 569, 132 S.W. 2d 855, the whisky was found on a mountain where there were man trails.
+The judgment is affirmed.
+Opinion approved by the Court.
