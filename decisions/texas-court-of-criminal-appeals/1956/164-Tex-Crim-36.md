@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,625"
+decided: "1956-12-12"
+citations: ["164 Tex. Crim. 36"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ray Cal Lovelace v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610785
+---
+
+# Lovelace v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+On April 9, 1956, upon his plea of guilty before the court, appellant was convicted of the felony offense of drunken driving. His punishment was assessed at two years’ confinement in the penitentiary.
+No sentence was passed upon that judgment, but imposition of sentence was expressly suspended and appellant was placed upon probation.
+Shortly thereafter, the state moved to revoke the suspension of the imposition of sentence, alleging as grounds therefor the violation by appellant of some of the terms of probation.
+After a hearing, the state’s motion to revoke was granted and the order suspending the imposition of sentence was set aside.
+It is from that order that notice of appeal was given.
+We note that, following the notice of appeal, appellant gave an appeal bond. The term of court had not ended but was yet in session. Under such circumstance, a recognizance and not an appeal bond was proper.
+It is apparent, therefore, that this court is without jurisdiction of the appeal.
+If sentence was imposed after the probation was set aside, it should be shown.
+The appeal is dismissed.
