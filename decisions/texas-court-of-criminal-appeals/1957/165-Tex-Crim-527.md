@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,316"
+decided: "1957-12-04"
+citations: ["165 Tex. Crim. 527"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sixto J. Huerta v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2614721
+cites_cases: ["106 Texas Cr. Rep. 539", "293 S.W. 822"]
+---
+
+# Huerta v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is possession of marihuana, a narcotic drug; the punishment, five years.
+The indictment alleged the offense to have been committed on or about the 4th day of May, 1956.
+It is contended that there is no evidence to support a finding that the offense was committed on the 4th day of May, 1956, or that the May 4th referred to by the state’s witnesses was within the period of limitation.
+J. T. Conley, Narcotics Agent for the Department of Public Safety, testified that he came to Victoria the first part of May and first saw the appellant around that time; that on May 4th he and Billie Box went to the Water Street Bar in Victoria where he had a conversation with appellant; that he took appellant to his home where he changed clothes and they returned to the Water Street Bar; that appellant left the cafe and after ten or fifteen minutes returned; that he drove Box and appellant to the Hollywood Inn; that Box got out and as he and appellant were driving along- on the return trip to the Water Street Cafe, appellant pulled out five marihuana cigarettes and put them in his pocket, for which he paid appellant five dollars. This all occurred on the same day.
+The cigarettes were turned over to the chemist in the laboratory of the Texas Department of Public Safety, were found to contain marihuana and were introduced in evidence at the trial.
+Conley testified that he went to work for the Texas Department of Public Safety in September 1955, and that he was sent to Victoria at the request of the department the first part of May. He fixed the year definitely in the following testimony on cross-examination: “Q. Now, Mr. Conley, at what time did you go to this Water Street Cafe on May 4th, 1956? A. At approximately 1:30.”
+Appellant’s testimony also fixed the time Conley and Box came to the cafe as being “on the 4th of May of 1956.”
+We find the evidence sufficient to show that appellant possessed marihuana on May 4, 1956, and to sustain the conviction.
+Bill of Exception No. 1 sets out certain portions of the closing argument of the district attorney, to which no objection was made at the time, and complains that the argument was so fundamentally erroneous that the trial court should have instructed the jury not to consider it, which he failed to do.
+The trial court’s qualification to Bill No. 1 certifies that the argument was made as set out in the bill but was “invited by argument on the same subject matter by defense counsel, and was considered by me as legitimate answer to defense argument, and based on evidence in the case.”
+The bill as qualified was accepted by appellant and shows no error.
+Bill No. 2 complains that the jury used one of the forms furnished by the court in returning its verdict, filling in the blank space for punishment and the foreman signing at the place left for that purpose. We see no error in the bill. Harris v. State, 106 Texas Cr. Rep. 539, 293 S.W. 822; Branch’s Ann. P.C., 2d Ed., Sec. 677.
+Forms for all possible verdicts which the jury might have returned under the court’s charge being furnished for the convenience of the jury, the fact that the jury made use of a form verdict rather than writing the verdict in full is immaterial.
+The judgment is affirmed.
