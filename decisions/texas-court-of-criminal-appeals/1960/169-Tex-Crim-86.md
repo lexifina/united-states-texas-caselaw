@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,568"
+decided: "1960-02-24"
+citations: ["169 Tex. Crim. 86"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roy Allen Grabow v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12127689
+---
+
+# Grabow v. State
+
+## Majority (WOODLEY, Judge)
+
+WOODLEY, Judge
+Appellant pleaded guilty to the offense of robbery by assault and on May 17, 1957, was assessed a term of five years in the penitentiary. Sentence was pronounced the same day but its execution was suspended and probation granted, conditioned that appellant was not to violate the laws of this state or any other state, or the United States.
+On August 26, 1959, a police officer saw appellant get out of the back seat of a car, open the trunk and take out a hose and a 5 gallon can; saw him open the covering of the gas tank of an automobile parked on a parking lot, put the hose in the gasoline tank and, with his mouth, start syphoning gasoline from the tank into the 5 gallon can.
+Appellant was placed under arrest and the owner of the parked automobile from which the gasoline was being taken was called from the theatre.
+The following day motion was filed alleging that appellant violated the terms of his probation in committing theft and the offense of breaking and entering a motor vehicle with intent to commit theft on or about August 26, 1959.
+Hearing was had at which evidence was introduced showing the facts heretofore stated in regard to the violation of law. The owner of the automobile testified that she did not give appellant permission to take gasoline from her car or to open the covering and insert a hose into the tank and syphon gasoline from it.
+There was a small amount of gasoline in the can when the arrest was made. There was evidence as to the value of the gasoline per gallon.
+At the conclusion of the hearing the trial judge found that appellant had violated the terms of his probation which was granted on May 17, 1957, “when you committed the offense of theft on the 26th day of August, 1959” and ordered that such probation be revoked.
+The order entered, revoking probation, recites that it appeared to the court that appellant “has violated the terms of his adult probation heretofore accorded him in that he has committed the offense of breaking and entering a motor vehicle.”
+The appeal is from the order revoking probation. The principal contention is that the facts do not sustain a finding that appellant broke and entered a motor vehicle with intent to commit theft, or that gasoline was stolen from the parked automobile.
+We do not agree.
+We find the evidence sufficient to sustain the trial court’s finding that appellant violated the terms of his probation as alleged in the motion to revoke, and no abuse of discretion is shown.
+The judgment is affirmed.
