@@ -1,0 +1,56 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,405"
+decided: "1956-06-30"
+citations: ["163 Tex. Crim. 611"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. E. Tarpley v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0611-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460423
+cites_cases: ["164 S. W. 2d 848", "278 S.W. 2d 837"]
+---
+
+# Tarpley v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is felony theft; the punishment, two years.
+One Bennett, an accomplice, testified that he and the appellant were rooming together in the city of Lott at the time in question, that the appellant came in one night and told him that he had gotten four tires down at the shop which was connected with the road work in which they were employed. He stated that the following morning he and the appellant removed the tires from the appellant’s truck, placed them in his, and drove over near Groesbeck, where they hid the tires. Bennett testified that after his arrest he told the officers about the appellant’s connection with the theft of the tires and carried the officers to where they were hidden.
+Sheriff Pamplin testified that he investigated the theft of the tires, made plaster casts of shoe tracks found at the shop from which the tires were taken, and found that they corresponded with the ridges on the shoes taken off the appellant upon his arrest.
+Appellant’s confession was introduced in evidence in which he told about visiting Bob Sims at the company shop on the night in question and observing four tires in a wired enclosure. It further recites that he returned later that night, got the tires, and the next morning he and Bennett hid the tires near Groesbeck.
+The appellant did not testify or offer any evidence in his own behalf.
+Appellant contends that the evidence is insufficient to support the conviction because Sims did not testify and therefore did not supply the necessary proof that the tires were taken without his consent. Appellant’s confession contains the following recitation: “Nobody gave me permission to take the tires.”
+Such a contention was before this court recently in LeFors v. State 161 Tex. Cr. Rep. 544, 278 S.W. 2d 837, wherein we said:
+“Appellant says there is no evidence that the valuables were taken from Marie without her consent. It is true that Marie did not say in so many words that the appellant took her property without her consent, but we do find in the appellant’s confession the following: ‘No one gave me permission nor did I hear anyone give Neal or Bob permission to take anything from Marie’s room.’
+“The State relies upon Cox v. State, 164 S. W. 2d 848, and rightly so. In that case the owner of the hogs did not testify that they were taken without his consent, but the accused’s confession said that he did not have the owner’s consent to take them. We held that this constituent element of theft was established by the confession.”
+Appellant next contends that the evidence is insufficient to establish that the tires were taken from the custody of Sims. Bennett testified that the appellant told him that the tires had come from the shop and that he knew that Bob Sims was in charge of the shop: The sheriff testified that Bob Sims was in charge of the shed from which the tires were taken.
+Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment of the trial court is affirmed.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON APPELLANT’S MOTION FOR REHEARING
+WOODLEY, Judge.
+It is contended that there is no testimony that the stolen tires were a part of the equipment belonging to the contractor Glenn, or that Sims had charge of them.
+Sheriff Pamplin testified: “We went there where they had these tires * * * In Lott. Under a shed in Lott” and that Bob Sims was in charge of that shed. “We found where they had these tires, and they had it locked up, and they had to cut a bunch of wires where the tires were to get in.”
+The sheriff also testified that plaster paris impressions of shoe tracks which were offered in evidence were taken in and around “the little old shed where the tires were;” that these tracks corresponded with shoes of appellant; that double truck tire tracks going to and from the wire enclosure were the same as others found in front of the rooming house. Sheriff Pamplin was not cross-examined.
+Appellant, in his confession, stated that he “saw some tires in a chicken wire enclosure” when he “went to the company shop where Mr. Sims keeps the equipment” — and while he and Sims were taking a drink, and that after supper he “went back to the wire enclosure and got four tires that I had seen around there for about a month,” loaded them in his truck and drove the truck back to the place where he had a room in Lott. '
+The accomplice Bennett testified that Bob Sims was in charge of the equipment “out on the job.” Asked where the equipment was kept, he answered: “They had a little storage room there in Lott”; that Glenn was the truck contractor and Bob Sims was the foreman working under Glenn; that appellant told him that he got the tires “down at the shop.” Asked who was in charge of the shop, Bennett testified “Bob Sims.”
+In view of the above and other testimony set' out in our original opinion, we remain convinced that the evidence is sufficient to support a finding by the jury that Bob Sims exercised care, control-and custody over the building, the wire enclosure thereunder and the four tires, and was special owner thereof, and that the tires were taken by appellant from his possession without his consent.
+Appellant’s motion for rehearing is overruled.
+
+## Rehearing
+
+ON APPELLANT’S MOTION FOR REHEARING
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+I have always entertained the view, and so considered, that if there is one rule of law which is firmly established in this state, it is that the corpus delicti — that is, proof of the fact that a crime has been committed by someone— cannot be established, alone by the extra judicial confession of the accused. Authorities supporting that rule will be found under Key 535, Criminal Law, 11 Tex. Digest, p. 836.
+In my opinion, the conclusion of my brethren not only does violence to that rule but completely destroys it, because, outside of what the appellant told the alleged accomplice and the statement he made to the county attorney, there is not a line of testimony from any source, or from any person, that any automobile tires were stolen from anybody at any time or at any place.
+The alleged owner of the tires did not testify in the case. If any tires were stolen from him, he did not so testify. No witness identified the allegedly stolen tires as having been taken from the possession of the alleged owner without his consent.
+I respectfully dissent not only to the affirmance of this case but to the destruction of the rule of law mentioned.
