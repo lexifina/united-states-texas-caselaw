@@ -1,0 +1,54 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,525"
+decided: "1958-02-05"
+citations: ["166 Tex. Crim. 399"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Thomas Shaw v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2620223
+cites_cases: ["159 Texas Cr. Rep. 228", "160 Texas Cr. Rep. 181", "161 Texas Cr. Rep. 470", "262 S.W. 2d 499", "268 S.W. 2d 157", "278 S.W. 2d 313"]
+---
+
+# Shaw v. State
+
+## Majority (DAVIDSON, Judge. MORRISON, Presiding Judge.)
+
+DAVIDSON, Judge.
+- ' This is a conviction for driving while intoxicated, with punishment assessed at a fine of $50 and ten days’ confinement in jail.
+The trial court granted the state’s motion to instruct appellant’s counsel not to mention, refer to, allude to, or comment on, in the-presence of the jury, the fact that upon conviction appellant’s right to drive a motor vehicle would automatically be suspended for six months and that such suspension would be part of the punishment inflicted.
+In Davidson v. State, No. 29,506, this day delivered (page 376, this volume), we held that such an instruction violated appellant’s constitutional right of representation by counsel and ordered a reversal of the conviction.
+For the reasons there stated, the judgment in this case is reversed and the cause is remanded.
+Judge Woodley recorded his dissent in the Davison case and for the reason therein stated he dissents here.
+ON STATE’S MOTION FOR REHEARING
+MORRISON, Presiding Judge.
+On original submission, this case was reversed because of a point, common to it and Davison, No. 29,506. (Page 376, this volume). We have this day granted the state’s motion for rehearing in Davison and, for the same reasons set forth in our opinion in that case, grant the state’s motion here.
+We will now consider the case on its merits.
+Deputy Sheriffs Hines and Buckalew testified that on the night-in question they received a call and went to the appellant’s house, where they found the furniture stacked and a television set lying broken in the yard; that while making their investigation th.eir- attention was directed to an automobile passing in front of the house at an excessive speed on the wrong side of the street with its horn blowing,' and gave chase. They testified that they brought the automobile to a halt further down the street and required the appellant, who was the driver, to get out. They stated that he staggered when he walked, that his hair was unkempt, that he had a strong odor of alcohol about his person, that his speech was slurred, and expressed the opinion that he was intoxicated.
+Officer Hines took the appellant to jail where he consented to the taking of a blood specimen by Dr. Boone, and the specimen was then carried by Hines to Parkland Hospital, where he pushed it through a hole into a sealed container in a refrigerator.
+Dr. Morton F. Mason testified that the specimen of the appellant’s blood was analyzed under his supervision in the laboratory at Parkland Hospital and showed an alcoholic content of .223 percent, which was indicative of intoxication. His testimony will be discussed more fully in connection with the bills of exception.
+The appellant and his wife testified that they had drunk only two bottles of beer apiece on the evening in question and denied that the appellant was intoxicated. Their testimony was corroborated in part by a neighbor and another witness.
+The jury resolved this conflict in the evidence against the appellant, and we find the evidence sufficient to support their verdict.
+Appellant first contends that Dr. Mason’s testimony was inadmissible as hearsay. The state relies upon Jackson v. State, 159 Texas Cr. Rep. 228, 262 S.W. 2d 499, and Leonard v. State, 161 Texas Cr. Rep. 470, 278 S.W. 2d 313, in which this court approved the introduction into evidence of the results of tests made under Dr. Mason’s supervision. Appellant does not question the soundness of those holdings but does point out that Dr. Mason was permitted to testify, over objection that the identification tag on the specimen read as follows: “Shaw, James Thomas; age 43; county jail — 71356—source of the specimen of■ blood, left arm; type of examination — alcoholic content— 2 percent boric acid — Doctor Boone.”
+We recapitulate Officer Hines testified that he made out the identification tag and attempted to testify that Dr. Boone had used a 2% boric acid * * * but the court properly sustained the appellant’s objection, and he did not finish his answer.
+We do not agree with the trial court that the boric acid was an immaterial matter, but must determine if reversible error is here reflected. Appellant would have us say that this tag told' the jury that Dr. Boone had used a 2% boric acid solution to cleanse the appellant’s arm before taking the specimen. Since no issue was made as to what solution was used, we would not feel called upon to so interpret the tag. By this, we mean to say that, had the appellant or any other witness testified that Dr. Boone used alcohol to cleans his arm, then the notation “2 per cent boric acid” might have presented a far more serious question.
+Attention is directed to our opinion in McDonald v. State, 160 Texas Cr. Rep. 181, 268 S.W. 2d 157, in which we spelled out what should appear on an identification tag.
+The remaining contentions relating to the blood test have, we think, been fully discussed in Leonard and Jackson, supra.
+Appellant next complains of a statement of the prosecutor made during the course of the examination of a witness as follows: “Now, your honor, I hate to keep repeating this, but we know he represents all the drunks in town, but there is no reason in the world he ought to come down here * *
+While not in good taste, we must determine if the remark constitutes reversible error.
+Prior to this remark, appellant’s counsel had, while questioning Dr. Mason, the same witness, in a manner lectured him as follows: “Any time you are down here testifying against one of my clients, I’d like all the information that’s pertinent.” At another time, appellant’s counsel made this statement in the form of a question, “Well, I understood you to testify down here once that you were up here and went all through the plant.” At another time, counsel made this statement in the form of a question, “* * * and I believe you have told me before that * * *” At still another time, appellant’s counsel asked the witness this question, “You never did come down here and testify in a case where * * *.” Immediately before state’s counsel made the statement here complained of appellant’s counsel made this emphatic statement, “I know that you have told me before.”
+From the questions and the record before us, it is apparent that appellant’s counsel was in each of the above instances referring to other trials in which the witness, who is in charge of the laboratory where tests are made for the purpose of determining alcoholic content of the blood, had testified against his clients. In fact, the state objected on several occasions to appellant’s counsel questioning the witness about what occurred during other trials.
+In view of the above, plus the prompt action of the court in withdrawing the statement from the jury’s consideration before any objection was made, we would not be inclined to hold the remark of state’s counsel reversible error.
+The remaining complaint relates to comments by the judge. At one juncture, when appellant’s counsel asked to retire the jury, the court said. “All right, it’s taking a lot of time here, but I want to finish this case if I can. The jury will get out in the hall, please, and come back subject to call. Take a ten minute recess.” The court qualified the bill by certifying that at that point counsel had been cross-examining the witness one hour and fifteen minutes. No objection was made in the presence of the jury, and no request was made that the court instruct the jury not to consider the above remark; and we fail to find reversible error reflected thereby.
+The judgment of reversal is set aside, and the judgment is now affirmed.
+ON STATE’S MOTION FOR REHEARING
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+This case presents the same question as that decided in Davidson v. State, No. 29,506, (Page 376, this volume).
+My dissenting opinion in that case is adopted here.
