@@ -1,0 +1,63 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,590"
+decided: "1958-03-19"
+citations: ["166 Tex. Crim. 147"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jesus Pena Bosquez v. State"]
+source_url: "https://static.case.law/tex-crim/166/cases/0147-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2617877
+cites_cases: ["112 S.W. 2d 190", "133 Texas Cr. Rep. 437", "153 Texas Cr. Rep. 637", "154 Texas Cr. Rep. 438", "156 Texas Cr. Rep. 636", "160 Texas Cr. Rep. 271", "224 S.W. 2d 258", "227 S.W. 2d 559", "245 S.W. 2d 709", "268 S.W. 2d 172", "38 Texas Cr. Rep., 681", "44 S.W. 989"]
+---
+
+# Bosquez v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is murder without malice, under Art. 802(c) V.A.P.C.; the punishment, two years.
+Juanita Vargas was killed as the result of a head on collision between two Chevrolet automobiles; a 1948 model in which she was riding with her husband and four children, and a 1953 model traveling in the opposite direction on the highway, occupied by two men.
+The sufficiency of the evidence to establish the corpus delicti is challenged.
+Appellant’s confession was introduced which, omitting the warning, reads:
+“My name is Jesus Pena Bosquez. I am 24 years of age. I live in San Antonio, Texas, now.
+“On September 4, 1955, about 4:30 P.M. I was driving a 1953 Chevrolet automobile on Highway 83 in Dimmit County, Texas. I was going towards Carrizzo Springs from Crystal City. I had been drinking beer that afternoon in Asherton.
+“While I was driving the 1953 Chevrolet in Dimmitt County on Highway 83,1 was in a collision with another car. As a result of said collision/I know that a boy that was riding as a passenger with me by the name of Hermelegildo Gutierrez was killed and also a lady by the name of Juanita Vargas was killed.”
+The dead body of Hermelegildo Gutierrez was found in the borrow ditch on the east side of the highway at the scene of the collision. The investigating officer testified without objection that Gutierrez was riding in the car with Pena, the defendant.
+There was ample proof of appellant’s intoxication, including proof of alcoholic concentration of .21 per cent alcohol by weight in his blood that was tested.
+And it was established that Juanita Vargas died as a result of the collision after she had been taken to the hospital. Appellant was also taken to the same hospital.
+Appellant took the witness stand in his own behalf, having filed an application for suspended sentence, and testified in part on direct examination: “If this jury should find you guilty and should assess to you a suspended sentence, what statement would you care to make to this jury about whether or not you would ever violate the law again? A.. Well, if I get another chance I will be a good citizen.”
+As a witness in his own behalf appellant did not deny that he was driving the car in which Gutierrez was riding at the time of the collission, which resulted in the death of Gutierrez and Mrs. Vargas. He did not deny his intoxication or in any way question the state’s proof on either the issue of intoxication or his being the driver of the car involved in the fatal accident.
+The rule here applicable is thus stated in Kugadt v. State, 38 Texas Cr. Rep., 681, 44 S.W. 989, 996, and quoted in Whitaker v. State, 160 Texas Cr. Rep. 271, 268 S.W. 2d 172, 178; citing also Watson v. State, 154 Texas Cr. Rep. 438, 227 S.W. 2d 559:
+“A confession is sufficient, if there be such extrinsic corroborative circumstances as will, taken in connection with the confession, produce conviction of the defendant’s guilt in the minds of a jury beyond a reasonable doubt.
+“Such suppletory evidence need not be conclusive in its character. When a confession is made, and the circumstances therein related correspond in some points with those proven to have existed, this may be evidence sufficient to satisfy a jury in rendering a verdict asserting the guilt of the accused. ‘Full proof of the body of the crime, the corpus delicti, independently of the confessions, is not required by any of the cases; and in many of them slight corroborating facts were held sufficient.’ 3 Am. & Eng. Enc. Law, p. 447. We take it that there can be no question that the prosecution is permitted to prove by circumstantial evidence the corpus delicti, and in aid thereto use (the) confession of the appellant.
+“The Kugadt case has been looked upon as the leading authority relative to the doctrine that in establishment of the corpus delicti, the confessions are not to be excluded, but are to be taken in connection with the other facts and circumstances in evidence.”
+The judgment is affirmed.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+After submission, this case was referred by the court to Commissioner Dice for the drafting of an opinion therein.
+Commissioner Dice concluded that the facts were insufficient to support the conviction and drafted the following opinion reflecting that view and recommending its adoption by the court.
+The majority of the court rejected and refused to agree with that opinion.
+I was then and am now of the opinion that Commissioner Dice correctly decided the case, and I have adopted his opinion as my dissenting opinion.
+The opinion reads as follows:
+“Appellant was convicted, under Art. 802c, Vernon’s P. C., of killing Juanita Guerrero Vargas by accident or mistake while in performance of the unlawful act of driving an automobile upon a public highway while under the influence of intoxicating liquor.
+“The sufficiency of the evidnce to support the conviction is challenged.
+“The evidence is undisputed that Mrs. Vargas was killed in a head-on collision between a 1948 Chevrolet automobile, in which she was riding with her husband and four children, and a 1953 Chevrolet automobile approaching from the opposite direction, which automobile was occupied by two men. The collision occurred on Highway 83 in Dimmit County between the cities of Crystal City and Carrizo Springs.
+“The testimony of witnesses called by the state who were present at the scene shows that after the collision a man identified as Hermenijildo Gutierrez was found dead in the ‘barrow ditch’ and that the appellant, with injuries to his cheek and legs, was carried from the scene to the hospital.
+“It is further shown that at the hospital a blood sample was taken from the appellant with his consent, which sample upon being analyzed in the chemical laboratory of the Department of Public Safety was shown to contain an alcoholic concentration of 0.21 by weight and, according to the chemist who examined it, such an alcoholic concentration in the blood as to show that appellant was intoxicated at the time the specimen was taken.
+“Appellant’s extrajudicial confession, made to the district attorney and a highway patrolman, Pirtle, a year after the collision, was introduced in evidence by the state. In the confession, appellant stated that he was the driver of the 1953 Chevrolet involved in the collision with the Vargas car which resulted in the death of Mrs. Vargas and ‘Hermelegildo’ Gutierrez, the latter being a passenger in the car with him.
+“Upon the trial appellant testified in behalf of his application for suspended sentence but was not examined relative to any details or particulars of the collision.
+“Appellant insists that the evidence is insufficient to sustain the conviction because there was no evidence, other than his extrajudicial confession, tending to show that he was the driver of the automobile.
+‘To establish the corpus delicti it became necessary to show, among other things, that appellant was the driver of the automobile. Such fact was one of the essential elements of the offense.
+“Appellant’s extrajudicial confession, standing alone, was insufficient to prove such fact and establish the corpus delicti. Livingston v. State, 133 Texas Cr. Rep. 437, 112 S.W. 2d 190.
+“While appellant’s confession may be used to aid proof of the corpus delicti, in order to sustain his conviction thereunder it is necessary that it be corroborated by other evidence establishing the corpus delicti. Watson v. State, 154 Texas Cr. Rep. 438, 227 S.W. 2d 559.
+“Outside of the confession, the evidence — at the most — shows that Mrs. Vargas was killed in a collision between the automobile in which she was riding and a 1953 Chevrolet automobile occupied by two men. There is no testimony as to appellant’s position in the automobile before the collision or where he was found at the scene after the collision. There is no evidence that the 1953 Chevrolet involved belonged to appellant or that he was seen driving it at any time prior to the collision.
+“Under such record, it is apparent that the evidence is insufficient to corroborate appellant’s confession that he was driving the automobile and to establish the corpus delicti. The conviction, therefore, should not be sustained. Pena v. State, 153 Texas Cr. Rep. 637, 224 S.W. 2d 258.
+“The case of Williams v. State, 156 Texas Cr. Rep. 636, 245 S.W. 2d 709, relied upon by the state, is not here controlling because in that case the accused’s connection with the automobile prior to the collision and his presence on the pavement near the automobile after the collision were shown by evidence other than his extrajudicial confession.”
+Because of the insufficiency of the evidence, the judgment should be reversed and the cause remanded.
+I dissent.
