@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,880"
+decided: "1962-02-07"
+citations: ["172 Tex. Crim. 45"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tom O. Taylor v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2637191
+cites_cases: ["127 S.W. 2d 889", "137 Texas Cr. Rep. 21", "149 Texas Cr. Rep. 389", "152 Texas Cr. Rep. 415", "164 Texas Cr. Rep. 421", "194 S.W. 2d 401", "209 S.W. 2d 767", "234 S. W. 409", "265 S.W. 161", "299 S.W. 2d 951", "90 Texas Cr. Rep. 282", "98 Texas Cr. Rep. 166"]
+---
+
+# Taylor v. State
+
+## Majority
+
+ON APPELLANT’S motion for rehearing
+Our prior opinion and order of affirmance is withdrawn.
+Appellant was indicted for robbery, the indictment alleging that he took two dollars from Charles Don Nichols on or about February 8, 1961.
+The indictment was returned February 15, 1961, and on the following day appellant waived a jury and, joined by his court-appointed counsel, waived the 10 days allowed by statute to prepare for trial. Appellant gave his age as 17, pleaded guilty and testified that the allegations of the indictment were true, and the trial judge found him guilty and assessed his punishment at 8 years.
+On the same day, appellant filed application for probation stating that he had never before been convicted of a felony and said application was granted and the imposition of sentence was suspended.
+Among the conditions of probation were that he: (1) commit no offense against the laws of this or any other state or the United States, and (2) make restitution as and when directed by the probation officer and pay all costs of this proceeding.
+On April 11, 1961, motion was filed by the district attorney to revoke probation, alleging that appellant failed to comply with the conditions of his probation in that:
+“(1) Defendant was arrested on April 6, 1961, by the police and charged with breaking into a beer truck and stealing 12 cases of beer, which he admits.
+“(2) Has paid no part of his court costs as instructed by the court.”
+Hearing was had on the day the motion was filed and the appellant admitted the allegations of the motion were true. The court revoked probation and sentenced appellant to a term of not less than 5 nor more than 8 years in the penitentiary.
+On April 24, 1961, motion for new trial was filed and on May 3, 1961, evidence was presented and heard in connection with which it was shown that appellant had been adjudged to be a delinquent child in the Court of Domestic Relations in Potter County on December 30, 1959, the court finding in his judgment that appellant was born on November 12, 1944. Also, a certified copy of the birth certificate of appellant was produced and made a part of the record. The certification of the attending physician is shown to have been filed with the local registrar in Madison County, Alabama, on November 3, 1944, and gives the date of birth as October 7, 1944.
+The trial judge refused to grant leave to appellant to file the motion for new trial but heard the evidence, at the conclusion of which he stated that he was of the opinion that he had no authority to grant permission to file the motion for new trial after 10 days had elapsed and overruled it. Appellant excepted and gave notice of appeal.
+All of the foregoing occurred at the same term of court, hence the conviction as well as the revocation of probation is before us for review.
+The trial court was in error in holding that he was without authority to grant leave to file the motion for new trial or to grant such motion. Art. 755 V.A.C.C.P., which provides that a motion for new trial shall be filed within 10 days, further provides that for good cause shown the time for filing or amending may be extended by the court. Atkinson v. State, 164 Texas Cr. Rep. 421, 299 S.W. 2d 951.
+The trial court’s finding that appellant was in fact 17 years of age at the time of his trial cannot be sustained in view of the evidence mentioned. However, the state correctly contends that the court was not bound to set aside the conviction upon a showing after the trial and after probation had been granted and revoked, that appellant was of juvenile age and not 17, as he represented to the court at his trial. Ex parte Huddleston, 149 Texas Cr. Rep. 389, 194 S.W. 2d 401; Ex parte Munoz, 152 Texas Cr. Rep. 415, 209 S.W. 2d 767; Rice v. State, 137 Texas Cr. Rep. 21, 127 S.W. 2d 889; Valdez v. State, 98 Texas Cr. Rep. 166, 265 S.W. 161; and Fifer v. State, 90 Texas Cr. Rep. 282, 234 S. W. 409.
+Our review of a court’s action in revoking probation is limited to the question of whether an abuse of discretion is shown.
+The facts upon which the trial court revoked appellant’s probation are shown by his admission that the allegations of the motion to revoke were true. One of these allegations was that he was arrested on April 6, 1961, by the police and charged with breaking into a beer truck and stealing 12 cases of beer. Whether this violation was committed before or after probation was granted is not shown. It is only shown that he was arrested for such during the term of his probation.
+The other allegation which appellant admitted was that he had paid no part of his court costs as instructed by the court. There is an absence of any showing as to appellant’s ability to make such payment or that his failure was willful.
+Assuming that the theft of the beer was committed during the term of probation, it is not clear that the trial judge would have exercised his discretion and revoked appellant’s probation had he known at the time that appellant while of juvenile age could not ordinarily be convicted of a criminal offense by reason of such breaking and theft. It is also not clear that the trial judge would not have reconsidered and set aside his order revoking probation when it was shown at the hearing on appellant’s motion for new trial that he had even then not arrived at the age of 17, had he not been of the opinion that he was without authority to do so.
+In view of the facts stated and the circumstances, we have concluded that the order revoking the probation which had been granted to appellant should be reversed and set aside.
+The judgment finding appellant guilty of robbery and assessing his punishment at 8 years in the penitentiary, and suspending the imposition of sentence, is affirmed.
+The order revoking probation is reversed and remanded.
