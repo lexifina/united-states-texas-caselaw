@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,760"
+decided: "1954-01-20"
+citations: ["159 Tex. Crim. 305"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tracy Joseph Alvey v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2473510
+cites_cases: ["232 S. W. 2d 676"]
+---
+
+# Alvey v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is driving while intoxicated; the punishment, a fine of $50.00.
+Officer Burnett testified that on the night in question he stopped appellant’s automobile in the city of Tyler, concluded that appellant was intoxicated, and placed him under arrest.
+Officers Richardson and Matthews testified that they transported appellant from the place of his arrest to jail and gave their opinion that he was intoxicated.
+Appellant and his witness McCrary admitted that appellant was driving the automobile but denied that he was intoxicated.
+: The jury resolved the issue of appellant’s intoxication against him, and we find the evidence sufficient to support the verdict.
+<- Bill of Exception No. 1 complains of the trial court’s failure to give appellant’s requested charge defining intoxication. We have held such a charge unnecessary. Eddins v. State, 155 Tex. Cr. Rep. 202, 232 S. W. 2d 676, and cases there cited.
+We have examined appellant’s bills of exception Nos. 2 and 3 relating to argument of the prosecutor and fail to find error reflected therein.
+Finding no reversible error, the judgment of the trial court is affirmed.
