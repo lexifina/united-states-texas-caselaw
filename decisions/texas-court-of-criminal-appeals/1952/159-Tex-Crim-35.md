@@ -1,0 +1,85 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "25,836"
+decided: "1952-10-08"
+citations: ["159 Tex. Crim. 35"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lois Maxwell Sinclair and Fred Ellis Youngblood, Jr. v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2473130
+cites_cases: ["143 Tex. Cr. R. 412", "147 Tex. Cr. R. 348", "158 S.W. 2d 810", "16 Tex. App. 282", "171 S.W. 2d 494", "201 S. W. 2d 46", "28 Tex. App. 102", "33 Tex. Crim. Rep. 331", "8 Tex. App. 254"]
+---
+
+# Sinclair v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for keeping or exhibiting for the purpose of gaming, a policy game, the punishment assessed against each of the appellants being two years in the penitentiary.
+The offense was alleged to have been committed on or about November 22, 1950, at which time Art. 619, Vernon’s Ann. P.C., denounced the offense here charged in the following language
+“If any person shall directly, or as agent, or employee for another, or through any agent or agents, keep or exhibit for the purpose.'of.gaining,.anytpolicy'game,*,’he shall.tie cóníined in . the penitentiary not less than two nor more than four years * * *.”
+The indictment upon which appellants and 14 other persons were tried was returned on August 17, 1951, prior to which time Art. 642(c), Vernon’s Ann. P.C., had become effective. Said Article reads in part as follows:
+“Section 1. Any person who shall directly, or as agent, servant, or employee for another, or through any agent, servant, employee, or other person, keep or exhibit for the purpose of gaming, any policy game, shall be guilty of a felony and upon conviction shall be punished by confinement in the State penitentiary for any term of years not less than two (2) nor more than four (4).
+* * *
+“Section 5. Upon the trial for any offense under this Act it shall not be necessary for the State to allege or prove that money or other thing of value was won or lost thereon.
+“Section 6. A conviction may be had for violation of any of the provisions of this Act upon the uncorroborated testimony of any accomplice. Any party to a transaction prohibited by this Act may be required to furnish evidence and testify, but after so furnishing evidence or so testifying, such person shall not be prosecuted with reference to any transaction about which he is required to furnish evidence and testify.
+“Section 7. Two (2) or more persons may be jointly indicted in single or multiple counts of the same indictment for the violation of any of the provisions of this Act, and at the election of the State be jointly tried; provided that upon any such joint trial the defendants may testify as witnesses for one another.
+* * *
+“Section 9. The provisions of this Act shall be cumulative of all existing provisions of the Penal Code of the State of Texas and in the event of a conflict between existing law and the provisions of this Act, the provisions of this Act shall prevail over existing law.”
+Appellants attack the sufficiency of the indictment, and contend that the latter statute, under which they were tried and convicted, deprived them of substantial rights and is ex post facto as to the offense charged which; if committed, was committed prior to the enactment of said Art. 642(c) Vernon Ann. P.C.
+The law in force at the time of the offense charged gave appellants the right of severance, while under Art. 642(c) Vernon Ann. P.C., under which they were indicted and tried, all of the defendants were subject to trial together.
+We are in agreement with the ruling of the trial court to the effect that this change in the statute is a procedural change only. The new act provides that the co-defendants shall be competent witnesses for each other, and appellants were not deprived of their testimony. The change being procedural only, the defendants were not deprived of any substantial rights and the new statute is not, therefore, ex post facto. See 16 C.J.S. Sec. 445, p. 896.
+Appellants attack that portion of the law under which they were tried and convicted which provides that it is unnecessary for the state to allege or prove that money or other thing of value was lost or won.
+The offense here charged under either of the statutes above quoted does not necessarily involve the winning or losing of money or other valuable thing. Neither “exhibiting” nor “keeping” necessarily includes the winning or losing of money or valuables, but only a showing or holding in readiness for the purpose of obtaining bettors. See Wolz v. State, 33 Tex. Crim. Rep. 331; Kain v. State, 16 Tex. App. 282; Smith v. State, 28 Tex. App. 102.
+Appellants next contend that they were deprived of substantial rights because under the former law it was not compulsory that an accomplice testify for the state, whereas under Art. 642(c), the accomplice is required to testify, and a conviction may be had upon his uncorroborated testimony.
+Art. 639, Vernon Ann. P.C., provides for compulsory process for witnesses to testify in cases arising under Art. 619, P.C., and provides that a conviction may be had on the unsupported evidence of an accomplice. See Hill v. State, 143 Tex. Cr. Rep. 412, 158 S.W. 2d 810. No material change is observed by the enactment of Art. 642(c) in these respects.
+Finally, appellants contend that because there is no saving clause in Art. 642(c), which repealed the statutes in force at the time "of the offense, the state is deprived of the right to prosecute appellants.
+We overrule this contention. The statute defining the offense of which appellants were charged and convicted made no change in the definition of the offense. The provisions of the new act not found in the old define an additional offense of the grade of misdemeanor. Appellants, however, were convicted of the felony offense, the punishment for which was unchanged by the new act.
+Appellants insist that the testimony as to the conduct of the policy writers and pick-up men, outside the presence of appellants, was hearsay and inadmissible as to them. They therefore urge that, disregarding such hearsay testimony, the evidence is not sufficient to show their guilt.
+The evidence clearly establishes that a policy game was being kept and exhibited in Dallas County on or about the time alleged in the indictment. Several of the defendants were identified as policy writers, with whom bets were placed by officers using marked money. Others were shown to be pick-up men who received from the writers the money, less the writers’ commission, along with duplicates or copies of the slips delivered to the bettors. When the policy writers were arrested, the duplicate slips and marked bills were recovered from them.
+A search of the premises occupied by appellant Youngblood resulted in the finding of policy books and papers corresponding to the policy slips delivered to the purchasing officers.
+One of the persons found in appellant Youngblood’s place working with the policy papers testified that appellants were partners in the policy business, and that he had been hired by them, appellant Sinclair having instructed him in the case of a raid to destroy the papers.
+The police officers who co-operated in securing the evidence as to the policy games had appellant Youngblood under surveillance for several days prior to the search of his residence, and testified that he regularly took sacks or bags which he obtained from his father’s car to his home, and just as regularly delivered packages to one L. C. Crawford, and received other packages from him.
+Bill of Exception No. 3 relates to the testimony of Ben J: Thomas to the effect that he placed several bets with Knox White on November 20th to 22nd, 1950, on policy games called Texas and New Orleans, Burma Road and Three Stars, and thereafter confiscated policy material from Knox White including the original or front sheets in the books where his bets were recorded, and marked bills which his fellow officer used in betting with Knox White. This is typical of the testimony which appellants say is hearsay as to them and should be disregarded.
+It is contended that this testimony was inadmissible because appellants were not present and were not shown to have consented to or to have known of such conduct of White, and no conspiracy is alleged. We quote this contention from their brief:
+“No conspiracy was alleged or proved. If such had been the case, then the testimony of officers Stark and Thomas could have been admitted against appellants. Even if a conspiracy had been alleged it would first have to be established before the acts and declarations of one outside of the presence of appellants would be admissible against them.”
+The trial court in his qualifications to appellants’ bill said:
+“The court certifies that these cases depended for conviction on circumstantial evidence and all matters complained of in this Bill were circumstances showing the operation of a policy game, and that there were other circumstances shown tending to connect the Defendants with this operation. To make out a Prima Facie case, it was necessary for the State to show all the circumstances of this policy game which connected the Defendants with the various operations thereof, leading on the whole to the conclusion that the policy game was being conducted, and the guilty participation of the principals.”
+We do not think that the absence of an allegation of a conspiracy is controlling.
+The trial court defined a policy game as a game of betting on the appearance of numbers or combinations of numbers appearing on tickets or slips of paper, the player against the keeper, that certain numbers bet on by the player will appear out of a list of numbers selected by the keeper of the game.
+A distinguishing feature of a policy game is that there must be a series of segregated acts which, taken together, comprise and make up the complete game. See Thompson v. State, 147 Tex. Cr. R. 348, 180. S.W. 2d 944; Hill v. State, 143 Tex. Cr. R. 412, 158 S.W. 2d 810; Mooney v. State, 146 Tex. Cr. Rep. 64, 171 S.W. 2d 494.
+This court, in Young v. State, 150 Tex. Cr. Rep. 378, 201 S. W. 2d 46, quoted with approval the following passage from Cox et al v. State, 8 Tex. App. 254, 255:
+“* * * when two or more are found acting together, with an unlawful intent in the commission of an offense, the common design and acting together makes them ipso facto conspirators —endows them as a body with the attribute of individuality— merges the conspiracy to do the act in the act itself; and that the previous acts and declarations of each or any such principal offenders in pursuance of the agreed plan, and tending to throw light upon it or the motive or intent with which it was committed, is and should be received as legal and admissible evidence against each and all, whether indicted, prosecuted, and tried jointly or separately.”
+Bill No. 1 complains of the closing argument of the district attorney during his discussion of the suspended sentence pleas of the defendants. The following occurred:
+“Mr. Wade: * * * I would also, if I was a man trying to consider the suspended sentence, when a man’s case came up before me, I would want him to plead guilty and say, T am guilty of this thing.’
+“Mr. Miller: Your Honor—
+“Mr. Wade: But all of these pled not guilty.
+“The Court: Just a minute. There is an objection.
+“Mr. Miller: I hate to interrupt Mr. Wade’s statement. He is so far afield from the record, I don’t feel like this Court and jury is interested in what Mr. Wade might want in regard to a suspended sentence, and we object to him making that statement to the jury.
+“The Court: Overruled.
+“Mr. Wade: You may not be interested, as he said, in what I want, but I want to discuss it from my point of view on this thing. I WANT A MAN TO GET UP AND SAY THAT I AM GUILTY AND I WAS SORRY OF IT, AND IF YOU WILL GIVE ME ANOTHER CHANCE, I WON’T DO IT ANY MORE. But you have sixteen people here that when the case was called, said T am not guilty.’
+“ME Martin: Just a minute, Your Honor. Now, those remarks what Mr. Wade would want them to get up and testify to, we object to that.
+. “The Court: Sustained. Disregard the remarks, gentlemen.”
+In their Bill of Exception No. 1, appellants contend that the foregoing remarks constitute a comment upon appellants’ failure to testify.
+The trial court qualified this bill and declined to certify that the argument was not provoked or invited. In fact, he certifies that the argument was in answer to defense counsel’s argument.
+No exception appears to have been reserved to the argument, appellants’ counsel being apparently satisfied with the court’s action in sustaining the objection made and instructing the jury to disregard the remarks.
+We are unable to agree that the above remarks constituted a reference to appellants’ failure to testify or that reversible error is shown by this bill.
+We conclude that the evidence is sufficient to sustain the conviction and find no error requiring reversal.
+The judgment is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (DAVIDSON, Judge.)
+
+ON appellant’s motion for rehearing.
+DAVIDSON, Judge.
+Appellants renew their insistence that the so-called new statute (Art. 642c, Vernon’s P. C.) is ex post facto as to them, and therefore is not applicable to or controlling in the instant trial. Especial emphasis is placed upon the contention that the right to a separate trial by the use of the severance statute has been destroyed by the new act, which was such as to injuriously change appellants’ fundamental rights and therefore could not be and was not procedural.
+The right preserved and guaranteed by the severance statute was to furnish to an accused the means by which he could make available the testimony of co-defendants and co-indictees. The separate trial thereby accorded was a necessary incident to the fulfillment of that right, because of the statute prohibiting coindictees from testifying for one another. Art. 711, C. C. P. The new statute accorded to appellants the right which the severance statute preserved to them, for, by its express terms, provision was made whereby codefendants or co-indictees could testify as witnesses one for the other.
+It is apparent, therefore, that the right conferred by the severance statute was expressly preserved to appellants under the new statute.
+Appellants insist that the new statute is ex post facto as to them because it alters and allows a conviction upon the uncorroborated testimony of an accomplice and provides for compulsory testimony of co-defendants.
+We disposed of this contention, originally, upon the proposition that the new statute made no changes in the particulars pointed out and that both remedies were existent and controlling under the statute existing at the time the offense was alleged to have been committed.
+The remaining contentions presented in the motion were all disposed of under our original holding. It would serve no useful purpose to again state our conclusions relative thereto.
+The motion for rehearing is overruled.
+Opinion approved by the court.
