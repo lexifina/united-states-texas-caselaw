@@ -1,0 +1,21 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "805"
+decided: "1895-10-23"
+citations: ["35 Tex. Crim. 136"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Howard v. The State."]
+source_url: "https://static.case.law/tex-crim/35/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 158600
+---
+
+# Howard v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+The appellant in this case was tried in the District Court of Milam County for the theft of one bale of cotton. The jury found him guilty, and assessed his punishment at two years in the penitentiary, and from the judgment and sentence he prosecutes this appeal. There are but two questions presented by the assignment of errors that require consideration in determining this case. The court admitted, over defendant’s objection, the testimony of H. F. Snively, to the effect that the books of the cotton yard showed that a bale of cotton, pointed out to him "by Sam Phillips (the alleged owner), weighed 542 pounds, and was sold to Scarbrough & Hicks. The appellant based his objections to the introduction of said testimony on the ground that the books themselves were shown to be in existence and accessible to the court, and were the better evidence. This testimony was of a material character as tending to identify the bale of cotton spld by the defendant to Scarbrough & Hicks as the same bale alleged to have been stolen by him from the possession of Sam Phillips, and in fact was the sole proof that the bale seen in the cotton yard by Sam Phillips, and pointed out to Snively, was the bale that the defendant was in possession of, and sold to Scarbrough & Hicks. Snively neither saw defendant in possession of said cotton, nor saw it weighed, nor saw it sold to Hicks; but he spoke as to these facts solely from what the cotton yard books showed. Even if the cotton yard books were admissible for this purpose,-—-which is questionable,—still the testimony offered of what said books contained was certainly hearsay testimony, and should not have been admitted. The other objection urged was that the court, in its charge, failed to give the jury the proper criterion or test in order to enable them to find the value of the cotton. The witness Hicks testified that the bale of cotton was worth in Rockdale $20.85. II. A. Gladish, witness for defendant, testified that he was a cotton buyer in Rockdale, and that on that day he was paying 3-f- cents per pound for cotton of the grade of -the bale found in Hicks’ possession. There was evidence showing that the bale in question was stolen some nine miles from Rockdale; that it was worth 50 cents to haul it there; also, that it was worth 10 cents to weigh said cotton. The appellant claimed that these latter amounts should have been deducted from the value of the cotton. The charge was excepted to, which was general as to value, but no special charge was asked. The appellant now, however, insists that under the facts in this case, without request, the court should have charged that the criterion or test as to the value was the fair market value of the cotton at the very place where it was taken, which was some nine miles from Rockdale, and that the jury should have been directed to find the market value at such place; and in order to ascertain that, if necessary, they should have been instructed to deduct the expense of carrying said bale, and weighing the same, from the amount it brought at Rockdale. The bale itself weighed 542 pounds, and, if it was worth only 3f cents per pound at Rockdale, 60 cents should be deducted therefrom in order to ascertain the market value; and this the appellant contends would leave the value of the bale less than §20, which would constitute the offense a misdemeanor instead of a felony. It is unnecessary to discuss this question, because of recent legislation requiring the value of stolen property to be of §50 or more in order to constitute the crime of a felony. Unless the accused should elect to be tried under the former law, it will be the duty of the court to submit the case as a misdemeanor. Penal Code, Art. 15. The judgment is reversed, and the cause remanded.
+Reversed and Remanded.
