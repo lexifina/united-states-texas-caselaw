@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,440"
+decided: "1958-02-26"
+citations: ["166 Tex. Crim. 105"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edmond Fisbeck v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2620478
+cites_cases: ["100 Texas Cr. Rep. 512", "109 Texas Cr. Rep. 270", "146 Texas Cr. Rep. 614", "159 Texas Cr. Rep. 300", "177 S.W. 2d 270", "263 S.W. 2d 566", "271 S.W. 625", "4 S.W. 2d 61"]
+---
+
+# Fisbeck v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+Our prior opinion is withdrawn.
+The offense is transporting vodka, gin and beer in a dry area; the punishment, 90 days in jail and a fine of $200.00.
+Inspectors Brewer, Head and Jones of the Texas Liquor Control Board testified that on the night in question they observed an automobile driven by the appellant, who was accompanied by a woman companion, and followed it until the appellant came to a halt in the driveway of a certain house on Colgate Street. They stated that one of them asked the appellant about looking in the automobile, and “he said he didn’t care.” In the turtle or trunk, they found a large quantity of the intoxicants named above. They testified that they did not know to whom the automobile belonged but that the appellant was driving.
+The appellant, testifying in his own behalf, stated that the automobile did not belong to him but belonged to his woman companion at whose house they had just stopped, that she had picked him up a short while before, and that he had no knowledge of the intoxicants being in the trunk.
+We find the evidence sufficient to support the conviction and shall discuss the contentions advanced by eminent counsel.
+He first complains of the failure of the court to charge on the law of circumstantial evidence and relies, among other cases, on Wynn v. State, 159 Texas Cr. Rep. 300, 263 S.W. 2d 566, and Pafford v. State, 146 Texas Cr. Rep. 614, 177 S.W. 2d 270.
+In Wynn, all that was shown was that the accused was driving an automobile for one Williams whose license to drive had been suspended, and they drove up to the back of a house where Williams effected entry with a skeleton key. There was no showing that the accused had any connection with the house where the intoxicants were found.
+In Pafford, the officers went to a tent where they found some intoxicants and arrested the appellant. This court pointed out that there was an unidentified woman also present in the tent and that one Sanderson, whom the appellant proved was a known bootlegger, also resided there and held that the requested charge should have been given.
+In the case at bar, however, so far as the state’s case is concerned, the appellant was in possession of the automobile in which the intoxicants were found. The court charged the jury as follows:
+“You are further instructed that the defendant testified that he did not know that the alcoholic beverages, Vodka, Gin and Beer, introduced in evidence were in the automobile which he was driving. Unless the defendant had knowledge that said alcohol beverages were in said automobile at the time he was driving it, he would not be guilty of the offense charged. Now, if you believe this evidence or if this evidence raises a reasonable doubt in your mind as to the guilt of the defendant, you will acquit the defendant and say by your verdict not guilty.”
+This, we conclude, sufficiently protected the appellant’s rights under the facts of this case.
+He next contends that the court erred in refusing to instruct the jury that “mere presence in the absence of an agreement to commit an offense will not constitute one guilty as a principal,” and relies, among other cases, on Reid v. State, 100 Texas Cr. Rep. 512, 271 S.W. 625, and Elliott v. State, 109 Texas Cr. Rep. 270, 4 S.W. 2d 61. In each case, the court charged on the law of principals but failed to give the converse. In the case at bar, no charge on principals was given, but appellant’s defense was presented in the charge above quoted.
+Appellant’s last contention requires further study. Inspectors Brewer and Jones had testified that they had first seen the appellant “on the Clovis Road” about four blocks from Colgate, that they turned around and followed the automobile which the appellant was driving back to the address on Colgate where it came to a halt. Inspector Brewer was later asked if he had made a case report to his superior, and he replied that he had. When the appellant offered the case report, the court sustained the state’s objection to its introduction and instructed the jury not to consider any statement relative to a case report.
+Without discussing the soundness of the court’s ruling or reason therefor, we do observe from the case report which is made a part of the statement of facts that the only discrepancy between their testimony and that which they incorporated in the case report was their location at the time they first observed the automobile driven by the appellant. In the case report, Officers Brewer and Jones stated that they were observing the house on Colgate when the automobile driven by the appellant turned off Clovis Road.
+It is a well settled rule that a witness may not be impeached on immaterial and collateral matters. The officers were armed with a search warrant to search the house on Colgate, which they finally did search after they searched the automobile. Where they were when they first saw the automobile could be of no importance in the case at bar, nor could a discrepancy in this regard affect their credibility.
+Finding no reversible error, the judgment of the trial court id affirmed.
