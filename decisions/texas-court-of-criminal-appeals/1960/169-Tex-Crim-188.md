@@ -1,0 +1,53 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,544"
+decided: "1960-03-16"
+citations: ["169 Tex. Crim. 188"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DAVIDSON, Judge, concurred."]
+parties: ["Stayton Stratmon v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12134466
+cites_cases: ["112 Tex. Cr. R. 152", "113 Tex. Cr. R. 535", "126 Tex. Cr. R. 308", "145 S.W. 940", "15 S.W. 2d 650", "151 Tex. Cr. R. 454", "156 Tex. Cr. R. 228", "159 Tex. Cr. R. 24", "159 Tex. Cr. R. 267", "159 Tex. Cr. R. 520", "162 Tex. Cr. R. 52", "166 Tex. Cr. R. 15", "208 S.W. 563", "209 S.W. 2d 769", "21 S.W. 2d 503", "219 S.W. 206", "22 S.W. 2d 1071", "240 S.W. 2d 774", "241 S.W. 2d 153", "258 S.W. 2d 804", "261 S.W. 2d 317", "263 S.W. 2d 158", "265 S.W. 2d 589", "282 S.W. 2d 59", "310 S.W. 2d 116", "317 S.W. 2d 744", "346 U.S. 836", "66 Tex Cr. R. 220", "71 S.W. 2d 274", "74 S. Ct. 53", "86 Tex. Cr. R. 255", "98 L. Ed. 358"]
+---
+
+# Stratmon v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Appellant was assessed a two year term upon a plea of guilty for the offense of felony theft. The execution of the sentence was suspended and probation was granted, one condition being that he not violate the laws of this state.
+During the term of probation, motion to revoke was filed alleging that appellant violated the terms of his probation in that he committed the offense of theft.
+Hearing was had at which there was evidence sufficient to sustain the trial judge’s finding that appellant had committed the offense of theft and violated the terms of probation in taking a hub cap from the wheel of an automobile parked in a driveway, without the owner’s consent.
+No abuse of discretion is shown.
+Appellant contends that the Adult Probation and Parole Law of 1957 (Art. 781d V.A.C.C.P.) is so vague, indefinite and uncertain that it violates the guarantees of due process of law and equal protection of law contained in the Texas and the United States Constitutions.
+In his brief appellant points out that in other states trial judges have almost unlimited discretion in deciding whether or not to revoke probation, whereas in this state (and perhaps only one other) the statute provides for an appeal as an integral element of the revocation procedure. It is argued that the provision for appeal narrows the judge’s discretion in revocation, and that the legislature has not clearly provided that the review on appeal should be limited to whether an abuse of discretion is shown.
+We will endeavor to answer this contention.
+In Ex parte Gomez, 241 S.W. 2d 153, the contention was made “That a revocation of probation is unconstitutional and violates the rights of freedom guaranteed by the Constitution of Texas and the United States.” We said:
+“Relator’s petition now before us fails in that it is shown clearly that the contention is based on an erroneous ground. His claim is that he is being sent to the penitentiary on suspicion, without a trial and the recent arrest is given as a basis. This is incorrect. He will go to the penitentiary because of his five years sentence on his plea of guilty and because he failed to rehabilitate himself in accordance with the terms and agreement which he entered into at the time the probation was given him by the trial judge.”
+Construing Art. 781b, the Adult Probation and Parole Law enacted in 1947, this Court has held that whether its benefits should be accorded to an accused rests within the discretion of the trial court and was not appealable. Baker v. State, 151 Tex. Cr. R. 454, 209 S.W. 2d 769.
+We also held that a proceeding to revoke probation was not a trial as the term is used in the Constitution in reference to Criminal Cases; that the granting of probation was in effect the extension of clemency by the trial court, conditioned that certain requirements or conditions be performed and not violated, violation of which will authorize revocation of the clemency extended. Wilson v. State, 156 Tex. Cr. R. 228, 240 S.W. 2d 774.
+We construed the probation provided for as a conditional clemency contract giving the sentencing judge the right upon hearing to determine whether the accused breached such contract. Jones v. State, 159 Tex. Cr. R. 24, 261 S.W. 2d 317, certiorari denied 74 S. Ct. 53, 346 U.S. 836, 98 L. Ed. 358.
+Also, we held that probation may be revoked upon a finding by the trial judge as a fact that the terms of probation had been violated. Gorman v. State, 166 Tex. Cr. Rep., 633, 317 S.W. 2d 744.
+And in many cases we held that upon appeal from the order revoking probation, the review would be limited to determining whether the trial judge abused his discretion in revoking probation. Lynch v. State, 159 Tex. Cr. R. 267, 263 S.W. 2d 158; Bills v. State, 258 S.W. 2d 804; Dunn v. State, 159 Tex. Cr. R. 520, 265 S.W. 2d 589; Gossett v. State, 162 Tex. Cr. R. 52, 282 S.W. 2d 59; McMillan v. State, 166 Tex. Cr. Rep. 15, 310 S.W. 2d 116.
+The law relating to the granting and revocation of probation was thus settled by the 1947 statutes and the above holdings of this court when the 55th Legislature enacted the Adult Probation and Parole Law of 1957, now Art. 781d. V.A.C.C.P., which superseded Art. 781b V.A.C.C.P.
+The 1957 act contains substantially the same provisions for the granting and revocation of probation, and the right of appeal, as the superseded Art. 781b V.A.C.C.P. Its enactment in effect adopted the construction placed upon the prior statute by the decisions of this court. Parrish v. State, 126 Tex. Cr. R. 308, 71 S.W. 2d 274; Cotter v. State, 113 Tex. Cr. R. 535, 21 S.W. 2d 503, 22 S.W. 2d 1071; Ex parte Ferguson, 112 Tex. Cr. R. 152, 15 S.W. 2d 650; Vaughn v. State, 86 Tex. Cr. R. 255, 219 S.W. 206; Adams v. State, 66 Tex Cr. R. 220, 145 S.W. 940. See also Lotto v. State, Civ. App., 208 S.W. 563.
+If there was a lack of legislative authority for our holdings construing probation as conditional clemency, and for limiting review on appeal to the question of whether the trial judge abused his discretion in revoking probation (and we think there was not) it was supplied by the enactment of the present statute in 1957.
+We overrule the contention that the Adult Probation and Parole Act of 1957 is unconstitutional.
+The judgment is affirmed.
+
+## Concurrence (DAVIDSON, Judge)
+
+DAVIDSON, Judge
+(concurring).
+The sole question presented by this appeal is the validity of the order revoking the probation.
+We have consistently held that upon an appeal from such an order the review by this court is limited to that question. Lynch v. State, 159 Tex. Cr. R. 267, 263 S.W. 2d 158; Bills v. State, 258 S.W. 2d 804; Dunn v. State, 159 Tex. Cr. R. 520, 265 S.W. 2d 589; Gossett v. State, 162 Tex. Cr. R. 52, 282 S.W. 2d 59; and McMillan v. State 166 Tex. Cr. R. 15, 310 S.W. 2d 116.
+The question as to the validity of the parole and probation laws is therefore not before us for determination. We ought not to here assume jurisdiction in such matters for the sole and only purpose of expressing our views hereon.
+Moreover, as the probation has been revoked here, this appellant is not now under probation and is not bound under any of the provisions thereof.
+Obviously, appellant has no right to now attack the probation and parole laws, and his attack thereon is entirely unjustified.
+It will be time enough to pass upon the validity of the parole and probation laws when that question is properly before us for determination.
+Under the prior decisions of a majority of this court, the trial judge was authorized to revoke the probation here. His order in so doing should be affirmed.
+To that extent I agree to the affirmance of this case.
