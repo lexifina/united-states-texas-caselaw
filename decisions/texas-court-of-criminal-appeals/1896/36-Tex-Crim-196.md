@@ -1,0 +1,21 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "968"
+decided: "1896-06-10"
+citations: ["36 Tex. Crim. 196"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. H. Cothran v. The State."]
+source_url: "https://static.case.law/tex-crim/36/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2361592
+---
+
+# Cothran v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant was convicted for dealing in futures. Omitting the formal parts, the information charges that appellant “was the agent and representative of the firm of Fairchild & Hob-son, whose other names are to affiant unknown, and as such agent and representative of said firm of Fairchild & Hobson, said C. H. Cothran, did then and there unlawfully conduct, carry on, and transact a business oommonly known as ‘dealing in futures,’ in agricultural products, to-wit: cotton, with no intention of an actual, bona fide delivery of the article and thing bought and sold, against the peace and dignity of the State.” Several exceptions were urged to the sufficiency of this information. This prosecution was brought under Art. 377 of Rev. Penal Code 1895, which reads as follows: “If any person shall, directly or through an agent or agents, manage or superintend for himself, or shall as agent or representative of any other person, firm or corporation, conduct, carry on, or transact any business which is commonly known as dealing in futures, in cotton, grain, lard, in all kinds of meat or agricultural products, or corporation stocks, or shall keep any house or manage, conduct, carry on, or transact any business commonly known as a produce or stock exchange, or bucket shop, where future contracts are bought and sold, with no intention of an actual bona fide delivery of the article or thing so bought or sold—such person, whether acting for himself or for another as aforesaid, shall be deemed guilty of a misdemeanor,” etc. In order to constitute this offense the party must not only conduct, carry on, and transact a business commonly known as “dealing in futures,” but that business must be based upon the fact that future contracts are to be bought and sold with no intention of an actual, bona fide delivery of the article or thing so bought or sold; and in order to charge an offense under this statute it would be necessary to allege, not only that the business commonly known as “dealing in futures” was' conducted, carried on, and transacted, but it must further allege that it was a business where future contracts are bought and sold with no intention of an actual, bona fide delivery of the article or thing, specifying the article or thing bought or sold. It would be necessary, as we understand this statute, to allege these matters, and that the thing so bought or sold should be specifically set out in the indictment. It is not an offense to deal in futures, unless the intention on the part of the dealer was not to deliver the article or thing bought or sold. It would be no offense to deliver the contract, nor would it be an offense to make the contract, unless there was no intention to deliver the article about which the contract was made. The information in this case, as we understand it, fails to allege that the dealing in futures was with reference to future-contracts in regard to the cotton about which the contract was made. It is not sufficient to allege that the party was dealing in futures, for this does not meet the measure of the denunciation set out in the statute. The dealing in futures must be where future contracts are bought or sold with reference to some one or more of the articles or things about which the contract is made, and the article bought or sold, and of course these articles or things must come within the terms of the enumeration in the statute. Dealing in futures in agricultural products is not sufficent. The dealing in futures in agricultural products must be in those cases where future contracts are bought or sold, and where there is no intention of an actual, bona fide delivery of the article or thing so bought or sold. For the reasons indicated the judgment is reversed, and the prosecution ordered dismissed.
+Reversed and Dismissed.
