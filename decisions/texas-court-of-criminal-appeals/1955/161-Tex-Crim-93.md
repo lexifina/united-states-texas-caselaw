@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,392"
+decided: "1955-02-09"
+citations: ["161 Tex. Crim. 93"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wallace Ringo v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2464250
+cites_cases: ["160 S.W. 2d 957", "229 S.W. 2d 791", "332 U.S. 581"]
+---
+
+# Ringo v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for the possession of marihuana; the punishment, eight years’ confinement in the penitentiary.
+The evidence shows that upon a search of the appellant, following his arrest without a warrant, he was found in possession of eighteen marihuana cigarettes.
+Appellant urged during the trial, and now insists, that he was illegally arrested and therefore the subsequent search of his person without a warrant was unlawful.
+The facts and circumstances surrounding appellant’s arrest, as given by the arresting officer, Amos Johnson, who testified both out of and in the presence of the jury, are substantially as follows:
+Around 1:30 o’clock on the morning of November 8, 1953, City Officers Johnson and J. D. Campbell, while patrolling in a section of the city of Big Spring which the witness described as the “flats,” observed an automobile with the lights off, on the wrong side of the street, pulling away from or circling a restaurant and beer joint known as the El Patio, which Officer Johnson described as a dive and a place where persons stayed who habitually violated the law; that the two officers proceeded to follow and stop the car, and upon going to the car found three occupants therein: Manuel Pineda, the driver, who was seated under the steering wheel, the appellant, who was seated in the right front seat, and one, Barela, seated in the back seat and who appeared to be intoxicated. Officer Johnson talked to Pineda, the driver of the car, and asked him for his driver’s license, to which Pineda replied that he did not have any; that Pineda then stated that the car belonged to him and then said it belonged to his mother who lived in Lubbock and that she had loaned it to him. Thereupon, Officer Campbell went to the police car to contact Lubbock by radio and check on the registration of the automobile. While Officer Campbell was checking on the car registration, Officer Johnson talked to the appellant and asked him for his identification, where he was from and what he was doing. Appellant told the officer that he had no identification and stated he had come from Arizona some six weeks before and was not doing anything and had not done anything or worked anywhere, and that he had tried to pick a little cotton but did not get a job.
+Officer Johnson testified that at this point he decided to hold appellant for vagrancy and about this time Officer Campbell returned and reported that the information received by radio was that the car was not registered in the name of Pineda’s mother but in the name of someone else in Lubbock and that he then took appellant to the police station in connection with two offenses: vagrancy and an investigation for car theft because he thought the car was stolen and that appellant was one of the occupants thereof.
+The record shows that under the authority of Article 214, C.C.P., the city of Big Spring has, by ordinance, authorized police officers to arrest without warrant persons found in suspicious places, and under circumstances which are reasonably calculated to cause such officers to believe and do cause such officers to believe that such persons have been guilty of some felony or breach of the peace, or threatened or are about to commit some offense against the law.
+The court, in his charge, instructed the jury that the arresting officer had a right to arrest the appellant if he had found appellant at a suspicious place and under circumstances that gave him probable cause to believe and that he did believe that appellant, alone or acting with others, had stolen the car in which he was riding, and that in such event, such officer not only would have had a right to arrest the appellant but would be charged with the duty of preventing the consequences of the theft. The court defined “probable cause” and instructed the jury that unless they believed beyond a reasonable doubt that the arresting officer did find appellant at a suspicious place and under circumstances such as would give him probable cause for believing that a felony theft had been committed and that appellant was the person, or one of some persons, who had committed the theft, then they would find appellant not guilty.
+Appellant contends that his arrest was illegal because the facts show that he was arrested for vagrancy without a warrant, and that the facts thereafter ascertained by the officer concerning the theft of the automobile could not justify the arrest. It is further urged that the court, in submitting the issue of probable cause for the arrest to the jury, ignored the issue as to whether appellant had been arrested for vagrancy prior to the time the officer received the information concerning the automobile.
+Appellant’s contentions are without merit as the facts show that appellant was arrested for two offenses, namely: vagrancy and car theft. Appellant having been searched after his arrest for both offenses, the issue as to whether the arrest for vagrancy was prior to the time the officer received the information concerning the automobile was immaterial.
+Appellant next insists that the facts are insufficient to support the finding of the jury that the arresting officer had probable cause to believe that appellant was guilty of the theft of the automobile. We conclude that all of the facts and circumstances known by the arresting officer were sufficient to support the finding of the jury that the officer had probable cause to believe that appellant was guilty of the theft of the automobile.
+We further conclude that appellant’s arrest, under the facts, was authorized by Article 325, C.C.P., which grants to all persons a right to prevent the consequences of theft by seizing any property that has been stolen and bringing it, with the supposed offender, before a magistrate for examination, provided there is reasonable ground to suppose that the property was stolen. It has been held that an arrest authorized by this statute may be made without a warrant. Holt v. State, 144 Texas Cr. R. 88, 160 S.W. 2d 957, and Constant v. State, 155 Texas Cr. R. 6, 229 S.W. 2d 791.
+We think that the case of U.S. v. Di Re, 332 U.S. 581, relied upon by the appellant, may be distinguished from the case at bar by citing a portion of the opinion in that case, to-wit:
+“Moreover, whatever suspicion might result from Di Re’s mere presence seems diminished, if not destroyed, when Reed, present as the informer, pointed out Buttitta and Buttitta only, as the guilty party.”
+In the case at bar, there were no facts which pointed to any one occupant of the automobile as the thief and nothing to prevent the arresting officer from concluding that the three occupants were equally guilty of having stolen the automobile.
+The conclusion is reached that appellant was lawfully arrested and the subsequent search without a search warrant was authorized.
+The judgment is affirmed.
+Opinion approved by the court.
