@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,004"
+decided: "1958-06-28"
+citations: ["166 Tex. Crim. 466"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bufford Spigener v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0466-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2617544
+cites_cases: ["153 Texas Cr. Rep. 52", "217 S.W. 2d 673", "313 S.W. 2d 538"]
+---
+
+# Spigener v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is unlawfully carrying arms; the punishment, a fine of $150.00.
+This prosecution was brought under Art. 483, Vernon’s A.P. C., as amended in 1957. The information, omitting the formal parts, reads as follows: “* * * did then and there carry on or about his person a hand chain.” No statement of facts accompanies the record but appellant vigorously contends that the portion of the act under which he was prosecuted is unintelligible and inoperative.
+In Ex parte Chernosky, 153 Texas Cr. Rep. 52, 217 S.W. 2d 673, this court said: “A statute which either forbids or requires the doing of an act in terms so vague that men of common intelligence must guess as to its meaning and differ as to its application, lacks the first essential of due process of law.”
+The state relies entirely upon the recent opinion of this court in Curson v. State, No. 19,790, (page 272, this volume), 313 S.W. 2d 538, in which we upheld a conviction under this article for carrying a night stick.
+The distinction between Curson and the case at bar lies in the fact that a night stick is such a well recognized term as to be defined in several dictionaries, such as American College and Webster’s Unabridged, while we find no definition for “hand chain.” Since the term is not well recognized that portion of said article is “of such doubtful construction that it cannot be understood” and is therefore inoperative by virtue of the due process clause of both state and Federal constitutions. U. S. Constitution, Amendment 14; Vernon’s Ann. Constitution of Texas, Art. 1, Sec. 19.
+The judgment is reversed and the prosecution ordered dismissed.
