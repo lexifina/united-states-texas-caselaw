@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,694"
+decided: "1962-06-13"
+citations: ["172 Tex. Crim. 550"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Glen David Kirk v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2641084
+cites_cases: ["165 Texas Cr. Rep. 650", "168 Texas Cr. Rep. 315", "310 S.W. 2d 567", "327 S.W. 2d 454", "343 S.W. 2d 706"]
+---
+
+# Kirk v. State
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+The offense is robbery; the punishment, 50 years.
+The owner and an employee of a drive-in-grocery in Dallas testified that on the night in question appellant and another man entered the store and at gun point robbed them of the contents of their wallets and the cash registers. Each of them positively identified appellant as one of the robbers and testified that they had picked the picture of appellant and his companion out of a group of pictures exhibited to them by the police shortly after the robbery. Appellant was arrested some two months later by the police who had been looking for him.
+Appellant did not testify but called his father, his sister and his former sister-in-law, who testified that on the night charged in the indictment they had all engaged in an all night poker game in which appellant had been a participant.
+The jury resolved the conflict in the evidence against appellant, and we find it sufficient to support the conviction.
+The sole question presented by brief relates to argument. There has been transmitted to this Court a separate statement of facts which purports to contain a portion of the argument of the prosecutor. Such an instrument has not been approved by the trial court or by counsel for the State and appellant, and therefore cannot be considered under the terms of Article 759a, section 1(E), V.A.C.C.P. Works v. State, 343 S.W. 2d 706; Mendez v. State, 168 Texas Cr. Rep. 315, 327 S.W. 2d 454; and Donley v. State, 165 Texas Cr. Rep. 650, 310 S.W. 2d 567. The formal bill of exception which appears in the transcript sets forth two portions of the prosecutor’s argument, but nowhere therein is it shown that an objection was made thereto. By failing to incorporate such a showing in the bill, any error is said to be waived. We have, however, reviewed the bill and find that the first portion is a logical deduction from the record which is properly before us and the second is a legitimate plea for proper punishment and law enforcement in the community.
+Finding no reversible error, the judgment of the trial court is affirmed.
