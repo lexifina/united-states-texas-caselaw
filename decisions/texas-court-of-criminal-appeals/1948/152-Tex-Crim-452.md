@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "24122"
+decided: "1948-11-24"
+citations: ["152 Tex. Crim. 452"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nathaniel Fegan v. State."]
+source_url: "https://static.case.law/tex-crim/152/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2594160
+cites_cases: ["2 Tex. App. 62"]
+---
+
+# Fegan v. State
+
+## Majority (GRAVES, Judge.)
+
+GRAVES, Judge.
+Appellant was convicted of an aggravated assault, and by the jury fined $150.00 and given 90 days in jail.
+The facts show that appellant and the injured party, among others, were shooting craps during the day of January 24, 1948, at Tramble’s Drive Inn in Gregg County. The injured party, Nathaniel Williams, contended that appellant owed Williams’ wife one dollar and grabbed up two dollars off the table, later returning one dollar to appellant. This action caused a fight between the appellant and Williams, but they were soon separated and had no further trouble at such time. Later on that night, appellant possessed himself of a .12 gauge shotgun and waited outside this Inn, either to the side or behind a Coca-Cola sign, and as Williams came out of the Inn, he shot him while Williams was running. Appellant again shot Williams, hitting him each time.
+Appellant was charged with an aggravated assault under Art. 1147, P. C., subd. 9, thereof, which reads as follows:
+“When committed with premeditated design, and by the use of means calculated to inflict great bodily injury.”
+The charging portion of the information reads as follows:
+“* * * that Nathaniel Fegan * * * did then and there in Gregg County, Texas, with premediated design and by the use of means calculated to inflict great bodily injury, to-wit: by the use of a shotgun, the same then and there being a deadly weapon, in and upon Nathaniel Williams did thén and there unlawfully commit an aggravated assault and did then and there with the said deadly weapon shoot the said Nathaniel Williams against the peace and dignity of the State.”
+It is now contended that such information is duplicitous and charges in one count two ways or means of committing an aggravated assault. This contention comes too late. There are no written pleadings excepting to or relating to the setting aside of said information found in the record as required by Article 513, C. C. P. We do find, however, a bill of exceptions setting forth a complaint relative to the claimed duplicity of the information in which bill it is shown in the qualification thereof that appellant merely made an oral objection to such pleading and took exception to the court’s ruling.
+In the early case of Coney v. State, 2 Tex. App. 62, the State charged the accused with committing an aggravated assault: first, that the assault was made with premeditated design; and second, that it was made with a certain deadly weapon, to-wit, a glass beer-tumbler, a means calculated to inflict great bodily injury. In that case it was said:
+“The charge of the court confined the jury in their investigation to an assault committed under the 9th subdivision of said Article 2150. The indictment fills the full measure in charging an aggravated assault, ‘committed with premeditated design, and by the use of means calculated to inflict great bodily injury.’ It fully apprised the defendant of the charge against him. It states more than is necessary to constitute the offense of an aggravated assault, without charging that the glass beer-tumbler, with which it was made, ‘is a deadly weapon.’ It is evident that the pleader intended to allege only one offense against the appellant, covering one and the same transaction, and the particularity with which it was set out would only the better aid the defendant to plead a previous conviction or acquittal of the same offense, should it afterwards become necessary.”
+A further bill of exception complains because of the fact that a certain witness of the State, who was placed on the stand, testified that he did not see appellant near the scene of this shooting with a shotgun in his hand at the time the man was shot. Thereupon the witness was subjected to an examinátion relative to a statement he had previously made to the State’s attorney concerning such incident. He appeared finally as a hostile witness and the State plead surprise on its part. It is evident from the witness’ testimony that he was evading the issue, and upon the State’s plea of surprise, we think it had a right to cross-examine him.
+A further bill complains because a witness was asked the following question:
+“I will ask you whether or not that 12 gauge shotgun fired at a distance of thirty feet is a weapon which so fired at that distance is calculated to produce death or serious bodily injury.”
+To which question the witness answered “Yes”. The witness had properly qualified as an expert in such matters, and we think the testimony was admissible.
+Again, a further bill complains of the testimony of another witness to practically the same effect as the above complaint relative to such weapon’s ability to inflict serious bodily injury. The witness was qualified, and the appellant was charged with making an aggravated assault by means calculated to inflict great bodily injury, and the testimony shows two shots with a shotgun, striking the injured party each time. The question being based on the proof offered, we see no error therein.
+The remaining bill evidences the fact that appellant and the complaining witness had been shooting craps a short time prior to this difficulty, and the injured party had picked up two dollars of appellant’s money and later returned one . dollar thereof, claiming that appellant owed the witness’ wife one dollar, and that he was collecting that money, whereupon they had a fight. These details were gone into by the defense witnesses, some of whom bore out the fact that the prosecuting witness made the statement that he was collecting this dollar for his wife. The State then placed this wife on the stand and she testified that appellant did owe her the dollar. We do not think the admission of this testimony was of sufficient importance to justify a reversal of this cause. Appellant brought in this matter of the fight at the crap game and proved it by his witnesses that the complaining witness first asked appellant for the dollar that he owed the witness, and there was no denial of the fact that the dollar was. owed. In our opinion, the mere fact of the wife also testifying to appellant owing the dollar could not have affected the outcome of this case. The bill is overruled.
+No error being shown herein, the judgment will be affirmed.
