@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "No 19380"
+decided: "1938-02-16"
+citations: ["133 Tex. Crim. 617"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Russell Grady v. The State."]
+source_url: "https://static.case.law/tex-crim/133/cases/0617-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5237473
+---
+
+# Grady v. State
+
+## Majority (CHRISTIAN, Judge. —)
+
+CHRISTIAN, Judge. —
+The offense is possession of whisky for the purpose of sale in a dry area; the punishment, a fine of $100 and confinement in jail for 45 days.
+Tom Warren, an inspector of the Texas Liquor Control Board, testified that he went to appellant’s home on the 20th of January, 1936, and found more than a quart of whisky therein. At the time of the search the .witness was accompanied by a deputy sheriff. Said officers were operating under a search warrant which they had procured shortly prior to the search. When they arrived at appellant’s premises he was absent, but his wife, who was in the house, witnessed the discovery. of the whisky. Appellant came to the house within two or three minutes after the search was instituted.
+Appellant did not testify, but introduced his wife as a witness. According to her version, appellant had nothing to do with placing the whisky in the house and it had been placed there without his knowledge or consent. She said: “Yes, sir, somebody put that whisky in our house. Yes, I am going to tell the jury that someone put a job on my husband. No, I didn’t see anyone. I didn’t hear anyone. I never saw that whisky there before. I have an idea who put it there. I would like to know, myself, who put it there.”
+It appears from one of the bills of exception that after appellant had been arrested and was being taken to the county seat by the officers he stated to them that he had called his wife prior to the search “about getting the whisky out of the house as the officers were coming.” This statement was made about twenty minutes after the search had been concluded and after, appellant had carried on a conversation witha the officers about different matters. Over appellant’s proper objection that he was under arrest at the time he made the statement, the court permitted one of the officers to testify that said statement had been made by the appellant. The objection was well taken. The declaration was clearly not res gestae. Appellant was under arrest at the time, and the provisions of Art. 727, C. C. P.,* had in no respect been complied with. The bill of exception presents reversible error.
+Notwithstanding appellant excepted 'in writing to the court’s charge for its failure to embrace an instruction covering his affirmative defense, and that he also submitted a requested, instruction in writing on the subject, the court nowhere in the charge submitted such an instruction, and refused to give the requested charge. Manifestly, appellant was not guilty if the whisky had not been placed in the house by him and he had no knowledge of its presence. This affirmative defense was clearly raised by the testimony of his wife. Again, we must hold that reversible error is presented.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
