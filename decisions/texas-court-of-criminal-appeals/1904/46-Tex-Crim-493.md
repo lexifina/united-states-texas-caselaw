@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2805"
+decided: "1904-06-08"
+citations: ["46 Tex. Crim. 493"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jim Burton v. The State."]
+source_url: "https://static.case.law/tex-crim/46/cases/0493-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 175336
+cites_cases: ["19 Mich., 401", "33 Texas Crim. Rep., 217", "38 Texas Crim. Rep., 386", "42 N. W. Rep., 243", "43 Texas Crim. Rep., 589", "54 S. W. Rep., 589", "54 S. W. Rep., 590", "74 Wis., 278"]
+---
+
+# Burton v. State
+
+## Majority (BROOKS, Judge.)
+
+BROOKS, Judge.
+Appellant was convicted of murder in the first degree and his punishment assessed at confinement in the penitentiary for life.
+The sixth bill of exceptions shows that after the exhaustion of the special venire, six jurors having been chosen, the court ordered the sheriff to call the roll of jurors summoned for the week. To which ■action of the court defendant objected, because said jurors had not been regularly summoned in this cause in accordance with the law. Whereupon the court instructed the sheriff to summon as talesmen the jury for the week, and proceeded to interrogate one of said jurors, when defendant again interposed objection, which was overruled. The examination continued until four of said jurors summoned for the week had been examined and passed upen as jurors, one of whom was selected and sworn as a juror in this cause. To which examination of said jurors appellant objected. Whereupon the court directed the sheriff to call the jurors summoned for the week and summon them as jurors in this case, which the sheriff did, calling all of the jurors present summoned for the week, including the four already passed upon, and two additional jurors, who were chosen from said venire for the week to sit as jurors in this cause. To which appellant objected. This bill is approved with the following qualification: “When the venire had been exhausted it appeared that six special veniremen who had been duly summoned had not appeared and answered. The court thereupon asked counsel for the defense what was their pleasure in the matter. They replied they had no desire to delay the proceedings and were willing to proceed without the issuance of attachments for absent jurors. When the jury for the week had been passed on and three jurors accepted both by State and defendant, talesmen were ordered, out of which defendant selected three more jurors, completing the panel, having four peremptory challenges remaining unused.” As we understand the qualification of the court, it does not contravene the fact that appellant objected to the court requiring the sheriff to summon the jury as talesmen. The statute expressly inhibits this being done. Wethersby v. State, 29 Texas Crim. App., 307; Bates v. State, 43 Texas Crim. Rep., 589; Brotherton v. State, 30 Texas Crim. App., 369; Thompson v State, 33 Texas Crim. Rep., 217.
+' Appellant complains that the court charged upon temporary insanity produced by the recent use of intoxicating liquors, because said charge combines narcotics not embraced in the statute, and restricts defendant’s rights by reason of temporary insanity, and makes his acts amenable to law under conditions that the law does not impose. It will be observed by reference to the statute that the Legislature merely provides that the recent use of intoxicating liquors authorizes a reduction of the punishment and does not incorporate within its provisions the recent use of narcotics, cocaine, etc. The charge of the court is erroneous. ■. Appellant is entitled to a distinctive charge on the recent use of intoxicating liquor, disassociated from narcotics of any character. If he was insane from the use of drugs, such as cocaine and morphine, then he was entitled to a distinctive charge on this issue. It is true the court charged upon the general issue of insanity, but he did not tell the jury that if appellant’s insanity was superinduced from the use of drugs, and he was crazy from the use of such drugs at the time of the homicide, whether such use was recent or not, he would be entitled to an acquittal. Otto v. State, decided at present term. Edwards v. State, 38 Texas Crim. Rep., 386; 54 S. W. Rep., 590.
+It is made to appear that after the jury had retired they desired witness Wilson recalled to restate his testimony. Appellant’s counsel consented to the recall, and the court permitted the witness to restate his testimony before the jury. However, the defendant was not present but at the time was confined in jail. It is the duty of the court to see that defendant is personally present during the admission of evidence and trial of the case. Arts. 735-736, Code Crim. Proc.; Barton v. State, 9 Texas Crim. App., 261; Ship v. State, 11 Texas Crim. App., 46; Maples v. State, 13 Texas Crim. App., 85. For the errors discussed, the judgment is reversed and the cause remanded.
+Reversed and remanded.
