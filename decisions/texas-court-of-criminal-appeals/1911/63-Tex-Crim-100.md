@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1243"
+decided: "1911-06-23"
+citations: ["63 Tex. Crim. 100"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dock Hampton v. The State."]
+source_url: "https://static.case.law/tex-crim/63/cases/0100-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2375035
+---
+
+# Hampton v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of manslaughter and given two years in the penitentiary.
+There are no bills of exception contained in the transcript. The motion for new trial suggests several reasons why the judgment should be reversed.
+1. The first ground of the motion refers to the action of the court permitting the district attorney to ask certain questions eliciting certain facts from the defendant while he was testifying. The second and third grounds refer to the closing argument of the district attorney. These matters can not be considered because not verified by bills of exception. They are simply stated as grounds of the motion for new trial.
+3. The fourth ground of the motion for new trial alleges misconduct on the part of the jury in their retirement in reaching their verdict. This is not verified in any way and can not be considered.
+3. A special charge was asked and refused to the effect that the jury be instructed to disregard the remarks of the district attorney and private prosecutor as to any conspiracy in the case, and they further asked that the jury be instructed that they could not consider same for any purpose. This refers to bills Nos. 4 and 5, but they are not in the record. Therefore, these matters can not be considered. These matters are only stated as grounds of the motion and in no manner verified.
+4. The sixth ground of the motion for new trial is a criticism of the court’s charge on murder in the first degree. Appellant was acquitted of murder of the first and second degrees.
+5. The seventh ground of the motion for new trial criticises “those portions of the main charge wherein it submitted to the jury the issue of manslaughter, for the reason that there was no evidence introduced upon the trial of this cause showing or tending to show any of the requisites of said offense; and was highly prejudicial to the defendant, in that the submission of said charge authorized and induced the jury to assess that grade of homicide of which the defendant could not, under the testimony, have been guilty, and by giving this charge appellant’s right of self-defense was prejudiced in the minds of the jury.” We are of opinion that the facts justified the charge, and that there was no error in so instructing the jury.
+Finding no reversible error in the record, the judgment is affirmed.
+Affirmed.
