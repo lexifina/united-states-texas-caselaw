@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "18004"
+decided: "1936-03-11"
+citations: ["130 Tex. Crim. 51", "92 S.W.2d 241"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alton White v. The State."]
+source_url: "https://static.case.law/tex-crim/130/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5242674
+---
+
+# White v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+Conviction is for theft of a hog. Punishment was assessed at confinement in the penitentiary for two years.
+The animal which played the leading role in this drama was described as a “sandy-haired” sow about three years old. She was claimed by the State to have been the property of J. E. Pennington. The mother of the alleged stolen sow was a black and white spotted animal. During the summer and fall of 1934 Mr. Pennington had fifteen hogs running on the range near’ where he lived. The “sandy-haired” sow and her mother were in this bunch. Their range usually extended about three miles, from Pennington’s home. In the fall of 1934 he missed this entire bunch of hogs from the range. In April, 1935, there was found in the pen of appellant a “sandy-haired” sow and some controversy arose with reference to the ownership of the animal. Appellant sent word to Mr. Pennington to come and look at the hog and told him that if he (Pennington) had better proof than appellant had as to the ownership of the hog that he (Pennington) could have her. Mr. Pennington, his son,, and a Mr. Harrison all looked at the hog in appellant’s pen. None of them would undertake to identify the hog other than by marks. Mr. Pennington testified that his hogs were marked with an under-slope in each ear and an over-bit in the left ear,, which had been his mark for many years. Pennington’s son testified that his father’s mark was an under-slope in each ear and an under-bit in the left ear. Harrison, who also claimed to be conversant with Pennington’s mark, also testified that it was an under-slope in each ear and an under-bit in the left ear. These witnesses claimed that the marks on the hog in appellant’s pen had been changed, but that enough was left of the old mark to identify it as Pennington’s. If the marks on the hog in question had been changed, it had been done some time prior to the date the State’s witnesses examined the hog in appellant’s pen, for what they claim to be new marks were entirely healed. The evidence in the record before us is quite confusing with reference to Mr. Pennington’s mark. All witnesses agree as to the under-slope in each ear, but their testimony is uncertain with reference to the other mark, as to whether it was an over-bit or an under-bit, the same witness’, sometimes referring to it as an over-bit and again as an under-hit.
+Appellant filed a motion for new trial setting up newly-discovered evidence and attached the affidavits of four witnesses who lived about eight miles from Mr. Pennington. They make oath that during the fall of 1934 a bunch of hogs corresponding in number to those missed from Mr. Pennington’s range appeared on the range of the newly discovered witnesses ; that among the hogs which came into their range was a black and white sow, and also a “sandy-haired” sow. These two animals and the others which were marked were said by these witnesses to bear the mark of Mr. Pennington, and they were known among the neighbors in that range as being Mr. Pennington’s hogs. These witnesses also made affidavit that this, “sandy-haired” sow had been seen on the range by them at a time subsequent to the date she was claimed to have been in appellant’s possession. Some of the newly discovered witnesses say in their affidavits that this “sandy-haired” sow was seen by them on the range not more than three weeks prior to the date of appellant’s trial, which occurred May 29, 1935. All of the newly discovered witnesses appear to be people who had lived for many years at their present residences, and who say they had never communicated the information about the presence of the bunch of hogs in question on their range either to appellant or his attorney until after the trial because the materiality of that fact was not known to them until after they were interrogated about it after the trial.
+The identity of the “sandy-haired” sow in question was a pivotal issue. As we understand the record', the testimony of the newly discovered witnesses would have aided in determining whether the State’s witnesses may have been mistaken in identifying the animal found in appellant’s pen as the one which belonged to Mr. Pennington. It seems apparent that if she was running on the range of the newly discovered witnesses eight miles from where Mr. Pennington lived, and had been seen by them at the times claimed she could not have been the same animal which was in appellant’s possession.
+The alleged newly discovered evidence was in no way controverted by the State and was upon a material issue. It appears reasonably probable that it may change the result upon another trial. See Branch’s Ann. Texas P. C., Sec. 192, page 124. We conclude that the trial court fell into error in not granting a new trial.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
