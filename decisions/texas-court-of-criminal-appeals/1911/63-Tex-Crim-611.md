@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1349"
+decided: "1911-11-15"
+citations: ["63 Tex. Crim. 611"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jack Wallace v. The State."]
+source_url: "https://static.case.law/tex-crim/63/cases/0611-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2377317
+cites_cases: ["101 S. W. Rep., 248", "46 Texas Crim. Rep., 50", "51 Texas Crim. Rep., 155", "51 Texas Crim. Rep., 614", "53 S. W. Rep., 113", "80 S. W. Rep., 372", "85 S. W. Rep., 1076", "87 S. W. Rep., 148", "98 S. W. Rep., 840"]
+---
+
+# Wallace v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+Appellant was convicted of adultery with Charity Johnson by means of habitual carnal intercourse without living together.
+It is contended that the evidence is not sufficient to support the conviction. The evidence is to the effect that appellant had the first act of intercourse with the witness Charity Johnson about the first day of January, and between that time and the 10th of March, which she sajrs was the last act, appellant had intercourse with her five or six times, no two of which were closer together than alb out two weeks, and others as far as three weeks apart. Charity Johnson lived in the town of Knox City and appellant lived fourteen miles distant in Munday. N"o witness ever saw them in the act of intercourse, and there is no corroboration of the paramour Charity Johnson except as given by the witness Favor, who seems to have been city marshal of Knox City. He says on the night of the 10th of March he saw appellant and another party knock at' the door of Charity Johnson, speak a few words and walk away, and later the same night they returned and entered her house; he watched but never saw them leave; that he went away and returned early the next morning, and heard, a shoe drop and some footsteps. After knocking twice and having no response, he entered and found no one in the house except Charity Johnson. The other party, whoever it may have been, was not introduced upon the trial of the case. Charity Johnson being an accomplice, it was necessary to corroborate her as to the allegation that appellant was having habitual carnal intercourse with her without living .with her. Appellant did not live with her, which we think is manifest from this record and the testimony. That he had habitual carnal intercourse with her without living together is not shown by any evidence in this record, and the witness Charity Johnson is not corroborated except as to one time when Favor testified he saw appellant enter her house and remain in there until Favor went off home during the night. The evidence, we think, is not sufficient either as to the allegation that he had habitual carnal intercourse with her, or that Charity Johnson, the paramour, is corroborated as required by the statute. The corroboration of one act is not sufficient. The statute requires that the evidence must show habitual carnal intercourse and not merely occasional acts. Hilton v. State, 41 Texas Crim., 190, 53 S. W. Rep., 113; Collins v. State, 46 Texas Crim. Rep., 50, 80 S. W. Rep., 372; Boswell v. State, 85 S. W. Rep., 1076; Taylor v. State, 87 S. W. Rep., 148, 51 Texas Crim. Rep., 614; Curlee v. State, 98 S. W. Rep., 840; Quinn v. State, 51 Texas Crim. Rep., 155, 101 S. W. Rep., 248. These matters have been discussed in the Hilton, Collins and Boswell cases, supra, sufficiently without further elaboration. Many other cases might be cited in support of these propositions, and the cases are uniform that the paramour must be corroborated as to the facts tending to make out the case, and no court has held or would undertake to hold, we suppose, that one act would show habitual carnal intercourse; and as she was -only corroborated as to one act, then from that standpoint the case is not made out.
+There was evidence offered by appellant to the effect that prosecutrix was in the habit of selling her favors to men, and certain parties were named to whom she did so prostitute her body. This was offered for several reasons stated by appellant in the bill of exceptions. We are of 'Opinion, under the facts of this case, this testimony ought to have gone to the jury. If the woman was a prostitute and selling her favors to men promiscuously, it was a fact to be considered by the jury as bearing upon the issue as to whether appellant was having habitual carnal intercourse with her. There might be a distinction drawn legally and in fact, in our opinion, between a woman Avho Avas simply the mistress of an accused party under this statute, and the relation of the same party to a Avoman who was indiscriminate in her favors. If the State should see proper to further prosecute the case, Ave mention this matter so that this evidence, if sought by appellant, may go before the jury.
+The judgment is reversed and the cause is remanded.
+Reversed and remanded.
