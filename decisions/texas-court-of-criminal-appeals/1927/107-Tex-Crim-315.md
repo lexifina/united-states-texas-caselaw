@@ -1,0 +1,42 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "10263"
+decided: "1927-06-22"
+citations: ["107 Tex. Crim. 315"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Owen Davis, alias C. E. Strickland, v. The State."]
+source_url: "https://static.case.law/tex-crim/107/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5138807
+cites_cases: ["126 S. W. 496", "149 S. W. 165", "155 S. W. 208", "178 S. W. 520", "192 S. W., 1071", "200 S. W. 407", "234 S. W. 895", "258 S. W. 176", "267 S. W. 496", "90 Tex. Crim. Rep. 265"]
+---
+
+# Davis v. State
+
+## Majority (BETHEA, Judge. —)
+
+BETHEA, Judge. —
+Appellant was convicted in the District Court of Foard County of the offense of murder, and his punishment assessed at a term of twenty years in the penitentiary.
+For a statement of facts in this case see the opinion in cause No. 10307, this day handed down by this court, same being styled Hugh Davis v. State.
+Appellant, by his bill of exceptions No. 2, complains of the action of the trial court in refusing to grant a continuance. ' We are unable to agree with appellant in his contention that the case should be continued for the reason that the bill itself shows that immediately after the appellant was indicted, to-wit, on the 16th day of February, A. D. 1926, he made application for a subpoena to issue for the witnesses, which subpoena was on the 17th day of February in due course of mail forwarded to the Sheriff of Tarrant County, Texas. The bill further shows that the subpoenas for the witnesses had been returned into court with the following notation of return thereon:
+“The following named witnesses not summoned for the reason set opposite their names: Bill McCash, J. C. McCash, John McCash. They are not at 1105 Throckmorton Street, in Fort Worth. There is no garage at this number. None of the within named names appear in either the city or telephone directory, and that is our only source of information.
+(Signed) “Carl Smith, Sheriff, Tarrant County.
+“By M. T. Chambers, Deputy.”
+There is nothing in the bill showing the day of the return and the record is silent as to any additional process being issued or any further efforts made to procure the attendance of said witnesses.
+The appellant’s bill of exceptions No. 3 complains of the action of the trial court in not admitting a certified copy of a judgment of conviction against deceased showing that he was convicted of robbery in Ford County, Kansas. We are unable to agree with appellant in his contention. For a discussion of this question see the opinion in cause No. 10307, Hugh Davis v. State, same being a companion case with the instant case, this day handed down.
+We have examined the other questions raised by appellant and find that they present no error.
+The facts amply support the verdict of the jury. There being no errors in the record, the judgment is affirmed.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
+
+## Rehearing (LATTIMORE, Judge. —)
+
+ON MOTION FOR REHEARING.
+LATTIMORE, Judge. —
+In this case appellant swore that he and his brothers, Hugh and Jess, gambled with witness Smith and deceased just before the homicide, that the deceased lost about $25 to Jess and went broke; that Smith lost his money to appellant; that at this juncture Smith and deceased claimed it was a crooked deal and Smith grabbed the money won by appellant; that thereupon appellant and Jess had a fight with Smith and recovered from him the money he had grabbed; that while this fight was in progress Hugh Davis held a gun on deceased and made him stay out of the fight; that about the time appellant got his money back from Smith, deceased was standing nearby holding the money he had taken in his right hand; that he changed it to his left and said to Hugh Davis, “Why don’t you pull the trigger to that empty gun, you G — d s — n of a b — h,” and reached back to his right hand hip pocket, saying, “I have got a gun that is loaded.” At this juncture he said Smith jumped over the bed and the gun fired. Deceased fell across a trunk and a six-shooter fell out of his pocket. Appellant said that Jess Davis informed him presently that he had killed deceased.
+It was not claimed that appellant fired the shot that did the killing. It was ádmitted that Jess Davis did. The testimony of appellant plainly supported the theory that Jess shot because deceased reached for his pistol. If such fact be true, and the jury believed that Jess shot because, viewed from his standpoint at the time, he believed himself in danger of loss of life or serious bodily injury — this appellant would not be guilty, unless such shooting was done in furtherance of a conspiracy between appellant and his brothers. This theory of the case does not appear to have been submitted in the charge. Appellant was entitled to an affirmative presentation thereof. This was the only defense. An exception was reserved to the failure of the charge in this particular. It is well taken.
+The court should have charged on circumstantial evidence. As stated above, appellant did not kill deceased. He said nothing, so far as this record reveals, to Jess Davis in the way of advising him to kill. He did not hand Jess the gun, as Hugh did. He had not theretofore told Smith or deceased that they were going to kill them, as Jess had. He at no time had the gun with which the killing was done, or any other weapon. Beyond question he was present and participating, according to state witness Smith, in an attack upon Smith in which he and Jess Davis acted together, but there is no postive proof of his further participation in any attack upon either Smith or deceased. All parties agree that deceased took no part in the fight between Smith on one side and appellant and Jess on the other, because Hugh Davis held a gun on deceased and kept him back, Smith the only eye-witness, testifying for the state, did not assert that when appellant and Jess had taken his money from him and let him up from the bed where they were fighting, that appellant said anything to either Hugh or Jess, or that he in anywise further aided, advised or encouraged them by words, acts or gestures. If there had been any conspiracy formed to which appellant was a party, having for its purpose the death of deceased, or his robbery, same appeared only as an inference from other facts. No witness bore direct testimony to this. The jury may have inferred that appellant and his brothers purposed to rob deceased, or even to kill him — but the record is bare of any testimony directly so affirming. Deceased was not robbed by appellant, nor shot by appellant, nor attacked by appellant. In the absence of some direct testimony that appellant had agreed with his brothers to kill or rob Smith, or some direct testimony that he, being present, aided, advised or encouraged his brothers, or that he acted with them in any attack upon deceased, the law of circumstantial evidence would have application. The conclusion that he participated in the attack on deceased being but an inference from other circumstances, the jury should have been given the special charge asked presenting the law of this kind of testimony, or else the court should have prepared and submitted a charge of his own on that theory. Burrell v. State, 18 Tex. Crim. App. 713; Joyce v. State, 90 Tex. Crim. Rep. 265.
+The motion for rehearing is granted, the judgment of affirmance is set aside, and the judgment is now reversed and the cause remanded.
+Reversed and remanded.
