@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,161"
+decided: "1953-01-28"
+citations: ["158 Tex. Crim. 204"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jessie Becks v. State."]
+source_url: "https://static.case.law/tex-crim/158/cases/0204-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2478599
+cites_cases: ["148 Tex. Cr. R. 589", "189 S.W. (2d) 1020"]
+---
+
+# Becks v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+Appellant was charged with the offense of murder with malice in that he took the life of Clara Russell by shooting her with a shotgun. His punishment was assessed at confinement in the state penitentiary for a term of 20 years.
+The offense is alleged to have been committed on June 19, 1952.
+A motion to quash the indictment because of race discrimination in the organization and selection of the grand jury that returned the indictment was presented to the court. It appears that some evidence was introduced upon the motion, when it was suggested by the trial court and agreed to by the parties that the records of the county be examined upon the question of the grand jury composition, that is, as to members of the white and Negro race, over a five and a half year period covered by the motion, and the result be placed in evidence. The statement of facts fails to reflect that this was ever done. As here presented, the facts do not sustain the motion to quash or the allegations contained therein.
+Bills of Exception Nos. 3, 4 and 5 relate to the overruling of the motion for a continuance. All bills can be treated under the general proposition that appellant desired the presence of a certain witness named Arthur James Johnson who, according to one of the bills, had told a further witness that he would testify to certain matters that would show that the deceased, Clara Russell, was shot by her own husband, Buck Russell, and that Jessie Becks did not shoot the deceased. We do not find any such statement of James Arthur Johnson, the witness desired. However, we do find that the witness himself was present upon the hearing of the motion for new trial in this case and that he gave no such testimony.
+This killing occurred in the Negro portion of the town of Frost in Navarro County at a place called “Catfish Row.” It took place on June 19th, which is utilized as a holiday by the colored people. The facts are confusing to a large extent. There were many witnesses, some testifying to one shot being fired with a shotgun, some testifying to two shots, and some testifying to three shots, but the testimony finally shows that a Negro named A. B. Craig seems to be the cause of the anger of the appellant and was finally shot twice by him. It is the state’s contention that a shot fired at Craig hit Clara Russell in the face and took her life.
+Appellant’s Bill of Exception No. 3 shows by the court’s qualification thereof that this man, A. B. Craig, was placed upon the stand on the hearing of the motion for new trial and his testimony is set out at length in the bill. After having read the same throughout its entirety, we fail to find any error in said bill. However, this bill of exception of the appellant’s attorney was refused by the court and he accepted the court’s own bill relative thereto.
+Bill of Exception No. 4 complains of the refusal of a continuance because the witness, Arthur James Johnson, could not be found, he being a material witness for the appellant, and a subpoena having been issued for the witness on July 14, 1952, some few days after the appellant was indicted herein. In the first place, it is not shown what the witness would testify to, whether it be material or not. In the second place, the matter relates to a conversation had with a Negro named Richard Johnson, in which it is claimed that Richard Johnson told the desired witness that Buck Russell, the dead woman’s husband, fired the first shot. Very little diligence, if any, is shown in locating James Arthur Johnson, who is referred to in the various bills of exception as Arthur James Johnson. Furthermore, the whole matter seems to be a hearsay statement made by James Arthur Johnson to one Richard Johnson. It is evident from the court’s qualification of the bill that the said James Arthur Johnson would not testify as alleged in appellant’s motion for a continuance. In fact, on the motion for new trial, the witness denied the facts that were expected to be proved by him had he been present on the original trial. We see no error in Bill of Exceptions No. 5.
+Bill of Exception No. 6 falls under the ruling set forth in Bill of Exception No. 5. The bill alludes to the service of a subpoena upon Arthur James Johnson. Regardless of when the subpoena was issued, or whether the witness was summoned at all, under the. record itself, it is shown that his testimony was not material to any point in issue, and his alleged testimony would not be given by him even if he had been present upon the trial of the case.
+All bills offered as to the testimony have been gone over very carefully and we see no reason for a further discussion thereof.
+Bill of Exceptions No. 8 complains of the action of the court in refusing appellant’s motion to quash the indictment for the reason that it does not use the word “intentionally” in connection with the word “voluntarily” in charging the offense. The indictment seems to have been copied from Willson’s Criminal Forms, 5th Ed., Chapter 71, Form 540, and seems to be sufficient.
+Murder is the voluntary or intentional killing of a person without justification or excuse. See Watson v. State, 148 Tex. Cr. R. 589, 189 S.W. (2d) 1020. See also Art. 42, P.C., from which it will be noted that the word “intentionally” is not utilized in describing the act done by mistake. The word “voluntarily” carries with it the “intention” to commit the offense charged.
+No error appearing in the record, the judgment of the trial court is affirmed.
