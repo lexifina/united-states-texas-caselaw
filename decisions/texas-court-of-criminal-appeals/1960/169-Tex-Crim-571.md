@@ -1,0 +1,57 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,292"
+decided: "1960-01-13"
+citations: ["169 Tex. Crim. 571"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MORRISON, Presiding Judge, dissented."]
+parties: ["Leroy Zorn v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0571-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12148886
+cites_cases: ["307 S.W. 2d 808", "321 S.W. 2d 90"]
+---
+
+# Zorn v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for keeping and exhibiting a table for the purpose of gaming; the punishment, two years.
+The former opinion is reported in 167 Tex. Cr. Rep. 502, 321 S.W. 2d 90.
+A Texas Ranger testified that from his position in a public street about 7:30 P.M., December 10, 1957, he saw the appellant and other men 60 to 70 feet away in a well lighted building controlled and occupied by appellant, gambling with dice, and that his view of the dice game was through an opening four or five inches wide in the window drapes covering a window in said building. Three persons who were in the building when the ranger entered testified that they were and had been gambling with dice in games run there by the appellant.
+Appellant did not testify but called witnesses who described the building in which the state claims there was gambling with dice; and one witness, who was with the ranger when he said he saw gambling with dice in appellant’s building, testified that he never noticed any opening in a window of the building.
+The evidence, the sufficiency of which is not challenged, supports the conviction.
+By formal bills of exception appellant complains that the State’s Attorney in his closing argument to the jury said:
+“Could you see a pair of dice from approximately sixty feet? Take a look back there against that post. Can you see those things sitting back there? I asked Mr. Richie to put them back there: that is more than sixty feet from this end of this witness stand—of this jury box. Can you see a pair of dice?”
+He objected to such argument on the ground that it was new and unsworn testimony, that it was outside of the record and injected a new fact into the case. The objection thereto was overruled and his request that the jury be instructed not to consider it was refused, and to which appellant excepted.
+Appellant by the bills of exception further urges error in the refusal of his motion for mistrial and his motion for a new trial because the demonstration by the use of the dice at the time of such argument bolstered the testimony of Ranger Currin, and that the demonstration was not made under the same or similar conditions as those testified to by Ranger Currin.
+The bills show that before the closing argument two red dice had been placed against a white pillar at the opposite side of the court room from the jury box; and that the room was well lighted by both sunlight and electric lights.
+The cases relied upon by the appellant concern statements in argument bolstering a state’s witness, and about testimony of experiments and matters occurring out of the presence of the jury. Here, the state’s attorney in his argument sought to direct the jury’s attention to the dice exhibited in the court room, and in that portion of the argument he expressed no opinion whether he or they could see the dice. The distance between different points in the court room within the view of the jury was subject to their observation and judgment.
+It is insisted that the trial judge certified reversible error in the bills presenting appellant’s complaint of the jury argument and the exhibition of the dice in connection with said argument.
+Where this court is in as favorable a position as was the trial judge to draw a proper conclusion, it will not be bound by a certification of the trial judge of a conclusion of law or fact. Free v. State, 165 Tex. Cr. Rep. 374, 307 S.W. 2d 808, and cases cited.
+The entire matter surrounding the complaints of the appellant are before this court. From the record it appears that the jury argument and the exhibition of the dice do not warrant the conclusion that reversible error is shown.
+The judgment is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (WOODLEY, Judge.)
+
+ON APPELLANT’S motion for rehearing
+WOODLEY, Judge.
+We have re-examined appellant’s bills of exception in the light of his contention that reversible error was certified therein, and have reached the conclusion that this court is not in as favorable position as was the trial court to pass upon the matter and hence we are bound by the certification of the trial judge.
+The bills certify: (1) “that the conditions existing in the court room at the time of such demonstration by the District Attorney were that said red dice were placed against a white background in a well lighted court room illuminated both by daylight as well as artificial light, that no obstruction blocked the view of said red dice by the jury or in any manner inter-ferred with or restricted the field of vision from the front or from either side of said dice, and that the distance between the jury and said dice was undetermined and unknown except for the unsworn testimony of the District Attorney in his argument to the jury that said distance was more than sixty feet.”
+“ * * * the undisputed testimony upon the trial of this case showed that the conditions existing at the time the witness, Byron Currin, allegedly saw gaming in defendant’s house were that the witness, Byron Currin, was sitting in an automobile at night and looked across or over or behind L. T. Wilson who was sitting beside Currin in said Vehicle, and looked through a wire fence intervening between said witness and defendant’s house, and looked through a crack four or five inches wide in some drapes covering one of the windows in said house located some sixty to seventy feet away from the witness, Currin, and saw some red dice moving against a background of a green cloth covering a table in a dimly lighted room.”
+(2) That the district attorney, in his closing argument “gave new and unsworn testimony in the presence and hearing of the jury which was urged by the defendant to be prejudicial to the rights of the defendant, and over the timely objection of defense counsel;”
+(3) “ * * * that there was no evidence in the case to support the argument hereinbefore set forth.”
+(4) “ * * * that such statements by the District Attorney in his closing argument to the jury that said red dice were located in the court room more than sixty feet away from the jury constituted new and unsworn testimony on the part of the District Attorney in an effort to corroborate the State’s witness, Byron Currin, upon the most vital issue in the case and were so highly prejudicial and manifestly improper that the effect of such argument could not have been cured by the Trial Court had the Court instructed the jury not to consider said argument as requested by the defendant.”
+The trial judge witnessed the demonstration and heard the remarks in connection therewith and we are in no position to dispute his certification that such constituted unsworn testimony upon a vital issue, which was so highly prejudicial and manifestly improper that its effect could not have been cured by instruction.
+The dissenting opinion on original submission is withdrawn.
+Appellant’s motion for rehearing is granted, the order of affirmance is set aside and the judgment is reversed and the cause remanded.
+
+## Dissent (MORRISON, Presiding Judge)
+
+MORRISON, Presiding Judge
+(dissenting).
+I remain convinced that we properly disposed of this case in our original opinion and therefore respectfully dissent to a reversal of this conviction.
