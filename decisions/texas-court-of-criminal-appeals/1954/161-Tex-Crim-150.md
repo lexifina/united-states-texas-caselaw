@@ -1,0 +1,45 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,207"
+decided: "1954-12-08"
+citations: ["161 Tex. Crim. 150"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Paul Williams v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2466659
+cites_cases: ["263 S.W. 2d 776"]
+---
+
+# Williams v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for possession of whiskey in a dry area for the purpose of sale; the punishment, enhanced by reason of a former conviction for a like offense, six months in jail and a fine of $400.
+A prior conviction was reversed for failure of the trial court to charge on circumstantial evidence. Williams v. State, 263 S.W. 2d 776.
+Such a charge was given on the present trial, and the question now presented is the sufficiency of the circumstantial evidence to sustain the conviction. The evidence will be summarized.
+Dan A. Bills, Sheriff of Lamar County, secured a search warrant authorizing a search for alcoholic beverages, the premises described being a private dwelling located at 304 — 5th Street, in Paris.
+Bills and his deputy, Jack White, proceeded to such premises, secreted themselves and observed a car driven by one J. C. Wynn and in which appellant was riding. Sheriff Bills testified that he saw the car driven back of the house, and both officers said they saw it backed out of the driveway and driven off.
+Some 45 minutes later the same parties returned in the car and again drove in the driveway and to the rear of the house.
+The officers came from their hiding place and, as they arrived, appellant was on the porch and was opening the door of the house proper with a skeleton key. Wynn was still seated in the car.
+Appellant proceeded to open the door as directed by the officers, and the search warrant was handed to him.
+Twenty pint bottles of whiskey and eighteen cases of beer were found in the house or apartment which, so far as furniture was concerned, was vacant.
+The building was described as a duplex, the other part of which was occupied by some person other than appellant or Wynn.
+It was stipulated that the area was dry, and that appellant had been previously convicted of a like offense as charged in the information.
+Sheriff Bills testified to the following conversation with appellant in the house, immediately after the liquor was found.
+“I said, ‘Paul, I thought you had quit that.’ ” to which appellant replied “I did for a while.”
+White testified that appellant’s reply was “I had.”
+White testified further “I asked Paul how was business, he said business was not too good right then.” White also testified that appellant, when he went to the car, started to hand the search warrant to J. C. Wynn but Wynn said that he did not want it, it did not belong to him.
+Appellant did not testify.
+On cross-examination, Sheriff Bills was asked: “And other than what you have testified to about seeing the two men come and go is the only information you had at the time as to who had control or ownership of the premises?” and he answered “No. I had information who was going back and forth was how come me to be down there.”
+Viewing the evidence in the light most favorable to the state, which it is our duty to do in determining whether the jury’s verdict is supported by the evidence, we have reached the conclusion that the evidence is sufficient.
+The judgment is affirmed.
+
+## Dissent (MORRISON, Judge,)
+
+MORRISON, Judge,
+dissenting.
+I do not feel that the evidence in this case is sufficient to support the conviction and respectfully enter my dissent.
