@@ -1,0 +1,38 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,914"
+decided: "1960-04-27"
+citations: ["169 Tex. Crim. 431"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willie Stevenson v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12144661
+cites_cases: ["106 S.W. 2d 1056", "108 Tex. Cr. R. 131", "112 S.W. 2d 478", "131 S.W. 2d 965", "132 Tex. Cr. R. 617", "133 Tex. Cr. R. 521", "137 Tex. Cr. R. 469", "151 Tex. Cr. R. 228", "155 Tex. Cr. R. 140", "161 Tex. Cr. R. 571", "182 S.W. 1140", "207 S.W. 2d 868", "232 SW. 2d 736", "279 S.W. 2d 344", "299 S.W. 408", "310 S.W. 2d 70", "331 S.W. 2d 214", "79 Tex. Cr. R. 98", "80 S. Ct. 725"]
+---
+
+# Stevenson v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The offense is the unlawful possession of marihuana, a narcotic drug; the punishment, 5 years.
+Officer Gray, of the Narcotics Division of the Houston Police Department, testified that on May 20, 1959, he went to a garage apartment at 4315 Bastrop Street, in Harris County, where Lorenzo Jackson lived; went up the steps and through a screen door saw Lorenzo Jackson, Paley Grays, Flemin Gaskins and Willie Stevenson seated around a coffee table. Grays and Gaskins were smoking small cigarettes, the odor of which Officer Gray testified was, in his opinion, marihuana.
+Officer Gray further testified that he and his fellow officer, Stringfellow, entered the room and as they did so Officer Gray observed that appellant had a small cigarette in his hand, partly rolled, which he tossed into a box top on the coffee table which contained several small piles of what appeared to be loose marihuana; “about four piles”.
+The contents of the cigarette and the loose material were offered in evidence and were identified by chemists as marihuana.
+Appellant made a written confession to Officer Gray which was introduced in evidence, in which he stated that he resided at 8002 Peachtree Street, in Houston; that he had smoked marihauana for about six months; that “on May 20, 1959, I went to a friend of mine’s house and met some fellows who smokes marihuana at 4315 Bastrop, when all of us started rolling cigarettes and the police came to the door and arrested us and got all of the marihuana then put us in jail.”
+Also it was shown on cross-examination of Officer Gray that appellant said he owned the loose material in the box top on the table, which proved to be marihuana.
+Appellant’s first complaint is that the entry into the garage apartment without a search warrant was unlawful, and that the testimony of Officer Gray as to what he saw inside the house after he went upstairs was inadmissible.
+When the cigarette was offered in evidence there was no objection made on the ground of an illegal entry or search of the apartment or building.
+The same is true as to Officer Gray’s testimony as to the marihuana on the table.
+Willard Henry was with the officers and had a key to the apartment, and clothes belonging to Henry were found in the apartment.
+Appellant resided elsewhere, and is in no position to complain that the entry of the officers into the apartment building without a search warrant was unlawful.
+See Johnson v. State, 167 Tex. Cr. Rep. 598, 310 S.W. 2d 70; Paige v. State, 161 Tex. Cr. R. 571, 279 S.W. 2d 344; Jarquin v. State, 155 Tex. Cr. R. 140, 232 SW. 2d 736; Phariss v. State, 137 Tex. Cr. R. 469, 131 S.W. 2d 965; Ware v. State, 151 Tex. Cr. R. 228 , 207 S.W. 2d 868; Taylor v. State, 132 Tex. Cr. R. 617, 106 S.W. 2d 1056; Williams v. State, 168 Tex. Cr. Rep. 643, 331 S.W. 2d 214.
+We are not unmindful of the recent decisions of the United States Supreme Court holding that under Rule 41(e), Federal Rules of Criminal Procedure, 18 U.S.C.A., anyone legitimately on the premises where a search occurs may challenge its legality by way of a motion to suppress, when its fruits are proposed to be used against him. Jones v. U.S., decided March 28, 1960. 80 S. Ct. 725.
+The rule so announced is not here controlling, both because motions to suppress are foreign to our procedure, and because the record does not show that the entry of the apartment by the officers without a search warrant was unlawful. So far as the record before us shows, the officers may have themselves been invitees.
+Another claim for reversal is the contention that the warning preceding the confession was not in compliance with Art. 727 V.A.C.C.P. because it provides that the statement may be used in evidence against appellant. It is urged that the word will should have been used instead of may.
+Art. 727 V.A.C.C.P. itself uses the word “may”, and the warning given appellant was in strict compliance with the statute.
+The remaining complaint is that the trial judge declined to charge on circumstantial evidence. The confession obviated the necessity of such charge, if the direct evidence was not otherwise sufficient. Davis v. State, 133 Tex. Cr. R. 521, 112 S.W. 2d 478; Sullenger v. State, 79 Tex. Cr. R. 98, 182 S.W. 1140; Thomas v. State, 108 Tex. Cr. R. 131, 299 S.W. 408.
+The judgment is affirmed.
