@@ -1,0 +1,50 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,006"
+decided: "1954-06-09"
+citations: ["160 Tex. Crim. 432"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clara Mayberry v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2472792
+cites_cases: ["159 Texas Cr. Rep. 352", "208 S.W. 516", "264 S.W. 2d 100"]
+---
+
+# Mayberry v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction for abortion, with punishment assessed at five years in the penitentiary.
+The indictment alleged, in effect, the commission of an abortion upon Ruth Knight, with her consent, by administering a drug and medicine and by the use of “a certain instrument calculated to produce abortion.”
+By motion to quash, appellant challenged the sufficiency of the indictment because there was no description of the “certain instrument” that was alleged to have been used, it being insisted that the indictment thereby failed to give sufficient notice of the offense charged.
+There is no question but that the accused is entitled to notice in the indictment of the accusation against him, in order that he may prepare his defense thereto. It would have been the better practice, here, for the state to describe the instrument used, if known, and if not known, to so allege.
+Whether the failure, here, to do so vitiates the indictment must be based, of necessity, upon a determination as to whether the conviction rests upon that allegation. This calls for an examination of the facts.
+The injured party, Ruth Knight, was pregnant, according to her testimony. She had missed one monthly menstrual period. About three weeks after she had missed the monthly period, she went to the home of appellant, who agreed to perform an abortion upon her for $60. The witness (Ruth Knight) paid the fee. She described the operation as follows:
+“I will tell you what occurred when I went to the home of Clara Mayberry on or about the 3rd of July, 1953. I went into Mrs. Mayberry’s house and I went in a room in the back part of her house. I gave her $60.00 and she told me to lie on the floor. She put a red rubber tube up in me and then she pulled it out. She inserted that rubber tube into my womb, my vagina, and in my private parts. Then she took a bulb syringe and she put some medicine in the bulb syringe and she inserted that into my womb or private parts through the red rubber tube. Then she told me to get up and she gave me a pill and told me to lay down on the bed for a few minutes. She told me to go in the other room and lay down on the bed for a while and I did.”
+The operation referred to occurred on Saturday. On Sunday night following, and while the prosecuting witness was at the home of Willie Christian, the abortion occurred and she passed a fetus.
+The case was submitted to the jury upon the conjunctive allegation of the indictment — that is, that if the abortion was caused by the use of a drug and medicine and the certain instrument, they would convict.
+A general verdict of guilty was returned. There is nothing in the verdict or record indicating upon which of the two allegations above mentioned the jury predicated their finding.
+The evidence amply supports a finding that the abortion occurred as much by reason of the use of a drug and medicine as that it was caused by the use of the instrument. In fact, the instrument which the proof showed consisted of a rubber tube and bulb syringe was used as much to administer the drug as it was as an independent instrument for committing the abortion. Consequently, there is no showing here that appellant’s guilt depends upon the allegation in the indictment that the abortion was caused by a “certain instrument.”
+The sufficiency of the indictment in that particular, therefore, need not be here determined, because this conviction may rest upon the allegation of the indictment that the abortion was caused by the use of a drug and medicine, inasmuch as appellant made no complaint as to the sufficiency thereof in her motion to quash.
+Appellant contends that she was entitled to have the jury instructed affirmatively that in order to convict they were required to find that at the time of the alleged abortion, the fetus was living and was expelled alive from the womb of the prosecuting witness as a result of the acts of the appellant, and that the trial court erred in not so charging the jury.
+There is no question but that in order to constitute the crime of abortion, a live fetus must be destroyed in the womb or premature birth thereof be caused. Art. 1191, Vernon’s P. C.; Tonnahill v. State, 84 Texas Cr. R. 517, 208 S.W. 516. Of necessity, therefore, the jury should be instructed in accordance therewith.
+Here, the question is not so much whether appellant was entitled to have the jury instructed as she contends, as it is whether the charge as given under the facts here presented sufficiently covered the question.
+In submitting this case to the jury, the trial court required that in addition to the other elements they would find, in order to convict, that “the life of the fetus or embryo in the womb” was destroyed by means of the drug and medicine and instrument used.
+There is an absence of any testimony suggesting that the fetus was not alive at the time appellant was alleged to have committed the acts. In the absence of some such testimony, we are constrained to conclude that the charge as given was sufficient to protect appellant in her rights before the jury.
+The prosecuting witness was permitted to testify over appellant’s objection that at the time she went to the appellant she was then pregnant, the objection being that the witness was not competent to give such testimony, especially when she admitted that her pregnancy had existed for only six or seven weeks.
+In that connection, a doctor testified that in order to determine pregnancy over such a period of time, a laboratory test was necessary.
+In addition to the testimony heretofore mentioned, the prosecuting witness’ description of the fetus that she passed showed an advanced state of pregnancy. Therefore, the complained-of testimony of the witness that she was pregnant and passed a fetus could have added nothing to the state’s case or prejudiced the rights of the appellant.
+No reversible error appearing, the judgment is affirmed.
+Opinion approved by the court.
+
+## Rehearing (MORRISON, Judge.)
+
+ON MOTION FOR, REHEARING
+MORRISON, Judge.
+We overrule the appellant’s contention that it was incumbent upon the state to prove the kind and character of drugs or medicine that were inserted into the womb of the prosecutrix. In Welch v. State, 159 Texas Cr. Rep. 352, 264 S.W. 2d 100, we discussed the inability of the grand jury to ascertain the chemical components of the fluid used to bring about the abortion. In our original opinion we pointed out that the appellant made no complaint as to the sufficiency of that portion of the indictment which charged the use of drugs and medicine.
+The seeming inconsistency in the testimony of the prosecutrix may be explained by reference to the testimony of Dr. Dixon, who stated: “It is true that a woman can be pregnant and can continue to have the menstrual cycle for some period after conception. I have seen it continue for as long as six months following conception.” When viewed in the light of this medical testimony from the appellant’s witness, her account of the occurrence becomes plausible and understandable.
+Appellant’s motion for rehearing is overruled.
