@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1772"
+decided: "1912-05-15"
+citations: ["66 Tex. Crim. 495"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Will Flowers v. The State."]
+source_url: "https://static.case.law/tex-crim/66/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4632610
+---
+
+# Flowers v. State
+
+## Majority (DAVIDSON, Presiding Judge.)
+
+DAVIDSON, Presiding Judge.
+This conviction was for murder in the first degree, with a life sentence.
+The record is before us without a statement of facts and bills of exception. There was a motion for new trial made in the court below and overruled. One of the grounds sets up newly discovered evidence, but without the statement of facts we are unable to say whether this is newly discovered evidence or not, and if so, that it was of any significance or in fact existed. The allegation rather precludes the idea, however, that there is merit in that ground of the motion. It states that there was a witness testified in the ease named Wright, who was an ex-convict, and, therefore, he was incompetent; but further states in the motion that this was brought to light by the prosecuting attorney for the State by procuring a full pardon for the witness Wright, whose testimony was wanted in a companion ease to this of Bobison v. State; that Bobison was charged as a principal in the murder with defendant for the killing of Otto Kalkhoff. If Wright in fact was an ex-convict and had been pardoned- by the Governor for the purpose of testifying in these cases, he was not a incompetent witness.
+The other ground of the motion is to the effect that appellant had employed counsel to represent him, and the court summoned a special venire of 104 jurymen and set the case for December 4. It is further alleged that the court not having learned that the defendant was not represented by counsel until the morning of the trial, he immediately appointed attorneys E. E. Hunt and C. D. Turner to represent appellant. neither of said attorneys were sufficiently informed of the testimony of their own witnesses and the time was not sufficient for the purpose of securing defendant a fair trial. This is alleged as a ground of the motion, but is not verified in any manner by bill of exceptions or otherwise than by the statement of the defendant under oath. This is not sufficient, and besides it was made a ground of the motion for new trial instead of demanding sufficient time if it was needed to prepare for trial at -the time of the announcement.
+The judgment is affirmed.
+Affirmed.
