@@ -1,0 +1,21 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1040"
+decided: "1896-05-20"
+citations: ["36 Tex. Crim. 115"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["West Cochran v. The State."]
+source_url: "https://static.case.law/tex-crim/36/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2360330
+---
+
+# Cochran v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant was convicted of a misdemeanor,, and fined $10, and prosecutes this appeal. The record in this case fails-to show that the jury which tried defendant were sworn. By the decisions of this court this is essential. See, Berry v. State, 10 Tex. Crim. App., 315; Dresch v. State, 14 Tex. Crim. App., 175; McHenry v. State, Id., 209; Curiel v. State, 20 Tex. Crim. App., 130; Kelley v. State, 13 Tex. Crim. App., 158. The evidence in this case showed that the-animal in question, when taken by the appellant, was saddled and bridled, and hitched near a church, the prosecuting witness having ridden the animal there, and that the appellant unhitched said animal, and rode-it to a party in the neighborhood. The indictment in this case was framed under Article 680a (788 New Penal Code), which makes it an offense for any person to take up and use any horse, mare, etc., the property of another, without the consent of the owner thereof. The court, in this connection, charged the jury as follows: “Taking up, as used in the-law, means to take into possession.” The appellant, on this subject, asked the court to charge the jury “that the using of a horse without the consent of the owner does not constitute an offense; that there must be a taking up, and that it is not a taking up of a horse to take one that is bridled and saddled and hitched to a tree and ride it; that such act is only the using, and not the taking up, of a horse.” It will be seen from the charge asked by the appellant that his contention is that the facts in this case do not show an offense against the law under this statute. So-, far as we are aware, this question, under this particular statute, has not been before this court for adjudication. Similar language, under Article 771 (918 New Penal Code), with reference to estrays, which contains the same expression, to-wit: “taking up and using,” has been construed. That case was a decision of the court upon a recognizance which recited, that the defendant was charged with unlawfully using an estray horse, without complying with the law regulating estrays. The court says: “There is no such offense as this known to our Penal Code. We have a statute which creates, defines, and punishes the offense of taking up- and using or otherwise disposing of an animal coming within the meaning of an estray, without complying with the laws regulating estrays. * * * In order to make out this offense, it is necessary that the accused should both take up and' use the estray. These words being conjunctively employed in the Code, and the offense being entirely of statutory creation, the mere using of an estray horse is no offense; and it may be very innocently done if the animal be obtained in good faith after it had been taken up by some other person.” See, Davis v. State, 30 Texas, 352. Article 680a (New Penal Code, Art. 788), uses precisely the same expression, to-wit: “taking up and using,” and it was evidently intended to cover a character of offense not embraced in the estray law, and provided against the taking up and using an animal other than an estray. “Taking up” an animal, such as a horse, etc., in Texas, among stock men, has a well-defined meaning, and apprehends that the animal is running loose on the range. Besides, as we have seen, this very term has been defined by the courts of'this State, and as used in this statute it has such definite meaning,, and is intended to prevent the taking up and using of such animals as are loose and not confined in actual possession, as was the horse in question in this case. In our opinion, therefore, the chargeof the court on this subject should not have been given, and that asked by the appellant should have been presented to the jury. The judgment of the lower court is reversed, and the cause remanded.
+Reversed and Remanded.
