@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "24134"
+decided: "1948-11-03"
+citations: ["152 Tex. Crim. 395", "214 S.W.2d 469"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willie Hodge v. State."]
+source_url: "https://static.case.law/tex-crim/152/cases/0395-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2594181
+cites_cases: ["112 Tex. Cr. R. 250", "112 Tex.Cr.R. 250", "112 Tex.Cr.R. 533", "114 Tex. Cr. R. 187", "114 Tex.Cr.R. 187", "117 Tex. Cr. R. 335", "117 Tex.Cr.R. 335", "120 Tex. Cr. R. 260", "120 Tex.Cr.R. 260", "121 Tex. Cr. R. 190", "121 Tex.Cr.R. 190", "16 S. W. (2d) 244", "16 S.W.2d 244", "17 S. W. (2d) 1050", "17 S.W.2d 1050", "23 S. W. (2d) 1118", "23 S.W.2d 1118", "38 S. W. (2d) 83", "38 S.W.2d 85", "47 S. W. (2d) 295", "47 S.W.2d 295", "51 S. W. (2d) 334", "51 S.W.2d 334"]
+---
+
+# Hodge v. State
+
+## Majority (HAWKINS, Presiding Judge.)
+
+HAWKINS, Presiding Judge.
+Appellant was convicted for transporting intoxicating liquor in Henderson County, a dry area, and his punishment assessed by the jury at sixty days’ imprisonment in the county jail.
+It was admitted upon the trial that Henderson County was “dry area.” Appellant did not testify and offered no evidence whatever.
+Appellant’s first contention is that the evidence is not sufficient to support the conviction. The statement of facts reveals that Constable Dave McGee of Henderson County had received information (from some source unrevealed at the trial) that appellant was bootlegging, whisky at, or from, the highway “Y” near Athens, and that McGee had been given the license number of the automobile appellant was using. McGee imparted his information to Constable Charlie Fields. From a side street near the “Y” they watched. They first saw appellant drive off in a Ford car with some other parties. This was not the car whose number had been given the officer. Appellant came back and went into the Humble station at the “Y”. A few minutes later another car drove up. Appellant walked out, talked to the occupants about a minute, then got in a Chevrolet car and drove back the same way he had gone the first trip. The Chevrolet bore the license number which had been given the officer. The officers followed him on this second trip. Appellant turned off to the right of the road near an overpass. They saw him out in the weeds with a flashlight, and saw him stoop down. He then came back to the Chevrolet and got in the car. The officers then drove up and stopped appellant and took a quart of whisky, out of the car. The officers took appellant to jail and returned to the place where they had seen him in the weeds with the flashlight. There they found a sack with three quarts of whisky in it. It was not over fifteen minutes from the time they had seen appellant in the weeds with the flashlight until the officers were back there and got the three quarts. This occurred between 12:30 and 1:00 on Sunday morning.
+From the foregoing statement it appears that appellant’s contention that the evidence does not support the judgment is .not sound.
+Appellant’s second contention is that hurtful hearsay evidence was permitted to go to the jury over his objection. Bills of exception numbers six and seven present this complaint, and further show that appellant did everything in his power to keep such hearsay testimony from the jury. The officers had no search warrant, and the objectionable evidence came into the case in the State’s effort to show probable cause existed for the search of the car.
+Bill of exception number six reveals that when Officer McGee testified about getting the whisky from the car appellant objected to the search in the absence of a search warrant, and the witness started to tell what information he had. At this point appellant objected to the witness testifying to hearsay testimony in the presence of the jury, and requested that the jury be retired, which was done. The witness testified before the court on the question of probable cause. The jury was then returned to the jury box and the witness, in the presence of the jury, testified as follows:
+“* * * I had evidence he (appellant) was delivering a quart of whisky at that time in that ear is why I shook him down. * * * I had the license number, and I will tell it just like it is. * * * I had information that he was transporting whisky in this car. * * *”
+Appellant objected to all of this testimony on the ground that same was hearsay and highly prejudicial. The objection was overruled and exception properly reserved.
+Bill of exception number seven shows the same procedure as to officer Fields. After Fields testified on the issue of probable cause in the absence of the jury he was permitted, over objection, to testify before the jury as follows:
+“* * * I saw the defendant out at the ‘Y.’ Dave McGee asked me to go with him. He wanted me to go out there with him and watch him (the defendant). He told me he had information that Willie Hodge was selling whisky out there. He told me he was hauling, and told me the car number.”
+The same objections were interposed to this evidence as were lodged to McGee’s, but were overruled, and exception reserved.
+It will be remembered that appellant did not testify. Neither he nor any other witness controverted the facts upon which the State relied to show probable cause for search of the car. The law is stated very clearly in Webster v. State, 114 Tex. Cr. R. 187, 23 S. W. (2d) 1118, as follows:
+“* * * Where the facts relied upon to establish probable cause are uncontroverted, their sufficiency is a question of law for the court. Whether such facts exist in any particular case is a question of fact. When the facts are in controversy, the question should be submitted to the jury under proper instructions. McNeal v. State, 112 Tex. Cr. Rep. 533, 17 S. W. (2d) 1050. * * *”
+In that case the searching officer testified before the jury over objection what he had been told by another party. The judgment was reversed because such hearsay evidence went before the jury. To the same effect are Weddle v. State, 112 Tex. Cr. R. 250, 16 S. W. (2d) 244; Weaver v. State, 117 Tex. Cr. R. 335, 38 S. W. (2d) 83; Sealey v. State, 120 Tex. Cr. R. 260, 47 S. W. (2d) 295; Maxwell v. State, 121 Tex. Cr. R. 190, 51 S. W. (2d) 334, and other cases cited in the various cases mentioned. The evidence as to the existence of probable cause being uncontroverted it was a question of law for the court to decide whether probable cause was shown. The court should have excluded the hearsay testimony from the jury upon objection thereto being urged. Its harmful effect is apparent, and calls for a reversal of the judgment.
+Our disposition of the case makes it unnecessary to discuss appellant’s other point, — that the prosecuting attorney should not have been permitted to discuss the hearsay evidence. Such evidence being in the record it was a proper subject for discussion. Doubtless it would not have been discussed had the court excluded it from the jury. The argument intensified the harmful effect of its erroneous receipt.
+The judgment is reversed and the cause remanded.
