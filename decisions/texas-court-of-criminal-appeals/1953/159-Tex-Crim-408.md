@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,672"
+decided: "1953-12-09"
+citations: ["159 Tex. Crim. 408"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dawson A. Parker v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0408-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2474284
+---
+
+# Parker v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The offense is driving while intoxicated as a subsequent offense under Art. 802b, V.A.P.C.; the punishment, a fine of $650.
+Police Officer Price testified that he saw appellant about 1:30 A.M. on October 2, 1952, driving an automobile along the wrong side of the Gulf Freeway, a public road in Harris County, Texas; that after stopping him, he observed that he staggered as he walked; that he mumbled and couldn’t talk plainly; and that his eyes were about half closed and “watery.” He further testified that appellant “smelled awfully strong of some sort of intoxicating beverage;” that he “did smell alcoholic beverages on his breath;” and that appellant was intoxicated at that time.
+Police Officer Bertrand testified that while he was with Police Officer Price on October 2, 1952, they saw appellant driving his automobile on the wrong side of the Gulf Freeway; that they turned on the red light, siren, and spotlight on their patrol car in an effort to stop appellant, all of which appellant ignored for some distance; that when appellant got out of his car he staggered and could not talk plainly; that he smelled alcohol on appellant’s breath and that “he (appellant) was under the influence of intoxicating alcohol.”
+The alleged prior conviction was properly shown.
+Appellant testified and denied that he had been drinking that night, or that he was intoxicated. He introduced four witnesses who had seen appellant at intervals from 7 P.M. on October 1, until 12:30 A.M. on October 2, and each testified that appellant had not been drinking and was not intoxicated.
+The jury resolved the issue of intoxication against appellant and we find the evidence sufficient to sustain the conviction.
+By informal Bill of Exception No. 1, appellant complains of the refusal of the court to permit him to question one of the state’s witnesses about his suspension from the police department shortly after this offense was alleged to have occurred. There is no connection shown between the suspension and the commission of the alleged offense, thus no error is shown.
+The judgment of the trial court is affirmed.
+Opinion approved by the Court.
