@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,117"
+decided: "1962-01-17"
+citations: ["172 Tex. Crim. 112"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donald Wayne Burns v. State"]
+source_url: "https://static.case.law/tex-crim/172/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2637723
+cites_cases: ["158 Texas Cr. Rep. 359", "162 Texas Cr. Rep. 314", "255 S.W. 2d 1014", "284 S.W. 2d 356"]
+---
+
+# Burns v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for robbery with firearms; the punishment, fifty years.
+Grace Box testified that on October 14, while she was alone in the liquor store which she and her husband operated, the appellant, whom she identified while testifying, came in about 1:30 P.M. She showed him various merchandise, but he said the prices were too high, and when another person came in the appellant left saying he would return. As the second customer left, the appellant returned to make a purchase. When she started to place the merchandise in a sack, the appellant pointed a pistol toward her, saying for her to put all the money in the sack instead of the merchandise. She put approximately $1650 in money in the sack against her will and without her consent, because she was in fear of bodily injury and her life. Then appellant ordered her into a room in the back. Through a glass window in the door of the back room, she observed the appellant return to the front of the store where she “got a good look at him” as he hesitated for a brief time, walked to the center of the street, and then ran. She immediately notified the police of the robbery.
+On October 30, the appellant was apprehended by the officers in Houston while carrying a loaded .32 revolver in the center of his back underneath his shirt and belt. Shortly thereafter he was returned to Dallas. The .32 revolver was introduced in evidence on the trial.
+The state introduced in evidence a written statement signed by the appellant on November 1, 1960, and it reads in part as follows:
+“My name is Donald Wayne Burns. * * * On October 14th of this year I went to a gun shop on South Ervay Street and bought a .32 revolver. I paid $25.00 for this gun, then rode the Ervay bus to South Dallas, got off on Colonial and walked over to S. Lamar Street near Hatcher, I had planned to rob one of the liquor stores at this location. I used to live in this part of town and knew the area pretty good and thought I could get away easier. When I got there I saw a woman in Pat’s Liquor Store by herself, so I decided to rob it. I went in and there was a colored man in the store. I left and came back and he was still there. I think he bought a case of beer. After he left I told the woman to give me a fifth of Ten High. When she got the whisky I pulled the gun on her and told her to put the money in the sack and forget about the whisky. She put the money in the sack, then I locked her in the back room and left, walked over and caught the bus and rode back to town. I got about $1600.00 out of this robbery.”
+The appellant did not testify but recalled the state’s witness Grace Box who testified that shortly after the robbery she “picked out a man” in á police line-up, and that he was not the appellant. On further examination by the state, she identified the appellant as the person who robbed her. She also testified that the gun introduced in evidence was “exactly like it” — the one used by appellant during the robbery.
+Appellant insists that his arrest was illegal, and the search of his person resulting in the finding of the revolver was invalid, and the introduction of the revolver in evidence was error.
+No objection was made at the time the evidence was introduced showing the search and finding of the revolver on appellant’s person on the ground that it was an unlawful search. No error is presented. Haykel v. State, 158 Texas Cr. Rep. 359, 255 S.W. 2d 1014; Outley v. State, 162 Texas Cr. Rep. 314, 284 S.W. 2d 356.
+Appellant complains of the introduction of his written statement in evidence. He objected thereto on the grounds that he did not read it, and that it was signed under duress.
+There is no. evidence to support his objection. The testimony of Officer Leavelle shows that he gave the appellant the statutory warning before the appellant made the written statement to him, and that the appellant read the statement and then signed it. Officer Leavelle denied making any promises or threats to the appellant during the making of the statement. No error appears in the admission of the written statement in evidence.
+The evidence is sufficient to support the conviction, and no error appearing, the judgment is affirmed.
+Opinion approved by the Court.
