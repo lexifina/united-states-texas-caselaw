@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2837"
+decided: "1913-12-10"
+citations: ["72 Tex. Crim. 178"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wm. Johnson v. The State."]
+source_url: "https://static.case.law/tex-crim/72/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4680375
+---
+
+# Johnson v. State
+
+## Majority (HARPER, Judge.)
+
+HARPER, Judge.
+The appellant in this case was indicted, charged with murder, at the Fall Term, 1901, of the District Court of Smith County, alleging that on the 1st day of October, 1901, with malice aforethought, he did kill John Woods by shooting him with a pistol. He was not located, nor arrested, until October, 1912, eleven years after the indictment was returned. He was not placed on trial until in July of this year, the verdict being returned on July 16, 1913, the jury returning the following verdict: “We, the jury, find the defendant guilty of murder,” assessing no punishment. The court, under this verdict, sentenced appellant to penal servitude in the penitentiary for any term of years not less than five nor longer than his natural life. Appellant, at the time the charge was given, when the verdict was returned, and in the motion for a new trial, objected to the action of the court in his charge authorizing the return of this character of verdict, and to the action of the jury in returning a verdict in which no penalty is assessed; and to the action of the court in itself assessing the punishment to be undergone by appellant. In the case of Ex parte Randell Marshall, recently decided, but not yet reported, we held the indeterminate sentence law, as passed by the regular session of the Thirty-third Legislature, void for the reasons stated in appellant’s sixth bill of exceptions; and while in a number of other bills of exceptions appellant states a number of other reasons why he thinks the law void, we do not deem it necessary to discuss these other grounds. And having held the first indeterminate sentence law void, appellant had the right, as contended by him in his third bill of exceptions, to have the jury, and not the trial judge, assess the punishment he should undergo for this violation of the law. Article 750 of the Code of Criminal Procedure (1911 Revision).
+Again, appellant contends that, as he was charged with having committed an offense, murder, in 1901, when the laws of this State prescribed a different punishment for murder committed upon express malice from that committed upon implied malice, he had a right to have the jury determine whether, if appellant was guilty of murder, he had committed it upon express malice or implied malice. As the law now in force assesses the same punishment for murder, whether committed upon express or implied malice, and the punishment may be more severe for murder committed upon implied malice, than could have been inflicted when he is alleged to have committed the crime, then he had the right to have the jury determine whether or not the offense of murder was committed upon express or implied malice, and if they determined it was committed upon implied malice, to have them instructed to inflict the punishment in accordance with the law in force at the time he is alleged to have committed the offense. This contention is the law of this State, and the court should have so instructed the jury. Articles 15, 16, 17 and 18 of the Penal Code.
+On the law of self-defense, in paragraph 12 of the charge, the court required the jury to find affirmatively that at the time he shot, he believed “he had been actually assaulted, and struck in the head with a hoe, and that he shot the deceased, in good faith,” etc., then he would be justified in shooting deceased. The law of this State does not authorize the court to instruct the jury that they must find that the defendant “acted in good faith,” under such circumstances, nor that they must find the facts affirmatively. The law is, if the jury believe, or have a reasonable doubt that such state of facts may have existed, then the defendant would be entitled to act.
+The other matters in the record before us need not be discussed as they present no error, but on account of the errors above referred to, the case is reversed and remanded.
+Reversed and remanded.
