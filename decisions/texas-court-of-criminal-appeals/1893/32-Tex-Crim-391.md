@@ -1,0 +1,51 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "606"
+decided: "1893-11-04"
+citations: ["32 Tex. Crim. 391"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ed Nichols v. The State."]
+source_url: "https://static.case.law/tex-crim/32/cases/0391-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4473933
+cites_cases: ["1 Bush, 145", "1 Neb., 194", "1 Neb., 195", "19 Fed. Rep., 304", "19 N. Y., 117", "29 Wis., 407", "34 Minn., 318", "36 Barb., 192", "39 N. J. Law, 509", "42 Mo., 592", "50 N. Y., 507", "50 N. Y., 564", "61 Am. Dec., 339", "67 N. Y., 572", "73 Mo., 87", "81 Pa. St., 438"]
+---
+
+# Nichols v. State
+
+## Majority (SIMKINS, Judge.)
+
+SIMKINS, Judge.
+Appellant, a negro, was convicted of rape of a white girl between 10 and 11 years of age. His punishment was fixed at death, from which he appeals.
+1. Appellant complains, that the court erred in permitting Sheriff White to detail the statements made to him by defendant, who was under arrest, and was not cautioned as required by law. There was no error. In his statements before the jury the witness shows that he had duly cautioned the defendant. The defendant did not deny this before the jury, or raise any issue before them as to its truth.
+2. Appellant further complains, that the court erred in permitting Anna Straka, the injured girl, to testify, as she did not show that she understood the nature of an oath. There was no exception taken to the ruling of the court that the witness was competent. And we think from the answers of the witness she was clearly competent to testify.
+3. The defense was an alibi, but the testimony to sustain it was not only weak and unsatisfactory, but signally fails to rebut the inculpatory facts.
+The evidence clearly sustains the charge. The appellant, a large negro man, waylays and seizes the little girl as she was going along the road to her home in the evening, and finding her too young and small to successfully accomplish his purpose, uses his hand to assist him, and tears her parts asunder. When released, she crawls, bleeding and suffering, for three-quarters of a mile, where she is found by her father. The punishment assessed is death. The law is humane.
+The judgment is affirmed.
+Affirmed.
+Judges all present and concurring.
+
+## Rehearing (SIMKINS, Judge.)
+
+ON MOTION FOR REHEARING.
+SIMKINS, Judge.
+Appellant asks a rehearing, upon the grounds, first, that it was error to permit Sheriff White’s testimony to go to the jury;, second, that the Act of 1891, under which appellant was tried, is unconstitutional and void.
+1. As to the first ground. The record shows, that before Sheriff White was allowed to testify the jury were withdrawn, and the court investigated the circumstances under which the confession was made. That appellant stated that he had not sent Meredith for Mr. White, but that Mr. White asked him if he was guilty, and told him it was best for him to tell the judge he was guilty, but that he had told Sheriff White that he had done nothing. Mr. White denied this entire statement absolutely, and stated he had used no persuasion, promise, or force, and had cautioned him that what he said would be used against him, and could not be used for him. On the jury being brought into court, Sheriff White was placed upon the stand, and testified substantially as he had stated it to the court. The appellant did not take the stand or introduce any evidence before the jury in any way questioning the evidence of witness-White. Had he done so, it would have become the duty of the court to have instructed the jury to disregard the confession, if they believed that it had not been voluntarily made after being duly cautioned. There was no error in admitting the testimony.
+2. Appellant insists that this case should be reversed and remanded, upon the ground that the Act of April 13, 1891, changing the age of consent from ten to twelve years, is unconstitutional and. void, in that the title to the act does not, in compliance with article 3, section 35, express-the subject of the act.
+The Twentieth Legislature passed an Act, approved February 25, 1887,. more fully defining rape, under the following title: “An act to amend article 528, chapter 7, title 15, of the Penal Code.” The change made-was extending the protection of the law to females so mentally diseased as to have no will.
+The Twenty-second Legislature amended this act, by an amendatory Act, approved April 13, 1891, with the following title: “An Act to amend article 528, chapter 7, title 15, of the Penal Code of the State of Texas, as amended by the Act of the Twentieth Legislature, approved February 25, 1887.”
+Article 3, section 35, of the Constitution, declares: “No bill (except appropriation bills) shall contain more than one subject, which shall be expressed in its title;” * * *' and section 36, of same article, provides, that no law shall be revived or amended by reference to its title, but in such case the act revived or section amended shall be re-enacted and published at length.
+The objection of appellant is, that the title of the amendatory Act of April 13, 1891, is fatally defective in not stating the subject of the amendment, to-wit, the definition of rape, “ and it is not sufficient to merely state the article, chapter, and title of the Penal Code of Texas which the act purports to amend.”
+If there was ever any force in this objection, as applied to amendments of the Criminal Codes of Texas, it is now no longer an open question-Ever since the enactment of the Penal Code and Code of Criminal Procedure, successive Legislatures, with this provision or a similar one before them, have amended these codes by acts, the titles of which only gave the article, chapter, title, and name of the code sought to be amended.
+They have recognized “ the Penal Code” as a single act, designed to embrace all offenses against the laws, complete within itself, arranged and classified into titles, chapters, and articles, and have always deemed an amendment made as above stated was a sufficient compliance with the constitutional requirement, and sufficiently specified the subject sought to be amended by the act.
+If, therefore, uniform legislative construction, supported by judicial decision and recognition, can settle anything, we must hold the title of the act in question to be sufficient.
+It seems to be universally conceded, that the object of the constitutional requirement, that “ an act should express the subject in its title,” was to prevent the vicious legislation of uniting in the same bill incongruous matters, having no relation to or connection with each other, and germain to the subject of the bill as expressed in its title, operating as a surprise and fraud on the public and the Legislature itself, and facilitating the passage of bills engineered by private interests. Hence the necessity of stating in the title in what department of human affairs it proposed to act. Still the degree of particularity with which the title of an act should express the subject is not defined by the Constitution, and rests in the discretion of the Legislature, and when they act in the selection of a title, courts are not disposed to question its sufficiency.
+The authorities, almost without dissent, agree that this constitutional provision should receive a most liberal construction, because to require precision would needlessly embarrass legislation. 4 Seld., 241; 19 N. Y., 117; 50 N. Y., 564; 1 Neb., 194; Cool. Const. Lim., 174. Thus it is held, that if the title fairly gives notice so as to lead to inquiry, it is sufficient. 81 Pa. St., 438; 29 Wis., 407. And if the title be unmeaning as to purpose, yet distinct as to subject, it is sufficiant. 36 Barb., 192; 1 Neb., 194. In Texas, where this objection has been often urged against criminal and civil acts, the doctrine has been repeatedly laid down, in accord with the genera] current of authority, that the provisions of a statute are to be sustained as long as thejr are of the same nature and come legitimately under the general subject expressed in the title. Stone v. Brown, 54 Texas, 342; Giddings v. San Antonio, 47 Texas, 555; Breen v. Railway, 45 Texas, 306; Austin v. Railway, 45 Texas, 267; Albrecht’s case, 8 Texas Cr. App., 216; Day Co. v. The State, 68 Texas, 542. In Gunter v. Texas Land and Cattle Company, 82 Texas, 503, it may be inferred that the court would have sustained the law had its title read, “An act to amend title 3, articles 9 and 10, of the Revised Statutes of Texas.”
+But the considerations that would require a more specific designation of subject in the title of an act apply almost entirely to civil matters, and .have but little, if any, application to criminal law. Such law must be always general in its nature, affecting all alike. It can not be ex post facto, and man rarely be made the vehicle of private interest. While, therefore, it is true the constitutional provision controls both criminal and civil laws in their enactment or amendment, and the subject of every separate criminal act should be. stated in its title, yet when criminal law is codified into a system, complete in itself, with a definite name fixed in the law itself, relating to one subject—crime—there could not, in reason, be a more distinct expression of the subject in the title of the act than a statement of .the article, chapter, title, and name of the code to be amended.
+In Hasselmeyer’s case the very objection here considered was passed upon by this court, and the title of the amendatory act, which only read “An act to amend article 766 of the Penal Code,” was held sufficient.
+So in the McCracken case, 42 Texas, 385, in replying to the same objection, that the object of the amendatory act was not expressed in its title, Roberts, Chief Justice, says: “It (the Penal Code) has been amended continually ever since its adoption by referring to it in the titles of the amendatory acts as the Penal Code, not meaning thereby generally or a body of criminal laws in force in the State, but specially the Penal Code that was adopted as one act of the Legislature, approved August 26, 1856.”
+The motion for rehearing is overruled.
+Motion overruled.
+Judges all present and concurring.
