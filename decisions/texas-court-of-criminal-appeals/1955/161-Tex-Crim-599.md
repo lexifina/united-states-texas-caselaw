@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,641"
+decided: "1955-06-01"
+citations: ["161 Tex. Crim. 599"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Orange Dan Linsey v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0599-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2464630
+cites_cases: ["254 S.W. 2d 130", "259 S.W. 2d 225"]
+---
+
+# Linsey v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Upon a trial before the court, no jury being demanded, appellant was convicted for carrying a pistol and was assessed a fine of $125.00.
+The evidence, viewed from the standpoint of the state, shows that shortly after midnight appellant was standing on the sidewalk in front of a “beer joint” where a disturbance was in progress, or had been. He had a loaded pistol in his hand, and was heard to say “let him come on out here for I got my heater with me.”
+The pistol was taken from him by the witness Thompson, who was “on a job for the FBI.”
+Appellant testified that he had loaned the pistol to Howard Sanders and had considered selling it to him, but changed his mind and arranged to meet Sanders at the “beer joint” or tavern, get his pistol and take it home.
+Sanders corroborated appellant’s testimony to the effect that he had delivered the pistol to appellant in the men’s room and he and appellant were leaving and were outside the beer joint when the pistol was taken from appellant’s pocket by Officer Thompson.
+If we understand appellant’s contention it is that the testimony shows without dispute that he was lawfully carrying the pistol because he was returning1 it to his home, after receiving it from Sanders, by the nearest practical route. He urges that it is not material that the trial court may have found from the disputed evidence that he had the pistol in his hand and made the statement attributed to him by the state witnesses.
+Assuming that the evidence required a finding that appellant had just received the pistol from Sanders, there is nothing upon which the court could base a finding that he was carrying it directly to his home, other than appellant’s testimony to the effect that such was his intention.
+We know of no law which would require the court or a jury to accept as true the testimony of an accused as to his purpose and intention in carrying a pistol.
+The decisions are to the contrary. See Allen v. State, 158 Texas Cr. R. 666, 259 S.W. 2d 225; Hutspeth v. State, 158 Texas Cr. R. 188, 254 S.W. 2d 130.
+The evidence is sufficient to sustain the conviction and no other question is raised.
+The judgment is affirmed.
