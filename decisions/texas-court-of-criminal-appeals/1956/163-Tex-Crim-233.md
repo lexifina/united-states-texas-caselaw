@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,228"
+decided: "1956-04-11"
+citations: ["163 Tex. Crim. 233"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Buck Cloud Bizzell v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0233-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460927
+cites_cases: ["122 Tex. Cr. R. 142", "53 S.W. 2d 1023"]
+---
+
+# Bizzell v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a conviction, upon a plea of guilty before a jury, for the offense of assault with intent to murder; the punishment, fifteen years in the penitentiary.
+In view of the disposition made of this case, a statement of the evidence is not deemed called for.
+In submitting the case to the jury, the trial court gave them no instruction whatsoever covering the law or definition of the offense of assault with intent to murder. The jury were told only that appellant had pleaded guilty to the offense charged and instructed that they would therefore find him guilty and assess his punishment at not less than two nor more than fifteen years’ confinement in the penitentiary.
+The question of suspension of sentence was also submitted.
+Nowhere in the charge did the trial court define the term “malice aforethought.”
+One of the mandatory provisions of Art. 1160, Vernon’s P.C., which denounces the offense of assault with intent to murder, is that “Upon the trial of any person for assault with intent to murder, the Court, in its charge to the jury, shall define malice aforethought and in a proper case murder without malice, and instruct the jury touching the application of the law to the facts.”
+The case of Villa v. State, 122 Tex. Cr. R. 142, 53 S.W. 2d 1023, is here directly in point and controlling. In that case, the offense being assault to murder upon a plea of guilty, we held that the charge was fundamentally erroneous in failing to incorporate a definition of malice aforethought.
+For the latest expression of this court regarding fundamental error in a charge to the jury, see Garza v. State No. 28,207, opinion delivered April 4, 1956, 162 Tex. Cr. Rep. 655.
+For the error pointed out, the judgment is reversed and the cause is remanded.
