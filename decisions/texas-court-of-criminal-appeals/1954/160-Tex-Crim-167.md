@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,009"
+decided: "1954-05-26"
+citations: ["160 Tex. Crim. 167"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Francisco Duran v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469702
+cites_cases: ["178 S.W. 506", "199 S.W. 623", "208 S.W. 528", "268 S.W. 167"]
+---
+
+# Duran v. State
+
+## Majority (GRAVES, Presiding Judge.)
+
+GRAVES, Presiding Judge.
+Appellant was convicted in the 34th Judicial District Court of El Paso County, Texas, for the offense of burglary, and his punishment was assessed at confinement in the state penitentiary for a term of two years.
+The testimony shows that at one o’clock on the night of December 20, 1953, one, Rosas, was the operator of the La Frontera Bar in the city of El Paso, Texas. He had locked the doors and closed up his establishment. As he started out he noticed the appellant near the building. Rosas got in his car, drove some distance away, stopped and watched the appellant for 10 or 15 minutes. He then went back to the building, got out of the car and warned the appellant, who was standing near the door, to go away or he would likely get into trouble. Appellant told him that he was waiting for a street car. Rosas then got back in his car, drove down the street and stopped again. Appellant was still hanging around the building. Roses then went to the police station and reported the matter, after which he returned to the building in company with certain policemen of the city of El Paso and found the bottom glass panel of the front door broken and appellant standing inside of the building. He appeared to be drunk or “hopped up.”
+Appellant offered no testimony and presents no formal or informal bills of exception and no objections to the court’s charge.
+However, he did raise in a motion in arrest of judgment the question of the validity of the indictment and the jurisdiction of the court on the alleged ground that the indictment fails to state that the same was returned into the 34th Judicial Disrict Court of El Paso County, Texas, but only states that the same was returned into the district court of El Paso County, Texas.
+Appellant also questions the indictment because he claims that same charged daytime burglary under Article 1390 of the Penal Code and the testimony had shown nighttime burglary under Article 1389, P.C.
+It is provided by Article 199, subdivisions 34, 41 and 65, of Vernon’s Revised Civil Statutes, that three district courts are provided for El Paso County and that they shall have concurrent civil and criminal jurisdiction with each other, and further provides that no grand jury shall be impaneled in the district court of said county other than that of the 34th Judicial District, unless by special order of the judge of either of the other district courts. There was no exception filed to this indictment until after the trial was had and the verdict of the jury was returned.
+Under Article 512, C.C.P., the question as to whether an indictment appears to have been presented in the proper court is a matter of form rather than of substance, and no exception having been offeréd to such form, we think it is now too late to do so. See Lindley v. State, 99 Texas Cr. R. 85, 268 S.W. 167.
+Appellant now urges that the evidence is insufficient to support the allegations in the indictment on the ground that the indictment in this case charges burglary by breaking, and the evidence reflects a burglary at nighttime by breaking. We think that since this building was not a private residence, we can be governed by the holding in the case of McNew v. State, 84 Texas Cr. R. 594, 208 S.W. 528, wherein it was held that an indictment charging burglary of a building not a private residence (which alleged that the accused broke and entered but did not allege whether it was daytime or nighttime burglary) charged nighttime burglary, and the court tried the case upon such theory. See Howard v. State, 77 Texas Cr. R. 185, 178 S.W. 506.
+Appellant suggests that the testimony is insufficient because it failed to show that there was anything on the premises of any value subject to be stolen. Under the circumstances herein, we think it was not necessary to show that there were articles that appellant could have stolen. The case of Love v. State, 82 Texas Cr. R. 411, 199 S.W. 623, seems to be in point herein. The intent with which the appellant broke into the building was for the jury under the circumstances even though he may not have stolen anything at the time of such breaking.
+Appellant offers the proposition of his intoxication at the time he was found within the building. Under the provisions of Art. 36, P.C., the intoxication of an accused is no defense to crime.
+We think this case has been properly tried, and finding no error in the record, the judgment is affirmed.
