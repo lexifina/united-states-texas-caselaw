@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,408"
+decided: "1956-06-27"
+citations: ["163 Tex. Crim. 482"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Byron Hickle Patterson v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0482-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462306
+cites_cases: ["150 Tex. Cr. R. 38", "161 Tex. Cr. R. 53", "162 Tex. Cr. R. 206", "162 Tex. Cr. R. 424", "198 S.W. 2d 264", "274 S.W. 2d 712", "283 S.W. 2d 946", "285 S.W. 2d 743"]
+---
+
+# Patterson v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for negligent homicide in the second degree; the punishment, confinement in jail for one year.
+The unlawful act relied upon by the state was the violation of Art. 801(A), V.A.P.C., in operating a motor vehicle upon the left-hand side of the highway when the same was not clear and unobstructed for a distance of at least fifty yards ahead.
+The evidence is undisputed that the deceased died as the result of injuries sustained in a collision between an automobile in which he was riding and an automobile driven by the appellant. The testimony of the state’s witnesses shows that, at the time of the collision, the appellant was operating his automobile upon his left-hand side of the highway.
+As a witness in his own behalf, appellant testified that, just prior to the collision, his car “suddenly lurched toward the left and that he lost control somewa/it,due to the jerk of the wheel;” that the last he remembered “he was jerking the wheel toward the right.” He further testified that he did not know for sure what happened but that he did not drive upon the left side of the road intentionally.
+Appellant insists that the evidence is insufficient to support the conviction because the state failed to prove that he intentionally drove his automobile upon the left-hand side of the highway, and relies upon the case of Harris v. State, 150 Tex. Cr. R. 38, 198 S.W. 2d 264, in support of his contention.
+The conclusion reached in the opinion in the Harris case is not applicable to the facts in the present case. In the Harris case, the unlawful act relied upon by the state was the commission of an assault upon the deceased. The court’s charge in the Harris case included within the definition of an assault the intent to injure. The case was reversed because the evidence was insufficient to support the jury’s finding that the accused fired the pistol with the intent to injure the deceased.
+In the instant case, the intent to drive upon the left-hand side of the highway is not an essential element of the offense under Art. 801(A), supra.
+In the recent case of Kirkland v. State, 162 Tex. Cr. R. 424, 285 S.W. 2d 743, the unlawful act relied upon by the state in a prosecution for negligent homicide in the second degree was the violation of Art. 6701d, Sec. 55, Vernon’s Ann. Civ. St., in passing a motor vehicle travelling in the same direction on the right side, by driving off the pavement or main-travelled portion of the highway. In that case, we held that a claim of the accused that he did not intend to pass the overtaken vehicle on the right would constitute no defense and that the court did not err in refusing to submit to the jury the question of his intention as an affirmative defense.
+Appellant’s contention that the evidence is insufficient to support the conviction is overruled.
+In his brief, appellant complains of the refusal of the court to declare a mistrial following a certain question propounded to him on cross-examination by state’s counsel. Such complaint is not presented by a formal bill of exception but in the statement of facts which is in narrative form. In the absence of a statement of facts in question and answer form, we are not authorized to consider, as an informal bill of exception, appellant’s complaint therein to the refusal of the court to declare a mistrial. Redding v. State, 161 Tex. Cr. R. 53, 274 S.W. 2d 712; and Bobbitt v. State, 162 Tex. Cr. R. 206, 283 S.W. 2d 946.
+Finding the evidence sufficient to support the conviction and no reversible error appearing in the record, the judgment is affirmed.
+Opinion approved by the Court.
