@@ -1,0 +1,66 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,920"
+decided: "1954-05-05"
+citations: ["160 Tex. Crim. 98"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Patsy Jean Montello v. State"]
+source_url: "https://static.case.law/tex-crim/160/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2468836
+cites_cases: ["150 Texas Cr. Rep. 161", "150 Texas Cr. Rep. 421", "152 Texas Cr. Rep. 618", "157 Texas Cr. Rep. 323", "199 S.W. 2d 168", "201 S.W. 2d 823", "216 S.W. 2d 187", "248 S.W. 2d 748"]
+---
+
+# Montello v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for murder; the punishment, 99 years in the penitentiary.
+Appellant killed her husband by shooting him in the head with a .22 caliber pistol fired at close range. She signed a confession which was introduced in evidence and there was an eye witness to the shooting.
+The jury rejected appellant’s plea of self-defense raised by her testimony as a witness in her own behalf, and the sufficiency of the evidence is not questioned.
+The sole contention raised in this appeal is that the trial court erred in overruling appellant’s motion for new trial based upon jury misconduct and the receipt of other testimony during its deliberation.
+Bill No. 1 complains that though the court had instructed the jury not to consider the remarks of counsel for the state, to the effect that Houston was the murder capital of the world and it was the jury’s duty to do something about these horrible crimes, that after the jury retired, there was some conversation about the fact that Houston was the murder capital of the world.
+Upon the hearing on the motion, Judge King, who presided at the trial, and Assistant District Attorney Morris testified that no such argument was made by the attorney for the state.
+It is shown that in the jury room there was some conversation or mention of Houston being the murder capital of the world. However, there is no testimony that there was any discussion or mention of the jury’s responsibility “to do something about these horrible crimes.”
+We find no reversible error in this bill.
+In Bill No. 2 the jury misconduct claimed is that while deliberating the foreman brought to the attention of the jury that he had read a newspaper article which in substance said that the average person that received a life sentence served an average of 8 years “prior to the time they were pardoned by the Parole Board of the State of Texas.”
+F. W. Montgomery was foreman of the jury. He was called as a witness by appellant’s counsel and testified, in answer to his interrogation, in part as follows:
+“Q. Mr. Montgomery, after you went into the jury room did you discuss with some of the other members of the jury that you had read an article in a newspaper which in substance said that the average person that received a life sentence, that they served on an average eight years prior to the time they were pardoned by the Parole Board of the State of Texas?
+“Mr. Gaboon: We object as leading and suggestive.
+“The Court: Overruled.
+“A. Yes. We did.
+“Q. Mr. Montgomery, approximately how long did that discussion go on? A. It was brought up, but there wasn’t any appreciable discussion on it.
+“Q. Could you say how many times it was brought up, approximately? A. I’d say two or three times.”
+“Q. You brought it up and you discussed it or you told others about the matter that you had read in the newspapers? A. That’s right.”
+This was followed immediately with the following on recross examination:
+“Q. When that was brought up I will ask you whether or not someone remonstrated and said that’s not our problem?
+“Mr. Gordon: I object.
+“The Court: Overruled.
+“Q. Was that said, ‘That’s not our trouble,’ and the discussion then.ceased? A. There were three of them that said that.
+“Q. And after that did you ever consider that for any purpose in arriving at your verdict? A. No sir.”
+All of the jurors testified, but nothing is found in their testimony which appears more advantageous to appellant’s claim of jury misconduct.
+As pointed out by the trial judge during the hearing, the foreman did not claim to have personal knowledge as to the average time in which a life sentence was served and made no such declaration as a fact. He said he had seen in a newspaper article that the average was eight years.
+Appellant was unsuccessful in obtaining answer from any of the jurors that their verdict as to punishment was in any way influenced or affected by the discussion or mention of the newspaper article.
+It is common knowledge that we have in this state the indeterminate sentence law; that inmates of the penitentiaries of this state may receive commutation of time for good conduct, and may receive credits for overtime and special necessary and essential work.
+It is also common knowledge that we have in Texas a Board of Pardons and Paroles and that, together with the Governor, they exercise the power vested in them of granting clemency in the way of pardons, paroles and commutation of punishment.
+We find no such receipt of new evidence or misconduct of the jury in regard to the discussion of the newspaper article as to call for reversal.
+This holding finds support in Plasentilla v. State, 152 Texas Cr. Rep. 618, 216 S.W. 2d 187, where there was a discussion in the jury room about the fact that if the defendant got 25 years he would serve only 4 or 5 before being pardoned, and if he got 50 years he would probably serve 15 or 20 years before being pardoned.
+In affirming the conviction, the opinion quoted with approval from Walker v. State, 150 Texas Cr. Rep. 421, 201 S.W. 2d 823, as follows:
+“It is a matter of common knowledge that prisoners are credited with extra time for good behavior, and the statement of Mr. Bridwell was in the nature of an argument which might arise in most any case where the jury was attempting to reach an agreement as to the punishment where the jurors entertained different ideas. The trial judge, after hearing the evidence of Mr. Culpepper, declined to grant a new trial. He was justified in concluding that if the foreman expressed the opinion that if appellant behaved himself he would probably get out in fourteen or sixteen months, on a two years sentence, it was not misconduct demanding a new trial.”
+On rehearing we said:
+“A juror after all is but a human being with the accumulation of knowledge that usually comes to one through the years of living and undergoing experiences. He cannot be made an automaton and divested of matters that have come under his observation and are of common knowledge to most fairly well-informed persons. True it is that certain experiences peculiar to him of which he has personal knowledge, if instances thereof be cited to his fellow members, such recitation would doubtless become other and new evidence before the jury, but as to matters of common knowledge, same cannot be taken from him and he be deprived of the knowledge and utilization of that which practically all persons know. The testimony of the juror quoted in the original opinion seems to be an answer to appellant’s contention herein when the juror said: ‘Q. And it was discussed that if a man behaved himself he would be pardoned?’ to which he replied, ‘A. That is all, everybody knows that.’ ”
+We think the Plasentilla case is applicable here. One of the jurors referred to the discussion in connection with the parole board as follows: “That if we did our job, and the lady reformed or met the requirements of the Parole Board, who were trained in that line of work, that they would tend to that end of the business; that that was beyond our knowledge or training as to what they did or how they did it.”
+Also several of the jurors testified that they knew that convicted persons could get their sentences reduced by good behavior and were familiar with the fact that there was a parole board.
+The evidence is sufficient to sustain the conviction and we find no reversible error.
+The judgment is affirmed.
+
+## Dissent (MORRISON, Judge)
+
+MORRISON, Judge
+(Dissenting.)
+The fact which my brethren overlook is that at least three of the jurors changed their vote on the question of punishment from twenty to ninety-nine years after the foreman made the statement that he had read in a newspaper that the average person who received a life sentence was pardoned after serving only eight years.
+To me, a simple, fair and easily workable rule would be: Where a juror makes a statement of fact or law which is not true and where any appreciable number of the jurors vote for a much greater punishment following the making of the statement, then the case should be reversed on account of jury misconduct. As I view the opinions of this court in Price v. State, 150 Texas Cr. Rep. 161, 199 S.W. 2d 168, and Jackson v. State, 157 Texas Cr. Rep. 323, 248 S.W. 2d 748, they support such a rule. If given application here, a reversal would follow.
+I respectfully enter my dissent.
