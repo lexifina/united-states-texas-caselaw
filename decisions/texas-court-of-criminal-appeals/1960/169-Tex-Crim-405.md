@@ -1,0 +1,74 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,861"
+decided: "1960-04-27"
+citations: ["169 Tex. Crim. 405"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DAVIDSON, Judge, concurred.", "WOODLEY, Judge, dissented."]
+parties: ["Theresa Mae Braggs v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12143965
+cites_cases: ["163 Tex. Cr. R. 53", "164 Tex. Cr. R. 385", "288 S. W. 2d 779", "299 S. W. 2d 128", "324 S. W. 2d 866", "324 S. W. 2d 867"]
+---
+
+# Braggs v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is possession of a narcotic drug; the punishment, 8 years.
+The conviction must be reversed for two reasons.
+The examining trial testimony of Officer Chavez was read into the record by agreement, which relates how he recovered a yellow cellophane capsule from appellant. In order to show that such capsule contained heroin, we find the following, “I then took that capsule and turned it over to the City Chemist Robert F. Crawford, who ran a chemical analysis on the capsule and found that it contained heroin.” No testimony from Crawford appears in the record. It is apparent that what Crawford found was information which Chavez had received and not knowledge which he had acquired on the scene, and was hearsay such as we held to be of no probative value in Pitcock v. State, 324 S. W. 2d 866; 324 S. W. 2d 867. No report was introduced in evidence.
+The statement of the prosecutor as to what Crawford’s report showed could not take the place of evidence given “under the sanction of an oath.” Ex parte Clark, 164 Tex. Cr. Rep. 385, 299 S. W. 2d 128.
+In accepting appellant’s plea, the court did so in practically the same words as are set forth in our opinion in Alexander v. State, 163 Tex. Cr. Rep. 53, 288 S. W. 2d 779, and which we held failed to properly admonish the accused of the consequences of his plea as required by Article 501, V.A.C.C.P.
+For the reasons set forth, the judgment is reversed and the cause is remanded.
+
+## Concurrence (DAVIDSON, Judge)
+
+DAVIDSON, Judge
+(concurring).
+Attention is 'called to the fact that we are not here dealing with a collateral attack upon a judgment of conviction. This is a direct attack by appeal, attacking the sufficiency of the evidence to support the conviction.
+In 1931, by Chap. 43, Acts of the Regular Session of the 42nd Legislature, and by the amendment thereof in 1959, by Chap. 2, Acts 3rd Called Session of the 56th Legislature, provisions are made whereby one charged with an ordinary felony might waive a trial by jury and enter a plea of guilty before the court. Arts. 10a and 12, Vernon’s Ann. C.C.P., as amended.
+The legislature, however, required that certain conditions must be complied with before a conviction of an ordinary felony might be lawfully obtained upon a plea of guilty before the trial court.
+Chief among these requirements was “that it shall be necessary for the state to introduce evidence into the record showing the guilt of the defendant * * * and in no event shall a person charged be convicted upon his plea of guilty * * * without sufficient evidence to support the same.”
+Obviously the legislature had a good reason for making that requirement, that reason being that it did not want any man whom the state could not and did not prove guilty of the crime charged sent to the penitentiary upon his plea of guilty before a trial court.
+In order to insure that said requirement be fulfilled and carried out, the legislature precluded conviction until sufficient evidence had been introduced. In other words, the legislature made proof of guilt jurisdictional, without which proof a valid judgment of conviction could not be entered.
+Jurisdiction to enter the judgment that is entered must be established. It cannot be presumed or waived.
+The statement of facts upon which this appellant was convicted reflects that not a single witness testified in the case under the sanction of an oath, duly administered.
+Here is how the state discharged the burden resting upon it to prove the guilt of the appellant.
+State’s counsel inquired of both appellant and her counsel if it was “agreeable” with them “that the formal reading of the indictment be waived and that the state be allowed to read from the examining trial testimony and certain reports from the chemist without bringing the witnesses in to testify in person.”
+Both counsel and appellant agreed that the state could so prove its case and in that manner dispose of and set aside the mandate of the legislature that evidence be introduced showing the guilt of the defendant.
+Thereupon state’s counsel read the testimony given by the witness Chavez, upon examining trial in justice court, to the effect that he and a fellow officer, upon information that appellant was violating the law by having narcotics in her possession, apprehended appellant while her automobile was stopped at a railway crossing. As the officers approached, appellant was seen to “ ‘ place a yellow cellophane capsule into her mouth.’ ”
+The officers immediately placed appellant under arrest and carried her to a hospital, where she consented to take a saline solution. As a result, she vomited up the partially dissolved capsule.
+The capsule was recovered and turned over to the city chemist.
+That testimony related only to proof that appellant swallowed a capsule and vomited it up. The state was under the burden of proving that the capsule contained a narcotic.
+To make that proof the state introduced “into evidence the report of Robert F. Crawford, Chemist and Toxicologist for the City of Houston Police Department showing that he ran a chemical analysis upon the yellow capsule submitted to him by Officer M. Chavez on July 10, 1959, and that an examination of that capsule revealed that it contained approximately 2.8 milligrams of heroin, and that heroin is a narcotic drug.”
+Upon that statement, the state rested its case and relied thereon to show that the capsule contained a narcotic.
+To demonstrate the insufficiency of the testimony to meet the requirements of the law, it is only necessary to point out that the only proof that appellant had a narcotic in her possession comes exclusively from the ex parte, unsworn, and hearsay report which state’s counsel said was that of the chemist of the city of Houston.
+Such hearsay testimony is not legitimate evidence and, of itself, establishes nothing.
+If the legislature had intended that one might be convicted of a felony upon his plea of guilty before the trial court upon hearsay testimony or by waiver of constitutional rights, all that would have been necessary to permit such action would have been to say nothing and provide no condition to the contrary.
+But when the legislature required that such a conviction can be had only by the introduction of evidence showing the guilt of the defendant, which evidence must be sufficient to support the conviction, it occurs to me that it meant just what it said and thereby gave the courts of this state explicit directions to be followed in such cases.
+The legislature having spoken, the courts would have no right to refuse to enforce the legislative will and mandate or to substitute other and different rules.
+The state wholly failed to do that which the law requires to be done, and this conviction ought not to be approved.
+I concur in the reversal of this conviction for the reasons stated.
+
+## Dissent (WOODLEY, Judge,)
+
+WOODLEY, Judge,
+(dissenting).
+Appellant was indicted for the unlawful possession of a narcotic drug and two prior convictions for felony theft were alleged for enhancement of punishment.
+Represented by counsel of her own choosing, appellant waived a jury trial and the state abandoned the prior convictions.
+Appellant pleaded guilty before the court, but before the trial judge would accept the plea he asked appellant whether or not she “had this heroin,” and she said “Yes Sir.”
+The examining trial testimony of M. Chavez, the arresting officer, and the report of Robert F. Crawford, the chemist who made analysis of the contents of the capsule recovered from appellant and found it to be heroin, were read to the jury under agreement of appellant and his counsel and counsel for the state “that the State be allowed to read from the examining trial testimony and certain reports from the chemist without bringing the witnesses in to testify in person.”
+Reversal is ordered upon the ground that the foregoing evidence is insufficient to sustain the conviction upon a plea of guilty before the court.
+The question is not whether a defendant pleading guilty to a felony before the court may waive the introduction of sufficient evidence to establish his guilt, but whether he may waive the presence of the witnesses and agree to the introduction of their statements.
+If a defendant asserting his innocence at a jury trial may waive the appearance of a witness and agree to his statement being used as evidence, or agree that if present the witness would testify to certain facts, no valid reason appears why a defendant pleading guilty before the court cannot do likewise.
+To say that the statement of a witness introduced pursuant to such agreement is not evidence is to deny that the appearance of the witness may be waived.
+The question of whether or not the examining trial testimony and the report of the chemist, admitted pursuant to such agreement, were of probative value was resolved in Ex parte Clark, 164 Tex. Cr. R. 385, 299 S.W. 2d 128; Pitcock v. State, 168 Tex. Cr. Rep. 129, 324 S.W. 2d 866; and Pitcock v. State, 168 Tex. Cr. Rep. 223, 324 S.W. 2d 867.
+Under these authorities, only the portion of the reproduced testimony of Officer Chavez to the effect that the chemist to whom he delivered it “ran an analysis on the capsule and found it contained heroin” implied the possession of information rather than the possession of knowledge. Though Officer Chavez had testified in person at appellant’s trial, his statement as to what the chemist found would have had no probative value. Pitcock v. State, 168 Tex. Cr. Rep. 223, 324 S.W. 2d 866.
+The report of the chemist who received the capsule and found it to contain heroin implied the possession of knowledge and, being admitted by agreement, was evidence of probative value.
+As to appellant being admonished by the court of the consequences of her plea of guilty, the judgment recites that this was done and there is no bill of exception showing the contrary, as there was in Alexander v. State, 163 Tex. Cr. R. 53, 288 S.W. 2d 779.
+The judgment should be affirmed.
