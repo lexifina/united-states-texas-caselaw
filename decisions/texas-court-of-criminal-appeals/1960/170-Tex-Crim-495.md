@@ -1,0 +1,35 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,553"
+decided: "1960-12-14"
+citations: ["170 Tex. Crim. 495"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bob Trotter v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2624861
+cites_cases: ["300 S.W. 79", "36 S.W. 2d 521", "56 S.W. 2d 458"]
+---
+
+# Trotter v. State
+
+## Majority (BELCHER, Judge)
+
+BELCHER, Judge
+The conviction is for assault with intent to murder; the punishment, four years.
+For several months the appellant had been living with Kay" Ballard whose husband resided in the same city. During this time Kay had bought a pickup truck which she let the appellant use in his business as if it were his own. After a disagreement with appellant, she went to her husband’s residence. James A. Ballard, Kay’s husband, asked Garland C. Parker, the injured party, to go to Kay’s and the appellant’s apartment to get her automobile, the pickup, and her belongings which he did; Kay and Jake Theus accompanied him. Shortly after they arrived, the appellant drove up in the pickup. Apparently, the appellant had been moving and had returned for his tools and equipment. Parker told appellant that he had come with Kay to get her car and belongings, but did not tell him who had made the request. A friendly atmosphere existed between the parties until the pickup was loaded and appellant got in it to leave. This is a general statement of facts, but from this point there is a conflict in the testimony.
+Parker, the state’s witness, testified that after appellant called to him and he had arrived at the door of the pickup, the appellant shoved the door open, striking him in the face, jumped out and began to strike him with an ice pick and continued to strike him until he fell over a garbage can, when Jake Theus ran up and asked appellant to stop which he did and immediately drove away in the pickup.
+A physician testified that Parker suffered seven stab wounds in the chest and seven in the abdomen; two of them were over the heart area, three in the intestines, and one in the liver; and that such injuries would have been fatal if he had not received prompt and extensive treatment.
+Appellant testified that Parker had been trying to get the pickup and he had told him that he would return it when he had unloaded his things; that while he was seated in the pickup, Parker was standing beside it, and Parker told him “Well, I am going to repossess the truck,” and appeared to lose his temper, got mad, and grabbed the door handle, pulled the door open and further said, “God Damn you I am going to take that truck if I have to take you with it,” and ran his hand in his pocket at the same time. He further testified that he was afraid of Parker because he was larger than he was and did not know what Parker had in his pocket and if he did not do something Parker would “put me in the hospital,” so he grabbed an ice pick on the seat and jumped out and was going to stand there; that as Parker was trying to hit him he stabbed him in the abdomen and chest to protect himself and his equipment and tools in the pickup, but he did not know how many times he stabbed Parker, and when Parker fell over a garbage can he got in the pickup and left. Appellant stated that he had been using the ice pick to fix ice water on the job where he worked and did not have it to attack anyone and described the ice pick as a standard ice pick about four or five inches long, but did not state the length of its component parts.
+Appellant contends that the trial court erred in refusing to charge on the law of aggravated assault.
+Where the weapon used is not per se a deadly weapon, the intent to kill is a question for the jury and the court should charge on aggravated assault, Corona v. State, 300 S.W. 79; Shannon v. State, 117 Tex. Cr. Rep. 429, 36 S.W. 2d 521; Briscoe v. State, 122 Tex. Cr. Rep. 491, 56 S.W. 2d 458.
+The rule applicable to charges on the theory of no intent to kill is stated in 4 Branch 2d 196, Sec. 1853, as follows:
+“If there is testimony which, if true, would render it doubtful whether the accused intended to kill when he assaulted the alleged injured party, the court should charge on this theory of aggravated assault.” (citing cases)
+Volume 22 of Texas Jurisprudence, Section 271, at page 990 reads as follows:
+“In prosecutions for assault with intent to murder. — Whenever the proof in prosecutions for assault with intent to murder is inconclusive as to the existence of a specific intent to kill, the charge must give the jury discretion to convict of a lower grade of assault if they should find that there was no such intent. This means that whenever such a situation arises it is incumbent upon the court to instruct the jury on the law of aggravated assault or simple assault — whichever the case may call for — and tell them that if they should believe beyond a reasonable doubt that the defendent is guilty of some offense but should have a reasonable doubt as to whether he is guilty of assault with intent to murder or of some lesser form of assault, they must resolve the doubt in favor of the defendant and find him guilty only of the latter.”
+See also Art. 1160, V.A.P.C., note 22 and 20 Texas Digest, Homicide, Key No. 310 (2).
+The evidence raised the issue of the absence of an intent to kill; and under the facts and circumstances of the case the trial court should have responded to the objection and request on the law of aggravated assault.
+For the error pointed out, the judgment is reversed and the cause is remanded.
+Opinion approved by the Court
