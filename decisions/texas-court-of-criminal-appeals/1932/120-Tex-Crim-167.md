@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "15141"
+decided: "1932-04-27"
+citations: ["120 Tex. Crim. 167"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wallace Harris v. The State."]
+source_url: "https://static.case.law/tex-crim/120/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5204170
+---
+
+# Harris v. State
+
+## Majority (HAWKINS, Judge.)
+
+HAWKINS, Judge.
+— Conviction is for possessing intoxicating liquor for the purpose of sale, punishment being one year in the penitentiary.
+No bills of exception are brought forward seeking review of anything occurring during the trial. The charge of the court seems to be a fair presentation of the law, both from the standpoint of the appellant and the state. No objection was urged thereto in any particular.
+The sole question is the sufficiency of the evidence. Appellant was the proprietor of a hotel in South Plains, Floyd county. In making a search of the hotel peace officers found two one-half gallon jars of whisky, one apparently being in the possession of a relative of appellant at the time it was taken possession of by the officers, and the other half-gallon jar being found under the kitchen floor at a point where some boards had been sawed out for the' purpose of installing a water heater. A great many empty jars and bottles were found in different places about the hotel. They all bore traces of having contained intoxicating liquor at one time. Appellant admitted that he had purchased both of the jars of whisky found by the officers, but claimed that he had bought it for medicinal purposes for his wife’s grandfather, who was an elderly man and spent part of the time at the hotel with appellant and his wife. The jury was told, in substance, that under the laws of this state appellant could possess any amount of intoxicating liquor unless the same was possessed for the purpose of sale, and were instructed that if appellant possessed the intoxicating liquor either as a medicine or as a beverage, and not for the purpose of sale, he would not be guilty of any offense. The jury was further told that if appellant had the whisky for use as a medicine by his wife’s grandfather, or if they had a reasonable doubt thereof, they would acquit him. The finding of the jury upon the issues of fact is binding on this court. The evidence is sufficient to support the judgment and the same is ordered affirmed.
+A ffirmed.
