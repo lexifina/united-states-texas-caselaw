@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,348"
+decided: "1959-01-28"
+citations: ["167 Tex. Crim. 483"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Anthony J. Fertitta."]
+source_url: "https://static.case.law/tex-crim/167/cases/0483-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8550847
+cites_cases: ["146 Texas Cr. Rep. 128", "148 Texas Cr. Rep. 550", "155 Texas Cr. Rep. 82", "156 Texas Cr. Rep. 231", "160 Texas Cr. Rep. 357", "161 Texas Cr. Rep. 51", "171 S.W. 2d 496", "189 S.W. 2d 749", "230 S.W. 2d 820", "240 S.W. 2d 777", "271 S.W. 2d 657", "274 S.W. 2d 696", "293 S.W. 2d 62", "39 Texas Cr. Rep. 345", "46 S.W. 236", "48 S.W. 508"]
+---
+
+# Ex parte Fertitta
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+This is an appeal from an order entered upon an application for habeas corpus remanding appellant to custody to answer a felony indictment pending in the 10th Judicial District Court of Galveston County.
+Prior to the filing of the application for habeas corpus a motion to quash the indictment had been presented and overruled. The statement of facts upon that hearing was adopted as the statement of facts at the hearing on the application for writ of habeas corpus.
+The application was presented to district judge Joe Fisher, presiding in the court where the indictment was pending, and was overruled and denied. The appeal is from such order.
+The basis for appellant’s claim that he was unlawfully restrained of his liberty is the contention that the indictment is void.
+The grounds relied upon to show that the indictment is void are (1) that the grand jury was illegally selected, impaneled and constituted; (2) that the grand jury was prompted to return the indictment by manner and means and by persons not authorized by law and (8) that the indictment is not sufficiently definite and certain and therefore is void.
+Appellant concedes that unless the indictment is void (as distinguished from voidable) he is not entitled to relief upon this appeal.
+Only the first ground of attack upon the indictment is seriously urged as showing that the indictment is void; that is, that the grand jury was not legally selected and impaneled.
+The facts relied upon in this regard are that one of the five grand jury commissioners appointed to select the panel from which the grand jury was impaneled was excused because of illness and did not serve. However, one of the remaining four who did act as jury commissioners and select the grand jury which returned the indictment against appellant, secured from the excused commissioner a list of names of prospective grand jurors, some of whom were selected and served on the grand jury.
+It is apparent that the motion to quash the indictment was based upon the identical attack upon the validity of the indictment with special emphasis upon the selection of the grand jurors.
+Appellant shows a lack of opportunity to challenge the array of grand jurors. Being excused from making such challenge in order to avail himself of irregularities in the selection and organization of the grand jury and not waive them, it was still incumbent that he move to quash the indictment. Art. 358 C.C.P.; Ex Parte Traxler, 148 Texas Cr. Rep. 550, 189 S.W. 2d 749; Tyson v. State, 146 Texas Cr. Rep. 128, 171 S.W. 2d 496; Carter v. State, 39 Texas Cr. Rep. 345, 46 S.W. 236, 48 S.W. 508.
+Appellant pursued this proper course and moved to quash the indictment. A review by this court of the trial court’s ruling thereon before a trial, conviction and appeal would not be appropriate. This court is not authorized to enter a declaratory judgment. See Ex Parte Hammonds, 155 Texas Cr. Rep. 82, 230 S.W. 2d 820; Ex Parte King, 156 Texas Cr. Rep. 231, 240 S.W. 2d 777; Ex Parte Herring, 160 Texas Cr. Rep. 357, 271 S.W. 2d 657; Ex Parte Puckett, 161 Texas Cr. Rep. 51, 274 S.W. 2d 696; State v. Parr, et al, 293 S.W. 2d 62.
+The judgment remanding relator to custody is affirmed.
