@@ -1,0 +1,65 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,839"
+decided: "1958-10-29"
+citations: ["166 Tex. Crim. 596"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter Doucette v. State."]
+source_url: "https://static.case.law/tex-crim/166/cases/0596-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2618144
+---
+
+# Doucette v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the sale of a pistol to a minor under Article 489, V.A.P.C.; the punishment, a fine of $100.00.
+Our prior opinions are withdrawn.
+Appellant plead guilty, and the sole question here presented is whether or not Article 489a, V.A.P.C., repealed Article 489, V.A.P.C., insofar as the latter denounces the offense here charged. The state contends that the caption of Article 489a does not contain sufficient notice that the act itself prescribed a penalty for the sale of a pistol to a minor and is therefore invalid by virtue of Article III, Section 35, Constitution of Texas, and that Article 489, V.A.P.C., remains in force.
+We have examined the caption of Article 489a in the light of such contention and fail to find therein any intimation that the act itself purported to legislate upon the offense here involved. We find therein no mention of minors and agree with the state’s contention.
+The judgment is affirmed.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+In order to affirm this conviction it is necessary to hold that Art. 489a, Vernon’s P.C., is not a valid law of this state and never has been. My brethren so hold, and, as a reason for that holding, say that the caption to the act embodying Art. 489a is insufficient to meet the constitutional demand that it give notice of the subject the legislature dealt with in the act. (Art. 3, Sec. 35, Const. of Texas).
+To that conclusion I cannot and do not agree.
+Art. 489a, Vernon’s P.C., is now, and has been since its enactment, a valid statute and the only statute of this state which prohibits and makes unlawful the sale of a pistol to a minor.
+The instant prosecution was not brought under that statute but was brought and maintained under Art. 489, P.C., enacted in 1897, which made it unlawful for one to sell a pistol to a minor only without the written consent of the parent or guardian of the minor.
+In affirming this conviction my brethren hold that Art. 489, P.C., is in full force and effect. To ascertain if that be true, that statute will now be examined:
+Art. 489, P.C., makes it unlawful to knowingly sell a pistol to a minor without the written consent of the parent or guardian of such minor. That statute does not prohibit or make unlawful the sale of a pistol to a minor; it is only unlawful to make such sale without the consent of the parent or guardian. It is perfectly legal and lawful under that statute to sell a pistol to a minor with the consent of the parent or guardian.
+Art. 489, P.C., is not, therefore, a prohibitory statute. It is a regulatory statute, providing a means whereby a pistol may be purchased by a minor.
+The absence of consent of the parent or guardian to the sale is the gist of the offense. That staute can not be construed as prohibitory in making unlawful the sale of a pistol to a minor, because if it were the parent or guardian could nullify it by giving consent.
+Our penal code is replete with regulatory statutes where the prohibited or unlawful act consists not in the doing of a particular thing but in the doing of that thing without a license by some designated authority. The practice of our various professions and also the sale of whisky in a wet area are examples of such statutes where the practice of the profession or the sale of the whisky is unlawful only without a license or permit. It is the absence of a license or permit that is the gist of the offense.
+So it is apparent that Art. 489, P.C., did not make it unlawful to sell a pistol to a minor.
+Now what is the unlawful act created by Art. 489a, Vernon’s P.C.? Therein it is made unlawful to knowingly sell a pistol to a minor at any time, at any place, or under any circumstances. The consent of the parent or guardian has nothing to do with it, nor can consent make the sale lawful.
+Art. 489a, Vernon’s P.C., is therefore a prohibitory statute which prohibits as unlawful the act of knowingly selling a pistol to a minor.
+So. Art. 489a, Vernon’s P.C., of necessity repealed Art. 489, P.C., because the former makes unlawful the very act which Art. 489, P.C., authorized — that is, the sale of a pistol to a minor. Art. 489a, Vernon’s P.C., being the junior act in point of time of enactment, must therefore prevail.
+Art. 489a, Vernon’s P.C., appears as Sec. 4 of Chap. 267, Acts of the Regular Session of the 42nd Legislature, in 1931.
+The purpose of the act was to levy an occupation tax upon certain persons engaging in the business of selling and otherwise disposing of pistols. The caption to the act expressly so states and, in addition thereto, there is set forth therein the following: “* * * prescribing conditions incident to the sale of pistols under named conditions * *
+Secs. 1, 2, and 3 of the act appear as Art. 7047d, Vernon’s R.C.S.
+Sec. 1 of the act levies an occupation tax of $10 per year upon every person, firm, or corporation engaging in the business of selling pistols at wholesale or retail.
+Sec. 4 of the act (Art. 489a) makes it unlawful for one to violate any provision of the act and fixes the punishment to be applied.
+So then, by that act, the legislature requires a license for one to engage in the business of selling a pistol for profit in this state and makes unlawful the sale of a pistol without a license.
+At the time of the passage of Art. 489, P.C., in 1897, any person, dealer, or individual was authorized to sell a pistol to a minor. All the seller had to do in making such sale was to secure the written consent of the parent or guardian of the minor. With that consent or permission, the right to sell was complete, valid, and lawful.
+Such being the status of the law, in order to make effective the licensing of sellers of pistols in this state the legislature was required to take notice of the fact that the right to sell a pistol to a minor with the consent of the parent or guardian must necessarily be and would be repealed by the act of 1931 (Art. 489a, Vernon’s P.C.).
+So, therefore, Art. 489, P.C., authorizing the sale of a pistol to a minor was, of necessity, repealed and superseded by the provisions of the act levying the occupation tax, because the right to sell a pistol to a minor with the parent’s consent no longer existed. A sale at any time or place to anyone without a license was made unlawful.
+But the legislature was not content to rest the matter as to the sale of pistols to minors with the mere levy of a tax and the requirement of a license. It went further and made it unlawful (Art. 489a) for one to knowingly sell a pistol to a minor at any time, at any place, with or without a license.
+Until that time, the holder of a license under the act could sell a pistol to a minor. To make absolutely sure that a licensee could not sell a pistol to a minor, the legislature enacted Art. 489a to put a limitation upon the right of the licensee and the powers conferred by the license, if for no other reason.
+Under all those facts and circumstances, my brethren hold that Art. 489a is not a valid statute because the caption to the act did not give notice that the provisions of that article were to be enacted.
+The least I can say of that holding is that I do not agree.
+Art. 489, P.C., went out of existence with the enactment of the act of 1931. Since that time, and presently, the statute of this state which prohibits the sale of a pistol to a minor is Art. 489a, Vernon’s P.C.
+This conviction, which shows to have been obtained as a violation of Art. 489, P.C., a repealed statute, should therefore be reversed.
+The conviction can not be applied under Art. 489a, Vernon’s P.C., because of the difference of penalty between the two statutes. The minimum penalty for violating Art. 489, P. C., was, a fine of $25, with a jail penalty authorized to be inflicted. The minimum penalty for a violation of Art. 489a, Vernon’s P.C., is a fine of $10, with no jail penalty authorized.
+I respectfully dissent to the affirmance of this case.
+Art. 489, P.C., reads as follows:
+“Sale of weapon to minor. — Whoever shall knowingly sell, give or barter, or cause to be sold, given or bartered to any minor a pistol or any other weapon or arm mentioned in the first article of this chapter, without the written consent of the parent or guardian of such minor, or of some one standing in lieu thereof, shall be fined not, less than twenty-five no.r more than two hundred dollars, or be imprisoned in jail not less than ten nor more than thirty days, or both. (Acts 1897 * * *)"
+Art. 489a, Vernon’s P.C., reads as follows:
+“Sale or lease of weapon to minor or person under heat of passion.
+“If any person shall knowingly sell, rent, or lease any pistol to a minor, or any other person under the heat of passion, he shall be guilty of a misdemeanor, or, if any person violates any of the provisions hereof, he shall be guilty of a misdemeanor, and upon conviction, punished by a fine of not less than Ten Dollars ($10.00), nor more than Two Hundred ($200.00) Dollars, provided that no person may purchase a pistol unless said purchaser has secured from a Justice of the Peace, County Judge, or District Judge, in the county of his or her residence a certificate of good character. Said certificate to be kept with the permanent record of the dealer. No person may purchase a pistol who has served a sentence for felony.
+“Nothing in this bill shall affect the law against carrying pistols. Acts 1931, 42nd Leg. * *
