@@ -1,0 +1,22 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1243"
+decided: "1897-03-26"
+citations: ["37 Tex. Crim. 357"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. Yarbrough v. The State."]
+source_url: "https://static.case.law/tex-crim/37/cases/0357-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 161341
+---
+
+# Yarbrough v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant was convicted of causing cattle to go on the inclosed land of Mrs. Cornelia Adair, which land was controlled and managed by Richard Walsh, without the consent of either of said parties. The evidence shows that the inclosed lands in which the cattle were driven were known as the “Tule Pasture,” which included parts of Armstrong, Briscoe, Swisher and Randall Counties, and is about twenty miles square, inclosed by a wire fence. It is admitted in the record that appellant put the cattle in the inclosure without the consent of Mrs. Adair, or the special owner, Walsh. It is also shown that defendant owned 640 acres in said inclosure, about 200 acres of which is inclosed by the general pasture fence, but not inclosed by any other fence, the remaining 440 acres being inclosed by defendant, thus leaving 200 acres outside of his own inclosure and in the general inclosure. Many of the settlers in said inclosure, seventy-five in number, have their lands in about the same condition, some of the land being inclosed by fences, and the remainder being out .in the general inclosure. These settlers turn their cattle out to graze in said general pasture, some of them a few more cattle than they had land to sustain. The special owner of the pasture testified that he had no objection to this, because it was a small matter. The defendant, however, turned in about 350 head. It seems that Walsh, the special owner, objected to this, because he did not have a sufficient amount of grazing land in the pasture to support this number of cattle, and demanded of the defendant that he should either take his cattle out or procure sufficient amount of land to sustain them. Defendant endeavored to obtain the land, but it seems he failed to do so, and did not remove his cattle from the pasture. As before stated, from the evidence, it would seem the only objection raised by the owner of the pasture to the turning in by defendant of his cattle was that the defendant did not have a sufficient quantity of land to afford grass for the number of cattle which he turned into said pasture. There was no objection made by Walsh to the turning loose in the pastare of their cattle by the other settlers. Under these facts, we do not believe the testimony supports this conviction. The defendant owned land in the pasture inclosed by the general fence, and it being pasture, and not cultivated lands, he had the right, at least, to turn his cattle in said pasture in proportion to the amount of grazing land owned by him in said inclosure. The statute does not authorize a conviction for turning in an excess of cattle, but fixes the punishment for turning such cattle into the inclosed lands of another, without his consent. While it is true the defendant caused his cattle to go into the pasture, a large portion of the land therein contained being owned by the alleged owner, still the defendant.himself owned land inclosed by the owner in this general inclosure, and certainly he had a right to graze his cattle upon his own land; and the fact that he may have turned them loose in the pasture, and they would wander off of his land onto that of the others, we do not think would be material in the case. He was not required to herd them in the pasture on his own land; for if so, the alleged owner of the pasture would be required also to herd his cattle off defendant’s lands. But this is beyond tbe statute, and not contemplated by it. The defendantcould not be punished criminally for putting more cattle in the pasture than he was authorized by reason of the quantity of land owned by him therein. That would be a matter to be settled, if at all, on the civil side of the docket, and not in a criminal prosecution. For the reason indicated this judgment is reversed, and the cause remanded.
+[Note.—A motion in behalf of the State filed by the Assistant Attorney-General for a rehearing on April 8, 1897, was overruled without a written opinion.—Reporter.]
+Reversed and Remanded.
