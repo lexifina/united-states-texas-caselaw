@@ -1,0 +1,37 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,832"
+decided: "1957-02-20"
+citations: ["164 Tex. Crim. 273"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tomasa Huerta Garcia v. State"]
+source_url: "https://static.case.law/tex-crim/164/cases/0273-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2611474
+cites_cases: ["107 Texas Cr. Rep. 477", "128 Texas Cr. Rep. 76", "157 Texas Cr. Rep. 504", "249 S.W. 2d 925", "296 S.W. 1095", "79 S.W. 2d 318"]
+---
+
+# Garcia v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is the possession of marijuana; the punishment, 15 years.
+The witness Bales testified that, armed with a search warrant and in company with other officers, he went to the house where the appellant resided as the wife of one Adan Sendejo, served the warrant on Sendejo, entered the house, and found the appellant seated on the bed. He stated that as soon as they made their presence known the appellant “crossed the room to the trunk and grabbed some thing up and stuck it in the front of her dress.”
+Matron Courtney of the Federal Immigration and Naturalization Service was summoned, searched the person of the appellant, and the substance found inside her bosom was identified as marijuana.
+The witness Gonzalez testified that he had purchased a “cartucho” of marijuana from the appellant a few hours prior to the search.
+The appellant did not testify in her own behalf but offered witnesses who testified to the effect that she was a person of unsound mind.
+The jury resolved what conflict there was in the evidence against the appellant, and we find the evidence sufficient to support the conviction.
+We shall discuss the contentions advanced in the appellant’s brief. It is contended that the affidavit and warrant were defective for the following reasons:
+1. That following the search the warrant was retained by the officer who conducted the search and was not returned to the magistrate who issued it. In Boyer v. State, 128 Texas Cr. Rep. 76, 79 S.W. 2d 318, this court cited Cornelius on Search & Seizure and held that failure to make a return on the search warrant would not, in the absence of a showing of injury, vitiate the search warrant or its execution or call for the reversal of the conviction.
+2. That “the affidavit was based on information and belief without stating the facts upon which it is based ****’’ That portion of the affidavit is as follows:
+“A. We have been informed of the existence of the foregoing set out facts by reliable, credible and trustworthy citizens of Hidalgo County, Texas, and B. And further, we have been given sample of such drug recently purchased from said Sendejo at 9:35 P.M. this date.”
+It will be noted that the warrant authorized the search of the residence of Adan Sendejo, whom the record showed was the appellant’s common-law husband.
+We find the affidavit in compliance with Willson’s Criminal Forms, 6th Edition, Section 3257, page 761, and the holding in Chapin v. State, 107 Texas Cr. Rep. 477, 296 S.W. 1095.
+Appellant relies upon Hebert v. State, 157 Texas Cr. Rep. 504, 249 S.W. 2d 925. That case merely reaffirmed the rule so ably announced in the Chapin case and held that an affidavit which recited that the affiant “suspects” the person named as the thief and “has good ground to believe and does believe that the property was stolen by the thief and is now concealed” at a certain place was not a statement of probable cause as required by the Constitution. As will be seen from the recitations in the affidavit in the case at bar, the Hebert case is not here controlling.
+3. That affidavit and warrant state that the property to be searched was the residence of someone other than the appellant. We have concluded that the record abundantly establishes that the appellant and Sendejo had resided on the premises in question for a number of years as husband and wife.
+The appellant next complains that the trial court erred in not striking the testimony of Gonzalez on the grounds that he was an accomplice as a matter of law and his testimony was not corroborated.
+Appellant is obviously mistaken in her analysis of the force of Gonzalez’s testimony. The state did not make out its case upon his testimony alone. When the officers saw the appellant secrete upon her person the package which it later developed contained marijuana, they had made out a case against her.
+Finding no reversible error, the judgment of the trial court is affirmed.
