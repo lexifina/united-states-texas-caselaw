@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,836"
+decided: "1955-11-30"
+citations: ["162 Tex. Crim. 390"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Claude H. Edwards v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0390-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2464637
+cites_cases: ["135 S. W. 548", "15 S. W. 1108", "204 S. W. 382", "230 S. W. 408", "26 S. W. (2d) 288", "61 Tex. Cr. R. 504", "80 Tex. 379", "89 Tex. Cr. R. 287"]
+---
+
+# Edwards v. State
+
+## Majority (MORRISON, Presiding Judge.)
+
+MORRISON, Presiding Judge.
+The offense is felony theft; the punishment, 2 years.
+According to the testimony of the appellant’s co-principal and the appellant’s confession, the body of Mrs. Mary Rose was brought to the funeral home where appellant was employed, for embalming, and in the course of disrobing the body a cloth container with a large amount of money was found pinned inside the brassiere. The appellant and Guerra, his co-worker, divided the money among themselves.
+The appellant, testifying in his own defense, denied that his confession had been voluntary, admitted that he had received some money from Guerra, but denied that he knew at the time Guerra gave it to him that it had come from the body of the deceased.
+The jury resolved this conflict in the evidence against the appellant, and the evidence is sufficient to support their verdict.
+The sole question presented for review is the alleged variance between the indictment and the evidence adduced. The indictment alleged the ownership of the money to be in the estate of Mary E. Rose, deceased. The appellant does not question the correctness of this allegation. The indictment alleged the possession to be in W. C. Shandley as one of the heirs of the estate of Mary E. Rose, deceased. The appellant contends that possession should have been alleged to be in A. C. Gilmore, the executor of the estate of Mrs. Rose. At the time of the theft, it was not known by anyone, so far as this record reveals, that A. C. Gilmore had been named executor of the estate of Mary E. Rose, deceased. The will was not opened and read until some time after the theft. W. C. Shandley was Mrs. Rose’s son and heir and was there on the ground asserting ownership and possession over her personal belongings. The very next morning all her other possessions, except the money which had been stolen, were delivered to him. His sister, the only other heir, was in California. When the money was finally recovered by W. C. Shandley, he retained it as a part of his share of the estate. Though it would have been proper to have alleged the possession to be in Gilmore or in Shandley and his sister, we have concluded that the peculiar facts in this case support the allegation that possession was in Shandley alone.
+In the case relied upon by the appellant, the indictment charged possession to be in one party, while the proof showed that another party was actually in physical possession of the property which was stolen. The possession in the case at bar was constructive, but Shandley appears to be more nearly in actual possession than anyone else. It was he who demanded the return of the money, and he whc retained it once it was returned. It was he who reported the matter to the district attorney who drew the indictment.
+Finding no reversible error, the judgmtnt of the trial court is affirmed.
+
+## Rehearing (DICE, Judge.)
+
+ON MOTION FOR REHEARING
+DICE, Judge.
+In his motion for rehearing appellant challenges the sufficiency of the allegations of the indictment as to- the ownership of the property alleged to have been stolen and the description of the money alleged to have been stolen and the description of the money alleged to have been taken.
+The sufficiency of the indictment was questioned by appellant in the trial court by exceptions filed thereto, which were by the court overruled.
+As stated in our original opinion, the indictment alleged ownership of the money in the estate of Mary E. Rose, deceased, and possession in W. C. Shandley, as one of the heirs of Mary E. Rose, deceased.
+We think that, under the peculiar facts in this case, that ownership of the money at the time it was charged to have been taken could be alleged in the estate of Mary E. Rose, deceased. Under the evidence it is shown that the money was taken from her body at the funeral home before her will had been read and long before it had been probated. At the time of the taking, the money had not come into the custody of the executor, legatees or heirs of her estate. We are not unmindful of the provisions of Articl 402, V. A. C. C. P., which provides that when the property belongs to the estate of a deceased person, the ownership may be alleged to be in the executor, administrator or heirs of such deceased person, or in any one of such heirs. A review of the cases, which hold that under this statute ownership of property belonging to an estate may be alleged in the executor, administrator or heirs of the deceased person, shows that some person named in the statute had taken control over the property of the estate after the death of the deceased. Such were not the facts in the case at bar at the time the money was taken.
+The money alleged to have been taken was described in the indictment as “money of the value of $580.00.” This was a sufficient description of the money. See Campbell v. State, 61 Tex. Cr. R. 504, 135 S. W. 548, and Guyon v. State, 89 Tex. Cr. R. 287, 230 S. W. 408.
+We remain convinced that there was not a fatal variance between the allegation and proof of the possession of the money alleged to have been taken, and again overrule appellant’s contention that the possession of the money should have been alleged in A. C. Gilmore, the executor of the estate.
+Under the provisions of Article 3314, Vernon’s Ann. R. C. S., upon the death of Mrs. Rose all of her estate immediately vested in the devisees or legatees under her will, subject to the payment of debts and except such as may be exempt by law, and upon the issuance of letters testamentary upon the estate the executor had the right to possession of the estate as it existed at the time of her death.
+Until the will of Mrs. Rose was. probated, Gilmore had no authority to act as executor of her estate. Roberts v. Stewart, 80 Tex. 379, 15 S. W. 1108; Coleman v. Texas Produce Company, 204 S. W. 382; and Willis et al v. Harvey, 26 S. W. (2d) 288.
+At the time the money was taken, the will had not been probated and Gilmore as the executor named therein had no right to the possession of the money stolen from the body of Mrs. Rose.
+We overrule appellant’s contention that the evidence shows possession of the money in the Dunn Funeral Home and that the act of taking the money could not constitute theft but would be embezzlement or theft by bailee. The money on the body of the deceased did not belong to the funeral home, and appellant’s act, as its employee, in converting it to his own use, could not be embezzlement from his principal. The taking of custody of a body by a funeral home for the purpose of preparing it for burial does not constitute a contract to borrow or hire the body for its own use and benefit and is therefore not a bailment.
+The motion for rehearing is overruled.
+Opinion approved by the court.
