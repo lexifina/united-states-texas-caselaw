@@ -1,0 +1,44 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "33,272"
+decided: "1961-04-19"
+citations: ["171 Tex. Crim. 91"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank J. Hougton, Jr. v. State"]
+source_url: "https://static.case.law/tex-crim/171/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2635702
+cites_cases: ["100 S.W. 2d 704", "119 Tex. Cr. R. 381", "131 Tex. Cr. R. 526", "139 S.W. 2d 119", "139 Tex. Cr. R. 212", "153 Tex. Cr. R. 370", "158 Tex. Cr. R. 306", "220 S.W. 2d 172", "255 S.W. 2d 513", "284 S.W. 965", "45 S.W. 2d 984"]
+---
+
+# Hougton v. State
+
+## Majority (McDonald, Judge)
+
+McDonald, Judge
+This is a conviction for the misdemeanor offense of driving while intoxicated upon a public highway, with punishment assessed at a fine of $150 and three days’ confinement in jail.
+Trial was to a jury.
+In view of the disposition of this case, we will not discuss the facts.
+Appellant adduced testimony from several character witnesses, showing his general reputation to be good for being a peaceable and law-abiding citizen and for being a man of sober habits.
+On cross-examination and over appellant’s objection, nearly all these witnesses were asked about specific acts of misconduct and their knowledge concerning both appellant’s drinking habits and about specific occasions when they had drunk whisky with him.
+By numerous informal bills of exception, appellant complains of the action of the court in allowing the county attorney to extensively cross-examine several of appellant’s witnesses.
+The county attorney was permitted to continue to ask various witnesses about specific instances and their personal knowledge of any drinking by appellant.
+Appellant strenuously and repeatedly objected to this line of questioning.
+In one instance, the county attorney asked a witness: “Have you been known to get drunk?” The witness was required to answer over appellant’s objection- Other witnesses were asked if they had ever taken a drink with appellant and . if they had ever seen him drunk, and were asked other questions concerning specific times, places, and instances.
+We think the court erred in permitting the prosecution to make inquiry of these character witnesses concerning their knowledge of specific acts and conduct on the part not only of the appellant but also of the witnesses, themselves.
+It has long been the law in Texas that character witnesses, testifying to the good general reputation of a defendant as a sober, peaceable, and law-abiding citizen, may not be asked about specific acts in order to show either good or bad reputation.
+In the case of Prater v. State, 284 S.W. 965, this court stated as follows:
+“General reputation is confined solely to what people generally think and state about it, and it is not permitted, on an examination of the witness in chief, to show specific acts, in order to show good or bad reputation; neither do we think it is permissible, on cross-examination, to show by the witness what he knows individually about specific or particular acts or conduct of the accused, because this would do violence to the principle upon which testimony on character is based, and, as has been said by eminent writers, would unnecessarily extend the length of the trial, since it would require or call for testimony on the part of the accused to refute or rebut such testimony of specific acts, and would do violence to the proposition that the accused is presumed to know and be prepared to answer upon trial what the public knows generally, but is not supposed to know, and be ready to answer specific acts, charges, and conduct involving matters other than that which he is called to answer upon trial.”
+In Wiley v. State 153 Tex. Cr. R. 370, 220 S.W. 2d 172, Judge Beauchamp, speaking for the court, said:
+“Witnesses attesting the good reputation of an accused may, as affecting the weight, credibility, and sincerity of their testimony, be asked upon cross-examination as to whether they had heard of acts of the accused inconsistent with their reputation. Attesting authorities will be found in 39 Texas Digest, Witnesses, Key 274(2). Such, however, is as far as the State is permitted to go in such matters, for it is expressly prohibited from conducting the cross-examination or framing the interrogatories so as to show specific acts of misconduct on the part of the accused or that he has, in fact, been guilty of such acts.”
+This court has emphatically stated that a defendant in any criminal case shall not be tried before a jury for collateral matters, for the reason that it is against policy as well as being prejudicial. Furthermore, the witnesses are usually not in position to deny the truthfulness of charges included in the questions.
+In Simons v. State, 139 Tex. Cr. R. 212, 139 S.W. 2d 119, we said.
+“* * * when a defendant places in issue his reputation it does not bring before the jury any other matter for consideration, and the State can present only those things which deny the reputation. * * * The appellant is not required to bring forward every act and conduct of his life to be tried before the jury. It is sufficient, and he has met the requirements of the law, if he presents his reputation.” (Emphasis supplied.)
+In Adaire v. State, 119 Tex. Cr. R. 381, 45 S.W. 2d 984, this court, speaking through Judge Christian, stated:
+“* * * it is not permissible, on cross-examination of a witness to the good character of the accused, to show by the witness what he knows individually about specific or particular acts of misconduct on the part of the accused * * *.”
+Reference is also made, here, to the cases of Shipley v. State, 131 Tex. Cr. R. 526, 100 S.W. 2d 704, and Adams v. State, 158 Tex. Cr. R. 306, 255 S.W. 2d 513. In the latter case, Woodley, Judge, this court said:
+“It is not * * * permissible to show by the witness what he knows individually about specific acts of misconduct of the defendant, the inquiry being limited to whether or not the witness may have heard of such unlawful act.”
+For the reasons stated, we feel that appellant is correct in his contentions and that the trial court fell into error.
+Accordingly, the judgment is reversed and the cause is remanded.
