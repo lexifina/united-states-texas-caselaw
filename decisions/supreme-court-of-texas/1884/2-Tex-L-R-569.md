@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Texas"
+decided: "1884-01"
+citations: ["2 Tex. L. R. 569"]
+reporter: "tex-l-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WILLIE, C. J."]
+parties: ["D. H. SCOTT vs. J. L. & M. A. DYER."]
+source_url: "https://static.case.law/tex-l-r/2/cases/0569-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2056485
+cites_cases: ["10 Tex. 24", "18 Tex. 416", "20 Tex. 24", "20 Tex. 96", "30 Tex. 280", "44 Tex. 275"]
+---
+
+# Scott v. Dyer
+
+## Majority (Walker, P. J.)
+
+Opinion by
+Walker, P. J.
+There being no statement of facts in the record, the error assigned presents the question whether the facts stated in the finding of the eourt warranted the legal conclusions deduced from them by the judgment.
+The premises, in their entirety, previous to the sale and conveyance bf that portion of the four acre lot described in the finding of the judge, constituted, it is conceded, the homestead of the defendants.
+It cannot be doubted that the defendants had the right to limit the extent of their homestead, by conveying away a part and reserving the remainder of what constituted the original homestead premises. This, according to~the finding^ they attempted to accomplish, Theydid “ reserve as a homestead” the unsold portion, and was then fully impressed with the essential characteristics of an actual subsisting homestead, wanting^in nothing save' the requisite shelter for habitation — such as a house or cabin. •
+Although it is said that “a homestead necessarily includes the of a house for residence or mansion house,” (Franklin vs. Coffee, 18 Tex. 416) and also that the intent to appropriate a homestead be evidenced by some unmistakable acts showing an intention to carry into execution such intent, Or some sufficient excuse should be shown for the absence of such acts where the homestead right is asserted against a purchaser of the land before actual occupation of it as a homestead,Anderson vs. McKay, 30 Tex. 280; Moreland vs. Barnhart, 44 Tex. 275,it is to be observed that these maxims and rules have been invoked and applied in cases where the homestead claimant had not by actual domiciliation on the land, or by other acts evidencing clearly and unmistakably his intention to establish his homestead on the land, fixed beyond question a homestead right.
+The case of Franklin vs. Coffee was one of that kind, and there it was said: “nor would it be necessary to secure the exemption that a house should be built or improvements made. But there must be a preparation to improve; and this must be of such a character and to such an axtent^as_to manifest beyond doubt the intention to complete the improvements and ‘ reside upon the place as a home.”
+In all of this class of cases it was a question whether a homestead character had at any time been impressed upon the land, and the existence or absence of houses, improvements, or other palpable indicia of absolute intention, designation and appropriation of the land for homestead purposes, because the subjects of discussion as affording proper tests to determine the status of the property in controversy ? But where, as in this case, the entire premises had but recently, comparatively, been the homestead of the defendants, whether the portion of it which was reserved in the sale of the improved part, continued to maintain the homestead quality, would not, we think, depend upon the test to which we have just referred; but rather upon the ascertainment of the intention of the defendants to continue to use and occupy it as a homestead. If they meant to abandon, and did abandon it as such, then, of course, it ceased to be their homestead. Mere absence from the premises, nor anything short of a total relinquishment or abandonment, with the intention of~notto again claim it as a homestead, will not subject it to forced sale.
+Austin vs. Towns, 10 Tex. 24.
+The defendants did not occupy it as a residence after the sale of a part of it, though it was occasionally used by defendants in the way of cultivation.
+They never acquired any other place for a homestead, and they _had not ceased, to occupy the lot in controversy as a homestead more than about a year and eis~ht months, one year of which period they had resided in the country with a son of Mrs. Dyer, the remaining time they had lived in the town of'Paris.
+These facts are not inconsistent with an intention to resume at their convenience the land in controversy as their dwelling place. The finding of the judge, upon what must be taken, in the aosenpe of a statement of facts, to be full and sufficient evidence “that when they sold part of the lot, they reserved the part in controversy as a homestead, intending to improve it for that purpose, and that that, intention continued to exist until the date of the levy and of the sale,” negatives the idea of abandonment, and under all the circumstances and facts of the case we are of the opinion that the land in controversy constituted the homestead of ‘the defendants and was exemptTrcim forced sale.
+An old homestead will not be considered abandoned before the acquisition of a new one, except upon clear and conclusive proof of abandonment with an intention not to return.
+Shepherd vs. Cassidy, 20 Tex. 24; Gouhenant vs. Cockrell, 20 Tex. 96.
+The finding of the judge above quoted sets at rest any question of abandonment, and we conclude, with him, that the judgment of the court ought to be for the defendants, and, therefore, that the judgment of the court below ought to be affirmed.
+October 19, 1883.
+Report of Commissioners of Appeals examined, their opinion adopted and the judgment affirmed.
+WILLIE, C. J.
