@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "7466"
+decided: "1923-01-10"
+citations: ["93 Tex. Crim. 208"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Will More, Alias Henry Lee v. The State."]
+source_url: "https://static.case.law/tex-crim/93/cases/0208-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5034582
+cites_cases: ["32 S. W. Rep., 770"]
+---
+
+# More v. State
+
+## Majority (MORROW, Presiding Judge.)
+
+MORROW, Presiding Judge.
+Conviction is for theft; punishment fixed at confinement in the penitentiary for a period of two years.
+The commission of the offense by the appellant is established by sufficient evidence, the details of which it is deemed unnecessary to recite.
+The stolen property consisted of a hand-bag, two suits of clothes and other wearing apparel and a watch. The wearing apparel had been used, and there was evidence that its value exceeded $50. The question of value was embraced in a charge not materially different from the one approved by this court in the case of Cooksie v. State, 26 Texas Crim. App., 80. It adequately informed the jury that unless the proof established the value of $50 or more, the conviction should be of a misdemeanor and not a felony. There was no error in refusing additional charges upon the same subject.
+There,is evidence that the home of the owner of the property was burglarized and the property taken therefrom; that a short time thereafter it was found in "the possession of the appellant and no explanation of his possession of it was made. The district attorney in his argument referred to the appellant as a burglar. The complaint of the argument, we think, is without merit. Certainly it was not such an argument as under the facts in the instant case demands a reversal in the absence of an effort to have the jury instructed to disregard it.
+The other bills of exception found in the record have been examined. No error is perceived, nor do they present any legal question which is regarded as requiring a discussion in this opinion. The judgment is affirmed.
+Affirmed.
+
+## Rehearing (LATTIMORE, Judge.)
+
+ON REHEARING.
+January 10, 1923.
+LATTIMORE, Judge.
+Appellant has filed a motion for rehearing
+based entirely upon the proposition that the State failed to establish the venue herein, and that the record fails to disclose any testimony showing that appellant committed any crime in Dallas County, Texas. In this appellant falls into error. We find in the testimony of Mr. Fort, the prosecuting witness, in testifying about the loss of his property, the theft of which forms the subject of this indictment, this statement: “This was taken out of my house or premises, in the City and County of Dallas, on or about the 12th day of July, 1922.”
+In addition to the above we further observe that by the provisions of Article 938 of our Code of Criminal Procedure, this court is directed to presume proof of venue unless the question of venue was made an issue "in the trial of the case in the the court below. Nothing in the record indicates that such question was there made an issue, and this being true, for the reasons- above mentioned- the motion for rehearing will be overruled.
+Overruled.
