@@ -1,0 +1,41 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,441"
+decided: "1958-02-05"
+citations: ["165 Tex. Crim. 545"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Neil McClain v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0545-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2615556
+cites_cases: ["111 Texas Cr. Rep. 388", "111 Texas Cr. Rep. 395", "117 Texas Cr. Rep. 335", "119 Texas Cr. Rep. 83", "13 S.W. 2d 106", "13 S.W. 2d 114", "149 Texas Cr. Rep. 483", "154 Texas Cr. Rep. 116", "163 Texas Cr. Rep. 68", "196 S.W. 2d 635", "20 S.W. 2d 769", "225 S.W. 2d 828", "288 S.W. 2d 791", "38 S.W. 2d 85", "45 S.W. 2d 579"]
+---
+
+# McClain v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+This is a liquor transportation case, with punishment assessed at a fine of $250.
+Appellant was arrested while transporting beer and whisky in his automobile.
+The sole question presented for review is the right of the officers to stop appellant and arrest him and search the automobile.
+Calder, a deputy sheriff, was directed by those in charge of the sheriff’s office to call a certain telephone number. The telephone number was called. A woman answered and inquired “where they could get in touch with” Masters, to which inquiry Calder replied that he did not know. Thereupon the woman told Calder that “she knew Neil (the appellant) was coming in and was supposed to be transporting whiskey” and that he “was at the time transporting whiskey.”
+Calder imparted this information to other peace officers whom he located in a cafe, and they then started looking for the appellant.
+Appellant was apprehended and caused to get out of his car, in which a quantity of intoxicating liquor was found.
+Appellant insists that the facts stated did not warrant the arrest and the search of the automobile.
+An automobile may be searched for intoxicating liquor upon probable cause — that is, upon a reasonable ground of belief supported by circumstances warranting a cautious man in believing that intoxicating liquor is being unlawfully transported in the automobile. Sims v. State, 119 Texas Cr. Rep. 83, 45 S.W. 2d 579.
+The information imparted to Officer Calder was sufficient to constitute probable cause to stop and search appellant’s automobile.
+To support this conclusion, reliance is had upon the following cases:
+Johnson v. State, 111 Texas Cr. Rep. 395, 13 S.W. 2d 114; Kirk v. State, 111 Texas Cr. Rep. 388, 13 S.W. 2d 106; Graves v. State 20 S.W. 2d 769; Weaver v. State, 117 Texas Cr. Rep. 335, 38 S.W. 2d 85; Long v. State, 149 Texas Cr. Rep. 483, 196 S.W. 2d 635; Baker v. State, 154 Texas Cr. Rep. 116, 225 S.W. 2d 828.
+The judgment is affirmed.
+
+## Dissent (MORRISON, Presiding Judge,)
+
+MORRISON, Presiding Judge,
+dissenting.
+I have examined the authorities cited by the majority and find only one which supports their holding in this case, if it does so. In Long v. State, 149 Texas Cr. Rep. 483, 196 S.W. 2d 635, the opinion recites that “the jury was retired and the agents testified relative to information that they had previously had of a car coming into Lubbock that was supposed to contain whiskey * * * This court held, without detailing the information which the officers had received, that this information plus the accused’s statement, “You have caught me,” constituted probable cause authorizing the search of the automobile.
+In the case at bar, the officer testified that he received a telephone number from his fellow officers and called the same and was informed by a female voice that the appellant “was coming in and was supposed to be transporting whiskey.” He did not testify that he had heard the female voice before or that he knew to whom it belonged, nor did he give any reason for believing that she was a credible person.
+In line with my views expressed in the majority opinion in Thomas v. State, 163 Texas Cr. Rep. 68, 288 S.W. 2d 791, I cannot bring myself to hold that the arrest and incident search of the appellant’s automobile was justified in the case at bar, especially in view of the fact that the officer did not have reliable information from a credible person.
+I respectfully dissent.
