@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,346"
+decided: "1960-01-06"
+citations: ["169 Tex. Crim. 61"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. W. Wilson v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12125892
+cites_cases: ["160 Tex. Cr. R. 290", "269 S.W. 2d 393"]
+---
+
+# Wilson v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The appeal is from a conviction for the felony offense of driving a motor vehicle upon a public highway while intoxicated; the punishment, one year in the penitentiary.
+The offense was alleged to have been committed in Hamilton County on or about December 23, 1958, and the indictment alleged that prior to the commission of said offense appellant had been convicted of the misdemeanor offense of driving a motor vehicle upon a public highway while intoxicated, in Cause No. 14197 in the County Court of Taylor County, Texas, on September 15, 1949.
+The court’s charge, as it appears in the transcript, nowhere requires the jury to find that appellant was the same person who was convicted in the Taylor County misdemeanor case.
+The charge, after submitting to the jury the question of appellant having driven a motor vehicle upon a public highway in Hamilton County while intoxicated, continues: “and you further find beyond a reasonable doubt, that theretofore the defendant in Cause No. 14,197 in the County Court of Taylor County, Texas, and on or about the 15th day of September, 1949, had been convicted of the misdemeanor offense of driving or operating a motor vehicle in this state while intoxicated or under the influence of intoxicating liquor, and that such judgment was a final judgment for such offense, then you will find the defendant guilty as charged in the indictment, * * *
+Appellant objected to the charge because “as written the jury is not required to affirmatively find beyond a reasonable doubt that the defendant in this case was in fact convicted of the misdemeanor offense in Cause No. 14197 in the County Court of Taylor County before they can convict him of the felony offense in this case.”
+The prior conviction for the misdemeanor offense of driving while intoxicated was an essential part of the felony offense charged. A necessary part of the state’s burden was to prove that the defendant on trial was the person previously convicted in the misdemeanor case described in the indictment. See Johnson v. State, 160 Tex. Cr. R. 290, 269 S.W. 2d 393, and cases cited.
+The error in the charge requires a reversal of the conviction.
+The judgment is reversed and the cause remanded.
