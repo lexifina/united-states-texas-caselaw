@@ -1,0 +1,47 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,722"
+decided: "1954-01-13"
+citations: ["159 Tex. Crim. 598"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Leroy Studer v. State."]
+source_url: "https://static.case.law/tex-crim/159/cases/0598-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477468
+cites_cases: ["103 Tex. Cr. R. 163", "125 Tex. Cr. R. 330", "158 S.W. 510", "158 Tex. Cr. R. 419", "164 S.W. 838", "176 S.W. 50", "181 S.W. 458", "252 S.W. 2d 175", "280 S.W. 829", "68 S. W. 2d 217", "71 Tex. Cr. R. 325", "73 Tex. Cr. R. 273", "76 Tex. Cr. R. 513", "78 Tex. Cr. R. 400"]
+---
+
+# Studer v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+Appellant was convicted under Art. 535d, V.A.C.P., for fondling a child’s sexual parts, and his punishment was assessed at fifteen years in the penitentiary.
+Patricia Durham testified that she was five years of age and lived next door to appellant; that while she was playing in appellant’s backyard he took her into his house and used his finger to play with her between her legs. She further testified that appellant got some oil out of the bathroom, placed it on his person, and then did to himself “just like he did to me.” She also said that she went with her parents to the hospital and to see the police.
+Walter T. Durham testified that Patricia Durham was his daughter and that she was five years of age; that “this defendant, Bob Studer” lived next door to him; that on April 25, 1953, Patricia complained of pain in her private parts; that he asked her what was the matter, and she said: “It must be where Bob fooled with me;” that upon examination he found her sexual parts to be inflammed.
+Dr. Eugene Argeron testified that he examined the sexual parts of Patricia Durham on April 25, 1953, and found a tear about one-fourth of an inch long in the outer part of her genital organ; that upon examination found evidence of “redness and tenderness.”
+Appellant’s confession was introduced in evidence and was, in part, as follows: “Patsy and I were in the front room of my house by ourselves. Patsy was sitting on the divan with me in the front room, and I got to thinking about sex. About this time a urge came over me and I had a desire to play with Patsy. I reached over with my hand and put it up under Patsy’s dress and moved her panties to one side, and then I rubbed my finger in Patsy’s private parts.”
+Appellant testified in his own behalf; repudiated his confession; and stated that Patricia came over to his house and, within a short time, complained of pain between her legs; that she showed him where she was hurting and asked him “to put some salve on her like daddy does;” that he took some mineral oil and rubbed it on the child’s private parts with his finger, and that he did this for the purpose of medication only and without any intention of fondling her sexual parts. He further testified that he signed the statement introduced in evidence, but that the warning contained therein was never given to him, and that he never read the statement before signing it; that he signed the statement because of promises made by the officers that if he would sign it that he would be turned loose.
+The issue of the voluntary nature of the confession was submitted to the jury and no objection was made as to the manner of its submission.
+Appellant contends that the court erred in not examining Patricia Durham as to her competency as a witness before she testified and then ruling thereon. At the time Patricia Durham was offered as a witness for the state, appellant objected to her testifying upon the ground of her being “immature in years” and her inability to understand the nature of an oath, to which objection the court stated: “We will pass upon that in a minute.” There was no further action taken by the court or by counsel for appellant in regard to this matter.
+Art. 708, C.C.P., provides, in part, that all persons are competent to testify in criminal cases except “Children or other persons who, after being examined by the court appear not to possess sufficient intellect to relate transaction with respect to which they are interrogated, or who do not understand the obligation of an oath.”
+The child’s testimony shows that she was intelligent for her age; that she understood that she would be punished if she did not tell the truth in answer to questions asked her. The witness intelligently related the transaction about which she was interrogated. The competency of the witness may be determined from an examination by the court or an examination under its direction. Jimenez v. State, 103 Tex. Cr. R. 163, 280 S.W. 829. We are of the opinion that the court did not abuse its discretion in permitting said testimony. Tennel v. State, 78 Tex. Cr. R. 400, 181 S.W. 458; Brown v. State, 76 Tex. Cr. R. 513, 176 S.W. 50; Smith v. State, 73 Tex. Cr. R. 273, 164 S.W. 838; Finch v. State, 71 Tex. Cr. R. 325, 158 S.W. 510.
+Appellant, in his brief, complains of portions of the prosecuting attorney’s argument to the jury. These complaints are not found in the record, therefore we are not authorized to consider them. McCutcheon v. State, 158 Tex. Cr. R. 419, 252 S.W. 2d 175.
+Appellant contends that Sec. 3 of Art. 535d, V.A.P.C., is invalid upon the ground that the portion thereof relating to the minimum penalty when a penitentiary term is to be assessed is vague, indefinite, and incapable of reasonable interpretation.
+Sec. 3 of Article 535d, V.A.P.C., provides:
+“Any person violating the provisions of this Act shall be guilty of a felony, and shall upon conviction, be punished by confinement in the county jail for not less than thirty (30) days or more than two (2) years, or by a fine not to exceed Two Thousand Dollars ($2,000), or by both such fine and imprisonment, or by confinement in the penitentiary for any term of years not to exceed twenty-five (25).”
+In the event a penitentiary term is to be assessed under said section, it is evident that the legislature intended that the minimum punishment could be assessed at a term less than two years in the penitentiary. Considering the context of said section, the minimum and maximum penalty allowed, and the range of the punishment that could be assessed under this statute, we are of the opinion that the portion of said section relating to punishment by confinement in the penitentiary means for any term not to exceed twenty-five years. Appellant’s contention is therefore overruled. Davis v. State, 125 Tex. Cr. R. 330, 68 S. W. 2d 217.
+We find the evidence sufficient to sustain the verdict.
+The judgment of the trial court is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (GRAVES, Presiding Judge.)
+
+ON MOTION FOR REHEARING.
+GRAVES, Presiding Judge.
+In his motion for rehearing, appellant complains of the method by which the Indeterminate Sentence Law is applied in the judgment herein because of the fact that the statute, Art. 535d, Vernon’s Ann. P.C., under which he was convicted, fails to set forth in the punishment any lesser term, but merely sets forth the highest penalty as “any term of years not to exceed twenty-five (25).”
+An attack is made upon the opinion herein because it utilized the case of Davis v. State, 125 Tex. Cr. R. 330, 68 S.W. (2) 217, as authority for the proposition that when no lesser term is set forth in the statute, the punishment being a term of years, we reformed the sentence in that case and directed that the accused be confined in the penitentiary for not less than one hour nor more than one year, the statute itself providing for a punishment of not more than two years, no minimum term being fixed therein.
+In the present instance, the court entered its judgment, causing the same to read “for not less than one hour nor more than 15 years” in accordance with the Davis case, supra.
+Under these circumstances, we see no reason why we should disturb this judgment, and think the original opinion is correct herein. Therefore, the motion for rehearing is overruled.
