@@ -1,0 +1,24 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "3307"
+decided: "1905-12-13"
+citations: ["49 Tex. Crim. 121"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. E. Barton v. The State."]
+source_url: "https://static.case.law/tex-crim/49/cases/0121-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4549578
+cites_cases: ["39 Texas Crim. Rep., 677", "44 Texas Crim. Rep., 557", "82 S. W. Rep., 652", "85 S. W. Rep., 1147", "88 S. W. Rep., 345"]
+---
+
+# Barton v. State
+
+## Majority (BROOKS, Judge.)
+
+BROOKS, Judge.
+Appellant was convicted of murder in the first degree, and his punishment assessed at confinement in the' penitentiary for life.
+His third assignment of error complains of the following portion of the court’s charge, to wit: “You are further instructed that under the law of this State a person charged with a crime cannot be convicted upon the evidence of an accomplice or upon the evidence of any number of accomplices, unless the evidence of such accomplices is corroborated by other evidence tending to connect defendant with the commission of the offense charged; and the corroboration is not sufficient if it merely shows the commission of the crime, and one accomplice cannot corroborate another accomplice. Now, if you find from the evidence that the said Ollie Hearn, at the time and place alleged in the indictment was shot and killed, then you are charged that the witnesses, G-. W. Wilson and R. B. Pearcy, are accomplices in the commission of said crime, if any, and you are further charged .that you cannot convict the defendant upon the testimony of said witnesses, unless you believe the testimony of said witnesses has been corroborated by other evidence in the case tending to connect the defendant with the crime committed.” His exceptions are, as follows: “Because in said charge the court assumed that the evidence of Gr. W. Wilson and R. B. Pearcy is true, and because the court takes from the jury the consideration of any other question than that of corroboration of the testimony of said witnesses; and because same is a charge upon the weight of the evidence; and because it assumes that Gr. W. Wilson and R. B. Pearcy have sworn the truth, and that they were parties to the killing of Ollie Hearn; and because it assumes that the killing of Ollie Hearn was a crime; and because it assumes that a crime was committed and instructs the jury that they are only required, in order to convict defendant, to find other testimony in the record tending to connect the defendant with the crime committed.” This charge is erroneous for the reasons set out by appellant. Garlas v. State, 88 S. W. Rep., 345; Crenshaw v. State, 85 S. W. Rep., 1147; Hart v. State, 82 S. W. Rep., 652; Jones v. State, 44 Texas Crim. Rep., 557; Bell v. State, 39 Texas Crim. Rep., 677. The State’s counsel in briefs cites various authorities, among others Willson’s Crim. Forms, No. 714a, in which the charge complained of was approved. The charge of the court is not correct, as announced in the cases cited, supra.
+G. W. Wilson and R. B. Pearcy testified to their participation in the crime, and to facts indicating that appellant also participated in the assassination. In the course of the trial, the sheriff of the county was placed on the stand, and testified to a conversation he had with one Sherod, who was living with appellant at the time of the conversation, in which, among other things, Sherod stated to sheriff McClinton, “Mac, you need not be surprised if you are called on to come out to the mountain any time,” and then said, “How long would it take you to get the bloodhounds out there?” Appellant objected to this testimony on the ground that defendant was not present; that the statement of facts (in which the bill of exceptions is embodied) shows this to be true; that defendant was not present. Now, if the defendant was not present he could not be bound by any acts or declarations of third parties after the consummation of the conspiracy. However, any act or declaration of defendant, either prior or subsequent to the consummation of the conspiracy or crime, showing guilt, or any declaration in the presence of appellant, either prior or subsequent to the crime, that showed guilt, was provable. But declarations of third parties not made in his presence, are not admissible. Furthermore, the testimony shows that one of the accomplices (Pearcy) purchased a pistol, and appellant paid for the same. All testimony corroborative of this fact should be introduced. However, in our opinion, the record shows sufficient corroboration to warrant the finding of the jury. However, for the error indicated, the judgment is reversed and the cause remanded.
+Reversed and remanded.
