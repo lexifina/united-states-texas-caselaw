@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "15698"
+decided: "1933-04-12"
+citations: ["123 Tex. Crim. 383", "59 S.W.2d 162"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jack Hammers v. The State."]
+source_url: "https://static.case.law/tex-crim/123/cases/0383-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5216778
+cites_cases: ["248 S. W. 371", "248 S. W., 371", "255 S. W. 424", "255 S. W. 425", "255 S. W., 424", "255 S. W., 425", "258 S. W. 1062", "258 S. W., 1062", "268 S. W. 174", "268 S. W., 174", "93 Tex. Cr. R. 370", "93 Texas Crim. Rep., 370", "95 Tex. Cr. R. 457", "95 Tex. Cr. R. 654", "95 Texas Crim. Rep., 457", "95 Texas Crim. Rep., 654", "96 Tex. Cr. R. 542", "96 Texas Crim. Rep., 542", "99 Tex. Cr. R. 122", "99 Texas Crim. Rep., 122"]
+---
+
+# Hammers v. State
+
+## Majority (CALHOUN, Judge.)
+
+CALHOUN, Judge.
+The offense, transporting intoxicating liquor; the punishment, one year in the penitentiary.
+The evidence in brief showed that' the appellant and others on or about December 24, 1931, were pitching washers, commonly called “pitching dollars,” in the town of Timpson near the rear of the postoffice, and there was a large crowd watching the game. A constable by the name of Elmer Nichols had his attention attracted, and he went over to where the appellant and others were engaged in pitching washers, and he noticed that the appellant was drunk. When he first saw the appellant, the appellant’s back was turned, and as the appellant bent over to get the washers the constable saw a pint bottle in appellant’s pocket. The bottle appeared to have some liquor in it. He then went up to the appellant and told him he wanted to see him for a few minutes, and they went back into the end of a grocery store where he got from appellant a bottle of whisky. The officer testified that the bottle got out of the appellant’s pocket some way in a tussle, and he told one Bert Childs to hold it until he got loose. It further appeared that some one other than the appellant jerked the bottle out of the said Childs’ hand and broke it on the floor. The officer further testified that it was whisky and a full pint.
+A witness by the name of Bert Childs also testified that he saw the appellant pitching washers and saw him move about where they were pitching, and he also saw a flask on him, which was later broken and whose contents smelled like whisky.
+Appellant did not testify, but introduced two witnesses, one of whom testified that the first time he saw the whisky it was in the hands of the witness Bert Childs, and he could not detect whether or not whisky was in the bottle; that quite a crowd went into the store where the difficulty occurred. Another witness for the appellant testified that he was present at the time they were pitching washers, and he had not seen any whisky on the appellant; that the first time he saw anything he saw a broken bottle thrown out of the building, and he could not tell what was in the bottle; that he picked up part of the bottle, and did not see any whisky on it and did not smell any; that the contents of the bottle did not smell like whisky to him. Both of appellant’s witnesses testified that the officer struck the appellant over the head several times with a pistol.
+• There are no bills of exception in the record nor any exceptions to the court's charge. The court charged the jury on circumstantial evidence.
+The appellant strenuously insists that the evidence is not sufficient to support a conviction for transportation of intoxicating liquor. It has been held by this court that the distance which the intoxicating liquor was moved will not be regarded as the sole test. Tullos v. State, 99 Texas Crim. Rep., 122, 268 S. W., 174; Lamb v. State, 95 Texas Crim. Rep., 457, 255 S. W., 424; Finley v. State, 96 Texas Crim. Rep., 542, 258 S. W., 1062. But, in order to convict under a charge of transporting intoxicating liquor, it must be shown that there was a transportation of said liquor within the contemplation of our statute. We quote in substance from Lee v. State, 95 Texas Crim. Rep., 654, 255 S. W., 425, opinion by Presiding Judge Morrow: Under Art. 10, P. C., 1911 (now article 8), the word “transport,” as used in the statute prohibiting the transportation of liquor, must be given the meaning understood in the common language; that is, the carrying or conveying from one place, locality, or country to anothr.. . Again in West v. State, 93 Texas Crim. Rep., 370, 248 S. W., 371, in an opinion by the same judge, it is said: “The words ‘transport’ and ‘transporting,’ in the statute as to unlawful transportation of intoxicating liquor, embrace movement of the liquor by accused on his person or in some vehicle under his control- as an essential element of the offense.”
+While whisky was found upon the person of the appellant, there is no evidence that he did not first come into possession of it at the place where he and others were engaged in pitching washers. There is no testimony that the appellant ever went from said place with the whisky in his pocket, except when called away by the officer. It is not shown when the appellant came to the place where he and others were or that he was under the influence of liquor at the time he came there. Taking the evidence in its most favorable light for the state, it is shown that appellant only walked around in the immediate vicinity of the place where he and others were pitching washers. No witness explained what distance the appellant walked in pitching washers, and as to whether he walked at all was a controverted issue.
+Taking the evidence as a whole, we are of the opinion that the evidence does not meet the measure of circumstantial evidence which the law requires. It is not' inconsistent with every hypothesis save his guilt. The sufficiency of the evidence to overcome the presumption of innocence and establish his guilt beyond a reasonable doubt is in such doubt that this court would not be warranted in affirming the judgment.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
