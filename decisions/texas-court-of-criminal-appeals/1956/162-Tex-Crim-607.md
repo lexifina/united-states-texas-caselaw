@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,148"
+decided: "1956-03-28"
+citations: ["162 Tex. Crim. 607"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Betty H. Richardson alias Tolbert v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0607-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462825
+---
+
+# Richardson v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for unlawfully keeping a bawdy house, with a prior conviction of an offense of like character alleged, to enhance the punishment; the punishment, forty days in jail and a fine of $400.
+In view of our conclusion that the trial court erred in overruling appellant’s first motion for a continuance, a statement of the facts upon the trial will be omitted.
+The record reflects that the case was set for trial on' the morning of September 7, 1955. The Hon. Bernard A. Golding had been retained by appellant to represent her upon the trial of the case. Attorney Golding was also the attorney for a defendant whose case was set and called for trial in Criminal District Court No. 8 of Harris County on the same morning. Upon the call of the case, in the district court, both parties announced ready for trial and appellant’s counsel was then thereafter engaged in the trial of the case throughout the day until it was concluded around 5:30 o’clock in the afternoon. It is further shown that, around 12:45 P.M., Attorney Golding contacted the Hon. John P. Spiller, an attorney of the Harris County Bar, and advised him of the situation as to his being in the trial of the district court case and also representing the appellant, whose case was set for trial in the county court. In the conference, Attorney Golding engaged the services of Attorney Spiller and did pay him a fee to file a motion for a continuance of the appellant’s case, in the county court.
+After the conferences between the attorneys, Attorney Spillar prepared and presented the appellant’s first application for a continuance, sworn to by the appellant, in which it was alleged he had been employed in the case around 12:45 P.M. by appellant’s counsel, Golding; that Attorney Golding was prevented from appearing in the case because he was then representing a defendant in a trial in the district court; that Attorney Spiller had no knowledge of any of the facts in the case and had never met appellant prior to his entrance in the courtroom for trial at approximately 2:00 P.M., and prayed the court that “this cause be continued until such time as may be convenient to the court and giving counsel sufficient time to prepare this case for trial.”
+Upon the overruling of the motion, the case proceeded to trial around 2:00 P.M., with the appellant being represented by Attorney Spiller.
+Attorney Spiller testified, on the hearing of the motion for new trial, that he was not prepared to try the case, had talked to no witness concerning the facts, and did not have an opportunity to talk to the appellant until after the jury had been selected; that, although he was only employed to file the motion for continuance, he continued in the case after the motion was overruled. He further testified that the appellant insisted that she did not want to be represented by anyone except her attorney, Golding.
+It is shown that, at the time the motion for continuance was overruled, the trial judge knew that appellant’s counsel was. engaged in the trial of the felony case in the district court, he having gone into the district courtroom that morning and inquired of the district judge as to how long the case would last and had been informed by the judge that it would continue until sometime in the afternoon.
+The record does not reflect any reasonable ground why the case should not have been postponed in order to give counsel sufficient time to complete the trial in which he was engaged in the district court.
+Under the facts and circumstances shown, we are of the opinion that the court abused his discretion in refusing to postpone the trial until appellant’s counsel Golding had completed the trial in district court.
+For the error pointed out, the judgment is reversed and the cause remanded.
