@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,563"
+decided: "1960-04-13"
+citations: ["169 Tex. Crim. 506"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Douglas Ray Fletcher v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0506-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12146980
+cites_cases: ["165 Tex. Cr. R. 547", "309 S.W. 2d 465", "313 S.W. 2d 618", "329 S.W. 2d 864"]
+---
+
+# Fletcher v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The indictment herein alleged that appellant (1) unlawfully possessed amidone, a narcotic drug; (2) that prior to the commission of said offense he had been finally convicted for the unlawful possession of marihuana, a narcotic drug; and (3) that prior to the commission of both of these offenses he had been finally convicted of burglary.
+Trial was before a jury on appellant’s plea of not guilty and the jury, as they were authorized to do under the court’s charge, found appellant guilty of the unlawful possession of a narcotic drug as charged in the indictment and further found that each and all of the allegations of the indictment charging a final conviction for possessing a narcotic drug and for burglary were true.
+No punishment was assessed by the jury.
+Judgment was rendered on the jury’s verdict upon the theory that the punishment was definitely fixed by Art. 63 P.C., and appellant was sentenced to a life term in the penitentiary.
+Properly analyzed, the indictment alleges a subsequent violation of the Uniform Narcotic Drug Act, Art. 725b V.A.P.C., and a prior conviction for burglary.
+The prior conviction for the unlawful possession of marihuana made applicable the punishment provided in Section 23(1) of said article for “the second or any subsequent conviction” for violating the provisions of Art. 725b V.A.P.C.
+Such prior conviction being for a violation of Art. 725b V.A.P.C., it was not available and could not be used to enhance the punishment under Art. 63 P.C. Granado v. State, 168 Tex. Cr. Rep., 525; 329 S.W. 2d 864; Parasco v. State, 165 Tex. Cr. R. 547, 309 S.W. 2d 465; Edwards v. State, 166 Tex. Cr. Rep. 301, 313 S.W. 2d 618.
+Burglary not being an offense of the same nature as the unlawful possession of a narcotic drug, the prior conviction for that offense was not available to enhance the punishment under Art. 62 P.C.
+The indictment is insufficient to sustain a life sentence as an habitual criminal under Art. 63 P.C. without a verdict of the jury assessing such punishment.
+Appellant’s motion for rehearing is granted, the prior opinion affirming the conviction is withdrawn, and the judgment is now reversed and the cause remanded.
