@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2596"
+decided: "1902-10-22"
+citations: ["44 Tex. Crim. 211"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jeff Richardson v. The State."]
+source_url: "https://static.case.law/tex-crim/44/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4527489
+cites_cases: ["22 S. W. Rep., 141", "39 Texas Crim. Rep., 10", "39 Texas Crim. Rep., 381", "39 Texas Crim. Rep., 579", "47 S. W. Rep., 643", "57 S. W. Rep., 100", "73 Am. St. Rep., 935"]
+---
+
+# Richardson v. State
+
+## Majority (HENDERSON, Judge.)
+
+HENDERSON, Judge.
+Appellant was convicted of incest, and his punishment assessed at confinement in the penitentiary for a'term of two years.
+Appellant’s first bill of exceptions is to the action of the court permitting the county attorney in his argument to allude to the fact that appellant’s wife was presented, summoned by the State, and sworn, and defendant did not introduce her as a witness. Under the circumstances of this case, as detailed by the witnesses, if' appellant was innocent his wife would,have been a material witness for him; and it was therefore permissible for the State to comment on the fact that appellant failed to introduce her. The State could not use her as a witness against her husband, but the same rule did not apply to him, and he alone could call for her testimony and compel its production. This question has been before the court in a number of cases. See Mercer v. State, 17 Texas Crim. App., 452; Hall v. State, 22 S. W. Rep., 141; Harris v. State, 47 S. W. Rep., 643.
+Appellant objected to the introduction by the State of the confession made by him to Joe Minnick, deputy sheriff, while he was in jail, under the following circumstances: “On the evening before the alleged confession in jail, appellant was brought before the justice of the peace; the county attorney and also the deputy sheriff, Minnick, being present. The county attorney warned appellant at the time in the language of the statute, but appellant did not make any statement. He was carried back to"the jail, and there confined. On the next morning, about 8 or 9 o’clock, the deputy sheriff went to the jail, and into the runaround where the prisoners were confined. Defendant came up to the bars, and there engaged in a conversation with the deputy sheriff, but he did not at that time warn him. In that conversation defendant stated that Bessie Lynn (prosecutrix) had come to his bed oftener than he had ever gone to hers, and that she loved it more than any woman he ever saw. ‘The whole family loves it.’ ” This confession, as stated, was introduced over appellant’s objections on the ground that, no warning being given to appellant at the time, the caution on the evening before by the county attorney was not sufficient. In Barth v. State, 39 Texas Crim. Rep., 381, 73 Am. St. Rep., 935, this, question was before the court, and the authorities in this State bearing on the subject were analyzed and discussed, and the rule announced that, “in order to render a confession admissible where the party is under arrest, the warning must be in substantial compliance with the statute, and that such confession, if not made directly after the warning given, must be within such reasonable time thereafter as to indicate that the defendant yet remembered and was impressed with the warning given, and that he made the confession under the due apprehension of its legal effect, to wit, that it could be used in evidence against him.” Applying this rule to the question here presented, we hold that the same was admissible. The warning was given by the county attorney in the presence of Minnick, the same officer to whom the confession was made on the next morning. This was within a reasonable time after the warning given, and was made to an officer who was present when the warning was given. So it appears to us that appellant must have been mindful of the previous warning when he made the statement. Hamlin v. State, 39 Texas Crim. Rep., 579; White v. State (Texas Crim. App.), 57 S. W. Rep., 100.
+Appellant sought to intrqduce in evidence the acts of illicit intercourse between prosecutrix and other men than defendant, and further, that her reputation at McKinney was that of a common prostitute. In cases of rape, such testimony might be admissible as bearing on the question of consent vel non, but in incest the question of consent is immaterial. The relationship of the parties being proved, the only material question then is whether or not the parties copulated together. In this case there is no issue involved which would authorize testimony as to the general reputation of prosecutrix for chastity, nor is there any question in the case which would authorize proof of prior acts of intercourse between prosecutrix and other persons. Kilpatrick v. State, 39 Texas Crim. Rep., 10. What is said above disposes of appellant’s endeavor to impeach prosecutrix by showing her admissions of having had intercourse with other persons. Such testimony not being material, she could not be impeached thereon.
+[Appellant’s motion for rehearing was overruled without a written opinion.—Beporter.]
+The bill of exceptions in which appellant proposed to raise the question concerning the jury carrying the indictment containing the -verdict of a former jury out with them in their deliberations does not sufficiently raise the question to authorize its consideration. It is merely presented in the motion for new trial, without any accompanying facts or affidavits.
+There appearing no error in the record, the judgment is affirmed.
+A firmed.
