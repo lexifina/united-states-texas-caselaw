@@ -1,0 +1,36 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "7297"
+decided: "1923-03-28"
+citations: ["95 Tex. Crim. 398"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Earnest DeBeauford v. The State."]
+source_url: "https://static.case.law/tex-crim/95/cases/0398-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5061079
+cites_cases: ["162 S. W. Rep., 882", "73 Texas Crim. Rep., 624", "88 Texas Crim. Rep. 502", "88 Texas Crim. Rep., 241", "88 Texas Crim. Rep., 281"]
+---
+
+# DeBeauford v. State
+
+## Majority (LATTIMORE, Judge.)
+
+LATTIMORE, Judge.
+— Appellant was convicted in the District Court of Stephens County of being an accomplice to the offense of robbery, and his punishment fixed at five years in the penitentiary.
+In the development of its case upon this trial the State was permitted to bring into the court-room one of the parties claimed to have been principals in the robbery to which it was alleged appellant was an accomplice, the purpose of the State being to permit a witness then testifying to observe said principal and give testimony as to witness’ identification of him as one of the parties who held up and robbed him. It appears from the record that the witness testified that the clothes worn by said principal when brought before him in the court-room, were identical in appearance and description to those worn by one of the men who robbed him, and said witness identified said party. It seems that the objection made was based on the fact that if Wilson, the alleged principal who was thus identified, was brought into the court-room he would be dressed in clothing similar to that therefore described in the presence of the jury by said witness as being worn by one of the parties who robbed him and that in some way this was getting evidence before the jury which was inadmissible, it being urged that the jury were thus given an opportunity to not only hear the testimony of the witness but to themselves observe the clothing worn by the person thus produced for identification. We are unable to appraise the correctness of such objection. It would manifestly be permissible to bring into the presence of the jury any article, the identity of which as having been used in a given transaction, was in dispute and there permit its identification by a witness who had theretofore described it. In the absence of any objection on the part of the principal thus brought before the jury for identification, we can see no right inuring in appellant to make this objection. No authorities are cited and none are known to us holding it erroneous to thus bring before a witness a person not on trial whose right to object to being compelled to give evidence himself, was not involved, for the purpose of such identification. There are but three bills of exception in the record, two of which relate to the matter thus disposed of.
+The record presents a number of special charges which were asked and refused. There is no notation upon any of said charges of the fact of an exception being taken to the refusal, nor is the refusal of any of said charges made the subject of a separate bill of exceptions. In such case under the uniform holdings of this court, and the statute, we can‘not consider the refusal of any of said special charges. For authorities we refer to Gibson v. State, 88 Texas Crim. Rep., 281, and Castleberry v. State, 88 Texas Crim. Rep. 502. There is nothing upon the face of any of the special charges as they appear in the record from which we are apprised of the fact that same were presented to the trial court before the main charge was read to the jury. It is held necessary that this fact also appear either from the charges themselves approved by the trial court, or from a separate bill of exceptions. Lopez v. State, 73 Texas Crim. Rep., 624; Berlew v. State, 88 Texas Crim. Rep. 241.
+Appellant has a bill of exceptions complaining of the admission in evidence of an alleged confession made by him. Said confession seems to have been written upon a piece of paper upon which there was printed the form of warning made necessary by our statute. After the confession of appellant was written out upon said paper below the printed form of warning above referred to, and before it was signed, it was in testimony that said written and printed statement was read to appellant or was given to him to read and same was read over by him. The sheriff who took the statement said that to the best of his knowledge he read the statement to appellant after it was written and before appellant signed it. The officer said that he gave to appellant the warning or read the warning at the top before appellant signed the statement. He was uncertain as to whether he read the warning to appellant before he wrote down the statement. Appellant objected to the introduction of said alleged confession upon the ground that he was not warned before said statement was taken. In our opinion the objection is not based upon any sound reasoning. The statement alleged to be the confession of appellant does not become his until his signature is affixed thereto. Article'810 of our Code of Criminal Procedure, in laying down the predicate necessary for the introduction of a confession, says that • it must be the voluntary statement of the accused, made in writing and signed by him; which written statement shall show that he has been warned by the person to whom the same is made. Before the statement in question was signed by appellant, as stated above, the State’s testimony showed that the warning had been given him. We think under the facts in this case the admission of said confession was not erroneous. The record reflects a special charge asked by the State and given to the effect that if the statement of the defendant was read to him by Mr. Head, the sheriff, prior to the time he signed the same and that the warning set out in said statement was also read, and that if the jury further believed that appellant understood the same and that he was thereby making a voluntary statement of his connection, with the transaction mentioned by him in such statement, that the jury might consider same even though appellant was under arrest at the time; hut if the jury found otherwise they should not consider such statement-for any purpose whatever.
+The evidence seems amply sufficient to sustain the conviction. One of the two principals in the robbery was used as a witness -for the State on this trial and his testimony fully showed appellant’s connection with the transaction. In the robbery each principal used a pistol, and in appellant’s confession above mentioned he admitted lending to one of said principals his pistol for the purpose of being used in the hold-up.
+Finding no error in the record, an affirmance is ordered.
+Affirmed.
+
+## Rehearing (MORROW, Presiding Judge.)
+
+ON REHEARING.
+October 17, 1923.
+MORROW, Presiding Judge.
+— In his motion appellant, without argument or citation of authority, reiterates the complaints before the court in the original hearing. No reasons are suggested by appellant nor discovered by this court for a reversal of its conclusion stated in the original opinion.
+The motion is overruled.
+Overruled.
