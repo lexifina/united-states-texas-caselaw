@@ -1,0 +1,31 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,406"
+decided: "1955-02-09"
+citations: ["161 Tex. Crim. 87"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Talmadge Murphy v. State"]
+source_url: "https://static.case.law/tex-crim/161/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2465201
+---
+
+# Murphy v. State
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+The conviction is for felony theft with one prior conviction for felony theft alleged for the purpose of enhancement; the punishment, ten years in the penitentiary.
+O. A. Knight, a son of T. A. Knight, testified that he returned home about 11:30 p.m. on June 18, 1954, noticed that his father’s Buick automobile was gone, and shortly thereafter he saw it being driven from a lot near appellant’s apartment; that he followed the Buick for several blocks and that appellant was driving when it stopped; that appellant’s wife and children were in the rear seat and a man in the front seat with him; that he told appellant that the Buick belonged to his father and was stolen to which appellant replied “Well, let’s take it back where we got it,” and that he told appellant that it was a matter for the police and to go to the police station. He further testified that appellant drove the Buick away and, after going a short distance, ran almost "head-on into an automobile driven by Mrs. Artie Norris approaching from the opposite direction.
+It was shown by T. A. Knight, the owner, that he did not give appellant or any other person permission to take the Buick.
+The alleged prior conviction was properly shown.
+Appellant did not testify but offered his wife and another witness who testified that appellant was at home at the time the Buick was stolen; that Charley Miller came to appellant’s residence with the Buick, stated that it belonged to his brother, and offered to take them to Oklahoma if they would pay for the gasoline and oil to which they agreed; and that they were on the way to Oklahoma when 0. A. Knight stopped them.
+Mrs. Murphy, appellant’s wife, testified that immediately after the collision Charley Miller stated that the Buick was stolen which was the first information she had about it being stolen, and that they all ran from the scene of the collision.
+Appellant urges that the evidence is insufficient to show that the automobile was of over the value of $50.
+T. A. Knight, the owner, testified that he had been driving automobiles for 35 or 40 years and that he thought he knew their market value. He further stated that this automobile, on the auction block, would bring $100 and was worth more. This testimony was sufficiest to show that the automobile was of the value of more than fifty dollars.
+Complaint is made of Mrs. Norris being permitted to testify that her automobile was damaged in the collision.
+It was shown without objection that the collision occurred and that Mrs. Norris and a boy in her automobile received some injuries. We hold that no reversible error is shown.
+The evidence is sufficient to sustain the conviction and, no reversible error appearing, the judgment is affirmed.
+Opinion approved by the Court.
