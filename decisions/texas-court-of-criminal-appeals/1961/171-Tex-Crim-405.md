@@ -1,0 +1,27 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "34,206"
+decided: "1961-11-15"
+citations: ["171 Tex. Crim. 405"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte John Leonard Lee"]
+source_url: "https://static.case.law/tex-crim/171/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2631166
+cites_cases: ["261 S.W. 2d 596", "290 S.W. 2d 673"]
+---
+
+# Ex parte Lee
+
+## Majority (MORRISON, Judge.)
+
+MORRISON, Judge.
+This is an original application for a writ of habeas corpus brought by the relator John Leonard Lee, seeking his release from the Texas Prison System.
+Relator was on March 4, 1957, convicted upon a plea of guilty in Cause No. 21041 in the Criminal District Court of Jefferson County for the offense of felony theft, and his punishment assessed at two years. He attacks the sufficiency of that portion of the Jefferson County sentence which attempts to cumulate it with additional sentences. It reads as follows:
+“Defendant duly sentenced. And the said defendant, John Leonard Lee, having on the 26th day of February, A. D. 1957 in Harris County, Texas, been duly and legally convicted on 5 cases, and his punishment therefor having been assessed and adjudged at confinement in the penitentiary for 8 years, and he having on the 26th day of February, 1957, by said court, been sentenced in due form of law in accordance with said convictions, it is further considered, ordered and adjudged that the punishment herein adjudged against the said defendant John Leonard Lee, shall begin when the said judgments and sentences on the preceding convictions shall have ceased to operate.”
+The attempted cumulation is ineffective in that the designation of the Harris County court is absent. Ex parte Hamilton, 163 Tex. Cr. Rep. 283, 290 S.W. 2d 673; Ex parte Merritt, 159 Tex. Cr. Rep. 87, 261 S.W. 2d 596, and cases cited therein.
+We have been furnished with a certificate from the Texas Prison System showing that relator has served both sentences unless the cumulation be held effective.
+In view of the authorities heretofore cited, we hold that the relator is entitled to be discharged.
+It is so ordered.
