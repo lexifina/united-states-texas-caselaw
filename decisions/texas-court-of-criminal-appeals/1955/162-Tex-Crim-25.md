@@ -1,0 +1,46 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "27,689"
+decided: "1955-06-25"
+citations: ["162 Tex. Crim. 25"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Maggie Durham v. State"]
+source_url: "https://static.case.law/tex-crim/162/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461391
+cites_cases: ["159 Texas Cr. Rep. 1", "191 S.W. 1160", "210 S.W. 208", "233 S.W. 2d 123", "245 S.W. 911", "259 S.W. 2d 198"]
+---
+
+# Durham v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+The conviction is for the sale of heroin, a narcotic drug, to David W. McNealy who, the evidence reveals, was an undercover agent of the Federal Bureau of Narcotics.
+The jury assessed the punishment at two years in the penitentiary.
+McNealy testified that on August 16 he was informed that appellant “would purchase a quantity of heroin,” and he went to her to receive the heroin.
+He further testified: “Maggie Durham said she could get a quantity of heroin for me from a person she only referred to as Clarence, and she told me that he could be located, probably, at the El Nedo Tavern in the 3400 Block on Ennis Street here in Houston, Texas, and upon arriving at this El Nedo Tavern she got out of the official government vehicle that I was driving and went inside to look for this person known as Clarence. The defendant told me that she would go into this El Nedo Tavern and look around for this unidentified party known as Clarence, and after going inside, approximately, a minute or so later she came back outside and said that he was in there but that he had only one capsule of heroin in his possession at that time. I then asked her what the price on it would be and she said it would cost $6.00. I then gave her $6.00 of official United States Government Advance Funds, and the defendant got the $6.00 and went back inside and she was gone approximately a minute, then, she came back and gave me one capsule of alleged heroin wrapped in a piece of cellophane paper.”
+On cross-examination he testified:
+“Q. And you knew the purpose for which she was going to use that — what was it, $6.00? A. Yes, sir.
+“Q. You knew, then she was going to use the $6.00 to purchase a capsule of heroin, is that true? A. Yes, sir.
+“Q. You went with her to purchase it? A. Yes, sir.
+* * * *
+“Q. Now, do you recall the conversation, exactly, that you had with Maggie Durham on that day about the purchase of heroin ? A. Yes, sir, I do.
+“Q. Would you repeat it for the sake of the jury and this Court, please? A. Yes, sir. The defendant, Maggie Durham, that is, told me that I needn’t be cagey, that she knew that I wanted to buy heroin. She stated that she knew several persons that she could purchase this heroin from, and don’t worry about tipping off the police or anything about the transaction because she knew that I was an underworld character, and that the person she knew wouldn’t tip off because they would be afraid of incriminating themselves, and she further stated that she wtiuld take me right exactly to the place in order to purchase these narcotic drugs.
+“Q. All right, is that all the conversation you had with her? A. No, sir, it is not; then she said that she would direct us to the place in the automobile, that is, with the informer and myself.
+“Q. I didn’t hear that, state it over, please. A. She said that she would show the informer and myself the exact locations, and she would purchase the heroin, but then we got in the official government vehicle, driven by myself, without the informer, because he was afraid of being recognized with me, and he was afraid of retaliations; then I drove the defendant to the place.
+“Q. Repeat that, please. A. The informer didn’t want to be seen in my presence, sir, because he was afraid of retaliations that might be afflicted upon himself by the underworld.
+“Q. I see. Go ahead, please. A. So he got out of the vehicle after telling me why he didn’t want to go along, in confidence, then the defendant carried me to this El Nedo Tavern, and told me to wait inside the vehicle while she went in to see if this under-world character known as Clarence was there. After about five minutes, the defendant, Maggie Durham, returned and said that Clarence was there and had only one capsule of heroin left; that he had sold the rest of it the previous night, and he had questioned her as to my identity and she assured him that I was all right.
+“Q. Did you hear this ? A. That is what the defendant told me.
+“Q. I see, she was relating this to you? A. Yes, sir, she said that this Clarence wanted to be sure that she wasn’t bringing in an undercover man there, so she told him that I was just a young kid and wasn’t an under-cover agent. So she said the heroin would cost $6.00. I gave her the $6.00 of official advanced funds and she returned to the tavern; then she walked back out and handed it to me, wrapped in cellophane, and then we got in the car and proceeded on.”
+It was appellant’s theory, supported by her testimony, that she knew McNealy was an officer when he asked her to take him to a man from whom she thought he could get some heroin, and that she took his $6.00 and bought a capsule of heroin and gave it to McNealy as he requested.
+McNealy was unable to testify that appellant did not know that he was an officer, though he did not tell her and did not think that she did know. He expressed the conclusion that he purchased the capsule of heroin from her for $6.00.
+We need not discuss appellant’s contention based upon the doctrine of entrapment, for the reason that the facts testified to by the state’s witness do not show a sale by appellant.
+As we view the evidence, appellant acted as an accomodation agent of McNealy in purchasing the capsule containing heroin. She paid for the heroin with the money delivered to her by Mc-Nealy and, having purchased it at his request, delivered the capsule to him, receiving no benefit out of the transaction for herself.
+There is no evidence showing that appellant was in any way interested on behalf of “Clarence,” the man from whom she received the narcotics, unless it be in the testimony above set out.
+If an accused is in no way interested in behalf of the seller but acts only as agent of the prosecutor he is not guilty of making a sale.
+This is especially true where the agent makes the purchase for the accomodation of the prosecutor and delivers the narcotic to him without any advance in price over what he paid.
+The following authorities dealing with conviction for unlawful sale of liquor are deemed applicable. Harris v. State, 155 Texas Cr. R. 180, 233 S.W. 2d 123; Flores v. State, 159 Texas Cr. Rep. 1, 259 S.W. 2d 198; Cortinas v. State, 93 Texas Cr. R. 64, 245 S.W. 911; Chance v. State, 85 Texas Cr. R. 62, 210 S.W. 208; Hamilton v. State, 80 Texas Cr. R. 516, 191 S.W. 1160; Branch’s Ann. P.C. 713, Sec. 1248.
+The judgment is reversed and the cause remanded.
