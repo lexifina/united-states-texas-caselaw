@@ -1,0 +1,30 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "32,847"
+decided: "1961-01-18"
+citations: ["170 Tex. Crim. 432"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willie Frazier v. State"]
+source_url: "https://static.case.law/tex-crim/170/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2630827
+cites_cases: ["10 LRA NS 744", "100 S.W. 916", "123 Am St Rep 874", "157 Tex. Cr. R. 603", "192 SW2d 446", "198 SW2d 890", "252 S.W. 2d 186"]
+---
+
+# Frazier v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for robbery with firearms; the punishment, 5 years.
+The prosecuting witness, B. T. Johnson, testified that on the day in question a man whom he identified as the appellant came to his home and asked that the witness carry him to get something to drink; that after he told appellant he could not go, appellant reached in his pocket, produced a pistol and said, “If you can’t go, get me up some money;” that he gave appellant, who was exhibiting the pistol, the sum of 750 which consisted of 250 which the witness had on his person and 500 which his wife had brought from upstairs at his request. The prosecuting witness testified that appellant then left the premises and he then notified the police of the robbery. He further testified that he was forced to give the money to the appellant who, during the assault, held the pistol on him.
+The testimony of the prosecuting witness was corroborated by that of his wife and sister-in-law who were called as witnesses by the state.
+Appellant did not testify but called witnesses who testified in support of his contention that the transaction between him and the prosecuting witness was over a shirt belonging to the appellant that had been left with the prosecuting witness to be delivered to appellant.
+Appellant predicates his appeal on certain formal bills of exception.
+Bills of Exception Nos. 1, 2, and 3 present appellant’s objections to the court’s charge. Appellant objected to that portion of the charge which gave to the jury the statutory definition of the offense of robbery on the ground that such was a comment upon the evidence and an instruction by the court as to the form of sentence which the jury should impose upon appellant. The objection is without merit. It is the law in this state that in the charge the court properly states the general principles of law defining the offense charged and then makes a direct and pertinent application of the law to the case as made by the facts. Martinez v. State, 157 Tex. Cr. R. 603, 252 S.W. 2d 186. Appellant also objected to the charge for the court’s failure to define the term “fear.” The term is of such common usage and has such a well recognized meaning as not to require definition. Appellant further complains of the court’s refusal to give his requested charge which would have instructed the jury to acquit him if they found from the evidence that in the transaction the prosecuting witness paid the 75$ to appellant in satisfaction of a lawful debt owing by him to the appellant. In refusing to give the instruction, the court did not err. Such issues was not raised by the evidence. Furthermore, had the proof shown that the injured party owed the appellant 75 (i and, upon being assaulted by him, paid him the money, such would not constitute a defense to the crime. A creditor who assaults his debtor to compel him to pay a debt can be convicted of robbery in this state. In 5 Branch’s Ann. P. C. sec. 2585, page 21, it is stated: “Our law cannot and does not tolerate such strong-arm methods. Fannin v. State, 51 Crim 41, 100 S.W. 916, 10 LRA NS 744, 123 Am St Rep 874; Henderson v. State, 149 Crim 167, 192 SW2d 446; Turner v. State, 150 Crim 90, 198 SW2d 890.”
+Bills of Exception Nos. 4 and 5 present appellant’s contention that the court erred in refusing to instruct the jury to acquit him because the element of fear had not been proven and because of his arrest without a warrant three or four hours after the commission of the offense and the incidental search of his person was unlawful. The court’s refusal to instruct a verdict of not guilty does not present error. The evidence adduced is clearly sufficient to show that the injured party was put in fear of life or bodily injury. The evidence of appellant’s arrest and the finding of a pistol clip on his person which would fit a pistol found nearby, that was identified by the injured party as the firearm used in the robbery, was admitted without objection. Under the record, the fact that appellant was arrested without a warrant did not entitle him to an instructed verdict of not guilty.
+The complaint, presented by Bill of Exception No. 6, that the trial court unreasonably limited the time of appellant’s argument to the jury cannot be sustained because the record shows that he did not use all of the time alloted to him.
+Finding the evidence sufficient to sustain the conviction and no reversible error appearing, the judgment is affirmed.
+Opinion approved by the Court.
