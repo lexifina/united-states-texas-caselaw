@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1381"
+decided: "1911-11-15"
+citations: ["68 Tex. Crim. 250"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Will Clay v. State."]
+source_url: "https://static.case.law/tex-crim/68/cases/0250-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4651978
+cites_cases: ["138 S. W. Rep., 398", "30 Texas Crim. Rep., 391", "39 Texas Crim. Rep., 26", "62 Texas Crim. Rep., 530"]
+---
+
+# Clay v. State
+
+## Majority (PRENDERGAST, Judge.)
+
+PRENDERGAST, Judge.
+— The appellant was tried and convicted for violating the prohibition law, and his punishment fixed at a fine of $100 and twenty days in jail.
+The Assistant Attorney-General has made a motion to dismiss the appeal for the following reasons: “There is no complaint in the record. The recognizance is not in manner and form as required by law in that instead of obligating the appellant to appear before the court and not depart without leave thereof, it does obligate him to depart without leave of the court. There is no order overruling motion for new trial. There is no notice of n appeal, nor is there any order allowing time after adjournment to file facts and bills of exceptions. This case was tried in the County Court and the facts were not copied into the record as is required by law.”
+The record bears out all of these grounds of this motidn. Some of them might not be sufficient to dismiss the case, — such as, that there is no complaint in the record and no order overruling the motion for new trial and that the original statement of facts is sent up instead of copied in the record as required by law, — yet, as the record shows no notice of appeal, the court cannot entertain jurisdiction and the motion of the Assistant Attorney-General is therefore sustained and the cause dismissed.
+Dismissed.
+
+## Rehearing (PRENDERGAST, Judge.)
+
+REHEARING TO RE-INSTATE.
+October 16, 1912.
+PRENDERGAST, Judge.
+— On proper application and the necessary showing, the court granted a writ of certiorari herein requiring the clerk of the court below to send up a perfect transcript of the record. This was properly done. By it, all the criticisms of the previous record shown by the Assistant Attorney-General’s motion to dismiss were met and the record, as now shown before us, properly shows all that the other did not. Therefore, the order of dismissal heretofore entered herein is set aside and vacated and the cause is re-instated and now decided on its merits.
+The complaint and information charge that the appellant made a sale of intoxicating liquor to F. E. Smith in violation of the prohibition law, which was then in force in said county. The uncontroverted testimony shows that the sale was made to W. P. Allen and not to F. E. Smith. Appellant properly made and saved this point. What was said by Judge Harper in Miles v. State, 62 Texas Crim. Rep., 530, 138 S. W. Rep., 398, is specially and peculiarly applicable to this case. It has been the uniform holding of this court, in all the decisions on the question, that where a sale of intoxicating liquors is made in prohibition territory directly to a party, .even though he is the agent and purchase for another, that the sale is made to him and not to his principal. That is the state of facts shown in this case. Miles v. State, 62 Texas Crim. Rep., 530, 138 S. W., 398; Bruce v. State, 39 Texas Crim. Rep., 26; Yakel v. State, 30 Texas Crim. Rep., 391. Many other cases might be cited, but it is unnecessary.
+The judgment is therefore reversed and the cause remanded.
+Reversed and Remanded.
