@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "26,390"
+decided: "1953-04-22"
+citations: ["158 Tex. Crim. 486"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte David Paul Merritt."]
+source_url: "https://static.case.law/tex-crim/158/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2483870
+cites_cases: ["153 Tex. Cr. R. 157", "157 Texas Crim. Rep. 564", "218 S. W. 2d 202", "251 S. W. 2d 739"]
+---
+
+# Ex parte Merritt
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+On December 8, 1952, relator was convicted in the criminal district court of Harris County of the felony offense of unlawfully possessing a narcotic drug, the punishment assessed being not less than two nor more than five years’ confinement in the penitentiary.
+Relator made no effort to give notice of appeal from said conviction to this court but, rather, elected to sue out a writ of habeas corpus the following day in which he insisted that the judgment of conviction was void because he was tried without the benefit of counsel.
+We do not have here, then, a case such as that shown in Johnson v. State, 157 Texas Crim. Rep. 564, 251 S. W. 2d 739, where the appeal was to this court from the conviction. The question for our determination here is whether the judgment of conviction is absolutely void, as distinguished from merely voidable.
+We have no statute in this state that requires the appointment of counsel for one upon trial for an ordinary felony such as was the offense here involved.
+Adjudications by this court holding invalid those judgments void because of the absence of counsel at the trial stem from the holdings of the Supreme Court of the United States touching that question as being a denial of due process. See Parsons v. State, 153 Tex. Cr. R. 157, 218 S. W. 2d 202; Johnson v. State, supra. As in those cases, such adjudications rest upon what are found to be the undisputed facts of each case.
+It would serve no useful purpose to here state the facts as shown by the record before us. Suffice it to say that they are not such as would authorize our conclusion, under any decision of the Supreme Court of the United States, that the judgment here entered was void and violative of due process under the holdings of the Supreme Court of the United States.
+Accordingly, the relief prayed for by the writ of habeas corpus is denied and relator is remanded to the custody of the arresting- officer.
+Opinion approved by the court.
