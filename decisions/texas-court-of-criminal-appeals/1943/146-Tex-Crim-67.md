@@ -1,0 +1,34 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "22445"
+decided: "1943-04-28"
+citations: ["146 Tex. Crim. 67", "171 S.W.2d 351"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Grady Stern v. The State."]
+source_url: "https://static.case.law/tex-crim/146/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5296287
+---
+
+# Stern v. State
+
+## Majority (GRAVES, Judge. KRUEGER, Judge.)
+
+GRAVES, Judge.
+Appellant was convicted of the murder of his brother, 0. V. Stern, and by the jury awarded a term of five years in the penitentiary.
+The facts from the State’s standpoint show that on a Sunday afternoon the appellant and his now deceased brother were drinking rather freely of whisky, and riding about the country in appellant’s automobile. That while out on the highway they decided to turn around in the road and go back and frequent some “honky tonks” in that neighborhood. That in an effort to turn the car around appellant allowed it to slip into a muddy ditch, and was unable to extricate it therefrom. Some recriminatory words passed between the brothers and some rock throwing, eventuating in a fight in which appellant was apparently worsted. He then got up from the ground, and, making the statement “wait a minute, I will kill him now,’’ immediately went to his car and opened the glove compartment thereof and came out with a shiny sharp instrument about five or six inches long and struck twice at the deceased, who was backing away from appellant, the deceased having a rock and a screw driver in his hand. Upon the second stroke with this instrument, after-wards identified as a mattress needle, the deceased fell and expired in about two minutes. The undertaker testified that there was a small hole, probably little larger than a match, out of which embalming fluid spurted when he would pump same into the arteries, thus evidencing a heart puncture or an artery puncture near the heart.
+Appellant testified to a case of self-defense, and "that his brother was attacking him with a rock and a screw driver after having beaten appellant in their first encounter. He also gave the deceased a bad character as to being violent and dangerous, and proved for himself a good character as being peaceable and law-abiding.
+Appellant’s bills of exception Nos. 1 and 2 relate to the overruling of his requests for a peremptory instruction, which we think were' properly refused.
+Bill of exceptions No. 3 complains because the trial court refused to instruct the jury “that in passing on the guilt or innocence of the defendant you shall not take into consideration for any purpose the fact that the deceased was the brother of the defendant.” This bill is in such a confused condition, when taken in conjunction with the court’s qualification, that it is difficult to say whether or not such a requested charge was submitted to the trial court. In any event we do not think, if the same was properly presented, that such a charge should have been given. It would probably have been a charge on the weight of the evidence, as suggested by the trial court in his qualification.
+Bill of exceptions No. 4 complains of the argument of the district attorney wherein he stated: “Yes, Gentlemen, it is my duty to prosecute these cases, and I am going to prosecute hell out of them, and if I were on this jury I would put this boy in the electric chair where he belongs.” The court’s qualification shows that upon objection the court withdrew these remarks from the consideration of the jury and told them not to give any weight or consideration thereto in passing upon this case; it is also shown that such attorney then told the jury that what the attorney thought about what ought to be done about the case had nothing to do with the matter, as they were the ones who should pass upon the facts. That a portion of such remarks were not in good taste, as coming from the State, is apparent, and such unparliamentary language had best be left unsaid, but we do not think that the desire or belief of the State’s attorney herein expressed had any effect in inflaming the minds of the jury, such being evidenced by their verdict of five years! If error there was, which we do not assert, same was cured by the proceedings that followed.
+Bill of exceptions No. 5 complains of the fact that the State’s attorney, in his opening argument to the jury, related the Biblical story of Cain taking the life of his brother Abel, and merely compared this present case with that case of sacred history, and went into no further details thereof. Appellant is unfortunate in that he stood charged with taking a human life unlawfully. That such a life was that of his brother was amply proven and never denied, and was more unfortunate. Unquestionably, among civilized peoples, the Bible is read by and owned by more people than any other book; doubtless every juror in this cause had read about and knew the significance of the mark on the brow of Cain from Biblical history, learned in his childhood days, and that any further authenticity could be added thereto by such remarks, or further weight could be added to the testimony herein, is not apparent to us. That appellant was placed in the position that his victim was his brother was not added to by the recounting of a fact that bears the sanctity of the earliest date of recorded sacred history, yet nevertheless stands as a parallel to the proven facts in this cause.
+We are not in accord with the assertion that such an allusion either did inflame or was calculated to inflame the minds of the jury, especially so in the light of their verdict of five years for murder without malice.
+Bill of exceptions No. 6 is without merit and is overruled.
+Finding no error in the record, the judgment is affirmed.
+ON MOTION FOR REHEARING.
+KRUEGER, Judge.
+In his motion for rehearing, appellant reiterates his complaint relative to the argument of the District Attorney and contends that' notwithstanding the fact that the court sustained his objection thereto and instructed the jury to disregard the same, that the argument was so highly inflammatory and prejucidial that the court could not effectively withdraw the same from their minds. On the original submission of this case, we did not think that the remarks of the District Attorney, in view of the court’s action, prejudicially affected the appellant’s legal rights, and we do not think so now, because the jury assessed the appellant’s punishment at confinement in the state penitentiary for a term of only five years.
+The motion for rehearing is overruled.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
