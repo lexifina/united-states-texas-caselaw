@@ -1,0 +1,71 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,181"
+decided: "1956-03-21"
+citations: ["163 Tex. Crim. 127"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["June Ankrom v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0127-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461453
+---
+
+# Ankrom v. State
+
+## Majority (WOODLEY, Judge.)
+
+WOODLEY, Judge.
+Under an indictment alleging murder with malice, the jury found appellant guilty of murder without malice and assessed her punishment at five years in the penitentiary.
+The evidence, from the standpoint of the state, shows that the deceased, Wiley Ankrom, was the former husband of appellant who had been permitted to return to the home and had, a few days before the homicide, resumed living with appellant as her husband.
+On the afternoon of January 19, 1955, appellant went to Green Tree Tavern and was drinking beer with the deceased.
+On leaving the tavern about 4 P.M. appellant told deceased to enjoy his beer, stay until the tavern closed if he liked, and then come home.
+About 6 P.M. appellant visited the Theater Cafe and ordered a beer, which she drank, then accepted the invitation of a lady customer and drank another. The two women left the Theater Cafe about 7 P.M.
+About 8 P.M., M. J. Loy, collector for an investment company, went to appellant’s home for the purpose of collecting from the deceased a past due payment on an automobile loan. As Loy was about to open the front gate appellant, who was at the front door of her home, asked him who he was and what he wanted, and Loy having informed her that he wanted to see Mr. Ankrom, invited him in.
+As Loy started to step inside he saw a rifle in appellant’s hand, and stepped back.
+Appellant told him not to mind the gun, to come on in, and he did so and she put the gun in the corner.
+Loy asked appellant where Mr. Ankrom was, and she told him that he was supposed to have been home at 4:30 or 5:00 o’clock for supper and that when he did come home she was not going to let him in the house “and that she was going to either kill him or T will kill him; or I’m going to kill him now.’ ”
+Mr. Loy left the house before the deceased arrived, estimating the duration of his visit at from 15 to 20 minutes.
+Ben F. Hart, a San Antonio Police Officer was off duty and at his home some four or five hundred feet from appellant’s home on the night in question, watching television, when he heard a lady screaming. He drove into the driveway at appellant’s home. The adopted son of appellant and the deceased asked him to move his car because someone had been hurt, and he did so and then went into the house.
+He found a man lying on his back in the bedroom, who had been shot, and a rifle laying on the bed.
+Appellant was in the living room when Officer Hart came in and “she said that she had shot him, Yes sir, and she was screaming and carrying on * *
+“Q. Now, was she saying anything while she was screaming? A. When we first came in, no, sir, she wasn’t.
+“Q. Just screaming? A. Yes, sir, and crying.
+“Q. Crying and screaming? A. Yes, sir.
+“Q. What were the words that she said at any time that were intelligible? A. That’s all I can remember her saying is that T shot him.’
+“Q. Did you hear her say any time that ‘the gun went off, the gun went off’? A. No, sir.
+“Q. Did you hear her yelling out in the yard saying ‘The gun went off’ * * * A. No, sir.
+“Q. * * * ‘the gun went off’? A. No, sir.
+“Q. You say that didn’t happen? A. No, sir.
+“Q. You just don’t remember hearing that? A. No, I didn’t hear it.
+“Q. Didn’t she go out in the yard and then continue her screaming out there? A. Not while I was there, no, sir.
+“Q. Not while you were there? A. No.”
+When Officer Hart left the “screaming had stopped,” and as he was leaving the house Police Officer H. R. Zunker, Jr. arrived in response to a call. He fixed the time of his arrival at 8:51 P.M., the call coming over the air at 8:48 P.M.
+Appellant’s statement to Officer Zunker was: “Well she stated that they had had trouble and had words earlier and she had told him to stay away from the house and that she locked the door; and this, according to her, occurred at the front gate of the house. That she went inside and locked the door and she warned him not to come in the house and that he had entered by using his * * * he had a key in his possession to the house; he had entered by unlocking the door and she proceeded to the telephone, which is located in the bedroom to call the police; and she stated she had the rifle in her hand at this time and she had the telephone in one hand and the rifle in the other and that he charged toward her and that she fired the shot. She did not complete her call to the police.”
+Officer Zunker further testified:
+“Q. Now, was she very unnerved and excited at the time? A. Yes, sir, she was.
+“Q. Did she do any screaming while you were there? A. No, she didn’t do * * *.
+“Q. Did she cry? A. * * * any loud screaming, but she was, in my opinion, to a point of semi-hysterics; she was crying.
+“Q. She was crying? A. Crying, yes, sir.
+“Q. Now, she told you that she had told him to stay out? A. Yes, sir.
+“Q. And that he had a key to unlock the door ? A. Yes, sir.
+“Q. And that she was trying to ‘phone the police’? A. Yes, sir.
+“Q. And that he came right in there? A. Yes.
+“Q. And that the shot was fired? Did she tell you that she fired the shot or that it was fired? A. She stated that she fired the shot.”
+Mr. Ankrom appeared to be alive when the officers arrived, but made no statement. Dr. Boyd, County Health Officer, performed an autopsy and testified that the cause of death of Mr. Ankrom, the deceased, was a massive hemorrhage, the contributing cause being a bullet wound of the liver.
+There was testimony as to prior threats by appellant, some of which appellant claimed to have been jokingly made and others she denied.
+The testimony of appellant and in her behalf was to the effect that she got the 30-30 rifle out of the closet for the purpose of scaring the deceased into leaving the premises, without knowing that the rifle was loaded, and that while she was dialing the telephone in an effort to call the police, the deceased came into the house and as he rushed into the bedroom she turned to face him and the gun was accidentally discharged.
+The trial court charged the jury upon murder with and without malice, and submitted self-defense from real or apparent danger, and charged on threats, defense of habitation, and upon the law of accidental homicide.
+The jury determined the defensive issues so submitted against appellant, but found against the state on the issue of malice, and we find the evidence sufficient to sustain their verdict.
+We overrule the contention that the undisputed evidence shows a homicide justified under the law of self-defense or excused as an accident.
+Appellant’s brief complains that the court failed to instruct the jury that the defenses of accident or mistake did not impair the right of the defendant to claim self-defense.
+The court gave an unrestricted charge upon both accident or mistake and self-defense. We find no exception to the charge calling attention to the omission now complained of, and no basis for such complaint.
+It was not necessary that the court define “serious bodily injury” as used in the charge on self-defense.
+On cross-examination appellant testified that she was not acting in self-defense, and nowhere is there testimony that she fired the shot for the purpose of defending herself against serious bodily injury or death. Her claim was that the gun went off accidentally while she had it in her hand for the purpose of scaring or bluffing deceased.
+Under these facts the failure to define “serious bodily injury” as being an injury not trivial nor slight would not call for reversal.
+The court did not err in declining to instruct the jury “that despite a possible prior intent to kill the deceased, unless such intent existed at the very moment of the shooting, that the defendant would not be guilty of murder.”
+There is nothing in the record to raise the issue that appellant had the intention at the time Loy came to the house to kill the deceased but abandoned such intent before he was shot and killed within the hour.
+If the firing of the rifle was intentional and not accidental, the shooting of the deceased with a 30-30 rifle established the intent to kill at that time.
+Appellant appears to have received a fair trial and we find no reversible error.
+The judgment is affirmed.
