@@ -1,0 +1,29 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "18206"
+decided: "1936-04-22"
+citations: ["130 Tex. Crim. 250", "93 S.W.2d 727"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Otto Claus (alias Skeeter Claus) v. The State."]
+source_url: "https://static.case.law/tex-crim/130/cases/0250-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5245082
+cites_cases: ["105 Tex.Cr.R. 212", "105 Texas Crim. Rep., 212", "124 Tex.Cr.R. 44", "124 Texas Crim. Rep., 44", "287 S. W., 250", "287 S.W. 250", "60 S. W. (2d) 435", "60 S.W.(2d) 435"]
+---
+
+# Claus v. State
+
+## Majority (KRUEGER, Judge.)
+
+KRUEGER, Judge.
+The appellant was tried and convicted of the offense of unlawfully carrying a pistol, and his punishment was assessed at a fine of $250.00.
+The testimony adduced by the State shows that on a Sunday afternoon, during the month of April, A. D. 1935, the appellant interested himself in a chicken fight. He brought a rooster, belonging to Phil Marx, to the arena, entered it, and bet some money on the result of the fight. The referee called the fight a draw as both chickens died at the same time. This angered the appellant because he thought that his chicken had died last and he was entitled to the money. Appellant left the arena, went to the outside where he stood with his back to a truck, pulled a pistol, and threatened to kill any one of the s— o— b- who came within ten feet of him. He denied having a pistol and all of his witnesses testified that they did not see him with a pistol at the place. This raised an issue of fact for the jury which they determined adversely to appellant. The testimony offered by the State was sufficient to justify the jury in reaching such a conclusion.
+By bill of exception number one appellant complains of the action of the court in permitting the State to prove that the alleged offense was committed at a chicken fight in which the appellant was interested. By bill of exception number two he complains that the State was permitted to prove that appellant made a bet on one of the cocks; that a disagreement arose between Cantu, the referee of the cock fight, and appellant over the decision rendered by Cantu. The two bills are qualified by the trial court and in his qualification he states that the evidence was admitted for the purpose of showing the place where appellant carried and demonstrated a pistol; that the decision of the referee did not suit him; that he became very much dissatisfied, walked out of the arena, and drew a pistol. The bills of exception as thus qualified fail to show error. However, we think that this testimony was also admissible as tending to show an inducing cause for the demonstration and display of the pistol. It might appear unreasonable to a jury that a man without any cause or reason should deliberately display a prohibited weapon.
+Bills of exception numbers three and four are in question and answer form and without a certificate of the trial court certifying that it was necessary for them to be in such form, and therefore, cannot be considered. This court has consistently declined to consider bills of exception in question and answer form unless the same bear such a certificate. See Monday v. State, 124 Texas Crim. Rep., 44, 60 S. W. (2d) 435; Ainsworth v. State, 105 Texas Crim. Rep., 212, 287 S. W., 250.
+Bill of exception number five is insufficient in that it fails to show that the argument complained of was not a reasonable deduction from the testimony. A bill of exception should state enough of the proceedings to show error within itself, if any. The bill does not show his ground of objection. He did not claim that the argument was inflammatory, prejudicial, or hurtful; if he did not consider it so, we would not be authorized to assume it to be such.
+We do not think that the argument complained of in bill of exception number six was of such a prejudicial nature as would justify, much less require, a reversal of this case.
+By bill of exception number seven appellant complains of the action of the trial court in overruling his amended motion for a new trial based upon the alleged misconduct of the jury in the following respects: That in determining the guilt of the appellant they voted by ballot; that one of the jurors wrote on his ballot “Guilty as H-”; that some of the jurors threatened to throw one of the jurors who voted not guilty out of the window, and then lie about it like the chicken fighters, by swearing that he fell out; that the jury discussed the fact that appellant had theretofore been convicted of carrying a pistol and murder, and that he should be given a jail sentence instead of a fine. The State controverted the allegations in the motion. The court heard testimony of the jurors and at the conclusion thereof, overruled appellant’s motion. After having carefully read the testimony given at the hearing of the motion for a new trial relative to the alleged misconduct of the jury, we reached the conclusion that the trial court was justified in his ruling.
+Affirmed.
+The foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.
