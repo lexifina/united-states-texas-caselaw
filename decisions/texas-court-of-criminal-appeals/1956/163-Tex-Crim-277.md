@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "28,232"
+decided: "1956-04-25"
+citations: ["163 Tex. Crim. 277"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sterling Benson v. State"]
+source_url: "https://static.case.law/tex-crim/163/cases/0277-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461409
+cites_cases: ["159 Tex. Cr. R. 258", "262 S.W. 2d 488"]
+---
+
+# Benson v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for the unlawful possession of beer for the purpose of sale in a dry area; the punishment, a fine of $300.00
+The state’s evidence shows that Sheriff H. F. Fenton, Jr., in company with five other officers, went to the appellant’s home in the city of Coleman, Coleman County, Texas, and, with the appellant’s consent, searched the residence for intoxicating liquors. As a result of the search, the officers found 43 quarts of beer under the floor in the kitchen, 17 quarts under the floor of a closet, and 3 quarts in an ice box. The beer was taken by the officers to the sheriff’s office, put in beer cases on which the appellant’s name and certain officers’ initials were placed thereon, and placed in a vault for safe-keeping.
+At the trial, the state offered in evidence 47 quart bottles of beer, after Sheriff Fenton had identified the same as the beer taken from the appellant’s home.
+It was stipulated that Coleman County was a dry area.
+Appellant, as a witness in his own behalf, admitted possessing the beer found by the officers, but testified that he possessed it for the personal use of himself and his family, and not for the purpose of sale.
+Appellant insists that the court erred in admitting the beer in evidence over his objection that the bottles had not been, properly idenified and marked and were not sealed with any State or Federal Government Seals showing what the contents might be.
+The record reflects that, after the beer had been produced in court by Sheriff Fenton, the sheriff, upon being questioned as to its identity, testified: “All of these bottles came from Sterling Benson’s house.” The record further shows that the appellant, while testifying in his own behalf, stated that he was present when the officers were taking “this beer out.” Under the testimony, the bottles of beer introduced in evidence were sufficiently identified as the beer taken from the appellant’s residence.
+Appellant next complains of the statement made by the court: “Let’s proceed with this case here; proceed with the beer that has been identified here.” We perceive no error in the statement, in view of the appellant’s testimony that he possessed the beer seized by the officers.
+We overrule appellant’s contention that the evidence is insufficient to show that the contents of the bottles introduced in evidence was an intoxicating beverage.
+The record is replete with testimony referring to the state’s exhibit as “this beer,” “the beer,” or “that beer.” The bottles were further identified in the testimony as Falstaff Beer. Such testimony was sufficient to establish the contents of the bottles as beer and as such an intoxicating beverage. See Dixon v. State, 159 Tex. Cr. R. 258, 262 S.W. 2d 488.
+The judgment of conviction is affirmed.
+Opinion approved by the Court.
