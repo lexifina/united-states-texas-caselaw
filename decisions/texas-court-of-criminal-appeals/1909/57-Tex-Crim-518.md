@@ -1,0 +1,25 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "189"
+decided: "1909-12-22"
+citations: ["57 Tex. Crim. 518"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alex Warren v. The State."]
+source_url: "https://static.case.law/tex-crim/57/cases/0518-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2375238
+cites_cases: ["31 Texas Crim. Rep., 352", "33 Texas Crim. Rep., 431", "33 Texas Crim. Rep., 67", "36 Texas Crim. Rep., 278", "38 Texas Crim. Rep., 255", "38 Texas Crim. Rep., 261", "39 Texas Crim. Rep., 479", "50 S. W. Rep., 336", "96 S. W. Rep., 16"]
+---
+
+# Warren v. State
+
+## Majority (BROOKS, Judge.)
+
+BROOKS, Judge.
+Appellant was convicted of perjury and his punishment assessed at two years in the penitentiary.
+We will discuss the questions raised in this record in the order in which they appear in appellant’s brief.
+The first error complained of is that the court erred in admitting over appellant’s objection the transcript from the Justice Court to the County Court, which transcript showed a conviction of appellant in the Justice Court as shown by his bill of exceptions Ho. 1. The record in this case shows that appellant was indicted for perjury on account of his testimony given as a witness in his own behalf in the County Court of Smith County on about the 24th day of July, 1907, wherein he swore that he did not bet at a game played with dice and called crap in Smith County on about the 20th day of May, 1907. The prosecution for crap shooting was first filed in the Justice Court where appellant was convicted and subsequently an appeal was taken to the County Court where a new trial was had and appellant there convicted as stated. We do not think it was necessary to introduce the transcript of the Justice Court for any purpose, but it could not serve but one purpose and that is to show the County Court had jurisdiction of the case, and this could not have injured appellant, especially in the light of the verdict in this case. It might be added that it was proper to introduce the complaint, but it was not necessary to the validity of this prosecution to show the conviction of appellant. All that is necessary to show jurisdiction of the court in which appellant was charged with committing perjury is to show that that court has jurisdiction of the offense being tried or under investigation and it is not permissible or proper to introduce the judgment. See Ross v. State, 50 S. W. Rep., 336; Hutcherson v. State, 33 Texas Crim. Rep., 67; St. Clair v. State, 11 Texas Crim. App., 297; Davidson v. State, 22 Texas Crim. App., 372; Estill v. State, 38 Texas Crim. Rep., 255; Martinez v. State, 39 Texas Crim. Rep., 479.
+In the motion for a new trial we find the affidavit of three of the jurors who, in substance, swear that after a ballot was taken in the jury room upon their retirement to consider their verdict, the result showed four for acquittal and eight for conviction. Thereupon, one of the jurors argued and stated in the presence and hearing of the jury that inasmuch as the defendant had been convicted by six jurors in the Justice Court, and again convicted by six jurors in the County Court for playing at this game of craps that he thought the defendant was unquestionably guilty, and that if the defendant had not been guilty he would not have been convicted in the justice and County Court; that one Pat Torrence argued and stated in the presence and hearing of the jury while they were deliberating on their verdict that it was plain to him that defendant was guilty, because he had been convicted for playing at this game of craps in both the Justice and County Courts and referred to the verdict of the former juries. It was also stated and argued by some of the jurors that they knew all negroes shot craps, and if the defendant knew that game was being played it would have been impossible to have kept him away from it; that the juror McLendon also argued in their presence and hearing while they were considering their verdict that the night riders were convicted in Tennessee on the testimony of accomplices, and that the Humphreys were convicted in Henderson County on the testimony of witnesses who had turned State’s evidence, and he further stated that there was not one case out of ten but what was convicted on the testimony of witnesses who had turned State’s evidence. While the jurors filed separate affidavits this is the substance of same. The district attorney filed a contest to this motion denying same, but not' under oath and there are no affidavits of other jurors to he found in the record. We can not hesitate to reverse this judgment for the misconduct of the jury. It clearly appears that they did appropriate the previous convictions of appellant for crap shooting as a basis of conviction for perjury. This being true the judgment is reversed and the cause is remanded.
+Reversed and remanded.
