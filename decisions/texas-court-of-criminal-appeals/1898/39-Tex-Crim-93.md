@@ -1,0 +1,23 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "1648"
+decided: "1898-03-23"
+citations: ["39 Tex. Crim. 93"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Jack Millsap."]
+source_url: "https://static.case.law/tex-crim/39/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4489328
+cites_cases: ["38 Texas Crim. Rep., 493"]
+---
+
+# Ex parte Millsap
+
+## Majority (DAVID SOU, Judge.)
+
+DAVID SOU, Judge.
+Appellant, having been convicted of a misdemeanor, was released on a county convict bond, signed by Jehu Bindley as principal and John Bindley as the only surety. This bond was executed on Sunday, March 21, 1897. When the bond was executed, the fee of $1.50 for writing and approving the bond was paid, and $10 in cash on the fine. This $10 was not paid by the hirer. John Bindley owed defendant $72, which by agreement between himself and his principal and surety on the bond was to be paid on the fine and costs. This money was not paid. The relator did some work for his principal, which, with the $72 and $10 above referred to, was to go in full satisfaction of his fine and costs. This was the agreement entered into between the relator and the principal and surety in the convict bond. Hothing was ever paid on the bond, except the $10 above mentioned. Suit was brought upon the bond to collect the amount of said fine and costs. The parties to the bond defended upon the ground that it was executed upon Sunday. The bond was held invalid, or, rather, the proceedings were dismissed. Capias pro fine issued, relator arrested, and he resorted to the Avrit of habeas corpus to secure his discharge. Upon the trial, the court remanded the relator to custody, and this appeal is prosecuted.
+It is contended now that the bond Avas a valid one, and he, having satisfied the sureties, is entitled to his discharge, and the State must look to the bond for the collection of the fine and costs. If the bond is valid, of course, the relator Avould be entitled to be discharged. It would be no objection to the bond that it Avas executed upon Sunday. The authorities in this State seem to be conclusive of that question. The second question is, is the bond valid, there being only one surety ? We think not. This is a statutory bond, and article 3746, Revised Statutes, 1895, requires two or more good and sufficient sureties, and in order for a bond to be valid, it being a statutory bond, the terms of the statute must be complied with. See Ex Parte Medaris, 38 Texas Crim. Rep., 493. Equity will not intervene in cases of this character, nor will the fact that the parties may have adjusted their matters between them afford ground for relief. If the bond had been a valid one, the party, having served a sufficient length of time to pay off and discharge the fine and costs imposed upon him, would be entitled to immunity from arrest. Here the statute has provided the only means by which convicts can be hired out, and the terms of the law must be complied with. The county judge is the only officer authorized to take and approve ponvict bonds, and his authority is limited by the statute. Beyond the powers conferred by the statute, said county judge has no authority. All acts of the county judge independent of the statutory provisions would .be null and void, he having no.more authority to do those acts than any other citizen. The logic of this case seems to be, so far as relator is concerned, that the bond was defeated because of its invalidity, and when he was ar-rested he proposed to secure his discharge, and defeat the fine and costs, by showing a settlement between himself and the principal in his bond, whereby he paid to said principal the amount of fine and costs. Under'this state of case, the principal would secure the amount of the fine and costs, the State take nothing, and the relator be discharged. If the bond was a valid one, of course, no arrest could be made under the circumstances; but, it being void, as contended by the principal in the suit to test the validity of that bond, and as decided by the court, the relator was subject to arrest under the capias pro fine, and the fact that he may have settled with the principal in the bond does not satisfy the judgment in behalf of the State. If the judgment could be avoided by this process, then the principal in the bond and the relator could divide the profits of the transaction between themselves, and the ends of justice be defeated. The judgment is affirmed.
+Affirmed.
