@@ -1,0 +1,96 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "29,146"
+decided: "1957-10-30"
+citations: ["165 Tex. Crim. 393"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eugene Sanders Hague v. State"]
+source_url: "https://static.case.law/tex-crim/165/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2613590
+cites_cases: ["102 Texas Cr. Rep. 501", "113 Texas Cr. Rep. 347", "117 Texas Cr. Rep. 231", "125 Texas Cr. Rep. 245", "128 S.W. 2d 393", "137 Texas Cr. Rep. 206", "153 Texas Cr. Rep. 364", "163 Texas Cr. Rep. 30", "21 S.W. 2d 522", "219 S.W. 2d 1018", "270 S.W. 1025", "278 S.W. 441", "288 S.W. 2d 116", "34 S.W. 2d 890", "68 S.W. 2d 207", "99 Texas Cr. Rep. 569"]
+---
+
+# Hague v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The conviction is for murder. The punishment, 37 years in the penitentiary.
+The state’s testimony shows that on the day of the homicide, the deceased, Ernest Charles Allbrite, and his wife went to the home of appellant and his wife where drinks were mixed and consumed by them and another couple visiting in the home. While they were drinking and talking, appellant had a gun in his hand and, after something was said about leaving, appellant remarked that he would shoot anyone who didn’t want to go. Whereupon they all left in an automobile and drove to the home of Charles Tibbs. Upon entering the house appellant appeared to be mad and, while armed with the gun, threatened to kill Tibbs. After more drinks were mixed, and appellant, with the gun in his hand, had grabbed and choked the deceased’s wife, a scuffle ensued between the appellant and the deceased in the living room and between their wives in the dining room. During the scuffle two shots were fired after which the deceased was observed lying on the floor and appellant, with the gun in his hand, grabbed his wife and said, “Let’s get out of here” and the two left ofit the back door.
+The state’s attorney further shows that the appellant and his wife were apprehended approximately two and one half blocks from the scene of the killing by Officer Burris who had heard a radio report of the shooting and had observed the appellant with a gun in his hand and his wife walking fast on the street; that just before stopping them and after the officer had said to them, “Wait a minute,” the appellant put the gun behind him and his wife took it from him and it was then taken from her by the officer and upon being asked by Officer Burris what happened, appellant said, “I tried to kill all of them s.o.b’s” and appellant’s wife, when asked by the officer what had happened to her, said, “I don’t know, unless one of the bullets that Bill fired hit me.” (Bill, identified in the record as her husband, the appellant.)
+It is further shown that the gun taken from the appellant’s wife and identified as the gun possessed by the appellant was a .32 caliber revolver which contained five bullets, two of which had been fired and three misfired; that the body of the deceased contained two bullet wounds and that the cause of death was the entry of a bullet into the heart and lungs of the deceased.
+Appellant did not testify but offered his wife as a witness who testified that in the scuffle between the parties it was she and not the appellant who shot and killed the deceased.
+The court submitted the issue of appellant’s guilt to the jury upon a charge on the law of circumstantial evidence. We find no objection to the court’s charge.
+Appellant insists that in view of his wife’s judicial confession that she shot the deceased, the evidence is insufficient to support the conviction because it does not exclude the outstanding hypothesis that she fired the fatal shot.
+Under the well settled rule that testimony of members of the • accused’s family is not conclusive upon the jury, they were not bound to accept her testimony. Hawkins v. State, 99 Texas Cr. Rep. 569, 270 S.W. 1025; Zulkoski v. State, 102 Texas Cr. Rep. 501, 278 S.W. 441 and Lee v. State, 117 Texas Cr. Rep. 231, 34 S.W. 2d 890. The state’s testimony shows that immediately before his scuffle with the deceased, the appellant had a gun in his hand; that immediately after the deceased was shot in the scuffle, appellant still had possession of the gun, fled from the scene and made a statement, along with his wife, to the arresting officer, indicating that he had fired the shots. Such testimony, together with the other facts and circumstances, was sufficient to sustain the jury’s verdict finding him guilty and to exclude any other outstanding hypothesis except that of his guilt.
+Appellant insists that the court erred in overruling his motion to instruct the jury to disregard that portion of the testimony of Officer Burris relative to what was said by appellant after his arrest which motion the record reflects was overruled by the court on the ground that the testimony was admitted without objection and also that it was part of the res gestae. The record shows that appellant’s statement to the officer was made within a very short time after the shooting upon his apprehension in flight while carrying the murder weapon and within two and one half blocks from the scene. Under such facts, testimony as to appellant’s statement was admissible as a part of the res gestae. Petitte v. State, 113 Texas Cr. Rep. 347, 21 S.W. 2d 522; Franks v. State, 125 Texas Cr. Rep. 245, 68 S.W. 2d 207 and Phillips v. State, 137 Texas Cr. Rep. 206, 128 S.W. 2d 393. In Trollinger v. State, 153 Texas Cr. Rep. 364, 219 S.W. 2d 1018, relied upon by appellant, the distance from the scene of the shooting to where appellant made the statement as well as the time which had elapsed was not shown.
+In his brief and in oral argument appellant insists that fundamental error was committed by the prosecuting attorney in his cross examination of appellant’s witness Wilks relative to the truthfulness of certain matters alleged in appellant’s second motion for continuance. Appellant insists that such conduct was erroneous and prejudicial to him in that it was an effort on the part of the prosecutor to place before the jury the appellant’s reputation for truth and veracity when it had not been placed in issue and further that such conduct was an indirect reference to his failure to testify. The record shows that no objection was made by appellant to such cross examination of the witness. We find no merit in appellant’s contention that fundamental error is shown and in the absence of an objection to the matter of which complaint is made, nothing is presented for review. Young v. State, 163 Texas Cr. Rep. 30, 288 S.W. 2d 116.
+Appellant’s remaining contentions have been considered and do not reflect error.
+The judgment is affirmed.
+Opinion approved by the Court.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+dissenting.
+This is an unexplained killing; there is an entire absence of any suggestion of motive or that the killing was perpetrated with express malice. The deceased and the appellant were good friends.
+According to the state’s testimony there were no eye witnesses ; no one saw the appellant shoot the deceased. If appellant killed him it was during a drunken orgy. The state relied solely upon circumstantial evidence for a conviction. The jury was so instructed.
+The state offered in evidence appellant’s written confession, in which, among other things, appellant stated:
+“I was so drunk I don’t know what happened but I remember some shooting and I left.”
+There is not an inculpatory statement in the confession. Appellant’s statement that he did not know “what happened” tends to exculpate him of rather than connect him with the killing.
+The appellant did not testify. He offered his wife as a witness and she testified that it was she, and not her husband, who killed the deceased and that she did so in defense of her husband and herself from the joint attack of the deceased and his wife. I quote from the testimony of appellant’s wife, as follows:
+“(Q. Now, Mrs. Hague, state whether or not right at that very same time if the deceased, Mr. Allbrite, and his wife, Wanda Allbrite, didn’t have your husband on the floor beating on him?) A. Yes, sir, they had him in the floor, and was [sic] beating and kicking on him.
+“(Q. They were kicking him?) A. Yes.
+“(Q. What did you do then?) A. Well, they were kicking, and the gun was laying about that far. (indicating)
+“(Q. What did you do next?) A. When they was kicking?
+“(Q. Did you see the gun?) A. Yes, it was laying on the floor, and Charles Allbrite was trying to reach the gun, and said, T will kill you, you son of a bitch.’
+“(Q. Said what?) A. T will kill you, you son of a bitch.’
+“(Q. Who was he talking to?) A. My husband.
+“(Q. Mr. Hague here?) A. Yes.
+“(Q. What did you do then?) A. I picked the gun up. He was trying to reach it, and I picked it up.
+“(Q. What did Allbrite do then?) A. He started toward me and hit at me.
+“(Q. He started what?) A. He started, turned around at me, and I backed off when I picked the gun up. He stepped back and hit at me.
+“(Q. He swung at you?) A. Yes, he swung at me.
+“(Q. All, right, then what did he do next, Mr. Allbrite do next?) A. Well, after he hit at me?
+“(Q. Yes.) A. I stepped back a little bit farther, and he kept coming at me.
+“(Q. All, right, what did you do then?) A. I shot him.
+“(Q. You shot him?) A. I sure did.
+“(Q. How many times did you shoot him? A. I shot him twice.
+“(Q. Were you afraid of him that time?) A. Sure, when he was hitting at me and cussing and trying to kill my husband. That is all I knew to do, was shoot. (Emphasis, supplied.)
+.. “(Q. Was he moving toward you?) A. Yes, sir, he was coming toward me when I shot him.
+“(Q. At that time you shot him, where was your husband?) A. He was laying in the floor.”
+This testimony is not contradicted by any witness.
+The state’s testimony placed appellant’s wife at the shooting and in the room where it took place.
+There was testimony corroborating the wife of the appellant as to the bloody condition of her husband after the shooting.
+It is the long1 established rule that the declarations of a third party admitting his or her guilt of the crime for which the accused is on trial are admissible where the state is relying solely upon circumstantial evidence and the guilt of such party is inconsistent with the guilt of the accused and all the facts show that such third party was in position to have committed the crime. Branch’s P.C., 2nd Edition, Yol. 1, p. 153, and authorities there cited.
+The testimony of appellant’s wife comes directly within the rule stated. The admissibility of her testimony was not challenged by the state.
+It is also the rule that where there is testimony showing that some party other than the defendant committed the offense, the defendant not aiding, the court should charge the jury affirmatively that if such other person committed the offense, or if there was a reasonable doubt that he did, then the defendant must be acquitted. Branch’s 2d Edition, Vol. 1, p. 152.
+The trial court gave no such instruction, here. The appellant did not request that it be given, nor was an exception reserved to the charge for failing to include such instruction to the jury.
+It is also a rule of long standing that a conviction based upon circumstantial evidence will not be sustained if the circumstances proved do not exclude every reasonable hypothesis except the guilt of the accused, and a conviction will not be sustained if the evidence shows as strong a case against another as it does against the defendant and there is no proof that they acted together. Branch’s P.C., 2d Edition, Vol. 4, p. 363.
+These rules of law are directly applicable and controlling here.
+The state’s testimony is wholly circumstantial and shows, itself, that others, including the wife of the appellant, were in position to have killed the deceased.
+The testimony of appellant’s wife showed that she killed the deceased in her own self-defense as well as in the defense of her husband.
+No witness testified to facts contradictory of the testimony of appellant’s wife, although the evidence showed that there were others not called as witnesses who could have contradicted her testimony, had it not been true.
+Under all the facts as well as the law, appellant was entitled to have the jury affirmatively instructed to the effect that if his wife, acting alone, killed the deceased, or if they had a reasonable doubt thereof, they would acquit him. Branch’s P.C., 2d Edition, Vol. 1, page 152.
+Just why the trial court failed to so instruct the jury the record does not reflect.
+It occurs to me that the duty imposed upon trial courts to give to the jury “* * * * a written charge, distinctly setting forth the law applicable to the case * * (Art. 658, Vernon’s C.C.P.) would have required such a charge to be given.
+It must be remembered that the burden cast upon the accused to except to the charge and request an instruction to the jury does not relieve the trial court of the duty to charge the law applicable to the case.
+The statutory requirement for filing exceptions and objections to the charge is in the nature of an estoppel and prevents an erroneous charge from constituting reversible error when the error is not called to the trial court’s attention before the charge is read to the jury.
+The charge in this case is patently erroneous in failing to apply to the law the facts showing1 the guilt of another.
+The failure of the trial court to so instruct the jury does not appear, however, to have injured the appellant; to the contrary, it may have inured to his benefit. This could account for appellant’s failure to request that the issue of guilt of another be submitted and for his failure to object when it was not done.
+When the trial court did not instruct upon that issue, then the jury were not called upon nor did they have an opportunity to pass upon that issue.
+The jury’s verdict, then, was not a finding that the wife of the appellant did not kill the deceased, as she testified she did.
+As the jury was not permitted to pass upon that issue, the rule stated and relied upon in the majority opinion to the effect that the jury was not bound to accept the testimony of the wife of the accused is not applicable here.
+The cases cited as supporting that conclusion of my brethren go no further than to hold that a jury is not required to accept the testimony of an interested witness. Obviously, that rule has no application where the jury is not called upon to determine whether the testimony of the interested witness is to be accepted or rejected.
+But whether the testimony of appellant’s wife was or was not to be held conclusive is immaterial, for her testimony was sufficient to present an outstanding hypothesis of the guilt of another.
+Under the law applicable here, when that testimony, with all the necessary attendant circumstances, showed the guilt of another, the burden was cast upon the state to disprove that fact. The state made no attempt to discharge that burden.
+Appellant appears well within his right to rely for a reversal of this conviction upon the insufficiency of the state’s testimony to authorize the conviction.
+It has been the long-continued and unbroken holding of this court that a conviction based upon circumstantial evidence will not be sustained if the circumstances proved do not exclude every other reasonable hypothesis except defendant’s guilt. In that connection, it has also been said that an outstanding hypothesis of guilt of another exists — as has hereinbefore been pointed out —where the evidence shows as strong a case against another as it does against the defendant. Branch’s P.C., 2d Edition, Yol. 4 (supra).
+Such are rules of law which are binding upon this court and which this court ought to apply, without fear, favor, or equivocation, when shown to be applicable.
+The facts bring this case clearly within the rules stated. If those rules of law are to be enforced and are to remain inviolate, this case must be reversed. If this appellant is to be condemned to penal servitude in open disregard of established rules of law, an affirmance of this conviction is proper, because that is the exact condition under which he was convicted.
+When the law speaks, it must be obeyed if we are to remain a free people; if the law is not to be obeyed, then we are no longer governed by law and we no longer exist as a free people.
+The law says that this appellant has not been shown to be guilty of the offense charged. Such being true, I cannot agree to the affirmance of this conviction.
+I respectfully dissent.
