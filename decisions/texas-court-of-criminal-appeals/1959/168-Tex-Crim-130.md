@@ -1,0 +1,73 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "30,524"
+decided: "1959-03-25"
+citations: ["168 Tex. Crim. 130"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Virginia Marie Strom and Doyle Duane Mathis."]
+source_url: "https://static.case.law/tex-crim/168/cases/0130-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2623282
+cites_cases: ["158 Texas Cr. Rep. 52", "160 Texas Cr. Rep. 457", "162 Texas Cr. Rep. 128", "164 Texas Cr. Rep. 652", "252 S.W. 2d 935", "272 S.W. 2d 353", "283 S.W. 2d 69", "302 S.W. 2d 417", "326 P. 2d 183"]
+---
+
+# Ex parte Strom
+
+## Majority (BELCHER, Judge.)
+
+BELCHER, Judge.
+This is an extradition case. The Governor of this state issued his executive-warrant based upon the requisition and supporting papers of the Governor of the State of California, authorizing the arrest, delivery and return of appellants to the State of California to answer a charge of robbery.
+Appellants sought their discharge by writ of - habeas corpus filed in Criminal District Court of Dallas County, Texas. After a hearing appellants were remanded to the sheriff of Dallas County for delivery to the agents of the State-of California, and from said order they gave notice of appeal.
+The Governor’s warrant was .introduced.in. evidence on the hearing and it recites sufficient facts necessary to the validity of its issuance; and such warrant when introduced in evidence becomes and. is prima facie evidence -that the accused is a fugitive from justice and is subject to be extradited. Art. 1008a, Sec. 7, Vernon’s Ann. C.C.P.; Delgado v. State, 158 Texas Cr. Rep. 52, 252 S.W. 2d 935; Ex parte Strongson, 160 Texas Cr. Rep. 457, 272 S.W. 2d 353.
+It is insisted that the evidence on the hearing on the writ of habeas corpus shows that there was not a proper authentication by the Governor • of. California of the complaint and supporting papers because they were not transmitted with the demand in a single document connected by ribbon and seal, hence the certification in -the . demand did not comply with the law.
+The original demand and the complaint and supporting papers as transmitted to the Governor of Texas are not shown in the record and there is no testimony showing the manner of their transmittal with reference to each other.
+The statute does not provide for the manner in which such documents should be authenticated.
+There is no showing of any errors among such documents that could have affected the rights of the appellants.- Therefore no error is shown.
+Appellants contend that the issuance of the Governor’s warrant was not authorized because the complaint (affidavit) charging them with the crime of robbery and accompanying the demand- for extradition was not made before-a magistrate as required by Sec. 3 of Art. 1008a, Vernon’s Ann. C.C.P.
+The record shows that the complaint (affidavit) charging the offense of robbery accompanying the demand was made before Francis M. Estudillo, and that he was at the time of the making and issuance of said complaint, the duly elected, qualified and acting judge of the Municipal Court, Riverside Judicial District, County of Riverside, State of California, and that he was acting in such capacity at the time of the execution of said complaint and was authorized under the laws of the State of California to administer oaths, take affidavits and issue complaints and warrants of arrest, which are the duties of a magistrate as prescribed by Art. 34, Vernon’s Ann. C.C.P. A warrant of arrest based upon said complaint was issued for the appellant and a copy thereof accompanies the demand.
+The record furnishes a sufficient basis to authorize the conclusion that the complaint was made before a magistrate within the meaning and intent of the Texas and Federal statutes. Arts. 33 and 1008a, Sec. 3, Vernon’s Ann. C.C.P., and Title 18, Sec. 3182, U.S.C.A.
+Appellants insist that the Governor’s warrant is fatally defective because it directs the arrest of two persons for extradition in a single warrant.
+No authority is cited in support of appellants’ position. We know of none. No reason appears for the invalidation of the warrant.
+Finding no reversible error the judgment is affirmed.
+Opinion approved by the Court.
+
+## Rehearing (DICE, Judge.)
+
+ON MOTION FOR REHEARING
+DICE, Judge.
+Appellants, in their motion for rehearing, for the first time insist that the complaint (affidavit) accompanying the demand of the Governor of California which was introduced in evidence by the state was insufficient to substantially charge them with a crime under the laws of that state as required by Sec. 3, Art. 1008a, V.A.C.C.P., Uniform Criminal Extradition Act.
+The complaint, after naming the appellants, charged:
+“That the crime of violation of Section 211 of the Penal Code (Robbery) a felony has been committed by the above named defendants as follows: That said defendants in the County of Riverside, State of California, on or about April 12, 1958 did wilfully and unlawfully rob SAFEWAY STORES, INC., located at 9185 Magnolia Avenue, in Arlington, California, of lawful money of the United States * *
+Included within the papers accompanying the demand is a copy of Sec. 211 of the California Penal Code which provides:
+“Robbery is the felonious taking of personal property in the possession of another, from his person or immediate presence, and against his will, accomplished by means of force or fear.”
+Appellants insist that the allegations of the complaint are insufficient to charge the offense of robbery either under the California Statute or under the Texas Statute, Art. 1408, V.A. P.C., and not being substantially charged with the crime, they should be discharged.
+In Ex Parte Gore, 162 Texas Cr. Rep. 128, 283 S.W. 2d 69, this court in passing upon a contention that the indictment accompanying the demand was insufficient cited the rule stated in 35 C.J.S., Extradition, par. 14, as follows:
+“ ‘Unless the indictment or affidavit is clearly void, its validity will be left to the courts of the demanding state. The asylum state is not concerned with the sufficiency of the indictment or affidavit as a criminal pleading; the question of its sufficiency for that purpose will be left to the demanding state.’ ”
+In Ex Parte Gesek, 164 Texas Cr. Rep. 652, 302 S.W. 2d 417, the rule was again quoted in holding that the affidavit in the case substantially charged the appellant with a felony in the demanding state.
+We hold that the complaint substantially charges appellants with the crime of robbery in the State of California and that the question of its sufficiency as a criminal pleading is one to be determined by the courts of that state.
+Appellants’ motion for rehearing is overruled.
+Opinion approved by the Court.
+
+## Dissent (DAVIDSON, Judge,)
+
+DAVIDSON, Judge,
+(dissenting).
+Under the statute law of this state, Sec. 3, Art. 1008a, Vernon’s C.C.P., the Governor of this state can grant a-request for and issue his warrant of extradition only when the demand' is accompanied by a copy of the indictment, . information, or affidavit made before a magistrate which substantially charges the person sought to be extradited “with having committed a crime under the law of that [demanding] state.”
+The relators — appellants, here — are not under indictment nor are. they proceeded against by information supported by affidavit.
+The extradition is sought upon a complaint filed against appellants in the State of California. A warrant of arrest, was issued thereon.
+Here is the charging part of that complaint:
+“C. A. Cooper being duly sworn says: That the crime of violation of Section 211 of the Penal Code (robbery) a felony has been committed by the above named defendants as follows;
+“That said defendants * * * did wilfully and unlawfully rob SAFEWAY STORES, INC., located at 9185 Magnolia Avenue, in Arlington, California, of lawful money of the United States.”
+Such complaint - fails to charge the appellants with having committed a crime under the laws of the State of California, because the crime of robbery can not be effected or committed against a corporation, which in this case was alleged to have been committed against “Safeway Stores, Inc.”
+The ■ law of the State of California' under Sec. 211 of the Penal Code of that state, which the appellants are charged with violating, is set out in the application of the district attorney to the Governor of the State of California, and reads as follows:
+“Sec. 211. ‘Robbery is the felonious taking of personal property in. the possession of another, from his person or immediate presence, and against his will, accomplished by means of force or fear.’ ”
+It is apparent that from that statute an assault is an essential element of the crime of robbery in that-state. Such is the construction placed thereon as late as 1958, in the case of People v. Blue, Cal. App., 326 P. 2d 183.
+A corporation is not a person. A corporation, as such, can not be subject to an assault or putting in fear. It necessarily follows, therefore, that a corporation can not be subject to robbery. • ■ , . .
+An agent, servant, or employee who is in possession of the property of the corporation may be assaulted and robbed of personal property of the corporation, but in such cases the robbery is of the person having possession of the property.
+In this state, robbery' can be committed only by assault upon or violence to or putting in fear the person robbed.
+There appears no material difference in the offense of robbery in this state and the State of California.
+A corporation not being the subject of or within the statute denouncing the crime of robbery in the State of California, the complaint so charging failed to substantially charge a crime in that state. • •
+The judgment remanding appellants to the custody of the arresting officer for extradition should be reversed and the appellants discharged.
+I dissent.
