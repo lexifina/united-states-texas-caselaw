@@ -1,0 +1,32 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "185"
+decided: "1893-06-03"
+citations: ["32 Tex. Crim. 259"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pedro Rodriquez v. The State."]
+source_url: "https://static.case.law/tex-crim/32/cases/0259-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4471261
+cites_cases: ["1 Black, 209", "28 Minn., 216", "3 Hun, 487", "50 Ala., 91"]
+---
+
+# Rodriquez v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Appellant was convicted of murder in the first degree, and his punishment assessed at confinement in the penitentiary for life.
+1. The court did not err in admitting in evidence the map or plat of the town in which the homicide occurred. The diagram was made by the county surveyor, and shown by him to be a correct map of the town. This was proper and legitimate, not only for the purpose of explaining the testimony of the witness and rendering it more intelligible than it would otherwise have been, but also for the purpose of enabling the jury to better understand and apply the evidence with reference to the various localities spoken of by the witnesses. The State v. Lawler, 28 Minn., 216, 218; Shook v. Pate, 50 Ala., 91, 92; Curtis v. Ayrault, 3 Hun, 487; Johnston v. Jones, 1 Black, 209; Thomp. on Trials, sec. 870.
+2. About thirty minutes before the deceased was shot, defendant, with his hat pulled down over his face, approached and touched his codefendant, Molina, whereupon they walked off together in the direction of the store house of deceased, near which he was shot and killed. This evidence was properly admitted.
+3. The witness Vails was permitted, over defendant’s objection, to state that deceased left a crowd of young ladies shortly before the homicide, and went in the direction of the store, remarking as he did so, that he was going to his store. Upon reaching his store, he lighted a lamp, and after remaining a few minutes, started on his return to the plaza. While deceased was in the store, defendant and Molina were' standing on the opposite side of the street in close conversation. About the time he left the store, defendant and Molina changed their position, and within about fifty steps of the store deceased was shot. The evidence was admissible; but if his remark to the young ladies was inadmissible, we fail to see how, under the facts, it could have injured the defendant.
+4. Nor was it error to permit the State to prove by Gongora, that Molina was on the plaza at a roulette table, and left it about an hour prior to the homicide. It was shown that he was on the plaza shortly after-wards, and that while there, the defendant approached him and they left together in the direction of the deceased’s store and the place where the killing occurred. The witness testified, that “ The deceased was on the plaza about ten minutes before he was killed. Molina was at my roulette table when deceased left the plaza. When Molina was first at my table that night, he played about three-quarters of an hour, and then went away. A short while afterwards he came back, and then played about ten minutes and left again, and about ten minutes later I heard the shot. I did not see Molina go off with any one, but I was busy watching the game.”
+5. On the morning subsequent to the homicide, Benavides, a deputy sheriff, visited the scene of the homicide, cut the bullet from the body of the deceased, went to Molina’s residence, found a carbine hid between the mattresses on his bed, and on the trial of this case the gun and bullet were identified and exhibited to the jury. This was objected to, because defendant was not seen in possession of the gun, and because the evidence was calculated to mislead the jury.
+The State’s theory, that defendant and Molina acted together, and were the parties who did the killing, was sufficiently proved to authorize the admission of this evidence. If they did the killing, it was immaterial which had or kept the gun, or in whose possession it was afterwards found. Nor was it error to exhibit the gun and bullet to the jury. Hart v. The State, 15 Texas Cr. App., 202; King v. The State, 13 Texas Cr. App., 277; Jackson v. The State, 28 Texas Cr. App., 370; Levy v. The State, 28 Texas Cr. App., 203; Bryant v. The State, 18 Texas Cr. App., 107.
+6. The court caused the clerk to make entry on the minutes, that certain deputy sheriffs were sworn as required by the Revised Statutes, article 3056, and subsequently, over objection of defendant, amended the order so as to show, in addition to being sworn, that they were duly instructed in regard to their duties in summoning jurors. If it be necessary to make entry of such proceedings, then it is certainly within the power of the court to correct the record in accordance with the facts. It is not denied that the officers were properly sworn and instructed in accordance with the statute.
+7. On the 10th of January the special venire was ordered in the case, and was so noted on the court’s docket, but the clerk omitted to make entry of such order upon the minutes. This omission was not called to the court’s attention until subsequent to the defendant’s conviction, at which time the court caused the proper order to be entered nunc pro tunc. The objections urged were, that the order was not made in the mode, manner, and time required by law. In support of these objections, we are referred to the Steagald case, 22 Texas Criminal Appeals, 464. This case has been expressly overruled by the late case of Williams v. The State, 29 Texas Criminal Appeals, 90, in which it was said, that “the correct rule on appeal is, that where the record is silent as to such order, where no objection was taken in limine that such order was not made, where the record shows that a jury was empanelled under a special venire, it will be presumed that such order as the law prescribed was made and entered, or that it was waived by defendant.” In so far as the question here raised is concerned, we are clearly of opinion, that the court had ample authority to make the minutes speak the truth, and to cause the entry of the order nunc pro tunc, as was done. The court made the order for the special venire, and at the proper time.
+8. The charge fairly and fully presented the law of the case. The conviction is supported by the evidence, and the judgment is affirmed.
+Affirmed.
+Judges all present and concurring.
