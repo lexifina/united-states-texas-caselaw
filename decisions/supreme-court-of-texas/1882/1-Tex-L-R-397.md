@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Texas"
+decided: "1882-09"
+citations: ["1 Tex. L. R. 397"]
+reporter: "tex-l-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. J. NEWMAN v. B. F. & M. R. DODSON et al."]
+source_url: "https://static.case.law/tex-l-r/1/cases/0397-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1207738
+---
+
+# Newman v. Dodson
+
+## Majority (Bonner, J.)
+
+Bonner, J.
+Opinion by Precedence was given to this case because it pertained to the administration of an estate. It involves, the construction of the second and fifth clauses of the last will and. testament of Mary Ann Shrimpf. The second clause of the will reads as follows:
+“ All the property that I may have and possess, be the same real., personal or mixed, or have in expectancy, at the time of my death. I hereby give and bequeath to my daughter, Mary Rebecca Shrimpf,, to haVe and to hold and to use, unto her, the said Mary Rebecca, Shrimpf, for'her sole use and benefit so long as she lives, and at her death I give and bequeath said property to her child orchil dren, if any she may have, to have and to hold forever. But in the event that my said daughter dies without leaving surviving^ her a child or children, or dies before she becomes twenty-one years old, then I give and bequeath my entire estate of every description., either in possession or in expectancy, to my brother T. J. Newman., to have and to hold forever for his sole use and benefit.”
+It is claimed by appellant, Newman, that as the daughter, Mary Rebecca Shrimpf, died before she arrived at the age of twenty-one "years, although she left a child surviving, that the contingency had "happened which entitled him to hold the property thereafter for lis own sole use and benefit.
+It is too plain for argument that this claim on the part of appellant is without legal foundation, to say nothing of its. merits in a moral point of view.
+The fifth clause of the will gave to appellant, Newman, the possession, management and control of the property until the daughter, Mary Rebecca, should have arrived-at the age of twenty-one years, ■and that he apply the rents and profits thereof, or so much as he might deem sufficient, to her support and maintenance, and to the ■payments of the debts of the estate.
+Appellant contends that although the daughter married and died leaving issue, he is, nevertheless, entitled to the property until the "time when the daughter would have arrived at this age.
+This position is also untenable. It was the evident intention of the testatrix to give to appellant, as her representative, this power ■during the minority of the daughter, but not longer. Under our •statute, her disability ceased with her marriage, and with it ceased ■ the power given to appellant. Beside, at the death of the daughter the property vested absolutely into h er surviving child, and as appellant set up in himself an adverse claim thereto, he ceased to be ■a proper party to control it for the benefit of the child, and particularly as he had not given bond and security.
+Judgment affirmed.
