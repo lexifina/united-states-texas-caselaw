@@ -1,0 +1,28 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "31,714"
+decided: "1960-03-30"
+citations: ["169 Tex. Crim. 459"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Roger Gurley v. State"]
+source_url: "https://static.case.law/tex-crim/169/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12145525
+cites_cases: ["158 Tex. Cr. R. 141", "163 Tex. Cr. R. 381", "253 S. W. 2d 668", "292 S. W. 2d 108"]
+---
+
+# Gurley v. State
+
+## Majority (DICE, Judge.)
+
+DICE, Judge.
+The offense is assault with intent to rape; the punishment, 50 years.
+The state’s testimony shows that on the night in question, the prosecutrix, then fifteen years of age, went to a theater in the city of Houston in company with her girl friend. When they arrived the appellant, whom they both knew, was in the theater lobby drinking gin from a paper cup. Appellant gave the cup to the prosecutrix and after she had consumed the contents, she became ill. Thereupon, appellant and the girl friend took the prosecutrix to the girl friend’s home and put her on a bed in the back bedroom. The prosecutrix testified that she remembered them placing her on the bed and being fully dressed at that time; that she next remembered the appellant coming in the room and her telling him to get out; that appellant then sat down on the bed and began hitting her in the face with his fists and pulling at her clothes; that she lost consciousness and next remembered waking up in bed and discovering that her face was bloody and that she was undressed; that she got up and found her panties on the bed which she put on and after she tried to go to the kitchen to wash her face she sat down on another bed and did not remember anything until the next morning. The prosecutrix testified that when she woke up her face and jaws were swollen and that her stomach and private parts were sore. She testified that the next morning she told her girl friend and mother what had happened and also reported the occurrence to her father after he had come for her and carried her to her home. Certain articles of clothing, including a slip and brassiere which were found behind a door in the bedroom, were identified by the prosecutrix as articles of clothing which she was wearing on the night in question. It was shown that the prosecutrix was not the wife of the appellant.
+The testimony further shows that the prosecutrix was examined by a doctor which examination revealed that she had a fractured jaw and certain injuries to her private organs. The doctor testified that he found a considerable amount of swelling of the female organs, that the hymen was torn and that there were several little tears, particularly in the lower portion. He further stated that his examination disclosed that there had been some stretching of the female organs which could have been done with fingers and that from his examination he could not say that the prosecutrix was raped on the night in question.
+Appellant, testifying as a witness in his own behalf, admitted assaulting the prosecutrix on the night in question and also admitted that he had sexual intercourse with her against her will. Appellant testified that on such occasion he was intoxicated, and in support of his application for a suspended sentence testified that he had never been convicted of a felony.
+We find the evidence sufficient to support the conviction.
+Appellant’s sole contention on appeal is that state’s counsel committed reversible error in his closing argument to the jury when, referring to the appellant and certain testimony given by him, he stated “The defendant told you he was married in January and that he now has a six weeks old child. You can assume from that that he has defiled some other girl.” Appellant’s objection to the argument was by the court overruled. Under the record the argument complained of did not constitute reversible error. Coker v. State, 158 Tex. Cr. R. 141, 253 S. W. 2d 668 and Miller v. State, 163 Tex. Cr. R. 381, 292 S. W. 2d 108.
+The judgment is affirmed.
+Opinion approved by the Court.
