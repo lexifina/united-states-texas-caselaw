@@ -1,0 +1,26 @@
+---
+court: "Texas Court of Criminal Appeals"
+docket: "2637"
+decided: "1902-10-29"
+citations: ["44 Tex. Crim. 230"]
+reporter: "tex-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Galloway v. The State."]
+source_url: "https://static.case.law/tex-crim/44/cases/0230-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4524977
+cites_cases: ["20 S. W. Rep., 395", "33 Texas Crim. Rep., 635"]
+---
+
+# Galloway v. State
+
+## Majority (BROOKS, Judge.)
+
+BROOKS, Judge.
+Appellant was convicted of murder in the second degree, and his punishment assessed at confinement in the State penitentiary for a term of seven years.
+We find no bill of exceptions in the record, except that contained in the statement of facts. However, this bill can not be considered, because the statement of facts was filed after the adjournment of the term of the court, the law providing that bills of exception must be filed during term time.
+Appellant insists that the court erred in giving the following charge on the law of circumstantial evidence: “The rule of law in such cases is that, in order that a jury may be warranted in finding a defendant guilty on circumstantial evidence, all the facts and circumstances necessary to establish the conclusion of guilt must be proved beyond reasonable doubt, all such facts and circumstances must be consistent with each other and with the conclusion sought to be established, which is that the person on trial committed the crime as charged. All such facts and circumstances must be inconsistent with any reasonable theory of the innocence of the defendant, and such facts and circumstances, taken all together, must be of such conclusive and satisfactory nature as to produce in the minds of the jurors a reasonable and moral certainty that the person on trial, and not some other person, committed the offense charged.” Appellant objects to the charge on the idea that the court, where it says “all such facts and circumstances” should have used the word “each;” that is, that “each fact and circumstance must be inconsistent with any reasonable theory,” etc. This objection is not well taken. If all the facts are consistent with the guilt of defendant, then each of the said facts necessarily must be consistent with the guilt of defendant. We have heretofore held that no particular form of charge on circumstantial evidence is required. However, we insist that it is better always to follow the approved forms, thereby avoiding any controversy as to the accuracy of the charge. But if the idea conveyed by the charge is correct, and correctly expresses the propositions of law, we will necessarily hold it sufficient, whether or not it follows the approved forms. Chitister v. State, 33 Texas Crim. Rep., 635; Lopez v. State (Texas Crim. App.), 20 S. W. Rep., 395. In the latter clause of the charge we find this language: “It is not permitted to jurors to receive any evidence or consider any facts in the case except as shown in, or deducible from, the testimony of the witnesses." This, taken in connection with the above quoted charge, certainly is all that appellant could insist upon.
+Appellant further insists that the court should have instructed the jury that if appellant was an accomplice, and not present at the time of the commission of the offense, to find him not guilty. We find no evidence authorizing such a charge. The only thing that appellant cites as a predicate for such charge is his statement to the officer, wherein he stated that he had been treated badly by said officer; that the officer had the wrong man arrested; and that, if he had come to appellant immediately after his arrest, he would'have told the officer something that would have done him good. We see nothing in this statement indicating that appellant was not present at the time of the commission of the crime but the bare declaration that he had nothing to do with it at all. Certainly it would not authorize the charge on the law of accomplices. However, the court did charge the jury as follows: “If-you have a reasonable doubt as to whether deceased was shot by some person other then defendant, you will find him not guilty.” This would cover any possible assistance of appellant as to this matter.
+The facts show that appellant was the rear brakeman on a southbound Houston & Texas Central train, and that he took a pistol and went to a box car, where deceased was riding as a tramp, and shot deceased in the head, from which wound he died. The fact of the shooting was testified to by two or three witnesses, who late in the evening were near the track as the train passed. The identity of appellant, as being the person who did the killing, is conclusively shown by circumstantial evidence, and the body of deceased was identified by his brother. It is true there is some controversy in the record on the part of appellant as to these facts, but the State’s evidence is clear, establishing it as stated above. We take it that the jury were amply authorized in believing the State’s theory of the case, and that the evidence was of that conclusive character warranting them in so finding. The evidence being sufficient, and no error appearing in the record, the judgment is affirmed.
+Affirmed.
